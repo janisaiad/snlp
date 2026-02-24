@@ -10,7 +10,7 @@ dependencies = [
     "jupytext>=1.18.1",
     "matplotlib>=3.9.3",
     "numba>=0.61.0",
-    "numpy>=1.24.0,<2.0.0",
+    "numpy>=1.24.0",
     "pandas>=2.3.3",
     "pytest>=8.3.5",
     "ruff>=0.8.2",
@@ -18,8 +18,11 @@ dependencies = [
     "tach>=0.16.3",
 ]
 
-
-
+[project.optional-dependencies]
+# espnet from PyPI (no s2st on published pkg). For clone + s3prl: uv add -e /path/to/espnet
+espnet = [
+    "espnet",
+]
 
 [build-system]
 requires = ["setuptools>=61.0"]
@@ -33,3 +36,7 @@ packages = ["snlp"] # same, smth like ["Model1", "Model2"]
 
 [tool.setuptools.package-data]
 "*" = ["*.py", "*.pyi", "*.c", "*.h", "*.cpp", "*.hpp"]
+
+[tool.uv]
+# force sentencepiece wheel so espnet's deps don't pull 0.1.97 (source build fails)
+override-dependencies = ["sentencepiece>=0.2.0"]
