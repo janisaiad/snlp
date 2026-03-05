@@ -13,6 +13,7 @@ fi
 
 export OMP_NUM_THREADS=1
 export PYTHONIOENCODING=UTF-8
+export PYTHONUNBUFFERED=1
 export NCCL_SOCKET_IFNAME="^lo,docker,virbr,vmnet,vboxnet"
 
 . local/path.sh

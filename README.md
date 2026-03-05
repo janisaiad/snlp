@@ -73,10 +73,14 @@ To install dependencies using uv manually, follow these steps:
 
 ## Launch
 
-`launch.sh` is the project bootstrap script. On Unix/macOS, make it executable once with `chmod +x launch.sh`, then run `./launch.sh` to create the virtual environment, install the project in editable mode, and run the test suite.
+`launch.sh` is the project bootstrap script: it creates the virtual environment, installs the project in editable mode, and runs the test suite. On Unix/macOS you must make it executable once, then run it:
+
+- **`chmod +x launch.sh`** — mark the script as executable (only needed once per clone).
+- **`./launch.sh`** — run it; it will use `pip` (or `pip3` on some systems) to set up the venv and install this package so you can import it and run tests.
+
+If your system only has `pip3` or you use Python 3 explicitly, edit the first line of `launch.sh` and replace `pip` with `pip3`. If tests fail with an import error, open `tests/test_env.py` and set the project folder name (the importable package name you are developing) to match your project.
 
 ## Warning
 
-If you're using macOS or Python 3, replace `pip` with `pip3` in line 1 of ```launch.sh```
-
-Replace with your project folder name (which means the name of the library you are deving) in :```tests/test_env.py: ```
+- **macOS / Python 3:** The script may call `pip` by default. If that fails or points to Python 2, replace `pip` with `pip3` in the first line of `launch.sh`.
+- **Test env:** In `tests/test_env.py`, replace the project folder name with the actual name of the library you are developing (the package you `import` in Python).

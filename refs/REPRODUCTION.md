@@ -19,6 +19,26 @@ From the **snlp repo root** (clone then run; no sox or sclite required):
 
 Scoring uses a built-in sclite-compatible CER/WER script when system sclite is not installed.
 
+### Monitor live (training progress)
+
+Training logs go to a file, so the main terminal may not stream updates. To watch progress in real time:
+
+1. **Second terminal** – from the **asr1** dir (`models/espnet/egs2/ml_superb/asr1`):
+   ```bash
+   tail -f exp/asr_train_asr_fbank_single_eng1_10min/train.log
+   ```
+   (Replace the `exp/...` path with your `asr_tag` if you changed config or lang.)
+
+2. **Unbuffered Python** – `path.sh` sets `PYTHONUNBUFFERED=1` so log updates appear as they are written when you `tail -f`.
+
+3. **Single terminal** – run the pipeline in the background and follow the log:
+   ```bash
+   cd models/espnet/egs2/ml_superb/asr1
+   . ./path.sh && . ./cmd.sh && . ./db.sh
+   ./run_one_lang.sh --single_lang eng1 --duration 10min &
+   tail -f exp/asr_train_asr_fbank_single_eng1_10min/train.log
+   ```
+
 ## 1. Environment
 
 From the **snlp repo root**:
