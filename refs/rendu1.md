@@ -85,3 +85,18 @@ tivity and language models during speech processing. arXiv preprint arXiv:2512.0
 
 4. **Document and hand off**
    - Note exact commands, data paths, and CER in a short report or table. Once this is stable, Vadim can plug in layer-wise analysis and Bruny can use the same pipeline; JEPA integration (S3PRL upstream or custom frontend) and ABX come next after reproduction.
+
+---
+
+### What’s done now (update)
+
+- **Benchmark environment:** Done. Pipeline runs (path.sh, run_one_lang.sh, one-liner `./scripts/run_ml_superb_baseline.sh`), scoring without sclite, uv-only.
+- **Data setup:** Done for eng1 (download script, extract, `data/ml_superb/mls/eng/` with transcripts + wav). Full 8th release gives more languages.
+- **One baseline run:** Done — **FBANK** baseline (10 min eng1, 30 epochs, CER/WER in `exp/.../RESULTS.md`). Not SSL yet.
+
+### What’s remaining
+
+1. **Reproduction (SSL):** Run **HuBERT** (or wav2vec) with frozen backbone + CTC on 10 min for at least eng1 (e.g. `train_asr_s3prl_10min.yaml`). Then 2–3 languages (eng1, fra1, deu1), 10 min (and optionally 1 h); record CER and compare to ML-SUPERB (2023) tables.
+2. **Document:** Short report or table with commands, data paths, and CER per language/model for Vadim and Bruny.
+3. **JEPA integration:** Add Audio-JEPA to the pipeline (S3PRL upstream or custom frontend), same protocol (frozen + CTC, 10 min/1 h).
+4. **ABX + ASR comparison:** Compare JEPA vs HuBERT (ABX discrimination + ASR CER) after 2 and 3.
