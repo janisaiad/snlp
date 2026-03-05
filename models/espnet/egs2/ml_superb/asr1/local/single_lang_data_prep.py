@@ -202,3 +202,15 @@ if __name__ == "__main__":
     for lang in langs_info.keys():
         dataset = " ".join(langs_info[lang])
         print(f"{lang} {len(langs_info[lang])} {dataset}")
+    if len(langs_info) == 0:
+        dataset = LANG_TO_SELECTED_DATASET.get(args.lang, "?")
+        lang_code = args.lang[:3]
+        expected = os.path.join(args.source, dataset, lang_code)
+        raise SystemExit(
+            "No data found. For --lang {} expect directory:\n  {}\n"
+            "with transcript_10min_train.txt, transcript_10min_dev.txt, "
+            "transcript_10min_test.txt and wav/<utt_id>.wav\n"
+            "Set MLSUPERB to the unzipped ML-SUPERB root or run scripts/download_mlsuperb_data.sh".format(
+                args.lang, os.path.abspath(expected)
+            )
+        )

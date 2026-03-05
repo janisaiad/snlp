@@ -41,9 +41,11 @@ uv add --editable ./models/espnet
   export MLSUPERB=/path/to/unzipped/ml_superb
   ```
 
+- **Expected layout (e.g. for default eng1):**  
+  `$MLSUPERB/mls/eng/` must exist and contain `transcript_10min_train.txt`, `transcript_10min_dev.txt`, `transcript_10min_test.txt`, and `wav/<utt_id>.wav`. If you see "0 languages processed" or "no utterances remained", the data dir is missing or empty on that machine.
 - **Download:**  
   - Run: `./scripts/download_mlsuperb_data.sh`  
-  - Or manually: download ML-SUPERB 8th from [Huggingface](https://huggingface.co/datasets/ftshijt/mlsuperb_8th) or [Google Drive](https://drive.google.com/file/d/1vQ5NksmGl-lY7I4mlU4Kde3EhrEYGii2/view), then extract so that `$MLSUPERB` contains dataset folders (e.g. `mls`, `voxforge`, `commonvoice`) with per-language subdirs and files: `transcript_10min_train.txt`, `transcript_10min_dev.txt`, `transcript_10min_test.txt`, `wav/<utt_id>.wav`.
+  - Or manually: download ML-SUPERB 8th from [Huggingface](https://huggingface.co/datasets/ftshijt/mlsuperb_8th) or [Google Drive](https://drive.google.com/file/d/1vQ5NksmGl-lY7I4mlU4Kde3EhrEYGii2/view), then extract so that `$MLSUPERB` contains dataset folders (e.g. `mls`, `voxforge`, `commonvoice`) with per-language subdirs and the transcript + wav files above.
 
 ## 3. Run one (lang, duration)
 
