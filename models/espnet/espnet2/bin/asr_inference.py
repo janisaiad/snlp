@@ -3,7 +3,10 @@ import argparse
 import copy
 import logging
 import sys
-from distutils.version import LooseVersion
+try:
+    from distutils.version import LooseVersion
+except ImportError:
+    from packaging.version import Version as LooseVersion  # Python 3.12+
 from itertools import groupby
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Sequence, Tuple, Union
