@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# drop-in for sclite: run Python CER scoring when sclite is not installed
+_script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+exec python3 "${_script_dir}/../score_cer_sclite.py" "$@"

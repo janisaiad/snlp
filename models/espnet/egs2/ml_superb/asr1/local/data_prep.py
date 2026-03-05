@@ -285,14 +285,10 @@ if __name__ == "__main__":
                     )
                     continue
 
-                train_wavscp.write(
-                    "{} sox {} -c 1 -t wavpcm -|\n".format(
-                        utt_id,
-                        os.path.join(
-                            args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
-                        ),
-                    )
+                wav_path = os.path.join(
+                    args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
                 )
+                train_wavscp.write("{} {}\n".format(utt_id, os.path.abspath(wav_path)))
                 if args.only_lid:
                     train_text.write("{} [{}]\n".format(utt_id, lang))
                 else:
@@ -330,14 +326,10 @@ if __name__ == "__main__":
                     )
                     continue
 
-                dev_wavscp.write(
-                    "{} sox {} -c 1 -t wavpcm -|\n".format(
-                        utt_id,
-                        os.path.join(
-                            args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
-                        ),
-                    )
+                wav_path = os.path.join(
+                    args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
                 )
+                dev_wavscp.write("{} {}\n".format(utt_id, os.path.abspath(wav_path)))
                 if args.only_lid:
                     dev_text.write("{} [{}]\n".format(utt_id, lang))
                 else:
@@ -361,14 +353,10 @@ if __name__ == "__main__":
                 if len(line) < 3:
                     continue  # a fix for seventh version
                 utt_id, _, text = line
-                test_wavscp.write(
-                    "{} sox {} -c 1 -t wavpcm -|\n".format(
-                        utt_id,
-                        os.path.join(
-                            args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
-                        ),
-                    )
+                wav_path = os.path.join(
+                    args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
                 )
+                test_wavscp.write("{} {}\n".format(utt_id, os.path.abspath(wav_path)))
                 if args.only_lid:
                     test_text.write("{} [{}]\n".format(utt_id, lang))
                 else:

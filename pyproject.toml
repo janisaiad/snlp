@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "accelerate>=1.11.0",
+    "espnet",
     "jupyter>=1.1.1",
     "jupytext>=1.18.1",
     "matplotlib>=3.9.3",
@@ -40,3 +41,11 @@ packages = ["snlp"] # same, smth like ["Model1", "Model2"]
 [tool.uv]
 # force sentencepiece wheel so espnet's deps don't pull 0.1.97 (source build fails)
 override-dependencies = ["sentencepiece>=0.2.0"]
+
+[tool.uv.workspace]
+members = [
+    "models/espnet",
+]
+
+[tool.uv.sources]
+espnet = { workspace = true, editable = true }

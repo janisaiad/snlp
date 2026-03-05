@@ -145,18 +145,10 @@ if __name__ == "__main__":
                 for line in train_transcript.readlines():
                     line = line.strip().split(maxsplit=2)
                     utt_id, _, text = line
-                    train_wavscp.write(
-                        "{} sox {} -c 1 -t wavpcm -|\n".format(
-                            utt_id,
-                            os.path.join(
-                                args.source,
-                                dataset,
-                                lang,
-                                "wav",
-                                "{}.wav".format(utt_id),
-                            ),
-                        )
+                    wav_path = os.path.join(
+                        args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
                     )
+                    train_wavscp.write("{} {}\n".format(utt_id, os.path.abspath(wav_path)))
                     train_text.write("{} {}\n".format(utt_id, process_text(text)))
                     train_utt2spk.write("{} {}\n".format(utt_id, utt_id))
                 train_transcript.close()
@@ -172,18 +164,10 @@ if __name__ == "__main__":
                 for line in dev_transcript.readlines():
                     line = line.strip().split(maxsplit=2)
                     utt_id, _, text = line
-                    dev_wavscp.write(
-                        "{} sox {} -c 1 -t wavpcm -|\n".format(
-                            utt_id,
-                            os.path.join(
-                                args.source,
-                                dataset,
-                                lang,
-                                "wav",
-                                "{}.wav".format(utt_id),
-                            ),
-                        )
+                    wav_path = os.path.join(
+                        args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
                     )
+                    dev_wavscp.write("{} {}\n".format(utt_id, os.path.abspath(wav_path)))
                     dev_text.write("{} {}\n".format(utt_id, process_text(text)))
                     dev_utt2spk.write("{} {}\n".format(utt_id, utt_id))
                 dev_transcript.close()
@@ -197,14 +181,10 @@ if __name__ == "__main__":
             for line in test_transcript.readlines():
                 line = line.strip().split(maxsplit=2)
                 utt_id, _, text = line
-                test_wavscp.write(
-                    "{} sox {} -c 1 -t wavpcm -|\n".format(
-                        utt_id,
-                        os.path.join(
-                            args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
-                        ),
-                    )
+                wav_path = os.path.join(
+                    args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
                 )
+                test_wavscp.write("{} {}\n".format(utt_id, os.path.abspath(wav_path)))
                 test_text.write("{} {}\n".format(utt_id, process_text(text)))
                 test_utt2spk.write("{} {}\n".format(utt_id, utt_id))
             test_transcript.close()
