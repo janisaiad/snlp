@@ -14,9 +14,17 @@ cd "${DATA_DIR}"
 
 # Option 1: try Huggingface Hub (dataset may be zipped or in repo form)
 if command -v huggingface-cli &>/dev/null; then
-  echo "Trying: huggingface-cli download ftshijt/mlsuperb_8th --repo-type dataset --local-dir ."
-  if huggingface-cli download ftshijt/mlsuperb_8th --repo-type dataset --local-dir . 2>/dev/null; then
-    echo "Download finished. If you see a folder layout with dataset names (e.g. mls, voxforge) and lang subdirs, you are done."
+  echo "Download start: $(date -Iseconds 2>/dev/null || date)"
+  _start=$(date +%s 2>/dev/null || true)
+  echo "Running: huggingface-cli download ftshijt/mlsuperb_8th --repo-type dataset --local-dir ."
+  if huggingface-cli download ftshijt/mlsuperb_8th --repo-type dataset --local-dir .; then
+    _end=$(date +%s 2>/dev/null || true)
+    echo "Download finished: $(date -Iseconds 2>/dev/null || date)"
+    if [ -n "${_start:-}" ] && [ -n "${_end:-}" ]; then
+      _elapsed=$((_end - _start))
+      echo "Elapsed time: ${_elapsed} s ($((${_elapsed} / 60))m $((${_elapsed} % 60))s)"
+    fi
+    echo "If you see a folder layout with dataset names (e.g. mls, voxforge) and lang subdirs, you are done."
     echo "Then run from models/espnet/egs2/ml_superb/asr1: ./run_one_lang.sh --single_lang eng1 --duration 10min"
     exit 0
   fi
