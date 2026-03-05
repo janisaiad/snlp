@@ -42,3 +42,10 @@ data/*
 *.gz
 *.npy
 *.npz
+
+# exception: ML-SUPERB model tarball (tracked with Git LFS)
+!data/
+!data/ml_superb/
+!data/ml_superb/mls/
+!data/ml_superb/mls/eng/
+!data/ml_superb/mls/eng/asr_eng1_10min_model.tar.gz
