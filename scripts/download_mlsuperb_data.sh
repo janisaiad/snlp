@@ -12,7 +12,7 @@ echo "ML-SUPERB data directory: ${DATA_DIR}"
 mkdir -p "${DATA_DIR}"
 cd "${DATA_DIR}"
 
-# Option 1: try Huggingface Hub (dataset may be zipped or in repo form)
+# Option 1: try Huggingface Hub (repo has eighth_version.zip; we download then extract)
 if command -v huggingface-cli &>/dev/null; then
   echo "Download start: $(date -Iseconds 2>/dev/null || date)"
   _start=$(date +%s 2>/dev/null || true)
@@ -24,8 +24,34 @@ if command -v huggingface-cli &>/dev/null; then
       _elapsed=$((_end - _start))
       echo "Elapsed time: ${_elapsed} s ($((${_elapsed} / 60))m $((${_elapsed} % 60))s)"
     fi
-    echo "If you see a folder layout with dataset names (e.g. mls, voxforge) and lang subdirs, you are done."
-    echo "Then run from models/espnet/egs2/ml_superb/asr1: ./run_one_lang.sh --single_lang eng1 --duration 10min"
+    # HF repo is just eighth_version.zip (30GB); recipe needs $MLSUPERB/mls/eng/ etc.
+    if [ -f "eighth_version.zip" ] && [ ! -d "mls" ]; then
+      echo "Extracting eighth_version.zip (this may take a few minutes)..."
+      unzip -o -q eighth_version.zip
+      # zip may extract to a top-level dir that contains mls/ (e.g. eighth_version/mls or just mls)
+      if [ -d "mls" ]; then
+        echo "Extract done. Data layout: mls/ present."
+      else
+        _sub=$(find . -maxdepth 1 -type d -name "eighth_version" 2>/dev/null | head -1)
+        [ -z "${_sub}" ] && _sub=$(find . -maxdepth 1 -type d ! -name "." 2>/dev/null | head -1)
+        if [ -n "${_sub}" ] && [ -d "${_sub}/mls" ]; then
+          echo "Moving ${_sub}/* into ${DATA_DIR} so mls/ is under MLSUPERB..."
+          mv "${_sub}"/* . 2>/dev/null || true
+          rmdir "${_sub}" 2>/dev/null || true
+        fi
+      fi
+      if [ ! -d "mls" ]; then
+        echo "Contents after unzip:"
+        ls -la
+        echo "If a subdir here contains mls/, set MLSUPERB to that path, e.g.:"
+        echo "  export MLSUPERB=${DATA_DIR}/<subdir>"
+      fi
+    fi
+    if [ -d "mls" ]; then
+      echo "Data ready. Run: ./scripts/run_ml_superb_baseline.sh"
+      exit 0
+    fi
+    echo "If mls/ is present above, run: ./scripts/run_ml_superb_baseline.sh"
     exit 0
   fi
 fi

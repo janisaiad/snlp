@@ -144,6 +144,8 @@ if __name__ == "__main__":
                 )
                 for line in train_transcript.readlines():
                     line = line.strip().split(maxsplit=2)
+                    if len(line) < 3:
+                        continue
                     utt_id, _, text = line
                     wav_path = os.path.join(
                         args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
@@ -163,6 +165,8 @@ if __name__ == "__main__":
                 )
                 for line in dev_transcript.readlines():
                     line = line.strip().split(maxsplit=2)
+                    if len(line) < 3:
+                        continue
                     utt_id, _, text = line
                     wav_path = os.path.join(
                         args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
@@ -180,6 +184,8 @@ if __name__ == "__main__":
             )
             for line in test_transcript.readlines():
                 line = line.strip().split(maxsplit=2)
+                if len(line) < 3:
+                    continue
                 utt_id, _, text = line
                 wav_path = os.path.join(
                     args.source, dataset, lang, "wav", "{}.wav".format(utt_id)
