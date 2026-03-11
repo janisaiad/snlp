@@ -19,6 +19,7 @@ single_lang=eng1
 duration=10min
 asr_config=conf/tuning/train_asr_fbank_single.yaml
 inference_config=conf/decode_asr.yaml
+asr_args=
 
 . utils/parse_options.sh || exit 1
 
@@ -36,6 +37,9 @@ fi
 local_data_opts="--duration ${duration} --lid false --multilingual false --single_lang ${single_lang}"
 
 echo "Running ML-SUPERB mono: lang=${single_lang} duration=${duration} asr_config=${asr_config} (stage ${stage}..${stop_stage})"
+
+_extra=()
+[ -n "${asr_args}" ] && _extra+=(--asr_args "${asr_args}")
 
 ./asr.sh \
   --ngpu 1 \
@@ -59,6 +63,7 @@ echo "Running ML-SUPERB mono: lang=${single_lang} duration=${duration} asr_confi
   --asr_tag "${asr_tag}" \
   --expdir ${expdir} \
   --asr_stats_dir ${expdir}/asr_stats_${single_lang}_${duration} \
-  --local_score_opts "false false monolingual"
+  --local_score_opts "false false monolingual" \
+  "${_extra[@]}"
 
 echo "Done. Check ${expdir}/${asr_tag}/ and decode logs for CER."

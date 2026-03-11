@@ -86,22 +86,57 @@ From **`models/espnet/egs2/ml_superb/asr1`**:
 
 Results go to `exp/<asr_tag>/` and decode logs; CER is in the scoring output.
 
-## 4. Incremental reproduction plan
+## 4. SSL experiments (HuBERT frozen + CTC) — one script
+
+**Debug run:** Use `--debug` for a quick pipeline check (1 epoch, 2 iters). Full training: run without `--debug`.
+
+From the **snlp repo root**, one script runs data prep + SSL training + decode for multiple languages and durations (project requirement: *pretrained SSL, freeze parameters, CTC, 10 min / 1 h*):
+
+```bash
+# Default: eng1, 10min only (quick validation)
+./scripts/run_ml_superb_ssl_experiments.sh
+
+# Multiple languages and 10min + 1h
+./scripts/run_ml_superb_ssl_experiments.sh --langs "eng1 fra1 deu1" --durations "10min 1h"
+
+# Data already prepared: only train + decode
+./scripts/run_ml_superb_ssl_experiments.sh --skip-data --langs "eng1 fra1 deu1" --durations "10min 1h"
+
+# Preview without running
+./scripts/run_ml_superb_ssl_experiments.sh --dry-run --langs "eng1 fra1" --durations "10min 1h"
+```
+
+- Uses `conf/tuning/train_asr_s3prl_10min.yaml` and `train_asr_s3prl_1h.yaml`: **freeze_param: [frontend.upstream]**, **ctc_weight: 1.0**, upstream **hubert_large_ll60k**.
+- Experiments go to `models/espnet/egs2/ml_superb/asr1/exp/<asr_tag>/` (e.g. `exp/train_asr_s3prl_10min_eng1_10min/`). Watch: `tail -f exp/<asr_tag>/train.log`.
+- Optional: `--no-sync` to skip `uv sync` and `uv add --editable ./models/espnet`.
+
+### SSL env (Python 3.12+, torchaudio 2.10)
+
+`pyproject.toml` pins `setuptools>=69,<82` and optional deps `soxr`, `tensorboard`. If you hit S3PRL import errors after a fresh `uv sync`, apply these patches under `.venv/lib/python3.*/site-packages/s3prl/` (or re-use a venv where they were applied):
+
+1. **`upstream/byol_s/byol_a/common.py`** – wrap `torchaudio.set_audio_backend("sox_io")` in `if hasattr(torchaudio, "set_audio_backend"): ...` (removed in torchaudio 2.1+).
+2. **`upstream/roberta/roberta_model.py`** – use `field(default_factory=...)` for any dataclass field whose default is a mutable type (e.g. `encoder`, `decoder`, `quant_noise`).
+3. **`upstream/mos_prediction/expert.py`** – `from torchaudio.sox_effects import apply_effects_tensor` in a try/except, set to `None` on ImportError.
+
+## 5. Incremental reproduction plan
 
 1. **One language, 10 min, FBANK:**  
    `./run_one_lang.sh --single_lang eng1 --duration 10min`  
    Compare CER to ML-SUPERB (2023) paper.
 
 2. **Same with HuBERT (SSL):**  
-   `./run_one_lang.sh --single_lang eng1 --duration 10min --asr_config conf/tuning/train_asr_s3prl_10min.yaml`
+   `./run_one_lang.sh --single_lang eng1 --duration 10min --asr_config conf/tuning/train_asr_s3prl_10min.yaml`  
+   Or use `./scripts/run_ml_superb_ssl_experiments.sh` (default = eng1 10min).
 
-3. **Add 2–3 more languages:** e.g. `fra1`, `deu1` with 10 min (and optionally 1 h) each.
+3. **Add 2–3 more languages:**  
+   `./scripts/run_ml_superb_ssl_experiments.sh --langs "eng1 fra1 deu1" --durations "10min 1h"`
 
 4. **Document** commands and CER in a short table for Vadim/Bruny and for the report.
 
 ## Files touched for this setup
 
-- `scripts/run_ml_superb_baseline.sh` — one-liner entrypoint (sync + run from repo root).
+- `scripts/run_ml_superb_ssl_experiments.sh` — SSL (HuBERT frozen + CTC) experiments: data prep + train + decode for multiple langs/durations; run from repo root.
+- `scripts/run_ml_superb_baseline.sh` — one-liner entrypoint (sync + run from repo root), if present.
 - `models/espnet/egs2/ml_superb/asr1/db.sh` — sets `MLSUPERB` (default: `data/ml_superb`).
 - `models/espnet/egs2/ml_superb/asr1/path.sh` — real file so `MAIN_ROOT` points to espnet root; adds `local/bin` for sclite wrapper.
 - `models/espnet/egs2/ml_superb/asr1/local/path.sh` — activates snlp `.venv` and sets `PYTHONPATH` to `models/espnet`.

@@ -60,3 +60,23 @@ Optional: `--no-sync`, `--single_lang fra1`, `--asr_config conf/tuning/train_asr
 ## Summary
 
 - **Train + decode + score:** Full pipeline runs with uv and local espnet; no sox/sclite required; wav.scp uses direct paths; scoring uses Python CER drop-in.
+
+---
+
+## Progress evaluation (percentage of project advancements)
+
+Reference: project goal = ML-SUPERB procedure with **pretrained SSL (HuBERT/wav2vec), frozen backbone, CTC, 10 min / 1 h** (supervisor + rendu1). Janis track also includes JEPA integration and ABX vs ASR comparison.
+
+| Component | Weight | Status | Notes |
+|-----------|--------|--------|--------|
+| Literature and design | 20% | Done | idea.md, ML-SUPERB procedure, JEPA rationale |
+| Benchmark environment | 15% | Done | Pipeline runs; this report proves minimal run (train → decode → score) and documents resources |
+| Data setup (10 min / 1 h) | 15% | Partial | eng1 10 min ready; multi-lang and 1 h optional |
+| Reproduction (SSL) | 25% | Not done | This run is **FBANK** (tiny), not HuBERT/wav2vec frozen + CTC |
+| JEPA integration | 15% | Not done | — |
+| ABX + ASR comparison | 10% | Not done | Depends on SSL reproduction and JEPA |
+
+**Overall: ~35–40%.**
+
+- **What this report adds:** A minimal, reproducible run (~73 s, ~2 GB RAM) that validates the full pipeline and scoring; no change to the SSL/reproduction gap.
+- **Next step to raise the percentage:** Run SSL (HuBERT frozen + CTC) with `train_asr_s3prl_10min.yaml` for at least eng1 10 min (e.g. `./scripts/run_ml_superb_ssl_experiments.sh`), then document CER. That would move “Reproduction (SSL)” from 0% to a large fraction and overall to ~55–65%.
