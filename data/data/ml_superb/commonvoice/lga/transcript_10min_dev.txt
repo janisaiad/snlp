@@ -1,0 +1,108 @@
+cv_lga_000583 common_voice_lg_28169012.mp3 Suula omuggo oyonoone omwana.
+cv_lga_000584 common_voice_lg_28169033.mp3 Omukungu w'ebyobulamu yannyonyodde nti beetegefu okulwanyisa akawuka.
+cv_lga_000585 common_voice_lg_28169036.mp3 Ako ke kawangamannyo.
+cv_lga_000586 common_voice_lg_28169040.mp3 Omusajja omukadde yattibwa ku lwokubiri ekiro.
+cv_lga_000587 common_voice_lg_28169055.mp3 Abapoliisi abakuba abantu babulijjo balina okutwalibwa mu mbuga z'amateeka.
+cv_lga_000588 common_voice_lg_25415064.mp3 Lwaki kizibu nnyo abantu abamu okusonyiwa abalala?
+cv_lga_000589 common_voice_lg_25415065.mp3 Nasalawo okwesonyiwa bye yayogera obubi.
+cv_lga_000590 common_voice_lg_25415066.mp3 Ebintu ebikozesebwa mu kulima bya buseere nnyo eri abalimi.
+cv_lga_000591 common_voice_lg_25415067.mp3 Era kijja kutaasa obudde n'ensimbi.
+cv_lga_000592 common_voice_lg_25415068.mp3 Essomero lyaggalwa.
+cv_lga_000593 common_voice_lg_25415172.mp3 Amaka gwe musingi gw'ekitundu.
+cv_lga_000594 common_voice_lg_25415173.mp3 Yakola nnyo okusanyusa mukyala we.
+cv_lga_000595 common_voice_lg_25415174.mp3 Taata wange ali mu magye.
+cv_lga_000596 common_voice_lg_25415178.mp3 Abakyala bayanjuddwa eri obukugu obw'enjawulo.
+cv_lga_000597 common_voice_lg_25415400.mp3 Kasooli atera nnyo okubeera ku katale.
+cv_lga_000598 common_voice_lg_25415405.mp3 Olutuula lwa kkooti olusembayo lwa kubaayo leero.
+cv_lga_000599 common_voice_lg_28159880.mp3 Ani Minista w'ebyokwerinda?
+cv_lga_000600 common_voice_lg_28159881.mp3 Empuliziganya eno yeyambisibwa abantu abasobola okuwandiika n'okusoma.
+cv_lga_000601 common_voice_lg_28159882.mp3 Ebintu by'abantu bingi byayonoonekedde mu muliro.
+cv_lga_000602 common_voice_lg_28159883.mp3 Olutalo lw’Ebirumbirumbi lwatandikira Buddo.
+cv_lga_000603 common_voice_lg_28159884.mp3 Ebintu omusaabaze kw’alinnya ebigere nga baabikola mu lugabire.
+cv_lga_000604 common_voice_lg_28159890.mp3 Nokolayo ennyiriri eziraga olwatu nti okunoonyereza tekukoma.
+cv_lga_000605 common_voice_lg_28159891.mp3 Kino kiva mu kutuuyana okuva mu nkwawa, wamu n'ebitundu ebirala eby'ekusifu.
+cv_lga_000606 common_voice_lg_28159892.mp3 Omulamuzi Yitesi yeewuunyizza lwaki oludda oluwaabi lulemeddwa okuleeta abavunaaanibwa ne Ssekikubo, ekintu ekisibye omusango.
+cv_lga_000607 common_voice_lg_28159893.mp3 Kasaasaana nga katambula okuva ku muntu akalina ne kakwata omulala.
+cv_lga_000608 common_voice_lg_28159894.mp3 Obudde obwobwerende bwe buliwa bwe budde obwemboneka y’omwezi.
+cv_lga_000609 common_voice_lg_28159907.mp3 Ekikolwa eky'okunoga enva endiirwa kiyitibwa kitya?
+cv_lga_000610 common_voice_lg_24456267.mp3 Abaana b'ennaku zino engeri gye basomamu ekwewuunyisa bakwata nnyo.
+cv_lga_000611 common_voice_lg_24456269.mp3 Nga nkwagala nnyo ki ky'otalaba?
+cv_lga_000612 common_voice_lg_24456270.mp3 Wafunye ssente mmeka eggulo?
+cv_lga_000613 common_voice_lg_24456282.mp3 Nguliraayo ensawo enzirugavu.
+cv_lga_000614 common_voice_lg_24456283.mp3 Olw'okuba nayagala nnyo okulunda embuzi nasaba kitange ettaka we mba nnundira.
+cv_lga_000615 common_voice_lg_24456284.mp3 Mmalirizza okufumba emmere naye sirina nva.
+cv_lga_000616 common_voice_lg_24456285.mp3 Essomo lya Kannanvuga w'olulimi Oluganda lye lyasinganga okunnyumira.
+cv_lga_000617 common_voice_lg_24456287.mp3 Ennaku zino kiba kirungi omuntu n'asiiba ewaka.
+cv_lga_000618 common_voice_lg_24456288.mp3 Nakuloose ekiro nga tutudde wali wansi w'omuti gw'omuyembe.
+cv_lga_000619 common_voice_lg_24456289.mp3 Tuteekeddwa okuba nga tuvudde mu kifo kino mu ddakiika kkumi eziddako.
+cv_lga_000620 common_voice_lg_24456290.mp3 Omusajja omwavu tayagalika bannange atama.
+cv_lga_000621 common_voice_lg_24232193.mp3 Nze nnalina ekirooto okuva nga nkyali muto era kye ngoberera na guno gwaka.
+cv_lga_000622 common_voice_lg_24232197.mp3 Abakozi ennaku zino tebalabika.
+cv_lga_000623 common_voice_lg_24232201.mp3 Abantu abasosolwa bo oba bawulira batya?
+cv_lga_000624 common_voice_lg_24232243.mp3 Neebaza abantu bonna abambeereddewo mu kaseera akazibu ak'okufa kw'abazadde bange.
+cv_lga_000625 common_voice_lg_24232245.mp3 Olowooza lwaki maama atwagala nnyo?
+cv_lga_000626 common_voice_lg_24232246.mp3 Omutwe gw'ekiwalaata gusaana okuteekebwako enkoofiira buli lunaku.
+cv_lga_000627 common_voice_lg_24232247.mp3 Nazzeeyo eka nga nfunyeemu ssenyiga ne ndowooza nti nnina akawuka ka Corona.
+cv_lga_000628 common_voice_lg_24232378.mp3 Abaana bange baagala nnyo okuzannyira mu nkuba.
+cv_lga_000629 common_voice_lg_24232438.mp3 Obwenzi gwe gumu ku mize egyantama.
+cv_lga_000630 common_voice_lg_24232439.mp3 Ennyonyi ettiisa nnyo mu kusituka ne mu kugwa.
+cv_lga_000631 common_voice_lg_24232442.mp3 Baako ky'oyogera ku kulima ebitooke.
+cv_lga_000632 common_voice_lg_24232443.mp3 Ekirevu ky'omusajja oyo kizise naye tayagala kukisalako.
+cv_lga_000633 common_voice_lg_25801173.mp3 Uganda ekungaanya ensimbi nnyingi okuva mu by'obulambuzi buli mwaka.
+cv_lga_000634 common_voice_lg_25801175.mp3 Omu ku bakulembeze b'oku ntiko b'omu ggwanga lino ava ku kyalo kyaffe.
+cv_lga_000635 common_voice_lg_25801176.mp3 Nnasikira ettaka lya taata wange.
+cv_lga_000636 common_voice_lg_25801177.mp3 Obubaka obuli mu ku kkaanya bwa kyama nyo.
+cv_lga_000637 common_voice_lg_25801275.mp3 Amalwaliro amalala gaazimbibwa okusobozesa okufuna amangu obujjanjabi.
+cv_lga_000638 common_voice_lg_25801278.mp3 Obuuma obuyamba ba kiggala okuwulira bukoze ebyewunyo eri ba kiggala.
+cv_lga_000639 common_voice_lg_25801279.mp3 Tulina okwegendereza okwewala okusaasaana kw'endwadde.
+cv_lga_000640 common_voice_lg_25801280.mp3 Abayizi baasomesebwa ku byobuwangwa.
+cv_lga_000641 common_voice_lg_27011845.mp3 Obukuubagano ku nsalo bukosa abantu mu bitundu.
+cv_lga_000642 common_voice_lg_27011846.mp3 Tewali bujulizi bulaga nti yazza omusango.
+cv_lga_000643 common_voice_lg_27011847.mp3 Okuwulirwa kwa kooti kwa nkya nga amalya g'ebyemisana tegannatuuka.
+cv_lga_000644 common_voice_lg_27011870.mp3 Abavuzi n'abantu abalala abakozesa enguudo bateekeddwa okwewala okuvuga endiima.
+cv_lga_000645 common_voice_lg_23735024.mp3 Ezo zonna nkiwa zaali nteekateeka za mukama.
+cv_lga_000646 common_voice_lg_23735025.mp3 Okkirizibwa okutuuka mu kifo kino singa obeera mukozi.
+cv_lga_000647 common_voice_lg_23735027.mp3 Amafuta agawunya wano olowooza gavudde wa?
+cv_lga_000648 common_voice_lg_23735028.mp3 Ente yange ebadde esinga okumpa amata eridde akaveera.
+cv_lga_000649 common_voice_lg_23735040.mp3 Okuyita kwa Naluwuge kuva ku kusoma nnyo bitabo.
+cv_lga_000650 common_voice_lg_23735041.mp3 Omukyala oli agambye ogende mwogeremu alekere awo okutubuuza ebibuuzo ebingi.
+cv_lga_000651 common_voice_lg_23735042.mp3 Obudde bunaatera okuziba.
+cv_lga_000652 common_voice_lg_23735043.mp3 Omusajja abadde atambula n'ayasimula ababadde bamwetoolodde bonna badduse emisinde.
+cv_lga_000653 common_voice_lg_23735050.mp3 Katonda asaasidde ab'e Kenya omulwadde wabwe owa Corona atandise okuwona.
+cv_lga_000654 common_voice_lg_23735051.mp3 Akawala ako kakwano kange naye kalimba nnyo mu mboozi zaako
+cv_lga_000655 common_voice_lg_23735053.mp3 Okumanya kwange okutono kundaga nti obugagga bantu.
+cv_lga_000656 common_voice_lg_23735054.mp3 Teweefuula nti gwe asinga obugezi mu kizimbe kino kyonna.
+cv_lga_000657 common_voice_lg_24424474.mp3 Obumyu mbu nabo bwetaagisa okutwala ku nnume okusobola okufuna oluzaalo olulungi
+cv_lga_000658 common_voice_lg_24424476.mp3 Taata wange yasongera kojja wange gy'ateeka obuwangwa bw'ensolo z'atta.
+cv_lga_000659 common_voice_lg_27004594.mp3 Yesu krisito yazaalibwa okutaasa ensi okuva mu bibi byayo.
+cv_lga_000660 common_voice_lg_27004595.mp3 Eyakulemberamu okwekalakaasa yagobeddwa.
+cv_lga_000661 common_voice_lg_27004596.mp3 Amaduuka agatunda eddagala gagguddewo amatabi mangi mu bitundu eby'enjawulo.
+cv_lga_000662 common_voice_lg_27004597.mp3 Emitendera miwanvu egiyitibwamu okwewola ensimbi.
+cv_lga_000663 common_voice_lg_27004598.mp3 Abantui abaliko obulemu baweereddwa sikaala.
+cv_lga_000664 common_voice_lg_27144722.mp3 Okusimba emiti y'emu ku ngeri gye tuyinza okukuumamu obutonde bwaffe.
+cv_lga_000665 common_voice_lg_27144723.mp3 Okukozesa abaana kikangavvulwa.
+cv_lga_000666 common_voice_lg_27144724.mp3 Ettaka eryo lya bwannannyini.
+cv_lga_000667 common_voice_lg_27144725.mp3 Akakiiko k'ekyalo kyaffe kateeka ssente ezisingako mu mpereza y'ebyobulamu.
+cv_lga_000668 common_voice_lg_27144727.mp3 Empenda zitemebwa okukendeeza omuwendo gw'abakyala abafa nga bazaala.
+cv_lga_000669 common_voice_lg_25039723.mp3 Omusajja eyabba pikipiki yakwasibwa poliisi.
+cv_lga_000670 common_voice_lg_25039725.mp3 Nsobola kungemera wa omusujja gw'enkaka?
+cv_lga_000671 common_voice_lg_25039726.mp3 Abawala bandisaanye okufuna embuto nga bamaze kufumbirwa.
+cv_lga_000672 common_voice_lg_25039727.mp3 Enkungaana ziyigiriza era ziyamba.
+cv_lga_000673 common_voice_lg_25039838.mp3 Baalumirizza omu ku bakozi okumuloga.
+cv_lga_000674 common_voice_lg_25039839.mp3 Abantu bayina okumanyisibwa ku mateeka g'ettaka okutangira obutabanguko ku ttaka.
+cv_lga_000675 common_voice_lg_25039840.mp3 Omuzikiti omupya guli mu kuzimbibwa.
+cv_lga_000676 common_voice_lg_25039841.mp3 Ababbi balinda kubba balala.
+cv_lga_000677 common_voice_lg_25039842.mp3 Amabala ga kitaka mu kitundu kyo makati eky'ebikoola ebirwadde.
+cv_lga_000678 common_voice_lg_25039866.mp3 Ekyeya mu disitulikiti ya Arua kyaleeta ebbula ly'amazzi mu kitundu.
+cv_lga_000679 common_voice_lg_25039867.mp3 Tusobola okuzuuka eky'okuddamu eri buli kisoomooza.
+cv_lga_000680 common_voice_lg_25039868.mp3 Ambyulensi zitwala abalwadde mu ddwaliro.
+cv_lga_000681 common_voice_lg_25039870.mp3 Waabaddewo olukiiko olutalinda wakati w'abakulembeze ba disitulikiti n'olukiiko oluddukanya essomero.
+cv_lga_000682 common_voice_lg_28116320.mp3 Nolaba eggwala nga lyonna terifa ku bazadde baalyo wabula okubeemasaggirako obwemasaggizi!
+cv_lga_000683 common_voice_lg_28116321.mp3 Omukulembezze omuggya ajja kubeera mu woofiisi wiiki ejja.
+cv_lga_000684 common_voice_lg_28116322.mp3 Kikubirizibwa buli muntu mu disitulikiti okubeera n'ennimiro
+cv_lga_000685 common_voice_lg_28116323.mp3 Munnamateeka oyo awuliriza ensonga.
+cv_lga_000686 common_voice_lg_28116324.mp3 Asaasira ne famire ya ddereeva Haruna Kayondo abaafiiridde mu bulumbaganyi buno.
+cv_lga_000687 common_voice_lg_28116442.mp3 Mayiga asabye ab'enju okwenoonya wamu n'okuwuliziganya kibayambe okwongera okunyweza Oluganda awamu n'okumanyagana.
+cv_lga_000688 common_voice_lg_28116446.mp3 Nnyonnyola engeri bbiri omuwandiisi ze yeeyambisizza okutonda amaloboozi mu kitontome kino.
+cv_lga_000689 common_voice_lg_28116452.mp3 omugoba wa baasi nabakowoola.
+cv_lga_000690 common_voice_lg_28116454.mp3 Kimuwa emikisa mingi egisinga n'omusaala obusava.

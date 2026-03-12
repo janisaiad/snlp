@@ -1,0 +1,144 @@
+nchlt_tso_000997	nchlt_tso/audio/093/nchlt_tso_093m_0371.wav	hi mitila leyi nga tluliki
+nchlt_tso_000998	nchlt_tso/audio/093/nchlt_tso_093m_0442.wav	tsalela tatana papila
+nchlt_tso_000999	nchlt_tso/audio/118/nchlt_tso_118m_0497.wav	na mulawuri nkulu wa hofisi
+nchlt_tso_001000	nchlt_tso/audio/163/nchlt_tso_163f_0162.wav	ntivomarito wu tirhisiwile hi
+nchlt_tso_001001	nchlt_tso/audio/141/nchlt_tso_141m_0132.wav	va eka nkarhi lowu taka
+nchlt_tso_001002	nchlt_tso/audio/016/nchlt_tso_016m_0151.wav	rin wana leri u ri
+nchlt_tso_001003	nchlt_tso/audio/056/nchlt_tso_056f_0564.wav	ntlangu wa bolo ya milenge
+nchlt_tso_001004	nchlt_tso/audio/047/nchlt_tso_047m_0128.wav	thoni na rhejisitara swi pfa
+nchlt_tso_001005	nchlt_tso/audio/111/nchlt_tso_111f_0436.wav	u hlamula swivutiso swa yona
+nchlt_tso_001006	nchlt_tso/audio/172/nchlt_tso_172f_0316.wav	fanele ku tsariwa hi maletere
+nchlt_tso_001007	nchlt_tso/audio/055/nchlt_tso_055m_0516.wav	wini na ya van wana
+nchlt_tso_001008	nchlt_tso/audio/027/nchlt_tso_027f_0435.wav	mfanelo yo byala swimila hi
+nchlt_tso_001009	nchlt_tso/audio/070/nchlt_tso_070f_0202.wav	mongo wa mhaka a wu
+nchlt_tso_001010	nchlt_tso/audio/175/nchlt_tso_175f_0585.wav	tshama ku ri karhi ku
+nchlt_tso_001011	nchlt_tso/audio/003/nchlt_tso_003f_0002.wav	loko munghenisi wa xandla a
+nchlt_tso_001012	nchlt_tso/audio/137/nchlt_tso_137m_0347.wav	maandlalelo ya xitsalwana i ya
+nchlt_tso_001013	nchlt_tso/audio/177/nchlt_tso_177m_0030.wav	tibangi ti endla mali yo tala
+nchlt_tso_001014	nchlt_tso/audio/046/nchlt_tso_046f_0561.wav	vatirhela mayini vo kelela kunene mali
+nchlt_tso_001015	nchlt_tso/audio/087/nchlt_tso_087m_0263.wav	kayivela milawu ya matsalelo naswona
+nchlt_tso_001016	nchlt_tso/audio/114/nchlt_tso_114m_0305.wav	ndza swi navela ku tlanga aka filimu
+nchlt_tso_001017	nchlt_tso/audio/082/nchlt_tso_082f_0110.wav	wana ni xin wana xa
+nchlt_tso_001018	nchlt_tso/audio/117/nchlt_tso_117m_0334.wav	xa le henhla swinene ku
+nchlt_tso_001019	nchlt_tso/audio/115/nchlt_tso_115f_0596.wav	ku tirha hi matimba ku
+nchlt_tso_001020	nchlt_tso/audio/070/nchlt_tso_070f_0452.wav	va fanele ku twisisa leswaku
+nchlt_tso_001021	nchlt_tso/audio/026/nchlt_tso_026f_0729.wav	ro engetela ra vumbirhi sal
+nchlt_tso_001022	nchlt_tso/audio/082/nchlt_tso_082f_0321.wav	swibukwani swa masiku lawa switele nhlambha
+nchlt_tso_001023	nchlt_tso/audio/022/nchlt_tso_022m_0073.wav	mimayini iya mfumo wa hina
+nchlt_tso_001024	nchlt_tso/audio/084/nchlt_tso_084m_0281.wav	andlariwile hi ndlela yo khulukelana
+nchlt_tso_001025	nchlt_tso/audio/149/nchlt_tso_149f_0575.wav	endla leswaku ku va na
+nchlt_tso_001026	nchlt_tso/audio/010/nchlt_tso_010m_0427.wav	dyondza swa swicelwa kumbe mfanelo
+nchlt_tso_001027	nchlt_tso/audio/143/nchlt_tso_143m_0447.wav	tiko ra hina ri omeriwile hikwalaho ka dyambu leri nga kona
+nchlt_tso_001028	nchlt_tso/audio/184/nchlt_tso_184f_0461.wav	mahlawulelo ya marito hi lama
+nchlt_tso_001029	nchlt_tso/audio/128/nchlt_tso_128m_0748.wav	i nala wa nomo wa
+nchlt_tso_001030	nchlt_tso/audio/038/nchlt_tso_038f_0623.wav	na leswi swi wu rhendzeleke
+nchlt_tso_001031	nchlt_tso/audio/189/nchlt_tso_189f_0368.wav	matsonga mani tinsimu ta wona
+nchlt_tso_001032	nchlt_tso/audio/104/nchlt_tso_104f_0188.wav	tichungulu ti khiwa emisinyeni ntsena
+nchlt_tso_001033	nchlt_tso/audio/129/nchlt_tso_129f_0163.wav	ka yini ku fanele ku
+nchlt_tso_001034	nchlt_tso/audio/006/nchlt_tso_006m_0469.wav	swifaki aswi lavi mati yo tala
+nchlt_tso_001035	nchlt_tso/audio/010/nchlt_tso_010m_0594.wav	beriwa hi moya se swo
+nchlt_tso_001036	nchlt_tso/audio/114/nchlt_tso_114m_0250.wav	xinkwa hi xona xi xaveriwaka ngopfu
+nchlt_tso_001037	nchlt_tso/audio/190/nchlt_tso_190m_0313.wav	kuni leti ti vulavulaka hi ntiyiso
+nchlt_tso_001038	nchlt_tso/audio/100/nchlt_tso_100m_0092.wav	xihatla hi laha swi nga
+nchlt_tso_001039	nchlt_tso/audio/041/nchlt_tso_041f_0434.wav	wana naswona matirhiselo ya kona
+nchlt_tso_001040	nchlt_tso/audio/040/nchlt_tso_040f_0189.wav	wa ndzhaka yo pfumala wili
+nchlt_tso_001041	nchlt_tso/audio/123/nchlt_tso_123m_0454.wav	wu nyenyana na phuphu ya
+nchlt_tso_001042	nchlt_tso/audio/084/nchlt_tso_084m_0004.wav	loyi a lavaka ku n
+nchlt_tso_001043	nchlt_tso/audio/066/nchlt_tso_066f_0350.wav	xiyimo xa le henhlanyana naswona
+nchlt_tso_001044	nchlt_tso/audio/116/nchlt_tso_116m_0241.wav	ku mbala kahle swi amukelekile
+nchlt_tso_001045	nchlt_tso/audio/124/nchlt_tso_124m_0262.wav	ririmi ra manana ra nandzika
+nchlt_tso_001046	nchlt_tso/audio/161/nchlt_tso_161m_0419.wav	munhu anga lahleki timintsu ta yena
+nchlt_tso_001047	nchlt_tso/audio/015/nchlt_tso_015m_0216.wav	famba teka hembe yo leha mavoko
+nchlt_tso_001048	nchlt_tso/audio/057/nchlt_tso_057f_0148.wav	pfulela mavabyi man wana ndlela
+nchlt_tso_001049	nchlt_tso/audio/068/nchlt_tso_068f_0173.wav	hi ku tihlanganisa na holobye
+nchlt_tso_001050	nchlt_tso/audio/118/nchlt_tso_118m_0091.wav	byakereke byi tele kaxiyani moya
+nchlt_tso_001051	nchlt_tso/audio/050/nchlt_tso_050f_0184.wav	kongoma swinene eka xitsalwambiko hinkwaxo
+nchlt_tso_001052	nchlt_tso/audio/110/nchlt_tso_110m_0109.wav	tani hi munhu loyi a
+nchlt_tso_001053	nchlt_tso/audio/150/nchlt_tso_150m_0314.wav	munhu wale kule wa kota ku nwi kuma emoyeni
+nchlt_tso_001054	nchlt_tso/audio/011/nchlt_tso_011f_0218.wav	riqingho ri humesa vunanga
+nchlt_tso_001055	nchlt_tso/audio/133/nchlt_tso_133f_0009.wav	tinyeleti i tikulu swinene
+nchlt_tso_001056	nchlt_tso/audio/058/nchlt_tso_058m_0247.wav	ku vulavurisana na van wana
+nchlt_tso_001057	nchlt_tso/audio/150/nchlt_tso_150m_0443.wav	swimilana aswi lavi misava ya vumba
+nchlt_tso_001058	nchlt_tso/audio/157/nchlt_tso_157m_0891.wav	matsalwa hi ku tirhisa mimpfumawulo
+nchlt_tso_001059	nchlt_tso/audio/045/nchlt_tso_045m_0442.wav	na swihoxo kambe xitsalwana xa
+nchlt_tso_001060	nchlt_tso/audio/082/nchlt_tso_082f_0544.wav	sesi loyi i xilombe
+nchlt_tso_001061	nchlt_tso/audio/025/nchlt_tso_025f_0099.wav	tindzimi ta khale ati hlupha
+nchlt_tso_001062	nchlt_tso/audio/015/nchlt_tso_015m_0244.wav	eka xiyimo xa mfumo wa
+nchlt_tso_001063	nchlt_tso/audio/152/nchlt_tso_152m_0063.wav	n anga ya rihanyu ra
+nchlt_tso_001064	nchlt_tso/audio/056/nchlt_tso_056f_0163.wav	leswi hlamuseriweke eka ndzimana ya
+nchlt_tso_001065	nchlt_tso/audio/088/nchlt_tso_088m_0092.wav	ndlela ya le henhla swinene
+nchlt_tso_001066	nchlt_tso/audio/026/nchlt_tso_026f_0205.wav	ku tiyisisa leswaku un wana
+nchlt_tso_001067	nchlt_tso/audio/093/nchlt_tso_093m_0059.wav	vafambisi
+nchlt_tso_001068	nchlt_tso/audio/032/nchlt_tso_032f_0438.wav	ya tinyungubyisa ku nyiketa xitatimendhe
+nchlt_tso_001069	nchlt_tso/audio/170/nchlt_tso_170f_0220.wav	ku nga ri ku na
+nchlt_tso_001070	nchlt_tso/audio/038/nchlt_tso_038f_0480.wav	bya xitshuriwa hi lebyi faneleke
+nchlt_tso_001071	nchlt_tso/audio/014/nchlt_tso_014m_0391.wav	mati lama ya tengile ya tlhela ya nweka
+nchlt_tso_001072	nchlt_tso/audio/148/nchlt_tso_148f_0236.wav	swikweleti swa kula loko uya u lomba
+nchlt_tso_001073	nchlt_tso/audio/148/nchlt_tso_148f_0463.wav	munhu loyi a endlaku xikombelo
+nchlt_tso_001074	nchlt_tso/audio/184/nchlt_tso_184f_0184.wav	hetiseka naswona timhaka ti andlariwile
+nchlt_tso_001075	nchlt_tso/audio/019/nchlt_tso_019f_0017.wav	va yile ku kheni ka tintoma
+nchlt_tso_001076	nchlt_tso/audio/015/nchlt_tso_015m_0259.wav	ya swa timal wa vanhu
+nchlt_tso_001077	nchlt_tso/audio/166/nchlt_tso_166m_0481.wav	kala nkhulukelano na nhlangano wa
+nchlt_tso_001078	nchlt_tso/audio/121/nchlt_tso_121m_0233.wav	tani hi bindzu ra le
+nchlt_tso_001079	nchlt_tso/audio/070/nchlt_tso_070f_0126.wav	ya vanhu kunene yi nga
+nchlt_tso_001080	nchlt_tso/audio/036/nchlt_tso_036f_0283.wav	nomboro ya referense ya muthelo
+nchlt_tso_001081	nchlt_tso/audio/081/nchlt_tso_081m_0100.wav	tiko ra afrika akuri vantima ntsena
+nchlt_tso_001082	nchlt_tso/audio/067/nchlt_tso_067f_0207.wav	hi nawu wa mafambiselo ya
+nchlt_tso_001083	nchlt_tso/audio/054/nchlt_tso_054f_0203.wav	josefa
+nchlt_tso_001084	nchlt_tso/audio/162/nchlt_tso_162f_0493.wav	tivisa mukomberi hi xiboho xexo
+nchlt_tso_001085	nchlt_tso/audio/164/nchlt_tso_164f_0375.wav	ku ya eka rin wana
+nchlt_tso_001086	nchlt_tso/audio/189/nchlt_tso_189f_0533.wav	xivumbeko xa tindzimana xa kahle
+nchlt_tso_001087	nchlt_tso/audio/090/nchlt_tso_090m_0032.wav	wa swa rihanyu ni vuhlayiseki
+nchlt_tso_001088	nchlt_tso/audio/079/nchlt_tso_079f_0632.wav	a a navela ku va
+nchlt_tso_001089	nchlt_tso/audio/098/nchlt_tso_098m_0516.wav	loko u kongomanile na mahandza
+nchlt_tso_001090	nchlt_tso/audio/173/nchlt_tso_173f_0159.wav	lowu wu faneleke ku endliwa
+nchlt_tso_001091	nchlt_tso/audio/180/nchlt_tso_180f_0215.wav	xikombelo xo pfumeleriwa ku ya
+nchlt_tso_001092	nchlt_tso/audio/110/nchlt_tso_110m_0511.wav	timhaka ta nkoka leti nga
+nchlt_tso_001093	nchlt_tso/audio/057/nchlt_tso_057f_0274.wav	ndzi lava ku yingisela xitori
+nchlt_tso_001094	nchlt_tso/audio/014/nchlt_tso_014m_0382.wav	ra nongonoko wa vundzeni leri
+nchlt_tso_001095	nchlt_tso/audio/078/nchlt_tso_078m_0189.wav	nkoka a ya tali ku
+nchlt_tso_001096	nchlt_tso/audio/068/nchlt_tso_068f_0100.wav	tsala xitsalwana u kombisa hilaha
+nchlt_tso_001097	nchlt_tso/audio/120/nchlt_tso_120f_0374.wav	kumbe yo ka yi nga
+nchlt_tso_001098	nchlt_tso/audio/089/nchlt_tso_089m_0022.wav	mavonelo ya anamisa miehleketo
+nchlt_tso_001099	nchlt_tso/audio/092/nchlt_tso_092m_0009.wav	swakudya swi nyika matimba yoya emahlweni
+nchlt_tso_001100	nchlt_tso/audio/065/nchlt_tso_065f_0452.wav	matiko ya xaviselana mabindzu
+nchlt_tso_001101	nchlt_tso/audio/033/nchlt_tso_033f_0111.wav	tivekaka ni lava nga tivekiki
+nchlt_tso_001102	nchlt_tso/audio/034/nchlt_tso_034f_0234.wav	vito ra ndhawu leyi u
+nchlt_tso_001103	nchlt_tso/audio/081/nchlt_tso_081m_0600.wav	endliwaka ehansi ka xiyengentsongo xa
+nchlt_tso_001104	nchlt_tso/audio/158/nchlt_tso_158f_0101.wav	vo tala va vona va
+nchlt_tso_001105	nchlt_tso/audio/170/nchlt_tso_170f_0058.wav	masiku lawa va vona
+nchlt_tso_001106	nchlt_tso/audio/157/nchlt_tso_157m_0281.wav	xuma
+nchlt_tso_001107	nchlt_tso/audio/056/nchlt_tso_056f_0582.wav	nga ehansi ka vulawuri bya
+nchlt_tso_001108	nchlt_tso/audio/170/nchlt_tso_170f_0467.wav	ku hlekelela na vana
+nchlt_tso_001109	nchlt_tso/audio/137/nchlt_tso_137m_0106.wav	ta va na vutihlamuleri bya
+nchlt_tso_001110	nchlt_tso/audio/024/nchlt_tso_024f_0644.wav	kota ku kongoma eka xitshuriwa
+nchlt_tso_001111	nchlt_tso/audio/150/nchlt_tso_150m_0442.wav	ku aka hi vuntshwa na
+nchlt_tso_001112	nchlt_tso/audio/022/nchlt_tso_022m_0363.wav	vunanga bya xitsonga byi kahle
+nchlt_tso_001113	nchlt_tso/audio/104/nchlt_tso_104f_0431.wav	mahetelelo na tindzimana tin wana
+nchlt_tso_001114	nchlt_tso/audio/065/nchlt_tso_065f_0490.wav	vadyondzi loko ya pimanisiwa na
+nchlt_tso_001115	nchlt_tso/audio/049/nchlt_tso_049f_0398.wav	endle leswaku ku va na
+nchlt_tso_001116	nchlt_tso/audio/156/nchlt_tso_156f_0129.wav	xi fanele ku va hi
+nchlt_tso_001117	nchlt_tso/audio/122/nchlt_tso_122f_0252.wav	ntshaho lowu nga laha hansi
+nchlt_tso_001118	nchlt_tso/audio/072/nchlt_tso_072m_0146.wav	sungula eka nandzu lowu vuriweke
+nchlt_tso_001119	nchlt_tso/audio/143/nchlt_tso_143m_0451.wav	tifomu leti tifaneleke ku tatiwa
+nchlt_tso_001120	nchlt_tso/audio/083/nchlt_tso_083f_0582.wav	swi fanele ku fambisana na
+nchlt_tso_001121	nchlt_tso/audio/025/nchlt_tso_025f_0189.wav	ku fambisa ndlela ya ku
+nchlt_tso_001122	nchlt_tso/audio/187/nchlt_tso_187f_0202.wav	wana leswi nga kona eka
+nchlt_tso_001123	nchlt_tso/audio/053/nchlt_tso_053f_0384.wav	loyi ndzi n wi rhandzaka
+nchlt_tso_001124	nchlt_tso/audio/017/nchlt_tso_017m_0228.wav	naswona ya andlariwile hi ndlela
+nchlt_tso_001125	nchlt_tso/audio/121/nchlt_tso_121m_0447.wav	hlamula xivutiso lexi nga ehansi
+nchlt_tso_001126	nchlt_tso/audio/124/nchlt_tso_124m_0032.wav	vaphakeri va mintirho ya vaaki
+nchlt_tso_001127	nchlt_tso/audio/165/nchlt_tso_165f_0541.wav	tafula ra nongonoko wa vundzeni
+nchlt_tso_001128	nchlt_tso/audio/148/nchlt_tso_148f_0496.wav	ka yi nga ri enawini
+nchlt_tso_001129	nchlt_tso/audio/169/nchlt_tso_169f_0372.wav	tsonga
+nchlt_tso_001130	nchlt_tso/audio/019/nchlt_tso_019f_0420.wav	wana loyi a thoriweke hi
+nchlt_tso_001131	nchlt_tso/audio/114/nchlt_tso_114m_0130.wav	ku ya hi muxaka wa
+nchlt_tso_001132	nchlt_tso/audio/015/nchlt_tso_015m_0299.wav	xivono xa xiyenge xa vurimi
+nchlt_tso_001133	nchlt_tso/audio/074/nchlt_tso_074m_0013.wav	voniwa nandzu naswona loko a
+nchlt_tso_001134	nchlt_tso/audio/170/nchlt_tso_170f_0115.wav	ya hina a hi wona
+nchlt_tso_001135	nchlt_tso/audio/005/nchlt_tso_005f_0520.wav	lava vavisekaku ni ku kuma
+nchlt_tso_001136	nchlt_tso/audio/110/nchlt_tso_110m_0418.wav	hi leswi nga eka tsalwa
+nchlt_tso_001137	nchlt_tso/audio/174/nchlt_tso_174m_0255.wav	swa mbuyelo wa dyondzo eka
+nchlt_tso_001138	nchlt_tso/audio/187/nchlt_tso_187f_0411.wav	miehleketo ya tsakisa naswona
+nchlt_tso_001139	nchlt_tso/audio/159/nchlt_tso_159m_0522.wav	swilaveko na tinhlamuselo tinhlamuselo ta
+nchlt_tso_001140	nchlt_tso/audio/003/nchlt_tso_003f_0525.wav	a nyiketaka mahungu lama hi

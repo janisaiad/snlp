@@ -1,0 +1,141 @@
+cv_tok_000000 common_voice_tok_33362771.mp3 jan ale pi toki pona li toki e toki ante.
+cv_tok_000001 common_voice_tok_32825095.mp3 ona li sin ala.
+cv_tok_000002 common_voice_tok_31877884.mp3 kasi sina li pana e kili pona anu seme?
+cv_tok_000003 common_voice_tok_32420959.mp3 jan Jelena li tan ma Losi.
+cv_tok_000004 common_voice_tok_32441126.mp3 tomo tawa li lon monsi mi li wile tawa sinpin mi.
+cv_tok_000005 common_voice_tok_32639558.mp3 o toki sin. mi kute pona ala.
+cv_tok_000006 common_voice_tok_32371450.mp3 o kute e sina!
+cv_tok_000007 common_voice_tok_31204266.mp3 mu li pona e pilin pi jan kute e pilin pi soweli mu.
+cv_tok_000008 common_voice_tok_31204267.mp3 seme li sin?
+cv_tok_000009 common_voice_tok_33089618.mp3 ona li sona ala e mute tan ni.
+cv_tok_000010 common_voice_tok_33089759.mp3 lipu kasi li laso lili, li kama jelo.
+cv_tok_000011 common_voice_tok_31945842.mp3 soweli Pita li pilin ike tan moli kama, li pana e telo mute tan lukin.
+cv_tok_000012 common_voice_tok_31945844.mp3 ilo sin pi pona nimi li lon li pona.
+cv_tok_000013 common_voice_tok_31427899.mp3 ilo tenpo sina li sama tawa mi.
+cv_tok_000014 common_voice_tok_31427900.mp3 o tawa waso.
+cv_tok_000015 common_voice_tok_32377435.mp3 mi ken telo e tomo tawa mi lon seme?
+cv_tok_000016 common_voice_tok_32377439.mp3 jan Nepi li sona ala pali e tomo tawa telo. taso sewi li pana e sona ni.
+cv_tok_000017 common_voice_tok_32377442.mp3 tenpo ilo li toki e tenpo seme?
+cv_tok_000018 common_voice_tok_32316946.mp3 jan Lisa li tan ma Tosi.
+cv_tok_000019 common_voice_tok_32316947.mp3 jan sona pona li sona e pona ona.
+cv_tok_000020 common_voice_tok_32316948.mp3 lon poka ona la, jan mute li lon, li kute e toki ale ona.
+cv_tok_000021 common_voice_tok_33778338.mp3 sina pana e ike tawa jan pona mi.
+cv_tok_000022 common_voice_tok_33778336.mp3 mi kama jo e telo.
+cv_tok_000023 common_voice_tok_33778343.mp3 insa tomo la lupa lukin li pini.
+cv_tok_000024 common_voice_tok_33778371.mp3 o tawa sinpin.
+cv_tok_000025 common_voice_tok_31167906.mp3 pakala li weka e wawa pi pilin sina.
+cv_tok_000026 common_voice_tok_31167943.mp3 sina ala lon tomo sina la waso li jaki lon sewi pi tomo sina.
+cv_tok_000027 common_voice_tok_31167944.mp3 taso lili moku mute ante la, pake lili li pona.
+cv_tok_000028 common_voice_tok_31167945.mp3 sina wile e mi lon poka sina tan seme?
+cv_tok_000029 common_voice_tok_31230429.mp3 sina kama poka mi.
+cv_tok_000030 common_voice_tok_31230430.mp3 kama pona, jan sin o!
+cv_tok_000031 common_voice_tok_31230431.mp3 ma Losi li suli
+cv_tok_000032 common_voice_tok_31230432.mp3 ona li ken!
+cv_tok_000033 common_voice_tok_31195039.mp3 mi wile musi lon telo suli.
+cv_tok_000034 common_voice_tok_31195046.mp3 n, ni li pona ala tawa mi.
+cv_tok_000035 common_voice_tok_31195047.mp3 ni la, ona o esun ala.
+cv_tok_000036 common_voice_tok_31195048.mp3 mi pilin musi.
+cv_tok_000037 common_voice_tok_31265111.mp3 suno pona!
+cv_tok_000038 common_voice_tok_31265112.mp3 jan Kuntuli li kuntu.
+cv_tok_000039 common_voice_tok_31265119.mp3 tomo tawa linja li tawa ma tomo.
+cv_tok_000040 common_voice_tok_31265120.mp3 taso mi sona mute e ni.
+cv_tok_000041 common_voice_tok_31169483.mp3 mi ike.
+cv_tok_000042 common_voice_tok_31169484.mp3 lipu ni li pona ala pona tawa sina?
+cv_tok_000043 common_voice_tok_31169485.mp3 pu la, nimi kin li sama nimi a.
+cv_tok_000044 common_voice_tok_31169486.mp3 jan walo lili li kute, li moku e telo, li kon e palisa seli.
+cv_tok_000045 common_voice_tok_31169487.mp3 kasi ni li kama palisa wan taso, li kama laso ala.
+cv_tok_000046 common_voice_tok_31281649.mp3 jan jaki o oko!
+cv_tok_000047 common_voice_tok_31281650.mp3 ona tu li moku, li lape.
+cv_tok_000048 common_voice_tok_31281651.mp3 ilo sitelen ale mi li palisa.
+cv_tok_000049 common_voice_tok_31281652.mp3 o lukin e jasima ni. sina li pona lukin.
+cv_tok_000050 common_voice_tok_31281653.mp3 pimeja en suno li kama kin.
+cv_tok_000051 common_voice_tok_31205057.mp3 mi en jan Telen taso li pali namako ala.
+cv_tok_000052 common_voice_tok_31205058.mp3 pilin mi o tawa wawa ala, o awen insa a lon sijelo!
+cv_tok_000053 common_voice_tok_31205059.mp3 jan seme li moku e kili mi?
+cv_tok_000054 common_voice_tok_31205060.mp3 sina jan lawa la, wile sina li pini.
+cv_tok_000055 common_voice_tok_31205061.mp3 suli la, ona li weka e ken toki pi wile pi pakala lawa.
+cv_tok_000056 common_voice_tok_31779151.mp3 suno en telo en ma li pona tawa kasi.
+cv_tok_000057 common_voice_tok_31779152.mp3 sina linja la ona tawa.
+cv_tok_000058 common_voice_tok_31779186.mp3 o weka e pona, o awen e utala
+cv_tok_000059 common_voice_tok_31779187.mp3 mi pana e ona.
+cv_tok_000060 common_voice_tok_31779189.mp3 ike la jan ala li sona e ni.
+cv_tok_000061 common_voice_tok_31173011.mp3 mi jo e sitelen pi kijetesantakalu suwi lon sinpin len mi.
+cv_tok_000062 common_voice_tok_31173012.mp3 mi sitelen e sike suli. sina sitelen e leko lili.
+cv_tok_000063 common_voice_tok_31173015.mp3 jan sona li ken lukin e leko lipu mute pi lili mute.
+cv_tok_000064 common_voice_tok_31173017.mp3 ilo nanpa li pilin pona tawa sina!
+cv_tok_000065 common_voice_tok_31173019.mp3 ona li kama jo e poki len ona pi lipu pi wile pali.
+cv_tok_000066 common_voice_tok_32317117.mp3 ken la ni li ike tawa jan Loto.
+cv_tok_000067 common_voice_tok_32317126.mp3 mi lon supa lape li pilin e ni: mi wile moku a.
+cv_tok_000068 common_voice_tok_32317130.mp3 palisa kiwen tomo li tawa musi.
+cv_tok_000069 common_voice_tok_32317164.mp3 jan Mimoku li open e kulupu pi toki pona lon lipu Pepu.
+cv_tok_000070 common_voice_tok_32317165.mp3 uta mi li laso.
+cv_tok_000071 common_voice_tok_31173031.mp3 sina jaki e len mi kepeken kule.
+cv_tok_000072 common_voice_tok_31173032.mp3 ni li tan seme?
+cv_tok_000073 common_voice_tok_31173033.mp3 o awen o pana e pona.
+cv_tok_000074 common_voice_tok_31173034.mp3 sina wawa la sina ken pakala e jan ike.
+cv_tok_000075 common_voice_tok_31173035.mp3 luka mi li pakala la, mi ken ala sitelen.
+cv_tok_000076 common_voice_tok_33001181.mp3 ma suli pi soweli mute li lon
+cv_tok_000077 common_voice_tok_33001190.mp3 mi wile tawa tomo mi.
+cv_tok_000078 common_voice_tok_33001202.mp3 pipi li jo e oko mute.
+cv_tok_000079 common_voice_tok_33001381.mp3 o luka ala e mi!
+cv_tok_000080 common_voice_tok_33001432.mp3 moku pi selo pan li pona tawa mi
+cv_tok_000081 common_voice_tok_31206325.mp3 mije li ike mute.
+cv_tok_000082 common_voice_tok_31206326.mp3 sina ken sitelen e ona lon lipu ni.
+cv_tok_000083 common_voice_tok_31206327.mp3 o lukin e lipu ante mi e lipu pi jan ante.
+cv_tok_000084 common_voice_tok_31206328.mp3 ona tu li tawa lon monsi soweli, li kepeken pali mute lon ni.
+cv_tok_000085 common_voice_tok_31206329.mp3 sitelen nimi "epiku" li jo e pona lon anpa e linja pana lon sewi.
+cv_tok_000086 common_voice_tok_32350116.mp3 ike la sitelen pi toki ilo en sitelen pi toki jan li ante lili taso.
+cv_tok_000087 common_voice_tok_32350118.mp3 o sona e mi!
+cv_tok_000088 common_voice_tok_32350135.mp3 unpa li ike ala ike tawa nasin sewi ni?
+cv_tok_000089 common_voice_tok_32350138.mp3 sina jan pona.
+cv_tok_000090 common_voice_tok_32350154.mp3 poka telo la jan ala li ken lukin
+cv_tok_000091 common_voice_tok_31558419.mp3 jan li pana e leko lon ale pi linja wan la, ona li weka.
+cv_tok_000092 common_voice_tok_31558422.mp3 pilin sina la jan utala ale li ike anu seme?
+cv_tok_000093 common_voice_tok_31558428.mp3 toki ni li musi li suli li pona mute tawa mi.
+cv_tok_000094 common_voice_tok_32344193.mp3 jan ale li kama sona e toki pona la ni li pona ala pona?
+cv_tok_000095 common_voice_tok_32344199.mp3 pona, pona. a. ike, ike!
+cv_tok_000096 common_voice_tok_32344202.mp3 a, telo pi mi mute o jaki ala!
+cv_tok_000097 common_voice_tok_31506853.mp3 ni li lon tenpo ale.
+cv_tok_000098 common_voice_tok_31506854.mp3 jan lawa pi nasin sewi Jesuwa li lon ma Wasikane.
+cv_tok_000099 common_voice_tok_31506855.mp3 ni li ijo suwi a!
+cv_tok_000100 common_voice_tok_31506857.mp3 leko musi ni la leko lili mute luka tu li lon.
+cv_tok_000101 common_voice_tok_32429206.mp3 telo li pilin e supa noka telo, la sina lukin ala e ijo.
+cv_tok_000102 common_voice_tok_32429207.mp3 kiwen pi suno mun li kama lon.
+cv_tok_000103 common_voice_tok_31205163.mp3 ilo o, o kalama pi kulupu Pata Powe.
+cv_tok_000104 common_voice_tok_31205179.mp3 mi lukin e sitelen tawa sina.
+cv_tok_000105 common_voice_tok_31205180.mp3 ma ni li tomo lipu.
+cv_tok_000106 common_voice_tok_31205181.mp3 taso nasin nanpa pi suli lon li pakala e ni.
+cv_tok_000107 common_voice_tok_31205182.mp3 ko lete li walo ala walo?
+cv_tok_000108 common_voice_tok_31205183.mp3 oko mi li lukin pi telo nasa tawa mi!
+cv_tok_000109 common_voice_tok_31864630.mp3 o lukin ala e ni!
+cv_tok_000110 common_voice_tok_31864631.mp3 o sina!
+cv_tok_000111 common_voice_tok_31864632.mp3 ona li leko e lipu li pana e ona lon supa.
+cv_tok_000112 common_voice_tok_31864634.mp3 sina toki insa e seme lon tenpo ni?
+cv_tok_000113 common_voice_tok_31865145.mp3 o epiku!
+cv_tok_000114 common_voice_tok_31865146.mp3 mama sina li suwi li pona mute tawa mi.
+cv_tok_000115 common_voice_tok_31865148.mp3 mama mije sina li kama pakala lon ma ni.
+cv_tok_000116 common_voice_tok_31425513.mp3 ilo Asune Miku li kalama pona a e toki mi.
+cv_tok_000117 common_voice_tok_31425514.mp3 tan ale ni la, jan olin li toki:
+cv_tok_000118 common_voice_tok_31425516.mp3 kama sona pi lipu ni li tan lili ona.
+cv_tok_000119 common_voice_tok_31425517.mp3 sina wile ala wile kama sona e ijo musi?
+cv_tok_000120 common_voice_tok_31425528.mp3 o lukin e ni: pona li kama.
+cv_tok_000121 common_voice_tok_31425529.mp3 mi utala e ona la, ijo ale ike li ken kama pini!
+cv_tok_000122 common_voice_tok_31425530.mp3 pan en kasi li lon.
+cv_tok_000123 common_voice_tok_31425532.mp3 nanpa pini la, o pana e moku lon supa.
+cv_tok_000124 common_voice_tok_31480364.mp3 noka ona li sama palisa suli.
+cv_tok_000125 common_voice_tok_31480365.mp3 mi wile ala pali e ijo pi ken ala la, ale li pona.
+cv_tok_000126 common_voice_tok_31480379.mp3 kasi kin li lon ma tomo la jan pi ma tomo li pilin pona.
+cv_tok_000127 common_voice_tok_31480386.mp3 sina lon ala la, mi pona.
+cv_tok_000128 common_voice_tok_31480394.mp3 ni li tan ni: toki mi li pona.
+cv_tok_000129 common_voice_tok_31480395.mp3 ona li suli, li suli mute a!
+cv_tok_000130 common_voice_tok_31480396.mp3 mi wile a e ni!
+cv_tok_000131 common_voice_tok_31493021.mp3 ilo o, o kalama soweli.
+cv_tok_000132 common_voice_tok_31204494.mp3 jan lawa li pini e poki sitelen.
+cv_tok_000133 common_voice_tok_31204495.mp3 noka mi li pilin pakala.
+cv_tok_000134 common_voice_tok_31204496.mp3 a! tenpo suno sin!
+cv_tok_000135 common_voice_tok_31204497.mp3 jan sin li kama.
+cv_tok_000136 common_voice_tok_31204498.mp3 mi wile tawa tomo mi.
+cv_tok_000137 common_voice_tok_31204793.mp3 kalama wawa li ike tawa mi.
+cv_tok_000138 common_voice_tok_31204794.mp3 len noka ona li jo e telo mute mute!
+cv_tok_000139 common_voice_tok_31204795.mp3 mi ken ala ken toki tawa sina kepeken tenpo lili taso?
+cv_tok_000140 common_voice_tok_31204796.mp3 mi toki e pona ona la sinpin ona li kama loje.

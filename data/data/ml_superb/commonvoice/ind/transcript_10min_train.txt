@@ -1,0 +1,136 @@
+cv_ind_000000 common_voice_id_23033570.mp3 Maha Suci Allah.
+cv_ind_000001 common_voice_id_20425643.mp3 Inilah dunia kecil.
+cv_ind_000002 common_voice_id_22185104.mp3 nol
+cv_ind_000003 common_voice_id_28290115.mp3 Aku tidak tahu artinya kebencian.
+cv_ind_000004 common_voice_id_24994697.mp3 tugas saya belom kelar.
+cv_ind_000005 common_voice_id_19424182.mp3 Itu tadi menarik, ya?
+cv_ind_000006 common_voice_id_30077167.mp3 Saya paling suka lagu ini.
+cv_ind_000007 common_voice_id_30525915.mp3 Jalanan sepi dari kendaraan.
+cv_ind_000008 common_voice_id_31885310.mp3 Jangan pergi.
+cv_ind_000009 common_voice_id_28735136.mp3 Semua kamus mengandung kesalahan.
+cv_ind_000010 common_voice_id_28672501.mp3 Tom pasti telah bekerja sangat keras.
+cv_ind_000011 common_voice_id_34326350.mp3 Makanan yang saya sukai adalah kare.
+cv_ind_000012 common_voice_id_25414380.mp3 Keretanya di sini.
+cv_ind_000013 common_voice_id_32790685.mp3 Makan malam kemarin adalah masakan daging.
+cv_ind_000014 common_voice_id_24142409.mp3 Aku ingin kamu
+cv_ind_000015 common_voice_id_32073541.mp3 Semestinya tidak ada koma pada kalimat ini.
+cv_ind_000016 common_voice_id_32512942.mp3 Parkirkan saja mobilmu di belakang taman rumahku.
+cv_ind_000017 common_voice_id_31392119.mp3 Permisi, bisa beritahu jalan ke halte bis?
+cv_ind_000018 common_voice_id_20953397.mp3 Selamat!
+cv_ind_000019 common_voice_id_25544269.mp3 Lalu lintas Jakarta Selatan di hari senin pagi biasanya macet.
+cv_ind_000020 common_voice_id_31437674.mp3 Jika menggunakan transportasi publik, mohon untuk mendahulukan penumpang prioritas untuk mendapatkan tempat duduk.
+cv_ind_000021 common_voice_id_25359042.mp3 Saya memasukkan tiga sendok gula dengan sendok.
+cv_ind_000022 common_voice_id_25359043.mp3 Kami akan mengadakan sebuah pesta pada malam Sabtu.
+cv_ind_000023 common_voice_id_24034326.mp3 Kesimpulan ini sulit untuk dipungkiri.
+cv_ind_000024 common_voice_id_24034328.mp3 cek dana masuk
+cv_ind_000025 common_voice_id_31358486.mp3 Tom pindah keluar tiga minggu yang lalu.
+cv_ind_000026 common_voice_id_31358488.mp3 Tolong buka jendela di sana.
+cv_ind_000027 common_voice_id_31482298.mp3 Pada ketinggian itu cuaca dapat berubah secara cepat tanpa peringatan.
+cv_ind_000028 common_voice_id_31482300.mp3 Dia lebih kuat darimu.
+cv_ind_000029 common_voice_id_25337450.mp3 Tom melihat kepada Mary.
+cv_ind_000030 common_voice_id_25337452.mp3 Saya membeli kalender tahun depan di toserba.
+cv_ind_000031 common_voice_id_24041300.mp3 Coba lakukan dengan cara berbeda.
+cv_ind_000032 common_voice_id_24041303.mp3 Kuingin pergi sendiri berlibur ke pulau tak berpenghuni itu.
+cv_ind_000033 common_voice_id_28655265.mp3 Saya sudah mengenalnya sejak kecil
+cv_ind_000034 common_voice_id_28655275.mp3 kenapa kamu tidak datang malam minggu kemarin?
+cv_ind_000035 common_voice_id_27853467.mp3 dunia akan melihat kita
+cv_ind_000036 common_voice_id_27854155.mp3 Saya berbisnis di sini.
+cv_ind_000037 common_voice_id_24015698.mp3 Kamu tahu tidak?
+cv_ind_000038 common_voice_id_24015700.mp3 Saya sedang makan nasi padang
+cv_ind_000039 common_voice_id_22984696.mp3 Tom terlihat tidak tertarik.
+cv_ind_000040 common_voice_id_22984697.mp3 Maha Suci Allah.
+cv_ind_000041 common_voice_id_27805993.mp3 Sami bisa mengubah dirinya sendiri.
+cv_ind_000042 common_voice_id_27829884.mp3 Namaku adalah Ludoviko.
+cv_ind_000043 common_voice_id_27652142.mp3 Saya tidak takut hantu.
+cv_ind_000044 common_voice_id_27652233.mp3 Makanlah.
+cv_ind_000045 common_voice_id_22528019.mp3 satu
+cv_ind_000046 common_voice_id_22528020.mp3 tiga
+cv_ind_000047 common_voice_id_25267942.mp3 Dimanakah rasa malumu hingga kamu berani berbuat sepert itu?
+cv_ind_000048 common_voice_id_25267945.mp3 Saya pergi ke rumah teman setelah pelajaran selesai.
+cv_ind_000049 common_voice_id_25039783.mp3 Nama keluarga saya adalah Wang.
+cv_ind_000050 common_voice_id_25039784.mp3 Setelah minum, saya mencuci gelas sampai bersih.
+cv_ind_000051 common_voice_id_27488227.mp3 Di kelas ada komputer baru.
+cv_ind_000052 common_voice_id_27488283.mp3 Ini di luar pertanyaan?
+cv_ind_000053 common_voice_id_25556275.mp3 Kalau tidak ketemu, coba carilah di sekitar Galaxy Mall.
+cv_ind_000054 common_voice_id_25556303.mp3 Dokter dengan pasien nya.
+cv_ind_000055 common_voice_id_31097662.mp3 Cara terbaik agar mimpimu menjadi kenyataan adalah bangun.
+cv_ind_000056 common_voice_id_31097663.mp3 Tom sangat menyukai bermain basket.
+cv_ind_000057 common_voice_id_25178945.mp3 Saya hubungi lagi nanti.
+cv_ind_000058 common_voice_id_25178973.mp3 Jangan lupa ya datang ke acara ulangtahunku!
+cv_ind_000059 common_voice_id_23920010.mp3 dua
+cv_ind_000060 common_voice_id_23920012.mp3 sembilan
+cv_ind_000061 common_voice_id_25211470.mp3 Besok saya akan pergi menonton film bersama teman.
+cv_ind_000062 common_voice_id_25211471.mp3 Pak Tanaka minum coca-cola.
+cv_ind_000063 common_voice_id_25368163.mp3 Awas! lantai licin
+cv_ind_000064 common_voice_id_25368164.mp3 Ayah saya bekerja di sebuah pabrik.
+cv_ind_000065 common_voice_id_25141757.mp3 Aku sakit.
+cv_ind_000066 common_voice_id_25141759.mp3 semangat untuk hari ini
+cv_ind_000067 common_voice_id_23564377.mp3 Pernah ke Amerika?
+cv_ind_000068 common_voice_id_23564381.mp3 Apakah kamu pernah mendaki Gunung Fuji?
+cv_ind_000069 common_voice_id_22888788.mp3 Saya setiap pagi pergi jalan-jalan.
+cv_ind_000070 common_voice_id_22888793.mp3 Air mengalir adalah air yang bersih.
+cv_ind_000071 common_voice_id_22888800.mp3 Minggu depan kakak perempuan saya menikah.
+cv_ind_000072 common_voice_id_20483312.mp3 Aku pernah ingin menjadi seorang astronom fisika.
+cv_ind_000073 common_voice_id_20483313.mp3 Saya sedang mencari dompet hitam seperti ini.
+cv_ind_000074 common_voice_id_20483314.mp3 Apakah Anda pernah makan serangga?
+cv_ind_000075 common_voice_id_21277605.mp3 Rencananya kita akan pergi ke Estonia bulan depan.
+cv_ind_000076 common_voice_id_21277606.mp3 Pak Tanaka tinggal di rumah besar.
+cv_ind_000077 common_voice_id_21277608.mp3 Itu kelinci yang jahat.
+cv_ind_000078 common_voice_id_20211965.mp3 Apakah anda percaya pada Tuhan?
+cv_ind_000079 common_voice_id_20211967.mp3 Semuanya sedang menunggu guru di kelas.
+cv_ind_000080 common_voice_id_20211969.mp3 Anak-anak kecil suka dengan buku tentang dinosaurus dan monster.
+cv_ind_000081 common_voice_id_25008329.mp3 perusahaan yang berkembang selalu diikuti dengan perkembangan teknologi didalamnya
+cv_ind_000082 common_voice_id_25008331.mp3 Zlatan sedang menderita cidera siku.
+cv_ind_000083 common_voice_id_25008332.mp3 Dia buru-buru pulang dari Inggris.
+cv_ind_000084 common_voice_id_24995760.mp3 Mau kopi atau teh?
+cv_ind_000085 common_voice_id_24995761.mp3 Awas! lantai licin
+cv_ind_000086 common_voice_id_24995762.mp3 Kura-kura adalah reptil.
+cv_ind_000087 common_voice_id_24015248.mp3 Tom memberi Mary sekotak coklat.
+cv_ind_000088 common_voice_id_24015249.mp3 Bocah itu bernama Fadli.
+cv_ind_000089 common_voice_id_24015250.mp3 Kompleks perumahan itu jauh sekali.
+cv_ind_000090 common_voice_id_25396145.mp3 saya ingin ke pasar di hari minggu pagi
+cv_ind_000091 common_voice_id_25396146.mp3 Dia bercerai dari suaminya.
+cv_ind_000092 common_voice_id_25396147.mp3 Lampu lalu-lintas digunakan untuk mengatur lalu lintas.
+cv_ind_000093 common_voice_id_24016729.mp3 Terdakwa korupsi itu dituntut hukuman seumur hidup.
+cv_ind_000094 common_voice_id_24016730.mp3 Kita ditugaskan untuk membentuk kelompok yang terdiri dari tiga orang.
+cv_ind_000095 common_voice_id_24016731.mp3 Apa yang harus saya lakukan jika ingin mengurus Paspor di Indonesia?
+cv_ind_000096 common_voice_id_24983815.mp3 Kalau sakit, dia lama sembuhnya.
+cv_ind_000097 common_voice_id_24983816.mp3 Produsen obat ini adalah sebuah perusahaan Jepang.
+cv_ind_000098 common_voice_id_24983817.mp3 Aku ingat pernah mendengar cerita yang sangat mirip dengan itu.
+cv_ind_000099 common_voice_id_24015630.mp3 Apakah kamu bisa lebih cepat?
+cv_ind_000100 common_voice_id_24015631.mp3 Makin lama, makin berguna.
+cv_ind_000101 common_voice_id_24015632.mp3 Dia menendangku!
+cv_ind_000102 common_voice_id_23583178.mp3 Pernah ke Amerika?
+cv_ind_000103 common_voice_id_23583180.mp3 Kamu di mana?
+cv_ind_000104 common_voice_id_23583182.mp3 Aku tidak bermaksud menyakitimu.
+cv_ind_000105 common_voice_id_27370309.mp3 Teman-teman, tolong bantu unggah ini.
+cv_ind_000106 common_voice_id_27370357.mp3 Aku minta maaf.
+cv_ind_000107 common_voice_id_27391079.mp3 Saya memasukkan kartu ke dompet.
+cv_ind_000108 common_voice_id_27450305.mp3 Bumi itu bulat.
+cv_ind_000109 common_voice_id_24016276.mp3 Saya baru tahu Libya pernah memiliki bendera yang hanya berwarna hijau polos.
+cv_ind_000110 common_voice_id_24016277.mp3 Tasku dicuri.
+cv_ind_000111 common_voice_id_24016278.mp3 Kebanyakan turis yang datang berasal dari Republik Rakyat Tiongkok.
+cv_ind_000112 common_voice_id_24016279.mp3 Aku akan menjemputnya malam ini
+cv_ind_000113 common_voice_id_26018174.mp3 Gereja Anglican yang terdaftar sebagai Asgarby Grade One didedikasikan kepada Santo Andrew.
+cv_ind_000114 common_voice_id_26018175.mp3 Kita harus melakukannya sekarang.
+cv_ind_000115 common_voice_id_26018176.mp3 Para pria dan wanita di resepsi di konferensi bisnis
+cv_ind_000116 common_voice_id_26018177.mp3 Banyak tempat beristirahat sempurna lainnya di sepanjang pantai ini yang dapat ditemukan.
+cv_ind_000117 common_voice_id_24015257.mp3 Berbagai bahasa daerah dan bahasa asing menjadi bahasa serapan dan kemudian menjadi bahasa Indonesia.
+cv_ind_000118 common_voice_id_24015258.mp3 Kamu tidak pulang?
+cv_ind_000119 common_voice_id_24015259.mp3 dunia akan melihat kita
+cv_ind_000120 common_voice_id_24015261.mp3 Beritahu dulu keburukannya.
+cv_ind_000121 common_voice_id_19376535.mp3 Ini yang dilakukan Mary untuk hidup.
+cv_ind_000122 common_voice_id_19376536.mp3 Jangan tanya aku.
+cv_ind_000123 common_voice_id_19376538.mp3 Minggu depan saat saya pergi ke situ, saya akan membeli dan membawa minuman.
+cv_ind_000124 common_voice_id_19376539.mp3 Sang menteri menolak memberikan wawancara pada wartawan.
+cv_ind_000125 common_voice_id_21272933.mp3 Saya menyukai tantangan.
+cv_ind_000126 common_voice_id_21272935.mp3 Saya makan kue yang saya dapat dari Pak Tanaka.
+cv_ind_000127 common_voice_id_21272936.mp3 Saya mengajar bahasa Jepang kepada orang asing.
+cv_ind_000128 common_voice_id_21272937.mp3 Besok saya pergi ke Paris.
+cv_ind_000129 common_voice_id_24016183.mp3 apa yang bisa saya berikan kepadamu?
+cv_ind_000130 common_voice_id_24016184.mp3 nasi goreng kambing di kampung itu enak sekali
+cv_ind_000131 common_voice_id_24016186.mp3 Tidak ada sesuatu yang tidak mungkin.
+cv_ind_000132 common_voice_id_24016187.mp3 Kakak perempuanku masih hafal lagu-lagu Avril.
+cv_ind_000133 common_voice_id_24016087.mp3 Komodo merupakan satwa langka.
+cv_ind_000134 common_voice_id_24016088.mp3 Dia ingin sekali ke Swedia.
+cv_ind_000135 common_voice_id_24016089.mp3 Kecelakaan pesawat itu menewaskan banyak korban jiwa

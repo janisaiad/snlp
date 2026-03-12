@@ -1,0 +1,455 @@
+googlei18n-tts_cat_000000 caf_06008_01262680955.wav El 1998 va ser l'any en què es va casar la meva filla
+googlei18n-tts_cat_000001 caf_06942_00543163183.wav Quimi Portet sempre serà recordat per la seva cançó La Rambla
+googlei18n-tts_cat_000002 caf_09796_01150092693.wav Fina Birulés és una presentadora de telenotícies oi
+googlei18n-tts_cat_000003 cam_02689_01343695006.wav L'Adrià sap parlar un idioma minoritari de les Filipines.
+googlei18n-tts_cat_000004 caf_03655_00605443279.wav José Luis Garci era un director de cinema espanyol molt famós
+googlei18n-tts_cat_000005 caf_06942_01755004443.wav Vueling ja no ofereix vols ja que la companyia va fer fallida
+googlei18n-tts_cat_000006 caf_06311_00349352798.wav Anglès Tèxtil també coneguda com a Antex fa filaments sintètics
+googlei18n-tts_cat_000007 caf_03655_00582095539.wav És interessant la idea del poliglotisme passiu de Delfí Dalmau
+googlei18n-tts_cat_000008 caf_09901_01633116901.wav Li van regalar entrades per al circuit de València i no hi va anar quina llàstima
+googlei18n-tts_cat_000009 cam_08935_01312584320.wav Jaume Comelllas i Colldeforns és un conegut periodista i crític d'art.
+googlei18n-tts_cat_000010 caf_09901_00510205304.wav Quina és l'àrea d'activitat de l'empresa Abacus
+googlei18n-tts_cat_000011 caf_06311_01875575461.wav A Edreams hi pots reservar un vol o un hotel
+googlei18n-tts_cat_000012 cam_04484_00643984277.wav A Cànoves i Samalús encenen una carbonera cada dos anys.
+googlei18n-tts_cat_000013 cam_06279_01630119133.wav Abans es deia que de Joans, Joseps i ases n'hi ha a totes les cases.
+googlei18n-tts_cat_000014 caf_09796_00963250860.wav Ha menjat vuit galetes perquè tenia un buit a l'estómac
+googlei18n-tts_cat_000015 cam_08664_00740709974.wav Vaig comprar el mirall de la sala a Pons Rovira, els del carrer Major.
+googlei18n-tts_cat_000016 caf_07245_00423646108.wav He hagut de buscar a Google per saber qui era Andy Lau
+googlei18n-tts_cat_000017 caf_07803_01345202714.wav Els de Sabadell tenen un centre comercial
+googlei18n-tts_cat_000018 caf_08106_01644291170.wav Aniré a l'Aldi de més a prop
+googlei18n-tts_cat_000019 caf_04247_01099476400.wav Ma mare va viure durant un temps a l'Alt Urgell però ara no sé ben bé en quin poble
+googlei18n-tts_cat_000020 cam_02689_02082696711.wav Hi ha una botigueta de Càrniques Toni Josep a la vora de la sortida del metro.
+googlei18n-tts_cat_000021 caf_05147_01624574292.wav Falset és la capital del Priorat
+googlei18n-tts_cat_000022 cam_00459_02115934999.wav En Pau Gasol és de Sant Boi de Llobregat.
+googlei18n-tts_cat_000023 caf_06311_01021452451.wav Amazon ha creat un sistema de missatgeria ràpida
+googlei18n-tts_cat_000024 cam_07140_01844157153.wav Es difícil no enamorar-se de la Penélope Cruz quan canta a la pel·lícula Volver
+googlei18n-tts_cat_000025 cam_04787_01512300078.wav Construcciones Rubau SA s'ha emportat el concurs per construir el mur de Barcelona.
+googlei18n-tts_cat_000026 cam_08664_02034511514.wav Cobrem l'u de cada mes.
+googlei18n-tts_cat_000027 cam_04484_00416637456.wav No hi ha cap problema amb Intermes Nets des de l'inici de la crisi.
+googlei18n-tts_cat_000028 cam_02992_01340538575.wav Recordo un documental dels anys seixanta sobre els festivals de jazz de Newport que eren una delícia.
+googlei18n-tts_cat_000029 caf_03944_02142129831.wav L'Oriol Junqueras era alcalde de Sant Vicenç dels Horts
+googlei18n-tts_cat_000030 cam_08935_00407058825.wav Bellvís és entre la Noguera i el Segrià.
+googlei18n-tts_cat_000031 caf_09598_00204195862.wav Martí Gironell va escriure El pont dels jueus una novel·la ambientada a Besalú
+googlei18n-tts_cat_000032 cam_08935_01698085173.wav Pere Brufau és molt conegut pel seu lideratge de Repsol.
+googlei18n-tts_cat_000033 caf_02452_01464117571.wav Marilyn Monroe havia de ser llesta perquè Arthur Miller s'hi fixés
+googlei18n-tts_cat_000034 caf_05739_00854647227.wav Ja són les tres i deu i els pares encara no han arribat
+googlei18n-tts_cat_000035 cam_04910_01749128756.wav El museu del Molí Paperer es troba a Capellades.
+googlei18n-tts_cat_000036 caf_09598_01701856541.wav Antoni Bori i Fontestà mestre i pedagog català del segle dinou té un carrer a Barcelona amb el seu nom
+googlei18n-tts_cat_000037 cam_06279_02146930208.wav La diada castellera del Catllar sempre porta sorpreses.
+googlei18n-tts_cat_000038 caf_09598_00226518810.wav La biblioteca Jaume Fuster és molt moderna
+googlei18n-tts_cat_000039 cam_08935_00390067645.wav Vam fer un projecte de petroquímica amb Repsol l'any passat
+googlei18n-tts_cat_000040 caf_06008_00120345751.wav Els de Movistar m'envien cartes cada més
+googlei18n-tts_cat_000041 cam_03115_00413105648.wav L'equip del meu poble juga contra el Sant Gregori la final de tercera regional.
+googlei18n-tts_cat_000042 cam_04910_00626343388.wav Un dels marquesats més coneguts de Catalunya és el de Sentmenat.
+googlei18n-tts_cat_000043 cam_07140_01845099354.wav Els Pets fan un pop que entra fàcilment
+googlei18n-tts_cat_000044 cam_03386_00083635241.wav Des de que es va comprar el Renault que no se li veu el pèl; sempre viatja.
+googlei18n-tts_cat_000045 caf_09901_00915903221.wav Què venen els de Frescavida
+googlei18n-tts_cat_000046 cam_06705_01740832451.wav Les accions de Carburants Axoil han pujat més d'un cinquanta per cent.
+googlei18n-tts_cat_000047 caf_04247_00739409808.wav El blues de Chicago no m'interessa gaire
+googlei18n-tts_cat_000048 caf_07803_01822630119.wav Mostra'm notícies recents sobre Pau Gasol
+googlei18n-tts_cat_000049 cam_04484_01840322793.wav Els seients de classe preferent d’Iberia es converteixen en llits.
+googlei18n-tts_cat_000050 caf_06008_01670453839.wav El meu amic d'Abrera és una persona bastant rara
+googlei18n-tts_cat_000051 caf_05147_01983134731.wav Va anar-se'n a Lovaina per un intercanvi durant els seus anys universitaris
+googlei18n-tts_cat_000052 caf_05739_00572132252.wav L'esposa del Salvador Dalí es deia Gal·la
+googlei18n-tts_cat_000053 caf_07803_00679597022.wav Els productes de Johnson Controls Eurosit es distribueixen des de Tarragona
+googlei18n-tts_cat_000054 cam_04910_00465864312.wav El subsòl de Balsareny és ric en sals potàssiques.
+googlei18n-tts_cat_000055 cam_07140_00866469980.wav La cançó Si véns amb mi, de Lluís Llach, es va fer molt famosa.
+googlei18n-tts_cat_000056 caf_03655_00023151549.wav L'any 1883 Josep Franquesa i Gomis fou mestre en gai saber
+googlei18n-tts_cat_000057 caf_07245_00887819613.wav Ha mort el cantant nord-americà Stevie Wonder
+googlei18n-tts_cat_000058 caf_09204_01723036835.wav Westlife és una banda irlandesa d'adolescents
+googlei18n-tts_cat_000059 cam_08664_00314802341.wav Telecinco té Belén Esteban com a princesa d'Espanya.
+googlei18n-tts_cat_000060 caf_06311_01951030205.wav Potser serà imitada però mai serà Igualada
+googlei18n-tts_cat_000061 caf_09204_00699240430.wav Robbie Williams es va fer molt famós per aquell videoclip en què es treia fins i tot la pell
+googlei18n-tts_cat_000062 caf_09598_01486700155.wav Ha anat a comprar el pa a Mediona
+googlei18n-tts_cat_000063 cam_03115_01338123123.wav M'agrada molt el vestit de les hostesses d’Iberia
+googlei18n-tts_cat_000064 cam_04787_00512440503.wav Compra productes de Mango en línia
+googlei18n-tts_cat_000065 caf_07245_00836647878.wav A molts fans els va saber greu que Pedro Pérez deixés Triana
+googlei18n-tts_cat_000066 caf_03655_00750650652.wav Si Inoxcenter no canvia d'administrador pot arribar a fer fallida
+googlei18n-tts_cat_000067 cam_02689_02105283723.wav Els vesits de Mango em queden bé
+googlei18n-tts_cat_000068 caf_02452_01871122663.wav Demi Moore es talla els cabells a la pel·lícula La tinent O’Neil
+googlei18n-tts_cat_000069 cam_06279_00605934556.wav No sé què venen a Yosinoya, però em sona japonès
+googlei18n-tts_cat_000070 cam_07140_01510445750.wav El meu cap segueix portant samarretes de Metallica com si fos un adolescent
+googlei18n-tts_cat_000071 cam_08664_00120961330.wav Els pintallavis Blistex regeneren la pell.
+googlei18n-tts_cat_000072 cam_06279_02093626741.wav Encara que fou mossèn, la veritable passió de Josep Armengou i Feliu era la música.
+googlei18n-tts_cat_000073 cam_04910_01742984385.wav Montserrat Caballé és una cantant d'òpera vetusta reconeguda internacionalment
+googlei18n-tts_cat_000074 cam_04787_00882085627.wav Els camions de Calsina es poden veure per Europa, sobretot per França.
+googlei18n-tts_cat_000075 cam_08935_01493064022.wav Eren molt bones les patates fregides del Frit Ravich.
+googlei18n-tts_cat_000076 caf_03944_00787195570.wav De petit anàvem tot sovint a les platges del Garraf
+googlei18n-tts_cat_000077 cam_03386_00579903269.wav Frederic Garcia pesa seixanta-vuit quilos.
+googlei18n-tts_cat_000078 caf_01591_00032494640.wav És un quart i mig de quatre i ja tinc son
+googlei18n-tts_cat_000079 cam_04910_01578891196.wav Vaig trobar un televisor Sanyo molt barat
+googlei18n-tts_cat_000080 caf_01591_01193994422.wav LG presentarà la seva nova línia de mòbils al Congrés de Mòbils de Barcelona
+googlei18n-tts_cat_000081 caf_06311_01087757024.wav A unes colònies d'estiu vaig conèixer sis nois que venien de Manresa
+googlei18n-tts_cat_000082 caf_03944_01704390033.wav Recordo un documental dels anys seixanta sobre els festivals de jazz de Newport que eren una delícia
+googlei18n-tts_cat_000083 caf_06008_01192910527.wav A l'aeroport de Barcelona s'hi arriba amb la nova línia de metro
+googlei18n-tts_cat_000084 cam_06279_00058635691.wav He enviat el paquet per Missatgeria Pijoan; t'hauria d'arribar en els propers dies.
+googlei18n-tts_cat_000085 caf_06042_00523923616.wav Treballa per a l'empresa Flaix d'Or a la secció de promocions
+googlei18n-tts_cat_000086 caf_05147_00593145704.wav Tinc moltes ganes d'anar a veure castells a la Bisbal del Penedès el proper 15 d'agost
+googlei18n-tts_cat_000087 caf_04247_00797935891.wav Heu visitat mai Corbera de Llobregat
+googlei18n-tts_cat_000088 cam_00459_01327803804.wav Aquelles galetes tan bones duen el logotip de Nabisco.
+googlei18n-tts_cat_000089 cam_00459_00884379292.wav Per anar cap al Solsonès has d'agafar la segona sortida a la dreta.
+googlei18n-tts_cat_000090 cam_00762_02066792263.wav Quant costen les impressores HP?
+googlei18n-tts_cat_000091 caf_06008_00056053420.wav Les impressores Epson no són cares el problema és el preu dels cartutxos de tinta
+googlei18n-tts_cat_000092 cam_06705_01341258149.wav Si et canvies l'assegurança amb Allianz aconseguiràs estalviar cap a finals d'any.
+googlei18n-tts_cat_000093 cam_04910_00013009896.wav No sé ara però fa molts anys El Periódico publicava notícies amb un llenguatge i un fons ideològic molt clars.
+googlei18n-tts_cat_000094 cam_06582_01375111901.wav El 2024 és un any olímpic.
+googlei18n-tts_cat_000095 caf_06042_00875582406.wav El quinze d'agost se celebra la Festa Major de Gràcia
+googlei18n-tts_cat_000096 caf_05147_01741301498.wav Blanca Cuesta és famoseta per estar casada amb un fill de la famosa Tita Cervera baronessa de Thyssen
+googlei18n-tts_cat_000097 cam_08935_01393222556.wav Tot i ser molt guapo, Marc Clotet no és gaire bon actor
+googlei18n-tts_cat_000098 caf_06311_00674110804.wav A Tres Metalls i Químics treballen amb metalls i productes químics
+googlei18n-tts_cat_000099 caf_09901_00169357837.wav Gaby és el diminutiu de Gabriel o Gabriela
+googlei18n-tts_cat_000100 caf_06311_01006077574.wav El municipi de Ripollet deu el seu nom al riu Ripoll
+googlei18n-tts_cat_000101 cam_06582_01523738649.wav Sant Salvador de Guardiola té dos nuclis antics, Guardiola i Salelles.
+googlei18n-tts_cat_000102 cam_04787_00364959812.wav Aquell costers del Segre era més bo del que m'esperava.
+googlei18n-tts_cat_000103 cam_08664_01117923356.wav El Roc Foradat es troba a Prats de Lluçanès.
+googlei18n-tts_cat_000104 caf_09598_01211689456.wav Els turistes poden passar la nit a l'impressionant castell de Cardona
+googlei18n-tts_cat_000105 caf_09204_00777911694.wav Malgrat ser una cantant famosa Sia no es deixa filmar la cara quan apareix en públic
+googlei18n-tts_cat_000106 caf_05739_02055444098.wav Les últimes noticies sobre Oracle no sonen gaire bé
+googlei18n-tts_cat_000107 caf_01591_01500481399.wav David Janer deu la seva carrera en el món del cinema als seus inicis a TV3
+googlei18n-tts_cat_000108 cam_04910_00612194778.wav Àlex Corretja va ser un dels millors tennistes de la seva època
+googlei18n-tts_cat_000109 cam_03386_00492544278.wav Quan anava a l'institut escoltàvem Tequila i portàvem els pantalons arrapats
+googlei18n-tts_cat_000110 caf_06311_00885723854.wav Al Vendrell hi ha un auditori molt bonic
+googlei18n-tts_cat_000111 caf_09598_01656537256.wav Al circuit de Jerez s'hi fan curses de motos
+googlei18n-tts_cat_000112 caf_07245_00935926224.wav A la meva cunyada li fa molta gràcia la Rosa Maria Sardà
+googlei18n-tts_cat_000113 cam_06582_02135470575.wav Andreu Buenafuente és un humorista conegut pels seus programes nocturns.
+googlei18n-tts_cat_000114 caf_05739_01125032999.wav José Zaragoza té un parlar molt agressiu
+googlei18n-tts_cat_000115 cam_06582_00826907405.wav Barberà del Vallès està situat a quinze minuts de Barcelona.
+googlei18n-tts_cat_000116 cam_02689_02002429920.wav Un dels llibretistes de sarsueles del segle dinou va ser Josep Feliu i Codina.
+googlei18n-tts_cat_000117 caf_06042_01322153794.wav Que n'és de bufona la Mariona
+googlei18n-tts_cat_000118 cam_08935_00080177827.wav Riells i Viabrea donen nom a un municipi format per molts nuclis urbans.
+googlei18n-tts_cat_000119 caf_05147_01962987890.wav Els laboratoris Almirall són uns laboratoris farmacèutics situats a Barcelona amb recerca pròpia
+googlei18n-tts_cat_000120 caf_06042_00773932771.wav Juny és el millor mes per viatjar a Bulgària
+googlei18n-tts_cat_000121 cam_07140_00992253231.wav Estic convençut que fumar tabac Ducados és tan dolent com fumar qualsevol altra marca.
+googlei18n-tts_cat_000122 cam_00762_00943832663.wav El Japó i Califòrnia estan a una banda i l'altra de l'oceà Pacífic.
+googlei18n-tts_cat_000123 caf_05739_01532802572.wav El circuit d'Assen és als Països Baixos
+googlei18n-tts_cat_000124 cam_03386_00514248775.wav Parlant d'ufologia i d'antics astronautes Andreas Kaiser té molt a dir.
+googlei18n-tts_cat_000125 caf_05450_01221002690.wav Cotton On és una cadena de moda australiana
+googlei18n-tts_cat_000126 caf_08001_01525952953.wav Dani Garcia és un dels millors cuiners artesanals i creatius del moment
+googlei18n-tts_cat_000127 cam_04910_00603348367.wav A Sant Carles de la Ràpita hi ha molta tradició taurina.
+googlei18n-tts_cat_000128 caf_05739_00974784517.wav Volien visitar les illes Barbados però al final no va poder ser
+googlei18n-tts_cat_000129 caf_03655_00788194468.wav Sovint faig espaguetis amb pastes Santmartí o també de qualsevol altra marca
+googlei18n-tts_cat_000130 cam_06705_01382068590.wav Molta gent coneix la veu de Lluís Marco sense saber-ho
+googlei18n-tts_cat_000131 caf_06942_00489538940.wav Betlem Ramis és una noia exemplar
+googlei18n-tts_cat_000132 caf_06311_00573269814.wav Vaig passar més de tretze hores a l'aeroport esperant el vol de Vueling
+googlei18n-tts_cat_000133 caf_06008_00725305694.wav Sempre que puc faig escala a l'aeroport de Sydney
+googlei18n-tts_cat_000134 caf_07245_01688398615.wav El llegat de John Lennon encara inspira les noves generacions
+googlei18n-tts_cat_000135 caf_04247_01893104548.wav Francesc Vallés i Vives és un dels homes forts del PSC a Reus
+googlei18n-tts_cat_000136 cam_04787_02013060624.wav El meu cosí viu a Cerdanyola del Vallès amb la seva dona.
+googlei18n-tts_cat_000137 caf_07803_01126371192.wav Desconec si és cert que Inmaculada Riera i Reñé va renunciar a l'escó de diputada
+googlei18n-tts_cat_000138 caf_09796_01808211195.wav Encara hi ha molts llocs per descobrir a Malàisia
+googlei18n-tts_cat_000139 cam_02992_01309478967.wav Demà al matí m'haig de llevar a un quart de cinc per anar a l'aeroport.
+googlei18n-tts_cat_000140 cam_06582_00689140943.wav Lloret de Mar és un clar exemple de pornografia urbanística.
+googlei18n-tts_cat_000141 caf_07245_00095604182.wav Usain Bolt és l'home més ràpid del món
+googlei18n-tts_cat_000142 cam_08664_01900885469.wav Va veure un Toyota aparcat al carrer i el va fotografiar des de tots els angles.
+googlei18n-tts_cat_000143 caf_05739_01233694063.wav Gaziel és el pseudònim d'un dels periodistes més importants de la història de Catalunya
+googlei18n-tts_cat_000144 caf_06942_01660795769.wav Richard Burton es va casar dos cops amb Elizabeth Taylor
+googlei18n-tts_cat_000145 caf_03944_01183442221.wav Els diumenges mengem pizza de Casa Tarradellas
+googlei18n-tts_cat_000146 cam_03115_00885004780.wav És una pica Duravit preciosa
+googlei18n-tts_cat_000147 caf_03655_01233243585.wav Els preus de les Yamaha són millors
+googlei18n-tts_cat_000148 cam_03115_00324829882.wav El telèfon del Martí és el noranta-tres, quatre-cents, seixanta-nou, zero zero.
+googlei18n-tts_cat_000149 caf_06042_01112770719.wav Les places dels pàrquings Saba són grans i còmodes
+googlei18n-tts_cat_000150 caf_08001_00072606719.wav Als Emirats Àrabs no se m'hi ha perdut res
+googlei18n-tts_cat_000151 caf_05739_00077483948.wav Bellvís és entre la Noguera i el Segrià
+googlei18n-tts_cat_000152 caf_06942_00553877504.wav Russell Crowe va néixer a Nova Zelanda
+googlei18n-tts_cat_000153 cam_04787_01141751949.wav El municipi de Porqueres és al Pla de l'Estany.
+googlei18n-tts_cat_000154 cam_08967_00556365886.wav La situació política a Sèrbia és bastant complexa.
+googlei18n-tts_cat_000155 caf_06311_01942442782.wav El vol cap a Colòmbia feia escala a Amsterdam
+googlei18n-tts_cat_000156 caf_06042_00311012646.wav Que trobaré cap restaurant a prop de Torrefeta i Florejacs
+googlei18n-tts_cat_000157 caf_09204_01406365273.wav Els moviments pèlvics de Beyoncé són poc ortodoxos
+googlei18n-tts_cat_000158 caf_06042_00662632173.wav No sé amb quins pneumàtics corren amb la moto GP si amb Dunlop o amb Pirelli
+googlei18n-tts_cat_000159 cam_02992_00327083274.wav Sabeu el perquè de la cançó que diu «Tarragona m'esborrona i Constantí em fa patir»?
+googlei18n-tts_cat_000160 caf_06311_00921142200.wav L'Hermes ha anat a viure a Sant Pere de Ribes
+googlei18n-tts_cat_000161 caf_05739_00727267768.wav La poesia de Carme Guasch té com a temes bastant recurrents la mort i la superació del dol
+googlei18n-tts_cat_000162 caf_08001_00093416512.wav S'ha declarat un incendi forestal a Masquefa
+googlei18n-tts_cat_000163 cam_00459_01848878281.wav Una amiga meva té família a Sant Vicenç de Torelló i diu que la Festa Major és massa.
+googlei18n-tts_cat_000164 caf_01591_01265244927.wav El Carles Puyol és nascut al Pallars Jussà
+googlei18n-tts_cat_000165 caf_02452_01947866798.wav Maradona no és una persona qualsevol és un home enganxat a una pilota de cuir
+googlei18n-tts_cat_000166 cam_08935_00857374134.wav El canal de Panamà és una obra d'enginyeria increïble.
+googlei18n-tts_cat_000167 caf_09796_00233811047.wav Els Jocs Olímpics del 2016 se celebraran a Cambodja
+googlei18n-tts_cat_000168 caf_09796_01140801998.wav El meu amic Pere viu a prop del circuit de Silverstone i s'ha comprat un abonament anual
+googlei18n-tts_cat_000169 caf_09901_01308333159.wav No hi ha cap problema amb Intermes Nets des de l'inici de la crisi
+googlei18n-tts_cat_000170 caf_02452_00698665915.wav A la Sara li encantava Cristina Aguilera
+googlei18n-tts_cat_000171 cam_04787_00875305360.wav La vinya domina el paisatge a Sant Llorenç d'Hortons.
+googlei18n-tts_cat_000172 caf_08001_00770291097.wav Demà celebraré el meu centè aniversari
+googlei18n-tts_cat_000173 cam_06582_00227708204.wav L’Uzbekistan pertany a Europa o a Àsia?
+googlei18n-tts_cat_000174 cam_02689_00823770388.wav Alguns afirmen que Enric Sopena havia estat de l'Opus Dei
+googlei18n-tts_cat_000175 cam_08967_00605278206.wav Ahir al matí vaig fer una entrevista de feina a Legrain.
+googlei18n-tts_cat_000176 cam_00459_01008026385.wav Boeing és una companyia que construeix avions.
+googlei18n-tts_cat_000177 caf_04247_01659718932.wav Irene Rigau és mestra
+googlei18n-tts_cat_000178 cam_03386_01218080270.wav La ciutadana britànica Elizabeth II ha tingut la sort d'heretar un país.
+googlei18n-tts_cat_000179 cam_07140_01191608050.wav Bon Jovi porta molts anys als escenaris
+googlei18n-tts_cat_000180 cam_04910_00566529031.wav Una de les principals indústries de Súria és l'extracció de sal.
+googlei18n-tts_cat_000181 caf_06942_01426802731.wav La platja de Castell-Platja d'Aro es conserva gràcies a la gent
+googlei18n-tts_cat_000182 cam_07140_01290326625.wav El millor de Singapur és el menjar.
+googlei18n-tts_cat_000183 cam_06582_01256904616.wav Cristòfor Despuig era un home del Renaixement
+googlei18n-tts_cat_000184 cam_00459_01899966718.wav Vic és la ciutat dels sants de la novel·la de Miquel Llor.
+googlei18n-tts_cat_000185 caf_09204_01739653909.wav Victoria Beckham formava part del grup de les Spice Girls
+googlei18n-tts_cat_000186 cam_08935_00742351471.wav Creieu que a Anglès es parla més anglès que francès?
+googlei18n-tts_cat_000187 cam_08664_01102539954.wav És difícil trobar feina als cinquanta-sis anys?
+googlei18n-tts_cat_000188 cam_08935_01629786383.wav Quina moto porta el Carles Checa?
+googlei18n-tts_cat_000189 caf_09204_01482756460.wav Jennifer Lopez ha sabut barrejar música i cine d'una manera molt aconseguida
+googlei18n-tts_cat_000190 cam_04787_01226530783.wav Poetessa catalana, Anna Ballbona ha estat molt justament multipremiada.
+googlei18n-tts_cat_000191 cam_03115_02136782317.wav Cada dia al matí em raspallo les dents amb pasta Elmex.
+googlei18n-tts_cat_000192 caf_05739_01616222826.wav L'aeroport de Mumbai està envoltat de barris molt humils
+googlei18n-tts_cat_000193 caf_01591_00216360920.wav Santa Domenica és un poble del sud d'Itàlia a la regió del Salento
+googlei18n-tts_cat_000194 cam_00459_00252317192.wav No hi ha cap vol cap a Papua que estigui dins els teus requeriments.
+googlei18n-tts_cat_000195 cam_07140_00262686902.wav L'agropecuària de Guissona és molt gran.
+googlei18n-tts_cat_000196 cam_00459_01970949661.wav Al museu de trens de Vilanova i la Geltrú no hi he anat mai.
+googlei18n-tts_cat_000197 caf_09204_02141197811.wav David Copperfield és un mag amb habilitats extraordinàries
+googlei18n-tts_cat_000198 cam_06279_00531402753.wav El blues de Chicago no m'interessa gaire.
+googlei18n-tts_cat_000199 caf_09796_00952937133.wav A Ciutat del Cap hi fa un clima mediterrani
+googlei18n-tts_cat_000200 caf_09796_00126366514.wav Les pel·lícules produïdes per Altafilms generalment són divertides
+googlei18n-tts_cat_000201 caf_05147_01140484236.wav L'Arnau és tan bo fent teatre que l'han contractat al Teatre Nacional
+googlei18n-tts_cat_000202 cam_04787_01802121150.wav El meu company va viure una temporada a El Salvador.
+googlei18n-tts_cat_000203 caf_06311_01336960903.wav Vaig comprar el Ford Fiesta als anys noranta
+googlei18n-tts_cat_000204 cam_08664_01148458128.wav Només fa falta que truquis a Motors Automòbils i Vehicles Industrials.
+googlei18n-tts_cat_000205 caf_07803_01458135137.wav El millor de Singapur és el menjar
+googlei18n-tts_cat_000206 caf_07803_01972812623.wav Quan érem adolescents miràvem Aplauso
+googlei18n-tts_cat_000207 caf_09204_01142478165.wav Els vídeos de les cançons de Maddona que es poden veure a Youtube són autèntiques obres d'art
+googlei18n-tts_cat_000208 caf_09796_00789546324.wav El futbolista Carles Puyol és natural de la Pobla de Segur
+googlei18n-tts_cat_000209 cam_08664_00454255380.wav Per pujar a la Vall de Núria cal agafar un trenet de cremallera a Ribes de Freser.
+googlei18n-tts_cat_000210 caf_05147_01139631611.wav Vés a l'Agrària Plana de Vic i Secció de Crèdit a veure si et poden ajudar
+googlei18n-tts_cat_000211 cam_02992_00420535071.wav Pond’s té programes d'integració de les dones en la recerca científica
+googlei18n-tts_cat_000212 caf_05739_01224369404.wav Vam confiar els tràmits de l'herència de l'avi als de Cuatrecasas Gonçalves Pereira i ho van fer bé
+googlei18n-tts_cat_000213 caf_09598_00102575791.wav A Vilassar de Dalt hi viu la meva amiga Raquel
+googlei18n-tts_cat_000214 cam_06705_00753335548.wav Robin Hood vivia als boscos de Southampton.
+googlei18n-tts_cat_000215 cam_08935_00191741313.wav A Centelles hi havia una casa de colònies.
+googlei18n-tts_cat_000216 caf_06008_02049957745.wav Els diumenges l'entrada al museu del Louvre és gratuïta però hi ha molta cua
+googlei18n-tts_cat_000217 caf_08106_01251046557.wav Rosa Maria Graupera escrivia novel·les roses però també cròniques de guerra
+googlei18n-tts_cat_000218 cam_04787_01584697600.wav A Montgat hi ha un túnel per al ferrocarril i la gent; per fer una gràcia, deia que va entrar amb un gat i va sortir amb un gos.
+googlei18n-tts_cat_000219 cam_07140_00812611712.wav Bill Murray és el protagonista d’El dia de la Marmota
+googlei18n-tts_cat_000220 cam_08664_02006767784.wav Quin és el telèfon de Fregadís?
+googlei18n-tts_cat_000221 caf_07245_01980427763.wav Molins de Rei ha sabut mantenir viva la Fira de la Candelera des de fa més de 150 anys
+googlei18n-tts_cat_000222 cam_03386_00616372135.wav Per Reis em van regalar una cartera de pell de Pell Osona.
+googlei18n-tts_cat_000223 caf_09901_02100380789.wav M'agraden les actuacions de l'actriu Clàudia Bassols a la
+googlei18n-tts_cat_000224 cam_04484_00040454663.wav M'agrada molt la música de Colòmbia.
+googlei18n-tts_cat_000225 caf_06311_02098251421.wav En aquesta llista hi ha més escriptors com per exemple Clara Usón que lectors en tot Catalunya
+googlei18n-tts_cat_000226 cam_07140_00186167650.wav El seu llinatge va salvar l'actriu Cayetana Cuervo de l'ostracisme
+googlei18n-tts_cat_000227 cam_06705_00549904978.wav Dani Garcia és un dels millors cuiners artesanals i creatius del moment.
+googlei18n-tts_cat_000228 caf_07245_01914634949.wav Paramore és un grup de rock alternatiu format a Franklin Tennessee
+googlei18n-tts_cat_000229 cam_00459_00444465928.wav En Xavier és un físic prominent.
+googlei18n-tts_cat_000230 cam_04484_01205497032.wav Els meus primers esquís tenien fixacions Martí
+googlei18n-tts_cat_000231 cam_08935_00226326493.wav L'autor d’Els Pastorets és Josep Maria Folch i Torres
+googlei18n-tts_cat_000232 caf_09598_01818409336.wav El Geperut de Notre-Dame és una novel·la de Victor Hugo de la qual s'han fet diverses adaptacions
+googlei18n-tts_cat_000233 cam_06279_01971953477.wav L'equip d'hoquei de Sant Pere de Riudebitlles és molt bo.
+googlei18n-tts_cat_000234 cam_00762_01262635990.wav Publiquen la revista cada quinzena.
+googlei18n-tts_cat_000235 cam_06582_01227711658.wav El Rubius és un popular creador de Youtube, sobretot entre adolescents
+googlei18n-tts_cat_000236 caf_06311_01703846241.wav Qui no ha comprat mai cap producte de la coneguda marca Isdin
+googlei18n-tts_cat_000237 cam_00459_00755033323.wav La Festa Major de Pallejà és força divertida.
+googlei18n-tts_cat_000238 caf_06008_00229150091.wav A Mataró hi viu molta gent de Gàmbia i no en sé el perquè
+googlei18n-tts_cat_000239 cam_04910_01011138088.wav Crec que això cau al Tarragonès, però consulta-ho en un mapa.
+googlei18n-tts_cat_000240 cam_06279_01581924927.wav Avel·lí Artís-Gener era conegut també pel pseudònim Tísner.
+googlei18n-tts_cat_000241 cam_03115_01312427080.wav Sol passejar amb la Carme cada tarda.
+googlei18n-tts_cat_000242 caf_05450_01893901949.wav El Moianès és una comarca des de tan sols l'any 2015
+googlei18n-tts_cat_000243 caf_05739_01145327087.wav Melendi va protagonitzar un espectacle lamentable en un avió
+googlei18n-tts_cat_000244 cam_06582_00613960778.wav Quan era petit era molt innocent, creia que a la Selva del Camp hi havia lleons.
+googlei18n-tts_cat_000245 caf_08106_01481968473.wav La seu de l'FBI es troba a Quantico Virgínia
+googlei18n-tts_cat_000246 cam_02689_01670625650.wav Han guanyat per trenta-set punts.
+googlei18n-tts_cat_000247 caf_09204_00111972585.wav Montserrat Caballé té una veu prodigiosa
+googlei18n-tts_cat_000248 cam_08664_00522409814.wav No he tingut mai un rellotge Seiko, però m'han dit que són molt fiables
+googlei18n-tts_cat_000249 caf_01591_00213457901.wav Les pel·lícules de Woody Allen sempre són commovedores
+googlei18n-tts_cat_000250 cam_06582_01740231442.wav De jove la meva mare es va empassar totes les pel·lícules de Pedro Almodóvar
+googlei18n-tts_cat_000251 cam_04787_01675076057.wav A l'aeroport internacional de Frankfurt vaig perdre el meu llibre de la Mercè Rodoreda.
+googlei18n-tts_cat_000252 cam_02689_00483531401.wav Juny és el millor mes per viatjar a Bulgària.
+googlei18n-tts_cat_000253 caf_05739_00443746582.wav Whatsapp és una gran eina de comunicació per a familiars i amics però no cal abusar-ne
+googlei18n-tts_cat_000254 caf_05147_01330164237.wav El Barça va pagar massa diners pel Neymar tot i que sigui un gran jugador
+googlei18n-tts_cat_000255 caf_09901_01860523151.wav Aquest quadre el van pintar l'any 2011
+googlei18n-tts_cat_000256 cam_00459_01578390631.wav El diari de Javier Godó és el més llegit de Catalunya
+googlei18n-tts_cat_000257 caf_01591_01743480019.wav Un dels pares del muntanyisme i excursionisme català va ser sense cap mena de dubte César August Torras
+googlei18n-tts_cat_000258 cam_03386_02007883738.wav L'aeroport principal d'operacions de Delta Aerolínies és a Atlanta.
+googlei18n-tts_cat_000259 cam_08967_00642806141.wav Vam anar a IKEA a comprar un parell de tauletes de nit i vam acabar enduent-nos també un armari
+googlei18n-tts_cat_000260 cam_07140_01389979592.wav La població de Santa Coloma de Gramenet va créixer exponencialment durant el segle xx.
+googlei18n-tts_cat_000261 cam_08967_00257017141.wav A Lesotho tenen un greu problema amb la sida.
+googlei18n-tts_cat_000262 cam_00459_00597929801.wav S'ha declarat un incendi forestal a Masquefa.
+googlei18n-tts_cat_000263 caf_08001_00159796658.wav Càrnica Bataller és el meu negoci familiar
+googlei18n-tts_cat_000264 cam_03386_00099809760.wav La portentosa veu de Beth va fer embogir milers de fans ahir a la nit
+googlei18n-tts_cat_000265 cam_03386_01549011226.wav Rafael Nadal és qui ha guanyat més títols del Roland Garros de la història
+googlei18n-tts_cat_000266 cam_04910_01152423290.wav Potser serà imitada però mai serà Igualada.
+googlei18n-tts_cat_000267 cam_06582_00062635791.wav Si visiteu Torraspapel veureu la despesa d'aigua en la fabricació de paper.
+googlei18n-tts_cat_000268 cam_08664_00786119286.wav Istanbul no és un destí gaire estable últimament.
+googlei18n-tts_cat_000269 caf_07803_01145350783.wav Blanca Suárez es va casar fa un any
+googlei18n-tts_cat_000270 caf_08001_00039960450.wav El castell de Montclús a Sant Esteve de Palautordera data del segle onze
+googlei18n-tts_cat_000271 cam_07140_00852498750.wav Daniel Craig ha fet de James Bond.
+googlei18n-tts_cat_000272 caf_05147_00138745794.wav El canal de Panamà és una obra d'enginyeria increïble
+googlei18n-tts_cat_000273 caf_06008_02065974783.wav Ningú no coneix què fa Hotchland als Països Baixos
+googlei18n-tts_cat_000274 caf_04247_00780653439.wav Cobrem l'u de cada mes
+googlei18n-tts_cat_000275 caf_03655_01367479450.wav Nyutela és una xarxa telemàtica i Nutella una pasta de cacau
+googlei18n-tts_cat_000276 caf_09901_01333666142.wav Kia motors ha millorat molt la qualitat dels seus cotxes
+googlei18n-tts_cat_000277 cam_00762_00390843288.wav L'avi dels meus cosins viu a Sant Esteve Sesrovires.
+googlei18n-tts_cat_000278 caf_06942_00211637507.wav La meva mare diu que Robert Redford és l'únic ros que li sembla atractiu
+googlei18n-tts_cat_000279 caf_03655_01190705787.wav Si aneu al Japó us proposo visitar la ciutat d'Asahikawa
+googlei18n-tts_cat_000280 cam_08967_01932073030.wav He vist la portada de revista d'Elsa Pataky
+googlei18n-tts_cat_000281 caf_09796_00286418126.wav No sé quan tardarem des del Prat fins a l'aeroport
+googlei18n-tts_cat_000282 caf_06042_01699637421.wav Tan bon punt va sortir de la botiga de Menjar Lleuger ja se sentia més guapo
+googlei18n-tts_cat_000283 caf_05147_01266387621.wav El Barça llueix orgullós publicitat de la dictadura de Qatar a la seva samarreta
+googlei18n-tts_cat_000284 cam_06582_01390987397.wav Vam anar a prendre un cafè a Alella i tot va acabar solucionat.
+googlei18n-tts_cat_000285 caf_05147_01857742001.wav Va estudiar enginyeria i va fer pràctiques a Abertis Autopistes
+googlei18n-tts_cat_000286 caf_08106_01848925503.wav A Hèlsinki hi ha molts llacs
+googlei18n-tts_cat_000287 cam_02992_01885531365.wav Sempre m'ha fet molta gràcia el nom de Zara.
+googlei18n-tts_cat_000288 caf_08001_00355705630.wav Canterbury té una de les catedrals més famoses de les Illes Britàniques
+googlei18n-tts_cat_000289 cam_04910_00495455755.wav Eva González presenta un programa de cuina.
+googlei18n-tts_cat_000290 caf_07803_00629993972.wav Qatar Aerolínies patrocina el Barça i això no agrada a molts socis
+googlei18n-tts_cat_000291 cam_00762_00927703565.wav Encara no tinc les fotos del viatge a Angola.
+googlei18n-tts_cat_000292 caf_05739_01352347535.wav El meu amic Pau ven productes d'ortodòncia Proclínic
+googlei18n-tts_cat_000293 cam_02689_00194907047.wav L'Hotel Las Vegas és molt antic
+googlei18n-tts_cat_000294 caf_05147_00691839022.wav Montilla va ser president de Catalunya amb el suport d'Esquerra d'Iniciativa i del seu propi partit
+googlei18n-tts_cat_000295 cam_02992_01770157236.wav A batxillerat vaig tenir una professora de castellà que es donava molta importància perquè vivia
+googlei18n-tts_cat_000296 cam_06582_00507648012.wav Fa molt de temps que ningú no llegeix un poema de Cerverí de Girona fora d'un institut
+googlei18n-tts_cat_000297 caf_08001_01258693761.wav Cada dia al matí em raspallo les dents amb pasta Elmex
+googlei18n-tts_cat_000298 caf_07803_00529451892.wav És molt dur haver de treballar sempre de nit
+googlei18n-tts_cat_000299 caf_01591_00430104075.wav L'Hotel Quatre Estacions té una piscina interior
+googlei18n-tts_cat_000300 cam_07140_01824984523.wav Bono està de gira amb U2
+googlei18n-tts_cat_000301 cam_06705_00122356607.wav Que bo que és el fuet Espunya acompanyat d'un pa ben tendre i una bona cervesa ben fresca!
+googlei18n-tts_cat_000302 caf_08001_00730738700.wav Tots els serveis de Mapa Ibérica es destinen a Espanya
+googlei18n-tts_cat_000303 caf_04247_00358561829.wav Em van dir que a ca l'Albert venien pa
+googlei18n-tts_cat_000304 cam_06582_00944633602.wav A la tardor cauen les fulles dels arbres.
+googlei18n-tts_cat_000305 caf_09796_00662647455.wav El Districte dels Llacs està ubicat a la part nord d'Anglaterra
+googlei18n-tts_cat_000306 cam_08664_01869280244.wav La població de Sils gairebé s'ha doblat en els últims quinze anys.
+googlei18n-tts_cat_000307 caf_05147_01471115172.wav L'imperi romà ja existia fa dos mil anys
+googlei18n-tts_cat_000308 cam_08664_00357477170.wav El meu amic treballa a Clariant.
+googlei18n-tts_cat_000309 caf_07245_00537711415.wav El bombó porto-riqueny Ricky Martin llançarà un nou disc a l'agost
+googlei18n-tts_cat_000310 cam_06582_00455769417.wav Anirem diumenge a la platja de Castelldefels.
+googlei18n-tts_cat_000311 cam_04910_01528900397.wav Cornellà de Llobregat és una població propera a Barcelona.
+googlei18n-tts_cat_000312 cam_03115_00590705189.wav Si et compres un portàtil Asus no tindràs gaires problemes.
+googlei18n-tts_cat_000313 cam_06582_02058334494.wav Acciona és líder en infraestructures, energies renovables, industrial, aigua i serveis.
+googlei18n-tts_cat_000314 cam_03115_00403035202.wav L'element més popular de la Casa Batlló és el drac situat al terrat.
+googlei18n-tts_cat_000315 cam_06705_01768788913.wav A l'estiu a Sant Jaume dels Domenys hi fa una calor insuportable.
+googlei18n-tts_cat_000316 caf_06942_00779956883.wav La prolífica actriu Alícia Salvador enguany ha rodat quatre pel·lícules
+googlei18n-tts_cat_000317 cam_04910_00774968157.wav La Farinera Vilafranquina fa una farina de màxima qualitat.
+googlei18n-tts_cat_000318 cam_07140_01428401688.wav A Balenyà sempre s'espatlla el tren.
+googlei18n-tts_cat_000319 cam_04484_00326071143.wav Es veu que hi ha una empresa que es diu AS-24 Espanyola.
+googlei18n-tts_cat_000320 caf_06008_00514340908.wav La Terra Alta també és coneguda per la famosa sèrie de televisió
+googlei18n-tts_cat_000321 cam_06705_02051533082.wav Cristóbal Balenciaga va ser un important dissenyador de moda
+googlei18n-tts_cat_000322 cam_06279_01759632211.wav A Ankara hi ha hagut un intent de cop d'estat.
+googlei18n-tts_cat_000323 cam_08967_00009716999.wav Diuen que Melbourne és una de les ciutats més boniques d'Austràlia.
+googlei18n-tts_cat_000324 caf_01591_01124812755.wav Està de becària a France Telecom
+googlei18n-tts_cat_000325 caf_09204_01960214712.wav Twiggy era una model molt prima de l'època dels meus pares
+googlei18n-tts_cat_000326 caf_05450_00932122463.wav Somio que corro entre espigues de blat com el gos de l'anunci de Purina
+googlei18n-tts_cat_000327 caf_07245_01819169060.wav La ciutadana britànica Elizabeth II ha tingut la sort d'heretar un país
+googlei18n-tts_cat_000328 caf_08106_00184887779.wav Trobar un hotel durant la Patum de Berga és difícil
+googlei18n-tts_cat_000329 cam_06279_00321876756.wav Si d’una cosa en puc estar segur és que a Formatges Vallès no construeixen cases ni dissenyen tubs.
+googlei18n-tts_cat_000330 caf_06311_00372156328.wav La crema Massi va ser inventada per un italià
+googlei18n-tts_cat_000331 cam_08935_02106999840.wav Passem l'agost a l'apartament de Torredembarra.
+googlei18n-tts_cat_000332 caf_08106_01684119619.wav Sempre m'han fascinat les tres xemeneies de Sant Adrià de Besòs
+googlei18n-tts_cat_000333 cam_03115_02005738229.wav La novena simfonia de Beethoven.
+googlei18n-tts_cat_000334 caf_05147_00743317546.wav Has vist l'última passarel·la de la Sita Murt
+googlei18n-tts_cat_000335 cam_06582_00958280750.wav Quan veig anuncis de Maria Lucas em poso malalt
+googlei18n-tts_cat_000336 cam_04787_00418972127.wav Només fa falta que vinguin els directius de Golia.
+googlei18n-tts_cat_000337 caf_05450_00726414348.wav Tous és coneguda pel seu famós osset
+googlei18n-tts_cat_000338 caf_02452_00596496826.wav Andy Murray és un campió escocès de tennis
+googlei18n-tts_cat_000339 cam_06279_01288824696.wav Oxford University Press li publicarà una versió anglesa de la seva novel·la
+googlei18n-tts_cat_000340 caf_01591_02138258119.wav En aquell punt estava situat exactament a les antípodes de Hobart
+googlei18n-tts_cat_000341 caf_08001_00561170608.wav Claríssimament a Can Lluís fan miralls
+googlei18n-tts_cat_000342 cam_06705_00309800683.wav Josep Sánchez Llibre és membre del partit polític Unió Democràtica de Catalunya.
+googlei18n-tts_cat_000343 cam_06582_01293871723.wav Mercedes Milà atordia els espectadors amb la seva mirada inquisitiva i la seva veu penetrant
+googlei18n-tts_cat_000344 caf_04247_01379958658.wav L'operaran del genoll a la Tèknon
+googlei18n-tts_cat_000345 cam_02689_00419802217.wav Es passa el dia menjant Smints i l'alè li fa olor de menta.
+googlei18n-tts_cat_000346 cam_08935_01791772313.wav Darwin és molt lluny de Barcelona.
+googlei18n-tts_cat_000347 caf_01591_00776988042.wav M'agrada com Jordi Arcarons conduïa la seva moto
+googlei18n-tts_cat_000348 caf_01591_01420865989.wav Els supermercats Picabo són la gran competència dels Mercadona
+googlei18n-tts_cat_000349 caf_03655_00225978642.wav El bar Pinotxo és al Mercat de la Boqueria
+googlei18n-tts_cat_000350 caf_07245_01508301284.wav Encara se'm posa la pell de gallina quan escolto els Rolling Stones
+googlei18n-tts_cat_000351 caf_05147_00359923268.wav Lluís Llach va omplir el Camp Nou l'any 1985
+googlei18n-tts_cat_000352 caf_06008_00334789315.wav Els polítics volen fer-se la foto amb Inversions i Iniciatives Baix Empordà
+googlei18n-tts_cat_000353 caf_08106_01266984320.wav Guess és una marca de roba però mai he entrat a les seves botigues
+googlei18n-tts_cat_000354 caf_08001_01843472653.wav La gala es podrà veure a TV3 dijous que ve
+googlei18n-tts_cat_000355 caf_09204_01298594171.wav Sempre miro el programa de Quim Masferrer abans d'anar a dormir
+googlei18n-tts_cat_000356 cam_04910_01366632170.wav Manel Estiarte és un nedador professional retirat amb molt èxits a l'esquena.
+googlei18n-tts_cat_000357 caf_04247_00628728421.wav Gabriel Ferrater va ser considerat per alguns com el poeta català de més influència de la postguerra espanyola
+googlei18n-tts_cat_000358 caf_08106_00470241443.wav Com puc fer-me la targeta del Club Súper 3
+googlei18n-tts_cat_000359 cam_04910_01579409477.wav Jordi Arbonés va ser un traductor al català de literatura anglesa extraordinari, un dels millors.
+googlei18n-tts_cat_000360 cam_00762_00310640002.wav El company de la Laura és de Sant Celoni.
+googlei18n-tts_cat_000361 cam_04787_01650050762.wav No recordo el nom del poema de Bonaventura Carles Aribau.
+googlei18n-tts_cat_000362 caf_09598_01947996133.wav El crim organitzat és un problema a la ciutat de Guatemala
+googlei18n-tts_cat_000363 cam_00459_01720742005.wav Qui no recorda l'Ambrosio, el majordom de l'anunci de Ferrero Rocher?
+googlei18n-tts_cat_000364 caf_03655_00754208311.wav Feia basarda veure saltar la gimnasta Esther Moya
+googlei18n-tts_cat_000365 caf_07245_01149900132.wav Meryl Streep és considerada per molts la millor actriu del seu temps
+googlei18n-tts_cat_000366 cam_00762_01797745250.wav Ara se la vol canviar per una Kawasaki.
+googlei18n-tts_cat_000367 caf_09796_00622849216.wav L'èxit del contratenor Jordi Domènech va ser incontestable
+googlei18n-tts_cat_000368 cam_03115_00400583149.wav La iaia veu sempre el telenotícies vespre.
+googlei18n-tts_cat_000369 cam_04484_00298788642.wav La Terra Alta també és coneguda per la famosa sèrie de televisió.
+googlei18n-tts_cat_000370 cam_08967_01496273783.wav Ja he rebut la targeta de Sephora
+googlei18n-tts_cat_000371 caf_07245_00721820594.wav Eduard Martí és un dels actors més versàtils del panorama cinematogràfic actual
+googlei18n-tts_cat_000372 cam_04787_00503110483.wav L’Iraq ha estat dividit en dues meitats per les faccions rebels.
+googlei18n-tts_cat_000373 caf_09796_01116798518.wav A la Pobla de Montornès hi ha moltes oliveres i garrofers
+googlei18n-tts_cat_000374 cam_02689_00983446331.wav És la dinovena vegada que començo un projecte i el deixo a mitges.
+googlei18n-tts_cat_000375 cam_03386_00357046668.wav Són pocs els qui recorden Audrey Hepburn per la seva faceta humanitària
+googlei18n-tts_cat_000376 cam_06279_00745961754.wav Màrius Carol actualment és el director d'un dels diaris de Catalunya de referència.
+googlei18n-tts_cat_000377 cam_03386_00162067827.wav Arkana és un grup anglès de música electrònica
+googlei18n-tts_cat_000378 caf_05450_01393737818.wav Ens trobarem a la parada de metro Ciutadella-Vila Olímpica
+googlei18n-tts_cat_000379 cam_06705_01781900050.wav Qatar Aerolínies patrocina el Barça, i això no agrada a molts socis.
+googlei18n-tts_cat_000380 caf_09204_00264297299.wav On juga Xavi Hernández
+googlei18n-tts_cat_000381 caf_03655_00733639632.wav Missouri és el nom d'un estat dels Estats Units i també del riu que hi passa
+googlei18n-tts_cat_000382 cam_08664_01496553859.wav José Zaragoza té un parlar molt agressiu
+googlei18n-tts_cat_000383 cam_04484_01595082631.wav Ada Colau és activista social i l'alcadessa actual de la ciutat de Barcelona
+googlei18n-tts_cat_000384 cam_02992_00364098639.wav David Bustamante és un gran aficionat del Racing de Santander.
+googlei18n-tts_cat_000385 cam_06582_00701656074.wav Quin és el preu del cava Canals i Nubiola?
+googlei18n-tts_cat_000386 caf_03655_00557870848.wav La pobresa que es veu a Calcuta és colpidora
+googlei18n-tts_cat_000387 cam_00459_00933654715.wav La Trinca va fer una cançó sobre Mollerussa.
+googlei18n-tts_cat_000388 caf_06008_00737421431.wav Grífols va desdoblar les seves accions a principi d'any
+googlei18n-tts_cat_000389 cam_08664_01729549629.wav A Vilafranca del Penedès hi ha la plaça més castellera.
+googlei18n-tts_cat_000390 cam_08664_00233755666.wav El primer cotxe del meu pare va ser un Fiat
+googlei18n-tts_cat_000391 cam_04484_00496834579.wav Volkswagen vol dir els cotxes de la gent.
+googlei18n-tts_cat_000392 caf_07803_01367133801.wav En aquella residència es fa una única festa anual per a tots aquells que celebren el norantè aniversari
+googlei18n-tts_cat_000393 cam_07140_01594774122.wav Aquest nom de Concessionària de la Generalitat de Catalunya és un mal nom, no diu res del servei que ofereix.
+googlei18n-tts_cat_000394 cam_00459_00115722093.wav A l'aeroport de Barcelona, s'hi arriba amb la nova línia de metro.
+googlei18n-tts_cat_000395 cam_06582_02126259293.wav L'any trenta-nou Josep Abril i Argemí va ser condemnat a mort i executat al Camp de la Bóta.
+googlei18n-tts_cat_000396 cam_08967_00665242009.wav El fundador de Puma ja ho va ser d'Adidas
+googlei18n-tts_cat_000397 cam_07140_01182641676.wav La gent odia o estima les pel·lícules de Woody Allen; ningú es queda indiferent.
+googlei18n-tts_cat_000398 cam_08967_01885936076.wav Roma és una ciutat per visitar a peu.
+googlei18n-tts_cat_000399 cam_06279_00120377286.wav Aniré a buscar-te a la biblioteca de Montornès del Vallès.
+googlei18n-tts_cat_000400 caf_05450_00354443693.wav Castellbell i el Vilar és un bell nom de poble per pronunciar
+googlei18n-tts_cat_000401 caf_01591_00008082647.wav L'avió aterra a dos quarts i cinc de quatre
+googlei18n-tts_cat_000402 cam_08935_00917320564.wav El Pont de Suert està situat al Prepirineu.
+googlei18n-tts_cat_000403 cam_03386_02039424906.wav De Puig-Reig, els seus habitants en diuen «Porreig».
+googlei18n-tts_cat_000404 caf_05147_02070959360.wav El 2026 els androides substituiran els polítics
+googlei18n-tts_cat_000405 caf_04247_01858811710.wav Anireu a veure els temples de Phnom Penh
+googlei18n-tts_cat_000406 cam_06279_01322103954.wav Sempre que puc faig escala a l'aeroport de Sydney.
+googlei18n-tts_cat_000407 cam_08967_00552018758.wav 2001 odissea de l'espai és una gran pel·lícula.
+googlei18n-tts_cat_000408 cam_06705_01831755533.wav Celestí Barallat i Falguera va ser un advocat i escriptor a qui la Renaixença catalana deu molt.
+googlei18n-tts_cat_000409 cam_03386_02110405134.wav Mònica Cuní fa un bon paper a Merlí
+googlei18n-tts_cat_000410 cam_02689_00153916389.wav La marededéu de Meritxell és la patrona d'Andorra.
+googlei18n-tts_cat_000411 caf_08001_00574487319.wav Li han donat una nova medalla a Gemma Mengual
+googlei18n-tts_cat_000412 caf_01591_01664005753.wav La família de Francesc Ferrer Ferret va fer negocis a l'Havana
+googlei18n-tts_cat_000413 cam_06705_00122680797.wav Has de visitar les coves de salnitre de Collbató.
+googlei18n-tts_cat_000414 caf_05450_01114055554.wav Dissabte sortiré amb els meus amics
+googlei18n-tts_cat_000415 cam_04484_01195383759.wav Per l'equip de la cursa ciclista vam optar per l'oferta subvencionada d’Orbea
+googlei18n-tts_cat_000416 caf_08106_01775565016.wav Toni Bou ha estat un dels molts catalans exitosos en les competicions de trial
+googlei18n-tts_cat_000417 cam_04787_02091596605.wav El RACC ven assegurances per tot el món
+googlei18n-tts_cat_000418 caf_05450_00458286163.wav El meu cosí va participar en el concurs de TV3 que presentava Javier Estrada
+googlei18n-tts_cat_000419 cam_06705_01823208269.wav Mostra'm notícies recents sobre Pau Gasol
+googlei18n-tts_cat_000420 cam_03115_00031988868.wav L'oficina d’Intel a Barcelona va tancar fa uns quants anys.
+googlei18n-tts_cat_000421 cam_03115_00670783506.wav L’Ara m'ha regalat un mes gratuït
+googlei18n-tts_cat_000422 caf_08001_01488311950.wav David Meca neda com un dofí
+googlei18n-tts_cat_000423 caf_02452_00145096586.wav Joe Jonas és un músic dels Estats Units membre de la banda dels Jonas Brothers
+googlei18n-tts_cat_000424 caf_08106_00446243080.wav Aigües de Barcelona és una empresa que té moltes polèmiques arreu del món
+googlei18n-tts_cat_000425 caf_05450_01785332898.wav Durant molt de temps vaig llegir el diari Avui
+googlei18n-tts_cat_000426 caf_09204_00941944843.wav No sé el nom dels cantants d’Els Amics de les Arts
+googlei18n-tts_cat_000427 caf_03655_00880687717.wav Desconec si hi ha relació entre la ciutat de Winchester i l'escopeta del mateix nom
+googlei18n-tts_cat_000428 caf_05739_01526381850.wav L'agropecuària de Guissona és molt gran
+googlei18n-tts_cat_000429 caf_09796_00461174990.wav A Mediamarket tenen una bona oferta de televisors
+googlei18n-tts_cat_000430 caf_03655_00136196394.wav El meu cosí viu a Cerdanyola del Vallès amb la seva dona
+googlei18n-tts_cat_000431 caf_03655_00274707278.wav A Torregrossa per Festa Major es mengen les orelles
+googlei18n-tts_cat_000432 caf_03944_01589409707.wav Si viatges a Austràlia Easyjet pot ser l'opció més econòmica
+googlei18n-tts_cat_000433 caf_09598_00500823778.wav A Ernest Ventós van tots perfumats
+googlei18n-tts_cat_000434 cam_02992_02073456184.wav Algú sap què fan a Blanquident?
+googlei18n-tts_cat_000435 cam_04484_01268840626.wav A Vielha e Mijaran s'hi parla l'occità aranès.
+googlei18n-tts_cat_000436 caf_04247_01514598667.wav El tren pinxo de Banyoles és el més bonic que hi ha
+googlei18n-tts_cat_000437 caf_08001_01212819087.wav En Joan està ingressat a la clínica Debadell
+googlei18n-tts_cat_000438 cam_02689_00899593059.wav Abelló Linde és conegut per distribuir gasos industrials a pressió.
+googlei18n-tts_cat_000439 caf_07245_00274182105.wav La cançó Si véns amb mi de Lluís Llach es va fer molt famosa
+googlei18n-tts_cat_000440 cam_08664_00016038629.wav Abans Myanmar es deia Birmània i era una colònia britànica.
+googlei18n-tts_cat_000441 caf_07245_00662583609.wav No sabia que Pierre Coffin és el codirector de la pel·lícula dels Minions
+googlei18n-tts_cat_000442 caf_05450_00178802392.wav Tinc una cosina que viu a Alfarràs
+googlei18n-tts_cat_000443 caf_06942_01972945914.wav Denzel Washington va representar papers molt importants durant la seva carrera artística
+googlei18n-tts_cat_000444 cam_03386_01248242969.wav Pacific Music és una banda de música californiana
+googlei18n-tts_cat_000445 cam_06279_01676846525.wav Apple està fent una promoció dos per un en portàtils.
+googlei18n-tts_cat_000446 cam_04484_01710130999.wav Sant Joan és una festa popular que se celebra el vint-i-tres de juny.
+googlei18n-tts_cat_000447 cam_07140_00977430972.wav Rosa Vergés és actriu i productora.
+googlei18n-tts_cat_000448 caf_06008_00640912067.wav La secció infantil de Zara té roba per a la meva cosina
+googlei18n-tts_cat_000449 caf_06008_00856134489.wav El grup Dusminguet era de la Garriga
+googlei18n-tts_cat_000450 caf_01591_00233347475.wav Els de Grup Impressió ja tenen les oficines a Cerdanyola al costat de la Universitat Autònoma
+googlei18n-tts_cat_000451 caf_06008_01773365780.wav Antonio Orozco és un cantant i compositor català amb més de mig milió de còpies venudes arreu de l'Estat
+googlei18n-tts_cat_000452 cam_00762_00371260444.wav El Moianès és una comarca des de tan sols l'any 2015.
+googlei18n-tts_cat_000453 caf_06942_00589038208.wav Paul McCartney a vegades sembla una dona
+googlei18n-tts_cat_000454 cam_07140_00249176713.wav Em va saber molt greu que tanquessin el McDonald’s de Barcelona

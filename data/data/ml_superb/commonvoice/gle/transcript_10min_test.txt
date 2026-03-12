@@ -1,0 +1,182 @@
+cv_gle_001010 common_voice_ga-IE_18182510.mp3 Tá gé agus madra againn.
+cv_gle_001011 common_voice_ga-IE_18182511.mp3 Is iontach an obair atá ar siúl agaibh.
+cv_gle_001012 common_voice_ga-IE_18182512.mp3 Craic ar dóigh a bhí ann.
+cv_gle_001013 common_voice_ga-IE_18182518.mp3 Cad deir Seán Ó Tuama
+cv_gle_001014 common_voice_ga-IE_18182519.mp3 Bhí tae ag Síle
+cv_gle_001015 common_voice_ga-IE_18182520.mp3 Is iontach an obair atá ar siúl agaibh
+cv_gle_001016 common_voice_ga-IE_18182521.mp3 Déan ceapaire dom
+cv_gle_001017 common_voice_ga-IE_18182522.mp3 Tada gan iarracht
+cv_gle_001018 common_voice_ga-IE_18182543.mp3 Tá áthas orm a bheith anseo i Russborough tráthnóna.
+cv_gle_001019 common_voice_ga-IE_18182544.mp3 Dia dhaoibh go léir tráthnóna.
+cv_gle_001020 common_voice_ga-IE_18182545.mp3 Ar an mbinse
+cv_gle_001021 common_voice_ga-IE_18182546.mp3 Tá na cártaí gorma ar an mbord
+cv_gle_001022 common_voice_ga-IE_18182547.mp3 Rugadh Teilifís na Gaeilge de thoradh dian-iarrachtaí iliomad daoine
+cv_gle_001023 common_voice_ga-IE_18182558.mp3 Is meabhrúchán spreagúil é den tallann fiontraíochta atá ag forbairt agus ag fás inár dtír
+cv_gle_001024 common_voice_ga-IE_18182559.mp3 nach bhfuil sé tinn
+cv_gle_001025 common_voice_ga-IE_18182561.mp3 an oiread sin óir
+cv_gle_001026 common_voice_ga-IE_18182562.mp3 An bhfuil an leabhar dearg ar an mbord
+cv_gle_001027 common_voice_ga-IE_17576778.mp3 An mhéar fhada
+cv_gle_001028 common_voice_ga-IE_17576779.mp3 Beo agus muid á labhairt lena chéile
+cv_gle_001029 common_voice_ga-IE_17576780.mp3 Bainigí sult as an chuid eile den lá.
+cv_gle_001030 common_voice_ga-IE_17576781.mp3 Cá bhfuil an leabhar dubh, a Mháire
+cv_gle_001031 common_voice_ga-IE_17576782.mp3 Tá, agus tá stocaí orthu
+cv_gle_001032 common_voice_ga-IE_17576783.mp3 An bhfuil aon leabhar agat anois
+cv_gle_001033 common_voice_ga-IE_17576784.mp3 Tá na cártaí bána ar an mbinse
+cv_gle_001034 common_voice_ga-IE_17576785.mp3 Tá sé ina shuí ag an bhfuinneog.
+cv_gle_001035 common_voice_ga-IE_17576786.mp3 Is mór an pléisiúir dom a bheith ar ais anseo i San Francisco.
+cv_gle_001036 common_voice_ga-IE_17576787.mp3 Beidh Nora ar scoil leis
+cv_gle_001037 common_voice_ga-IE_17576788.mp3 An cailín deas donn
+cv_gle_001038 common_voice_ga-IE_17576789.mp3 ba dhaor é
+cv_gle_001039 common_voice_ga-IE_17576790.mp3 An leatsa an leabhar sin
+cv_gle_001040 common_voice_ga-IE_17576791.mp3 An bhfuil peann agatsa, a Sheáin
+cv_gle_001041 common_voice_ga-IE_17576792.mp3 A Dhaoine Uaisle, a Chairde Gael
+cv_gle_001042 common_voice_ga-IE_17584194.mp3 Is leor don dreoilín a nead
+cv_gle_001043 common_voice_ga-IE_17584195.mp3 Tá Síle ag an bhfuinneog
+cv_gle_001044 common_voice_ga-IE_17584196.mp3 Ceacht a ceathair déag
+cv_gle_001045 common_voice_ga-IE_17584197.mp3 Ná bac mo ghnó ná mise
+cv_gle_001046 common_voice_ga-IE_17584198.mp3 Comhghairdeas libh go léir agus guím gach rath oraibh sa todhchoí.
+cv_gle_001047 common_voice_ga-IE_17584211.mp3 Ar an drochuair, níor éirigh leis an phlean a bhí acú, agus gabhadh Mac Easmainn
+cv_gle_001048 common_voice_ga-IE_17584212.mp3 Ar dheis Dé go raibh a h-anam
+cv_gle_001049 common_voice_ga-IE_17584213.mp3 Comhghairdeas libh go léir arís
+cv_gle_001050 common_voice_ga-IE_17584214.mp3 neart airgid
+cv_gle_001051 common_voice_ga-IE_17584215.mp3 An mbeidh do dheirfiúr anseo
+cv_gle_001052 common_voice_ga-IE_17584216.mp3 Bhí poill i ngach orlach den chóta.
+cv_gle_001053 common_voice_ga-IE_17584217.mp3 Dia dhaoibh go léir.
+cv_gle_001054 common_voice_ga-IE_17584218.mp3 An leabhar sin
+cv_gle_001055 common_voice_ga-IE_17584219.mp3 Is é Corrán Tuathail an sliabh is airde in Éirinn
+cv_gle_001056 common_voice_ga-IE_17584220.mp3 Cró na muc is fearr dó sin.
+cv_gle_001057 common_voice_ga-IE_17584227.mp3 Ag an scoil
+cv_gle_001058 common_voice_ga-IE_17584229.mp3 Tá seanchleachtadh ag formhór mór agaibh ar an scéal truamhéalach seo
+cv_gle_001059 common_voice_ga-IE_17584230.mp3 Ar an bhfear
+cv_gle_001060 common_voice_ga-IE_17584232.mp3 Go raibh míle maith agaibh go léir
+cv_gle_001061 common_voice_ga-IE_17584233.mp3 Nach mbeidh siad
+cv_gle_001062 common_voice_ga-IE_17584281.mp3 Tá braon bainne agam
+cv_gle_001063 common_voice_ga-IE_17584282.mp3 Tá buíochas tuillte ag an bhfear sin.
+cv_gle_001064 common_voice_ga-IE_17584283.mp3 Is maith an rud é go dtéann na bóithre i gCiarraí as Ciarraí
+cv_gle_001065 common_voice_ga-IE_17584284.mp3 Go raibh míle maith agaibh uile as ucht a bheith linn tráthnóna.
+cv_gle_001066 common_voice_ga-IE_17584285.mp3 Suí fút ansin, a chara.
+cv_gle_001067 common_voice_ga-IE_17584290.mp3 An bhfuil cóta bán air
+cv_gle_001068 common_voice_ga-IE_17584292.mp3 Mar sin, munar mhiste libh, tá mé chun beagán den dá theanga a labhairt inniu
+cv_gle_001069 common_voice_ga-IE_17584293.mp3 Tá sí sa bhaile, a bhean uasal
+cv_gle_001070 common_voice_ga-IE_17584297.mp3 An leabhar dubh
+cv_gle_001071 common_voice_ga-IE_17571418.mp3 Tá a mála ar an urlár
+cv_gle_001072 common_voice_ga-IE_17571419.mp3 An Phoblacht Doiminiceach
+cv_gle_001073 common_voice_ga-IE_17571420.mp3 Do ghnó féin déan a dhuine
+cv_gle_001074 common_voice_ga-IE_17571421.mp3 tuilleadh aráin
+cv_gle_001075 common_voice_ga-IE_17571423.mp3 Tá cuid mhór ann.
+cv_gle_001076 common_voice_ga-IE_17571424.mp3 Ní raibh mé
+cv_gle_001077 common_voice_ga-IE_17571425.mp3 Cá bhfuil an leabhar dubh, a Mháire
+cv_gle_001078 common_voice_ga-IE_17571427.mp3 I gCill Airne
+cv_gle_001079 common_voice_ga-IE_17571428.mp3 Dún do bhéal.
+cv_gle_001080 common_voice_ga-IE_17571430.mp3 Ar an lúidín
+cv_gle_001081 common_voice_ga-IE_17571431.mp3 Is fearr rith maith ná drochsheasamh
+cv_gle_001082 common_voice_ga-IE_17571432.mp3 Go raibh míle maith agaibh go léir
+cv_gle_001083 common_voice_ga-IE_17571479.mp3 Tugann sé ár ndúshlán chomh maith an tacaíocht sin a thiontú ina ghníomh.
+cv_gle_001084 common_voice_ga-IE_17571480.mp3 An bhfuil grá agat dom?
+cv_gle_001085 common_voice_ga-IE_17571481.mp3 An bhfuil sí anseo inniu
+cv_gle_001086 common_voice_ga-IE_17571482.mp3 Cé leis an leabhar sin
+cv_gle_001087 common_voice_ga-IE_17571483.mp3 Tháinig an tréad amach as an ngleann.
+cv_gle_001088 common_voice_ga-IE_17571484.mp3 A dhaoine uaisle, a mhúinteoirí, a thuismitheoirí, agus a pháistí ach go háirithe
+cv_gle_001089 common_voice_ga-IE_17571485.mp3 Pádraic Ó Conaire, Fíor Ghaedheal agus Sár ughdar Gaedhilge
+cv_gle_001090 common_voice_ga-IE_17571486.mp3 Tá cat ar bord loinge.
+cv_gle_001091 common_voice_ga-IE_17571487.mp3 An cailín deas donn
+cv_gle_001092 common_voice_ga-IE_17571488.mp3 Tá an-chionn agam uirthi.
+cv_gle_001093 common_voice_ga-IE_17571489.mp3 Agus mar a deir siad, tús maith, leath na hoibre
+cv_gle_001094 common_voice_ga-IE_17571490.mp3 Suím os comhair na tine.
+cv_gle_001095 common_voice_ga-IE_17571491.mp3 Ba mhaith liom gach rath a ghuí oraibh, a pháistí sna laethanta scoile atá romhaibh.
+cv_gle_001096 common_voice_ga-IE_17571492.mp3 Éadaí an fhir.
+cv_gle_001097 common_voice_ga-IE_17571493.mp3 Cá mbeidh sí
+cv_gle_001098 common_voice_ga-IE_17571494.mp3 Comhghairdeas libh go léir agus guím gach rath oraibh sa todhchoí.
+cv_gle_001099 common_voice_ga-IE_17571495.mp3 Ar an bhfear
+cv_gle_001100 common_voice_ga-IE_17571496.mp3 Óráid ag ócáid chun cothrom deich mbliana Ghaelscoil Chluainín a cheiliúradh
+cv_gle_001101 common_voice_ga-IE_17571497.mp3 An treoir le haghaidh scríbhneoireachta.
+cv_gle_001102 common_voice_ga-IE_17571498.mp3 Tá Seán chomh mór le Séamas
+cv_gle_001103 common_voice_ga-IE_17571499.mp3 Tá fear mór ag an tine, a Thaidhg, nach bhfuil
+cv_gle_001104 common_voice_ga-IE_17571500.mp3 An bhfuil a mbróga orthu
+cv_gle_001105 common_voice_ga-IE_17571501.mp3 Tá leabhar dearg ar an mbord
+cv_gle_001106 common_voice_ga-IE_17571502.mp3 i gConamara; i Sligeach agus i dTuaisceart Chathair Chorcaí
+cv_gle_001107 common_voice_ga-IE_17571513.mp3 Ar an drochuair, níor éirigh leis an phlean a bhí acú, agus gabhadh Mac Easmainn
+cv_gle_001108 common_voice_ga-IE_17571514.mp3 An raibh aon tae agat
+cv_gle_001109 common_voice_ga-IE_17571515.mp3 Ní haon ualach í an dátheangachas ar pháiste ná ar dhuine fásta
+cv_gle_001110 common_voice_ga-IE_17571516.mp3 Is láidir an bunús í sin don todhchaí
+cv_gle_001111 common_voice_ga-IE_17571517.mp3 Ní fheicim áfach go bhfuil eireaball ort féin
+cv_gle_001112 common_voice_ga-IE_17571518.mp3 Tá sé ina shuí ag an bhfuinneog.
+cv_gle_001113 common_voice_ga-IE_17571519.mp3 Óráid an Uachtaráin Uí Uigínn agus dealbh Phadraic Uí Chonaire á nochtadh aige
+cv_gle_001114 common_voice_ga-IE_17571521.mp3 Cá bhfuil sí, a Shíle
+cv_gle_001115 common_voice_ga-IE_17571522.mp3 Is é Corrán Tuathail an sliabh is airde in Éirinn
+cv_gle_001116 common_voice_ga-IE_18941826.mp3 a Airí
+cv_gle_001117 common_voice_ga-IE_18941827.mp3 A Aire Stáit Mhic an tSaoi,
+cv_gle_001118 common_voice_ga-IE_18941828.mp3 Níl, tá cóta dubh air
+cv_gle_001119 common_voice_ga-IE_18941829.mp3 Ní raibh spide fí air.
+cv_gle_001120 common_voice_ga-IE_18941830.mp3 Treaslaím libh agus déanaim comhghairdeas libh as an tsár-obair seo atá curtha i gcrích agaibh.
+cv_gle_001121 common_voice_ga-IE_18941836.mp3 An capall buí
+cv_gle_001122 common_voice_ga-IE_18941837.mp3 Feicim fear ar an mbóthar
+cv_gle_001123 common_voice_ga-IE_18941838.mp3 Ní bheidh siad, go deimhin
+cv_gle_001124 common_voice_ga-IE_18941839.mp3 Tá a hathair anseo
+cv_gle_001125 common_voice_ga-IE_18941840.mp3 Labhróidh mé i mBéarla ar feadh tamaillín ar fáthanna a thuigfidh sibh ar ball
+cv_gle_001126 common_voice_ga-IE_18941846.mp3 Dia dhaoibh a chairde, céad míle fáilte roimh gach duine atá anseo
+cv_gle_001127 common_voice_ga-IE_18941847.mp3 Is maith an scéalaí an aimsir
+cv_gle_001128 common_voice_ga-IE_18941848.mp3 Tá cuid de sin olc
+cv_gle_001129 common_voice_ga-IE_18941849.mp3 A Ard-Leifteanaint, A Chathaoirligh, A Chairde Gael,
+cv_gle_001130 common_voice_ga-IE_18941856.mp3 Trua don choirpeach
+cv_gle_001131 common_voice_ga-IE_18941857.mp3 Blas an cnó seo.
+cv_gle_001132 common_voice_ga-IE_18941858.mp3 is le mo dheartháir é
+cv_gle_001133 common_voice_ga-IE_18941859.mp3 Chreideadh sé go mbíodh.
+cv_gle_001134 common_voice_ga-IE_18941860.mp3 Ceacht a Sé
+cv_gle_001135 common_voice_ga-IE_18941866.mp3 Ar dheis Dé go raibh a anam dílis
+cv_gle_001136 common_voice_ga-IE_18941867.mp3 Is ceisteanna tábhachtacha iad seo a chaithfimid a phlé go hiomlán
+cv_gle_001137 common_voice_ga-IE_18941868.mp3 Tá capall donn ag an doras
+cv_gle_001138 common_voice_ga-IE_18941869.mp3 An balla ard é sin
+cv_gle_001139 common_voice_ga-IE_18941870.mp3 Ní thuigeann an sách an seang
+cv_gle_001140 common_voice_ga-IE_18941881.mp3 Is breá liom feoil.
+cv_gle_001141 common_voice_ga-IE_18941882.mp3 Drochrud a ghabh thar an doras arsa Bairbre
+cv_gle_001142 common_voice_ga-IE_18941883.mp3 Tá searmanais den sórt seo tábhachtach
+cv_gle_001143 common_voice_ga-IE_18941884.mp3 Bíodh an fhís sin beo
+cv_gle_001144 common_voice_ga-IE_18941888.mp3 Níl, a dhuine uasail
+cv_gle_001145 common_voice_ga-IE_18941889.mp3 Thosaigh an cruinniú ar a deich a chlog.
+cv_gle_001146 common_voice_ga-IE_18941893.mp3 Ní féidir liom tiomáint
+cv_gle_001147 common_voice_ga-IE_18941895.mp3 Bhí leite agus bainne agam
+cv_gle_001148 common_voice_ga-IE_18941901.mp3 Is fóta-iriseoir í.
+cv_gle_001149 common_voice_ga-IE_18941902.mp3 An dtuigeann tú seo?
+cv_gle_001150 common_voice_ga-IE_18941903.mp3 Chonaic sé cad a thit amach agus an cruachás ina raibh an madra rua
+cv_gle_001151 common_voice_ga-IE_18941904.mp3 Tháinig seisean agus cleith aige agus mharaigh sé an madra rua
+cv_gle_001152 common_voice_ga-IE_18941905.mp3 Tá roinnt irisí sa chnuasach agus beagán cóipleabhar chomh maith.
+cv_gle_001153 common_voice_ga-IE_18941921.mp3 Ar an drochuair, níor éirigh leis an phlean a bhí acu, agus gabhadh Mac Easmainn
+cv_gle_001154 common_voice_ga-IE_18941922.mp3 Mar fhocal scoir, is mian liom mo bhuíochas a ghabháil libh arís as bhur bhflaithiúlacht
+cv_gle_001155 common_voice_ga-IE_18941923.mp3 In airde ar thonn an suíomh is fearr le surfálaí.
+cv_gle_001156 common_voice_ga-IE_18941924.mp3 Nathair nimhe is fearr
+cv_gle_001157 common_voice_ga-IE_18941925.mp3 Guím gach beannacht oraibh san obair sin
+cv_gle_001158 common_voice_ga-IE_18941931.mp3 Tháinig na hainmhithe go léir faoi dhéin an leighis
+cv_gle_001159 common_voice_ga-IE_18941932.mp3 Agus muid anseo i bPáirc Naomh Éanna
+cv_gle_001160 common_voice_ga-IE_18941933.mp3 Leanaimis orainn mar phobal ag saothrú na Poblachta agus ag saothrú na Gaeilge
+cv_gle_001161 common_voice_ga-IE_18941935.mp3 Tá an spéir ina criathar.
+cv_gle_001162 common_voice_ga-IE_18942853.mp3 Céad bliain ó foilsíodh an leabhar.
+cv_gle_001163 common_voice_ga-IE_18942854.mp3 Chaith sí a vóta go luath.
+cv_gle_001164 common_voice_ga-IE_18943341.mp3 An bhfuil Seán agus Nóra anseo
+cv_gle_001165 common_voice_ga-IE_18943342.mp3 tá sé ábalta cur suas le lorg aimsir na hÉireann
+cv_gle_001166 common_voice_ga-IE_18943343.mp3 Tá an crann faoi bhláth.
+cv_gle_001167 common_voice_ga-IE_18943344.mp3 Na cailíní beaga
+cv_gle_001168 common_voice_ga-IE_18943345.mp3 Tá cailín deas ag an bhfuinneog
+cv_gle_001169 common_voice_ga-IE_18188265.mp3 Níl, a bhean uasal, tá sí ag an doras
+cv_gle_001170 common_voice_ga-IE_18188266.mp3 Tá sé sa bhaile, agus tá mo dheirfiúr sa bhaile
+cv_gle_001171 common_voice_ga-IE_18188267.mp3 An garsún láidir
+cv_gle_001172 common_voice_ga-IE_18188268.mp3 chuaigh Oisín go Tír na n-Óg
+cv_gle_001173 common_voice_ga-IE_18188274.mp3 Séard a theastaigh ó na saoránaigh lenar labhair sibh ná:
+cv_gle_001174 common_voice_ga-IE_18188277.mp3 Cur i gcéill atá ann.
+cv_gle_001175 common_voice_ga-IE_18188285.mp3 An Cúigiú Bliain
+cv_gle_001176 common_voice_ga-IE_18188286.mp3 An Clár
+cv_gle_001177 common_voice_ga-IE_18188287.mp3 an chuid a thugann brí agus comhleanúnachas don iomlán
+cv_gle_001178 common_voice_ga-IE_18188288.mp3 Is mór an pléisiúr dom é an chomhdháil thábhachtach seo a oscailt
+cv_gle_001179 common_voice_ga-IE_18188294.mp3 Is mór an pléisiúr dom a bheith anseo libh i bPríosún Mhuinseó
+cv_gle_001180 common_voice_ga-IE_18188295.mp3 Is iontach an rud é an líon cumann atá linn anocht ó na hOllscoileanna éagsúla
+cv_gle_001181 common_voice_ga-IE_18188296.mp3 Is éasca caint ná coisíocht
+cv_gle_001182 common_voice_ga-IE_18188297.mp3 Tá an-áthas orm a bheith anseo i bhur measc tráthnóna.
+cv_gle_001183 common_voice_ga-IE_18188298.mp3 Naoi mí eile.
+cv_gle_001184 common_voice_ga-IE_18188299.mp3 Fuair sí féirín deas.
+cv_gle_001185 common_voice_ga-IE_18188300.mp3 Ní raibh sí ar scoil Dé Luain ná Dé Máirt
+cv_gle_001186 common_voice_ga-IE_18188301.mp3 Léiríonn gach pobal, sa chaoi ina gcaitheann siad lena dteanga, luachanna bunúsacha an phobail sin
+cv_gle_001187 common_voice_ga-IE_18188302.mp3 Tá áthas orm an deis a bheith agam freastal ar an siompóisiam tábhachtach seo
+cv_gle_001188 common_voice_ga-IE_18188303.mp3 Tá an-áthas orm a bheith i bhur láthair ar an ócáid speisialta seo.
+cv_gle_001189 common_voice_ga-IE_18188314.mp3 Cad a chlog anois é
+cv_gle_001190 common_voice_ga-IE_18188315.mp3 An ar an mbord atá an bosca anois, a Sheáin
+cv_gle_001191 common_voice_ga-IE_18188316.mp3 Tá fás agus forbairt tagtha ar Bloom arís i mbliana

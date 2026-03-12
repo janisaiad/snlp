@@ -1,0 +1,709 @@
+cv_nno_000000 common_voice_nn-NO_31865080.mp3 Eg vert ikkje ferdig med han.
+cv_nno_000001 common_voice_nn-NO_32190608.mp3 Skulle vi ikkje kunna leita
+cv_nno_000002 common_voice_nn-NO_32190609.mp3 Ei bok som eg kan lese fleire gonger.
+cv_nno_000003 common_voice_nn-NO_32190618.mp3 Eg kjøpte ei kassert bok på bibliotetek for nokre månadar sidan.
+cv_nno_000004 common_voice_nn-NO_32190622.mp3 Dette med følg boka skjønte eg heller ikkje heilt vitsen med.
+cv_nno_000005 common_voice_nn-NO_28551458.mp3 Knausgård kan ikkje settast i bås med denne typen forfattarar.
+cv_nno_000006 common_voice_nn-NO_28551459.mp3 Eg er aleine
+cv_nno_000007 common_voice_nn-NO_28551460.mp3 Kanskje ikkje så uventa sidan det er Nesser - ein av mine favorittforfattarar.
+cv_nno_000008 common_voice_nn-NO_28551461.mp3 Jon Fosse er og blir ein favorittforfattar.
+cv_nno_000009 common_voice_nn-NO_28551462.mp3 Kanskje eg skal gi Lie ein ny sjanse.
+cv_nno_000010 common_voice_nn-NO_28457479.mp3 Eg lurar på om Derrick
+cv_nno_000011 common_voice_nn-NO_28457480.mp3 Men eg kan relatere til di vurdering av Duun.
+cv_nno_000012 common_voice_nn-NO_28457481.mp3 Eg syns i grunn det vart litt for mange historier her.
+cv_nno_000013 common_voice_nn-NO_28457482.mp3 Eg lytta til lydboka på engelsk.
+cv_nno_000014 common_voice_nn-NO_28457483.mp3 Utover sommaren blir det lite mat til lemena og dei begynner å døy.
+cv_nno_000015 common_voice_nn-NO_28502616.mp3 Ikkje imponert.
+cv_nno_000016 common_voice_nn-NO_28502617.mp3 Ho aj aj aj aj boff
+cv_nno_000017 common_voice_nn-NO_28502618.mp3 Dermed er også kunsten eit sentralt objekt for analyse av samfunnet.
+cv_nno_000018 common_voice_nn-NO_28502619.mp3 Det gjer ho.
+cv_nno_000019 common_voice_nn-NO_28502620.mp3 Sikkert ikkje utan grunn.
+cv_nno_000020 common_voice_nn-NO_28551430.mp3 Eg er einig med annelinga i at det er interessant å samanlikne forskjellige omsetjingar.
+cv_nno_000021 common_voice_nn-NO_28551432.mp3 Så defor vil eg ha ei variert bokhylle.
+cv_nno_000022 common_voice_nn-NO_28551433.mp3 Eg er eg -
+cv_nno_000023 common_voice_nn-NO_28551434.mp3 Han likar å vere i fred
+cv_nno_000024 common_voice_nn-NO_28551436.mp3 Eg tykkjer nesten ikkje at dei kunne funne nokon betre.
+cv_nno_000025 common_voice_nn-NO_28602268.mp3 Dette diktet av Stein Mehren syns eg er nydelig.
+cv_nno_000026 common_voice_nn-NO_28602269.mp3 Eg trengte litt tid før notidshistoria fenga skikkeleg.
+cv_nno_000027 common_voice_nn-NO_28602271.mp3 Og då synest eg ikkje det gjer noko om dette manglar.
+cv_nno_000028 common_voice_nn-NO_28602272.mp3 Dostojevskij viser oss at Dmitrij har eit motiv.
+cv_nno_000029 common_voice_nn-NO_28602273.mp3 Eg er ein dedikert engelsklærar.
+cv_nno_000030 common_voice_nn-NO_28602531.mp3 Eg må innrømma at eg blei noko sliten av dei ei stund.
+cv_nno_000031 common_voice_nn-NO_28602532.mp3 Coraline bur i eit gammalt hus saman med mor og far.
+cv_nno_000032 common_voice_nn-NO_28602533.mp3 Sovande Sorg skal ein ikkje vekkja.
+cv_nno_000033 common_voice_nn-NO_28602534.mp3 Syns ikkje at Jakob Sande skal bli gløymt av dei norske diktarane.
+cv_nno_000034 common_voice_nn-NO_28602535.mp3 Sjølv sit eg lur og seidar
+cv_nno_000035 common_voice_nn-NO_28731612.mp3 Må innrømme at eg berre har skumma denne.
+cv_nno_000036 common_voice_nn-NO_28731613.mp3 Endringar i klimaet kan medføre endringar i kvar og når store nedbørsmengder kjem.
+cv_nno_000037 common_voice_nn-NO_28731614.mp3 Men synes det er ein veldig interessant sjanger!
+cv_nno_000038 common_voice_nn-NO_28731615.mp3 Bygg deg eit slott av plast.
+cv_nno_000039 common_voice_nn-NO_28731616.mp3 Ho er velskriven og rommar veldig mykje.
+cv_nno_000040 common_voice_nn-NO_28731617.mp3 Eg skulle ønske eg levde på den tida.
+cv_nno_000041 common_voice_nn-NO_28731618.mp3 - Nok ein grunn til at vi bør sjåast fredag.
+cv_nno_000042 common_voice_nn-NO_28731619.mp3 Rivalen har tydelegvis ikkje noko å stille opp med her.
+cv_nno_000043 common_voice_nn-NO_28731620.mp3 Deler av denne boka vart skriven heime hos oss på Byre i Ryfylke.
+cv_nno_000044 common_voice_nn-NO_28731621.mp3 Hvilke bøker syns dere bør vere i allemanns bokhyller?
+cv_nno_000045 common_voice_nn-NO_32339020.mp3 Og då brukar eg gjetningar som utgangspunkt for kva eg skal velje bort.
+cv_nno_000046 common_voice_nn-NO_32339021.mp3 Korfor er dette eit problem?
+cv_nno_000047 common_voice_nn-NO_32339022.mp3 Eg ville ta med meg ei bok frå landet er besøkte.
+cv_nno_000048 common_voice_nn-NO_32339023.mp3 Og eg syns eigentleg den var ganske lettlest.
+cv_nno_000049 common_voice_nn-NO_32339024.mp3 Det er ein av grunnane til at eg er ein flittig brukar av biblioteket.
+cv_nno_000050 common_voice_nn-NO_32339030.mp3 Om kvekarar og anna rogalandsk lokalhistorie - i eit allment perspektiv.
+cv_nno_000051 common_voice_nn-NO_32339031.mp3 I går kveld tok eg ho endeleg fram og vart gledeleg overraska.
+cv_nno_000052 common_voice_nn-NO_32339032.mp3 Så lenge eg veit du vil koma i blant
+cv_nno_000053 common_voice_nn-NO_32339033.mp3 Eg likte denne biografien svært godt.
+cv_nno_000054 common_voice_nn-NO_32339034.mp3 Eg må forresten få rose deg litt for bloggen din Tone!
+cv_nno_000055 common_voice_nn-NO_31750620.mp3 Dette blir ei bok eg kjem til å ha under huda lenge.
+cv_nno_000056 common_voice_nn-NO_31750621.mp3 Dei viser godt korleis eins eigne erfaringar påvirkar korleis ein les bøker.
+cv_nno_000057 common_voice_nn-NO_31750622.mp3 Velkomponert med eit flytande språk.
+cv_nno_000058 common_voice_nn-NO_31750623.mp3 Eg tek med eitt av mange som eg likar godt.
+cv_nno_000059 common_voice_nn-NO_31750624.mp3 Dette vart slått hardt ned på.
+cv_nno_000060 common_voice_nn-NO_31750670.mp3 Har eg dekt meg med song og harpespel.
+cv_nno_000061 common_voice_nn-NO_31750671.mp3 Må nesten lese ho før eg dømmer ho.
+cv_nno_000062 common_voice_nn-NO_31750672.mp3 Føler at det er fyrst nå at eg er kommen i gang.
+cv_nno_000063 common_voice_nn-NO_31750673.mp3 Sjølv likte eg boka godt.
+cv_nno_000064 common_voice_nn-NO_31750674.mp3 For eit land!
+cv_nno_000065 common_voice_nn-NO_28434635.mp3 Eit favorittspråk!
+cv_nno_000066 common_voice_nn-NO_28434636.mp3 Kanskje ein bok eg bør skaffe meg.
+cv_nno_000067 common_voice_nn-NO_28434638.mp3 Ver eit ekstra hudlag
+cv_nno_000068 common_voice_nn-NO_28434640.mp3 I jula skal ein nyte litt..
+cv_nno_000069 common_voice_nn-NO_28434641.mp3 Så skriv ho med humor.
+cv_nno_000070 common_voice_nn-NO_28437834.mp3 Vart aldri fascinert av denne historia...
+cv_nno_000071 common_voice_nn-NO_28437836.mp3 Men kanskje eg skal utvikla eit eller anna system?
+cv_nno_000072 common_voice_nn-NO_28437841.mp3 Han er ikkje lenger ein av dei.
+cv_nno_000073 common_voice_nn-NO_28437843.mp3 Eg fekk meir innsikt av å lesa dette
+cv_nno_000074 common_voice_nn-NO_28437844.mp3 Så absolutt ikkje.
+cv_nno_000075 common_voice_nn-NO_28551010.mp3 Fekk også lyst til å lese meir om Den Dominikanske republikk etter denne boka.
+cv_nno_000076 common_voice_nn-NO_28551011.mp3 Om å skrive ein erotisk roman.
+cv_nno_000077 common_voice_nn-NO_28551012.mp3 Kanskje eg prøver igjen...
+cv_nno_000078 common_voice_nn-NO_28551013.mp3 Ser eg ikkje er så bereist i den litt eldre litteraturen.
+cv_nno_000079 common_voice_nn-NO_28551014.mp3 Ja det er bra.
+cv_nno_000080 common_voice_nn-NO_28551045.mp3 Er forsåvidt enig i at Bella Swan er eit heller dårleg forbilde for ungjenter.
+cv_nno_000081 common_voice_nn-NO_28551046.mp3 Slaviks blir ikkje her rekna som del av det europeiske faktisk.
+cv_nno_000082 common_voice_nn-NO_28551047.mp3 Han hadde heilt sikkert vore eit betre gifte for Julie enn Romeo..
+cv_nno_000083 common_voice_nn-NO_28551048.mp3 Er eit temmeleg..
+cv_nno_000084 common_voice_nn-NO_28551049.mp3 Gjer ikkje som eg har gjort -
+cv_nno_000085 common_voice_nn-NO_28551527.mp3 Det var eit godt ferieval!
+cv_nno_000086 common_voice_nn-NO_28551528.mp3 Veit eg ikkje.
+cv_nno_000087 common_voice_nn-NO_28551529.mp3 Personleg prøver eg å ikkje samle opp for mange bøker som eg aldri brukar.
+cv_nno_000088 common_voice_nn-NO_28551530.mp3 Eg gleder meg til å følgje diskusjonane i denne tråden.
+cv_nno_000089 common_voice_nn-NO_28551557.mp3 Eg har vore spesielt fascinert av outsider-personane i bøkene hennar.
+cv_nno_000090 common_voice_nn-NO_28551558.mp3 Eg er glad for at alle ber om sakte fart gjennom Don Quijotes rute.
+cv_nno_000091 common_voice_nn-NO_28551559.mp3 Og sjølv då trur eg at eg heller ville klandra meg sjølv!
+cv_nno_000092 common_voice_nn-NO_28551560.mp3 Minst ein elefant.
+cv_nno_000093 common_voice_nn-NO_28551567.mp3 Eg synest at det passar så godt på måten don Quijote opplever verda på.
+cv_nno_000094 common_voice_nn-NO_28551568.mp3 Forøvrig kan ein jo reagere sterkt på lisensiert whisky...
+cv_nno_000095 common_voice_nn-NO_28551569.mp3 Dette er ein av dei beste biografiane eg har lest!
+cv_nno_000096 common_voice_nn-NO_28551570.mp3 Og skrive kan ho!
+cv_nno_000097 common_voice_nn-NO_28551571.mp3 Er Don Quijotes misoppfatning av verda eit barokktrekk?
+cv_nno_000098 common_voice_nn-NO_28653114.mp3 Eg blei litt skuffa.
+cv_nno_000099 common_voice_nn-NO_28653115.mp3 I mellomtida koser eg meg med henne.
+cv_nno_000100 common_voice_nn-NO_28653116.mp3 Og slikt bør ein ikkje gløyma.
+cv_nno_000101 common_voice_nn-NO_28653117.mp3 Eg har ikkje vore med Ragnhildarane til Trøndelag.
+cv_nno_000102 common_voice_nn-NO_28653119.mp3 Det finst eindel bøker ein aldri sluttar å lesa.
+cv_nno_000103 common_voice_nn-NO_28653127.mp3 Denne her syntest eg var overraskande dårleg.
+cv_nno_000104 common_voice_nn-NO_28653128.mp3 Det kan godt hende at eg las boka litt for kjapt og overflatisk.
+cv_nno_000105 common_voice_nn-NO_28653129.mp3 Dette er ein bortgjemt skatt!
+cv_nno_000106 common_voice_nn-NO_28653130.mp3 Ein drep ikkje det vonde med øks.
+cv_nno_000107 common_voice_nn-NO_28653131.mp3 Ho blei tvunge til å arbeida for å fø familien...
+cv_nno_000108 common_voice_nn-NO_28653132.mp3 Boka er vel egentlig ein ny og morsomere versjon av deler i bibelen.
+cv_nno_000109 common_voice_nn-NO_28653133.mp3 Denne leseopplevinga ville eg ikkje ha vore forutan!
+cv_nno_000110 common_voice_nn-NO_28653134.mp3 Så får eg nesten mitt eige bibliotek.
+cv_nno_000111 common_voice_nn-NO_28653135.mp3 Men boka handlar om meir enn det også - så mykje meir.
+cv_nno_000112 common_voice_nn-NO_28653136.mp3 Eller er det fleire av desse faktorane?
+cv_nno_000113 common_voice_nn-NO_28653137.mp3 Der set me frå oss dei me har lest og finn oss nye.
+cv_nno_000114 common_voice_nn-NO_28653138.mp3 Godt å høyre at eg er eit førebilete!
+cv_nno_000115 common_voice_nn-NO_28653139.mp3 Solide artiklar om eit vidt spekter av emne.
+cv_nno_000116 common_voice_nn-NO_28653140.mp3 Likevel kom eg til annan konklusjon.
+cv_nno_000117 common_voice_nn-NO_28653141.mp3 Nokon som har fleire?
+cv_nno_000118 common_voice_nn-NO_30577348.mp3 Eg hadde gleda meg til å lesa vidare om Erica Falck og søstera.
+cv_nno_000119 common_voice_nn-NO_30577349.mp3 Elles har vi jo Hamsun med fleire fine bøker....
+cv_nno_000120 common_voice_nn-NO_30577350.mp3 Føler ikkje at det bringer noko vesentleg nytt.
+cv_nno_000121 common_voice_nn-NO_30577351.mp3 Det er det saka handlar om.
+cv_nno_000122 common_voice_nn-NO_30577352.mp3 Syns denne var meir seig og glømte den reint innimellom.
+cv_nno_000123 common_voice_nn-NO_30577357.mp3 Dette er ein drivende god thriller.
+cv_nno_000124 common_voice_nn-NO_30577359.mp3 Men boka svarte slett ikkje til forventningane.
+cv_nno_000125 common_voice_nn-NO_30577360.mp3 For å illustrere det heile.
+cv_nno_000126 common_voice_nn-NO_30577361.mp3 Ja ikkje sant!
+cv_nno_000127 common_voice_nn-NO_30577362.mp3 Det teikna til ein overlag sommar i år.
+cv_nno_000128 common_voice_nn-NO_30577368.mp3 Kjem nok ikkje til å lese noko av denne forfattaren igjen.
+cv_nno_000129 common_voice_nn-NO_30577369.mp3 Eg held på med Emma av Jane Austen og Revolutionary road Av Richard Yates.
+cv_nno_000130 common_voice_nn-NO_30577370.mp3 I fem gonger ni månader gjekk eg med kvalmen i munn
+cv_nno_000131 common_voice_nn-NO_30577371.mp3 Dette er krim og samtidig ikkje-krim.
+cv_nno_000132 common_voice_nn-NO_30577372.mp3 Ein av mine absolutte favorittar!
+cv_nno_000133 common_voice_nn-NO_30577373.mp3 Noke kan ein selvsagt sette fingeren på...
+cv_nno_000134 common_voice_nn-NO_30577374.mp3 Mia Berner kastar ikkje vekk tida.
+cv_nno_000135 common_voice_nn-NO_30577376.mp3 Eg plukkar stjerner
+cv_nno_000136 common_voice_nn-NO_30577378.mp3 Godt eg ikkje las kommentarane først...men eg er likevel heilt samd.
+cv_nno_000137 common_voice_nn-NO_30577379.mp3 Eg trur alle har noko å bidra med.
+cv_nno_000138 common_voice_nn-NO_30577380.mp3 Dette medfører ein del problem.....
+cv_nno_000139 common_voice_nn-NO_30577381.mp3 Berre eg er vaken
+cv_nno_000140 common_voice_nn-NO_30577382.mp3 I dag fann eg siste bok i serien om familien Kanne.
+cv_nno_000141 common_voice_nn-NO_30677990.mp3 Eg synest slikt er veldig morsomt.
+cv_nno_000142 common_voice_nn-NO_30677991.mp3 Likevel kan boka vere god som utgangspunkt for arbeidet.
+cv_nno_000143 common_voice_nn-NO_30677992.mp3 Dei finst det fleire av.
+cv_nno_000144 common_voice_nn-NO_30677993.mp3 Eg kan tenkje meg at få følgjer dette til punkt og prikke i dag.
+cv_nno_000145 common_voice_nn-NO_30678000.mp3 Du har utsyn mot eit flott landskap!
+cv_nno_000146 common_voice_nn-NO_30678001.mp3 Eg gleder meg til å lese meir av Stranger!
+cv_nno_000147 common_voice_nn-NO_30678002.mp3 Eg opplevde den som både fornøyelig og irriterande......
+cv_nno_000148 common_voice_nn-NO_30678003.mp3 Eg puster lilla
+cv_nno_000149 common_voice_nn-NO_30678004.mp3 Livlegare litteratur finst ikkje!
+cv_nno_000150 common_voice_nn-NO_30678020.mp3 Dette er noko eg misliker på det sterkaste!
+cv_nno_000151 common_voice_nn-NO_30678021.mp3 Hvorfor er Unn så flau neste dag at ho ikkje vil treffe på Siss?
+cv_nno_000152 common_voice_nn-NO_30678022.mp3 Korfor har regjeringa snudd?
+cv_nno_000153 common_voice_nn-NO_30678023.mp3 Eg er ein stad der det er ein bokhandlar.
+cv_nno_000154 common_voice_nn-NO_30678024.mp3 Ikkje annleis.
+cv_nno_000155 common_voice_nn-NO_30678035.mp3 Og so er det den eg høyrer på lydbok.
+cv_nno_000156 common_voice_nn-NO_30678036.mp3 Tar eg meg av alt det andre
+cv_nno_000157 common_voice_nn-NO_30678037.mp3 Skal seie frå om eg oppdagar det heime.
+cv_nno_000158 common_voice_nn-NO_30678038.mp3 Eg har veldig få bøker eg er flau over å ha lest.
+cv_nno_000159 common_voice_nn-NO_30678039.mp3 Eg klarar nok ikkje å forklare dette heilt.
+cv_nno_000160 common_voice_nn-NO_30678065.mp3 Dette var berre eit lite utval av det som står på lista.
+cv_nno_000161 common_voice_nn-NO_30678066.mp3 Eg kan tydeleg sjå det.
+cv_nno_000162 common_voice_nn-NO_30678067.mp3 No gler eg meg til å lese noko anna.
+cv_nno_000163 common_voice_nn-NO_30678068.mp3 Her er det opp til fleire scener som får tårene til å trille.
+cv_nno_000164 common_voice_nn-NO_30678069.mp3 Når ein fyrst kjem i gang skikkeleg!
+cv_nno_000165 common_voice_nn-NO_32702206.mp3 Eg for min del les fordi det er så inn i hampen morosamt.
+cv_nno_000166 common_voice_nn-NO_32702207.mp3 Og eg kjenner din vilje
+cv_nno_000167 common_voice_nn-NO_32702208.mp3 Ofte les eg bøker dersom eg har likt andre av samme forfattar.
+cv_nno_000168 common_voice_nn-NO_32702209.mp3 Berre av å høyre tittelen fekk eg lyst til å lese den boka.
+cv_nno_000169 common_voice_nn-NO_32702231.mp3 Eg òg lika boka godt.
+cv_nno_000170 common_voice_nn-NO_32702232.mp3 Denne må eg lesa om att...
+cv_nno_000171 common_voice_nn-NO_32702233.mp3 Ho skriv godt og denne likte eg.
+cv_nno_000172 common_voice_nn-NO_32702234.mp3 Eg les gjerne bøker om igjen.
+cv_nno_000173 common_voice_nn-NO_32702235.mp3 Kan du seie meg kor eg får trikken til Sandviken?
+cv_nno_000174 common_voice_nn-NO_32702256.mp3 Dette er ei livsnødvendig bok Eg har lese den to gonger.
+cv_nno_000175 common_voice_nn-NO_32702257.mp3 Herlig bok for alle oss som helst ville vore ein heilt annan stad.
+cv_nno_000176 common_voice_nn-NO_32702258.mp3 Og snart skal eg høre han i Litteraturhuset i Oslo...
+cv_nno_000177 common_voice_nn-NO_32702259.mp3 Bøker er som oftest best på det språket dei vart skreven på.
+cv_nno_000178 common_voice_nn-NO_32702260.mp3 Augo dine bar i seg ein varme.
+cv_nno_000179 common_voice_nn-NO_32702271.mp3 Ikkje enig.
+cv_nno_000180 common_voice_nn-NO_32702272.mp3 Det skal visst komma film av denne romanen har eg lest.
+cv_nno_000181 common_voice_nn-NO_32702273.mp3 Dette er eit av sommarens store høgdepunkt.
+cv_nno_000182 common_voice_nn-NO_32702274.mp3 Gjennom denne boka får me eit grusomt bilde på kva som foregjekk.
+cv_nno_000183 common_voice_nn-NO_32702275.mp3 No har eg sett filmen.
+cv_nno_000184 common_voice_nn-NO_32702289.mp3 Ein skuffelse.
+cv_nno_000185 common_voice_nn-NO_32702290.mp3 Ein likandes kar!
+cv_nno_000186 common_voice_nn-NO_32702291.mp3 Og Langenscheidts gresk-tyske og tysk-greske lommeordbok har med ein del vanskelege former.
+cv_nno_000187 common_voice_nn-NO_32702292.mp3 Men eg har ikkje nokre sikre kjeldar å slå i bordet med.
+cv_nno_000188 common_voice_nn-NO_32702309.mp3 Språket synes eg er godt og variert.
+cv_nno_000189 common_voice_nn-NO_32702310.mp3 Kvifor gidd vi slite oss gjennom bøker som ein knapt orkar?
+cv_nno_000190 common_voice_nn-NO_32702311.mp3 Første gangen eg las den.
+cv_nno_000191 common_voice_nn-NO_32702312.mp3 Resten er kan hende meir diffuse.
+cv_nno_000192 common_voice_nn-NO_32702313.mp3 For nokre få år sidan høyrde eg i adioen eit intervju med Lena Einjorn.
+cv_nno_000193 common_voice_nn-NO_28551286.mp3 Fire bøker blei det på meg i år.
+cv_nno_000194 common_voice_nn-NO_28551287.mp3 Dette var narturleg slik han blei kjent med Ida.
+cv_nno_000195 common_voice_nn-NO_28551288.mp3 Kvar ein tanke som eg tenkte til sitt upphav dei batt
+cv_nno_000196 common_voice_nn-NO_28551289.mp3 Du kjenner meg truleg ikkje.
+cv_nno_000197 common_voice_nn-NO_28551290.mp3 Eg har vore igjennom alt han har skrive.
+cv_nno_000198 common_voice_nn-NO_28551378.mp3 Og såg og lydde inntil ein bil
+cv_nno_000199 common_voice_nn-NO_28551381.mp3 Vi skal ikkje sova frå høysåteangen
+cv_nno_000200 common_voice_nn-NO_28551383.mp3 Desse tek eg fram og les i rett som det er.
+cv_nno_000201 common_voice_nn-NO_28551384.mp3 Det er jo ikkje ein typisk krim.
+cv_nno_000202 common_voice_nn-NO_28551385.mp3 Eit par amerikanske klassikarar kan eg slenga med òg.
+cv_nno_000203 common_voice_nn-NO_28551412.mp3 Sjølv om ho ofte ristar på hovudet over valet mitt av sjanger...
+cv_nno_000204 common_voice_nn-NO_28551413.mp3 Håper at eit bibliotek vil kunne hjelpe deg!
+cv_nno_000205 common_voice_nn-NO_28551415.mp3 Mykje ein skulle ha teke fatt i.
+cv_nno_000206 common_voice_nn-NO_28551416.mp3 Her var Google heldigare enn ho eller han er til vanleg.
+cv_nno_000207 common_voice_nn-NO_28551417.mp3 Lykka er ein sjeldan fugl av Anna Gavalda
+cv_nno_000208 common_voice_nn-NO_28551463.mp3 I kveld er eg diktet
+cv_nno_000209 common_voice_nn-NO_28551464.mp3 No sist har eg repetert verket som lydbok i bilen.
+cv_nno_000210 common_voice_nn-NO_28551465.mp3 Han brende mest aldri ein pinne.
+cv_nno_000211 common_voice_nn-NO_28551466.mp3 Kanskje eg skal gi Lie ein ny sjanse.
+cv_nno_000212 common_voice_nn-NO_28551468.mp3 Eg var i Danmark og såg rett så mange vindmøller!
+cv_nno_000213 common_voice_nn-NO_28551487.mp3 Noko moderator trenger vi ikkje.
+cv_nno_000214 common_voice_nn-NO_28551488.mp3 Men eg synest boka vart tolka bra i overføringa til film.
+cv_nno_000215 common_voice_nn-NO_28551489.mp3 Sjølvbiografien til gruvearbeidaren som etter andre verdskrigen vart medlem av regjeringas i Frankrike.
+cv_nno_000216 common_voice_nn-NO_28551490.mp3 Korfor er det ingen som tar ordet når ein ser seg sjøl i speilet?
+cv_nno_000217 common_voice_nn-NO_28551491.mp3 Blei nesten provosert.
+cv_nno_000218 common_voice_nn-NO_28551498.mp3 Meir om Ibsen.
+cv_nno_000219 common_voice_nn-NO_28551499.mp3 Stykket passar nok bra på ein ungdommskule.
+cv_nno_000220 common_voice_nn-NO_28551500.mp3 Eit bokprosjekt for alle som vil stira ned i den menneskelege brønn.
+cv_nno_000221 common_voice_nn-NO_28551501.mp3 Eg har nettopp lese Den gode borgermester.
+cv_nno_000222 common_voice_nn-NO_28551502.mp3 Da får eg gå på jakt etter de nevnte bøkene.
+cv_nno_000223 common_voice_nn-NO_32179887.mp3 Og plogen eg køyrer og kornet eg sår
+cv_nno_000224 common_voice_nn-NO_32179888.mp3 Det heile blei litt platt.
+cv_nno_000225 common_voice_nn-NO_32179889.mp3 Eg ville ha vore fattigare utan.
+cv_nno_000226 common_voice_nn-NO_32179890.mp3 Eg har vore der - og skjønner han så godt!
+cv_nno_000227 common_voice_nn-NO_32179897.mp3 Kolloen er ein meistar i denne sjangeren.
+cv_nno_000228 common_voice_nn-NO_32179902.mp3 Han må vere meir enn vanleg oppteken av psykologi...??
+cv_nno_000229 common_voice_nn-NO_32179903.mp3 Ho står der på den opne sletta
+cv_nno_000230 common_voice_nn-NO_32179904.mp3 Sjølv har eg prøvt fleire gonger utan å komma i mål.
+cv_nno_000231 common_voice_nn-NO_32179905.mp3 Den siste Barbarotti-boka er eg også veldig spent på!
+cv_nno_000232 common_voice_nn-NO_32179906.mp3 Eg og har notert meg at Paasilinna fungerer godt på svensk.
+cv_nno_000233 common_voice_nn-NO_32179912.mp3 Ein del av livet!
+cv_nno_000234 common_voice_nn-NO_32179913.mp3 Han gir eit interessant bilde av Richard Løvehjerte.
+cv_nno_000235 common_voice_nn-NO_32179914.mp3 Eg er god til å lese både skjønnlitteratur og sakprosa.
+cv_nno_000236 common_voice_nn-NO_32179915.mp3 Og eg orkar ikkje øydeleggje helga med å gå vidare med denne diskusjonen.
+cv_nno_000237 common_voice_nn-NO_32179916.mp3 Eg fører den på lista.
+cv_nno_000238 common_voice_nn-NO_32179922.mp3 Vil gjerne sjå barberen og kvartalet eg kjenner i Roma.
+cv_nno_000239 common_voice_nn-NO_32179923.mp3 Så håper eg at andre kan slå til med råd om litteratur frå Afrika.
+cv_nno_000240 common_voice_nn-NO_32179927.mp3 Dessverre har eg ikkje meir om Knut Hamsuns liv og forfattarskap enn dette.
+cv_nno_000241 common_voice_nn-NO_32179929.mp3 Det er all ekstra info eg har.
+cv_nno_000242 common_voice_nn-NO_32179931.mp3 Reven er ein hønsetjue.
+cv_nno_000243 common_voice_nn-NO_32179984.mp3 Han har ein underfundig måte å skrive på.
+cv_nno_000244 common_voice_nn-NO_32179985.mp3 Boka teiknar til å vere ein thriller.
+cv_nno_000245 common_voice_nn-NO_32179986.mp3 Eg gir derfor boka tommel opp.
+cv_nno_000246 common_voice_nn-NO_32179987.mp3 Det blei for meg komplett unødvendig.
+cv_nno_000247 common_voice_nn-NO_32180004.mp3 Då gløymer eg dei ikkje.
+cv_nno_000248 common_voice_nn-NO_32180005.mp3 Eg har sett ei engelsk bok på Bokkilden.
+cv_nno_000249 common_voice_nn-NO_32180006.mp3 Men berre nesten.
+cv_nno_000250 common_voice_nn-NO_32180007.mp3 Støttar forslaget om ein Bokelskere-app!
+cv_nno_000251 common_voice_nn-NO_32180009.mp3 Blei ikkje gripen av denne.
+cv_nno_000252 common_voice_nn-NO_32180050.mp3 Men eg har alltid vært litt glad i biblioteket og eg då.
+cv_nno_000253 common_voice_nn-NO_32180051.mp3 For å bli medlem av forfattarforeningen må ein ha gitt ut minst to bøker.
+cv_nno_000254 common_voice_nn-NO_32180052.mp3 Eit alltid like aktuelt etisk dilemma- å nytta vald for å vinna fred.
+cv_nno_000255 common_voice_nn-NO_32180053.mp3 Dei første sidene las eg greit.
+cv_nno_000256 common_voice_nn-NO_32180054.mp3 Det var jo ein helt annan type krim.
+cv_nno_000257 common_voice_nn-NO_32180088.mp3 Eg synest framleis Viggo Mortensen passar bra.
+cv_nno_000258 common_voice_nn-NO_32180090.mp3 Eg gjev helst ikkje terningkast til diktsamlingar.
+cv_nno_000259 common_voice_nn-NO_32180091.mp3 Eg kan ikkje heilt forklare dette med jordbærsyltetøy med vitskaplege termar heller.
+cv_nno_000260 common_voice_nn-NO_32180092.mp3 Det var første gongen eg såg han i uniform.
+cv_nno_000261 common_voice_nn-NO_31106465.mp3 So kan ein velja kor ein vil diskutera.
+cv_nno_000262 common_voice_nn-NO_31106466.mp3 Og eg vart positivt overraska.
+cv_nno_000263 common_voice_nn-NO_31106467.mp3 Har enda ikkje lest ei dårlig bok i den serien.
+cv_nno_000264 common_voice_nn-NO_31106469.mp3 Eg ber ikkje om livet ditt og dagen
+cv_nno_000265 common_voice_nn-NO_31356553.mp3 Som om ho var den første
+cv_nno_000266 common_voice_nn-NO_31356554.mp3 Det tykjer eg er det mest fantastiske med denne romanen.
+cv_nno_000267 common_voice_nn-NO_31356555.mp3 Det som vert populært får eg alltids høyre om uansett.
+cv_nno_000268 common_voice_nn-NO_31356556.mp3 Eg har lese om att boka Keiseren av Portugalia.
+cv_nno_000269 common_voice_nn-NO_31356557.mp3 Men seier ikkje noko meir om boka.
+cv_nno_000270 common_voice_nn-NO_31356563.mp3 Fyrr me vart fri.
+cv_nno_000271 common_voice_nn-NO_31356564.mp3 Eg har ei bok om spaserturar i Granada.
+cv_nno_000272 common_voice_nn-NO_31356565.mp3 Hehe...me brukte ordet varebind på bøkenene.
+cv_nno_000273 common_voice_nn-NO_31356566.mp3 Så det vart ei god oppleving å sjå filmem.
+cv_nno_000274 common_voice_nn-NO_31356567.mp3 Eg likte boka svært godt.
+cv_nno_000275 common_voice_nn-NO_31356568.mp3 Personskildringane er heller ikkje verst.
+cv_nno_000276 common_voice_nn-NO_31356569.mp3 Som barn i ein vesal stall.
+cv_nno_000277 common_voice_nn-NO_31356570.mp3 Eg klarer ikkje å rette den i basen.
+cv_nno_000278 common_voice_nn-NO_31356571.mp3 Eg glad for eit tydeleg ja.
+cv_nno_000279 common_voice_nn-NO_31356572.mp3 Anbefalar denne boka til dei som ikkje har altfor sart form for humor.
+cv_nno_000280 common_voice_nn-NO_31356573.mp3 Særleg Little Bee mister eg litt trua på.
+cv_nno_000281 common_voice_nn-NO_31356574.mp3 Verd å ta ein kik folkens.
+cv_nno_000282 common_voice_nn-NO_31356575.mp3 Eit vanleg oppslagsverk gir deg nok detaljar.
+cv_nno_000283 common_voice_nn-NO_31356576.mp3 Men det veit ein ikkje.
+cv_nno_000284 common_voice_nn-NO_31356577.mp3 Ikkje dårleg!
+cv_nno_000285 common_voice_nn-NO_31356578.mp3 Berre nokre småting
+cv_nno_000286 common_voice_nn-NO_31356579.mp3 Tilbake til maksstraff.
+cv_nno_000287 common_voice_nn-NO_31356580.mp3 Blei Kristin og Erlend gamle?
+cv_nno_000288 common_voice_nn-NO_31356581.mp3 Eg trur det er det at dei har blitt vaksne.
+cv_nno_000289 common_voice_nn-NO_31356582.mp3 Eg gleder meg til å gå vidare!
+cv_nno_000290 common_voice_nn-NO_31356583.mp3 Det liker eg.
+cv_nno_000291 common_voice_nn-NO_31356584.mp3 Det var liksom meir interessant.
+cv_nno_000292 common_voice_nn-NO_31356585.mp3 Alle desse trådane om populærlitteratur versus finlitteratur trur eg skaper usikkerheit.
+cv_nno_000293 common_voice_nn-NO_31356586.mp3 Det nyttar ikkje å gjere alt på gamlemåten og forvente eit anleis resultat.
+cv_nno_000294 common_voice_nn-NO_31356587.mp3 Og så ser eg i fellesbøkene våre at du les Lykke i Piemonte.
+cv_nno_000295 common_voice_nn-NO_31356588.mp3 I den forstand har eg alle forutsetnader mot meg.
+cv_nno_000296 common_voice_nn-NO_31356589.mp3 Denne Asterix-historien er berre heilt genial!
+cv_nno_000297 common_voice_nn-NO_31356590.mp3 Eg har ikkje klart å bli venner med lydbøker ennå.
+cv_nno_000298 common_voice_nn-NO_31356591.mp3 Såg teaterversjonen for nokre veker sidan og vart imponert.
+cv_nno_000299 common_voice_nn-NO_31356592.mp3 Ein fugl flyg einsamt under stjerner.
+cv_nno_000300 common_voice_nn-NO_28551025.mp3 Eller kanskje ikkje.
+cv_nno_000301 common_voice_nn-NO_28551026.mp3 Ein svak femmar på terningen.
+cv_nno_000302 common_voice_nn-NO_28551027.mp3 Andvake er ei gripande forteljing med ein grammatisk kunstleg friheit.
+cv_nno_000303 common_voice_nn-NO_28551028.mp3 Denne har eg spart på og gleda meg til.
+cv_nno_000304 common_voice_nn-NO_28551029.mp3 I alle fall ikkje for meg.
+cv_nno_000305 common_voice_nn-NO_28551030.mp3 Omtalen harmonerer ikkje med innhaldet.
+cv_nno_000306 common_voice_nn-NO_28551031.mp3 Vart litt skuffa over denne.
+cv_nno_000307 common_voice_nn-NO_28551032.mp3 Verken meir eller mindre.
+cv_nno_000308 common_voice_nn-NO_28551033.mp3 Likevel - ikkje så spennande som forventa.
+cv_nno_000309 common_voice_nn-NO_28551034.mp3 Her som eg bur brukte me mykje Maikatt før.
+cv_nno_000310 common_voice_nn-NO_28551065.mp3 Men der er ikkje planane heilt konkretiserte ennå.
+cv_nno_000311 common_voice_nn-NO_28551066.mp3 Eg har òg lagt Tusen strålende soler klar for sommaren.
+cv_nno_000312 common_voice_nn-NO_28551067.mp3 Om eg gidd.
+cv_nno_000313 common_voice_nn-NO_28551068.mp3 Når då berre dei meg villa unna
+cv_nno_000314 common_voice_nn-NO_28551069.mp3 Dessutan var ho stygg
+cv_nno_000315 common_voice_nn-NO_28551090.mp3 Strekte eg handa ut
+cv_nno_000316 common_voice_nn-NO_28551091.mp3 Her er eg litt uenig med deg.
+cv_nno_000317 common_voice_nn-NO_28551092.mp3 - Men ikkje vart gjenta gift.
+cv_nno_000318 common_voice_nn-NO_28551093.mp3 Det er så innmari irriterande når ein står fast!
+cv_nno_000319 common_voice_nn-NO_28551094.mp3 Eg synes Tusvik skriv godt.
+cv_nno_000320 common_voice_nn-NO_28551849.mp3 Han likar å vere i fred
+cv_nno_000321 common_voice_nn-NO_28551850.mp3 Det er akkurat som om dei må ta nynorsken heeeeilt ut på ein måte...
+cv_nno_000322 common_voice_nn-NO_28551851.mp3 Stykket passar nok bra på ein ungdommskule.
+cv_nno_000323 common_voice_nn-NO_28551852.mp3 Veit du ein ven
+cv_nno_000324 common_voice_nn-NO_28551853.mp3 Og egg skal vere hardkokte.
+cv_nno_000325 common_voice_nn-NO_28551931.mp3 Men det blir kanskje ein annan diskusjon...
+cv_nno_000326 common_voice_nn-NO_28551932.mp3 Eg har vore på jobb!
+cv_nno_000327 common_voice_nn-NO_28551933.mp3 Her var Google heldigare enn ho eller han er til vanleg.
+cv_nno_000328 common_voice_nn-NO_28551934.mp3 Heldigvis har eg gjort begge delar.
+cv_nno_000329 common_voice_nn-NO_28551935.mp3 Kanskje eg skal setje i gang eit bøkenes rettssystem.
+cv_nno_000330 common_voice_nn-NO_28551968.mp3 Her har eg lært mykje!
+cv_nno_000331 common_voice_nn-NO_28551970.mp3 Og endå meir far fetched kan det bli.
+cv_nno_000332 common_voice_nn-NO_28551971.mp3 Undervegs sett hjernen min saman dei separate bolkane til ein meiningsberande heilskap.
+cv_nno_000333 common_voice_nn-NO_28551973.mp3 Dermed kan ein lett få både stiv nakke og vårforkjøling å hanskast med.
+cv_nno_000334 common_voice_nn-NO_28551974.mp3 Koseleg med litt lett stoff mellom meir seriøse bøker.
+cv_nno_000335 common_voice_nn-NO_28551984.mp3 At eg må ha eit ølkrus til å leska meg på fyrst.
+cv_nno_000336 common_voice_nn-NO_28551985.mp3 Eit meisterverk om arbeidsløysa i mellomkrigstidas Tyskland.
+cv_nno_000337 common_voice_nn-NO_28551986.mp3 Og så er eg i gang!
+cv_nno_000338 common_voice_nn-NO_28551987.mp3 Så han gav ikkje ut denne boka.
+cv_nno_000339 common_voice_nn-NO_28551988.mp3 Eg likte boka veldig godt!
+cv_nno_000340 common_voice_nn-NO_28803429.mp3 Eg er og redd den blir for lite lesbar.
+cv_nno_000341 common_voice_nn-NO_28803431.mp3 Tonje Glimmerdal blei ein umiddelbar favoritt.
+cv_nno_000342 common_voice_nn-NO_28803432.mp3 Eg brukar nok meir pengar enn eg tykkjer er greit.
+cv_nno_000343 common_voice_nn-NO_28803433.mp3 Denne her syntest eg var overraskande dårleg.
+cv_nno_000344 common_voice_nn-NO_28803434.mp3 Eg er imponert over Shakespeareaktiviteten og -kunnskapen åt dykk som er med for fullt.
+cv_nno_000345 common_voice_nn-NO_32338845.mp3 Eg ligg litt etter.
+cv_nno_000346 common_voice_nn-NO_32338846.mp3 Dette blei komplisert.
+cv_nno_000347 common_voice_nn-NO_32338847.mp3 Dette blei for religiøst for meg.
+cv_nno_000348 common_voice_nn-NO_32338848.mp3 Eg trur ikkje det.
+cv_nno_000349 common_voice_nn-NO_32338849.mp3 Om endring i eit lokalsamfunn sedd gjennom augo til faren åt forfattaren.
+cv_nno_000350 common_voice_nn-NO_32338860.mp3 Det har vel noko å seie kor romantisk ein er....
+cv_nno_000351 common_voice_nn-NO_32338861.mp3 Er ikkje så farleg.
+cv_nno_000352 common_voice_nn-NO_32338862.mp3 Slik drar eg ut den perioden eg er midt i ei kjempegod bok.
+cv_nno_000353 common_voice_nn-NO_32338863.mp3 Eg har på mine raude dansesko
+cv_nno_000354 common_voice_nn-NO_32338864.mp3 Avbraut lesing medan ho endå var i Italia.
+cv_nno_000355 common_voice_nn-NO_32338870.mp3 Eg likte og boka kjempegodt.
+cv_nno_000356 common_voice_nn-NO_32338871.mp3 Så eg skjønner deg jo...
+cv_nno_000357 common_voice_nn-NO_32338872.mp3 Esmail hadde eit nært forhold til faren.
+cv_nno_000358 common_voice_nn-NO_32338873.mp3 Boka er trass alt meint å gje ein innføring.
+cv_nno_000359 common_voice_nn-NO_32338874.mp3 No må eg innrømme at eg ikkje heilt forstår kva du meiner...
+cv_nno_000360 common_voice_nn-NO_32338880.mp3 Dermed blir eg verken overbegeistra eller målbunden etter å ha lese Lørdag.
+cv_nno_000361 common_voice_nn-NO_32338881.mp3 Kva tykkjer du om ho?
+cv_nno_000362 common_voice_nn-NO_32338882.mp3 Altså ikkje sentralt i urbane strøk av Russland.
+cv_nno_000363 common_voice_nn-NO_32338883.mp3 Mysteriebøkene til Bjørn Sortland kan også vere aktuelle.
+cv_nno_000364 common_voice_nn-NO_32338884.mp3 Nå gjeld det berre å bli kvitt dette regnet...
+cv_nno_000365 common_voice_nn-NO_32338885.mp3 Stor tru på eiga evne er ein dyd!
+cv_nno_000366 common_voice_nn-NO_32338886.mp3 Du har all grunn til å vere stolt!
+cv_nno_000367 common_voice_nn-NO_32338887.mp3 Eg veit ikkje kva det er som gjer at det stoppar seg for meg.
+cv_nno_000368 common_voice_nn-NO_32338888.mp3 Du må gjerne kome med forslag om fleire ting som bør stå på lista.
+cv_nno_000369 common_voice_nn-NO_32338889.mp3 Sei at eg aldri har vore
+cv_nno_000370 common_voice_nn-NO_32338895.mp3 Eg har vore på Joyce-museet òg.
+cv_nno_000371 common_voice_nn-NO_32338896.mp3 Gløym meg ikkje...
+cv_nno_000372 common_voice_nn-NO_32338897.mp3 Då ser det ut som eg er førstemann ut!
+cv_nno_000373 common_voice_nn-NO_32338898.mp3 Men der har ein vel ein meir refererende synsvinkling.
+cv_nno_000374 common_voice_nn-NO_32338899.mp3 Beklager at eg ikkje uttrykte meg presist nok.
+cv_nno_000375 common_voice_nn-NO_32338925.mp3 Det der fugleverngreiene gjorde det berre lettare for meg å avbryte boka...
+cv_nno_000376 common_voice_nn-NO_32338926.mp3 Eg er mjuk.
+cv_nno_000377 common_voice_nn-NO_32338927.mp3 Det kan ein også sjå hos hjelpemiddelsentralen.
+cv_nno_000378 common_voice_nn-NO_32338928.mp3 Eg liker Siri Hustvedt.
+cv_nno_000379 common_voice_nn-NO_32338929.mp3 Berre bok gjer ingen klok.
+cv_nno_000380 common_voice_nn-NO_32338943.mp3 Dette er ein av dei få bøkene som har forandra livet mitt.
+cv_nno_000381 common_voice_nn-NO_32338944.mp3 Men eg fekk mykje ut av den.
+cv_nno_000382 common_voice_nn-NO_32338946.mp3 Det er nokre veker til eg må bestemma meg for kva eg skal kjøpa.
+cv_nno_000383 common_voice_nn-NO_32338947.mp3 Eg var ein tur på Rema i går.
+cv_nno_000384 common_voice_nn-NO_32338948.mp3 Nå er det ikkje alle bøker som er av like god kvalitet då....
+cv_nno_000385 common_voice_nn-NO_32338965.mp3 Trur likevel den må lesast ein gong til etter kvart.
+cv_nno_000386 common_voice_nn-NO_32338966.mp3 Eg brukte dei mykje som oppslagsverk i studietida.
+cv_nno_000387 common_voice_nn-NO_32338967.mp3 Har lyst til ein ny omgang!
+cv_nno_000388 common_voice_nn-NO_32338968.mp3 Diktaren Jakob Sande var nok ein spesiell person.
+cv_nno_000389 common_voice_nn-NO_32338969.mp3 Eg legg teksten ut på bloggen.
+cv_nno_000390 common_voice_nn-NO_32338975.mp3 Den er engasjerande på same måte som Drømmehjerte av Samartin syns eg.
+cv_nno_000391 common_voice_nn-NO_32338976.mp3 Eg likar best første delen av boka.
+cv_nno_000392 common_voice_nn-NO_32338977.mp3 Heilt til eg oppfatta at den ikkje hadde noko med jula å gjere.
+cv_nno_000393 common_voice_nn-NO_32338978.mp3 Ho gjekk på universitet i Columbia.
+cv_nno_000394 common_voice_nn-NO_32338979.mp3 Så vidunderleg poetisk fortalt - synest i alle fall eg.
+cv_nno_000395 common_voice_nn-NO_32320801.mp3 Ei rettssak er i grunnen ein fin måte å stille ting i relieff på.
+cv_nno_000396 common_voice_nn-NO_32320802.mp3 Jo Nesbø likar eg fordi bøkene er undehaldandeog spennande.
+cv_nno_000397 common_voice_nn-NO_32320803.mp3 Stor lesing dette - Tarjei Vesaas er ikkje oppskrytt slik eg har trudd.
+cv_nno_000398 common_voice_nn-NO_32320804.mp3 Kanskje eg må ta den fram igjen?
+cv_nno_000399 common_voice_nn-NO_32320805.mp3 Ein direkte favoritt
+cv_nno_000400 common_voice_nn-NO_32320806.mp3 Eg er veldig glad i denne serien frå Erling Pedersen.
+cv_nno_000401 common_voice_nn-NO_32320807.mp3 - Eller sjå om eg kan låne dei på lydbok...
+cv_nno_000402 common_voice_nn-NO_32320808.mp3 Og eg har ein god opplevelse underveis.
+cv_nno_000403 common_voice_nn-NO_32320809.mp3 Dickens skildrar desse episodane på ein fargerik og humoristisk måte.
+cv_nno_000404 common_voice_nn-NO_32320810.mp3 Som lekmann har ein uansett små forutsetnadar til å avdekka eventuelle uregelmessige moment.
+cv_nno_000405 common_voice_nn-NO_32320811.mp3 For å setje pris på boka lyt ein akseptere forfattaren sitt univers.
+cv_nno_000406 common_voice_nn-NO_32320812.mp3 Pengane eg sparar brukar eg heller på kvalitetsfilm og vin.
+cv_nno_000407 common_voice_nn-NO_32320813.mp3 Mot jul av Margrethe Munthe fann eg i ei barnedikt-bok.
+cv_nno_000408 common_voice_nn-NO_32320814.mp3 Og så bruker eg det til å navigere etter.
+cv_nno_000409 common_voice_nn-NO_32320815.mp3 Klarar ikkje å slutta å sjå på det!
+cv_nno_000410 common_voice_nn-NO_32320821.mp3 Den første og siste boka eg kjem til å lese av Coelho.
+cv_nno_000411 common_voice_nn-NO_32320822.mp3 Ho var ei av dei første bøkene eg kjøpte som ikkje var pensum.
+cv_nno_000412 common_voice_nn-NO_32320823.mp3 Eg lånte den norske omsetjinga på biblioteket fordi dei ikkje hadde den engelske inne.
+cv_nno_000413 common_voice_nn-NO_32320824.mp3 Ei av mine favorittbøker fordi ho har så mange kvalitetar.
+cv_nno_000414 common_voice_nn-NO_32320825.mp3 Nei det er viktig å ikkje følgje fleirtalet!
+cv_nno_000415 common_voice_nn-NO_32320826.mp3 Dessutan favoriserer eg ein del ord og ordlydar til fordel for andre.
+cv_nno_000416 common_voice_nn-NO_32320827.mp3 Han skamhogg ho
+cv_nno_000417 common_voice_nn-NO_32320828.mp3 Det vart for mykje..
+cv_nno_000418 common_voice_nn-NO_32320829.mp3 Og du vil vera eit anna menneske etterpå.
+cv_nno_000419 common_voice_nn-NO_32320830.mp3 Kanskje det aller finaste komplimentet eg nokonsinne har fått.
+cv_nno_000420 common_voice_nn-NO_32320837.mp3 Tom Egeland er ein god og kunskapsrik forfattar.
+cv_nno_000421 common_voice_nn-NO_32320839.mp3 Takk skal du ha.
+cv_nno_000422 common_voice_nn-NO_32320840.mp3 Og vinden eit korn av salt.
+cv_nno_000423 common_voice_nn-NO_32320841.mp3 Tenk at det tok så lang tid før eg oppdaga den....
+cv_nno_000424 common_voice_nn-NO_32320843.mp3 Boka er resultat av eit seminar der Michael Byram var ein av deltakarane.
+cv_nno_000425 common_voice_nn-NO_32320846.mp3 Ein Arv er snart upp-eten.
+cv_nno_000426 common_voice_nn-NO_32320847.mp3 At du tilfeldigvis sel godt kan umogeleg vere noko negativt.
+cv_nno_000427 common_voice_nn-NO_32320848.mp3 Trur ikkje eg blir lei av Damenes detektivbyrå.
+cv_nno_000428 common_voice_nn-NO_32320849.mp3 Lyttar eg
+cv_nno_000429 common_voice_nn-NO_32320850.mp3 Historia grip ein frå første avsnitt.
+cv_nno_000430 common_voice_nn-NO_32322530.mp3 Så langt er dette berre ei løypemelding.
+cv_nno_000431 common_voice_nn-NO_32322531.mp3 Ja til fleire gode lister!
+cv_nno_000432 common_voice_nn-NO_32322532.mp3 Det er ikkje denne boka han likar å vera mest kjent for!
+cv_nno_000433 common_voice_nn-NO_32322533.mp3 Dette er ein ekte klassikar.
+cv_nno_000434 common_voice_nn-NO_32322534.mp3 Rett utanfor byen Moca vart ein syskenflokk engasjerte i den tverrpolitiske motstandsrørsla.
+cv_nno_000435 common_voice_nn-NO_32322535.mp3 Det var så kjekt at det kunne godt vart endå lengre.
+cv_nno_000436 common_voice_nn-NO_32322536.mp3 I mitt første forsøk avbraut eg ved ca halvlest bok.
+cv_nno_000437 common_voice_nn-NO_32322537.mp3 Sjølv har eg i alle år hatt bokmål på skolen.
+cv_nno_000438 common_voice_nn-NO_32322538.mp3 Og så har eg fått mitt første svar òg!
+cv_nno_000439 common_voice_nn-NO_32322539.mp3 Eg har hatt store leseopplevinger med hennar bøker.
+cv_nno_000440 common_voice_nn-NO_32322540.mp3 Men plutselig tok det av og eg kom inn i historia.
+cv_nno_000441 common_voice_nn-NO_32322541.mp3 Eg dansar med ein
+cv_nno_000442 common_voice_nn-NO_32322542.mp3 Eit stjernespekka prosjekt.
+cv_nno_000443 common_voice_nn-NO_32322543.mp3 Igjen ein kjempefin anmeldelse!
+cv_nno_000444 common_voice_nn-NO_32322544.mp3 I eit einaste kaotisk samansurium.
+cv_nno_000445 common_voice_nn-NO_32350952.mp3 Ikkje noko vi skal bruke den innsikten til.
+cv_nno_000446 common_voice_nn-NO_32350953.mp3 Tenke eg skulle ha ein Austen-periode nå eg òg.
+cv_nno_000447 common_voice_nn-NO_32350954.mp3 Ein villhest som
+cv_nno_000448 common_voice_nn-NO_32350955.mp3 Har også fleire i bokhylla.
+cv_nno_000449 common_voice_nn-NO_32350956.mp3 Boka spenner over fleire århundre og fleire kontinent.
+cv_nno_000450 common_voice_nn-NO_32350957.mp3 Dermed har ikkje forbrukaren noko han eller ho skulle ha sagt.
+cv_nno_000451 common_voice_nn-NO_32350958.mp3 Eg prøver meg!
+cv_nno_000452 common_voice_nn-NO_32350959.mp3 Søren at eg gjekk inn her.
+cv_nno_000453 common_voice_nn-NO_32350960.mp3 Og eg ser absolutt rom for misforståinga.
+cv_nno_000454 common_voice_nn-NO_32350965.mp3 Å øydeleggje gode bøker er ein synd.
+cv_nno_000455 common_voice_nn-NO_32350966.mp3 Litteratur har lesing som ein føresetnad.
+cv_nno_000456 common_voice_nn-NO_32350968.mp3 Pocket kjøper eg berre dersom det er einaste tilgjengelige format.
+cv_nno_000457 common_voice_nn-NO_32350970.mp3 I ein dokumentarroman om ei av kvinnene i denne rørsla.
+cv_nno_000458 common_voice_nn-NO_32350971.mp3 Han likte ikkje å brenna veden sin.
+cv_nno_000459 common_voice_nn-NO_32410489.mp3 Eg er einig med det dei fleste i denne tråden har skrive.
+cv_nno_000460 common_voice_nn-NO_32410490.mp3 Er ikkje stillingane så naturgitte likevel?
+cv_nno_000461 common_voice_nn-NO_32410491.mp3 Det er nok ikkje omsetninga det står på.
+cv_nno_000462 common_voice_nn-NO_32410492.mp3 Eg slår saknet om meg
+cv_nno_000463 common_voice_nn-NO_32410493.mp3 Trur ikkje det gjev noko meining for skuleungar av idag...!!
+cv_nno_000464 common_voice_nn-NO_32410494.mp3 Og ikkje er det grisebilleg heller....
+cv_nno_000465 common_voice_nn-NO_32410495.mp3 Dei er glad i dyra sine.
+cv_nno_000466 common_voice_nn-NO_32410496.mp3 Eg likte verkeleg godt denne boka - perfekt sommarlektyre!
+cv_nno_000467 common_voice_nn-NO_32410497.mp3 Anten vi liker det eller ikkje.
+cv_nno_000468 common_voice_nn-NO_32410498.mp3 Går det an å gi fleire stjerner?
+cv_nno_000469 common_voice_nn-NO_31396314.mp3 Dette er ei bok eg anbefaler til alle!
+cv_nno_000470 common_voice_nn-NO_31396315.mp3 Dei har ein grunngjevnad.
+cv_nno_000471 common_voice_nn-NO_31396316.mp3 Eg skulle elles ønska at denne boka var dobbelt så tjukk.
+cv_nno_000472 common_voice_nn-NO_31396317.mp3 Bøker eg har lest og leser nå dette året
+cv_nno_000473 common_voice_nn-NO_31396318.mp3 Disse bøkene skulle eg hatt i samlinga mi.
+cv_nno_000474 common_voice_nn-NO_31396334.mp3 Eller kremta han berre
+cv_nno_000475 common_voice_nn-NO_31396336.mp3 Håret mitt hadde ein gong glans av gull og bronse.
+cv_nno_000476 common_voice_nn-NO_31396337.mp3 Angrar på at eg brukte tid og pengar på denne.
+cv_nno_000477 common_voice_nn-NO_31396339.mp3 Der ein kan koma
+cv_nno_000478 common_voice_nn-NO_31396344.mp3 Ellers er eg enig i at verden går fremover.
+cv_nno_000479 common_voice_nn-NO_31396345.mp3 Og sidan eg vart litt nysgjerrig på Jon O.
+cv_nno_000480 common_voice_nn-NO_31396346.mp3 Veit ikkje kvifor.
+cv_nno_000481 common_voice_nn-NO_31396347.mp3 Bokbyen er vel verd eit besøk!
+cv_nno_000482 common_voice_nn-NO_31396348.mp3 Så har eg òg lese Det usynlige fjellet.
+cv_nno_000483 common_voice_nn-NO_31396359.mp3 Men synest kanskje ikkje det heller gir god meining.
+cv_nno_000484 common_voice_nn-NO_31396360.mp3 Det må vere det blomstrande språket.
+cv_nno_000485 common_voice_nn-NO_31396361.mp3 Det auka dess meir han fekk gjort.
+cv_nno_000486 common_voice_nn-NO_31396362.mp3 No fekk eg også lyst å lese ho!
+cv_nno_000487 common_voice_nn-NO_31396363.mp3 Sitatboka har ikkje eg.
+cv_nno_000488 common_voice_nn-NO_31396372.mp3 Kornareala går opp.
+cv_nno_000489 common_voice_nn-NO_31396373.mp3 Eg fekk skore opp brødet.
+cv_nno_000490 common_voice_nn-NO_31396374.mp3 Ein herleg kombinasjon av humor og alvor synes eg.
+cv_nno_000491 common_voice_nn-NO_31396375.mp3 Leif Wærenskjold var ein ukjend forfattar for meg - heilt til no.
+cv_nno_000492 common_voice_nn-NO_31396377.mp3 Synst Renberg kunne ha brukt litt meir tid på denne.
+cv_nno_000493 common_voice_nn-NO_31396379.mp3 Eg må ha fleire steinar
+cv_nno_000494 common_voice_nn-NO_31396380.mp3 Eg lyttar for tida på lydboka.
+cv_nno_000495 common_voice_nn-NO_31396381.mp3 Eg har master i nordisk litteratur.
+cv_nno_000496 common_voice_nn-NO_31396382.mp3 Blei fasinert av historia.
+cv_nno_000497 common_voice_nn-NO_31396383.mp3 Eg følte ikkje at han utleverte seg i større grad enn andre forfattarar.
+cv_nno_000498 common_voice_nn-NO_31396399.mp3 Kva gir det?
+cv_nno_000499 common_voice_nn-NO_31396400.mp3 Eg også byrjar på altfor mange bøker som berre vert avbrotne og gløymde.
+cv_nno_000500 common_voice_nn-NO_31396401.mp3 Så bra at fleire trekkjer fram denne boka.
+cv_nno_000501 common_voice_nn-NO_31396402.mp3 Fantastiske historiar og eit mangfoldig personagalleri.
+cv_nno_000502 common_voice_nn-NO_31396403.mp3 Me er alle kultur-kristne.
+cv_nno_000503 common_voice_nn-NO_31396414.mp3 Når ein først skal skyte nokon - Arnfinn Kolerud
+cv_nno_000504 common_voice_nn-NO_31396415.mp3 Då vart iallfall eg litt klokare.
+cv_nno_000505 common_voice_nn-NO_31396416.mp3 Har tenkt å vente med Ben Okri til eg er ferdig med romanen.
+cv_nno_000506 common_voice_nn-NO_31396417.mp3 Kan eg med fordel hoppe over denna delen tru...?
+cv_nno_000507 common_voice_nn-NO_31396419.mp3 Eg skal ta att dei tapte timane til sommaren.
+cv_nno_000508 common_voice_nn-NO_31396429.mp3 Ein får jo godt innblikk i tankane hans sidan boka er skrivi i førsteperson.
+cv_nno_000509 common_voice_nn-NO_31396430.mp3 Eg meiner at det går an å samanlikne bok og film.
+cv_nno_000510 common_voice_nn-NO_31396431.mp3 I fjellet lever fjellryper og liryper.
+cv_nno_000511 common_voice_nn-NO_31396432.mp3 Slett ikkje verst!
+cv_nno_000512 common_voice_nn-NO_31396433.mp3 Utan å vise kva eg kan
+cv_nno_000513 common_voice_nn-NO_31396440.mp3 Ei god bok er ei bok som bringe fram følelsar når ein les.
+cv_nno_000514 common_voice_nn-NO_31396441.mp3 Naturalisme er ikkje noko for meg.
+cv_nno_000515 common_voice_nn-NO_31396442.mp3 Følte meg ikkje for ung!
+cv_nno_000516 common_voice_nn-NO_31396443.mp3 Gløymte i farten at det kanskje kan kome barnebarn ein gong...
+cv_nno_000517 common_voice_nn-NO_31396459.mp3 Ho les kjenslevart - og på dialekt.
+cv_nno_000518 common_voice_nn-NO_31396460.mp3 Så du er ikkje åleine.
+cv_nno_000519 common_voice_nn-NO_31396461.mp3 Den syntest eg ikkje blei like klam.
+cv_nno_000520 common_voice_nn-NO_31396462.mp3 Høyr ikkje på meg.
+cv_nno_000521 common_voice_nn-NO_31396463.mp3 Var ein vanleg kveld.
+cv_nno_000522 common_voice_nn-NO_31396484.mp3 Eg snakkar frå hjartet.
+cv_nno_000523 common_voice_nn-NO_31396486.mp3 Har du fleire att?
+cv_nno_000524 common_voice_nn-NO_31396487.mp3 Me fekk det vent og vidt
+cv_nno_000525 common_voice_nn-NO_31396488.mp3 Eg tok opp pengerullen og gjekk bort til blandaren.
+cv_nno_000526 common_voice_nn-NO_31396499.mp3 Eit godt og instruktivt etterord ved omsetjaren Magne Tørring.
+cv_nno_000527 common_voice_nn-NO_31396500.mp3 Au -- eg gløymde heilt spørsmålet!
+cv_nno_000528 common_voice_nn-NO_31396501.mp3 Den har eg lest.
+cv_nno_000529 common_voice_nn-NO_31396502.mp3 Og min påstand er at desse bøkene ikkje vil stå seg.
+cv_nno_000530 common_voice_nn-NO_31396503.mp3 Men subjektive meiningar må ein få lov til å ha!
+cv_nno_000531 common_voice_nn-NO_31396509.mp3 Det er gode initiativ.
+cv_nno_000532 common_voice_nn-NO_31396510.mp3 Ikkje moderne i forhold til vår tid..
+cv_nno_000533 common_voice_nn-NO_31396511.mp3 Eg likte ho kjempegodt!!
+cv_nno_000534 common_voice_nn-NO_31396512.mp3 Du seier at du ikkje trudde at så begavede forfattere skriver sånt møl.
+cv_nno_000535 common_voice_nn-NO_31396513.mp3 Eg sanser språket i diktet gjennom å lese diktet sakte.
+cv_nno_000536 common_voice_nn-NO_31396519.mp3 Eg liker å ha bøker.
+cv_nno_000537 common_voice_nn-NO_31396520.mp3 Eg meiner at denne versjonen er den mest pedagogiske på marknaden.
+cv_nno_000538 common_voice_nn-NO_31396521.mp3 Eg elskar både Jane Eyre og Stormfulle høyder..
+cv_nno_000539 common_voice_nn-NO_31396522.mp3 Eg misliker i staden det faktum at dårlege bøker vert populære.
+cv_nno_000540 common_voice_nn-NO_31396523.mp3 Men akkurat forholdet mellom romanfigurar og historiske personar kjenner eg ikkje til.
+cv_nno_000541 common_voice_nn-NO_31396544.mp3 Eg har forresten endt opp med ei bokhylle som nattbord!
+cv_nno_000542 common_voice_nn-NO_31396545.mp3 Langt ut i boka forstår vi årsakene til at ho er som ho er.
+cv_nno_000543 common_voice_nn-NO_31396546.mp3 Om ei jente som har fått ein fiks idé
+cv_nno_000544 common_voice_nn-NO_31396547.mp3 Ikkje har eg lese Tor Ulven heller.
+cv_nno_000545 common_voice_nn-NO_31396548.mp3 Den øverste du nevner kom eg akkurat over sjølv ved tilfeldig googling.
+cv_nno_000546 common_voice_nn-NO_31396554.mp3 Det eg hugsar best er rugdetrekkets overjordiske eigenskapar!
+cv_nno_000547 common_voice_nn-NO_31396555.mp3 Eg både liker og ikkje-liker Hamsun.
+cv_nno_000548 common_voice_nn-NO_31396556.mp3 Men alt i alt ikkje det heilt store.
+cv_nno_000549 common_voice_nn-NO_31396557.mp3 Det er noko med hans skrivestil og formuleringar som absolutt ikkje greier å engasjere.
+cv_nno_000550 common_voice_nn-NO_31396558.mp3 Men dokka fekk frå same stund ho kjær.
+cv_nno_000551 common_voice_nn-NO_31396559.mp3 Og eg går fram til di.
+cv_nno_000552 common_voice_nn-NO_31396560.mp3 Tenkjer at eg vil lese den omatt.
+cv_nno_000553 common_voice_nn-NO_31396561.mp3 Korfor var det viktig å offentleggjere det?
+cv_nno_000554 common_voice_nn-NO_31396562.mp3 Ein fireåring burde like Emil i Lønneberget og Pulverheksa.
+cv_nno_000555 common_voice_nn-NO_31396563.mp3 Til skog og enger ein dag
+cv_nno_000556 common_voice_nn-NO_31396564.mp3 Nok eit navn eg ikkje har hørt før.
+cv_nno_000557 common_voice_nn-NO_31396565.mp3 Og vaskar ikkje berre hendene
+cv_nno_000558 common_voice_nn-NO_31396566.mp3 Så godt kan eit menneske vera
+cv_nno_000559 common_voice_nn-NO_31396567.mp3 Har du lest Lykka er ein sjeldan fugl også?
+cv_nno_000560 common_voice_nn-NO_31396568.mp3 Ein gylden middelveg ja det hadde vore noko.
+cv_nno_000561 common_voice_nn-NO_31396569.mp3 Ein stor roman om undertrykking og motstand!
+cv_nno_000562 common_voice_nn-NO_31396570.mp3 Ho verka overfladisk og naiv.
+cv_nno_000563 common_voice_nn-NO_31396571.mp3 Eg les Klokkemakeren nå.Kosar meg!
+cv_nno_000564 common_voice_nn-NO_31396572.mp3 Eit paradis eg alltid vil lengte etter.
+cv_nno_000565 common_voice_nn-NO_31396573.mp3 Men eg er imponert over denne romanen.
+cv_nno_000566 common_voice_nn-NO_31396574.mp3 Ho har brukt elementer frå deira historier i bøkene sine.
+cv_nno_000567 common_voice_nn-NO_31396575.mp3 Ikkje kast bort tiden på denne è mitt råd.
+cv_nno_000568 common_voice_nn-NO_31396576.mp3 To kloke menn og ein journalist ei veke på Kreta.
+cv_nno_000569 common_voice_nn-NO_31396577.mp3 Før dagen kjem då ho må.
+cv_nno_000570 common_voice_nn-NO_31396578.mp3 Eg kjem til å skaffe meg den òg.
+cv_nno_000571 common_voice_nn-NO_31396579.mp3 Nett det eg treng.
+cv_nno_000572 common_voice_nn-NO_31396580.mp3 Og enno stend me midt der-i!
+cv_nno_000573 common_voice_nn-NO_31396596.mp3 Det hender eg bryr meg om omslaget på boka når eg les.
+cv_nno_000574 common_voice_nn-NO_31396597.mp3 Om ein månad skal eg gå i Toscas fotspor i Roma!
+cv_nno_000575 common_voice_nn-NO_31396598.mp3 Dette er den typen kriminallitteratur som eg liker.
+cv_nno_000576 common_voice_nn-NO_31396599.mp3 Og eg går òg fram til di.
+cv_nno_000577 common_voice_nn-NO_31396600.mp3 Skulle ønskje at forlaget heller hadde bruka ein skodespelar.
+cv_nno_000578 common_voice_nn-NO_31396611.mp3 Midt i den mørkaste sorga forelskar ho seg.
+cv_nno_000579 common_voice_nn-NO_31396612.mp3 For ein skatt!
+cv_nno_000580 common_voice_nn-NO_31396613.mp3 Eg les klassisk gresk og latin ved hjelp av ordbøker og grammatikk.
+cv_nno_000581 common_voice_nn-NO_31396614.mp3 Ein del humor er finst der og.
+cv_nno_000582 common_voice_nn-NO_31396621.mp3 Vennene Gloucester og Kent er ikkje i stand til å hjelpe han.
+cv_nno_000583 common_voice_nn-NO_31396622.mp3 Eg er langt på veg einig med deg.
+cv_nno_000584 common_voice_nn-NO_31396623.mp3 Og enno har eg ikkje fått nok.
+cv_nno_000585 common_voice_nn-NO_31396624.mp3 Eg tenkte eg skulle få tak i ho til sommarlesinga.
+cv_nno_000586 common_voice_nn-NO_31396625.mp3 Men eg liker ikkje Bella og måten ho er framstilt på.
+cv_nno_000587 common_voice_nn-NO_28722068.mp3 Då tar eg avstand frå komposteringa.
+cv_nno_000588 common_voice_nn-NO_28722069.mp3 Ein blir sterkt gripen av personane og livet deira.
+cv_nno_000589 common_voice_nn-NO_28722070.mp3 Fleire?
+cv_nno_000590 common_voice_nn-NO_28722071.mp3 Ein sjølvbiografi fortald som ein roman.
+cv_nno_000591 common_voice_nn-NO_28722072.mp3 Kanskje eg gjer eit nytt forsøk ved eit seinare høve.
+cv_nno_000592 common_voice_nn-NO_28722073.mp3 Masse handling som ikkje var med i bøkane.
+cv_nno_000593 common_voice_nn-NO_28722074.mp3 For meg var ikkje hoppa i tid noko problem.
+cv_nno_000594 common_voice_nn-NO_28722075.mp3 Berre enda meir enn før
+cv_nno_000595 common_voice_nn-NO_28722076.mp3 Eg las boka med laber entusiasme og raude kinn.
+cv_nno_000596 common_voice_nn-NO_28722077.mp3 Ikkje så rart!
+cv_nno_000597 common_voice_nn-NO_28722078.mp3 Eit hjartelag.
+cv_nno_000598 common_voice_nn-NO_28722079.mp3 Syns denne boka blei litt usamanhengande og springande.
+cv_nno_000599 common_voice_nn-NO_28722080.mp3 Eg kjenner meg godt igjen i det dere skriver.
+cv_nno_000600 common_voice_nn-NO_28722081.mp3 Skjønar ikkje at eg ikkje har oppdaga denne forfattaren før!
+cv_nno_000601 common_voice_nn-NO_28722082.mp3 Denne syns eg var full av klisjear.
+cv_nno_000602 common_voice_nn-NO_28722083.mp3 Det kan gjerne vere barnebøker.
+cv_nno_000603 common_voice_nn-NO_28722084.mp3 Eg vil fortelja og syngja om ting
+cv_nno_000604 common_voice_nn-NO_28722085.mp3 Så var han då òg ein real kar.
+cv_nno_000605 common_voice_nn-NO_28722086.mp3 Det ser eg på som positivt!
+cv_nno_000606 common_voice_nn-NO_28722087.mp3 Kvifor hadde eg imot å lese Vesaas da eg var yngre?
+cv_nno_000607 common_voice_nn-NO_28722088.mp3 Han blei ein trussel mod de andre i arbeidslaget.
+cv_nno_000608 common_voice_nn-NO_28722089.mp3 Men eg vil leva med deg
+cv_nno_000609 common_voice_nn-NO_28722090.mp3 Men vil høre meir om dei to elskande!
+cv_nno_000610 common_voice_nn-NO_28722091.mp3 Korleis kan eg fjerne eit sitat?
+cv_nno_000611 common_voice_nn-NO_28722092.mp3 Eg vil gjerne bli med på lesinga av ein del av bøkene.
+cv_nno_000612 common_voice_nn-NO_28722108.mp3 Eg la heller ikkje merke til noko tydeleg stilskifte mot slutten av boka.
+cv_nno_000613 common_voice_nn-NO_28722109.mp3 Når du har lese Utrenskning vil eg gjerne ha ditt syn på slutten!!
+cv_nno_000614 common_voice_nn-NO_28722111.mp3 Like trygt og stødt som i ein bank.
+cv_nno_000615 common_voice_nn-NO_28722112.mp3 Kanskje det er rom for ein ny sjanger der?
+cv_nno_000616 common_voice_nn-NO_28722113.mp3 Og for eit språk!
+cv_nno_000617 common_voice_nn-NO_28722119.mp3 Eg var veldig redd for dette før eg begynte å studere litteratur.
+cv_nno_000618 common_voice_nn-NO_28722120.mp3 Eg er nok einig med Renberg.
+cv_nno_000619 common_voice_nn-NO_28722121.mp3 Ein av mine favorittar!
+cv_nno_000620 common_voice_nn-NO_28722122.mp3 Her ser ein korleis den nordspanske byen har vore møteplass opp gjennom åra.
+cv_nno_000621 common_voice_nn-NO_28722128.mp3 Den hadde eg selvfølgeleg gløymt.
+cv_nno_000622 common_voice_nn-NO_28722129.mp3 Dette var ei av dei bøkene eg hadde tenkt kunne passe til advent......
+cv_nno_000623 common_voice_nn-NO_28722130.mp3 Men det kan jo hende eg tenker feil?
+cv_nno_000624 common_voice_nn-NO_28722298.mp3 Iallefall gjer eg det no.
+cv_nno_000625 common_voice_nn-NO_28722300.mp3 Eg skal definitivt lesa meir av Siri Hustvedt.
+cv_nno_000626 common_voice_nn-NO_28722301.mp3 Dette er ei bok eg tek fram igjen og igjen.
+cv_nno_000627 common_voice_nn-NO_28722302.mp3 Sjølv har eg nyleg begynt på Den usynlige broen av Julie Orringer.
+cv_nno_000628 common_voice_nn-NO_28722303.mp3 Han er god på å beskriva den unge mannen si famling etter ein identitet.
+cv_nno_000629 common_voice_nn-NO_28722319.mp3 Og ikkje alt som er sagt
+cv_nno_000630 common_voice_nn-NO_28722320.mp3 Denne orka eg ikkje lese ferdig.
+cv_nno_000631 common_voice_nn-NO_28722321.mp3 Det vart så uendeleg godt å vera til.
+cv_nno_000632 common_voice_nn-NO_28722322.mp3 Det er eit par partier i boka som blir litt usannsynlig og lite truverdigt.
+cv_nno_000633 common_voice_nn-NO_28722323.mp3 Nærare frøken Detektiv er det lenge sidan eg har vore.
+cv_nno_000634 common_voice_nn-NO_28722347.mp3 Mangt eg rødde då med deg.
+cv_nno_000635 common_voice_nn-NO_28722348.mp3 Men han blir ikkje verdsett stort i nabolaget sitt.
+cv_nno_000636 common_voice_nn-NO_28722349.mp3 Eg liker dette skodespelet fordi det tek stilling mot tyranni...
+cv_nno_000637 common_voice_nn-NO_28722350.mp3 Bokbrenning var ikkje noko som Hitler fann på!
+cv_nno_000638 common_voice_nn-NO_28722351.mp3 Frå hennar spede ungdom til ho er gamal og livsklok.
+cv_nno_000639 common_voice_nn-NO_28782667.mp3 Men snart eg sig atter ende ned.
+cv_nno_000640 common_voice_nn-NO_28782668.mp3 Ein kunde plystre.
+cv_nno_000641 common_voice_nn-NO_28782669.mp3 Av og til kan faktisk Google vere til hjelp.
+cv_nno_000642 common_voice_nn-NO_28782670.mp3 Fleire godbitar?
+cv_nno_000643 common_voice_nn-NO_28782671.mp3 Dette er den fyrste boka av Sunde som eg har lese.
+cv_nno_000644 common_voice_nn-NO_28782686.mp3 Men då eg leste boka sjølv blei eg skremt.
+cv_nno_000645 common_voice_nn-NO_28782687.mp3 Samtidig saknar ein som lesar ei breiare drøfting av krisa i industrilandbruket hos Bilden.
+cv_nno_000646 common_voice_nn-NO_28782688.mp3 Judas fornektar seg ikkje!
+cv_nno_000647 common_voice_nn-NO_28782689.mp3 Delar av forteljinga er så stillferdig at eg kanskje ikkje fekk med meg alt.
+cv_nno_000648 common_voice_nn-NO_28782690.mp3 Her vil eg ta det same grepet.
+cv_nno_000649 common_voice_nn-NO_28782696.mp3 Ikkje kom her med orda dine.
+cv_nno_000650 common_voice_nn-NO_28782697.mp3 Ikkje gi opp!
+cv_nno_000651 common_voice_nn-NO_28782698.mp3 Mogleg at eg er eit unntak då.
+cv_nno_000652 common_voice_nn-NO_28782699.mp3 Heksene og Georgs magiske medisin blei lesne om og om igjen.
+cv_nno_000653 common_voice_nn-NO_28782700.mp3 Ha ein fin dag!
+cv_nno_000654 common_voice_nn-NO_28806206.mp3 Eg likar den innstillinga.
+cv_nno_000655 common_voice_nn-NO_28806207.mp3 Synes diskusjonane deira rundt bøkene var svært interessante eg.
+cv_nno_000656 common_voice_nn-NO_28806209.mp3 Det var ikkje heilt mi bok dette.
+cv_nno_000657 common_voice_nn-NO_28806211.mp3 Eg saknar ein skikkelig begrunnelse for at du syns boka var så dårlig.
+cv_nno_000658 common_voice_nn-NO_28806214.mp3 Ikkje mykje tid til overs då nei.
+cv_nno_000659 common_voice_nn-NO_28806236.mp3 Boka la eg ikkje frå meg føre ho var ferdiglest.
+cv_nno_000660 common_voice_nn-NO_28806237.mp3 Eg er eigentleg einig med deg i det du seier om filmen.
+cv_nno_000661 common_voice_nn-NO_28806238.mp3 Det seier iallfall sitt at eg ikkje har lagt ut bøkene ein gong.
+cv_nno_000662 common_voice_nn-NO_28806239.mp3 På skjermen - som iallfall irriterer meg når eg les.
+cv_nno_000663 common_voice_nn-NO_28806242.mp3 Hadde tenkt at eg nettopp skulle nemne Jules Verne.
+cv_nno_000664 common_voice_nn-NO_28806257.mp3 Ein blir glad i personane i boka.
+cv_nno_000665 common_voice_nn-NO_28806260.mp3 Ein del spanske ord og uttrykk krydra det heile.
+cv_nno_000666 common_voice_nn-NO_28806262.mp3 Denne har eg lyst til å lesa!
+cv_nno_000667 common_voice_nn-NO_28806264.mp3 Har ikkje lest dei neste og har ikkje planer om det heller.
+cv_nno_000668 common_voice_nn-NO_28806265.mp3 Eg må berre seie at eg er imponert over hjelpsomheten her!
+cv_nno_000669 common_voice_nn-NO_28806283.mp3 I denne vesle boka er innlegga samla saman med ein del andre tekster.
+cv_nno_000670 common_voice_nn-NO_28806284.mp3 Håper Lina får det som ho vil ha det.
+cv_nno_000671 common_voice_nn-NO_28806286.mp3 Kven er eg ute etter og kva bok er det snakk om til slutt?
+cv_nno_000672 common_voice_nn-NO_28806289.mp3 Men trur eg må lesa Habanita for å kunna diskutera den.
+cv_nno_000673 common_voice_nn-NO_28806291.mp3 Då lærte eg noko i dag med!
+cv_nno_000674 common_voice_nn-NO_28806310.mp3 Eg dansar for deg i kveld
+cv_nno_000675 common_voice_nn-NO_28806311.mp3 Det synest eg er ein god plan.
+cv_nno_000676 common_voice_nn-NO_28806312.mp3 Eg kjenner òg til nokre slike prestar.
+cv_nno_000677 common_voice_nn-NO_28806338.mp3 Ei bok kan vere både ein roman og samstundes ei bok eg t.d.
+cv_nno_000678 common_voice_nn-NO_28806339.mp3 Når fekk eg ansvar for komposten?
+cv_nno_000679 common_voice_nn-NO_28806340.mp3 Eg trur det har mest med gammal vane å gjere.
+cv_nno_000680 common_voice_nn-NO_28806341.mp3 Einaste bokserien eg har høyrt om som har ei slik fornorsking er Stompa..
+cv_nno_000681 common_voice_nn-NO_28806342.mp3 Basso har eit nydeleg språk som gjør det moro å lese nynorsk.
+cv_nno_000682 common_voice_nn-NO_28806343.mp3 Når eg stoggar slik
+cv_nno_000683 common_voice_nn-NO_28806344.mp3 Den har eg liggjande.
+cv_nno_000684 common_voice_nn-NO_29005172.mp3 Ikkje rart han vart oppfatta som ein ny Kristus!
+cv_nno_000685 common_voice_nn-NO_29005174.mp3 Me seier framleis båmbåm!
+cv_nno_000686 common_voice_nn-NO_29005176.mp3 Det høyres ut som ein svært god ide!
+cv_nno_000687 common_voice_nn-NO_29005178.mp3 Fint språk - ikkje for ordrikt.
+cv_nno_000688 common_voice_nn-NO_29005180.mp3 Men eg synest boka klappar litt saman mot slutten.
+cv_nno_000689 common_voice_nn-NO_29190803.mp3 Som deg er eg igang men De forsvunnede.
+cv_nno_000690 common_voice_nn-NO_29190804.mp3 Eg er einig i det du har skrive om Blomstenes hemmelige språk.
+cv_nno_000691 common_voice_nn-NO_29190805.mp3 Så eg kan kjenna at eg er til.
+cv_nno_000692 common_voice_nn-NO_29190807.mp3 Som var det ein merkeleg kode.
+cv_nno_000693 common_voice_nn-NO_29190808.mp3 Eg liker lydbøker av same grunn.
+cv_nno_000694 common_voice_nn-NO_30329701.mp3 Du seier at du ikkje forstår korfor eg seier det eg seier.
+cv_nno_000695 common_voice_nn-NO_30329702.mp3 Den sistnemnte synes eg var ganske bra.
+cv_nno_000696 common_voice_nn-NO_30329703.mp3 Ikkje ein regel utan unntak.
+cv_nno_000697 common_voice_nn-NO_30329704.mp3 Ein blir godt kjend med Amalie Skram.
+cv_nno_000698 common_voice_nn-NO_30329705.mp3 I alle fall slik at du får ein topp tre.....
+cv_nno_000699 common_voice_nn-NO_30329716.mp3 Smerdjakov er ikkje bra og opptrer hovmodig.
+cv_nno_000700 common_voice_nn-NO_30329717.mp3 Eg likte ho ikkje spesielt godt.
+cv_nno_000701 common_voice_nn-NO_30329718.mp3 Og det synest eg ikkje er ein god ting.
+cv_nno_000702 common_voice_nn-NO_30329719.mp3 Akkurat det sitatet var det eg og ville svare her.
+cv_nno_000703 common_voice_nn-NO_30329720.mp3 Men ein fin innfallsport til diktinga og Fosse si tenking kring skriving.
+cv_nno_000704 common_voice_nn-NO_30329736.mp3 Og ein gamal
+cv_nno_000705 common_voice_nn-NO_30329738.mp3 Norsk Bokselskap er absolutt ein nettstad å følgja med på frametter.
+cv_nno_000706 common_voice_nn-NO_30329741.mp3 For nokon år sida las eg ho på oppfordring av nokon andre.
+cv_nno_000707 common_voice_nn-NO_30329743.mp3 Eg var sint då eg hadde sett han ferdig.
+cv_nno_000708 common_voice_nn-NO_30329746.mp3 Har sjølv planar om å kaste meg over nokre bøker før eg legg meg...

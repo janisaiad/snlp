@@ -1,0 +1,170 @@
+cv_kat_000169 common_voice_ka_25125657.mp3 ცხრა
+cv_kat_000170 common_voice_ka_25125658.mp3 შვიდი
+cv_kat_000171 common_voice_ka_25125659.mp3 ერთი
+cv_kat_000172 common_voice_ka_25125660.mp3 ორი
+cv_kat_000173 common_voice_ka_25125662.mp3 ნული
+cv_kat_000174 common_voice_ka_34261916.mp3 ორი
+cv_kat_000175 common_voice_ka_34261918.mp3 რვა
+cv_kat_000176 common_voice_ka_34261914.mp3 ოთხი
+cv_kat_000177 common_voice_ka_34261917.mp3 ხუთი
+cv_kat_000178 common_voice_ka_34261919.mp3 ერთი
+cv_kat_000179 common_voice_ka_33261165.mp3 ერთი
+cv_kat_000180 common_voice_ka_33261167.mp3 რვა
+cv_kat_000181 common_voice_ka_33261170.mp3 არა
+cv_kat_000182 common_voice_ka_33261172.mp3 ოთხი
+cv_kat_000183 common_voice_ka_33261173.mp3 ნული
+cv_kat_000184 common_voice_ka_34148882.mp3 შვიდი
+cv_kat_000185 common_voice_ka_34148878.mp3 ნული
+cv_kat_000186 common_voice_ka_34148881.mp3 რვა
+cv_kat_000187 common_voice_ka_34148880.mp3 სამი
+cv_kat_000188 common_voice_ka_34148883.mp3 ორი
+cv_kat_000189 common_voice_ka_26610887.mp3 ცხრა
+cv_kat_000190 common_voice_ka_26610888.mp3 სამი
+cv_kat_000191 common_voice_ka_26610889.mp3 არა
+cv_kat_000192 common_voice_ka_26610890.mp3 ერთი
+cv_kat_000193 common_voice_ka_26610891.mp3 რვა
+cv_kat_000194 common_voice_ka_34230685.mp3 ნული
+cv_kat_000195 common_voice_ka_34230686.mp3 შვიდი
+cv_kat_000196 common_voice_ka_34230687.mp3 ერთი
+cv_kat_000197 common_voice_ka_34230688.mp3 ექვსი
+cv_kat_000198 common_voice_ka_34230689.mp3 ცხრა
+cv_kat_000199 common_voice_ka_34227166.mp3 დიახ
+cv_kat_000200 common_voice_ka_34227168.mp3 ერთი
+cv_kat_000201 common_voice_ka_34227167.mp3 ცხრა
+cv_kat_000202 common_voice_ka_34227170.mp3 არა
+cv_kat_000203 common_voice_ka_34227175.mp3 შვიდი
+cv_kat_000204 common_voice_ka_25470235.mp3 შვიდი
+cv_kat_000205 common_voice_ka_25470236.mp3 დიახ
+cv_kat_000206 common_voice_ka_25470237.mp3 ხუთი
+cv_kat_000207 common_voice_ka_25470238.mp3 ნული
+cv_kat_000208 common_voice_ka_25470240.mp3 სამი
+cv_kat_000209 common_voice_ka_30034148.mp3 ორი
+cv_kat_000210 common_voice_ka_30034149.mp3 დიახ
+cv_kat_000211 common_voice_ka_30034150.mp3 ექვსი
+cv_kat_000212 common_voice_ka_30034151.mp3 სამი
+cv_kat_000213 common_voice_ka_30034152.mp3 ერთი
+cv_kat_000214 common_voice_ka_25748487.mp3 ნული
+cv_kat_000215 common_voice_ka_25748489.mp3 არა
+cv_kat_000216 common_voice_ka_25748490.mp3 შვიდი
+cv_kat_000217 common_voice_ka_25748491.mp3 ხუთი
+cv_kat_000218 common_voice_ka_25748492.mp3 ცხრა
+cv_kat_000219 common_voice_ka_34225838.mp3 დიახ
+cv_kat_000220 common_voice_ka_34225837.mp3 რვა
+cv_kat_000221 common_voice_ka_34225841.mp3 სამი
+cv_kat_000222 common_voice_ka_34225839.mp3 ცხრა
+cv_kat_000223 common_voice_ka_34225840.mp3 ექვსი
+cv_kat_000224 common_voice_ka_33174267.mp3 დიახ
+cv_kat_000225 common_voice_ka_33174271.mp3 ოთხი
+cv_kat_000226 common_voice_ka_33174268.mp3 ხუთი
+cv_kat_000227 common_voice_ka_33174270.mp3 რვა
+cv_kat_000228 common_voice_ka_33174269.mp3 ექვსი
+cv_kat_000229 common_voice_ka_34236230.mp3 შვიდი
+cv_kat_000230 common_voice_ka_34236233.mp3 ხუთი
+cv_kat_000231 common_voice_ka_34236235.mp3 ექვსი
+cv_kat_000232 common_voice_ka_34236236.mp3 დიახ
+cv_kat_000233 common_voice_ka_34236238.mp3 სამი
+cv_kat_000234 common_voice_ka_21931004.mp3 კუნძულზე ხდება ციკლონები.
+cv_kat_000235 common_voice_ka_21931005.mp3 ტურისტები ძირითადად ჩამოდიან კანადიდან და დასავლეთ ევროპიდან.
+cv_kat_000236 common_voice_ka_21931006.mp3 მდებარეობს მის ჩრდილოეთ ნაწილში.
+cv_kat_000237 common_voice_ka_21931007.mp3 არის სხვადასხვა კონკურსის ლაურეატი.
+cv_kat_000238 common_voice_ka_21931008.mp3 ეგეოსის ზღვის პორტი.
+cv_kat_000239 common_voice_ka_34226141.mp3 შვიდი
+cv_kat_000240 common_voice_ka_34226139.mp3 ერთი
+cv_kat_000241 common_voice_ka_34226137.mp3 დიახ
+cv_kat_000242 common_voice_ka_34226140.mp3 ცხრა
+cv_kat_000243 common_voice_ka_34226138.mp3 ხუთი
+cv_kat_000244 common_voice_ka_34298000.mp3 მას ახლო ურთიერთობა ჰქონდა ევროპის ქვეყნების სახელმწიფო და პოლიტიკურ მოღვაწეებთან, მეგობრობდა შვეიცარიის რამდენიმე პრეზიდენტთან.
+cv_kat_000245 common_voice_ka_34298018.mp3 ჰავა დასავლეთით ხმელთაშუა ზღვის ტიპისაა.
+cv_kat_000246 common_voice_ka_34298021.mp3 ეკლესია არაერთხელ გააფართოვეს.
+cv_kat_000247 common_voice_ka_34298019.mp3 ნახევარწრიული აფსიდის სარკმლის ორივე მხარეს თითო სწორკუთხა ნიშია.
+cv_kat_000248 common_voice_ka_34298017.mp3 რამდენიმე თვეში მას უკვე ჰყავდა უამრავი გულშემატკივარი.
+cv_kat_000249 common_voice_ka_34232150.mp3 რვა
+cv_kat_000250 common_voice_ka_34232149.mp3 ერთი
+cv_kat_000251 common_voice_ka_34232151.mp3 სამი
+cv_kat_000252 common_voice_ka_34232152.mp3 შვიდი
+cv_kat_000253 common_voice_ka_34232153.mp3 ორი
+cv_kat_000254 common_voice_ka_34233651.mp3 ორი
+cv_kat_000255 common_voice_ka_34233654.mp3 ერთი
+cv_kat_000256 common_voice_ka_34233653.mp3 რვა
+cv_kat_000257 common_voice_ka_34233652.mp3 ექვსი
+cv_kat_000258 common_voice_ka_34233655.mp3 არა
+cv_kat_000259 common_voice_ka_34229637.mp3 სამი
+cv_kat_000260 common_voice_ka_34229640.mp3 დიახ
+cv_kat_000261 common_voice_ka_34229639.mp3 ორი
+cv_kat_000262 common_voice_ka_34229641.mp3 ხუთი
+cv_kat_000263 common_voice_ka_34229638.mp3 ნული
+cv_kat_000264 common_voice_ka_22499441.mp3 ამგვარად ის იქცა წლის ყველაზე გაყიდვად იმპორტულ ალბომად.
+cv_kat_000265 common_voice_ka_22499442.mp3 ნაგებია სხვადასხვა ზომის რიყის ქვით.
+cv_kat_000266 common_voice_ka_22499443.mp3 ცენტრი ასევე აქტიურად თანამშრომლობს ადგილობრივ სამოქალაქო ორგანიზაციებთან, უნივერსიტეტებთან და კვლევით ცენტრებთან.
+cv_kat_000267 common_voice_ka_22499444.mp3 მეორე ფინიშზე პოლონელები იყვნენ, მესამენი ესტონელები.
+cv_kat_000268 common_voice_ka_22499445.mp3 ეკლესიის წარწერაში მოხსენიებულია ხუროთმოძღვარი ამონა.
+cv_kat_000269 common_voice_ka_34226195.mp3 რვა
+cv_kat_000270 common_voice_ka_34226196.mp3 ექვსი
+cv_kat_000271 common_voice_ka_34226197.mp3 ოთხი
+cv_kat_000272 common_voice_ka_34226198.mp3 ერთი
+cv_kat_000273 common_voice_ka_34226199.mp3 დიახ
+cv_kat_000274 common_voice_ka_21365370.mp3 პატარ-პატარა ჯოგებად ცხოვრობს.
+cv_kat_000275 common_voice_ka_21365371.mp3 სოფელი ნუკრიანი ექვემდებარება საქართველოს საპატრიარქოს ბოდბის ეპარქიას.
+cv_kat_000276 common_voice_ka_21365372.mp3 გოკიო მდებარეობს ისტორიულ ჯავახეთში.
+cv_kat_000277 common_voice_ka_21365373.mp3 სასაუბრო დონეზე ფლობს ესპანურ, პორტუგალიურ და ინგლისურ ენებს.
+cv_kat_000278 common_voice_ka_21365374.mp3 ბორობუდური ან ტბის ნაპირზე იყო აღმართული, ან პირდაპირ მის შუაგულში.
+cv_kat_000279 common_voice_ka_34239519.mp3 არა
+cv_kat_000280 common_voice_ka_34239518.mp3 შვიდი
+cv_kat_000281 common_voice_ka_34239522.mp3 ოთხი
+cv_kat_000282 common_voice_ka_34239521.mp3 ერთი
+cv_kat_000283 common_voice_ka_34239520.mp3 ხუთი
+cv_kat_000284 common_voice_ka_28020770.mp3 ქვეყანას სათავეში ჩაუდგა ჰაშიმიდების დინასტია.
+cv_kat_000285 common_voice_ka_28020771.mp3 ხუთი
+cv_kat_000286 common_voice_ka_28020773.mp3 ნული
+cv_kat_000287 common_voice_ka_28020774.mp3 ჰესი მდინარე ენისეიზე მდებარეობს და მსოფლიოში მეათე უდიდესი ჰიდროელექტროსადგურია.
+cv_kat_000288 common_voice_ka_28020775.mp3 ერთი
+cv_kat_000289 common_voice_ka_23805918.mp3 ყველა დროის ერთ-ერთი უდიდესი ქართველი ფეხბურთელი.
+cv_kat_000290 common_voice_ka_23805919.mp3 მისივე სახსრებით თბილისში აშენდა სამების საკათედრო ტაძარი.
+cv_kat_000291 common_voice_ka_23805920.mp3 მარია მედიჩი ძლიერ დაეხმარა სავოიას.
+cv_kat_000292 common_voice_ka_23805921.mp3 აქ იგი მიიწვიეს სამხატვრო აკადემიაში სადაც სიცოცხლის ბოლომდე ეწეოდა პედაგოგიურ მოღვაწეობას.
+cv_kat_000293 common_voice_ka_23805922.mp3 ლიდია შემდეგ სხვა მამაკაცს მისთხოვდა, რომლისგანაც გვარი რუსლანოვა მიიღო.
+cv_kat_000294 common_voice_ka_34115274.mp3 არა
+cv_kat_000295 common_voice_ka_34115275.mp3 ორი
+cv_kat_000296 common_voice_ka_34115273.mp3 ოთხი
+cv_kat_000297 common_voice_ka_34115277.mp3 რვა
+cv_kat_000298 common_voice_ka_34115276.mp3 შვიდი
+cv_kat_000299 common_voice_ka_34229730.mp3 ხუთი
+cv_kat_000300 common_voice_ka_34229731.mp3 ორი
+cv_kat_000301 common_voice_ka_34229732.mp3 ნული
+cv_kat_000302 common_voice_ka_34229734.mp3 სამი
+cv_kat_000303 common_voice_ka_34229733.mp3 ოთხი
+cv_kat_000304 common_voice_ka_31508219.mp3 ექვსი
+cv_kat_000305 common_voice_ka_31508220.mp3 ოთხი
+cv_kat_000306 common_voice_ka_31508221.mp3 სამი
+cv_kat_000307 common_voice_ka_31508222.mp3 ორი
+cv_kat_000308 common_voice_ka_31508223.mp3 ნული
+cv_kat_000309 common_voice_ka_34228659.mp3 ხუთი
+cv_kat_000310 common_voice_ka_34228662.mp3 შვიდი
+cv_kat_000311 common_voice_ka_34228665.mp3 ორი
+cv_kat_000312 common_voice_ka_34228663.mp3 არა
+cv_kat_000313 common_voice_ka_34228664.mp3 ერთი
+cv_kat_000314 common_voice_ka_34231780.mp3 ორი
+cv_kat_000315 common_voice_ka_34231781.mp3 ხუთი
+cv_kat_000316 common_voice_ka_34231787.mp3 შვიდი
+cv_kat_000317 common_voice_ka_34231785.mp3 ცხრა
+cv_kat_000318 common_voice_ka_34231783.mp3 რვა
+cv_kat_000319 common_voice_ka_34225938.mp3 ცხრა
+cv_kat_000320 common_voice_ka_34225939.mp3 არა
+cv_kat_000321 common_voice_ka_34225941.mp3 შვიდი
+cv_kat_000322 common_voice_ka_34225940.mp3 ექვსი
+cv_kat_000323 common_voice_ka_34225937.mp3 ნული
+cv_kat_000324 common_voice_ka_25471405.mp3 არა
+cv_kat_000325 common_voice_ka_25471406.mp3 სამი
+cv_kat_000326 common_voice_ka_25471407.mp3 ორი
+cv_kat_000327 common_voice_ka_25471408.mp3 ერთი
+cv_kat_000328 common_voice_ka_25471409.mp3 ნული
+cv_kat_000329 common_voice_ka_33276341.mp3 ერთი
+cv_kat_000330 common_voice_ka_33276342.mp3 ორი
+cv_kat_000331 common_voice_ka_33276343.mp3 არა
+cv_kat_000332 common_voice_ka_33276344.mp3 დიახ
+cv_kat_000333 common_voice_ka_33276345.mp3 რვა
+cv_kat_000334 common_voice_ka_25455389.mp3 რვა
+cv_kat_000335 common_voice_ka_25455390.mp3 ხუთი
+cv_kat_000336 common_voice_ka_25455391.mp3 დიახ
+cv_kat_000337 common_voice_ka_25455392.mp3 ერთი
+cv_kat_000338 common_voice_ka_25455393.mp3 ოთხი

@@ -1,0 +1,169 @@
+cv_kat_000000 common_voice_ka_27656836.mp3 ოთხი
+cv_kat_000001 common_voice_ka_25471031.mp3 ნული
+cv_kat_000002 common_voice_ka_33305841.mp3 დიახ
+cv_kat_000003 common_voice_ka_34347953.mp3 წარმოადგენს აღმოსავლეთ კავკასიონის უმაღლეს წერტილს.
+cv_kat_000004 common_voice_ka_34292227.mp3 ნული
+cv_kat_000005 common_voice_ka_34907241.mp3 იგი ბოლონიაში წავიდა სათამაშოდ.
+cv_kat_000006 common_voice_ka_25748743.mp3 დიახ
+cv_kat_000007 common_voice_ka_34233020.mp3 ექვსი
+cv_kat_000008 common_voice_ka_21356174.mp3 ბერლინის სკოლის სტილში.
+cv_kat_000009 common_voice_ka_22708843.mp3 კვაზულუ-ნატალის პროვინციის დედაქალაქი და მეორე უდიდესი ქალაქი.
+cv_kat_000010 common_voice_ka_22708844.mp3 ცენტრი ქალაქი ლუცერნი.
+cv_kat_000011 common_voice_ka_25751286.mp3 ოთხი
+cv_kat_000012 common_voice_ka_25751320.mp3 დიახ
+cv_kat_000013 common_voice_ka_34228369.mp3 ერთი
+cv_kat_000014 common_voice_ka_34228367.mp3 ცხრა
+cv_kat_000015 common_voice_ka_28797023.mp3 რვა
+cv_kat_000016 common_voice_ka_28797027.mp3 ერთი
+cv_kat_000017 common_voice_ka_34266139.mp3 სამი
+cv_kat_000018 common_voice_ka_34266142.mp3 ოთხი
+cv_kat_000019 common_voice_ka_34266143.mp3 შვიდი
+cv_kat_000020 common_voice_ka_33929676.mp3 ნული
+cv_kat_000021 common_voice_ka_33929681.mp3 ოთხი
+cv_kat_000022 common_voice_ka_33929679.mp3 ხუთი
+cv_kat_000023 common_voice_ka_34227228.mp3 ექვსი
+cv_kat_000024 common_voice_ka_34227229.mp3 არა
+cv_kat_000025 common_voice_ka_34227230.mp3 შვიდი
+cv_kat_000026 common_voice_ka_34225964.mp3 ექვსი
+cv_kat_000027 common_voice_ka_34225966.mp3 სამი
+cv_kat_000028 common_voice_ka_34225963.mp3 ნული
+cv_kat_000029 common_voice_ka_25477085.mp3 შვიდი
+cv_kat_000030 common_voice_ka_25477097.mp3 ექვსი
+cv_kat_000031 common_voice_ka_25500883.mp3 ერთი
+cv_kat_000032 common_voice_ka_34226055.mp3 ცხრა
+cv_kat_000033 common_voice_ka_34226058.mp3 ხუთი
+cv_kat_000034 common_voice_ka_34226060.mp3 შვიდი
+cv_kat_000035 common_voice_ka_34236881.mp3 შვიდი
+cv_kat_000036 common_voice_ka_34236882.mp3 ექვსი
+cv_kat_000037 common_voice_ka_34236878.mp3 ერთი
+cv_kat_000038 common_voice_ka_34007182.mp3 შვიდი
+cv_kat_000039 common_voice_ka_34007184.mp3 ხუთი
+cv_kat_000040 common_voice_ka_34007183.mp3 ოთხი
+cv_kat_000041 common_voice_ka_34112454.mp3 დიახ
+cv_kat_000042 common_voice_ka_34112455.mp3 ექვსი
+cv_kat_000043 common_voice_ka_34112458.mp3 ნული
+cv_kat_000044 common_voice_ka_25603587.mp3 ერთი
+cv_kat_000045 common_voice_ka_25603588.mp3 არა
+cv_kat_000046 common_voice_ka_25603590.mp3 ოთხი
+cv_kat_000047 common_voice_ka_34225852.mp3 ცხრა
+cv_kat_000048 common_voice_ka_34225854.mp3 შვიდი
+cv_kat_000049 common_voice_ka_34225853.mp3 დიახ
+cv_kat_000050 common_voice_ka_27290530.mp3 ოთხი
+cv_kat_000051 common_voice_ka_27290531.mp3 არა
+cv_kat_000052 common_voice_ka_27290532.mp3 ნული
+cv_kat_000053 common_voice_ka_25046569.mp3 ერთი
+cv_kat_000054 common_voice_ka_25046570.mp3 ნული
+cv_kat_000055 common_voice_ka_25046571.mp3 ორი
+cv_kat_000056 common_voice_ka_34292775.mp3 ცხრა
+cv_kat_000057 common_voice_ka_34292780.mp3 ოთხი
+cv_kat_000058 common_voice_ka_34292774.mp3 ერთი
+cv_kat_000059 common_voice_ka_32241742.mp3 ერთი
+cv_kat_000060 common_voice_ka_32241743.mp3 დიახ
+cv_kat_000061 common_voice_ka_32241744.mp3 შვიდი
+cv_kat_000062 common_voice_ka_34231288.mp3 ნული
+cv_kat_000063 common_voice_ka_34231289.mp3 ორი
+cv_kat_000064 common_voice_ka_34231290.mp3 შვიდი
+cv_kat_000065 common_voice_ka_34231286.mp3 ექვსი
+cv_kat_000066 common_voice_ka_23713755.mp3 გეგმით კვადრატული კოშკი შემორჩენილია ორი სართულის დონეზე.
+cv_kat_000067 common_voice_ka_23713756.mp3 აგრეთვე, სავარაუდოდ, ამ დღეს თვითონ მეფე სწირავდა სიმდიდრეს ღმერთებს.
+cv_kat_000068 common_voice_ka_23713757.mp3 სიმდიდრის წყალობით დიდი გავლენა მოიპოვა არისტოკრატთა ფენებში.
+cv_kat_000069 common_voice_ka_23713758.mp3 დეკორის რეპერტუარი მრავალგვარია.
+cv_kat_000070 common_voice_ka_34237191.mp3 არა
+cv_kat_000071 common_voice_ka_34237196.mp3 ნული
+cv_kat_000072 common_voice_ka_34237195.mp3 რვა
+cv_kat_000073 common_voice_ka_34237198.mp3 ექვსი
+cv_kat_000074 common_voice_ka_34295937.mp3 ერთი
+cv_kat_000075 common_voice_ka_34295938.mp3 ნული
+cv_kat_000076 common_voice_ka_34296007.mp3 ცხრა
+cv_kat_000077 common_voice_ka_34296011.mp3 რვა
+cv_kat_000078 common_voice_ka_21806161.mp3 მოქმედებს სამი ცემენტის ქარხანა თურქმენეთში.
+cv_kat_000079 common_voice_ka_21806163.mp3 თხევადი ლავა, რომელიც ვერ ახერხებს ჰაერში გაცივებას, მიწასთან დარტყმის დროს იღებს მომრგვალო ფორმას.
+cv_kat_000080 common_voice_ka_21806164.mp3 იკვებება მოლუსკებით, კიბოსნაირებით, თევზებით.
+cv_kat_000081 common_voice_ka_21806165.mp3 აბრამსი დაუკავშირდა მირანდას და ორი თვის განმავლობაში ისინი მუშაობდნენ აღნიშნული სცენის თანმხლებ მელოდიაზე.
+cv_kat_000082 common_voice_ka_34238591.mp3 არა
+cv_kat_000083 common_voice_ka_34238588.mp3 სამი
+cv_kat_000084 common_voice_ka_34238589.mp3 ერთი
+cv_kat_000085 common_voice_ka_34238592.mp3 ექვსი
+cv_kat_000086 common_voice_ka_34259692.mp3 ორი
+cv_kat_000087 common_voice_ka_34259693.mp3 სამი
+cv_kat_000088 common_voice_ka_34259694.mp3 დიახ
+cv_kat_000089 common_voice_ka_34259695.mp3 ოთხი
+cv_kat_000090 common_voice_ka_32379935.mp3 ოთხი
+cv_kat_000091 common_voice_ka_32379936.mp3 შვიდი
+cv_kat_000092 common_voice_ka_32379937.mp3 ხუთი
+cv_kat_000093 common_voice_ka_32379938.mp3 რვა
+cv_kat_000094 common_voice_ka_34227731.mp3 სამი
+cv_kat_000095 common_voice_ka_34227732.mp3 რვა
+cv_kat_000096 common_voice_ka_34227733.mp3 ხუთი
+cv_kat_000097 common_voice_ka_34227735.mp3 ორი
+cv_kat_000098 common_voice_ka_25471218.mp3 რვა
+cv_kat_000099 common_voice_ka_25471220.mp3 ექვსი
+cv_kat_000100 common_voice_ka_25471223.mp3 ნული
+cv_kat_000101 common_voice_ka_25471224.mp3 ერთი
+cv_kat_000102 common_voice_ka_32279882.mp3 ორი
+cv_kat_000103 common_voice_ka_32279884.mp3 რვა
+cv_kat_000104 common_voice_ka_32279886.mp3 ნული
+cv_kat_000105 common_voice_ka_32279888.mp3 შვიდი
+cv_kat_000106 common_voice_ka_21359241.mp3 ძირითადად იკვებება თოვლის წყლით.
+cv_kat_000107 common_voice_ka_21359242.mp3 გიორგი შარვაშიძე დასაფლავებულია ლიხნის ტაძარში.
+cv_kat_000108 common_voice_ka_21359243.mp3 ლორდ ჯონმა ამის შემდეგ ისიც შაშხანით მოკლა.
+cv_kat_000109 common_voice_ka_21359244.mp3 ნაწარმოების დედააზრი რუსეთის სამთავროთა გაერთიანების იდეაა.
+cv_kat_000110 common_voice_ka_25483598.mp3 არა
+cv_kat_000111 common_voice_ka_25483599.mp3 შვიდი
+cv_kat_000112 common_voice_ka_25483600.mp3 ერთი
+cv_kat_000113 common_voice_ka_25483601.mp3 რვა
+cv_kat_000114 common_voice_ka_34264295.mp3 არა
+cv_kat_000115 common_voice_ka_34264292.mp3 ხუთი
+cv_kat_000116 common_voice_ka_34264293.mp3 ოთხი
+cv_kat_000117 common_voice_ka_34264289.mp3 ცხრა
+cv_kat_000118 common_voice_ka_33302763.mp3 შვიდი
+cv_kat_000119 common_voice_ka_33302765.mp3 ექვსი
+cv_kat_000120 common_voice_ka_33302764.mp3 დიახ
+cv_kat_000121 common_voice_ka_33302762.mp3 ერთი
+cv_kat_000122 common_voice_ka_21357388.mp3 მონაწილეობას იღებდა მეორე სამნიტურ ომში.
+cv_kat_000123 common_voice_ka_21357389.mp3 ზონაში პირველი ასეთი დაჯგუფება ტერიტორიის შესწავლისა და ანომალური ადგილების აღრიცხვის მიზნით იქნა გაგზავნილი.
+cv_kat_000124 common_voice_ka_21357390.mp3 რკინის ხანა ბოლო პრინციპული პერიოდია წინაისტორიულ საზოგადოებათა კლასიფიცირების სისტემაში, რომელსაც წინ ბრინჯაოს ხანა უძღოდა.
+cv_kat_000125 common_voice_ka_21357391.mp3 ამ მოვლენის შემდეგ.
+cv_kat_000126 common_voice_ka_24757360.mp3 სამი
+cv_kat_000127 common_voice_ka_24757361.mp3 რვა
+cv_kat_000128 common_voice_ka_24757362.mp3 ერთი
+cv_kat_000129 common_voice_ka_24757363.mp3 ოთხი
+cv_kat_000130 common_voice_ka_34272441.mp3 ნული
+cv_kat_000131 common_voice_ka_34272446.mp3 სამი
+cv_kat_000132 common_voice_ka_34272449.mp3 რვა
+cv_kat_000133 common_voice_ka_34272452.mp3 არა
+cv_kat_000134 common_voice_ka_21360495.mp3 ერთ-ერთი მნიშვნელობაა სათავსი, სადაც მდიდარი ოჯახების ქალიშვილები ცხოვრობენ.
+cv_kat_000135 common_voice_ka_21360496.mp3 ერთსართულიანი, ნახევრად მიწური სახლები ნაგებია ქვის მშრალი წყობით, გადახურვა ბანური იყო.
+cv_kat_000136 common_voice_ka_21360498.mp3 ავსტრია და შვეიცარია ავტომატურად თამაშობდნენ, როგორც მასპინძელი ქვეყნების ნაკრებები.
+cv_kat_000137 common_voice_ka_21360499.mp3 თუმცა ამას რამდენიმე მომხრე ჰყავდა, ხმათა უმრავლესობით ხუანა კვლავ ტორდესილასში დარჩა.
+cv_kat_000138 common_voice_ka_21375202.mp3 შიგადაშიგ მოჩანს ფიქალი.
+cv_kat_000139 common_voice_ka_21375203.mp3 ახლო და შორეულ წარსულში „სამტრედიას“ ჰქონია ოფიციალური თუ ამხანაგური შეხვედრები საზღვარგარეთ.
+cv_kat_000140 common_voice_ka_21375204.mp3 მას შემდეგ დაიწყო აქტიური იატაკქვეშა ბრძოლა.
+cv_kat_000141 common_voice_ka_21375205.mp3 ეს სახელი ერქვა ერთ-ერთ გემს.
+cv_kat_000142 common_voice_ka_34228890.mp3 სამი
+cv_kat_000143 common_voice_ka_34228892.mp3 ხუთი
+cv_kat_000144 common_voice_ka_34228889.mp3 ექვსი
+cv_kat_000145 common_voice_ka_34228893.mp3 ორი
+cv_kat_000146 common_voice_ka_21366084.mp3 იგი დარწმუნებულია, რომ ვაჟი ქვაში მის პორტრეტს კვეთს.
+cv_kat_000147 common_voice_ka_21366086.mp3 მნიშვნელოვანი სახელმძღვანელო ფორმებია ნავთობისა და გაზის საბადოების დაზვერვისას.
+cv_kat_000148 common_voice_ka_21366088.mp3 ეს ამ წიგნის რიგით მეხუთე ეკრანიზაციაა.
+cv_kat_000149 common_voice_ka_21366090.mp3 აღსანიშნავია მშენებლობის ტექნიკაც.
+cv_kat_000150 common_voice_ka_34265749.mp3 სამი
+cv_kat_000151 common_voice_ka_34265748.mp3 დიახ
+cv_kat_000152 common_voice_ka_34265751.mp3 ოთხი
+cv_kat_000153 common_voice_ka_34265750.mp3 ორი
+cv_kat_000154 common_voice_ka_34226072.mp3 დიახ
+cv_kat_000155 common_voice_ka_34226078.mp3 ნული
+cv_kat_000156 common_voice_ka_34226073.mp3 ერთი
+cv_kat_000157 common_voice_ka_34226075.mp3 ცხრა
+cv_kat_000158 common_voice_ka_34226077.mp3 ხუთი
+cv_kat_000159 common_voice_ka_34228919.mp3 ერთი
+cv_kat_000160 common_voice_ka_34228920.mp3 არა
+cv_kat_000161 common_voice_ka_34228921.mp3 სამი
+cv_kat_000162 common_voice_ka_34228922.mp3 ხუთი
+cv_kat_000163 common_voice_ka_34228923.mp3 შვიდი
+cv_kat_000164 common_voice_ka_28473498.mp3 ოთხი
+cv_kat_000165 common_voice_ka_28473499.mp3 ექვსი
+cv_kat_000166 common_voice_ka_28473500.mp3 ერთი
+cv_kat_000167 common_voice_ka_28473501.mp3 შვიდი
+cv_kat_000168 common_voice_ka_28473502.mp3 რვა

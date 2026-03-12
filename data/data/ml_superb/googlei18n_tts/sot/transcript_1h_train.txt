@@ -1,0 +1,655 @@
+googlei18n-tts_sot_000000 sso_8777_2297811189.wav Nowhere did the raw earth appear.
+googlei18n-tts_sot_000001 sso_1801_4454964976.wav Black Aces e bapetse ka ho lekana le FC Barcelona.
+googlei18n-tts_sot_000002 sso_1367_9008941336.wav Bohle ba sisinya dihlooho.
+googlei18n-tts_sot_000003 sso_8596_6310196586.wav Mokwetlisi o ile a kenya Nhlanhla Shabalala sebakeng sa Marc Van Heerden papadi e sa tswa qala.
+googlei18n-tts_sot_000004 sso_1801_8959314533.wav O Mme ya hlanyang, yaba o ya kgutla ho ya losebetsa mosebetsi wa hae wa masimong.
+googlei18n-tts_sot_000005 sso_8777_7201982514.wav The butchers and meat cutters refused to handle meat destined for unfair restaurants.
+googlei18n-tts_sot_000006 sso_6499_3472451582.wav They were less stooped than we, less springy in their movements.
+googlei18n-tts_sot_000007 sso_1801_8574612317.wav Wa ema tlase masimong.
+googlei18n-tts_sot_000008 sso_8596_1953835445.wav Diphoofolo tsohle le dinonyana le dijalo di hloka kganya ya ka le mofuthu wa ka hore di phele.
+googlei18n-tts_sot_000009 sso_7821_8580761624.wav Ahead of them they saw a glimmer of sunshine.
+googlei18n-tts_sot_000010 sso_8596_0530859520.wav Ehlile, ha rialo mme, bohle ba hwanta ba tsamaya.
+googlei18n-tts_sot_000011 sso_5945_6556631597.wav This time he did not yap for mercy.
+googlei18n-tts_sot_000012 sso_2388_9254347005.wav Ho hapjwa ke tse tumileng.
+googlei18n-tts_sot_000013 sso_0493_9838119895.wav Ntate Noko o dula motseng wa haeso.
+googlei18n-tts_sot_000014 sso_0493_7252802378.wav Dikilomethareng tse 400, mothinyeng, nka tsela ya boraro e kgelohang.
+googlei18n-tts_sot_000015 sso_0493_7998467124.wav Kamuzu a lebala hore o lahlehetswe ke lentswe.
+googlei18n-tts_sot_000016 sso_8596_7113737253.wav Ke re le ha e le mohweshetsanyana feela.
+googlei18n-tts_sot_000017 sso_1801_0823647744.wav Tshebeletso ya boemo ba lehodimo e noha hore ho tla foka moya o seng matla Kapa Botjhabela.
+googlei18n-tts_sot_000018 sso_8596_6622886312.wav Dikgato di 14, Baviaan.
+googlei18n-tts_sot_000019 sso_1801_0614779760.wav Mosadimoholo o ile a laela Mashilwane hore a kgethe pitsa e le nngwe.
+googlei18n-tts_sot_000020 sso_1266_8588950010.wav Ho hapjwa ke tse tumileng.
+googlei18n-tts_sot_000021 sso_2388_2054517962.wav For the twentieth time that evening the two men shook hands.
+googlei18n-tts_sot_000022 sso_1367_4239761431.wav Lenama le kang wena tjee?
+googlei18n-tts_sot_000023 sso_8777_2566864331.wav hundred and, thousand and, million and, billion and, trillion and
+googlei18n-tts_sot_000024 sso_5945_4616234085.wav He told himself that as he washed himself and groomed his disheveled clothes.
+googlei18n-tts_sot_000025 sso_1367_3015067746.wav Crystal Palace e hlotse Bournemouth ka dintlha tse 11 ho tse 2 nakong ya ho raha dipenele.
+googlei18n-tts_sot_000026 sso_6499_4286186666.wav nine seven three
+googlei18n-tts_sot_000027 sso_7934_3752844038.wav fourteen seventy-nine seventy-five
+googlei18n-tts_sot_000028 sso_6499_4550604586.wav Ah, it is growing dark and darker.
+googlei18n-tts_sot_000029 sso_0493_2716573837.wav Mosireletsi Thanduyise Khuboni, o ile a hlaba bolo ka hlooho.
+googlei18n-tts_sot_000030 sso_8596_8210273188.wav Moletsaphala o ile a abela Boris Savić monyetla wa ho raha bolo a sa sitiswe.
+googlei18n-tts_sot_000031 sso_1367_2575719832.wav Ho tloha mohlang oo, dikgoho le mafokolodi esale e le dira.
+googlei18n-tts_sot_000032 sso_7934_0399744694.wav thirty-five twenty-five twenty-nine
+googlei18n-tts_sot_000033 sso_5945_2612995724.wav The wolf-dog thrust his gaunt muzzle toward him.
+googlei18n-tts_sot_000034 sso_8596_4309735812.wav Mokwetlisi o ile a kenya Sakhile Hlongwa sebakeng sa Mpho Thulo nakong eo ho ntseng ho bapalwa.
+googlei18n-tts_sot_000035 sso_7912_6419663579.wav Tafole e ne e kgabisitswe ka dipalesa le balunu e ntle e bolou ya Ntjhanyana Beka.
+googlei18n-tts_sot_000036 sso_7821_3388729896.wav eleven eighty zero
+googlei18n-tts_sot_000037 sso_8777_0691905006.wav The girl faced him, her eyes shining with sudden fear.
+googlei18n-tts_sot_000038 sso_8596_6773291914.wav Dikgato ke tse 12 Plettenberg Bay, mme ho tla bata mantsiboya.
+googlei18n-tts_sot_000039 sso_0806_5822972537.wav Ke mang eo e bileng seahi sa ntlo?
+googlei18n-tts_sot_000040 sso_0806_1890756577.wav Tafole e ne e kgabisitswe ka dipaletsa le balunu e ntle e bolou ya Ntjhanyana Beka.
+googlei18n-tts_sot_000041 sso_8596_6491484668.wav Ke maswabi, Neo.
+googlei18n-tts_sot_000042 sso_0493_4923874014.wav FC Barcelona e hlotswe ke West Bromwich Albion ka dintlha tse 10 ho tse 3, nakong ya ho raha dipenele.
+googlei18n-tts_sot_000043 sso_8596_9145223892.wav Mmapalabohareng, Isaac Nhlapo, o ile a lahlela bolo ka lebaleng.
+googlei18n-tts_sot_000044 sso_6499_1838504835.wav And Tom King patiently endured.
+googlei18n-tts_sot_000045 sso_8596_5539496653.wav Lelapa le ile la hlompha Imbudu haholo ba nahana Nonkungu.
+googlei18n-tts_sot_000046 sso_1367_2870833153.wav Taka setshwantsho sa hao mme o ngole mantswe ao ka hara pudulana ya puo.
+googlei18n-tts_sot_000047 sso_1801_4026472863.wav Ka tsatsi le leng ka lehlohonolo, Ntate Smuts a tshwasa ditlhapi tse 5.
+googlei18n-tts_sot_000048 sso_1367_3774127951.wav Letsatsing le hlahlamang di ne di maketse.
+googlei18n-tts_sot_000049 sso_7801_5839150028.wav Will we ever forget it.
+googlei18n-tts_sot_000050 sso_0493_6279626869.wav Mme ba sebetse jwalo ka ngatana elengwe ho pjhatla diketane tse ba tlamellang bokgobeng ka hosafeleng.
+googlei18n-tts_sot_000051 sso_7934_1001385066.wav Men of Selden's stamp don't stop at women and children.
+googlei18n-tts_sot_000052 sso_7821_4375722009.wav eight two nine
+googlei18n-tts_sot_000053 sso_0493_4221322390.wav Makoloi a hapjwa ka sheshe.
+googlei18n-tts_sot_000054 sso_0493_3965904727.wav Dikgato ke tse 5 Celsius, Bellville, mme ho a bata.
+googlei18n-tts_sot_000055 sso_8777_5313882754.wav Jack London, Waikiki Beach, Honolulu, Oahu.
+googlei18n-tts_sot_000056 sso_1367_5331833628.wav Tshwene a pheha sopho e dinoko.
+googlei18n-tts_sot_000057 sso_1801_7959443601.wav A tshela metsinyana ka hodimo ho sehlahla sa bohlwa.
+googlei18n-tts_sot_000058 sso_6499_8514265448.wav Between the rush of the cascades, streaks of rust showed everywhere.
+googlei18n-tts_sot_000059 sso_6499_1744988503.wav He came first a year ago, and revealed himself to Jeanne.
+googlei18n-tts_sot_000060 sso_5945_7139521376.wav It seemed the ordained order of things that dogs should work.
+googlei18n-tts_sot_000061 sso_1367_7288614758.wav O tshwenngwa ke eng wena?
+googlei18n-tts_sot_000062 sso_1367_2841209893.wav Dinonyana tsa kgutla di fofa di nkile sekgabiso sa hloohong, ho ya ho monna eeno.
+googlei18n-tts_sot_000063 sso_1367_3641470046.wav Tottenham Hotspur e hlotswe ke Stoke City ka dintlha tse 8 ho tse 3, papading ya English Premier League.
+googlei18n-tts_sot_000064 sso_5945_4311115984.wav At sea, Wednesday, March 18, 1908.
+googlei18n-tts_sot_000065 sso_8777_2999532476.wav And so early in the voyage, too.
+googlei18n-tts_sot_000066 sso_1801_6674806608.wav O pheha nama ya kgomo jwang?
+googlei18n-tts_sot_000067 sso_8596_0683515301.wav Aston Villa e bapetse ka ho lekana le Leicester City.
+googlei18n-tts_sot_000068 sso_1367_0702322988.wav Ke mang eo e bileng seahi sa ntlo?
+googlei18n-tts_sot_000069 sso_1801_1459956501.wav A sheba sefahleho sa Mong Lengau se tjheleteng.
+googlei18n-tts_sot_000070 sso_1801_6271468475.wav Yaba o qhomaka ho theosa le tsela e lebang Toropong ya Babadi.
+googlei18n-tts_sot_000071 sso_8777_8447415745.wav He leapt again, and the club caught him once more.
+googlei18n-tts_sot_000072 sso_1367_1570067339.wav Ka tsatsi le leng Lwazi a fumana setulo sa kgale se sututswang thoteng e haufi le habo.
+googlei18n-tts_sot_000073 sso_7821_1387060579.wav I am going to surprise father, and you will go with Pierre.
+googlei18n-tts_sot_000074 sso_1367_8035960226.wav Kamuzu a sheba metswalle ya hae.
+googlei18n-tts_sot_000075 sso_1367_1629586526.wav Sunderland e bapetse ka ho lekana le Southampton.
+googlei18n-tts_sot_000076 sso_1367_3239216939.wav Sethibathibane sa Bafana Bafana, Jackson Mabokgwane o kgonne ho thiba bolo makgetlo a 12, e se e le mokwallong, nakong ya papadi.
+googlei18n-tts_sot_000077 sso_1367_6971077191.wav Nonkungu o ile a dumela a tshohile.
+googlei18n-tts_sot_000078 sso_8596_6345191299.wav Dikgwedi tse 3 le matsatsi a 12!
+googlei18n-tts_sot_000079 sso_5945_7880215682.wav four three five
+googlei18n-tts_sot_000080 sso_9892_4307348129.wav Ke kahoo Motjhalla a ileng a fetoha mankgane.
+googlei18n-tts_sot_000081 sso_1367_5857071701.wav Tshwene e sadisa hantle ka ho tsoka letsoho!
+googlei18n-tts_sot_000082 sso_0806_3754491210.wav Ho bjabjaretsa ke ho etsang?
+googlei18n-tts_sot_000083 sso_1367_3491314515.wav Manchester United e hlotswe ke Kaizer Chiefs ka dintlha tse 7 ho tse 6 papading ya English Premier League.
+googlei18n-tts_sot_000084 sso_8777_1704037312.wav They are his tongue, by which he makes his knowledge articulate.
+googlei18n-tts_sot_000085 sso_0493_0040311078.wav Yaba ka hloko,o tshwara letlwepe.
+googlei18n-tts_sot_000086 sso_0493_7938560015.wav Dikilomethareng tse 5, kgetha R34 ho leba Harrismith.
+googlei18n-tts_sot_000087 sso_1801_5194033015.wav Ntatae o ya phomolong neng?
+googlei18n-tts_sot_000088 sso_7934_9800441327.wav The discovery seemed to have been made on the spur of the moment.
+googlei18n-tts_sot_000089 sso_1801_2088667061.wav Nkgono a dula hodima setulo.
+googlei18n-tts_sot_000090 sso_8596_0164318424.wav Dikgato di 4 Celsius, Albertshoek, ka mafafatsane a mona le mane, hoseng.
+googlei18n-tts_sot_000091 sso_0145_2446323942.wav Dinaledi tsa kgauta di tswa pele!
+googlei18n-tts_sot_000092 sso_8596_4419689422.wav Pula e na ka sefefo le sefako New Hanover, mme dikgato ke tse 3.
+googlei18n-tts_sot_000093 sso_7801_6431806874.wav Ke dikgato tse 12 mme ho na le mafafatsane mona Cape Town
+googlei18n-tts_sot_000094 sso_8596_0360751557.wav Le ntahlehetse, ha hweshetsa Kamuzu.
+googlei18n-tts_sot_000095 sso_8596_7015899562.wav Mashilwane o ile a kgetha pitsa ya ho qetela, mme a fumana kgomo, e ntle, ebile e nonne.
+googlei18n-tts_sot_000096 sso_7821_2159109029.wav For an instant he saw Pierre drawn like a silhouette against the sky.
+googlei18n-tts_sot_000097 sso_8777_7831193051.wav Nobody knew his history, they of the Junta least of all.
+googlei18n-tts_sot_000098 sso_8596_6606217592.wav Senqaqana sena sa ahlama, Tshepo a kgalehile hamonate ka lehanong la senqaqana.
+googlei18n-tts_sot_000099 sso_0493_4962564267.wav Mokwetlisis o ile a kenya Sifiso Mbhele bakeng sa Bernard Parker nakong eo ho ntse ho bapalwa.
+googlei18n-tts_sot_000100 sso_0493_1039744072.wav Oho, ke na le tsona ka makgolokgolo, diketekete, tjhe bo, ke bolela dimiliyone.
+googlei18n-tts_sot_000101 sso_9892_0574548173.wav Dikilomethareng tse 3, nka tsela e kgelohelang ka ho le letshehadi.
+googlei18n-tts_sot_000102 sso_8777_6476268875.wav five three eight
+googlei18n-tts_sot_000103 sso_7934_5907336500.wav My, I'm almost homesick for it already.
+googlei18n-tts_sot_000104 sso_8777_5925132396.wav A big canvas tent was the first thing to come within his vision.
+googlei18n-tts_sot_000105 sso_8596_7009956738.wav Ke reketse Nkgono Mamoeng pakete ya ditjhipisi tsa ditapole.
+googlei18n-tts_sot_000106 sso_0493_2106199907.wav Nyolohelang mafikeng mane.
+googlei18n-tts_sot_000107 sso_6499_8754797859.wav One by one the boys were captured.
+googlei18n-tts_sot_000108 sso_7934_7664875819.wav Men like Joe Goose dated existence from drunk to drunk.
+googlei18n-tts_sot_000109 sso_6499_3925496040.wav In a flash Philip followed its direction.
+googlei18n-tts_sot_000110 sso_6499_2864459017.wav four two five
+googlei18n-tts_sot_000111 sso_8596_4343671517.wav Mmapalabohareng, Botshelo Mfulwane o ile a raha bolo a sa sitiswe makgetlo a 3.
+googlei18n-tts_sot_000112 sso_0145_5728486693.wav Maritzburg United e hlotse Black Aces ka dintlha tse 5 ho tse 2, papading ya Premier League.
+googlei18n-tts_sot_000113 sso_1801_3130813482.wav Re di shebile tlasa difate.
+googlei18n-tts_sot_000114 sso_8596_6427106309.wav A qetela ka ho ba bjabjaretsa masapo.
+googlei18n-tts_sot_000115 sso_8596_2245710463.wav Ka nako e nngwe, ditshwene tsena di ne di dula hammoho hamonate di thabile.
+googlei18n-tts_sot_000116 sso_1801_4709153868.wav Tshebeletso ya boemo ba lehodimo e noha hore ho ka nna ha foka moya o seng matla, Mpumalanga.
+googlei18n-tts_sot_000117 sso_1367_5188858090.wav Bomme ba bararo ba sutumetsa, ba ba ba sutumetsa mokopu.
+googlei18n-tts_sot_000118 sso_4592_0500098855.wav Dimethereng tse 500, thinyetsa ka ho le letona ebe jwale o itulela ka letsohong le letshehadi.
+googlei18n-tts_sot_000119 sso_1801_8527583366.wav Felix a tshehela ka marameng.
+googlei18n-tts_sot_000120 sso_0493_8781452438.wav Mofutuhi, Ovidy Karuru, o ile a raha dihuku tse 5.
+googlei18n-tts_sot_000121 sso_0493_4135799971.wav O ile a fumana motohonyana ka kopinyana feela.
+googlei18n-tts_sot_000122 sso_6499_1394642891.wav Wada, Louis, and the steward are servants of Asiatic breed.
+googlei18n-tts_sot_000123 sso_7821_7349782072.wav They are not regular oyster pirates, Nicholas continued.
+googlei18n-tts_sot_000124 sso_8596_1908755770.wav Ke mang eo e leng Letona la Thuto?
+googlei18n-tts_sot_000125 sso_5945_0766262815.wav They only lifted seven hundred and fifty.
+googlei18n-tts_sot_000126 sso_5945_0891156080.wav Author of the danger trail, Philip Steels, etc.
+googlei18n-tts_sot_000127 sso_0493_6076434002.wav Wa bopa e motona le e motshehadi, wa ba hlohonolofatsa, mme wa ba rea lebitso la motho, mohla ba bopjwang.
+googlei18n-tts_sot_000128 sso_1367_0487450185.wav Jomo Cosmos e hlotse University Of Pretoria ka dintlha tse 9 ho tse 3, papading ya PSL.
+googlei18n-tts_sot_000129 sso_0493_9598107400.wav Sekgo sa inamisa hlooho ya sona.
+googlei18n-tts_sot_000130 sso_1367_7969089684.wav Moletsaphala o ile a hlokomedisa Mario Booysen hore o entse phoso.
+googlei18n-tts_sot_000131 sso_7821_5049321936.wav They could not continue their method of producing surpluses.
+googlei18n-tts_sot_000132 sso_8596_3394172512.wav Mashilwane ke nyorilwe, a re yo nwa metsi mane pitseng.
+googlei18n-tts_sot_000133 sso_5945_5163166686.wav Now Irvine was a man of impulse, a poet.
+googlei18n-tts_sot_000134 sso_0145_2681699311.wav Tshebeletso ya boemo ba lehodimo e noha hore pula e ka nna ya na, Kapa Bophirima.
+googlei18n-tts_sot_000135 sso_1801_4416106169.wav Jwale, hobaneng re sa etse moketjana?
+googlei18n-tts_sot_000136 sso_8777_0733422486.wav six two three
+googlei18n-tts_sot_000137 sso_1801_2437670046.wav Mmapalabohareng Tshepang Machedi o rahile ha 11.
+googlei18n-tts_sot_000138 sso_8777_7730477814.wav Violent life and athletic sports had never appealed to me.
+googlei18n-tts_sot_000139 sso_7934_2130952749.wav He it was that lived to found the family of the Patino.
+googlei18n-tts_sot_000140 sso_1801_8808934292.wav O nkela khaete ya ka hodimodimo.
+googlei18n-tts_sot_000141 sso_8777_2663312504.wav He was wounded in the arm.
+googlei18n-tts_sot_000142 sso_2388_6132136564.wav Tshebeletso ya boemo ba lehodimo e noha hore pula e ka nna ya na, Kapa Bophirima.
+googlei18n-tts_sot_000143 sso_5945_1693539555.wav eight seven eight
+googlei18n-tts_sot_000144 sso_0145_7139492597.wav Ho bjabjaretsa ke ho etsang?
+googlei18n-tts_sot_000145 sso_7821_8670649216.wav Earth and gravel seemed to fill the pan.
+googlei18n-tts_sot_000146 sso_6499_3684091456.wav Do you know any good land around here.
+googlei18n-tts_sot_000147 sso_8596_5447513669.wav Jwale ba ne ba qakehile haholo ba leka ho fumana tjhelete ya ho reka dijo torotswaneng e haufi.
+googlei18n-tts_sot_000148 sso_8596_5281400448.wav Khova ebile yena wa pele wa ho tlohela lebelo.
+googlei18n-tts_sot_000149 sso_0493_1759642225.wav Ke mang ya tla etsa ditshebeletso tsa lehae tse hlophisitsweng tsa bajete?
+googlei18n-tts_sot_000150 sso_0493_7191125485.wav Dibanse tsena di ntse di futhumetse, ke di rekile nakong ya hora le halofo tse fetileng.
+googlei18n-tts_sot_000151 sso_8596_3045636516.wav Lebitso la moshanyana ke mang?
+googlei18n-tts_sot_000152 sso_6499_2533478897.wav There's a big English general right now whose name is Roberts.
+googlei18n-tts_sot_000153 sso_5945_1493540557.wav But she swung obediently on her heel into the wind.
+googlei18n-tts_sot_000154 sso_7934_0928035503.wav Clubs and balls and cities grew to be only memories.
+googlei18n-tts_sot_000155 sso_5945_7266081430.wav And their chief virtue lies in that they will never wear out.
+googlei18n-tts_sot_000156 sso_1367_9811384547.wav Newcastle United e bapetse ka ho lekana le Norwich City.
+googlei18n-tts_sot_000157 sso_8777_7586979040.wav He was pressing beyond the limits of his vocabulary.
+googlei18n-tts_sot_000158 sso_6499_2372238262.wav And twenty men could hold it with spears and arrows.
+googlei18n-tts_sot_000159 sso_0493_9946678718.wav Ho bjabjaretsa ke ho etsang?
+googlei18n-tts_sot_000160 sso_7801_0255399907.wav A bea kgoho e nonneng hodima botlolo ya jeme eo a e rwetseng hloohong.
+googlei18n-tts_sot_000161 sso_1801_2771062476.wav Ya tshepisa ho mamela ka ditsebe tsa yona tse sootho tse bonojana.
+googlei18n-tts_sot_000162 sso_0806_1104545457.wav Ho hapjwa ke tse tumileng.
+googlei18n-tts_sot_000163 sso_8596_1877296465.wav E tla ja bokae?
+googlei18n-tts_sot_000164 sso_6499_0564080228.wav Much more Ernest told them of themselves and of his disillusionment.
+googlei18n-tts_sot_000165 sso_5945_8088009344.wav eight five one
+googlei18n-tts_sot_000166 sso_8596_3588954813.wav Yaba Nozibele o phehela ntja eno dijo.
+googlei18n-tts_sot_000167 sso_1801_9600228127.wav Maritzburg United e hlotse Ajax Cape Town nakong e ekeditsweng, ka dintlha tse 6 ho 0, papading ya Premier League.
+googlei18n-tts_sot_000168 sso_1801_9273543165.wav Ka kopo sefate, phukalatsa makala a maholo hore re kgone ho balla tlasa moriti wa hao.
+googlei18n-tts_sot_000169 sso_4592_7102043443.wav Kahoo kajeno, o ka phomola, Mme - phirimaneng ena ke monyetla wa ka wa ho phetela WENA pale!
+googlei18n-tts_sot_000170 sso_2388_7758379662.wav Dikilomethareng tse 3, nka tsela e kgelohelang ka ho le letshehadi.
+googlei18n-tts_sot_000171 sso_9892_5080712624.wav Imbudu e ile ya ya harangwane Mtonyama yare Ke motjhana wa hao, Nonkungu.
+googlei18n-tts_sot_000172 sso_5945_4282755396.wav She had died from cold and starvation.
+googlei18n-tts_sot_000173 sso_5945_6003117965.wav He'll never do a tap of work the whole Voyage.
+googlei18n-tts_sot_000174 sso_6499_7616219005.wav And after the bath a shave would not be bad.
+googlei18n-tts_sot_000175 sso_7934_8407061447.wav I just do appreciate it without being able to express my feelings.
+googlei18n-tts_sot_000176 sso_1266_1095408026.wav He turned sharply, and faced Gregson across the table.
+googlei18n-tts_sot_000177 sso_5945_9708347051.wav There was nothing on the rock.
+googlei18n-tts_sot_000178 sso_1367_2704088577.wav Bonang ngwanana enwa o tenne mose wa kgale o tabohileng.
+googlei18n-tts_sot_000179 sso_7934_9635392807.wav four eighty-four eighty-one
+googlei18n-tts_sot_000180 sso_0493_6938815222.wav Dikgato ke tse 3 Alberton.
+googlei18n-tts_sot_000181 sso_1801_7409263850.wav Wa hlaha wa ba moholoholo.
+googlei18n-tts_sot_000182 sso_8596_8675994702.wav Mong Samson a tlisetsa Sibu kgalase ya metsi.
+googlei18n-tts_sot_000183 sso_0145_3573356786.wav Will we ever forget it.
+googlei18n-tts_sot_000184 sso_8777_2247141525.wav ninety-four thirty-four thirty-two
+googlei18n-tts_sot_000185 sso_7934_0658354780.wav Nimrod replied, with a slight manifestation of sensitiveness.
+googlei18n-tts_sot_000186 sso_0493_6173813960.wav Ba tshepa hore ka tsatsi le leng dikgutsana di tla tseba ho itlhokomela.
+googlei18n-tts_sot_000187 sso_8596_8621845620.wav Orlando Pirates e bapetse ka ho lekana le Bournemouth.
+googlei18n-tts_sot_000188 sso_7821_8084383158.wav My right foot feels like that of a Chinese debutante.
+googlei18n-tts_sot_000189 sso_5945_9159628583.wav twenty-four zero eleven
+googlei18n-tts_sot_000190 sso_7934_5854527332.wav I may manage to freight a cargo back as well.
+googlei18n-tts_sot_000191 sso_6499_9156788634.wav one two seven
+googlei18n-tts_sot_000192 sso_6499_7673249941.wav He went down in midstream, searching the shadows of both shores.
+googlei18n-tts_sot_000193 sso_1801_2854753660.wav Re ile ra tshwara moketjana o moholo.
+googlei18n-tts_sot_000194 sso_7934_3656190461.wav It was not Red-Eye's way to forego revenge so easily.
+googlei18n-tts_sot_000195 sso_1367_9910597601.wav Ke maswabi, Maria, ha rialo Ntate Smuts, ena ke ya dijo tsa rona tsa mantsiboya.
+googlei18n-tts_sot_000196 sso_6499_6880493588.wav To my surprise he began to show actual enthusiasm in my favor.
+googlei18n-tts_sot_000197 sso_6499_0187752800.wav Bassett was a fastidious man.
+googlei18n-tts_sot_000198 sso_6499_7694436116.wav He saw all men in the business game doing this.
+googlei18n-tts_sot_000199 sso_8596_7770871958.wav Mashilo o ile a bolella Mashilwane hore ba tsamaye.
+googlei18n-tts_sot_000200 sso_1367_5785398568.wav Ho foka moya wa difefo Betty's Bay, mme kgato ke e le 1.
+googlei18n-tts_sot_000201 sso_7934_2450289233.wav Dunham, can your boy go along with Jesse.
+googlei18n-tts_sot_000202 sso_1367_9230307766.wav Dikgato ke tse 5 ka tlase ho 0 Sabie, mme ho tla foka moya o seng bohale thapameng ena.
+googlei18n-tts_sot_000203 sso_8777_9367782454.wav I have long noted your thirst unquenchable.
+googlei18n-tts_sot_000204 sso_8777_1567595675.wav How could he explain his possession of the sketch.
+googlei18n-tts_sot_000205 sso_1367_4057171285.wav Mong Samson a tlisetsa Sibu kgalase ya metsi.
+googlei18n-tts_sot_000206 sso_2388_4713447274.wav Author of the danger trail, Philip Steels, etc.
+googlei18n-tts_sot_000207 sso_5945_8243945104.wav The lace was of a delicate ivory color, faintly tinted with yellow.
+googlei18n-tts_sot_000208 sso_6499_7907699499.wav His blood grew hot with rage at the thought.
+googlei18n-tts_sot_000209 sso_7934_1470155050.wav He spat it out like so much venom.
+googlei18n-tts_sot_000210 sso_9892_5171340674.wav Will we ever forget it.
+googlei18n-tts_sot_000211 sso_5945_5156324401.wav May drought destroy your crops.
+googlei18n-tts_sot_000212 sso_5945_8866675688.wav It issued a rate of forty two dollars a car on charcoal.
+googlei18n-tts_sot_000213 sso_8596_2465593073.wav BoMokotatsie ba howeletsa hape ba re, tlohong, tlohong bana.
+googlei18n-tts_sot_000214 sso_7821_4754070330.wav Of course, that is uninteresting, she continued.
+googlei18n-tts_sot_000215 sso_1801_6124306483.wav Watford e hlotse West Ham United ka dintlha tse 9 ho 0, tlhodisanong ya mohope wa lefatshe ya FIFA.
+googlei18n-tts_sot_000216 sso_8596_3955498231.wav Ntjhanyana Beka a bokolla!
+googlei18n-tts_sot_000217 sso_5945_3733895877.wav He unfolded a long typewritten letter, and handed it to Gregson.
+googlei18n-tts_sot_000218 sso_0493_2541915367.wav Moletsaphala o ile a abela Real Madrid monyetla wa ho raha bolo e sa sitiswe.
+googlei18n-tts_sot_000219 sso_1801_3190733855.wav Motjhine wa ho hlatswa o bohlokwa ho feta hajwale.
+googlei18n-tts_sot_000220 sso_7821_8055214421.wav zero three nine
+googlei18n-tts_sot_000221 sso_0806_4194190626.wav Ke mang eo e neng e le molaodi wa provense ya Kwazulu-Natala?
+googlei18n-tts_sot_000222 sso_1367_9944425028.wav Na o batla ho ya hosane?
+googlei18n-tts_sot_000223 sso_8777_7019564529.wav We'll have to watch our chances.
+googlei18n-tts_sot_000224 sso_5945_1144048130.wav Whiz-zip-bang. Lop-Ear screamed with sudden anguish.
+googlei18n-tts_sot_000225 sso_0493_4433375927.wav Themperetjhara ke dikgato tse 4, Celsius, Colenso.
+googlei18n-tts_sot_000226 sso_7934_9041066776.wav It happened to him at the Gallina Society in Oakland one afternoon.
+googlei18n-tts_sot_000227 sso_0493_2262371017.wav Shane, Rapelang, Thabang le Lebohang, bohle ba ile ba fumana dinaledi tse tshehla.
+googlei18n-tts_sot_000228 sso_0493_6987543419.wav Na e ne e le kgutsana?
+googlei18n-tts_sot_000229 sso_0493_4214287450.wav Mamelodi Sundowns e bapetse ka ho lekana le SuperSport United.
+googlei18n-tts_sot_000230 sso_7934_5204725014.wav A strange fire burned in his eyes when Thorpe turned.
+googlei18n-tts_sot_000231 sso_7934_9370179037.wav forty-two eighty-two eighty
+googlei18n-tts_sot_000232 sso_7912_3837729155.wav Molaolapapadi o file Felix Obada karete e tshehla.
+googlei18n-tts_sot_000233 sso_7821_9095740249.wav His newborn cunning gave him poise and control.
+googlei18n-tts_sot_000234 sso_7801_4519152737.wav Mandela o dula hokae?
+googlei18n-tts_sot_000235 sso_8596_9717849091.wav Labohlano haesale e le letsatsi le leholo la dikgau tsa dinaledi.
+googlei18n-tts_sot_000236 sso_5945_3511365946.wav It drowned all sound that brute agony and death may have made.
+googlei18n-tts_sot_000237 sso_8596_7697906007.wav Kgalekgale ho ne ho ena le dikgutsana tse pedi, mabitso a bona e le Dimane le Dimazane.
+googlei18n-tts_sot_000238 sso_5945_7404243237.wav I tell you I am disgusted with this adventure tomfoolery and rot.
+googlei18n-tts_sot_000239 sso_1367_4675875159.wav Ha ke tsebe hore ke hobaneng a rata ho ngangisana.
+googlei18n-tts_sot_000240 sso_6499_7726830813.wav MacDougall tapped his forehead suspiciously with a stubby forefinger.
+googlei18n-tts_sot_000241 sso_1801_8633901024.wav Ke tla kopana le wena hekeng ena hosane, hang ha letsatsi le qeta ho tjhaba.
+googlei18n-tts_sot_000242 sso_0493_5127384420.wav Hayley a bolella mokganni wa tekesi.
+googlei18n-tts_sot_000243 sso_1801_8326274689.wav Vusi, Nkgono a mmitsa, ako thuse Sinazo ho apara hle.
+googlei18n-tts_sot_000244 sso_8596_4520496781.wav Tshwene le Api ba bososela ke thabo.
+googlei18n-tts_sot_000245 sso_1801_1865181966.wav Hang diphoofolo tse ding tsa fihla.
+googlei18n-tts_sot_000246 sso_6499_4004710258.wav They wouldn't be sweeping a big vessel like the Martha.
+googlei18n-tts_sot_000247 sso_8596_0716298156.wav Madinyane a Lengau le ona a tshwara letlwepe.
+googlei18n-tts_sot_000248 sso_1367_1818076680.wav Thempheretjhara ke dikgato tse 48 Celsius, Standerton.
+googlei18n-tts_sot_000249 sso_1801_9017346341.wav Tshebeletso ya boemo ba lehodimo e hlokomedisitse setjhaba hore dinoka, melatswana le matamo a ka nna a phophoma.
+googlei18n-tts_sot_000250 sso_4592_3127049647.wav And you always want to see it in the superlative degree.
+googlei18n-tts_sot_000251 sso_2910_5591961124.wav Ke dikgato tse 12 mme ho na le mafafatsane mona Cape Town
+googlei18n-tts_sot_000252 sso_1801_1770058755.wav Motse are mantsibua ka kgwedi ya Tshitwe ho ne ho tjhesa haholoholo.
+googlei18n-tts_sot_000253 sso_0493_4587398479.wav BoMokotatsie ba pata Tshepo pakeng tsa lehlaka la ntlo.
+googlei18n-tts_sot_000254 sso_7821_2563965810.wav And you always want to see it in the superlative degree.
+googlei18n-tts_sot_000255 sso_0493_0907287288.wav Leba Leboya-Botjhabela ka mmila wa January Masilela.
+googlei18n-tts_sot_000256 sso_1367_8911947640.wav Sethibathibane sa Bafana Bafana, Thulani Hlatshwayo o kgonne ho thiba bolo makgetlo a 7 e se e le mokwallong, nakong ya papadi.
+googlei18n-tts_sot_000257 sso_0493_9938642743.wav Yaba o thetha sehohlola.
+googlei18n-tts_sot_000258 sso_1801_7519528774.wav Ho hapjwa ke tse tumileng.
+googlei18n-tts_sot_000259 sso_1367_9446008520.wav A bitsa bohlwa,
+googlei18n-tts_sot_000260 sso_1367_4714692404.wav Yaba Magozwe o ya dula phaposing ya ntlo e marulelo a matala.
+googlei18n-tts_sot_000261 sso_1801_7464932949.wav Na mollo o lokela ho tlohelwa feela o sa tingwa?
+googlei18n-tts_sot_000262 sso_1367_0753457408.wav Gift, Gaswin, Palesa, Lefaso le Kay-Lee ba fumana dinaledi tse kgubedu.
+googlei18n-tts_sot_000263 sso_6499_3656624968.wav Encouraged by my conduct, Big-Face became a sudden ally.
+googlei18n-tts_sot_000264 sso_8777_8090918909.wav He was determined now to maintain a more certain hold upon himself.
+googlei18n-tts_sot_000265 sso_1801_1648091920.wav Tsatsi le leng hona kgweding eo, sefofane sa serwalankgwana se ile sa tsorama moo sebakeng sa tlhokomelo ya diphoofolo.
+googlei18n-tts_sot_000266 sso_8777_8905316473.wav In the picture he saw each moment a greater resemblance to Jeanne.
+googlei18n-tts_sot_000267 sso_8596_6621633522.wav Moletsaphala o ile a hlokomedisa Andrea Fileccia hore o entse phoso.
+googlei18n-tts_sot_000268 sso_8596_9542663736.wav Ho mohudi Cradock, mme kgato e 1 ka tlase ho noto.
+googlei18n-tts_sot_000269 sso_1801_6133033965.wav Gift, Gaswin, Palesa, Lefaso le Kay-Lee ba fumana dinaledi tse kgubedu.
+googlei18n-tts_sot_000270 sso_8596_3032925747.wav Empa Lethabo, moropa?
+googlei18n-tts_sot_000271 sso_8777_4361804563.wav Men who endure it, call it living death.
+googlei18n-tts_sot_000272 sso_5945_4831421760.wav Gregson was asleep when he re-entered the cabin.
+googlei18n-tts_sot_000273 sso_8596_2627094596.wav Tefo Masiteng o ile a fetisetsa bolo ho Ovidy Karuru.
+googlei18n-tts_sot_000274 sso_7821_6368937495.wav There was none of the joy of meeting in his face.
+googlei18n-tts_sot_000275 sso_1367_9388973979.wav Yaba Zimkhitha o tlohela ho tsheha.
+googlei18n-tts_sot_000276 sso_5945_4138839681.wav I don't know why you're here at all.
+googlei18n-tts_sot_000277 sso_1367_7729238541.wav Mokwetlisi o ile a kenya Motsamai Ramatsa sebakeng sa Shu-Aib Walters papadi e sa qala.
+googlei18n-tts_sot_000278 sso_0493_8360823726.wav Sehlopha se sebeditse jwang?
+googlei18n-tts_sot_000279 sso_6499_9050115730.wav He saw only the effect in a general, sketchy way.
+googlei18n-tts_sot_000280 sso_6499_5280766913.wav I followed the line of the proposed railroad, looking for chances.
+googlei18n-tts_sot_000281 sso_0493_5530857074.wav Ke eng se ileng sa thehwa ke ditho tse 3?
+googlei18n-tts_sot_000282 sso_0806_1096443736.wav Lord, but I'm glad to see you again, Phil.
+googlei18n-tts_sot_000283 sso_0493_1739639474.wav Moletsaphala o ile a fa Itumeleng Nkwana karete e kgubedu.
+googlei18n-tts_sot_000284 sso_0493_8215020711.wav Mtonyama o ile a khutlisetsa Nonkungu ha hae.
+googlei18n-tts_sot_000285 sso_6499_2869326190.wav Red-Eye never committed a more outrageous deed.
+googlei18n-tts_sot_000286 sso_0493_3615850860.wav Mashilo ha a utlwa pina ya nonyana, a baleha.
+googlei18n-tts_sot_000287 sso_8777_4855051142.wav As I say, he had tapped the message very rapidly.
+googlei18n-tts_sot_000288 sso_1801_4196065723.wav Sethibathibane sa Bafana Bafana, Thabo Matlaba o kgonne ho thiba bolo makgetlo a 10 e se e le mokwallong, nakong ya papadi.
+googlei18n-tts_sot_000289 sso_0493_2730890761.wav Thuli Mpshe o ile a amohelwa e le CEO ya nakwana ya SAA ka Phato.
+googlei18n-tts_sot_000290 sso_8596_7579518310.wav O ne a utswitswe tlasa sefate ke boMokotatsie, ho rialo Lerato.
+googlei18n-tts_sot_000291 sso_0493_4937447229.wav Moru o ne o tletse dipina tsa dinonyana.
+googlei18n-tts_sot_000292 sso_8596_4646347144.wav Southhampton e hlotswe ke Crystal Palace Albion ka dintlha tse 8 ho tse 6, nakong ya ho raha dipenele.
+googlei18n-tts_sot_000293 sso_0493_9406871493.wav O tla etsa eng hosane?
+googlei18n-tts_sot_000294 sso_7821_8874952021.wav And the air was growing chilly.
+googlei18n-tts_sot_000295 sso_2910_9337532807.wav Kahoo kajeno, o ka phomola, Mme - phirimaneng ena ke monyetla wa ka wa ho phetela WENA pale!
+googlei18n-tts_sot_000296 sso_6499_9218178125.wav He may anticipate the day of his death.
+googlei18n-tts_sot_000297 sso_7821_0237278919.wav sixty-eight thirty-four ten
+googlei18n-tts_sot_000298 sso_6499_7555677682.wav A maddening joy pounded in his brain.
+googlei18n-tts_sot_000299 sso_1801_5549898373.wav Mme le Nkgono ba sheba moo Thoko a supileng teng phatleng ya hae.
+googlei18n-tts_sot_000300 sso_8596_6305375255.wav Jomo Cosmos e hlotse Black Aces, ka dintlha tse 6 ho tse 2, papading ya Premier League.
+googlei18n-tts_sot_000301 sso_1367_4227969087.wav Habu, habu, habu, ya bohola ntja.
+googlei18n-tts_sot_000302 sso_0145_9114591742.wav Ka letsatsi le leng, Mme Maneo a jala mokopu jareteng ya hae.
+googlei18n-tts_sot_000303 sso_1801_9461647928.wav Moletsaphala o ile a abela Liberty Chakoroma penele.
+googlei18n-tts_sot_000304 sso_1801_9490163458.wav Kena, ho rialo ntja.
+googlei18n-tts_sot_000305 sso_0145_0248617724.wav For the twentieth time that evening the two men shook hands.
+googlei18n-tts_sot_000306 sso_5945_5531946731.wav That's why its boundaries are all gouged and jagged.
+googlei18n-tts_sot_000307 sso_1801_2746130194.wav Sethibathibane sa Bafana Bafana, Thulani Hlatshwayo o kgonne ho thiba bolo makgetlo a 7 e se e le mokwallong, nakong ya papadi.
+googlei18n-tts_sot_000308 sso_7934_8951499531.wav But a strange thing happened.
+googlei18n-tts_sot_000309 sso_0806_6221415424.wav Mashilwane a ba bolella hore Mashilo o mo lahletse ka pereng ka hore a batla kgomo ya gagwe.
+googlei18n-tts_sot_000310 sso_0493_2294857750.wav Aston Villa e bapetse ka ho lekana le Manchester United.
+googlei18n-tts_sot_000311 sso_1367_9762983711.wav Kale hlahlamang letsatsi leo a utlwa a photholohile hore a ka besa mollo hore a tsebe ho futhumala.
+googlei18n-tts_sot_000312 sso_8777_9397046969.wav For a time the exciting thrill of his adventure was gone.
+googlei18n-tts_sot_000313 sso_8777_2395218158.wav I should like to engage just for one whole life in that.
+googlei18n-tts_sot_000314 sso_0493_4001251887.wav Hela, Bra Tsotsi, Mong Mmutla a rialo, mphe pampiri ya ka.
+googlei18n-tts_sot_000315 sso_8777_0159624546.wav Get down and dig in.
+googlei18n-tts_sot_000316 sso_0493_3256503444.wav Pele, ke tla bala dikwena tsohle, mme le wena o ka bala dipela tsohle.
+googlei18n-tts_sot_000317 sso_8596_1475950493.wav Ketti a sheba hodimo sefateng.
+googlei18n-tts_sot_000318 sso_0493_0277911867.wav Re tlilo etsa jwang?
+googlei18n-tts_sot_000319 sso_7821_9264286160.wav Now go ahead and tell me in a straightforward way what has happened.
+googlei18n-tts_sot_000320 sso_4592_3603121116.wav Ka tsatsi le leng Lwazi a fumana setulo sa kgale se sututswang thoteng e haufi le habo.
+googlei18n-tts_sot_000321 sso_7821_1075927125.wav He was fond of quoting a fragment from a certain poem.
+googlei18n-tts_sot_000322 sso_8596_7844778194.wav Tshebeletso ya boemo ba lehodimo e hlokomedisitse setjhaba hore pula e ka nna ya na haholo.
+googlei18n-tts_sot_000323 sso_6499_9367312611.wav I never saw anything like her in my life.
+googlei18n-tts_sot_000324 sso_7821_8034363369.wav What I saw I could not at first believe.
+googlei18n-tts_sot_000325 sso_7821_3508581593.wav The night was calm and snowy.
+googlei18n-tts_sot_000326 sso_1367_8459596361.wav Qetellong ba e fumana.
+googlei18n-tts_sot_000327 sso_0493_5047851479.wav Ho tswa hodimodimo marung, ditsheho tsa Zimkhitha di ne di utlwahala di theohela tlase jwaloka tshepe e nyane.
+googlei18n-tts_sot_000328 sso_5945_3392417288.wav Now our figuring was all right.
+googlei18n-tts_sot_000329 sso_7821_9569860803.wav five two two
+googlei18n-tts_sot_000330 sso_8596_6178708296.wav Phokojwe ke eo!
+googlei18n-tts_sot_000331 sso_1801_3010628111.wav Makoloi a hapjwa ka sheshe.
+googlei18n-tts_sot_000332 sso_6499_0459568458.wav Every bone in her aged body seemed broken or dislocated.
+googlei18n-tts_sot_000333 sso_0493_5261351179.wav Diphoofolo tse ding tsa dumela, kahoo tsa tutumolotseha ho ya dibakeng tse fapaneng, di ikemiseditse ho fumana Letsatsi.
+googlei18n-tts_sot_000334 sso_8596_0574441298.wav Na o ka bula lemati?
+googlei18n-tts_sot_000335 sso_7912_0503369845.wav Mashilwane a ba bolella hore Mashilo o mo lahletse ka pereng ka hore a batla kgomo ya hae.
+googlei18n-tts_sot_000336 sso_8777_1125199791.wav I had faith in them.
+googlei18n-tts_sot_000337 sso_6499_3851317242.wav At first he puzzled over something untoward he was sure had happened.
+googlei18n-tts_sot_000338 sso_7934_6274243693.wav It seems like a strange pointing of the hand of God.
+googlei18n-tts_sot_000339 sso_1367_3624444495.wav Naheng e bitswang Gabon, motsana o mong tjena o ne o eme qetellong ya moru.
+googlei18n-tts_sot_000340 sso_5945_2314103764.wav They were deep in the primeval forest.
+googlei18n-tts_sot_000341 sso_5945_4803951077.wav Beyond dispute, Corry Hutchinson had married Mabel Holmes.
+googlei18n-tts_sot_000342 sso_6499_3741719514.wav No man ate of the seal meat or the oil.
+googlei18n-tts_sot_000343 sso_7821_5826924555.wav Shall I carry you.
+googlei18n-tts_sot_000344 sso_8777_6535318927.wav six two two
+googlei18n-tts_sot_000345 sso_1801_4044595597.wav Mme a fumana sutukeisi ya kgale ka tlasa bethe.
+googlei18n-tts_sot_000346 sso_8596_9697182918.wav Nkgono a sheba Thoko.
+googlei18n-tts_sot_000347 sso_0493_8124290915.wav O ne a sa kgathale ho tshepjwa.
+googlei18n-tts_sot_000348 sso_8596_9416444045.wav Hayley a tletleba.
+googlei18n-tts_sot_000349 sso_1801_5908993735.wav West Bromwich Albion e hlotswe ke Swansea City ka dintlha tse 10 ho tse 6, papading ya UEFA Champions League.
+googlei18n-tts_sot_000350 sso_7821_6849263958.wav He had been foiled in his attempt to escape.
+googlei18n-tts_sot_000351 sso_0493_7892000534.wav Tsenene ya fofela hantle pelong ya nonyana.
+googlei18n-tts_sot_000352 sso_6499_8189049114.wav A burst of laughter was his reward.
+googlei18n-tts_sot_000353 sso_6499_7575884753.wav Is that Pat Hanrahan's mug looking hungry and willing.
+googlei18n-tts_sot_000354 sso_7876_2248275503.wav Tshebeletso ya boemo ba lehodimo e noha hore pula e ka nna ya na, Kapa Bophirima.
+googlei18n-tts_sot_000355 sso_7821_0556370289.wav I have been doubly baptized.
+googlei18n-tts_sot_000356 sso_1367_5700747401.wav Tsatsing le hlahlamang Noko a fihla hekeng pele ho Mmutla.
+googlei18n-tts_sot_000357 sso_1801_6615789754.wav Molaolapapadi o file Felix Obada karete e tshehla.
+googlei18n-tts_sot_000358 sso_7821_9901767922.wav Obviously, it was a disease that could be contracted by contact.
+googlei18n-tts_sot_000359 sso_0145_2864949399.wav Ka tsatsi le leng Lwazi a fumana setulo sa kgale se sututswang thoteng e haufi le habo.
+googlei18n-tts_sot_000360 sso_7934_8515560834.wav Give them their choice between a fine or an official whipping.
+googlei18n-tts_sot_000361 sso_1801_7095934565.wav Mabidi a teroli a nna a re kikiri-kiri, kikiri-kiri.
+googlei18n-tts_sot_000362 sso_6499_5094948114.wav They were artists, not biologists.
+googlei18n-tts_sot_000363 sso_7821_0484037406.wav His infernal chattering worries me even now as I think of it.
+googlei18n-tts_sot_000364 sso_0493_9437016256.wav Ke mang eo e neng e le molaodi wa porofensi ya Kwazulu-Natala?
+googlei18n-tts_sot_000365 sso_7912_1514679512.wav Ho bjabjaretsa ke ho etsang?
+googlei18n-tts_sot_000366 sso_8777_9172992528.wav But he no longer cared quite so much for that form of diversion.
+googlei18n-tts_sot_000367 sso_7934_0187068187.wav Also, there was awe in their faces.
+googlei18n-tts_sot_000368 sso_7821_8649553853.wav But here amongst ourselves let us speak out.
+googlei18n-tts_sot_000369 sso_5945_1311838866.wav It is also an insidious, deceitful sun.
+googlei18n-tts_sot_000370 sso_1367_7029696031.wav Ke dikgato tse 34 tse nang le pula e bobebe mona Port Elizabeth
+googlei18n-tts_sot_000371 sso_7934_8387903291.wav Philip began to feel that he had foolishly overestimated his strength.
+googlei18n-tts_sot_000372 sso_8596_2695154520.wav Arsenal e hlotswe ke Aston Villa ka dintlha tse 12 ho tse 2, nakong ya ho raha dipenele.
+googlei18n-tts_sot_000373 sso_7821_3929800798.wav A dead man is of no use on a plantation.
+googlei18n-tts_sot_000374 sso_2388_5754084327.wav And you always want to see it in the superlative degree.
+googlei18n-tts_sot_000375 sso_1801_5567782888.wav Thinyetsa ka ho le letshehadi.
+googlei18n-tts_sot_000376 sso_1367_0988288060.wav Mosuwetsana Akinyi o re ruta ditlhaku le ditumanotshi.
+googlei18n-tts_sot_000377 sso_8777_0424588466.wav A month passed by, and Bonanza Creek remained quiet.
+googlei18n-tts_sot_000378 sso_1801_0526655118.wav Bohle ba dumellana hore ba ithutile thuto e bohlokwa.
+googlei18n-tts_sot_000379 sso_0493_1916469419.wav Mme ba sebetse jwalo ka ngatana elengwe ho pjhatla diketane tse ba tlamellang bokgobeng ka hosafeleng.
+googlei18n-tts_sot_000380 sso_7821_5778992738.wav Those are my oysters, he said at last.
+googlei18n-tts_sot_000381 sso_7934_5747333541.wav You live on an income which your father earned.
+googlei18n-tts_sot_000382 sso_7876_1362996236.wav Author of the danger trail, Philip Steels, etc.
+googlei18n-tts_sot_000383 sso_8596_9774166224.wav Moletsaphala o ile a fa Gerald Phiri Junior karete e kgubedu.
+googlei18n-tts_sot_000384 sso_1367_1974671050.wav Ho hapjwa ke tse tumileng.
+googlei18n-tts_sot_000385 sso_1367_1278048705.wav Re shebe eng, Thoko?
+googlei18n-tts_sot_000386 sso_6499_9774654142.wav You have heard always how he was the lover of the Princess Naomi.
+googlei18n-tts_sot_000387 sso_8777_9130566753.wav The fourth and fifth days passed without any developments.
+googlei18n-tts_sot_000388 sso_5945_6721582764.wav I was about to do this when cooler judgment prevailed.
+googlei18n-tts_sot_000389 sso_1367_9821397085.wav Ke o qhekanyeditse.
+googlei18n-tts_sot_000390 sso_8777_9842798189.wav forty-two seventy-eight forty-seven
+googlei18n-tts_sot_000391 sso_8596_4804188388.wav Moletsaphala o ile a abela Evans Rusike penele.
+googlei18n-tts_sot_000392 sso_7934_6226913453.wav But it won't continue, she said with easy confidence.
+googlei18n-tts_sot_000393 sso_1367_9101147507.wav Hanghang Lerato a tshoha.
+googlei18n-tts_sot_000394 sso_1367_2434208408.wav Moletsaphala o ile a fa Mothusi Gopane penele.
+googlei18n-tts_sot_000395 sso_7821_1782903965.wav I lost my balance and pitched head foremost into the ooze.
+googlei18n-tts_sot_000396 sso_0493_6170941716.wav Nkanka, nkanka bohobe o je Tselane ngwanake.
+googlei18n-tts_sot_000397 sso_7934_5019015768.wav And when you come back in a few days, bring Eileen.
+googlei18n-tts_sot_000398 sso_1266_3030706271.wav And you always want to see it in the superlative degree.
+googlei18n-tts_sot_000399 sso_2910_0954475981.wav Dinaledi tsa kgauta di tswa pele!
+googlei18n-tts_sot_000400 sso_7821_2290472789.wav Very early in my life, I separated from my mother.
+googlei18n-tts_sot_000401 sso_1801_4418970850.wav Ntshaleng morao, ho hweshetsa Felleng.
+googlei18n-tts_sot_000402 sso_0145_0931381137.wav Mandela o dula hokae?
+googlei18n-tts_sot_000403 sso_1367_9056255761.wav Newcastle United e bapetse ka ho lekana le Manchester United.
+googlei18n-tts_sot_000404 sso_8596_0173535695.wav Mokopu wa ikwaela hape.
+googlei18n-tts_sot_000405 sso_1367_3497000557.wav A bea kgoho e nonneng hodima botlolo ya jeme eo a e rwetseng hloohong.
+googlei18n-tts_sot_000406 sso_8596_4555490040.wav Batho ba sebaka sa hlokomelo ya diphoofolo ba sebetsa ka thata.
+googlei18n-tts_sot_000407 sso_8596_9409714855.wav Ha ke batle ho iphumana ke le kgweding.
+googlei18n-tts_sot_000408 sso_7934_8175753822.wav At Lake Linderman I had one canoe, very good Peterborough canoe.
+googlei18n-tts_sot_000409 sso_8596_0016174774.wav Hobaneng ha o rata ho sebetsa mona?
+googlei18n-tts_sot_000410 sso_0493_7104806796.wav Bloemfontein Celtics e hlotse Kaizer Chiefs ka dintlha tse 8 ho tse 6, papading ya Premier League.
+googlei18n-tts_sot_000411 sso_6499_9226178368.wav I was brought up the way most girls in Hawaii are brought up.
+googlei18n-tts_sot_000412 sso_1801_4505632583.wav Yaba e a sututsa, ya penya yaba ya kakatletsa mme qetellong ha tlola lehe la bobedi
+googlei18n-tts_sot_000413 sso_8596_6216776023.wav Mtonyama o ile a khutlisetsa Nonkungu ha hae.
+googlei18n-tts_sot_000414 sso_1367_0805542677.wav Demane o ne a kgathetse haholo ke hobesale a pheha kgang le ho arabisana.
+googlei18n-tts_sot_000415 sso_7934_4838614788.wav But he reconciled himself to it by an act of faith.
+googlei18n-tts_sot_000416 sso_7801_6332775207.wav Imbudu e ile ya ya harangwane Mtonyama yare Ke motjhana wa hao, Nonkungu.
+googlei18n-tts_sot_000417 sso_8596_9866236989.wav Tafole e ne e kgabisitswe ka dipalesa le balunu e ntle e bolou ya Ntjhanyana Beka.
+googlei18n-tts_sot_000418 sso_1801_0713542839.wav Dipanana ha di butswe, di tshehla.
+googlei18n-tts_sot_000419 sso_0493_0532767095.wav Ke rata meketjana, ha rialo Api.
+googlei18n-tts_sot_000420 sso_7934_2737982204.wav He was an enthusiast and a desert dweller.
+googlei18n-tts_sot_000421 sso_1266_5560310680.wav Dinaledi tsa kgauta di tswa pele!
+googlei18n-tts_sot_000422 sso_7912_0152453905.wav Dinaledi tsa kgauta di tswa pele!
+googlei18n-tts_sot_000423 sso_1367_5288210835.wav Qetellong, Sisanda a kgaleha a ntse a mametse lentswe la mmae.
+googlei18n-tts_sot_000424 sso_7934_2457146452.wav She was sleeping under his protection as sweetly as a child.
+googlei18n-tts_sot_000425 sso_7821_5637605158.wav For a full minute he crouched and listened.
+googlei18n-tts_sot_000426 sso_8777_8392002282.wav A trickle of fresh blood ran over his face.
+googlei18n-tts_sot_000427 sso_0493_3216324020.wav Bakeng sa mosebetsi ona o ile a lefshwa ka dikhoine tse mmalwa tsa silefera.
+googlei18n-tts_sot_000428 sso_1801_5244341426.wav Empa Lethabo - moropa?
+googlei18n-tts_sot_000429 sso_1801_9837179155.wav Yaba Maria le Ntate Smuts ba fapanyetsana jwalo, mme Ntate Smuts a potlakela hae.
+googlei18n-tts_sot_000430 sso_7801_3193980650.wav Not at this particular case, Tom, apologized Whittemore.
+googlei18n-tts_sot_000431 sso_6499_0552670763.wav Yes, sir, I corrected.
+googlei18n-tts_sot_000432 sso_1801_0063124932.wav Ho bjabjaretsa ke ho etsang?
+googlei18n-tts_sot_000433 sso_1367_4023128908.wav Swansea City e hlotse Leicester City ka dintlha tse 11 ho tse 6 nakong ya ho raha dipenele.
+googlei18n-tts_sot_000434 sso_6499_8360537882.wav There is not an iota of truth in it, certainly not.
+googlei18n-tts_sot_000435 sso_1801_9550279615.wav Moletsaphala o abetse Tshepang Mosikili penele.
+googlei18n-tts_sot_000436 sso_8596_6999173354.wav Domino o sele hampe, ho rialo nkgono wa bona.
+googlei18n-tts_sot_000437 sso_1266_9802635088.wav Ho bjabjaretsa ke ho etsang?
+googlei18n-tts_sot_000438 sso_7934_9631878474.wav thirty-four zero one
+googlei18n-tts_sot_000439 sso_8777_6977903344.wav McCoy found a stifling, poisonous atmosphere in the pent cabin.
+googlei18n-tts_sot_000440 sso_0806_1421099859.wav Ka tsatsi le leng Lwazi a fumana setulo sa kgale se sututswang thoteng e haufi le habo.
+googlei18n-tts_sot_000441 sso_0493_9506405347.wav Empa nna ke Mohlalefi e Monyane, Mong Mmutla a rialo.
+googlei18n-tts_sot_000442 sso_7934_4094764091.wav In a way he is my protege.
+googlei18n-tts_sot_000443 sso_7821_5116422073.wav Then, and at supper, he tried to fathom her.
+googlei18n-tts_sot_000444 sso_7821_7522840084.wav There was a change now.
+googlei18n-tts_sot_000445 sso_7934_5390126101.wav At this moment I felt a stir at my shoulder.
+googlei18n-tts_sot_000446 sso_0493_3830127389.wav A qetela ka ho ba bjabjaretsa masapo.
+googlei18n-tts_sot_000447 sso_7934_1935025334.wav They obeyed him, and went here and there at his commands.
+googlei18n-tts_sot_000448 sso_1367_6296750667.wav West Ham United e hlotse Leicester City ka dintlha tse 6 ho tse 4 tlhodisanong ya mohope wa lefatshe ya FIFA.
+googlei18n-tts_sot_000449 sso_6499_9662216527.wav What if Jeanne failed him.
+googlei18n-tts_sot_000450 sso_0806_8529906362.wav Maritzburg United e hlotse Black Aces ka dintlha tse 5 ho tse 2, papading ya Premier League.
+googlei18n-tts_sot_000451 sso_1367_7331774922.wav Domino ya tlolela lekase la diaparo jwalo ka kangaroo e hlanyang.
+googlei18n-tts_sot_000452 sso_7934_2762970661.wav Accept a father's blessing, and with it, this.
+googlei18n-tts_sot_000453 sso_7821_1430723683.wav In short, my joyous individualism was dominated by the orthodox bourgeois ethics.
+googlei18n-tts_sot_000454 sso_8777_0279720202.wav Do you know that you are shaking my confidence in you.
+googlei18n-tts_sot_000455 sso_2388_9776596605.wav Ka letsatsi le leng, Mme Maneo a jala mokopu jareteng ya hae.
+googlei18n-tts_sot_000456 sso_1367_7744137018.wav A qetela ka ho ba bjabjaretsa masapo.
+googlei18n-tts_sot_000457 sso_1266_2896572366.wav Dikilomethareng tse 3, nka tsela e kgelohelang ka ho le letshehadi.
+googlei18n-tts_sot_000458 sso_0493_2586437057.wav Yaba kuku ya tjhokolete, bisikiti, phae ya apole, le koeksister.
+googlei18n-tts_sot_000459 sso_9892_5060230430.wav Tafole e ne e kgabisitswe ka dipalesa le balunu e ntle e bolou ya Ntjhanyana Beka.
+googlei18n-tts_sot_000460 sso_1801_0848346311.wav Hobaneng dipanana di le tshehla?
+googlei18n-tts_sot_000461 sso_0493_3777599380.wav E hodimodimo marung.
+googlei18n-tts_sot_000462 sso_7934_3690628956.wav fifty-two seventy-four forty-seven
+googlei18n-tts_sot_000463 sso_2910_4652986445.wav Ho hapjwa ke tse tumileng.
+googlei18n-tts_sot_000464 sso_8596_3018173813.wav Bakeng sa mosebetsi ona o ile a lefshwa ka dikhoine tse mmalwa tsa silefera.
+googlei18n-tts_sot_000465 sso_1367_7462441995.wav Ke nkga hampempe.
+googlei18n-tts_sot_000466 sso_0493_0576270105.wav Itjhu, itjhu, itjhuu, ha lla McKenzie, a phahamisa hlooho ho kga moya, nko ya ka e bohloko.
+googlei18n-tts_sot_000467 sso_8596_6181403223.wav Hosane ke Sontaha mme re tlilo ja khabetjhe feela bakeng sa dijo tsa mantsiboya.
+googlei18n-tts_sot_000468 sso_1266_7969006958.wav Sethibathibane sa Bafana Bafana, Tokelo Rantie o kgonne ho thiba bolo makgetlo a 2 e se e le mokwallong, nakong ya papadi.
+googlei18n-tts_sot_000469 sso_1367_0628963757.wav O tla etela mmao neng?
+googlei18n-tts_sot_000470 sso_8777_3734666207.wav Therefore, hurrah for the game.
+googlei18n-tts_sot_000471 sso_8596_8097089781.wav Ke tlameha ho ya batla abuti Tsotsi ke hlothe pampiri yane.
+googlei18n-tts_sot_000472 sso_1801_3958481547.wav O tjhesang mosebetsi leha ho le jwalo.
+googlei18n-tts_sot_000473 sso_0493_3241995630.wav Le pholositse meroho ya ka leshodung lane.
+googlei18n-tts_sot_000474 sso_8596_3344342348.wav Empa Mme, ha hoeletsa ngwananyana eo ha a dula tafoleng, ha ho dijo poleiting ya ka.
+googlei18n-tts_sot_000475 sso_6499_7548712671.wav thirty-four eighty-eight eighty-eight
+googlei18n-tts_sot_000476 sso_0493_4946340310.wav Batho ba bangata ba tswa mme mokganni wa tekesi a hoeletsa le fensetereng, Peninsula Road!
+googlei18n-tts_sot_000477 sso_8777_1656308690.wav Yet he dreams he is immortal, I argue feebly.
+googlei18n-tts_sot_000478 sso_1801_2952879612.wav Antoni, ke bomang bale?
+googlei18n-tts_sot_000479 sso_8777_5913140657.wav We are consumed in our own flesh-pots.
+googlei18n-tts_sot_000480 sso_1367_6361075430.wav Tlwaelo ena e ntjha ya MaShange e ne e halefisa sedubi seo sa dibakwang haholo.
+googlei18n-tts_sot_000481 sso_1801_4503559238.wav Kepisi ya ka ya hakwa ke mahlaku a sefate sa kgale sa diperekisi.
+googlei18n-tts_sot_000482 sso_4592_3447041651.wav Tafole e ne e kgabisitswe ka dipaletsa le balunu e ntle e bolou ya Ntjhanyana Beka.
+googlei18n-tts_sot_000483 sso_1801_3348907949.wav Ke mang ya tla kgethwa hape dikgethong?
+googlei18n-tts_sot_000484 sso_8596_7031321692.wav Lefokolodi ya e ba yena pele wa ho ba sethibathibane.
+googlei18n-tts_sot_000485 sso_1801_3519989201.wav Lefokolodi o ile a hlaba dintlha tse 5.
+googlei18n-tts_sot_000486 sso_1801_9077388887.wav Moletsaphala o file Brandon Peterson karete e tshehla.
+googlei18n-tts_sot_000487 sso_0493_2902193494.wav O, Mong Mmutla a rialo, a kgutlisetsa sehwete se sa fellang ka pokothong ya hae.
+googlei18n-tts_sot_000488 sso_7934_7880040207.wav But in the canyons water was plentiful and also a luxuriant forest growth.
+googlei18n-tts_sot_000489 sso_8777_1516498434.wav And the big Persian knew of his existence before he did of hers.
+googlei18n-tts_sot_000490 sso_5945_6438138816.wav five zero three
+googlei18n-tts_sot_000491 sso_1367_0489653470.wav Empa Lethabo, moropa?
+googlei18n-tts_sot_000492 sso_1801_9483819629.wav Tshwene e sesetsa sehlekehlekeng ka hare ho letsha.
+googlei18n-tts_sot_000493 sso_8596_5848022243.wav Moahisane le ena a jikela morao a baleha.
+googlei18n-tts_sot_000494 sso_8596_0399226458.wav Taka le sekepe se seholo he, hore ke kgone ho tshela lewatle lena, ha laela monna wa morui.
+googlei18n-tts_sot_000495 sso_5945_9051217790.wav It's only his indigestion I find fault with.
+googlei18n-tts_sot_000496 sso_1801_8295521208.wav Latela R43 ka dikilomethara tse 114.
+googlei18n-tts_sot_000497 sso_0493_2527096390.wav Ho dikgato tse 5, Lady Frere.
+googlei18n-tts_sot_000498 sso_1266_2646680876.wav God bless 'em, I hope I'll go on seeing them forever.
+googlei18n-tts_sot_000499 sso_8596_5639593915.wav Polokwane City e hlotswe ke Platinum Stars ka dintlha tse 4 ho e 1, papading ya PSL.
+googlei18n-tts_sot_000500 sso_8596_4147911740.wav Gift, Gaswin, Palesa, Lefaso le Kay-Lee ba fumana dinaledi tse kgubedu.
+googlei18n-tts_sot_000501 sso_9892_8696224688.wav Maritzburg United e hlotse Black Aces ka dintlha tse 5 ho tse 2, papading ya Premier League.
+googlei18n-tts_sot_000502 sso_7934_0342308712.wav It is very plausible to such people, a most convincing hypothesis.
+googlei18n-tts_sot_000503 sso_2388_1650233771.wav Mootlwana o ne o tshohile haholo; wa itshunya hukung mme wa tsetsela.
+googlei18n-tts_sot_000504 sso_7934_0814954003.wav It occurred to me that there would have to be an accounting.
+googlei18n-tts_sot_000505 sso_7934_0755144712.wav They are big trees and require plenty of room.
+googlei18n-tts_sot_000506 sso_0493_7709234132.wav Ao bathong, ha rialo mpshe, e shebeha e hloname ebile e lapile.
+googlei18n-tts_sot_000507 sso_5945_3474080000.wav I only read the quotations.
+googlei18n-tts_sot_000508 sso_6499_6398515753.wav zero sixty-six one
+googlei18n-tts_sot_000509 sso_1367_9635372118.wav Jwale, ntshetsang ntja eno le katse eno ka ntle ka kwana.
+googlei18n-tts_sot_000510 sso_1801_0790483894.wav Jwale ke tla re phokojwe e kgutletse morung.
+googlei18n-tts_sot_000511 sso_8596_8593867482.wav E hodimodimo marung, ka hodima kgwedi.
+googlei18n-tts_sot_000512 sso_1801_3351979624.wav Thabo a kgelella a ya pele.
+googlei18n-tts_sot_000513 sso_9892_5257201182.wav Ka tsatsi le leng Lwazi a fumana setulo sa kgale se sututswang thoteng e haufi le habo.
+googlei18n-tts_sot_000514 sso_1801_5502583150.wav Ke tla o bona hosane sefate sa dilamunu, ho rialo Khalai.
+googlei18n-tts_sot_000515 sso_7934_2977524237.wav He would destroy all things that are fixed.
+googlei18n-tts_sot_000516 sso_8777_6149421809.wav Suddenly his fingers closed tightly over the handkerchief.
+googlei18n-tts_sot_000517 sso_0493_4958431379.wav Sethibathibane sa Bafana Bafana, Thabo Matlaba o kgonne ho thiba bolo makgetlo a 7 e se e le mokwallong, nakong ya papadi.
+googlei18n-tts_sot_000518 sso_8596_8797820585.wav Yaba monna enwa o ya buwa o re, bophelo ba marallaneng bomonate le lona le ka tla latlo phela teng.
+googlei18n-tts_sot_000519 sso_1801_9435082509.wav Metswalle ya Lwazi e mmedi e leng Ismail le McKenzie ba feta le moo ha ba eya lebenkeleng.
+googlei18n-tts_sot_000520 sso_8777_8895886922.wav You're joking me, sir, the other managed to articulate.
+googlei18n-tts_sot_000521 sso_1367_4047242766.wav Ba etsa nonyana ka kgodu eno ya abuti wa bona ya qhibidisitsweng ke letsatsi.
+googlei18n-tts_sot_000522 sso_7934_3738895385.wav Yea, so are all the lesser animals of today clean.
+googlei18n-tts_sot_000523 sso_8777_6418111252.wav They look as though he had been drumming a piano all his life.
+googlei18n-tts_sot_000524 sso_1367_0445869461.wav Ha di utlwa lentswe la hae, dikgo tsa qhalana tsa tsamaya.
+googlei18n-tts_sot_000525 sso_1801_9720759677.wav Letsatsi la tjhesa le ho feta le hloka mohau ho tswa lehodimong le feela.
+googlei18n-tts_sot_000526 sso_5945_4554639363.wav ninety-eight ninety-two thirty-eight
+googlei18n-tts_sot_000527 sso_8777_2925235958.wav seventy-eight twenty-eight twenty-nine
+googlei18n-tts_sot_000528 sso_5945_4353457747.wav She nodded, and her eyes grew soft and moist.
+googlei18n-tts_sot_000529 sso_7821_1356034695.wav He was the soul of devotion to his employers.
+googlei18n-tts_sot_000530 sso_0493_5609632805.wav Mmutla o lebelo le fetang moya.
+googlei18n-tts_sot_000531 sso_7801_1522959140.wav Dimethereng tse 500, thinyetsa ka ho le letona ebe jwale o itulela ka letsohong le letshehadi.
+googlei18n-tts_sot_000532 sso_0145_2734700965.wav Kahoo kajeno, o ka phomola, Mme - phirimaneng ena ke monyetla wa ka wa ho phetela WENA pale!
+googlei18n-tts_sot_000533 sso_1801_6778491471.wav Dikgato di 50 Benoni.
+googlei18n-tts_sot_000534 sso_7934_1383589545.wav God bless 'em, I hope I'll go on seeing them forever.
+googlei18n-tts_sot_000535 sso_8596_8038525448.wav Mokwetlisi o ile a kenya Phumlani Ntshangase bakeng sa Mpho Thulo papadi e sa tswa qala.
+googlei18n-tts_sot_000536 sso_8596_2361427013.wav Thinyetsa ka ho le letona.
+googlei18n-tts_sot_000537 sso_7934_8171269854.wav The eastern heavens were equally spectacular.
+googlei18n-tts_sot_000538 sso_7821_6775271559.wav six zero one
+googlei18n-tts_sot_000539 sso_1367_1227129872.wav Chelsea e hlotse Liverpool ka dintlha tse 8 ho tse 3, papading ya English Premier League.
+googlei18n-tts_sot_000540 sso_1367_7114487948.wav A mo phahamisa fatshe.
+googlei18n-tts_sot_000541 sso_8596_3014982422.wav Ke kahoo Motjhalla a ileng a fetoha mankgane.
+googlei18n-tts_sot_000542 sso_1367_1275030068.wav Tloo, Ntate a mmitsa, a phamola dinotlolo tsa koloi.
+googlei18n-tts_sot_000543 sso_8596_0057079866.wav Free State Stars e bapetse ka ho lekana le Bournemouth.
+googlei18n-tts_sot_000544 sso_8596_8380045388.wav Nna le Thando re ntse re iketsetsa metlae feela.
+googlei18n-tts_sot_000545 sso_1801_4660195243.wav Thootse ya wela fatshe moo e ileng ya wela hodima letlapa le ka lehlakoreng la thaba.
+googlei18n-tts_sot_000546 sso_1367_3400862022.wav Tshebeletso ya boemo ba lehodimo e hlokomedisitse setjhaba hore ho ka nna ha ba le hlaha tse tukang, dithoteng.
+googlei18n-tts_sot_000547 sso_1367_6593829348.wav Golden Arrows e hlotse Polokwane City ka dintlha tse 6 ho tse 0, nakong e ekeditsweng, papading ya PSL.
+googlei18n-tts_sot_000548 sso_8777_0460969698.wav six zero six
+googlei18n-tts_sot_000549 sso_1367_2477420754.wav Empa ka yona nako eo, motlakase wa tima.
+googlei18n-tts_sot_000550 sso_1801_2176455485.wav Ka nako yona eo, ngwananyana le mmae ba kena ka kitjhineng.
+googlei18n-tts_sot_000551 sso_6499_2212323918.wav seven nine nine
+googlei18n-tts_sot_000552 sso_8596_9596793658.wav Themperetjhara ke dikgato tse 40, Strand.
+googlei18n-tts_sot_000553 sso_8596_1854653448.wav Dinonyana tsena di ile tsa kgutlela ho ena kgetlo la boraro.
+googlei18n-tts_sot_000554 sso_0493_6144832388.wav Taka setshwantsho ho bontsha e nngwe ya diketsahalo tse karolong ya ho qetela ya pale ena.
+googlei18n-tts_sot_000555 sso_1367_0945096498.wav Ka mora nako monna eo a tiisetsa moshanyana hore bophelo bo ka ba betere sebakeng se setjha.
+googlei18n-tts_sot_000556 sso_0493_0234391108.wav Ba ya phaposing ya ho hlapela.
+googlei18n-tts_sot_000557 sso_8777_7282866219.wav Youth had come back to her, freed from the yoke of oppression.
+googlei18n-tts_sot_000558 sso_1801_2098361425.wav Ao bathong, ha rialo mpshe, e shebeha e hloname ebile e lapile.
+googlei18n-tts_sot_000559 sso_1801_2201791138.wav Dimitara tse pedi.
+googlei18n-tts_sot_000560 sso_1367_8782707178.wav Ho tla na pula Sasolburg mantsiboya, mme dikgato ke tse 33.
+googlei18n-tts_sot_000561 sso_1801_8075413341.wav Yaba ka hloko,o tshwara letlwepe.
+googlei18n-tts_sot_000562 sso_0493_3560749490.wav Re batlile re tshwarwa!
+googlei18n-tts_sot_000563 sso_1801_0197415028.wav O tla hapa thonamente neng?
+googlei18n-tts_sot_000564 sso_1367_5607116731.wav Yaba senqanqana se tsitsinya hlooho ya sona e kgolo se bontsha hore ha se so mmone.
+googlei18n-tts_sot_000565 sso_1801_1518200217.wav Kahoo, a etsa leqheka.
+googlei18n-tts_sot_000566 sso_1367_3182357871.wav Yaba Mma Lefokolodi o utlwa lentswe le lesesane.
+googlei18n-tts_sot_000567 sso_6499_8623136179.wav He had no excuse for the feelings which were aroused in him.
+googlei18n-tts_sot_000568 sso_7934_8245260513.wav From now on we're pals.
+googlei18n-tts_sot_000569 sso_1801_1148216563.wav Motsemoholo o lefella setadiamo jwang?
+googlei18n-tts_sot_000570 sso_8777_0521635013.wav Next to them the Canada jays were most persistent.
+googlei18n-tts_sot_000571 sso_1367_7354412094.wav Sethibathibane sa Bafana Bafana, Rivaldo Coetzee o kgonne ho thiba bolo makgetlo a 6 e se e le mokwallong, nakong ya papadi.
+googlei18n-tts_sot_000572 sso_0493_2990517925.wav Tonki ya Kgotso e putswa.
+googlei18n-tts_sot_000573 sso_7821_8644531282.wav It was my idea to a tee.
+googlei18n-tts_sot_000574 sso_0493_4074249215.wav Kapa ka hara meutlwa ya dipalesa, ho honotha ntatae.
+googlei18n-tts_sot_000575 sso_1367_5168619601.wav Zimkhitha o kae?
+googlei18n-tts_sot_000576 sso_5945_1471745811.wav Low bush whipped him in the face and left no sting.
+googlei18n-tts_sot_000577 sso_6499_0411224099.wav It lived in perpetual apprehension of that quarter of the compass.
+googlei18n-tts_sot_000578 sso_8596_9465253087.wav Ke tla etsa tjhelete e ngata haholo hoo ke tlang ho ba moruihadi ya fetang bohle naheng ena kaofela.
+googlei18n-tts_sot_000579 sso_9892_5446579281.wav A bea kgoho e nonneng hodima botlolo ya jeme eo a e rwetseng hloohong.
+googlei18n-tts_sot_000580 sso_8777_8779419983.wav Perrault found one with head buried in the grub box.
+googlei18n-tts_sot_000581 sso_1367_5272510396.wav Ya sheba kepisi ya ka sefateng sa kgale sa diperekisi.
+googlei18n-tts_sot_000582 sso_2388_9103724489.wav Ke dikgato tse 19 mme ho maru ka ho kgetha dibaka mona Johannesburg
+googlei18n-tts_sot_000583 sso_1367_1319820645.wav Dulang fatshe le shebelle mona, a rialo.
+googlei18n-tts_sot_000584 sso_0493_2566426190.wav Ho na pula e matla, ya sefako le sefefo Schweizer-Reneke, mme dikgato ke tse 3.
+googlei18n-tts_sot_000585 sso_1367_2562049995.wav A boela a etsetsa Nonkungu sefaha se setle sa molala.
+googlei18n-tts_sot_000586 sso_7801_8236774843.wav For the twentieth time that evening the two men shook hands.
+googlei18n-tts_sot_000587 sso_0493_2743182167.wav Tjhe, ha araba Sibu.
+googlei18n-tts_sot_000588 sso_5945_3411835339.wav That came before my A B C's.
+googlei18n-tts_sot_000589 sso_8777_7348587591.wav Ah, indeed.
+googlei18n-tts_sot_000590 sso_8596_6383747590.wav Aha, dijo tsa mantsiboya, ha thaba Pumla ha monna a fihla hae.
+googlei18n-tts_sot_000591 sso_1367_8546460678.wav Ena keyona feela tshepo ya ka!
+googlei18n-tts_sot_000592 sso_1367_5831787441.wav Tebogo Monyai o ile a fetisetsa bolo pele.
+googlei18n-tts_sot_000593 sso_7876_2136712627.wav Ho hapjwa ke tse tumileng.
+googlei18n-tts_sot_000594 sso_8777_4286087405.wav The Italian rancho was a bachelor establishment.
+googlei18n-tts_sot_000595 sso_0493_0292091996.wav Ho bjabjaretsa ke ho etsang?
+googlei18n-tts_sot_000596 sso_1801_2448478432.wav Tsena tsa etsa hore o kgathale, wa qetella o robetse letsatsing.
+googlei18n-tts_sot_000597 sso_9892_7869738677.wav Ke mang eo e bileng seahi sa ntlo?
+googlei18n-tts_sot_000598 sso_7934_2469625745.wav He was worth nothing to the world.
+googlei18n-tts_sot_000599 sso_1367_1881533087.wav Molaolapapadi o file Granwald Scott karete e tshehla.
+googlei18n-tts_sot_000600 sso_0493_3151634144.wav Dikilomethareng tse 5, kgetha R51, e lebisang Leboya.
+googlei18n-tts_sot_000601 sso_1367_4438372095.wav Ao bathong, ha rialo mpshe, e shebeha e hloname ebile e lapile.
+googlei18n-tts_sot_000602 sso_7821_4713176368.wav Her face was against his breast.
+googlei18n-tts_sot_000603 sso_8596_2348023817.wav Empa yare ka phirimana, bakeng sa hore a lefshwe, a lahlelwa tjhankaneng a ba a amohuwa borashe ba hae ba ho taka.
+googlei18n-tts_sot_000604 sso_1801_1730491766.wav Re tla tlameha ho qala qalong.
+googlei18n-tts_sot_000605 sso_6499_0169465967.wav six three one
+googlei18n-tts_sot_000606 sso_0493_1047264462.wav O ne a sebedisa moshanyana enwa ka thata.
+googlei18n-tts_sot_000607 sso_9892_8122379325.wav Ke mang eo e neng e le molaodi wa provense ya Kwazulu-Natala?
+googlei18n-tts_sot_000608 sso_7934_4889337280.wav Unconsciously, our yells and exclamations yielded to this rhythm.
+googlei18n-tts_sot_000609 sso_7934_6327966353.wav Such things had occurred before, he told Philip.
+googlei18n-tts_sot_000610 sso_8777_2496885273.wav Such an act was in direct violation of the laws of the land.
+googlei18n-tts_sot_000611 sso_0493_5764438368.wav Ho na pula mme ho a bata Atteridgeville, athe dikgato ke tse 2 ka tlase ho 0.
+googlei18n-tts_sot_000612 sso_7821_7043198786.wav It will break our hearts and our backs to hoist anchor by hand.
+googlei18n-tts_sot_000613 sso_0493_7148869548.wav Yare pele ho kgitla diphoofolo tsa bokana di potile mekotatsie.
+googlei18n-tts_sot_000614 sso_8596_5007936563.wav Empa hanghang a utlwa lentswe le mo phoqang.
+googlei18n-tts_sot_000615 sso_5945_8981882707.wav Pierre obeys me when we are together.
+googlei18n-tts_sot_000616 sso_1266_8698428753.wav Not at this particular case, Tom, apologized Whittemore.
+googlei18n-tts_sot_000617 sso_5945_6477562267.wav three six nine
+googlei18n-tts_sot_000618 sso_7821_1924735854.wav Three oilers and a fourth engineer, was his greeting.
+googlei18n-tts_sot_000619 sso_8596_0976833784.wav Nkgo ya re bjara!
+googlei18n-tts_sot_000620 sso_8777_7251752092.wav four eight nine
+googlei18n-tts_sot_000621 sso_8777_0674202573.wav Saxon waited, for she knew a fresh idea had struck Billy.
+googlei18n-tts_sot_000622 sso_1367_6803697367.wav Dikgoho di ne di tshohile.
+googlei18n-tts_sot_000623 sso_8596_7711777207.wav Hobaneng ha dikgoho di ile tsa tshela mmila?
+googlei18n-tts_sot_000624 sso_7821_4824493159.wav If not, let's say our prayers and go to bed.
+googlei18n-tts_sot_000625 sso_6499_0778282233.wav The added weight had a velocity of fifteen miles per hour.
+googlei18n-tts_sot_000626 sso_1801_2181418248.wav Themperetjhara ke dikgato tse 50, Philippolis.
+googlei18n-tts_sot_000627 sso_1801_3754718642.wav Ka yona nako eo phakwe ya fofela tlase mme ya phamola Monna wa Boroso kaofela!
+googlei18n-tts_sot_000628 sso_5945_4947565576.wav four zero seven
+googlei18n-tts_sot_000629 sso_1367_7480074468.wav Kgwedi e fetileng, e ne e le e maphatephate sebakeng sa tlhokomelo ya diphoofolo.
+googlei18n-tts_sot_000630 sso_6499_6690526538.wav There weren't any missions, and he was the man to know.
+googlei18n-tts_sot_000631 sso_0493_6996965314.wav Dikgato di 1 ka tlase ho 0 Umbogintwini, mme ho ka nna ha foka moya o bohale.
+googlei18n-tts_sot_000632 sso_5945_6530032301.wav But who was Eileen's double.
+googlei18n-tts_sot_000633 sso_7934_8028892924.wav six eight one
+googlei18n-tts_sot_000634 sso_0493_1643240804.wav E hodimodimo marung, ka hodima ngwedi.
+googlei18n-tts_sot_000635 sso_0806_8755272304.wav Ke dikgato tse 12 mme ho na le mafafatsane mona Cape Town
+googlei18n-tts_sot_000636 sso_7821_0289710912.wav three zero two
+googlei18n-tts_sot_000637 sso_8777_2544709960.wav King took every advantage he knew.
+googlei18n-tts_sot_000638 sso_1266_8708783360.wav Dimethereng tse 500, thinyetsa ka ho le letona ebe jwale o itulela ka letsohong le letshehadi.
+googlei18n-tts_sot_000639 sso_8596_0632905252.wav Thuli Mpshe o ile a amohelwa e le CEO ya nakwana ya SAA ka Phato.
+googlei18n-tts_sot_000640 sso_1367_5592254363.wav Ho foka moya Impendle hoseng tjena, mme dikgato ke tse 17.
+googlei18n-tts_sot_000641 sso_8777_2035465772.wav With them were Indians, also three other men.
+googlei18n-tts_sot_000642 sso_0493_8045570776.wav Mong Samson a tlisetsa Sibu galase ya metsi.
+googlei18n-tts_sot_000643 sso_1367_0434058828.wav Tshebeletso ya boemo ba lehodimo e noha hore pula e ka nna ya na, Kapa Bophirima.
+googlei18n-tts_sot_000644 sso_1801_8353275616.wav Ntate wa bona o ile a abela Mashilwane dikgomo tse fetang tsa Mashilo.
+googlei18n-tts_sot_000645 sso_8596_7856418628.wav Tjhe, kwana nkeke ka kgona, ha kakatletsa kgaka.
+googlei18n-tts_sot_000646 sso_0493_0078460890.wav Ho hapjwa ke tse tumileng.
+googlei18n-tts_sot_000647 sso_7801_1669415420.wav Tshebeletso ya boemo ba lehodimo e noha hore pula e ka nna ya na, Kapa Bophirima.
+googlei18n-tts_sot_000648 sso_7934_9747272750.wav All eyes, however, were staring at him in certitude of expectancy.
+googlei18n-tts_sot_000649 sso_8596_2759831818.wav Ba fihla kgohlwaneng.
+googlei18n-tts_sot_000650 sso_7821_4117321885.wav But they make the mistake of ignoring their own duality.
+googlei18n-tts_sot_000651 sso_1367_0141926404.wav Keaghan Jacobs o ile a kenelwa ke Rivaldo Coetzee.
+googlei18n-tts_sot_000652 sso_0493_0697579240.wav Seteishene se tswetse pele ho hasa ka bente ya AM ho fihlela ka la 28 Phupjane 2007 ha se ne se kwalwa.
+googlei18n-tts_sot_000653 sso_0493_4781835819.wav Themperetjhara ke kgato e 1 ka tlase ho 0 Cato Ridge.
+googlei18n-tts_sot_000654 sso_1801_2242347689.wav Mosireletsi, Siyabonga Nhlapo o rahile matolo a 9.

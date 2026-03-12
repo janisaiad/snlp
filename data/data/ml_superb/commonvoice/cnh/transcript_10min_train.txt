@@ -1,0 +1,138 @@
+cv_cnh_000000 common_voice_cnh_17930300.mp3 Nanmah nih tuah ko u.
+cv_cnh_000001 common_voice_cnh_17938577.mp3 Mah khi cauk khi ka duh.
+cv_cnh_000002 common_voice_cnh_17925562.mp3 Hika ah hin ra tuah.
+cv_cnh_000003 common_voice_cnh_17927816.mp3 Kan i phenh nak thingpi kha a pur.
+cv_cnh_000004 common_voice_cnh_17931702.mp3 A nih cu sik a calh ngai.
+cv_cnh_000005 common_voice_cnh_17926271.mp3 Ngal a kah i vok in sawm a tuk.
+cv_cnh_000006 common_voice_cnh_17933875.mp3 Tunai hrawng ah thil biapi tuk in aa thleng mi thil na ngei maw?
+cv_cnh_000007 common_voice_cnh_17925988.mp3 Minkhumhnak ah na min ka hmu lo.
+cv_cnh_000008 common_voice_cnh_17943402.mp3 Kan khua kha nangmah nih na hngalh.
+cv_cnh_000009 common_voice_cnh_17903504.mp3 Vanlawng hi hriamnam ṭha bik a si.
+cv_cnh_000010 common_voice_cnh_17926892.mp3 Lentecalh hi damnak caah a ṭha.
+cv_cnh_000011 common_voice_cnh_17923345.mp3 Mitchinh kamseh in a rian dih dingah a ṭuan.
+cv_cnh_000012 common_voice_cnh_17931199.mp3 Facang mawi nih a ka sarh.
+cv_cnh_000013 common_voice_cnh_17936880.mp3 Palik nih a umkalnak an hlat cuahmah ko.
+cv_cnh_000014 common_voice_cnh_17937652.mp3 Thaizing rian na ttuan lai ma?
+cv_cnh_000015 common_voice_cnh_18000698.mp3 Cauk na ngei maw?
+cv_cnh_000016 common_voice_cnh_17931746.mp3 An fapa cu cathiam ngai a si.
+cv_cnh_000017 common_voice_cnh_17923455.mp3 Bawlung a hrilh maw?
+cv_cnh_000018 common_voice_cnh_17931748.mp3 Khi rose pangpar khi hei sik tuah.
+cv_cnh_000019 common_voice_cnh_17923786.mp3 A kal rih lo.
+cv_cnh_000020 common_voice_cnh_17924663.mp3 Kan rianṭuan cu a nuam ngai.
+cv_cnh_000021 common_voice_cnh_17925247.mp3 Lai holh ah vacung paduh ti lawng a um.
+cv_cnh_000022 common_voice_cnh_17946061.mp3 Ar he lente kan i calh ah kan i nuam.
+cv_cnh_000023 common_voice_cnh_17923463.mp3 Facang tun a phormi leng khi kanmah ta a si.
+cv_cnh_000024 common_voice_cnh_17923466.mp3 Na caṭial zeidah na phanh cang?
+cv_cnh_000025 common_voice_cnh_17927448.mp3 Thil aa hruk.
+cv_cnh_000026 common_voice_cnh_17927572.mp3 Na kong kan in ceih lio ah na ra i na nun a sau lai.
+cv_cnh_000027 common_voice_cnh_17924672.mp3 Lam phawk in kal ahcun a nai deuh.
+cv_cnh_000028 common_voice_cnh_17924673.mp3 Ral chung thil hrawhmi rulhnak kha hmuh ṭhan a si lai.
+cv_cnh_000029 common_voice_cnh_17925661.mp3 Hriamhma a pu.
+cv_cnh_000030 common_voice_cnh_17925662.mp3 Na thawl ti a khah in ra te.
+cv_cnh_000031 common_voice_cnh_17931346.mp3 Kan ram a caar lonak dingah thingkung tampiin kan cin a hau.
+cv_cnh_000032 common_voice_cnh_17931348.mp3 Ka pi cu kum sawm riat a si.
+cv_cnh_000033 common_voice_cnh_17926856.mp3 Lente kan i calh.
+cv_cnh_000034 common_voice_cnh_17926859.mp3 Na hawile he nan i rem lai.
+cv_cnh_000035 common_voice_cnh_17931107.mp3 Ka pa nih lentecalh a ka senh lo.
+cv_cnh_000036 common_voice_cnh_17931813.mp3 Ka pu cu sa kah a thiam ngaimi a si an ti.
+cv_cnh_000037 common_voice_cnh_17932235.mp3 Zeidah na tuah lai?
+cv_cnh_000038 common_voice_cnh_17932237.mp3 Chizawh a ngeu.
+cv_cnh_000039 common_voice_cnh_17924389.mp3 Vok le vok an i kawn ahcun thlaikheu an nan dih.
+cv_cnh_000040 common_voice_cnh_17924391.mp3 Hna an cheh tuk caah ca ka zoh kho lo.
+cv_cnh_000041 common_voice_cnh_17943863.mp3 A mawnh kho lo.
+cv_cnh_000042 common_voice_cnh_17943865.mp3 Ṭhi rualkhat ah fang sawmruk a um.
+cv_cnh_000043 common_voice_cnh_17961654.mp3 Ka pu a hna a cheh ah khan kum sawm sarih a si cang.
+cv_cnh_000044 common_voice_cnh_17961664.mp3 Nan ihphah a nem tuk ahcun keng a fak ve dawkaw.
+cv_cnh_000045 common_voice_cnh_17922195.mp3 Amah miphun lila a rialmi cu mi ṭha lo an si.
+cv_cnh_000046 common_voice_cnh_17922196.mp3 Nambar thongkhat.
+cv_cnh_000047 common_voice_cnh_17934864.mp3 Ngaihchiatnak tampi an tong.
+cv_cnh_000048 common_voice_cnh_17934872.mp3 Kuanthei ka khai.
+cv_cnh_000049 common_voice_cnh_17925771.mp3 A lung aa hnem.
+cv_cnh_000050 common_voice_cnh_17925785.mp3 Mi huai a si.
+cv_cnh_000051 common_voice_cnh_17903563.mp3 Phul nan hrawt cang maw?
+cv_cnh_000052 common_voice_cnh_17903564.mp3 Rul sivai hi sivai thah nak ah an hman ve.
+cv_cnh_000053 common_voice_cnh_17957657.mp3 A khel aa domh.
+cv_cnh_000054 common_voice_cnh_17957660.mp3 Meiphu kau sih.
+cv_cnh_000055 common_voice_cnh_17924012.mp3 Na dam maw?
+cv_cnh_000056 common_voice_cnh_17924013.mp3 Nan inntung a peeng.
+cv_cnh_000057 common_voice_cnh_17938023.mp3 Sibawi nih ka ha a ka phawi.
+cv_cnh_000058 common_voice_cnh_17938024.mp3 Khua a ceu supsap in lam kal kan i thawh.
+cv_cnh_000059 common_voice_cnh_17934325.mp3 Khua cu zaanlei ah kan phanh khawh ko lai.
+cv_cnh_000060 common_voice_cnh_17934326.mp3 Capo saih lawng a rian ko.
+cv_cnh_000061 common_voice_cnh_17925020.mp3 Saveh te a peh ka hmuh.
+cv_cnh_000062 common_voice_cnh_17925021.mp3 Hi thil hi na phorh khawh ahcun na ṭhawn a si lai.
+cv_cnh_000063 common_voice_cnh_17924857.mp3 Nauhla in a nau a oih.
+cv_cnh_000064 common_voice_cnh_17924858.mp3 Na mei kha khut ter lo deuh i zuam tuah.
+cv_cnh_000065 common_voice_cnh_17899687.mp3 A hawikom kha aa rawih hna.
+cv_cnh_000066 common_voice_cnh_17899689.mp3 A chuah ni a lawmh.
+cv_cnh_000067 common_voice_cnh_17923338.mp3 Lapar sawktu a si.
+cv_cnh_000068 common_voice_cnh_17923340.mp3 Ka ba tuk i kaa chok kho sasai lo.
+cv_cnh_000069 common_voice_cnh_17924579.mp3 Ka pa nih bia a kan cah taak mi cu rak i daw u ti a si.
+cv_cnh_000070 common_voice_cnh_17924581.mp3 Na ral a ṭhat ahcun na kal ngam lai.
+cv_cnh_000071 common_voice_cnh_17904227.mp3 Ka inn hi ka fapa nih hun co seh tiah ro a vui.
+cv_cnh_000072 common_voice_cnh_17904228.mp3 Tlangval dawh ngai a si.
+cv_cnh_000073 common_voice_cnh_17928008.mp3 A mit a cei ruang men ahcun serhsat ding a si lo.
+cv_cnh_000074 common_voice_cnh_17928009.mp3 Laimi cu rangcung ralkap an rak ngei bal lo.
+cv_cnh_000075 common_voice_cnh_17928011.mp3 Mi entai nak cha cun i zuam ve a ṭha deuh.
+cv_cnh_000076 common_voice_cnh_17926700.mp3 Na chimmi kha van nawlh ṭhan tuah.
+cv_cnh_000077 common_voice_cnh_17926702.mp3 Vok ka thah ahcun a hnat kaan hleh lai.
+cv_cnh_000078 common_voice_cnh_17926703.mp3 Nilum kan to.
+cv_cnh_000079 common_voice_cnh_17922199.mp3 Na thiam le thiam lo kaan hneksak tuah lai.
+cv_cnh_000080 common_voice_cnh_17922200.mp3 Kan pule nih sa-kut-ke an kan pek.
+cv_cnh_000081 common_voice_cnh_17922201.mp3 Suimilam pakhat kan i din lai i kan i hrim lai.
+cv_cnh_000082 common_voice_cnh_17903466.mp3 A zarh mi ti a than.
+cv_cnh_000083 common_voice_cnh_17903469.mp3 A dang an rat khawh lo zongah nangmah hrimhrim na ra lai muh!
+cv_cnh_000084 common_voice_cnh_17903470.mp3 Ka kawi nih zaanriah ei a ka sawm.
+cv_cnh_000085 common_voice_cnh_17925970.mp3 Ruah le ni nih kan thingah an kur ter dih.
+cv_cnh_000086 common_voice_cnh_17925973.mp3 Nihin cu ka mawtaw ka thianh lai.
+cv_cnh_000087 common_voice_cnh_17925975.mp3 Na mit naa hnuai lengmang ahcun a sen dih te lai.
+cv_cnh_000088 common_voice_cnh_17921975.mp3 Lei cungah remnak um ko seh.
+cv_cnh_000089 common_voice_cnh_17921977.mp3 Kan ngandamnak kan i ralrin a herh.
+cv_cnh_000090 common_voice_cnh_17921979.mp3 Lungpi a kak.
+cv_cnh_000091 common_voice_cnh_17925452.mp3 Na kal lai ah ra te.
+cv_cnh_000092 common_voice_cnh_17925453.mp3 Mi a lem thiam lo.
+cv_cnh_000093 common_voice_cnh_17925455.mp3 Bawngbi kaa hruk lai.
+cv_cnh_000094 common_voice_cnh_17931240.mp3 Tuanbia hlun a thei ngai.
+cv_cnh_000095 common_voice_cnh_17931243.mp3 Ruahpak loin ruah a sur.
+cv_cnh_000096 common_voice_cnh_17931254.mp3 A rian ṭuannak hmun ah a thi.
+cv_cnh_000097 common_voice_cnh_17897014.mp3 Falam ah zaan khat na riah ahcun kan i hmu kho lai.
+cv_cnh_000098 common_voice_cnh_17897020.mp3 Inn na phan cang maw?
+cv_cnh_000099 common_voice_cnh_17897022.mp3 Tho kha an ci nan hmih dih hna lai.
+cv_cnh_000100 common_voice_cnh_17923620.mp3 A hnar a fonghlei.
+cv_cnh_000101 common_voice_cnh_17923621.mp3 Sa an i phaw.
+cv_cnh_000102 common_voice_cnh_17923622.mp3 Ngakchia le ngakchia an i puk.
+cv_cnh_000103 common_voice_cnh_17924921.mp3 Kawlram ah thingthei a tam.
+cv_cnh_000104 common_voice_cnh_17924923.mp3 A hngawng an rehnak cu zahan ah a si.
+cv_cnh_000105 common_voice_cnh_17924924.mp3 Na sam nai hriat rua lo, a thur tuk!
+cv_cnh_000106 common_voice_cnh_17925883.mp3 Na thluak a chia tuk.
+cv_cnh_000107 common_voice_cnh_17925886.mp3 Cozah pakhat le pakhat karlak ah remnak um a hau.
+cv_cnh_000108 common_voice_cnh_17925890.mp3 England tangka pawng khat cu US tangka pawng khat le a cheu a si tawn.
+cv_cnh_000109 common_voice_cnh_17927109.mp3 An ṭhutnak an i chang.
+cv_cnh_000110 common_voice_cnh_17927111.mp3 Hmunkhat ah an kal.
+cv_cnh_000111 common_voice_cnh_17927112.mp3 Hauruang caah mitsurruang kan hman.
+cv_cnh_000112 common_voice_cnh_17894910.mp3 Hrimhnak ah ca ka rel.
+cv_cnh_000113 common_voice_cnh_17894911.mp3 Mah ka hi ka dawt he kan rak i chawnh nak hmun a si.
+cv_cnh_000114 common_voice_cnh_17894912.mp3 Amah kan ngaihchiatpi.
+cv_cnh_000115 common_voice_cnh_17927342.mp3 Nupi dawh ngai ka ngei.
+cv_cnh_000116 common_voice_cnh_17927356.mp3 Pangpar an um.
+cv_cnh_000117 common_voice_cnh_17927360.mp3 Sibawi pa sinah na kal ahau.
+cv_cnh_000118 common_voice_cnh_17936412.mp3 Thaizing ah a kal rua lai.
+cv_cnh_000119 common_voice_cnh_17936413.mp3 Ka pa nih inn a ka cawk piak.
+cv_cnh_000120 common_voice_cnh_17936415.mp3 Saya cu kan upat hna.
+cv_cnh_000121 common_voice_cnh_17925431.mp3 Nan uipi nih a ka ngurh.
+cv_cnh_000122 common_voice_cnh_17925432.mp3 Nihin cu kan thil zuarmi a man sasai lo.
+cv_cnh_000123 common_voice_cnh_17925433.mp3 Ka hma a por.
+cv_cnh_000124 common_voice_cnh_17923479.mp3 Cheeng ah a ril.
+cv_cnh_000125 common_voice_cnh_17923480.mp3 Rawl kan ei hna lai.
+cv_cnh_000126 common_voice_cnh_17923481.mp3 Zudin hi pakpalawng a si.
+cv_cnh_000127 common_voice_cnh_17928802.mp3 Ka ha a ka phawitu a min ka ngal lo.
+cv_cnh_000128 common_voice_cnh_17928804.mp3 Lam a tlau i a vai.
+cv_cnh_000129 common_voice_cnh_17928806.mp3 Indiana ah kan hnuzarh khual ka tlawng.
+cv_cnh_000130 common_voice_cnh_17903636.mp3 Chemphut in mei ka chem.
+cv_cnh_000131 common_voice_cnh_17903637.mp3 Keimah celngel an ka thim.
+cv_cnh_000132 common_voice_cnh_17903638.mp3 Ka min a ka sa tu cu ka pa a si.
+cv_cnh_000133 common_voice_cnh_17925761.mp3 Vanpang ah suimilam pakhat aa thlai.
+cv_cnh_000134 common_voice_cnh_17925763.mp3 Sahngar nih ar a seh.
+cv_cnh_000135 common_voice_cnh_17925765.mp3 Bawibawi cu Chinchin cauk ka pek.
+cv_cnh_000136 common_voice_cnh_17927438.mp3 Changreu kha hmawh na duh ah cun hmot tuah.
+cv_cnh_000137 common_voice_cnh_17927441.mp3 Rawl ei ah kal sih.

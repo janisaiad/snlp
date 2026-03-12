@@ -1,0 +1,878 @@
+cv_slk_000000 common_voice_sk_34225306.mp3 údený
+cv_slk_000001 common_voice_sk_32320752.mp3 harfistka; hráčka na harfu; harfeníčka
+cv_slk_000002 common_voice_sk_33457513.mp3 čuchový nerv; prvý hlavový nerv
+cv_slk_000003 common_voice_sk_27393218.mp3 kliešte; kombinačky
+cv_slk_000004 common_voice_sk_28792818.mp3 kňazský
+cv_slk_000005 common_voice_sk_28792822.mp3 kreslo
+cv_slk_000006 common_voice_sk_26751585.mp3 ovácie; aplauz; pocta; potlesk v stoji
+cv_slk_000007 common_voice_sk_26751589.mp3 originálny; svojrázny; svojský
+cv_slk_000008 common_voice_sk_26751592.mp3 organické hnojivo
+cv_slk_000009 common_voice_sk_28540431.mp3 kláves; tlačidlo
+cv_slk_000010 common_voice_sk_28540433.mp3 kôň pri oji
+cv_slk_000011 common_voice_sk_28540447.mp3 dáma; pani
+cv_slk_000012 common_voice_sk_24420130.mp3 Fox; rieka Fox
+cv_slk_000013 common_voice_sk_24420131.mp3 opačný; pôsobiaci opačne
+cv_slk_000014 common_voice_sk_24420133.mp3 nespravodlivosť
+cv_slk_000015 common_voice_sk_28552541.mp3 list vrtule; lopatka lodnej skrutky; krídlo veterného mlyna
+cv_slk_000016 common_voice_sk_28552543.mp3 metóda
+cv_slk_000017 common_voice_sk_28552545.mp3 kefovanie
+cv_slk_000018 common_voice_sk_28552546.mp3 frfľoš; hundroš
+cv_slk_000019 common_voice_sk_28753119.mp3 Bursa
+cv_slk_000020 common_voice_sk_28753120.mp3 katolícky
+cv_slk_000021 common_voice_sk_28753122.mp3 heterotrof
+cv_slk_000022 common_voice_sk_28753123.mp3 Novgorod
+cv_slk_000023 common_voice_sk_25727426.mp3 budúcnosť
+cv_slk_000024 common_voice_sk_25727427.mp3 kúpele
+cv_slk_000025 common_voice_sk_25727428.mp3 neschopnosť hovorenia
+cv_slk_000026 common_voice_sk_25727429.mp3 merací kábel; merací vodič; svorkový kábel
+cv_slk_000027 common_voice_sk_25960480.mp3 farmakológia
+cv_slk_000028 common_voice_sk_25960481.mp3 dcérsky
+cv_slk_000029 common_voice_sk_25960483.mp3 Koľko stupňov je vonku?
+cv_slk_000030 common_voice_sk_25960484.mp3 dlhohrajúci
+cv_slk_000031 common_voice_sk_24982026.mp3 kosatka
+cv_slk_000032 common_voice_sk_24982027.mp3 celkový súčet; výsledná suma; celkové množstvo; celkový počet; celkové príjmy; celková čiastka
+cv_slk_000033 common_voice_sk_24982033.mp3 Živín potrebných k ich rastu.
+cv_slk_000034 common_voice_sk_24982035.mp3 Bývam na Slovensku v Bratislave.
+cv_slk_000035 common_voice_sk_28337226.mp3 octový; kyslý
+cv_slk_000036 common_voice_sk_28337228.mp3 bolesť v krížoch
+cv_slk_000037 common_voice_sk_28337229.mp3 viditeľný; preskúmateľný; hodný videnia
+cv_slk_000038 common_voice_sk_28337230.mp3 apokalyptický; prorocký
+cv_slk_000039 common_voice_sk_25891590.mp3 odsek; paragraf
+cv_slk_000040 common_voice_sk_25891591.mp3 kombinácia; usporiadanie; zostavenie
+cv_slk_000041 common_voice_sk_25891593.mp3 namáčanie; namočenie
+cv_slk_000042 common_voice_sk_25891594.mp3 mentálna reprezentácia
+cv_slk_000043 common_voice_sk_25891596.mp3 emočný stav; emočné rozpoloženie; citový stav
+cv_slk_000044 common_voice_sk_24981177.mp3 pamätný deň
+cv_slk_000045 common_voice_sk_24981178.mp3 odstránenie; vypovedanie; zrušenie zákona; odvolanie; anulovanie; derogácia; zrušenie právnej normy
+cv_slk_000046 common_voice_sk_24981179.mp3 vo forme kvádra alebo kocky
+cv_slk_000047 common_voice_sk_24981180.mp3 a nie viac ako desať mm.
+cv_slk_000048 common_voice_sk_24981181.mp3 pretože vačšina ľudí si automaticky nastaví max. rozlíšenie.
+cv_slk_000049 common_voice_sk_26751778.mp3 expres; expresný dopravný prostriedok
+cv_slk_000050 common_voice_sk_26751780.mp3 ktoré sú podstatne nákladnejšie, ako klasické žiarivky.
+cv_slk_000051 common_voice_sk_26751783.mp3 letecký sprievod; priama podpora; blízka podpora; podpora boja v dotyku
+cv_slk_000052 common_voice_sk_26751785.mp3 bojovník; zápasník; účastník boja
+cv_slk_000053 common_voice_sk_26751786.mp3 klietka; búdka; koterec
+cv_slk_000054 common_voice_sk_27606653.mp3 jahoda čílska
+cv_slk_000055 common_voice_sk_27606654.mp3 hlavový nerv
+cv_slk_000056 common_voice_sk_27606655.mp3 citát
+cv_slk_000057 common_voice_sk_27606656.mp3 nôž stolový
+cv_slk_000058 common_voice_sk_27606657.mp3 patričný
+cv_slk_000059 common_voice_sk_25002529.mp3 unáhlený; chvatný; rýchly
+cv_slk_000060 common_voice_sk_25002530.mp3 biliardové plátno
+cv_slk_000061 common_voice_sk_25002532.mp3 biblický
+cv_slk_000062 common_voice_sk_25002534.mp3 koronoidný výbežok sánky
+cv_slk_000063 common_voice_sk_25002536.mp3 bohyňa
+cv_slk_000064 common_voice_sk_25250026.mp3 geológia
+cv_slk_000065 common_voice_sk_25250027.mp3 jav; úkaz; fenomén
+cv_slk_000066 common_voice_sk_25250028.mp3 liberalizmus
+cv_slk_000067 common_voice_sk_25250029.mp3 aneroidný
+cv_slk_000068 common_voice_sk_25250030.mp3 čierne korenie; zrnko čierneho korenia
+cv_slk_000069 common_voice_sk_24558714.mp3 jednotka svetla
+cv_slk_000070 common_voice_sk_24558715.mp3 Cyprus; Cyperská republika
+cv_slk_000071 common_voice_sk_24558716.mp3 ohybný; pružný; poddajný; pohyblivý; flexibilný
+cv_slk_000072 common_voice_sk_24558717.mp3 hodnota
+cv_slk_000073 common_voice_sk_24558718.mp3 Čile; Čilská republika
+cv_slk_000074 common_voice_sk_24384144.mp3 fonografická ihla; ihla magnetofónu
+cv_slk_000075 common_voice_sk_24384145.mp3 jedlo; potravina
+cv_slk_000076 common_voice_sk_24384146.mp3 číslo
+cv_slk_000077 common_voice_sk_24384147.mp3 nezaplatenie; omeškanie platby; nezaplatenie dlhu
+cv_slk_000078 common_voice_sk_24384148.mp3 vládny; mocenský
+cv_slk_000079 common_voice_sk_28563327.mp3 Rolety
+cv_slk_000080 common_voice_sk_28563328.mp3 africký
+cv_slk_000081 common_voice_sk_28563329.mp3 hojdací koník
+cv_slk_000082 common_voice_sk_28563330.mp3 Kazaň
+cv_slk_000083 common_voice_sk_28563331.mp3 Kanárske ostrovy
+cv_slk_000084 common_voice_sk_27769264.mp3 Bursa
+cv_slk_000085 common_voice_sk_27769265.mp3 Polica
+cv_slk_000086 common_voice_sk_27769266.mp3 Karibik
+cv_slk_000087 common_voice_sk_27769267.mp3 lanovka
+cv_slk_000088 common_voice_sk_27769268.mp3 Polička
+cv_slk_000089 common_voice_sk_25356752.mp3 Taká je situácia so zvukovými knihami či audioknihami v Mestskej knižnici.
+cv_slk_000090 common_voice_sk_25356753.mp3 List Hebrejom; List apoštola Pavla Hebrejom
+cv_slk_000091 common_voice_sk_25356754.mp3 lov
+cv_slk_000092 common_voice_sk_25356755.mp3 krásny; okúzľujúci; ľúby
+cv_slk_000093 common_voice_sk_25356756.mp3 Preferencie v súvislosti s koncovými zariadeniami na prístup k sociálnym sieťam.
+cv_slk_000094 common_voice_sk_24449704.mp3 nadsemenníky
+cv_slk_000095 common_voice_sk_24449708.mp3 hodnosť kapitána; funkcia kapitána; kapitánstvo
+cv_slk_000096 common_voice_sk_24449710.mp3 očná buľva; buľva
+cv_slk_000097 common_voice_sk_24449712.mp3 ozdobovanie; výzdoba; ornamentika
+cv_slk_000098 common_voice_sk_33191358.mp3 funkčné hranie
+cv_slk_000099 common_voice_sk_25090987.mp3 čítanie
+cv_slk_000100 common_voice_sk_25090988.mp3 operný
+cv_slk_000101 common_voice_sk_25090989.mp3 mobilný
+cv_slk_000102 common_voice_sk_25090990.mp3 očný kontakt
+cv_slk_000103 common_voice_sk_25090991.mp3 kotúč; kruh
+cv_slk_000104 common_voice_sk_30637645.mp3 nádej
+cv_slk_000105 common_voice_sk_30637646.mp3 cintorín; sväté pole
+cv_slk_000106 common_voice_sk_30637647.mp3 odvetvie
+cv_slk_000107 common_voice_sk_30637648.mp3 ľudová hudba; kovbojská hudba
+cv_slk_000108 common_voice_sk_30637649.mp3 Fyzické osoby by mali mať kontrolu nad svojimi vlastnými osobnými údajmi.
+cv_slk_000109 common_voice_sk_26335912.mp3 V košických stavebných hutách sa sústreďovali majstri s linkami z viacerých miest Európy.
+cv_slk_000110 common_voice_sk_26335914.mp3 Vypni svetlo v pivnici.
+cv_slk_000111 common_voice_sk_26335915.mp3 Nastav teplotu v detskej na dvadsať jedna stupňov Celzia.
+cv_slk_000112 common_voice_sk_26335918.mp3 odkladanie; odklad; váhanie
+cv_slk_000113 common_voice_sk_26335919.mp3 Bol vystavaný nový Kráľovský dom.
+cv_slk_000114 common_voice_sk_27701532.mp3 indiánsky
+cv_slk_000115 common_voice_sk_27701533.mp3 omyl
+cv_slk_000116 common_voice_sk_27701534.mp3 alfa; primárny
+cv_slk_000117 common_voice_sk_27701536.mp3 Zapni televizor!
+cv_slk_000118 common_voice_sk_27701537.mp3 rybársky
+cv_slk_000119 common_voice_sk_25322646.mp3 Vo mne zanechala pocit nesmiernej pevnosti.
+cv_slk_000120 common_voice_sk_25322647.mp3 mužský
+cv_slk_000121 common_voice_sk_25322648.mp3 atraktívny; príťažlivý; podmanivý
+cv_slk_000122 common_voice_sk_25322649.mp3 invalidné poistenie; poistenie pre prípad nespôsobilosti
+cv_slk_000123 common_voice_sk_25322650.mp3 farnosť
+cv_slk_000124 common_voice_sk_24614312.mp3 sebavedomý; sebaistý; plný sebadôvery
+cv_slk_000125 common_voice_sk_24614314.mp3 opustenie; zanechanie; opustenie spoločnej domácnosti
+cv_slk_000126 common_voice_sk_24614316.mp3 Sieťové úložiská a servery majú oddelenú infraštruktúru.
+cv_slk_000127 common_voice_sk_24614317.mp3 klad; pozitívna vlastnosť; plus; prínos; výhoda
+cv_slk_000128 common_voice_sk_24614319.mp3 štít prístrojov; rozvádzacia doska; kontrolná tabuľa; ovládacia doska; radiaca doska; radiaca skriňa
+cv_slk_000129 common_voice_sk_25142885.mp3 kukučkové hodiny; hodiny s kukučkou
+cv_slk_000130 common_voice_sk_25142886.mp3 nezákonné uväznenie; protiprávne odňatie slobody; nezákonné zatknutie; protiprávne odňatie slobody
+cv_slk_000131 common_voice_sk_25142887.mp3 binárny kód; dvojkový kód
+cv_slk_000132 common_voice_sk_25142888.mp3 kilderkin
+cv_slk_000133 common_voice_sk_25142889.mp3 opalescencia
+cv_slk_000134 common_voice_sk_24729798.mp3 Britská východná Afrika
+cv_slk_000135 common_voice_sk_24729799.mp3 módny; efektný; vzorovaný; farebný
+cv_slk_000136 common_voice_sk_24729800.mp3 kapitán nákladnej lode
+cv_slk_000137 common_voice_sk_24729801.mp3 fovea
+cv_slk_000138 common_voice_sk_24729802.mp3 obrana; odôvodnenie; obhajoba
+cv_slk_000139 common_voice_sk_25243284.mp3 geologická perióda
+cv_slk_000140 common_voice_sk_25243285.mp3 fonografická ihla; ihla magnetofónu
+cv_slk_000141 common_voice_sk_25243286.mp3 breh
+cv_slk_000142 common_voice_sk_25243287.mp3 koniec; záver; ukončenie
+cv_slk_000143 common_voice_sk_25243288.mp3 meter
+cv_slk_000144 common_voice_sk_24918518.mp3 Ide o dokument vnímaný sluchom v rôznych formátoch alebo na rôznych nosičoch.
+cv_slk_000145 common_voice_sk_24918519.mp3 avšak nezaručujú lepší úspech pri pestovaní rastlín
+cv_slk_000146 common_voice_sk_24918520.mp3 - farebné elegantné oblečenie a doplnky
+cv_slk_000147 common_voice_sk_24918521.mp3 Vyváženie bielej
+cv_slk_000148 common_voice_sk_24918522.mp3 entomofóbia
+cv_slk_000149 common_voice_sk_25154838.mp3 hračka; brnkačka; detská hra
+cv_slk_000150 common_voice_sk_25154839.mp3 kraj
+cv_slk_000151 common_voice_sk_25154840.mp3 očný kútik; kútik
+cv_slk_000152 common_voice_sk_25154841.mp3 nadšenec; fanúšik
+cv_slk_000153 common_voice_sk_25154842.mp3 kardinál
+cv_slk_000154 common_voice_sk_24770216.mp3 faul
+cv_slk_000155 common_voice_sk_24770217.mp3 Na konanie o udelenie súhlasu sa nevzťahujú všeobecné predpisy o správnom konaní
+cv_slk_000156 common_voice_sk_24770218.mp3 náhrada; kompenzácia
+cv_slk_000157 common_voice_sk_24770219.mp3 vhodný; správny; odporúčaný
+cv_slk_000158 common_voice_sk_24770220.mp3 hltanová nosová mandľa
+cv_slk_000159 common_voice_sk_28792833.mp3 Austrálske Alpy
+cv_slk_000160 common_voice_sk_28792834.mp3 hanba; potupa
+cv_slk_000161 common_voice_sk_28792835.mp3 diaľkový; medzimestský
+cv_slk_000162 common_voice_sk_28792836.mp3 outdoorová hra
+cv_slk_000163 common_voice_sk_28792837.mp3 havran
+cv_slk_000164 common_voice_sk_24396343.mp3 guľka; projektil
+cv_slk_000165 common_voice_sk_24396345.mp3 celková čiastka vyplatená bankou po zrušení životnej poistky
+cv_slk_000166 common_voice_sk_24396346.mp3 oblička; ľadvina
+cv_slk_000167 common_voice_sk_24396348.mp3 obrad; ceremónia; slávnosť
+cv_slk_000168 common_voice_sk_24396349.mp3 kvarteto
+cv_slk_000169 common_voice_sk_24410677.mp3 cytológia
+cv_slk_000170 common_voice_sk_32698281.mp3 anjel
+cv_slk_000171 common_voice_sk_32698282.mp3 Barbados
+cv_slk_000172 common_voice_sk_32698283.mp3 kroj; odev; dobový odev
+cv_slk_000173 common_voice_sk_32698284.mp3 Bhután; Bhutánske kráľovstvo
+cv_slk_000174 common_voice_sk_32698311.mp3 Lcd fotoaparátu totiž veľmi skresľuje.
+cv_slk_000175 common_voice_sk_32698317.mp3 lodný; námornícky
+cv_slk_000176 common_voice_sk_32674712.mp3 nezvyčajnosť, neobyčajnosť
+cv_slk_000177 common_voice_sk_32674715.mp3 oštep
+cv_slk_000178 common_voice_sk_32674716.mp3 beh
+cv_slk_000179 common_voice_sk_32674766.mp3 Južná Amerika
+cv_slk_000180 common_voice_sk_32674954.mp3 Posunutie náhlavného oblúku dopredu bol vynikajúci nápad.
+cv_slk_000181 common_voice_sk_32674958.mp3 nepohyblivosť; nepohnuteľnosť; nehybnosť
+cv_slk_000182 common_voice_sk_28677357.mp3 epizóda; sekvencia
+cv_slk_000183 common_voice_sk_28677359.mp3 hlodavec; potkan
+cv_slk_000184 common_voice_sk_28677360.mp3 majúci ostrý chrbát
+cv_slk_000185 common_voice_sk_28677362.mp3 regulovaný
+cv_slk_000186 common_voice_sk_28677363.mp3 Armáda spásy
+cv_slk_000187 common_voice_sk_28752728.mp3 letecká spoločnosť; aerolínie; aerolinky
+cv_slk_000188 common_voice_sk_25738811.mp3 kvapôčka; malá kvapka
+cv_slk_000189 common_voice_sk_25738819.mp3 krik
+cv_slk_000190 common_voice_sk_25738823.mp3 filter
+cv_slk_000191 common_voice_sk_25738824.mp3 basa
+cv_slk_000192 common_voice_sk_25738825.mp3 genetik; odborník v genetike
+cv_slk_000193 common_voice_sk_25738826.mp3 novinka; novina
+cv_slk_000194 common_voice_sk_25738832.mp3 blúza; blúzka
+cv_slk_000195 common_voice_sk_25738833.mp3 hlboké brodenie
+cv_slk_000196 common_voice_sk_32547513.mp3 Tým, len ak nie sú liberáli.
+cv_slk_000197 common_voice_sk_32547516.mp3 majiteľ domu; domáci
+cv_slk_000198 common_voice_sk_32547522.mp3 Zapni svetlo v obývačke.
+cv_slk_000199 common_voice_sk_32547523.mp3 J; jéčko
+cv_slk_000200 common_voice_sk_32547562.mp3 cestný správny orgán
+cv_slk_000201 common_voice_sk_32547566.mp3 letecká pošta
+cv_slk_000202 common_voice_sk_32547588.mp3 Pracovné dni sú pondelok, utorok, streda, štvrtok a piatok.
+cv_slk_000203 common_voice_sk_32547590.mp3 koexistenčný; trvajúci súčasne; existujúci súčasne
+cv_slk_000204 common_voice_sk_32119599.mp3 sekundárny; druhotný
+cv_slk_000205 common_voice_sk_32119603.mp3 Pápež dúhu nerieši
+cv_slk_000206 common_voice_sk_32119604.mp3 hra na schovávačku; schovávačka
+cv_slk_000207 common_voice_sk_32119610.mp3 Od osvetľovania akvária len slnkom musím každého odhovoriť
+cv_slk_000208 common_voice_sk_32119611.mp3 holokaust; konečné riešenie
+cv_slk_000209 common_voice_sk_32119612.mp3 Na samom vrchu veže je umiestnený medený kríž s výškou tri metre.
+cv_slk_000210 common_voice_sk_32119613.mp3 Nastav termostat v spálni na dvadsať deväť stupňov Celzia.
+cv_slk_000211 common_voice_sk_32119614.mp3 krupobitie; búrka s krúpami
+cv_slk_000212 common_voice_sk_25814554.mp3 asonancia
+cv_slk_000213 common_voice_sk_25814557.mp3 hojnosť; nadbytok; prebytok
+cv_slk_000214 common_voice_sk_25814558.mp3 revolučný
+cv_slk_000215 common_voice_sk_25814609.mp3 integrovaný; jednotný; začlenený; včlenený
+cv_slk_000216 common_voice_sk_25814610.mp3 ležiaci v okolí nosa
+cv_slk_000217 common_voice_sk_25814611.mp3 finančné aktíva; obežný kapitál; prevádzkový kapitál
+cv_slk_000218 common_voice_sk_25814612.mp3 nadjazd
+cv_slk_000219 common_voice_sk_25814613.mp3 brífing
+cv_slk_000220 common_voice_sk_28540430.mp3 celkom slepý
+cv_slk_000221 common_voice_sk_28540441.mp3 miestnosť; izba
+cv_slk_000222 common_voice_sk_28540442.mp3 nepeknosť; škaredosť; ošklivosť; šerednosť; ohyzdnosť
+cv_slk_000223 common_voice_sk_28540443.mp3 nutnosť; potrebná vec
+cv_slk_000224 common_voice_sk_28540445.mp3 nádor na semenníku
+cv_slk_000225 common_voice_sk_28540451.mp3 koncovka
+cv_slk_000226 common_voice_sk_28540453.mp3 básnický rytmus; rytmický štýl; prozódia
+cv_slk_000227 common_voice_sk_28540456.mp3 dobrá nálada
+cv_slk_000228 common_voice_sk_26860590.mp3 Dobytie pevnosti Košice bolo základným predpokladom pre splnenie kniežacích zámerov.
+cv_slk_000229 common_voice_sk_26860592.mp3 displej; monitor; obrazovka
+cv_slk_000230 common_voice_sk_26860595.mp3 nepríjemnosť; verejná nepríjemnosť
+cv_slk_000231 common_voice_sk_26860597.mp3 Kanárske ostrovy
+cv_slk_000232 common_voice_sk_26860660.mp3 kľúčový; dôležitý; podstatný
+cv_slk_000233 common_voice_sk_26860664.mp3 kontext; okolnosti
+cv_slk_000234 common_voice_sk_26860667.mp3 koniec
+cv_slk_000235 common_voice_sk_26860669.mp3 podivný; zvláštny; svojrázny; neobvyklý; bizarný; čudný; výstredný
+cv_slk_000236 common_voice_sk_26860670.mp3 kolikový; trpiaci kolikou
+cv_slk_000237 common_voice_sk_28026730.mp3 Knižnica
+cv_slk_000238 common_voice_sk_28026732.mp3 nezávislý pracovník; pracujúci na voľnej nohe; pracovník na voľnej nohe
+cv_slk_000239 common_voice_sk_28026733.mp3 Kompót
+cv_slk_000240 common_voice_sk_28026734.mp3 blanokrídlovce; rad blanokrídlovce; Hymenoptera; rad Hymenoptera
+cv_slk_000241 common_voice_sk_28028976.mp3 L; elko
+cv_slk_000242 common_voice_sk_28028977.mp3 merateľný; porovnateľný
+cv_slk_000243 common_voice_sk_28028978.mp3 Odtiaľ potom ostreľoval mesto, ktoré sa hneď vzdalo.
+cv_slk_000244 common_voice_sk_28028980.mp3 graf; diagram
+cv_slk_000245 common_voice_sk_28028981.mp3 Pridajte sa už niekto preboha!
+cv_slk_000246 common_voice_sk_25243277.mp3 Bez slnečnej energie by neexistovalo nič živé, vodné a bahenné rastliny nevynímajúc.
+cv_slk_000247 common_voice_sk_25243278.mp3 ohrievač; ohrievadlo; bojler
+cv_slk_000248 common_voice_sk_25243279.mp3 knižnica
+cv_slk_000249 common_voice_sk_25243280.mp3 informačná veda; veda o informáciách; informatika
+cv_slk_000250 common_voice_sk_25243281.mp3 obeť vraždy; zavraždený
+cv_slk_000251 common_voice_sk_25243292.mp3 nadstavba; vrchná časť; superštruktúra
+cv_slk_000252 common_voice_sk_25243293.mp3 Flámsko
+cv_slk_000253 common_voice_sk_25243294.mp3 krvinka
+cv_slk_000254 common_voice_sk_25243295.mp3 legitímny; zákonný
+cv_slk_000255 common_voice_sk_25243296.mp3 ozvena; odraz
+cv_slk_000256 common_voice_sk_25142115.mp3 Lufkin
+cv_slk_000257 common_voice_sk_25142116.mp3 lapač; brzdiaci hák
+cv_slk_000258 common_voice_sk_25142117.mp3 desať, desiatka, desiaty, desiata, desiate
+cv_slk_000259 common_voice_sk_25142118.mp3 kmeň
+cv_slk_000260 common_voice_sk_25142119.mp3 dobro; blaho; prospech
+cv_slk_000261 common_voice_sk_25142130.mp3 Štátny odborný dozor nad pozemnými komunikáciami
+cv_slk_000262 common_voice_sk_25142131.mp3 distribútor
+cv_slk_000263 common_voice_sk_25142132.mp3 Vypni stroj tlačítkom Stop!
+cv_slk_000264 common_voice_sk_25142133.mp3 lakrimálna artéria; slzná artéria
+cv_slk_000265 common_voice_sk_25142134.mp3 kyselina octová
+cv_slk_000266 common_voice_sk_29961515.mp3 nábožná pieseň
+cv_slk_000267 common_voice_sk_29961516.mp3 bratský
+cv_slk_000268 common_voice_sk_29961518.mp3 Keňa; Kenská republika
+cv_slk_000269 common_voice_sk_29961519.mp3 celkový počet obetí; najvyššia daň
+cv_slk_000270 common_voice_sk_29961520.mp3 nadšenec; fanúšik
+cv_slk_000271 common_voice_sk_29961682.mp3 kázeň; kázanie
+cv_slk_000272 common_voice_sk_29961683.mp3 miešok; skrotum
+cv_slk_000273 common_voice_sk_29961684.mp3 americký štát; štát v Uesa
+cv_slk_000274 common_voice_sk_29961685.mp3 amatérsky; neodborný; neprofesionálny; laický
+cv_slk_000275 common_voice_sk_29961686.mp3 odovzdanie
+cv_slk_000276 common_voice_sk_26951405.mp3 čiara
+cv_slk_000277 common_voice_sk_26951406.mp3 Útočili aj v okolí Košíc - Jasov.
+cv_slk_000278 common_voice_sk_26951407.mp3 kolagén
+cv_slk_000279 common_voice_sk_26951408.mp3 ovca merino; merino
+cv_slk_000280 common_voice_sk_26951409.mp3 Vypni svetlo v garáži.
+cv_slk_000281 common_voice_sk_26951600.mp3 Substrát musíme chápať ako dôležitý prvok pre rast rastlín.
+cv_slk_000282 common_voice_sk_26951604.mp3 gyroskopický stabilizátor
+cv_slk_000283 common_voice_sk_26951608.mp3 Boh; Najvyššia Bytosť
+cv_slk_000284 common_voice_sk_26951612.mp3 mysliteľný; prichádzajúci do úvahy; možný
+cv_slk_000285 common_voice_sk_26951615.mp3 komerčné umenie; komerčná grafika
+cv_slk_000286 common_voice_sk_29840799.mp3 Informácie sa stali cennejšími ako zlato.
+cv_slk_000287 common_voice_sk_29840800.mp3 jurisdikcia; právomoc
+cv_slk_000288 common_voice_sk_29840801.mp3 favorit; obľúbenec
+cv_slk_000289 common_voice_sk_29840802.mp3 na ktorých môžu tieto postupy vykonávať online
+cv_slk_000290 common_voice_sk_29840803.mp3 Za kvartieľ načim zaplatiť tri zlatovky za štvrť roka.
+cv_slk_000291 common_voice_sk_29840901.mp3 Okrem lepených nádrží poznáme aj liate, tzv. elementky.
+cv_slk_000292 common_voice_sk_29840903.mp3 Vypni svetlo v kúpeľni.
+cv_slk_000293 common_voice_sk_29840904.mp3 mýtická bytosť; mýtické monštrum
+cv_slk_000294 common_voice_sk_29840905.mp3 Do celoslovenského reprezentatívneho prieskumu bola zapojená vzorka v počte tisícstotridsaťpäť respondentov.
+cv_slk_000295 common_voice_sk_29840906.mp3 Ararat; hora Ararat
+cv_slk_000296 common_voice_sk_24525054.mp3 ohanbie; vonkajšie ženské ústroje
+cv_slk_000297 common_voice_sk_24525055.mp3 latinská plachta
+cv_slk_000298 common_voice_sk_24525056.mp3 metrológia; náuka o meraní
+cv_slk_000299 common_voice_sk_24525057.mp3 hypersenzitívna reakcia
+cv_slk_000300 common_voice_sk_24525058.mp3 hromadenie
+cv_slk_000301 common_voice_sk_24525084.mp3 nahrávacie zariadenie
+cv_slk_000302 common_voice_sk_24525085.mp3 fotoemisia; fotoelektrická emisia
+cv_slk_000303 common_voice_sk_24525086.mp3 jednoduchosť
+cv_slk_000304 common_voice_sk_24525087.mp3 exhibicionizmus; prejav exhibicionizmu; neslušné odhaľovanie
+cv_slk_000305 common_voice_sk_24525088.mp3 hlasovanie pre kandidátov jednej strany
+cv_slk_000306 common_voice_sk_27658323.mp3 absolútny; zvrchovaný
+cv_slk_000307 common_voice_sk_27658324.mp3 Vypni kotol.
+cv_slk_000308 common_voice_sk_27658325.mp3 Využívanie sociálnych sietí a tiež jej konkrétnych typov v populácii slovenska – podiel a intenzita.
+cv_slk_000309 common_voice_sk_27658326.mp3 mierny; pokojný; vyrovnaný
+cv_slk_000310 common_voice_sk_27658327.mp3 koč
+cv_slk_000311 common_voice_sk_27658333.mp3 Arafurské more
+cv_slk_000312 common_voice_sk_27658334.mp3 farbenie; zafarbovanie
+cv_slk_000313 common_voice_sk_27658335.mp3 Mesto obývalo spolu s predmestiami pod hradbami, huštákmi, okolo desať tisíc obyvateľov.
+cv_slk_000314 common_voice_sk_27658336.mp3 nešikovnosť
+cv_slk_000315 common_voice_sk_27658337.mp3 komerčný
+cv_slk_000316 common_voice_sk_25399166.mp3 javisko; divadelné javisko
+cv_slk_000317 common_voice_sk_25399168.mp3 námestník ministra; námestník generálneho tajomníka
+cv_slk_000318 common_voice_sk_25399169.mp3 artefakt; výtvor
+cv_slk_000319 common_voice_sk_25399170.mp3 okolnosť
+cv_slk_000320 common_voice_sk_25399171.mp3 blízkosť
+cv_slk_000321 common_voice_sk_25399202.mp3 kosačka na trávu; kosačka
+cv_slk_000322 common_voice_sk_25399203.mp3 kytica
+cv_slk_000323 common_voice_sk_25399204.mp3 náhrada; náhrada škody; odškodné; odškodnenie; kompenzácia
+cv_slk_000324 common_voice_sk_25399205.mp3 dlhá tona; brutto tona
+cv_slk_000325 common_voice_sk_25399206.mp3 Kongo; Konžská demokratická republika; bývalý Zair; Belgické Kongo
+cv_slk_000326 common_voice_sk_25021247.mp3 koza na rezanie dreva
+cv_slk_000327 common_voice_sk_25021248.mp3 Použitie diela verejným vystavením
+cv_slk_000328 common_voice_sk_25021249.mp3 dátum; deň v mesiaci
+cv_slk_000329 common_voice_sk_25021250.mp3 kostnatá ryba
+cv_slk_000330 common_voice_sk_25021251.mp3 informovaný
+cv_slk_000331 common_voice_sk_25021262.mp3 naplnenie; prienik; prestúpenie
+cv_slk_000332 common_voice_sk_25021263.mp3 kĺbová jamka lopatky
+cv_slk_000333 common_voice_sk_25021264.mp3 hladina šumu; hlučnosť; úroveň hluku
+cv_slk_000334 common_voice_sk_25021265.mp3 majetok; vlastníctvo
+cv_slk_000335 common_voice_sk_25021266.mp3 oslabovanie
+cv_slk_000336 common_voice_sk_25289002.mp3 federálny úrad
+cv_slk_000337 common_voice_sk_25289004.mp3 kontrolovateľný; ovládateľný; prístupný
+cv_slk_000338 common_voice_sk_25289005.mp3 plus
+cv_slk_000339 common_voice_sk_25289010.mp3 podobný mačiatku; ako mača; hravý ako mačiatko; šantivý; šantiaci; roztopašný; hravý
+cv_slk_000340 common_voice_sk_25289013.mp3 Kniha Sirachovcova
+cv_slk_000341 common_voice_sk_25289049.mp3 kapitálové náklady; investičné náklady
+cv_slk_000342 common_voice_sk_25289051.mp3 sa uplatní na cezhraničnú výmenu dôkazov pre určitý okruh postupov.
+cv_slk_000343 common_voice_sk_25289052.mp3 miesto prevŕtané hmyzom; poškodenie hmyzom
+cv_slk_000344 common_voice_sk_25289053.mp3 luxusný; vznešený; prepychový; nákladný
+cv_slk_000345 common_voice_sk_25289054.mp3 bejzbalový výstroj
+cv_slk_000346 common_voice_sk_28540616.mp3 hráč na hoboj
+cv_slk_000347 common_voice_sk_28540617.mp3 kňazstvo; duchovenstvo
+cv_slk_000348 common_voice_sk_28540618.mp3 apendikulárna kostra
+cv_slk_000349 common_voice_sk_28540619.mp3 obliekanie
+cv_slk_000350 common_voice_sk_28540620.mp3 list; úradný list; formálny list
+cv_slk_000351 common_voice_sk_28555889.mp3 čestný; poctivý; spravodlivý
+cv_slk_000352 common_voice_sk_28555890.mp3 Kirgizsko; Kirgizská republika
+cv_slk_000353 common_voice_sk_28555891.mp3 Eton College
+cv_slk_000354 common_voice_sk_28555892.mp3 obyčajný človek; človek z ľudu
+cv_slk_000355 common_voice_sk_28555893.mp3 kvet
+cv_slk_000356 common_voice_sk_24934461.mp3 ručne poháňaný; ručný; ručne ovládaný
+cv_slk_000357 common_voice_sk_24934462.mp3 chyba; omyl; hrubá chyba; veľký omyl; vedomá nedbalosť; sprostosť;
+cv_slk_000358 common_voice_sk_24934463.mp3 krehký; slabý
+cv_slk_000359 common_voice_sk_24934464.mp3 háčkovanie; háčik
+cv_slk_000360 common_voice_sk_24934465.mp3 Zastupovanie organizácie kolektívnej správy
+cv_slk_000361 common_voice_sk_24934529.mp3 betón
+cv_slk_000362 common_voice_sk_24934530.mp3 od rôznych výrobcov, väčšinou v super lákavých obaloch
+cv_slk_000363 common_voice_sk_24934532.mp3 košík na ovocie
+cv_slk_000364 common_voice_sk_24934533.mp3 Tí menej intenzívnejší zaostávajú i za celoslovenským priemerom.
+cv_slk_000365 common_voice_sk_24934535.mp3 a pri žiarivkách nula celá päť watov na liter vody.
+cv_slk_000366 common_voice_sk_24600834.mp3 ľavá strana; ľavica
+cv_slk_000367 common_voice_sk_24600835.mp3 letenka
+cv_slk_000368 common_voice_sk_24600836.mp3 eufória
+cv_slk_000369 common_voice_sk_24600837.mp3 ňufák; rypák; pysk; papuľa
+cv_slk_000370 common_voice_sk_24600838.mp3 kefová strela; kartáčová strela; kartáč
+cv_slk_000371 common_voice_sk_24600844.mp3 nervové zakončenie
+cv_slk_000372 common_voice_sk_24600845.mp3 fotokonduktivita; fotovodivosť
+cv_slk_000373 common_voice_sk_24600846.mp3 článkonožec
+cv_slk_000374 common_voice_sk_24600847.mp3 básnický rytmus; rytmický štýl; prozódia
+cv_slk_000375 common_voice_sk_24600848.mp3 Buzzardský záliv
+cv_slk_000376 common_voice_sk_24696840.mp3 botanika; fytológia
+cv_slk_000377 common_voice_sk_24696841.mp3 Orinoco; rieka Orinoco
+cv_slk_000378 common_voice_sk_24696842.mp3 nevoľník; otrok
+cv_slk_000379 common_voice_sk_24696843.mp3 Komisia pre atómovú energiu
+cv_slk_000380 common_voice_sk_24696844.mp3 hod; vrh
+cv_slk_000381 common_voice_sk_24696848.mp3 miestnosť; izba
+cv_slk_000382 common_voice_sk_24696849.mp3 kávovník
+cv_slk_000383 common_voice_sk_24696850.mp3 kľučka
+cv_slk_000384 common_voice_sk_24696852.mp3 olejnička
+cv_slk_000385 common_voice_sk_24696853.mp3 obeť vraždy; zavraždený
+cv_slk_000386 common_voice_sk_25267757.mp3 hydina
+cv_slk_000387 common_voice_sk_25267758.mp3 odozva; ozvena; echo
+cv_slk_000388 common_voice_sk_25267759.mp3 vonkajší; externý
+cv_slk_000389 common_voice_sk_25267760.mp3 Na základe adresy sa pokúsime lokalizovať človeka s možným malvérom v počítači.
+cv_slk_000390 common_voice_sk_25267761.mp3 lano; smerové lano; hlavné lano; bočnica
+cv_slk_000391 common_voice_sk_25267777.mp3 menový fond; peňažný fond
+cv_slk_000392 common_voice_sk_25267778.mp3 koncový stupeň; konečná etapa
+cv_slk_000393 common_voice_sk_25267779.mp3 pohnutý; dotknutý
+cv_slk_000394 common_voice_sk_25267780.mp3 náboženská slávnosť; cirkevná slávnosť; cirkevný sviatok
+cv_slk_000395 common_voice_sk_25267781.mp3 aktomyozín
+cv_slk_000396 common_voice_sk_25243689.mp3 kruhový
+cv_slk_000397 common_voice_sk_25243690.mp3 nominácia; vymenovanie
+cv_slk_000398 common_voice_sk_25243691.mp3 jablko
+cv_slk_000399 common_voice_sk_25243692.mp3 epocha
+cv_slk_000400 common_voice_sk_25243693.mp3 Dovidenia. Dovi.
+cv_slk_000401 common_voice_sk_25243714.mp3 lepší; najlepší
+cv_slk_000402 common_voice_sk_25243715.mp3 bravčová klobása
+cv_slk_000403 common_voice_sk_25243717.mp3 lúč; zväzok; elektrónový zväzok
+cv_slk_000404 common_voice_sk_25243719.mp3 Ázijčan; Ázijec
+cv_slk_000405 common_voice_sk_25243720.mp3 hypersenzitívna reakcia
+cv_slk_000406 common_voice_sk_28563209.mp3 expres; expresný dopravný prostriedok
+cv_slk_000407 common_voice_sk_28563210.mp3 Zapni svetlo na chodbe.
+cv_slk_000408 common_voice_sk_28563233.mp3 jednoduchý proteín
+cv_slk_000409 common_voice_sk_28563234.mp3 gitara
+cv_slk_000410 common_voice_sk_28563236.mp3 dojemný; dojímavý
+cv_slk_000411 common_voice_sk_28563265.mp3 finančná pokuta
+cv_slk_000412 common_voice_sk_28563267.mp3 králičia nora
+cv_slk_000413 common_voice_sk_28563268.mp3 encyklopédia
+cv_slk_000414 common_voice_sk_28563271.mp3 dlh
+cv_slk_000415 common_voice_sk_28563272.mp3 noty
+cv_slk_000416 common_voice_sk_28563273.mp3 intelektuál
+cv_slk_000417 common_voice_sk_28563275.mp3 barón
+cv_slk_000418 common_voice_sk_28563100.mp3 divoch
+cv_slk_000419 common_voice_sk_28563102.mp3 klobása
+cv_slk_000420 common_voice_sk_28563103.mp3 hodiny
+cv_slk_000421 common_voice_sk_28563127.mp3 horor; hrôza
+cv_slk_000422 common_voice_sk_28563129.mp3 Nastav svetlo v pivnici na sto percent.
+cv_slk_000423 common_voice_sk_28563130.mp3 mešťan; obyvateľ mesta
+cv_slk_000424 common_voice_sk_28563131.mp3 kolosálny; obrovský; nesmierny; ohromujúci
+cv_slk_000425 common_voice_sk_28563149.mp3 nula, nultý, nultá, nulté
+cv_slk_000426 common_voice_sk_28563151.mp3 história; výpoveď; príbeh
+cv_slk_000427 common_voice_sk_28563152.mp3 medveď hnedý; Ursus arctos
+cv_slk_000428 common_voice_sk_28563182.mp3 overený; osvedčený
+cv_slk_000429 common_voice_sk_28563183.mp3 ochorenie oka; očná choroba
+cv_slk_000430 common_voice_sk_25312326.mp3 olivový olej
+cv_slk_000431 common_voice_sk_25312347.mp3 cyklistika
+cv_slk_000432 common_voice_sk_25312353.mp3 euro
+cv_slk_000433 common_voice_sk_25312364.mp3 jún
+cv_slk_000434 common_voice_sk_25312365.mp3 hana
+cv_slk_000435 common_voice_sk_25312376.mp3 čínska kapusta
+cv_slk_000436 common_voice_sk_25312382.mp3 kondícia
+cv_slk_000437 common_voice_sk_25312383.mp3 článok
+cv_slk_000438 common_voice_sk_25312387.mp3 guvernér
+cv_slk_000439 common_voice_sk_25312390.mp3 kompót
+cv_slk_000440 common_voice_sk_25312406.mp3 hovorca
+cv_slk_000441 common_voice_sk_25312412.mp3 sekundárny
+cv_slk_000442 common_voice_sk_25114284.mp3 brod
+cv_slk_000443 common_voice_sk_25114285.mp3 mystický
+cv_slk_000444 common_voice_sk_25114286.mp3 Clinton
+cv_slk_000445 common_voice_sk_25114287.mp3 otázny; diskutabilný; sporný; pochybný
+cv_slk_000446 common_voice_sk_25114288.mp3 náhorná plošina
+cv_slk_000447 common_voice_sk_25114309.mp3 kompetentný; právne spôsobilý
+cv_slk_000448 common_voice_sk_25114310.mp3 osada
+cv_slk_000449 common_voice_sk_25114312.mp3 konzervant; konzervačná látka
+cv_slk_000450 common_voice_sk_25114313.mp3 obligácie; ukladacie papiere; ukladací cenný papier
+cv_slk_000451 common_voice_sk_25114369.mp3 lekársky nástroj
+cv_slk_000452 common_voice_sk_25114370.mp3 minerálny; nerastný
+cv_slk_000453 common_voice_sk_25114371.mp3 kráska; krásavica; kočka; kus; fešanda
+cv_slk_000454 common_voice_sk_25114372.mp3 a riešenia problémov, na ktoré by sa občania a podniky mohli obrátiť
+cv_slk_000455 common_voice_sk_25114373.mp3 horná galéria
+cv_slk_000456 common_voice_sk_28055280.mp3 hnedá
+cv_slk_000457 common_voice_sk_28055281.mp3 Najdi
+cv_slk_000458 common_voice_sk_28055282.mp3 nájom
+cv_slk_000459 common_voice_sk_28055285.mp3 oplodniteľný; schopný počatia
+cv_slk_000460 common_voice_sk_28055287.mp3 divoch
+cv_slk_000461 common_voice_sk_28055305.mp3 Napíšte článok o strednej a východnej Európe a vyhrajte zaujímavé ceny!
+cv_slk_000462 common_voice_sk_28055306.mp3 Indigirka; rieka Indigirka
+cv_slk_000463 common_voice_sk_28055308.mp3 bomba s diaľkovým ovládaním
+cv_slk_000464 common_voice_sk_28055309.mp3 heraldika
+cv_slk_000465 common_voice_sk_28055310.mp3 omladenie; oživenie; zotavenie
+cv_slk_000466 common_voice_sk_28055327.mp3 klepietkavce; podkmeň klepietkavce; Chelicerata; podkmeň Chelicerata
+cv_slk_000467 common_voice_sk_28055328.mp3 atómová bomba; nukleárna bomba; jadrová bomba
+cv_slk_000468 common_voice_sk_28055331.mp3 kyselina močová
+cv_slk_000469 common_voice_sk_28055333.mp3 lajdácky; neodborný; podradný; amatérsky; neporiadny; diletantský
+cv_slk_000470 common_voice_sk_24988481.mp3 katastrofálny
+cv_slk_000471 common_voice_sk_24988484.mp3 Pre fotenie akvárií sa osvedčilo mierne podexponovať celý snímok
+cv_slk_000472 common_voice_sk_24988486.mp3 baba
+cv_slk_000473 common_voice_sk_24988488.mp3 blízky; príbuzný; pokrvný; spriaznený
+cv_slk_000474 common_voice_sk_24988489.mp3 kyselina olejová
+cv_slk_000475 common_voice_sk_24988529.mp3 kalendár
+cv_slk_000476 common_voice_sk_24988530.mp3 Burundi; Republika Burundi; Burundská republika
+cv_slk_000477 common_voice_sk_24988531.mp3 letec; pilot
+cv_slk_000478 common_voice_sk_24988532.mp3 gama žiarenie
+cv_slk_000479 common_voice_sk_24988533.mp3 neopatrnosť; neobozretnosť; nepozornosť
+cv_slk_000480 common_voice_sk_24988569.mp3 konzervovaná potravina; zmrazená potravina; dehydrátovaná potravina;
+cv_slk_000481 common_voice_sk_24988570.mp3 panenský; čistý; cudný; mravný; nepoškvrnený
+cv_slk_000482 common_voice_sk_24988571.mp3 Tak dlhú dobu fotoaparát voľne v ruke samozrejme neudržíme.
+cv_slk_000483 common_voice_sk_24988572.mp3 Keďže budete musieť obrázok pre publikovanie aj tak zmenšovať
+cv_slk_000484 common_voice_sk_24988573.mp3 Vypnutie blesku
+cv_slk_000485 common_voice_sk_25170877.mp3 mestský; urbanistický
+cv_slk_000486 common_voice_sk_25170878.mp3 občianska neposlušnosť
+cv_slk_000487 common_voice_sk_25170879.mp3 kabína
+cv_slk_000488 common_voice_sk_25170880.mp3 fyzika; fyzikálna veda
+cv_slk_000489 common_voice_sk_25170881.mp3 jedlo; strava; pokrm; potrava; krmivo; výživa; potravina
+cv_slk_000490 common_voice_sk_25557436.mp3 A ešte jedno dôležité kritérium:
+cv_slk_000491 common_voice_sk_25557437.mp3 kopa dreva
+cv_slk_000492 common_voice_sk_25557438.mp3 znemožňuje založiť tzv. koberec
+cv_slk_000493 common_voice_sk_25557439.mp3 blízkosť; prítomnosť
+cv_slk_000494 common_voice_sk_25557440.mp3 náčrt; koncept; návrh
+cv_slk_000495 common_voice_sk_26990569.mp3 hlavná rímsa; kládie; entablatúra
+cv_slk_000496 common_voice_sk_26990570.mp3 Brahmaputra; rieka Brahmaputra
+cv_slk_000497 common_voice_sk_26990571.mp3 chudobný človek; človek bez prostriedkov; úbožiak; chudák; žobrák; človek, nemajetný
+cv_slk_000498 common_voice_sk_26990572.mp3 autokracia; samovláda
+cv_slk_000499 common_voice_sk_26990573.mp3 krik; rev
+cv_slk_000500 common_voice_sk_25537862.mp3 dividendový kupón; oprávnenie na výplatu dividend
+cv_slk_000501 common_voice_sk_25537863.mp3 celebrita; osobnosť
+cv_slk_000502 common_voice_sk_25537864.mp3 k postupom – občania nájdu informácie o tom, ako presne sa majú realizovať administratívne postupy
+cv_slk_000503 common_voice_sk_25537865.mp3 oprava tlačovej chyby
+cv_slk_000504 common_voice_sk_25537866.mp3 Kingstown
+cv_slk_000505 common_voice_sk_25538324.mp3 Naopak najnižší v kraji Trnavskom.
+cv_slk_000506 common_voice_sk_25538325.mp3 kostrčový stavec
+cv_slk_000507 common_voice_sk_25538326.mp3 lipektómia; ostránenie tukových vankúšikov
+cv_slk_000508 common_voice_sk_25538327.mp3 koruna; Slovenská koruna; mena, peniaze
+cv_slk_000509 common_voice_sk_25538328.mp3 komerčná banka; obchodná banka
+cv_slk_000510 common_voice_sk_25538402.mp3 Nový zákon; Nová zmluva
+cv_slk_000511 common_voice_sk_25538403.mp3 batožinový pás
+cv_slk_000512 common_voice_sk_25538404.mp3 labyrintová žila; vnútorná sluchová žila
+cv_slk_000513 common_voice_sk_25538405.mp3 darčeková knižná poukážka
+cv_slk_000514 common_voice_sk_25538408.mp3 expert; znalec; odborník
+cv_slk_000515 common_voice_sk_25391153.mp3 Zvláštnym užívaním nie je vlastná činnosť správcov týchto pozemných komunikácií pri ich správe.
+cv_slk_000516 common_voice_sk_25391154.mp3 hazardné hranie; hazardná hra; karban; finančná špekulácia; hra o peniaze
+cv_slk_000517 common_voice_sk_25391155.mp3 kostol; cirkevná budova
+cv_slk_000518 common_voice_sk_25391156.mp3 háčik
+cv_slk_000519 common_voice_sk_25391157.mp3 Európa
+cv_slk_000520 common_voice_sk_25391208.mp3 hranica; pohrebná hranica
+cv_slk_000521 common_voice_sk_25391209.mp3 audio
+cv_slk_000522 common_voice_sk_25391210.mp3 Obracaj sa gazdiná, kým sa máš pre koho!
+cv_slk_000523 common_voice_sk_25391212.mp3 hraničná podmienka; okrajová podmienka
+cv_slk_000524 common_voice_sk_25391213.mp3 Havajské ostrovy; Sendvičové ostrovy
+cv_slk_000525 common_voice_sk_25391220.mp3 bankový šek; poukážka; šek; zloženka
+cv_slk_000526 common_voice_sk_25391222.mp3 kniha; zväzok
+cv_slk_000527 common_voice_sk_25391225.mp3 hemoragická horúčka
+cv_slk_000528 common_voice_sk_25391226.mp3 vopred vylučujúci; znemožňujúci; preventívny
+cv_slk_000529 common_voice_sk_25391227.mp3 istý; zaručený
+cv_slk_000530 common_voice_sk_32095599.mp3 Normandské ostrovy
+cv_slk_000531 common_voice_sk_32095600.mp3 Akadama taktiež potláča odobratím živín aj rast rias.
+cv_slk_000532 common_voice_sk_32095601.mp3 predvolebná porada lídrov; konferencia vedenia alebo voličov politickej strany
+cv_slk_000533 common_voice_sk_32095602.mp3 Aj po hodinách streľby sa necítite ohlušení a nemusíte sa báť spotených uší.
+cv_slk_000534 common_voice_sk_32095603.mp3 Lufkin
+cv_slk_000535 common_voice_sk_32095626.mp3 kardinál
+cv_slk_000536 common_voice_sk_32095629.mp3 ovčinec; ohrada pre ovce; ovčiareň
+cv_slk_000537 common_voice_sk_32095630.mp3 erb
+cv_slk_000538 common_voice_sk_32095631.mp3 nadoblička; nadľadvina; nadobličková žľaza
+cv_slk_000539 common_voice_sk_32095632.mp3 Takéto argumenty sú typické pre určité skupiny obyvateľstva.
+cv_slk_000540 common_voice_sk_32095664.mp3 americká letecká divízia
+cv_slk_000541 common_voice_sk_32095667.mp3 neurčitosť; pochybnosť; neistota
+cv_slk_000542 common_voice_sk_32095668.mp3 magický
+cv_slk_000543 common_voice_sk_32095670.mp3 objektív
+cv_slk_000544 common_voice_sk_32095672.mp3 Komu by sa to zdalo ako opustenie dôležitej kóty morálnej nadradenosti?!
+cv_slk_000545 common_voice_sk_24834773.mp3 obdivovateľ; ctiteľ; milovník
+cv_slk_000546 common_voice_sk_24834774.mp3 kresba; maľba; obrázok
+cv_slk_000547 common_voice_sk_24834776.mp3 integrácia
+cv_slk_000548 common_voice_sk_24834777.mp3 a inak pre umiestnenie v chovnej miestnosti.
+cv_slk_000549 common_voice_sk_24834779.mp3 Budeme fotiť bez blesku a preto blesk musíme vypnúť.
+cv_slk_000550 common_voice_sk_24834807.mp3 Začali ma bolieť uši.
+cv_slk_000551 common_voice_sk_24834808.mp3 banket; hody; hostina
+cv_slk_000552 common_voice_sk_24834809.mp3 Treba robiť správne rozhodnutia, ktoré môžu znamenať ekonomickú výhodu.
+cv_slk_000553 common_voice_sk_24834810.mp3 V praxi to znamená že do akvária môžete dať piesky
+cv_slk_000554 common_voice_sk_24834811.mp3 hodina
+cv_slk_000555 common_voice_sk_24834812.mp3 mnohokrát sú to však len zbytočne vyhodené peniaze.
+cv_slk_000556 common_voice_sk_24834813.mp3 Z hľadiska použitia substrátu by sme si akvária mohli rozdeliť do viacerých kategórií.
+cv_slk_000557 common_voice_sk_24834814.mp3 ospravedlňovanie; ospravedlnenie
+cv_slk_000558 common_voice_sk_24834815.mp3 Výnimku tvoria kraje príliš chudobné — a tam obyčajne pustoší alkohol.
+cv_slk_000559 common_voice_sk_24834816.mp3 obrat čelom vzad
+cv_slk_000560 common_voice_sk_27581843.mp3 les; lesný porast
+cv_slk_000561 common_voice_sk_27581844.mp3 komentátor; pozorovateľ
+cv_slk_000562 common_voice_sk_27581845.mp3 exponenciála; exponenciálna funkcia
+cv_slk_000563 common_voice_sk_27581846.mp3 malo by sa k oznámeniu pripojiť odôvodnenie omeškania
+cv_slk_000564 common_voice_sk_27581847.mp3 ohromný; skvelý; úžasný; rozprávkový; báječný
+cv_slk_000565 common_voice_sk_27581853.mp3 bežný; častý
+cv_slk_000566 common_voice_sk_27581854.mp3 obchodný dokument
+cv_slk_000567 common_voice_sk_27581855.mp3 odovzdanie informácií; oznámenie; informovanie
+cv_slk_000568 common_voice_sk_27581856.mp3 Majetkové práva vysielateľa sú prevoditeľné.
+cv_slk_000569 common_voice_sk_27581857.mp3 Zmeň
+cv_slk_000570 common_voice_sk_27581863.mp3 Pozícia
+cv_slk_000571 common_voice_sk_27581864.mp3 ochotný; pripravený; pohotový
+cv_slk_000572 common_voice_sk_27581865.mp3 hlas
+cv_slk_000573 common_voice_sk_27581866.mp3 Kniha náreky
+cv_slk_000574 common_voice_sk_27581867.mp3 nosná aerodynamická plocha
+cv_slk_000575 common_voice_sk_24600806.mp3 ľudový komisár
+cv_slk_000576 common_voice_sk_24600807.mp3 blízky; neďaleký; blízko ležiaci
+cv_slk_000577 common_voice_sk_24600808.mp3 epitel; epitelové tkanivo
+cv_slk_000578 common_voice_sk_24600809.mp3 Cichorium; rod Cichorium
+cv_slk_000579 common_voice_sk_24600810.mp3 izraelčan; izraelčanka
+cv_slk_000580 common_voice_sk_24600814.mp3 basketbalové vybavenie
+cv_slk_000581 common_voice_sk_24600815.mp3 obchodná komora
+cv_slk_000582 common_voice_sk_24600816.mp3 ochrana
+cv_slk_000583 common_voice_sk_24600817.mp3 epika; epická poézia
+cv_slk_000584 common_voice_sk_24600818.mp3 masívny; obrovský; súvislý
+cv_slk_000585 common_voice_sk_24600824.mp3 klenba; lomený štítový múr v priečelí
+cv_slk_000586 common_voice_sk_24600825.mp3 bombardovanie
+cv_slk_000587 common_voice_sk_24600826.mp3 civilista
+cv_slk_000588 common_voice_sk_24600827.mp3 mužný; mužský; chlapský; statočný
+cv_slk_000589 common_voice_sk_24600828.mp3 ochranná maska
+cv_slk_000590 common_voice_sk_24981644.mp3 kriminalita; kriminálnosť
+cv_slk_000591 common_voice_sk_24981645.mp3 Kvalita a množstvo svetla.
+cv_slk_000592 common_voice_sk_24981646.mp3 Príjemne uľahčuje zasúvanie i vyberanie.
+cv_slk_000593 common_voice_sk_24981648.mp3 kráľ; panovník; monarcha
+cv_slk_000594 common_voice_sk_24981650.mp3 Pokiaľ sa dá, je dobre používať viacbodového zaostrovanie.
+cv_slk_000595 common_voice_sk_24981659.mp3 O zmene oprávnenia rozhoduje ministerstvo na základe písomnej žiadosti organizácie kolektívnej správy.
+cv_slk_000596 common_voice_sk_24981660.mp3 guľomet; samopal
+cv_slk_000597 common_voice_sk_24981661.mp3 Stojany pre väčšie akvária než päťsto litrové
+cv_slk_000598 common_voice_sk_24981663.mp3 kamoš; kamarát; dobrý priateľ
+cv_slk_000599 common_voice_sk_24981665.mp3 krišťáľová guľa
+cv_slk_000600 common_voice_sk_24981684.mp3 bunka; článok
+cv_slk_000601 common_voice_sk_24981685.mp3 Ak sa osobné údaje spracúvajú na účely priameho marketingu
+cv_slk_000602 common_voice_sk_24981686.mp3 ľadovec
+cv_slk_000603 common_voice_sk_24981687.mp3 hold; pocta; prejav úcty
+cv_slk_000604 common_voice_sk_24981688.mp3 regulačný
+cv_slk_000605 common_voice_sk_24983357.mp3 fajka
+cv_slk_000606 common_voice_sk_24983358.mp3 deravý; pórovitý; porézny
+cv_slk_000607 common_voice_sk_24983359.mp3 lyrika; lyrická báseň
+cv_slk_000608 common_voice_sk_24983361.mp3 podriadený
+cv_slk_000609 common_voice_sk_24983362.mp3 distribúcia; distribuovanie
+cv_slk_000610 common_voice_sk_24984542.mp3 ľadvinová artéria
+cv_slk_000611 common_voice_sk_24984583.mp3 obyvateľ Samoy
+cv_slk_000612 common_voice_sk_24984584.mp3 Americká vojenská akadémia vo West Pointe; vojenská akadémia
+cv_slk_000613 common_voice_sk_24984585.mp3 harmónia; súlad; súhra
+cv_slk_000614 common_voice_sk_24984586.mp3 aorta; srdcovnica
+cv_slk_000615 common_voice_sk_24984588.mp3 kmeň Eubacteria
+cv_slk_000616 common_voice_sk_24984601.mp3 článok
+cv_slk_000617 common_voice_sk_24984602.mp3 hutník; metalurg; hutnícky inžinier
+cv_slk_000618 common_voice_sk_24984603.mp3 Loch Ness
+cv_slk_000619 common_voice_sk_24984604.mp3 koordinuje celoštátne sčítanie cestnej dopravy na diaľniciach a cestách
+cv_slk_000620 common_voice_sk_24984605.mp3 hlavný účtovník; revízor účtov; finančný kontrolór
+cv_slk_000621 common_voice_sk_28563199.mp3 odieranie; trenie; obrusovanie
+cv_slk_000622 common_voice_sk_28563200.mp3 Môže, ale nemusí ho sprevádzať hudba.
+cv_slk_000623 common_voice_sk_28563203.mp3 vládnuci; kráľovský; panovnícky
+cv_slk_000624 common_voice_sk_28563204.mp3 fóbia; úzkosť; obava
+cv_slk_000625 common_voice_sk_28563217.mp3 medziobdobie; medzičas
+cv_slk_000626 common_voice_sk_28563218.mp3 Aká je teplota v spálni?
+cv_slk_000627 common_voice_sk_28563219.mp3 farebné schéma; farebná škála; škála použitých farieb; farebná tonalita
+cv_slk_000628 common_voice_sk_28563220.mp3 blúza; blúzka
+cv_slk_000629 common_voice_sk_28563222.mp3 Vypni svetlo v garáži.
+cv_slk_000630 common_voice_sk_28563230.mp3 ľudský
+cv_slk_000631 common_voice_sk_28563232.mp3 hviezdička
+cv_slk_000632 common_voice_sk_28563242.mp3 korisť
+cv_slk_000633 common_voice_sk_28563243.mp3 Jednotná digitálna brána nasmeruje občanov a spoločnosti k informáciám
+cv_slk_000634 common_voice_sk_28563244.mp3 kolikový; trpiaci kolikou
+cv_slk_000635 common_voice_sk_28563245.mp3 dojemný; dojímavý
+cv_slk_000636 common_voice_sk_28563246.mp3 koza na rezanie dreva
+cv_slk_000637 common_voice_sk_28563101.mp3 jamka
+cv_slk_000638 common_voice_sk_28563105.mp3 Kazaň
+cv_slk_000639 common_voice_sk_28563107.mp3 severovýchod
+cv_slk_000640 common_voice_sk_28563109.mp3 chránený autorským právom
+cv_slk_000641 common_voice_sk_28563159.mp3 metrická jednotka
+cv_slk_000642 common_voice_sk_28563160.mp3 dcérsky
+cv_slk_000643 common_voice_sk_28563161.mp3 halier; štvrť penny
+cv_slk_000644 common_voice_sk_28563162.mp3 ministerstvo
+cv_slk_000645 common_voice_sk_28563163.mp3 Odkiaľ si?
+cv_slk_000646 common_voice_sk_28563188.mp3 hra Dáma; dáma
+cv_slk_000647 common_voice_sk_28563189.mp3 holenie
+cv_slk_000648 common_voice_sk_28563190.mp3 bezpečnosť
+cv_slk_000649 common_voice_sk_28563192.mp3 katedrála
+cv_slk_000650 common_voice_sk_28563284.mp3 genetik; odborník v genetike
+cv_slk_000651 common_voice_sk_28563286.mp3 rozvedený
+cv_slk_000652 common_voice_sk_28563288.mp3 krájač; príbor; pomôcka na rezanie
+cv_slk_000653 common_voice_sk_28563292.mp3 namáčanie; namočenie
+cv_slk_000654 common_voice_sk_25530644.mp3 Kvetná nedeľa
+cv_slk_000655 common_voice_sk_25530645.mp3 kupé; oddelenie; oddelený priestor
+cv_slk_000656 common_voice_sk_25530646.mp3 nájazd; vpád; prepad; rýchly útok
+cv_slk_000657 common_voice_sk_25530647.mp3 Auckland
+cv_slk_000658 common_voice_sk_25530648.mp3 know-how; riešenie; úspešná metóda postupu
+cv_slk_000659 common_voice_sk_25530696.mp3 odtok; výtok; ústie rieky
+cv_slk_000660 common_voice_sk_25530697.mp3 či murovanej časti z tehál či tvárnic.
+cv_slk_000661 common_voice_sk_25530698.mp3 schválený; ratifikovaný
+cv_slk_000662 common_voice_sk_25530699.mp3 obrad; náboženský obrad
+cv_slk_000663 common_voice_sk_25530700.mp3 blok; kocka
+cv_slk_000664 common_voice_sk_25530766.mp3 hustota
+cv_slk_000665 common_voice_sk_25530768.mp3 krypta; hrobka; komnata
+cv_slk_000666 common_voice_sk_25530769.mp3 Môžu obsahovať plné texty kníh alebo skrátené verzie.
+cv_slk_000667 common_voice_sk_25530792.mp3 krvavý
+cv_slk_000668 common_voice_sk_25530794.mp3 cievica
+cv_slk_000669 common_voice_sk_25530795.mp3 mešec; vrecko na peniaze
+cv_slk_000670 common_voice_sk_25530798.mp3 Aram
+cv_slk_000671 common_voice_sk_25530799.mp3 grófka
+cv_slk_000672 common_voice_sk_25756050.mp3 futbalový štadión
+cv_slk_000673 common_voice_sk_25756051.mp3 leptón
+cv_slk_000674 common_voice_sk_25756052.mp3 Elektronické spracovanie údajov nám podstatne uľahčuje prácu a umožňuje nám efektívne pracovať s informáciami.
+cv_slk_000675 common_voice_sk_25756053.mp3 črta; charakteristická vlastnosť
+cv_slk_000676 common_voice_sk_25756054.mp3 majstrovský; perfektný; virtuózny
+cv_slk_000677 common_voice_sk_25756075.mp3 hektoliter
+cv_slk_000678 common_voice_sk_25756076.mp3 odsúdenie; usvedčenie
+cv_slk_000679 common_voice_sk_25756077.mp3 orný; obrábateľný; schopný obrábania; kultivovateľný; obrobiteľný
+cv_slk_000680 common_voice_sk_25756078.mp3 kyselina kyanatá
+cv_slk_000681 common_voice_sk_25756079.mp3 obilie
+cv_slk_000682 common_voice_sk_25756110.mp3 nepokoj; duševný nepokoj
+cv_slk_000683 common_voice_sk_25756111.mp3 otec; ploditeľ
+cv_slk_000684 common_voice_sk_25756112.mp3 ľudský
+cv_slk_000685 common_voice_sk_25756113.mp3 exokrinná žľaza
+cv_slk_000686 common_voice_sk_25756114.mp3 Ale tiež aj kvôli neprirodzenému nasvieteniu akva tvrdým bodovým svetlom bleskom.
+cv_slk_000687 common_voice_sk_25756144.mp3 fauna; živočíšstvo; zvieratstvo
+cv_slk_000688 common_voice_sk_25756146.mp3 faktická evikcia; skutočné odňatie držby
+cv_slk_000689 common_voice_sk_25756148.mp3 S využívaním sociálnych sietí súvisí i vnútorná motivácia.
+cv_slk_000690 common_voice_sk_25756149.mp3 náhly; nepredvídaný; nečakaný; neočakávaný
+cv_slk_000691 common_voice_sk_25756151.mp3 láskavosť
+cv_slk_000692 common_voice_sk_24561477.mp3 investičná spoločnosť; investičná firma
+cv_slk_000693 common_voice_sk_24561478.mp3 Piliere a zložky digitálnej vedy v kontexte spracovania informácií.
+cv_slk_000694 common_voice_sk_24561479.mp3 cvičenie; výcvik; školenie
+cv_slk_000695 common_voice_sk_24561480.mp3 Onežské jazero; Onega
+cv_slk_000696 common_voice_sk_24561481.mp3 banditi; partizáni
+cv_slk_000697 common_voice_sk_24561569.mp3 North Dakota
+cv_slk_000698 common_voice_sk_24561570.mp3 Hawaii; Havaj
+cv_slk_000699 common_voice_sk_24561571.mp3 hrot šípu; ozub
+cv_slk_000700 common_voice_sk_24561572.mp3 nadir; podnožník; zenit; záhlavník
+cv_slk_000701 common_voice_sk_24561573.mp3 baník
+cv_slk_000702 common_voice_sk_24561584.mp3 hagiografia; Ketubim; spisy
+cv_slk_000703 common_voice_sk_24561585.mp3 legislatíva; zákony; právny rád
+cv_slk_000704 common_voice_sk_24561586.mp3 Jericho
+cv_slk_000705 common_voice_sk_24561587.mp3 odmietnutie; ohrdnutie; odbitie
+cv_slk_000706 common_voice_sk_24561588.mp3 glaukonit
+cv_slk_000707 common_voice_sk_24561594.mp3 gulden; florin
+cv_slk_000708 common_voice_sk_24561595.mp3 fľaša; pohár; nádoba
+cv_slk_000709 common_voice_sk_24561596.mp3 kompaktnosť; jednoliatosť
+cv_slk_000710 common_voice_sk_24561597.mp3 eucharistia
+cv_slk_000711 common_voice_sk_24561598.mp3 civilná stráž; výbor bdelosti; občianská mravnostná polícia
+cv_slk_000712 common_voice_sk_24883986.mp3 chýr; zvesť; povesť; reči; nezaručené správy; nepotvrdená správa
+cv_slk_000713 common_voice_sk_24883987.mp3 batéria automobilu; autobatéria
+cv_slk_000714 common_voice_sk_24883988.mp3 čakajúci; v pohotovosti
+cv_slk_000715 common_voice_sk_24883989.mp3 pre dosiahnutie najvyššej možnej kvality fotografie je lepšie nasnímať ju v najvyššom rozlíšení
+cv_slk_000716 common_voice_sk_24883990.mp3 Odčerpávanie minerálov z vody do akadamy spôsobuje znižovanie tvrdosti vody.
+cv_slk_000717 common_voice_sk_24884061.mp3 Pre použitie akadamy v akvaristike ju predurčuje jej vysoká sorbčná kapacita.
+cv_slk_000718 common_voice_sk_24884062.mp3 Neodporúča sa používať rôznofarebné piesky ponúkané v obchodoch
+cv_slk_000719 common_voice_sk_24884063.mp3 Osvedčilo sa zakryť celý zdroj osvetlenia
+cv_slk_000720 common_voice_sk_24884066.mp3 Vyšší vodný stĺpec bráni preniknutiu svetla vyžarovaného z klasických žiariviek až ku dnu
+cv_slk_000721 common_voice_sk_24884067.mp3 Tieto trubice stoja často krát niekoľkonásobok trubice "obyčajnej"
+cv_slk_000722 common_voice_sk_24884121.mp3 Akvarijné rastliny ho potom využívajú ako prirodzený zdroj živín
+cv_slk_000723 common_voice_sk_24884122.mp3 nôž na maslo
+cv_slk_000724 common_voice_sk_24884124.mp3 keramika; hrnčiarstvo; keramické výrobky; hrnčiarske výrobky
+cv_slk_000725 common_voice_sk_24884126.mp3 bariéra; prekážka; priehrada; hrádza; zátarasa; zábrana
+cv_slk_000726 common_voice_sk_24884128.mp3 oficiálny symbol; emblém; štátny symbol; erb; rodový erb; heraldika
+cv_slk_000727 common_voice_sk_24884346.mp3 Používateľ má umožnený priamy prístup.
+cv_slk_000728 common_voice_sk_24884347.mp3 odmietnutie; zrieknutie sa; rezignácia
+cv_slk_000729 common_voice_sk_24884348.mp3 pre prípad údržby, vysádzania a pod.
+cv_slk_000730 common_voice_sk_24884349.mp3 Piesok a jeho zrnitosť.
+cv_slk_000731 common_voice_sk_24884350.mp3 geologické obdobie; geologický čas
+cv_slk_000732 common_voice_sk_24525725.mp3 hra na údery; hra na počet úderov
+cv_slk_000733 common_voice_sk_24525726.mp3 Maghreb; Mahgrib
+cv_slk_000734 common_voice_sk_24525727.mp3 objektívny; nestranný
+cv_slk_000735 common_voice_sk_24525728.mp3 informátor; zdroj
+cv_slk_000736 common_voice_sk_24525729.mp3 náboženský sviatok
+cv_slk_000737 common_voice_sk_24525750.mp3 koreň; koreň zuba; zubný koreň
+cv_slk_000738 common_voice_sk_24525752.mp3 pohodlný; nenáročný; ľahký; príjemný
+cv_slk_000739 common_voice_sk_24525753.mp3 kohútik; pípa
+cv_slk_000740 common_voice_sk_24525754.mp3 oklúzia; uzavretie
+cv_slk_000741 common_voice_sk_24525755.mp3 enviromentalista
+cv_slk_000742 common_voice_sk_24525825.mp3 Borneo; Kalimantan
+cv_slk_000743 common_voice_sk_24525826.mp3 Columbia; Kolumbia; rieka Kolumbia
+cv_slk_000744 common_voice_sk_24525827.mp3 mnohoraký; rozmanitý; mnohostranný
+cv_slk_000745 common_voice_sk_24525829.mp3 To umožňuje vysokú flexibilitu konfigurácie jednotlivých serverov vzájomnou výmenou či dopĺňaním jednotlivých hardvérových komponentov.
+cv_slk_000746 common_voice_sk_24525830.mp3 kandidátka; nominantka
+cv_slk_000747 common_voice_sk_24525985.mp3 kyselina korková; kyselina suberová
+cv_slk_000748 common_voice_sk_24525986.mp3 neschválenie; nesúhlas
+cv_slk_000749 common_voice_sk_24525987.mp3 kolonizácia; osídlenie
+cv_slk_000750 common_voice_sk_24525988.mp3 Ako osveta, protesty a podobne.
+cv_slk_000751 common_voice_sk_24525989.mp3 reprezentatívny
+cv_slk_000752 common_voice_sk_28611150.mp3 Málokde prebehla maďarizácia tak úspešne, ako práve v Košiciach.
+cv_slk_000753 common_voice_sk_28611152.mp3 sarkastický; uštipačný; jedovatý
+cv_slk_000754 common_voice_sk_28611153.mp3 internet; net
+cv_slk_000755 common_voice_sk_28611154.mp3 otázka; problém
+cv_slk_000756 common_voice_sk_28611155.mp3 Nastav svetlo v garáži na deväťdesiat percent.
+cv_slk_000757 common_voice_sk_28709140.mp3 obyvateľ Aljašky; Aljašťan; Aljašťanka
+cv_slk_000758 common_voice_sk_28709141.mp3 reprezentujúci
+cv_slk_000759 common_voice_sk_28709142.mp3 komunista; člen komunistickej strany
+cv_slk_000760 common_voice_sk_28709143.mp3 odmrazovač okenného skla; vyhrievač okenného skla; zariadenie na odstránenie ľadu z okenného skla
+cv_slk_000761 common_voice_sk_28709144.mp3 neobyčajný človek; pozoruhodný človek; zvláštny človek
+cv_slk_000762 common_voice_sk_28709148.mp3 clo; colný poplatok
+cv_slk_000763 common_voice_sk_28709149.mp3 november
+cv_slk_000764 common_voice_sk_28709150.mp3 divoký; prudký; úporný; intenzívny
+cv_slk_000765 common_voice_sk_28709151.mp3 Preto doporučujeme kupovať rašelinu určenú priamo pre akvaristiku.
+cv_slk_000766 common_voice_sk_28709152.mp3 Databázu je možné použiť iba so súhlasom autora, ak tento zákon neustanovuje inak.
+cv_slk_000767 common_voice_sk_28709160.mp3 pečený; upečený
+cv_slk_000768 common_voice_sk_28709161.mp3 omyl; chyba; priestupok; lapsus
+cv_slk_000769 common_voice_sk_28709162.mp3 Využívanie tejto primárnej funkcie u takmer každého druhého Slováka potvrdil i realizovaný výskum.
+cv_slk_000770 common_voice_sk_28709163.mp3 Aby na fotke bolo vidieť čo najmenej z okolia akvária
+cv_slk_000771 common_voice_sk_28709165.mp3 Každé spracúvanie osobných údajov by malo byť zákonné a spravodlivé.
+cv_slk_000772 common_voice_sk_25704718.mp3 kanvica
+cv_slk_000773 common_voice_sk_25704719.mp3 Zhrnutie k dokumentu.
+cv_slk_000774 common_voice_sk_25704721.mp3 dlžník
+cv_slk_000775 common_voice_sk_25704722.mp3 bujný; hojný; bohatý; prehnaný
+cv_slk_000776 common_voice_sk_25704724.mp3 kantónčina
+cv_slk_000777 common_voice_sk_25704824.mp3 húština; krovinatý porast
+cv_slk_000778 common_voice_sk_25704825.mp3 králik; zajačik
+cv_slk_000779 common_voice_sk_25704828.mp3 konverzácia; rozhovor; pohovor
+cv_slk_000780 common_voice_sk_25704835.mp3 Majetkové práva výrobcu audiovizuálneho záznamu sú prevoditeľné.
+cv_slk_000781 common_voice_sk_25704837.mp3 ľudový tanec
+cv_slk_000782 common_voice_sk_25704965.mp3 Pri väčšom množstve pokrmu nedostane sa telu všetkého toho, čo potrebuje.
+cv_slk_000783 common_voice_sk_25704967.mp3 fúzia; zlúčenie
+cv_slk_000784 common_voice_sk_25704969.mp3 obchodná značka; továrenská značka; značka výrobku; značka
+cv_slk_000785 common_voice_sk_25704970.mp3 brandy
+cv_slk_000786 common_voice_sk_25704974.mp3 knižná obálka; obal knihy; obal; prebal
+cv_slk_000787 common_voice_sk_25705075.mp3 milovaný
+cv_slk_000788 common_voice_sk_25705077.mp3 Aruba
+cv_slk_000789 common_voice_sk_25705078.mp3 V prípade geografického pohľadu je opäť dominujúcim Bratislavský kraj.
+cv_slk_000790 common_voice_sk_25705079.mp3 lepší
+cv_slk_000791 common_voice_sk_25705080.mp3 kilogram; kilo
+cv_slk_000792 common_voice_sk_29071275.mp3 objímka
+cv_slk_000793 common_voice_sk_29071277.mp3 ilium
+cv_slk_000794 common_voice_sk_29071280.mp3 kozmetik; kozmetička
+cv_slk_000795 common_voice_sk_29071282.mp3 Buffalo
+cv_slk_000796 common_voice_sk_29071283.mp3 jačanie; škripot
+cv_slk_000797 common_voice_sk_29071353.mp3 krátkodobý
+cv_slk_000798 common_voice_sk_29071355.mp3 Gaza; pásmo Gazy
+cv_slk_000799 common_voice_sk_29071356.mp3 nepriamy podvod
+cv_slk_000800 common_voice_sk_29071357.mp3 Ohio
+cv_slk_000801 common_voice_sk_29071358.mp3 Orizaba
+cv_slk_000802 common_voice_sk_29071438.mp3 komplex; komplex budov
+cv_slk_000803 common_voice_sk_29071440.mp3 Vypni stroj tlačítkom Stop!
+cv_slk_000804 common_voice_sk_29071441.mp3 angličtina
+cv_slk_000805 common_voice_sk_29071442.mp3 hlasovanie o dôvere
+cv_slk_000806 common_voice_sk_29071443.mp3 hod mincou
+cv_slk_000807 common_voice_sk_29071627.mp3 odstránenie; zbavenie sa
+cv_slk_000808 common_voice_sk_29071629.mp3 Aká je teplota vonku?
+cv_slk_000809 common_voice_sk_29071630.mp3 morálny; mravný
+cv_slk_000810 common_voice_sk_29071631.mp3 „Čo si ma tak, bože, navštívil a nezmiloval sa radšej nad týmito deťmi“
+cv_slk_000811 common_voice_sk_29071634.mp3 oblasť; zóna
+cv_slk_000812 common_voice_sk_29071687.mp3 kočiš
+cv_slk_000813 common_voice_sk_28563169.mp3 fúz
+cv_slk_000814 common_voice_sk_28563171.mp3 koľaje; železničná trať
+cv_slk_000815 common_voice_sk_28563173.mp3 a nie viac ako desať mm.
+cv_slk_000816 common_voice_sk_28563223.mp3 atletické vybavenie; atletické príslušenstvo
+cv_slk_000817 common_voice_sk_28563224.mp3 leptón
+cv_slk_000818 common_voice_sk_28563225.mp3 batéria automobilu; autobatéria
+cv_slk_000819 common_voice_sk_28563226.mp3 kúpele
+cv_slk_000820 common_voice_sk_28563227.mp3 lieky s protizápalových účinkom
+cv_slk_000821 common_voice_sk_28563254.mp3 kto robí hluk; čo robí hluk
+cv_slk_000822 common_voice_sk_28563255.mp3 bronzový
+cv_slk_000823 common_voice_sk_28563256.mp3 horor; hrôza
+cv_slk_000824 common_voice_sk_28563276.mp3 korisť
+cv_slk_000825 common_voice_sk_28563277.mp3 rozvedený
+cv_slk_000826 common_voice_sk_28563279.mp3 hazardná hra o peniaze
+cv_slk_000827 common_voice_sk_28563280.mp3 letný
+cv_slk_000828 common_voice_sk_28648797.mp3 nadplecok
+cv_slk_000829 common_voice_sk_28648798.mp3 mierny; jemný
+cv_slk_000830 common_voice_sk_28648799.mp3 kyslý
+cv_slk_000831 common_voice_sk_28657082.mp3 Lukáš; Evanjelium podľa Lukáša
+cv_slk_000832 common_voice_sk_28657083.mp3 mierny; pokojný; vyrovnaný
+cv_slk_000833 common_voice_sk_28657085.mp3 okno automobilu; okno vozidla
+cv_slk_000834 common_voice_sk_28657086.mp3 osud
+cv_slk_000835 common_voice_sk_28657087.mp3 Bezpečnostná rada OeSeN
+cv_slk_000836 common_voice_sk_25257889.mp3 jednoduchý úrok
+cv_slk_000837 common_voice_sk_25257892.mp3 generácia; pokolenie
+cv_slk_000838 common_voice_sk_25257893.mp3 index producentských cien; index cien výrobcov; index zmien veľkoobchodných cien
+cv_slk_000839 common_voice_sk_25257894.mp3 každodenný; dennodenný
+cv_slk_000840 common_voice_sk_25257895.mp3 Poskytovanie informácií verejnosti
+cv_slk_000841 common_voice_sk_25257973.mp3 uvedený; zahrnutý do zoznamu; zaradený na zoznam
+cv_slk_000842 common_voice_sk_25257974.mp3 aritmetická operácia
+cv_slk_000843 common_voice_sk_25257975.mp3 Na prípravu palačiniek potrebujeme mlieko, špetku soli, hladkú múku, vajíčka.
+cv_slk_000844 common_voice_sk_25257976.mp3 cirkadiánny; denný
+cv_slk_000845 common_voice_sk_25257977.mp3 ohanbie; vonkajšie ženské ústroje
+cv_slk_000846 common_voice_sk_25258343.mp3 linka; dátová linka; dátové spojenie
+cv_slk_000847 common_voice_sk_25258344.mp3 kontaktná fotografia; kópia
+cv_slk_000848 common_voice_sk_25258345.mp3 Ladožské jazero; Ladoga
+cv_slk_000849 common_voice_sk_25258346.mp3 Gomora
+cv_slk_000850 common_voice_sk_25258347.mp3 eucharistia
+cv_slk_000851 common_voice_sk_25258369.mp3 ľudový komisár
+cv_slk_000852 common_voice_sk_25258370.mp3 jarný príliv
+cv_slk_000853 common_voice_sk_25258371.mp3 oko za oko, zub za zub
+cv_slk_000854 common_voice_sk_25258372.mp3 hady; podrad hady; Ophidia; podrad Ophidia
+cv_slk_000855 common_voice_sk_25258373.mp3 miestny výbor; mašinéria; porada; stranícka schôdza; miestny výbor strany
+cv_slk_000856 common_voice_sk_25258402.mp3 Tieto môžu zanechávať stopy, ktoré sa najmä v kombinácii s jedinečnými identifikátormi
+cv_slk_000857 common_voice_sk_25258403.mp3 ofenzívny; výbojný
+cv_slk_000858 common_voice_sk_25258404.mp3 paralelný
+cv_slk_000859 common_voice_sk_25258405.mp3 ľadový hokej
+cv_slk_000860 common_voice_sk_25258406.mp3 kino
+cv_slk_000861 common_voice_sk_26379263.mp3 optika
+cv_slk_000862 common_voice_sk_26379264.mp3 anglický
+cv_slk_000863 common_voice_sk_26379265.mp3 Creative Commons ponúka škálu rôznych licenčných schém.
+cv_slk_000864 common_voice_sk_26379266.mp3 nádvorie
+cv_slk_000865 common_voice_sk_26379267.mp3 idiot; imbecil; kretén; retard
+cv_slk_000866 common_voice_sk_26379268.mp3 uprednostňovaný; preferovaný
+cv_slk_000867 common_voice_sk_26379269.mp3 bradavičnatý; pokrytý bradavicami
+cv_slk_000868 common_voice_sk_26379270.mp3 kukurica; kukuričný klas
+cv_slk_000869 common_voice_sk_26379271.mp3 hluchá osoba
+cv_slk_000870 common_voice_sk_26379272.mp3 miera úmrtnosti; úmrtnosť
+cv_slk_000871 common_voice_sk_26379273.mp3 americký
+cv_slk_000872 common_voice_sk_26379274.mp3 normanská architektúra
+cv_slk_000873 common_voice_sk_26379275.mp3 Stará bronzová doba bola v okolí dnešných Košíc reprezentovaná koštianskou kultúrou.
+cv_slk_000874 common_voice_sk_26379276.mp3 obvod; okruh; obeh
+cv_slk_000875 common_voice_sk_26379277.mp3 Zvláštnu zmienku si zasluhujú plastiky súsošia košickej Kalvárie.
+cv_slk_000876 common_voice_sk_26379280.mp3 Aká je teplota v spálni?
+cv_slk_000877 common_voice_sk_26379281.mp3 Rodové majetky Abovcov sa rozprestierali vo východnej časti kráľovstva v podhorí Matry.

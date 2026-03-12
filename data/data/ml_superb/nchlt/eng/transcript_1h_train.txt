@@ -1,0 +1,1362 @@
+nchlt_eng_000001	nchlt_eng/audio/169/nchlt_eng_169f_0274.wav	sash
+nchlt_eng_000002	nchlt_eng/audio/133/nchlt_eng_133m_0092.wav	night football game
+nchlt_eng_000003	nchlt_eng/audio/113/nchlt_eng_113m_0319.wav	otto von bismarck
+nchlt_eng_000004	nchlt_eng/audio/110/nchlt_eng_110f_0217.wav	people from newark new jersey
+nchlt_eng_000005	nchlt_eng/audio/068/nchlt_eng_068f_0356.wav	bay
+nchlt_eng_000006	nchlt_eng/audio/008/nchlt_eng_008f_0206.wav	newington
+nchlt_eng_000007	nchlt_eng/audio/197/nchlt_eng_197m_0437.wav	special jury prize
+nchlt_eng_000008	nchlt_eng/audio/154/nchlt_eng_154m_0625.wav	forest underwent logging
+nchlt_eng_000009	nchlt_eng/audio/192/nchlt_eng_192m_0310.wav	south west england
+nchlt_eng_000010	nchlt_eng/audio/064/nchlt_eng_064m_0201.wav	lighting division headquarters
+nchlt_eng_000011	nchlt_eng/audio/111/nchlt_eng_111m_0074.wav	gdp growth rate
+nchlt_eng_000012	nchlt_eng/audio/131/nchlt_eng_131m_0721.wav	random access memory
+nchlt_eng_000013	nchlt_eng/audio/121/nchlt_eng_121f_0014.wav	war soldiers orphans
+nchlt_eng_000014	nchlt_eng/audio/032/nchlt_eng_032m_0423.wav	minimum wage laws
+nchlt_eng_000015	nchlt_eng/audio/015/nchlt_eng_015f_0457.wav	festival takes place
+nchlt_eng_000016	nchlt_eng/audio/031/nchlt_eng_031f_0677.wav	subset sum problem
+nchlt_eng_000017	nchlt_eng/audio/079/nchlt_eng_079m_0236.wav	beneath grade levels
+nchlt_eng_000018	nchlt_eng/audio/158/nchlt_eng_158m_0134.wav	states naval academy
+nchlt_eng_000019	nchlt_eng/audio/049/nchlt_eng_049m_0435.wav	safe drinking water
+nchlt_eng_000020	nchlt_eng/audio/054/nchlt_eng_054m_0474.wav	antipope gregory
+nchlt_eng_000021	nchlt_eng/audio/100/nchlt_eng_100m_0612.wav	polish engineers
+nchlt_eng_000022	nchlt_eng/audio/188/nchlt_eng_188f_0195.wav	new zealand army
+nchlt_eng_000023	nchlt_eng/audio/147/nchlt_eng_147m_0282.wav	american football conference
+nchlt_eng_000024	nchlt_eng/audio/143/nchlt_eng_143m_0441.wav	topological vector space
+nchlt_eng_000025	nchlt_eng/audio/103/nchlt_eng_103m_0362.wav	records barney went
+nchlt_eng_000026	nchlt_eng/audio/025/nchlt_eng_025f_0398.wav	history of computing
+nchlt_eng_000027	nchlt_eng/audio/202/nchlt_eng_202m_0175.wav	aga khan development network
+nchlt_eng_000028	nchlt_eng/audio/006/nchlt_eng_006m_0443.wav	rulers of sparta
+nchlt_eng_000029	nchlt_eng/audio/020/nchlt_eng_020f_0509.wav	fictional flightless birds
+nchlt_eng_000030	nchlt_eng/audio/090/nchlt_eng_090m_0021.wav	highest judicial authority
+nchlt_eng_000031	nchlt_eng/audio/036/nchlt_eng_036f_0208.wav	national league east
+nchlt_eng_000032	nchlt_eng/audio/061/nchlt_eng_061m_0262.wav	british north america
+nchlt_eng_000033	nchlt_eng/audio/142/nchlt_eng_142m_0549.wav	word games
+nchlt_eng_000034	nchlt_eng/audio/041/nchlt_eng_041m_0440.wav	inspecting medical facilities
+nchlt_eng_000035	nchlt_eng/audio/088/nchlt_eng_088f_0490.wav	tragic poets
+nchlt_eng_000036	nchlt_eng/audio/201/nchlt_eng_201m_0169.wav	twenty
+nchlt_eng_000037	nchlt_eng/audio/149/nchlt_eng_149m_0136.wav	legal political party
+nchlt_eng_000038	nchlt_eng/audio/058/nchlt_eng_058f_0196.wav	dvd box set
+nchlt_eng_000039	nchlt_eng/audio/197/nchlt_eng_197m_0419.wav	helium core supported
+nchlt_eng_000040	nchlt_eng/audio/095/nchlt_eng_095m_0173.wav	american people convicted
+nchlt_eng_000041	nchlt_eng/audio/133/nchlt_eng_133m_0151.wav	buke
+nchlt_eng_000042	nchlt_eng/audio/110/nchlt_eng_110f_0229.wav	common examples include
+nchlt_eng_000043	nchlt_eng/audio/011/nchlt_eng_011m_0055.wav	passenger rail service
+nchlt_eng_000044	nchlt_eng/audio/114/nchlt_eng_114f_0007.wav	heroes looked like
+nchlt_eng_000045	nchlt_eng/audio/104/nchlt_eng_104f_0017.wav	university law school
+nchlt_eng_000046	nchlt_eng/audio/092/nchlt_eng_092m_0215.wav	decision making process
+nchlt_eng_000047	nchlt_eng/audio/050/nchlt_eng_050m_0226.wav	number theory
+nchlt_eng_000048	nchlt_eng/audio/188/nchlt_eng_188f_0040.wav	north american english
+nchlt_eng_000049	nchlt_eng/audio/164/nchlt_eng_164m_0149.wav	development took place
+nchlt_eng_000050	nchlt_eng/audio/108/nchlt_eng_108f_0506.wav	organisation of the islamic conference members
+nchlt_eng_000051	nchlt_eng/audio/089/nchlt_eng_089m_0105.wav	science fiction awards
+nchlt_eng_000052	nchlt_eng/audio/051/nchlt_eng_051f_0234.wav	special path attribute
+nchlt_eng_000053	nchlt_eng/audio/031/nchlt_eng_031f_0031.wav	test scores [s]
+nchlt_eng_000054	nchlt_eng/audio/064/nchlt_eng_064m_0089.wav	following table lists
+nchlt_eng_000055	nchlt_eng/audio/149/nchlt_eng_149m_0364.wav	frankfort
+nchlt_eng_000056	nchlt_eng/audio/202/nchlt_eng_202m_0282.wav	somerset
+nchlt_eng_000057	nchlt_eng/audio/099/nchlt_eng_099f_0383.wav	british east india
+nchlt_eng_000058	nchlt_eng/audio/132/nchlt_eng_132m_0124.wav	nations development programme
+nchlt_eng_000059	nchlt_eng/audio/150/nchlt_eng_150m_0189.wav	implementation used punched
+nchlt_eng_000060	nchlt_eng/audio/125/nchlt_eng_125f_0506.wav	rail transport in angola
+nchlt_eng_000061	nchlt_eng/audio/182/nchlt_eng_182m_0455.wav	international
+nchlt_eng_000062	nchlt_eng/audio/158/nchlt_eng_158m_0088.wav	cause economic problems
+nchlt_eng_000063	nchlt_eng/audio/197/nchlt_eng_197m_0108.wav	pro tools software
+nchlt_eng_000064	nchlt_eng/audio/166/nchlt_eng_166f_0380.wav	band tried simon
+nchlt_eng_000065	nchlt_eng/audio/178/nchlt_eng_178f_0122.wav	national inventors hall
+nchlt_eng_000066	nchlt_eng/audio/039/nchlt_eng_039m_0316.wav	islands included alfred
+nchlt_eng_000067	nchlt_eng/audio/107/nchlt_eng_107f_0400.wav	murdered roman empresses
+nchlt_eng_000068	nchlt_eng/audio/019/nchlt_eng_019f_0189.wav	canadian interuniversity sport
+nchlt_eng_000069	nchlt_eng/audio/068/nchlt_eng_068f_0495.wav	english television actors
+nchlt_eng_000070	nchlt_eng/audio/076/nchlt_eng_076m_0379.wav	national democratic alliance
+nchlt_eng_000071	nchlt_eng/audio/157/nchlt_eng_157m_0441.wav	movable type printing
+nchlt_eng_000072	nchlt_eng/audio/056/nchlt_eng_056m_0216.wav	small jewish community
+nchlt_eng_000073	nchlt_eng/audio/085/nchlt_eng_085f_0006.wav	self titled second album
+nchlt_eng_000074	nchlt_eng/audio/195/nchlt_eng_195f_0192.wav	largest trade partner
+nchlt_eng_000075	nchlt_eng/audio/153/nchlt_eng_153m_0445.wav	pilgrim's
+nchlt_eng_000076	nchlt_eng/audio/073/nchlt_eng_073f_0396.wav	afghan air force
+nchlt_eng_000077	nchlt_eng/audio/149/nchlt_eng_149m_0432.wav	seeking majority ownership
+nchlt_eng_000078	nchlt_eng/audio/147/nchlt_eng_147m_0061.wav	minor league baseball
+nchlt_eng_000079	nchlt_eng/audio/086/nchlt_eng_086f_0192.wav	offspring of aphrodite
+nchlt_eng_000080	nchlt_eng/audio/025/nchlt_eng_025f_0027.wav	scientific journal nature
+nchlt_eng_000081	nchlt_eng/audio/184/nchlt_eng_184f_0407.wav	hydrographic organization defines
+nchlt_eng_000082	nchlt_eng/audio/034/nchlt_eng_034f_0173.wav	janata party [s] bjp
+nchlt_eng_000083	nchlt_eng/audio/146/nchlt_eng_146m_0360.wav	nuclear materials
+nchlt_eng_000084	nchlt_eng/audio/114/nchlt_eng_114f_0465.wav	language families
+nchlt_eng_000085	nchlt_eng/audio/172/nchlt_eng_172f_0164.wav	particularly distinguished civilization
+nchlt_eng_000086	nchlt_eng/audio/111/nchlt_eng_111m_0216.wav	royal air force
+nchlt_eng_000087	nchlt_eng/audio/146/nchlt_eng_146m_0012.wav	liberian civil war
+nchlt_eng_000088	nchlt_eng/audio/126/nchlt_eng_126f_0454.wav	comic book character
+nchlt_eng_000089	nchlt_eng/audio/182/nchlt_eng_182m_0614.wav	aldrin
+nchlt_eng_000090	nchlt_eng/audio/060/nchlt_eng_060m_0418.wav	largest natural gas
+nchlt_eng_000091	nchlt_eng/audio/164/nchlt_eng_164m_0647.wav	kent state university
+nchlt_eng_000092	nchlt_eng/audio/105/nchlt_eng_105m_0407.wav	false claims act
+nchlt_eng_000093	nchlt_eng/audio/128/nchlt_eng_128f_0588.wav	southern united states
+nchlt_eng_000094	nchlt_eng/audio/130/nchlt_eng_130f_0017.wav	new armed forces
+nchlt_eng_000095	nchlt_eng/audio/026/nchlt_eng_026m_0180.wav	evangelical lutheran church
+nchlt_eng_000096	nchlt_eng/audio/081/nchlt_eng_081f_0092.wav	recreation
+nchlt_eng_000097	nchlt_eng/audio/118/nchlt_eng_118f_0615.wav	president
+nchlt_eng_000098	nchlt_eng/audio/104/nchlt_eng_104f_0513.wav	bit resolution used
+nchlt_eng_000099	nchlt_eng/audio/190/nchlt_eng_190f_0398.wav	federal constitutional court
+nchlt_eng_000100	nchlt_eng/audio/096/nchlt_eng_096m_0608.wav	richmond
+nchlt_eng_000101	nchlt_eng/audio/198/nchlt_eng_198f_0143.wav	new south wales
+nchlt_eng_000102	nchlt_eng/audio/202/nchlt_eng_202m_0403.wav	hughes medical institute
+nchlt_eng_000103	nchlt_eng/audio/150/nchlt_eng_150m_0512.wav	large trade deficit
+nchlt_eng_000104	nchlt_eng/audio/152/nchlt_eng_152m_0098.wav	american hockey league
+nchlt_eng_000105	nchlt_eng/audio/142/nchlt_eng_142m_0628.wav	city's corporation trams
+nchlt_eng_000106	nchlt_eng/audio/054/nchlt_eng_054m_0002.wav	chemical elements
+nchlt_eng_000107	nchlt_eng/audio/103/nchlt_eng_103m_0326.wav	physiographic provinces
+nchlt_eng_000108	nchlt_eng/audio/125/nchlt_eng_125f_0528.wav	defense secretary robert
+nchlt_eng_000109	nchlt_eng/audio/034/nchlt_eng_034f_0341.wav	english methodist immigrants
+nchlt_eng_000110	nchlt_eng/audio/170/nchlt_eng_170m_0523.wav	near eastern countries
+nchlt_eng_000111	nchlt_eng/audio/056/nchlt_eng_056m_0389.wav	russian emperors
+nchlt_eng_000112	nchlt_eng/audio/041/nchlt_eng_041m_0114.wav	major international airport
+nchlt_eng_000113	nchlt_eng/audio/160/nchlt_eng_160m_0045.wav	football team based
+nchlt_eng_000114	nchlt_eng/audio/197/nchlt_eng_197m_0327.wav	free market policies
+nchlt_eng_000115	nchlt_eng/audio/083/nchlt_eng_083m_0420.wav	great salt lake
+nchlt_eng_000116	nchlt_eng/audio/019/nchlt_eng_019f_0004.wav	names of god
+nchlt_eng_000117	nchlt_eng/audio/093/nchlt_eng_093f_0353.wav	boas got older
+nchlt_eng_000118	nchlt_eng/audio/041/nchlt_eng_041m_0090.wav	ambitious anticorruption campaign
+nchlt_eng_000119	nchlt_eng/audio/106/nchlt_eng_106f_0342.wav	called peg public
+nchlt_eng_000120	nchlt_eng/audio/143/nchlt_eng_143m_0078.wav	received positive reviews
+nchlt_eng_000121	nchlt_eng/audio/060/nchlt_eng_060m_0987.wav	ford motor company
+nchlt_eng_000122	nchlt_eng/audio/087/nchlt_eng_087f_0339.wav	american technology writers
+nchlt_eng_000123	nchlt_eng/audio/077/nchlt_eng_077f_0032.wav	north korean government
+nchlt_eng_000124	nchlt_eng/audio/063/nchlt_eng_063m_0104.wav	category a listed buildings
+nchlt_eng_000125	nchlt_eng/audio/162/nchlt_eng_162m_0591.wav	sprang
+nchlt_eng_000126	nchlt_eng/audio/142/nchlt_eng_142m_0599.wav	june
+nchlt_eng_000127	nchlt_eng/audio/051/nchlt_eng_051f_0359.wav	constraint logic programming
+nchlt_eng_000128	nchlt_eng/audio/057/nchlt_eng_057m_0426.wav	east india company
+nchlt_eng_000129	nchlt_eng/audio/091/nchlt_eng_091f_0433.wav	elected prime minister
+nchlt_eng_000130	nchlt_eng/audio/031/nchlt_eng_031f_0990.wav	nordic bronze age
+nchlt_eng_000131	nchlt_eng/audio/093/nchlt_eng_093f_0211.wav	acidic molecules directly
+nchlt_eng_000132	nchlt_eng/audio/197/nchlt_eng_197m_0269.wav	utah war american civil war
+nchlt_eng_000133	nchlt_eng/audio/166/nchlt_eng_166f_0306.wav	british progressive rock groups
+nchlt_eng_000134	nchlt_eng/audio/119/nchlt_eng_119f_0226.wav	cases involve situations
+nchlt_eng_000135	nchlt_eng/audio/054/nchlt_eng_054m_0334.wav	american football league
+nchlt_eng_000136	nchlt_eng/audio/191/nchlt_eng_191f_0211.wav	cyclones frequent hong
+nchlt_eng_000137	nchlt_eng/audio/126/nchlt_eng_126f_0423.wav	noah
+nchlt_eng_000138	nchlt_eng/audio/076/nchlt_eng_076m_0154.wav	york times magazine
+nchlt_eng_000139	nchlt_eng/audio/115/nchlt_eng_115f_0382.wav	collet neck sizing
+nchlt_eng_000140	nchlt_eng/audio/005/nchlt_eng_005m_0106.wav	figure skating championships
+nchlt_eng_000141	nchlt_eng/audio/127/nchlt_eng_127m_0287.wav	computer companies of the united states
+nchlt_eng_000142	nchlt_eng/audio/129/nchlt_eng_129m_0161.wav	sri lankan tamil
+nchlt_eng_000143	nchlt_eng/audio/113/nchlt_eng_113m_0131.wav	english people of irish descent
+nchlt_eng_000144	nchlt_eng/audio/090/nchlt_eng_090m_0135.wav	black sea region
+nchlt_eng_000145	nchlt_eng/audio/073/nchlt_eng_073f_0040.wav	west coast of the united states
+nchlt_eng_000146	nchlt_eng/audio/183/nchlt_eng_183f_0540.wav	west slavic languages
+nchlt_eng_000147	nchlt_eng/audio/195/nchlt_eng_195f_0174.wav	american airlines vacations
+nchlt_eng_000148	nchlt_eng/audio/087/nchlt_eng_087f_0381.wav	major international airport
+nchlt_eng_000149	nchlt_eng/audio/050/nchlt_eng_050m_0505.wav	fast leg theory
+nchlt_eng_000150	nchlt_eng/audio/181/nchlt_eng_181f_0479.wav	fighter experimental
+nchlt_eng_000151	nchlt_eng/audio/016/nchlt_eng_016f_0384.wav	early childhood education
+nchlt_eng_000152	nchlt_eng/audio/151/nchlt_eng_151m_0414.wav	double headed minoan axe
+nchlt_eng_000153	nchlt_eng/audio/117/nchlt_eng_117f_0280.wav	grant's
+nchlt_eng_000154	nchlt_eng/audio/185/nchlt_eng_185m_0070.wav	pope john
+nchlt_eng_000155	nchlt_eng/audio/093/nchlt_eng_093f_0216.wav	english astrological writers
+nchlt_eng_000156	nchlt_eng/audio/038/nchlt_eng_038m_0368.wav	covariant tensor equations
+nchlt_eng_000157	nchlt_eng/audio/039/nchlt_eng_039m_0466.wav	cuban missile crisis
+nchlt_eng_000158	nchlt_eng/audio/107/nchlt_eng_107f_0200.wav	roman catholic archdiocese
+nchlt_eng_000159	nchlt_eng/audio/141/nchlt_eng_141m_0475.wav	christian social union
+nchlt_eng_000160	nchlt_eng/audio/188/nchlt_eng_188f_0363.wav	los angeles area
+nchlt_eng_000161	nchlt_eng/audio/041/nchlt_eng_041m_0429.wav	inorganic solvents
+nchlt_eng_000162	nchlt_eng/audio/051/nchlt_eng_051f_0197.wav	programming language implementation
+nchlt_eng_000163	nchlt_eng/audio/033/nchlt_eng_033m_0110.wav	fixed point theorem
+nchlt_eng_000164	nchlt_eng/audio/018/nchlt_eng_018m_0072.wav	milky way galaxy
+nchlt_eng_000165	nchlt_eng/audio/156/nchlt_eng_156m_0405.wav	war political
+nchlt_eng_000166	nchlt_eng/audio/158/nchlt_eng_158m_0335.wav	clean air act
+nchlt_eng_000167	nchlt_eng/audio/085/nchlt_eng_085f_0296.wav	ancient indian physicians
+nchlt_eng_000168	nchlt_eng/audio/033/nchlt_eng_033m_0408.wav	artificial intelligence
+nchlt_eng_000169	nchlt_eng/audio/160/nchlt_eng_160m_0308.wav	eastern bloc countries
+nchlt_eng_000170	nchlt_eng/audio/115/nchlt_eng_115f_0134.wav	sherman's
+nchlt_eng_000171	nchlt_eng/audio/039/nchlt_eng_039m_0426.wav	modern programming languages
+nchlt_eng_000172	nchlt_eng/audio/002/nchlt_eng_002m_0363.wav	raspberry award winners
+nchlt_eng_000173	nchlt_eng/audio/039/nchlt_eng_039m_0430.wav	ice skating works
+nchlt_eng_000174	nchlt_eng/audio/030/nchlt_eng_030f_0092.wav	orthodox monarchs
+nchlt_eng_000175	nchlt_eng/audio/158/nchlt_eng_158m_0356.wav	relativity does allow
+nchlt_eng_000176	nchlt_eng/audio/163/nchlt_eng_163m_0509.wav	national capital region
+nchlt_eng_000177	nchlt_eng/audio/176/nchlt_eng_176f_0288.wav	university press location
+nchlt_eng_000178	nchlt_eng/audio/082/nchlt_eng_082f_0097.wav	citation needed november
+nchlt_eng_000179	nchlt_eng/audio/056/nchlt_eng_056m_0324.wav	atlantic treaty organisation
+nchlt_eng_000180	nchlt_eng/audio/079/nchlt_eng_079m_0324.wav	juvenal
+nchlt_eng_000181	nchlt_eng/audio/083/nchlt_eng_083m_0311.wav	primarily religious focus
+nchlt_eng_000182	nchlt_eng/audio/068/nchlt_eng_068f_0240.wav	russian emperors
+nchlt_eng_000183	nchlt_eng/audio/079/nchlt_eng_079m_0151.wav	tone equal temperament
+nchlt_eng_000184	nchlt_eng/audio/035/nchlt_eng_035m_0180.wav	liberation army spla
+nchlt_eng_000185	nchlt_eng/audio/055/nchlt_eng_055m_0304.wav	soviet prisoners and detainees
+nchlt_eng_000186	nchlt_eng/audio/111/nchlt_eng_111m_0187.wav	important trading partner
+nchlt_eng_000187	nchlt_eng/audio/085/nchlt_eng_085f_0503.wav	novello award winners
+nchlt_eng_000188	nchlt_eng/audio/117/nchlt_eng_117f_0274.wav	international air transport
+nchlt_eng_000189	nchlt_eng/audio/173/nchlt_eng_173f_0057.wav	hayward high school
+nchlt_eng_000190	nchlt_eng/audio/182/nchlt_eng_182m_0354.wav	general topological spaces
+nchlt_eng_000191	nchlt_eng/audio/097/nchlt_eng_097f_0483.wav	gold glove award
+nchlt_eng_000192	nchlt_eng/audio/167/nchlt_eng_167m_0165.wav	canadian pacific announced
+nchlt_eng_000193	nchlt_eng/audio/054/nchlt_eng_054m_0129.wav	agriculture
+nchlt_eng_000194	nchlt_eng/audio/031/nchlt_eng_031f_0288.wav	north german confederation
+nchlt_eng_000195	nchlt_eng/audio/141/nchlt_eng_141m_0369.wav	united nations framework
+nchlt_eng_000196	nchlt_eng/audio/201/nchlt_eng_201m_0153.wav	magnetic field lines
+nchlt_eng_000197	nchlt_eng/audio/147/nchlt_eng_147m_0123.wav	president franklin
+nchlt_eng_000198	nchlt_eng/audio/117/nchlt_eng_117f_0140.wav	people associated with electricity
+nchlt_eng_000199	nchlt_eng/audio/053/nchlt_eng_053m_0479.wav	assistance force isaf
+nchlt_eng_000200	nchlt_eng/audio/169/nchlt_eng_169f_0139.wav	strengthened state street's
+nchlt_eng_000201	nchlt_eng/audio/103/nchlt_eng_103m_0533.wav	nazi germany ministers
+nchlt_eng_000202	nchlt_eng/audio/093/nchlt_eng_093f_0624.wav	movie award winners
+nchlt_eng_000203	nchlt_eng/audio/014/nchlt_eng_014m_0235.wav	electronic analog computers
+nchlt_eng_000204	nchlt_eng/audio/050/nchlt_eng_050m_0179.wav	economy of american samoa
+nchlt_eng_000205	nchlt_eng/audio/138/nchlt_eng_138m_0250.wav	harry
+nchlt_eng_000206	nchlt_eng/audio/017/nchlt_eng_017f_0227.wav	village west area
+nchlt_eng_000207	nchlt_eng/audio/032/nchlt_eng_032m_0493.wav	may
+nchlt_eng_000208	nchlt_eng/audio/018/nchlt_eng_018m_0021.wav	holy spirit proceeds
+nchlt_eng_000209	nchlt_eng/audio/165/nchlt_eng_165m_0363.wav	fixtures currently include
+nchlt_eng_000210	nchlt_eng/audio/111/nchlt_eng_111m_0478.wav	marvel comics characters
+nchlt_eng_000211	nchlt_eng/audio/101/nchlt_eng_101f_0352.wav	content management systems
+nchlt_eng_000212	nchlt_eng/audio/124/nchlt_eng_124f_0367.wav	opera composers
+nchlt_eng_000213	nchlt_eng/audio/132/nchlt_eng_132m_0531.wav	pagan folk religions
+nchlt_eng_000214	nchlt_eng/audio/142/nchlt_eng_142m_0366.wav	originally the name
+nchlt_eng_000215	nchlt_eng/audio/003/nchlt_eng_003m_0340.wav	allemansdrift
+nchlt_eng_000216	nchlt_eng/audio/168/nchlt_eng_168f_0200.wav	historians of science
+nchlt_eng_000217	nchlt_eng/audio/159/nchlt_eng_159m_0166.wav	english comedy writers
+nchlt_eng_000218	nchlt_eng/audio/202/nchlt_eng_202m_0527.wav	florida
+nchlt_eng_000219	nchlt_eng/audio/134/nchlt_eng_134m_0179.wav	lunar human spaceflights
+nchlt_eng_000220	nchlt_eng/audio/037/nchlt_eng_037m_0083.wav	fast leg theory
+nchlt_eng_000221	nchlt_eng/audio/028/nchlt_eng_028m_0171.wav	relational database management
+nchlt_eng_000222	nchlt_eng/audio/070/nchlt_eng_070f_0145.wav	multiplayer online games
+nchlt_eng_000223	nchlt_eng/audio/149/nchlt_eng_149m_0388.wav	network models employed
+nchlt_eng_000224	nchlt_eng/audio/145/nchlt_eng_145m_0066.wav	york city police
+nchlt_eng_000225	nchlt_eng/audio/106/nchlt_eng_106f_0336.wav	currency exchange rates
+nchlt_eng_000226	nchlt_eng/audio/106/nchlt_eng_106f_0414.wav	greek orthodox church
+nchlt_eng_000227	nchlt_eng/audio/189/nchlt_eng_189f_0608.wav	president ronald reagan
+nchlt_eng_000228	nchlt_eng/audio/050/nchlt_eng_050m_0013.wav	musical groups reestablished
+nchlt_eng_000229	nchlt_eng/audio/149/nchlt_eng_149m_0305.wav	economy of armenia
+nchlt_eng_000230	nchlt_eng/audio/142/nchlt_eng_142m_0547.wav	global conflicts
+nchlt_eng_000231	nchlt_eng/audio/028/nchlt_eng_028m_0046.wav	state's total surface
+nchlt_eng_000232	nchlt_eng/audio/053/nchlt_eng_053m_0112.wav	elected prime minister
+nchlt_eng_000233	nchlt_eng/audio/145/nchlt_eng_145m_0481.wav	american civil liberties
+nchlt_eng_000234	nchlt_eng/audio/076/nchlt_eng_076m_0195.wav	brunswick southern railway
+nchlt_eng_000235	nchlt_eng/audio/181/nchlt_eng_181f_0100.wav	people from saint petersburg
+nchlt_eng_000236	nchlt_eng/audio/176/nchlt_eng_176f_0280.wav	american film producers
+nchlt_eng_000237	nchlt_eng/audio/091/nchlt_eng_091f_0337.wav	data encryption standard
+nchlt_eng_000238	nchlt_eng/audio/047/nchlt_eng_047m_0061.wav	long range linguistics gave
+nchlt_eng_000239	nchlt_eng/audio/152/nchlt_eng_152m_0563.wav	calendar eras
+nchlt_eng_000240	nchlt_eng/audio/055/nchlt_eng_055m_0166.wav	celtic fusion groups
+nchlt_eng_000241	nchlt_eng/audio/093/nchlt_eng_093f_0034.wav	incompleteness theorem constructs
+nchlt_eng_000242	nchlt_eng/audio/201/nchlt_eng_201m_0234.wav	langton
+nchlt_eng_000243	nchlt_eng/audio/157/nchlt_eng_157m_0025.wav	george mason university
+nchlt_eng_000244	nchlt_eng/audio/061/nchlt_eng_061m_0384.wav	human anatomy
+nchlt_eng_000245	nchlt_eng/audio/097/nchlt_eng_097f_0361.wav	candidate alan kelly
+nchlt_eng_000246	nchlt_eng/audio/109/nchlt_eng_109f_0127.wav	potential bodily harm
+nchlt_eng_000247	nchlt_eng/audio/161/nchlt_eng_161m_0141.wav	joint stock company
+nchlt_eng_000248	nchlt_eng/audio/178/nchlt_eng_178f_0562.wav	york city subway
+nchlt_eng_000249	nchlt_eng/audio/155/nchlt_eng_155m_0342.wav	using virtual private
+nchlt_eng_000250	nchlt_eng/audio/088/nchlt_eng_088f_0083.wav	resumed service
+nchlt_eng_000251	nchlt_eng/audio/072/nchlt_eng_072f_0321.wav	major nazi war
+nchlt_eng_000252	nchlt_eng/audio/136/nchlt_eng_136m_0187.wav	languages of qatar
+nchlt_eng_000253	nchlt_eng/audio/063/nchlt_eng_063m_0215.wav	american inventors
+nchlt_eng_000254	nchlt_eng/audio/031/nchlt_eng_031f_0725.wav	andorra consists of seven parishes
+nchlt_eng_000255	nchlt_eng/audio/111/nchlt_eng_111m_0186.wav	documents of the american revolution
+nchlt_eng_000256	nchlt_eng/audio/053/nchlt_eng_053m_0240.wav	article relates primarily
+nchlt_eng_000257	nchlt_eng/audio/154/nchlt_eng_154m_0307.wav	federal trade commission
+nchlt_eng_000258	nchlt_eng/audio/141/nchlt_eng_141m_0322.wav	national cartoonists society
+nchlt_eng_000259	nchlt_eng/audio/019/nchlt_eng_019f_0388.wav	software components
+nchlt_eng_000260	nchlt_eng/audio/154/nchlt_eng_154m_0118.wav	roman catholic theology
+nchlt_eng_000261	nchlt_eng/audio/161/nchlt_eng_161m_0377.wav	days of the year
+nchlt_eng_000262	nchlt_eng/audio/115/nchlt_eng_115f_0306.wav	new progressive party
+nchlt_eng_000263	nchlt_eng/audio/115/nchlt_eng_115f_0318.wav	british government supported
+nchlt_eng_000264	nchlt_eng/audio/178/nchlt_eng_178f_0042.wav	especially quantum decoherence
+nchlt_eng_000265	nchlt_eng/audio/014/nchlt_eng_014m_0251.wav	air force station
+nchlt_eng_000266	nchlt_eng/audio/106/nchlt_eng_106f_0301.wav	lyon mackenzie king
+nchlt_eng_000267	nchlt_eng/audio/182/nchlt_eng_182m_0390.wav	extension
+nchlt_eng_000268	nchlt_eng/audio/172/nchlt_eng_172f_0268.wav	gdp growth rates
+nchlt_eng_000269	nchlt_eng/audio/167/nchlt_eng_167m_0489.wav	arab league member states
+nchlt_eng_000270	nchlt_eng/audio/053/nchlt_eng_053m_0363.wav	astrological sign called
+nchlt_eng_000271	nchlt_eng/audio/188/nchlt_eng_188f_0053.wav	reducing unnecessary complexity
+nchlt_eng_000272	nchlt_eng/audio/198/nchlt_eng_198f_0469.wav	appomattox
+nchlt_eng_000273	nchlt_eng/audio/094/nchlt_eng_094m_0418.wav	articles including recorded
+nchlt_eng_000274	nchlt_eng/audio/139/nchlt_eng_139m_0353.wav	lions clubs international
+nchlt_eng_000275	nchlt_eng/audio/157/nchlt_eng_157m_0557.wav	short story manga
+nchlt_eng_000276	nchlt_eng/audio/182/nchlt_eng_182m_0068.wav	underground replacement buses
+nchlt_eng_000277	nchlt_eng/audio/143/nchlt_eng_143m_0461.wav	russian soviet federative
+nchlt_eng_000278	nchlt_eng/audio/106/nchlt_eng_106f_0443.wav	greek mythological hero cult
+nchlt_eng_000279	nchlt_eng/audio/189/nchlt_eng_189f_0507.wav	jesus
+nchlt_eng_000280	nchlt_eng/audio/190/nchlt_eng_190f_0320.wav	president george bush
+nchlt_eng_000281	nchlt_eng/audio/163/nchlt_eng_163m_0219.wav	pope urban
+nchlt_eng_000282	nchlt_eng/audio/077/nchlt_eng_077f_0001.wav	purely mechanical techniques
+nchlt_eng_000283	nchlt_eng/audio/124/nchlt_eng_124f_0352.wav	new york film
+nchlt_eng_000284	nchlt_eng/audio/051/nchlt_eng_051f_0232.wav	distinguished service medal
+nchlt_eng_000285	nchlt_eng/audio/078/nchlt_eng_078f_0476.wav	national basketball league
+nchlt_eng_000286	nchlt_eng/audio/078/nchlt_eng_078f_0377.wav	tourism in greece
+nchlt_eng_000287	nchlt_eng/audio/011/nchlt_eng_011m_0341.wav	german philosophers
+nchlt_eng_000288	nchlt_eng/audio/080/nchlt_eng_080f_0154.wav	following world war
+nchlt_eng_000289	nchlt_eng/audio/174/nchlt_eng_174m_0166.wav	naval air station
+nchlt_eng_000290	nchlt_eng/audio/016/nchlt_eng_016f_0306.wav	weak nuclear force
+nchlt_eng_000291	nchlt_eng/audio/088/nchlt_eng_088f_0006.wav	dvd storage media
+nchlt_eng_000292	nchlt_eng/audio/188/nchlt_eng_188f_0407.wav	red hot chili
+nchlt_eng_000293	nchlt_eng/audio/077/nchlt_eng_077f_0444.wav	foreign members of the royal society
+nchlt_eng_000294	nchlt_eng/audio/049/nchlt_eng_049m_0220.wav	densely populated country
+nchlt_eng_000295	nchlt_eng/audio/147/nchlt_eng_147m_0528.wav	conditioning faded away
+nchlt_eng_000296	nchlt_eng/audio/072/nchlt_eng_072f_0091.wav	scottish inventors
+nchlt_eng_000297	nchlt_eng/audio/064/nchlt_eng_064m_0278.wav	remodeled racquetball courts
+nchlt_eng_000298	nchlt_eng/audio/014/nchlt_eng_014m_0065.wav	hong kong government
+nchlt_eng_000299	nchlt_eng/audio/068/nchlt_eng_068f_0129.wav	publicly traded companies
+nchlt_eng_000300	nchlt_eng/audio/048/nchlt_eng_048m_0525.wav	civil society organizations
+nchlt_eng_000301	nchlt_eng/audio/150/nchlt_eng_150m_0409.wav	north carolina state
+nchlt_eng_000302	nchlt_eng/audio/200/nchlt_eng_200f_0503.wav	southwest asian countries
+nchlt_eng_000303	nchlt_eng/audio/175/nchlt_eng_175f_0454.wav	widely spoken dialects
+nchlt_eng_000304	nchlt_eng/audio/137/nchlt_eng_137m_0534.wav	seaborg was granted a patent for
+nchlt_eng_000305	nchlt_eng/audio/021/nchlt_eng_021f_0319.wav	old east norse
+nchlt_eng_000306	nchlt_eng/audio/137/nchlt_eng_137m_0390.wav	grammy hall of fame award recipients
+nchlt_eng_000307	nchlt_eng/audio/100/nchlt_eng_100m_0708.wav	puzzle books
+nchlt_eng_000308	nchlt_eng/audio/119/nchlt_eng_119f_0247.wav	christian democratic parties
+nchlt_eng_000309	nchlt_eng/audio/163/nchlt_eng_163m_0292.wav	ankara province
+nchlt_eng_000310	nchlt_eng/audio/201/nchlt_eng_201m_0160.wav	american stage actors
+nchlt_eng_000311	nchlt_eng/audio/020/nchlt_eng_020f_0425.wav	capitals in asia
+nchlt_eng_000312	nchlt_eng/audio/026/nchlt_eng_026m_0324.wav	whit masterson's novel
+nchlt_eng_000313	nchlt_eng/audio/085/nchlt_eng_085f_0643.wav	major league lacrosse
+nchlt_eng_000314	nchlt_eng/audio/117/nchlt_eng_117f_0503.wav	film techniques
+nchlt_eng_000315	nchlt_eng/audio/032/nchlt_eng_032m_0278.wav	positrons were reported
+nchlt_eng_000316	nchlt_eng/audio/093/nchlt_eng_093f_0425.wav	chemical
+nchlt_eng_000317	nchlt_eng/audio/180/nchlt_eng_180f_0482.wav	main metabolic pathways
+nchlt_eng_000318	nchlt_eng/audio/001/nchlt_eng_001m_0332.wav	newington
+nchlt_eng_000319	nchlt_eng/audio/107/nchlt_eng_107f_0398.wav	north american aerospace
+nchlt_eng_000320	nchlt_eng/audio/159/nchlt_eng_159m_0144.wav	united nations office
+nchlt_eng_000321	nchlt_eng/audio/054/nchlt_eng_054m_0025.wav	opec member states
+nchlt_eng_000322	nchlt_eng/audio/074/nchlt_eng_074m_0331.wav	pollination management
+nchlt_eng_000323	nchlt_eng/audio/194/nchlt_eng_194f_0409.wav	pervasive developmental disorders
+nchlt_eng_000324	nchlt_eng/audio/145/nchlt_eng_145m_0178.wav	renaissance latin writers
+nchlt_eng_000325	nchlt_eng/audio/183/nchlt_eng_183f_0440.wav	infantry fighting vehicle
+nchlt_eng_000326	nchlt_eng/audio/098/nchlt_eng_098m_0435.wav	polycyclic aromatic hydrocarbons
+nchlt_eng_000327	nchlt_eng/audio/149/nchlt_eng_149m_0413.wav	rural space includes
+nchlt_eng_000328	nchlt_eng/audio/154/nchlt_eng_154m_0339.wav	division
+nchlt_eng_000329	nchlt_eng/audio/202/nchlt_eng_202m_0066.wav	operating systems like
+nchlt_eng_000330	nchlt_eng/audio/038/nchlt_eng_038m_0128.wav	baggage train provided
+nchlt_eng_000331	nchlt_eng/audio/063/nchlt_eng_063m_0333.wav	brought heavy censorship
+nchlt_eng_000332	nchlt_eng/audio/050/nchlt_eng_050m_0402.wav	complete metric space
+nchlt_eng_000333	nchlt_eng/audio/117/nchlt_eng_117f_0513.wav	gay rights movement
+nchlt_eng_000334	nchlt_eng/audio/049/nchlt_eng_049m_0285.wav	languages of iraq
+nchlt_eng_000335	nchlt_eng/audio/015/nchlt_eng_015f_0344.wav	milky way galaxy
+nchlt_eng_000336	nchlt_eng/audio/125/nchlt_eng_125f_0094.wav	film organizations in the united states
+nchlt_eng_000337	nchlt_eng/audio/005/nchlt_eng_005m_0027.wav	tourism in greece
+nchlt_eng_000338	nchlt_eng/audio/075/nchlt_eng_075f_0191.wav	angled deck landing
+nchlt_eng_000339	nchlt_eng/audio/061/nchlt_eng_061m_0560.wav	algebraically closed field
+nchlt_eng_000340	nchlt_eng/audio/183/nchlt_eng_183f_0207.wav	birth missing living
+nchlt_eng_000341	nchlt_eng/audio/044/nchlt_eng_044f_0178.wav	national security act
+nchlt_eng_000342	nchlt_eng/audio/174/nchlt_eng_174m_0325.wav	occupational safety and health
+nchlt_eng_000343	nchlt_eng/audio/191/nchlt_eng_191f_0068.wav	spiritual theories
+nchlt_eng_000344	nchlt_eng/audio/126/nchlt_eng_126f_0087.wav	consequent economic hardship
+nchlt_eng_000345	nchlt_eng/audio/154/nchlt_eng_154m_0020.wav	polish soviet war
+nchlt_eng_000346	nchlt_eng/audio/124/nchlt_eng_124f_0015.wav	new york public
+nchlt_eng_000347	nchlt_eng/audio/045/nchlt_eng_045m_0619.wav	forms takes place
+nchlt_eng_000348	nchlt_eng/audio/031/nchlt_eng_031f_0430.wav	president george bush
+nchlt_eng_000349	nchlt_eng/audio/121/nchlt_eng_121f_0197.wav	emperor michael
+nchlt_eng_000350	nchlt_eng/audio/062/nchlt_eng_062m_0118.wav	european capitals of culture
+nchlt_eng_000351	nchlt_eng/audio/107/nchlt_eng_107f_0511.wav	article relates primarily
+nchlt_eng_000352	nchlt_eng/audio/105/nchlt_eng_105m_0628.wav	bbc journalist michael
+nchlt_eng_000353	nchlt_eng/audio/132/nchlt_eng_132m_0366.wav	military of angola
+nchlt_eng_000354	nchlt_eng/audio/101/nchlt_eng_101f_0227.wav	civil war left
+nchlt_eng_000355	nchlt_eng/audio/089/nchlt_eng_089m_0376.wav	american punk rock
+nchlt_eng_000356	nchlt_eng/audio/159/nchlt_eng_159m_0438.wav	climate koppen climate
+nchlt_eng_000357	nchlt_eng/audio/118/nchlt_eng_118f_0192.wav	roots type positive displacement
+nchlt_eng_000358	nchlt_eng/audio/179/nchlt_eng_179f_0026.wav	fictional alchemists
+nchlt_eng_000359	nchlt_eng/audio/182/nchlt_eng_182m_0356.wav	john paul jones
+nchlt_eng_000360	nchlt_eng/audio/108/nchlt_eng_108f_0423.wav	united states army officers
+nchlt_eng_000361	nchlt_eng/audio/029/nchlt_eng_029f_0016.wav	foreign policy
+nchlt_eng_000362	nchlt_eng/audio/010/nchlt_eng_010m_0269.wav	swiss immigrants to the united states
+nchlt_eng_000363	nchlt_eng/audio/075/nchlt_eng_075f_0147.wav	language evolution continues
+nchlt_eng_000364	nchlt_eng/audio/034/nchlt_eng_034f_0025.wav	people from moscow
+nchlt_eng_000365	nchlt_eng/audio/193/nchlt_eng_193f_0068.wav	game boy advance
+nchlt_eng_000366	nchlt_eng/audio/067/nchlt_eng_067f_0256.wav	signal intelligence service
+nchlt_eng_000367	nchlt_eng/audio/091/nchlt_eng_091f_0364.wav	days of the year
+nchlt_eng_000368	nchlt_eng/audio/130/nchlt_eng_130f_0043.wav	american film producers
+nchlt_eng_000369	nchlt_eng/audio/019/nchlt_eng_019f_0032.wav	seven years war
+nchlt_eng_000370	nchlt_eng/audio/133/nchlt_eng_133m_0081.wav	spherically symmetric hollow
+nchlt_eng_000371	nchlt_eng/audio/118/nchlt_eng_118f_0237.wav	interpreting various financial
+nchlt_eng_000372	nchlt_eng/audio/017/nchlt_eng_017f_0021.wav	roman catholic theologians
+nchlt_eng_000373	nchlt_eng/audio/034/nchlt_eng_034f_0300.wav	claimed partial responsibility
+nchlt_eng_000374	nchlt_eng/audio/090/nchlt_eng_090m_0328.wav	monotypic mammal genera
+nchlt_eng_000375	nchlt_eng/audio/147/nchlt_eng_147m_0156.wav	weapons of russia
+nchlt_eng_000376	nchlt_eng/audio/157/nchlt_eng_157m_0169.wav	major metropolitan areas
+nchlt_eng_000377	nchlt_eng/audio/119/nchlt_eng_119f_0085.wav	swet best actress
+nchlt_eng_000378	nchlt_eng/audio/114/nchlt_eng_114f_0060.wav	cp m operating
+nchlt_eng_000379	nchlt_eng/audio/084/nchlt_eng_084f_0556.wav	general purpose machine
+nchlt_eng_000380	nchlt_eng/audio/184/nchlt_eng_184f_0345.wav	european capitals of culture
+nchlt_eng_000381	nchlt_eng/audio/193/nchlt_eng_193f_0020.wav	central asian countries
+nchlt_eng_000382	nchlt_eng/audio/194/nchlt_eng_194f_0610.wav	protection agency epa
+nchlt_eng_000383	nchlt_eng/audio/133/nchlt_eng_133m_0570.wav	university of california los angeles faculty
+nchlt_eng_000384	nchlt_eng/audio/029/nchlt_eng_029f_0467.wav	people from toronto
+nchlt_eng_000385	nchlt_eng/audio/155/nchlt_eng_155m_0738.wav	william grey walter
+nchlt_eng_000386	nchlt_eng/audio/158/nchlt_eng_158m_0401.wav	champion new york
+nchlt_eng_000387	nchlt_eng/audio/106/nchlt_eng_106f_0322.wav	sumerian cities
+nchlt_eng_000388	nchlt_eng/audio/163/nchlt_eng_163m_0409.wav	origins award winners
+nchlt_eng_000389	nchlt_eng/audio/166/nchlt_eng_166f_0130.wav	historians of science
+nchlt_eng_000390	nchlt_eng/audio/036/nchlt_eng_036f_0049.wav	languages of iraq
+nchlt_eng_000391	nchlt_eng/audio/156/nchlt_eng_156m_0170.wav	main battle tanks
+nchlt_eng_000392	nchlt_eng/audio/011/nchlt_eng_011m_0050.wav	tropical continental ct
+nchlt_eng_000393	nchlt_eng/audio/189/nchlt_eng_189f_0279.wav	include revulsion accusations
+nchlt_eng_000394	nchlt_eng/audio/149/nchlt_eng_149m_0078.wav	protect soft skinned vehicles
+nchlt_eng_000395	nchlt_eng/audio/082/nchlt_eng_082f_0299.wav	continuous pitch instruments
+nchlt_eng_000396	nchlt_eng/audio/160/nchlt_eng_160m_0428.wav	american film actors
+nchlt_eng_000397	nchlt_eng/audio/196/nchlt_eng_196f_0311.wav	kinhide
+nchlt_eng_000398	nchlt_eng/audio/162/nchlt_eng_162m_0084.wav	medieval child rulers
+nchlt_eng_000399	nchlt_eng/audio/122/nchlt_eng_122f_0243.wav	greek goddesses
+nchlt_eng_000400	nchlt_eng/audio/164/nchlt_eng_164m_0014.wav	adelaide football club
+nchlt_eng_000401	nchlt_eng/audio/086/nchlt_eng_086f_0227.wav	depute muslim envoy
+nchlt_eng_000402	nchlt_eng/audio/201/nchlt_eng_201m_0136.wav	king hassan
+nchlt_eng_000403	nchlt_eng/audio/123/nchlt_eng_123f_0144.wav	cathode ray tubes
+nchlt_eng_000404	nchlt_eng/audio/173/nchlt_eng_173f_0417.wav	current account deficit
+nchlt_eng_000405	nchlt_eng/audio/160/nchlt_eng_160m_0359.wav	cells include hydrogen
+nchlt_eng_000406	nchlt_eng/audio/147/nchlt_eng_147m_0502.wav	ancient greek generals
+nchlt_eng_000407	nchlt_eng/audio/156/nchlt_eng_156m_0145.wav	days of the year
+nchlt_eng_000408	nchlt_eng/audio/066/nchlt_eng_066f_0275.wav	heater increases personal
+nchlt_eng_000409	nchlt_eng/audio/061/nchlt_eng_061m_0230.wav	american film directors
+nchlt_eng_000410	nchlt_eng/audio/001/nchlt_eng_001m_0214.wav	large new land
+nchlt_eng_000411	nchlt_eng/audio/136/nchlt_eng_136m_0186.wav	rugby union team
+nchlt_eng_000412	nchlt_eng/audio/117/nchlt_eng_117f_0161.wav	following international organizations
+nchlt_eng_000413	nchlt_eng/audio/025/nchlt_eng_025f_0004.wav	upper new york
+nchlt_eng_000414	nchlt_eng/audio/018/nchlt_eng_018m_0250.wav	camp near palm
+nchlt_eng_000415	nchlt_eng/audio/100/nchlt_eng_100m_0234.wav	suburban community newspapers
+nchlt_eng_000416	nchlt_eng/audio/147/nchlt_eng_147m_0733.wav	rugby league competition
+nchlt_eng_000417	nchlt_eng/audio/084/nchlt_eng_084f_0147.wav	ancient greek sites in turkey
+nchlt_eng_000418	nchlt_eng/audio/093/nchlt_eng_093f_0418.wav	the study of artificial neural networks
+nchlt_eng_000419	nchlt_eng/audio/065/nchlt_eng_065f_0274.wav	new south wales
+nchlt_eng_000420	nchlt_eng/audio/043/nchlt_eng_043f_0113.wav	african union au
+nchlt_eng_000421	nchlt_eng/audio/100/nchlt_eng_100m_0583.wav	motorola hardware coupled
+nchlt_eng_000422	nchlt_eng/audio/050/nchlt_eng_050m_0039.wav	pope leo
+nchlt_eng_000423	nchlt_eng/audio/117/nchlt_eng_117f_0428.wav	pope pius
+nchlt_eng_000424	nchlt_eng/audio/198/nchlt_eng_198f_0131.wav	lydenburg
+nchlt_eng_000425	nchlt_eng/audio/122/nchlt_eng_122f_0125.wav	christian terms
+nchlt_eng_000426	nchlt_eng/audio/032/nchlt_eng_032m_0298.wav	features atoms wide
+nchlt_eng_000427	nchlt_eng/audio/200/nchlt_eng_200f_0396.wav	dennilton
+nchlt_eng_000428	nchlt_eng/audio/189/nchlt_eng_189f_0147.wav	accidentally overloading cartridges
+nchlt_eng_000429	nchlt_eng/audio/137/nchlt_eng_137m_0046.wav	american television sitcoms
+nchlt_eng_000430	nchlt_eng/audio/018/nchlt_eng_018m_0108.wav	more recently some researchers have
+nchlt_eng_000431	nchlt_eng/audio/021/nchlt_eng_021f_0039.wav	language instinct ridiculed
+nchlt_eng_000432	nchlt_eng/audio/082/nchlt_eng_082f_0426.wav	german loanwords
+nchlt_eng_000433	nchlt_eng/audio/173/nchlt_eng_173f_0553.wav	sound quality improvements
+nchlt_eng_000434	nchlt_eng/audio/118/nchlt_eng_118f_0317.wav	vice presidential nominees
+nchlt_eng_000435	nchlt_eng/audio/194/nchlt_eng_194f_0468.wav	latin lang la
+nchlt_eng_000436	nchlt_eng/audio/044/nchlt_eng_044f_0203.wav	britain's moorish revival
+nchlt_eng_000437	nchlt_eng/audio/103/nchlt_eng_103m_0690.wav	american red cross
+nchlt_eng_000438	nchlt_eng/audio/041/nchlt_eng_041m_0102.wav	internet number resources
+nchlt_eng_000439	nchlt_eng/audio/117/nchlt_eng_117f_0330.wav	prize winning columnist connie
+nchlt_eng_000440	nchlt_eng/audio/197/nchlt_eng_197m_0329.wav	boston red stockings
+nchlt_eng_000441	nchlt_eng/audio/083/nchlt_eng_083m_0398.wav	nations human development
+nchlt_eng_000442	nchlt_eng/audio/068/nchlt_eng_068f_0150.wav	train operating companies
+nchlt_eng_000443	nchlt_eng/audio/136/nchlt_eng_136m_0579.wav	measured classical bits
+nchlt_eng_000444	nchlt_eng/audio/039/nchlt_eng_039m_0162.wav	presbyterian church usa
+nchlt_eng_000445	nchlt_eng/audio/141/nchlt_eng_141m_0203.wav	treasury
+nchlt_eng_000446	nchlt_eng/audio/199/nchlt_eng_199m_0192.wav	official diplomatic relations
+nchlt_eng_000447	nchlt_eng/audio/003/nchlt_eng_003m_0041.wav	vacuum powered windshield wipers
+nchlt_eng_000448	nchlt_eng/audio/015/nchlt_eng_015f_0425.wav	international airport iata
+nchlt_eng_000449	nchlt_eng/audio/100/nchlt_eng_100m_0768.wav	iso abbreviation
+nchlt_eng_000450	nchlt_eng/audio/119/nchlt_eng_119f_0371.wav	elections took place
+nchlt_eng_000451	nchlt_eng/audio/086/nchlt_eng_086f_0550.wav	democratic labour party
+nchlt_eng_000452	nchlt_eng/audio/103/nchlt_eng_103m_0605.wav	king james version
+nchlt_eng_000453	nchlt_eng/audio/002/nchlt_eng_002m_0071.wav	lgbt jews
+nchlt_eng_000454	nchlt_eng/audio/045/nchlt_eng_045m_0581.wav	general surgery
+nchlt_eng_000455	nchlt_eng/audio/090/nchlt_eng_090m_0318.wav	academy honorary award
+nchlt_eng_000456	nchlt_eng/audio/150/nchlt_eng_150m_0213.wav	ruthenian catholics
+nchlt_eng_000457	nchlt_eng/audio/152/nchlt_eng_152m_0275.wav	david norris footballer
+nchlt_eng_000458	nchlt_eng/audio/135/nchlt_eng_135m_0224.wav	southern
+nchlt_eng_000459	nchlt_eng/audio/098/nchlt_eng_098m_0512.wav	symphonic black metal
+nchlt_eng_000460	nchlt_eng/audio/031/nchlt_eng_031f_1124.wav	international narcotics control
+nchlt_eng_000461	nchlt_eng/audio/099/nchlt_eng_099f_0206.wav	ancient greek dramatists and playwrights
+nchlt_eng_000462	nchlt_eng/audio/050/nchlt_eng_050m_0030.wav	christian hymns
+nchlt_eng_000463	nchlt_eng/audio/073/nchlt_eng_073f_0161.wav	high school level
+nchlt_eng_000464	nchlt_eng/audio/202/nchlt_eng_202m_0169.wav	lunar human spaceflights
+nchlt_eng_000465	nchlt_eng/audio/056/nchlt_eng_056m_0064.wav	afghan air force
+nchlt_eng_000466	nchlt_eng/audio/124/nchlt_eng_124f_0063.wav	roman
+nchlt_eng_000467	nchlt_eng/audio/167/nchlt_eng_167m_0116.wav	united states entered
+nchlt_eng_000468	nchlt_eng/audio/001/nchlt_eng_001m_0128.wav	south ossetia war
+nchlt_eng_000469	nchlt_eng/audio/001/nchlt_eng_001m_0149.wav	information content
+nchlt_eng_000470	nchlt_eng/audio/066/nchlt_eng_066f_0216.wav	edwind
+nchlt_eng_000471	nchlt_eng/audio/051/nchlt_eng_051f_0105.wav	indian national army
+nchlt_eng_000472	nchlt_eng/audio/048/nchlt_eng_048m_0220.wav	indus valley civilization
+nchlt_eng_000473	nchlt_eng/audio/014/nchlt_eng_014m_0197.wav	grammatical
+nchlt_eng_000474	nchlt_eng/audio/072/nchlt_eng_072f_0479.wav	networking hardware companies
+nchlt_eng_000475	nchlt_eng/audio/065/nchlt_eng_065f_0417.wav	foreign policy
+nchlt_eng_000476	nchlt_eng/audio/075/nchlt_eng_075f_0469.wav	britain's moorish revival
+nchlt_eng_000477	nchlt_eng/audio/006/nchlt_eng_006m_0200.wav	telecommunication union itu
+nchlt_eng_000478	nchlt_eng/audio/093/nchlt_eng_093f_0212.wav	world rally championship
+nchlt_eng_000479	nchlt_eng/audio/036/nchlt_eng_036f_0011.wav	gdp growth rate
+nchlt_eng_000480	nchlt_eng/audio/013/nchlt_eng_013m_0207.wav	deaths from choking
+nchlt_eng_000481	nchlt_eng/audio/160/nchlt_eng_160m_0039.wav	french satirists
+nchlt_eng_000482	nchlt_eng/audio/100/nchlt_eng_100m_0362.wav	english inventors
+nchlt_eng_000483	nchlt_eng/audio/151/nchlt_eng_151m_0289.wav	prime minister yitzhak
+nchlt_eng_000484	nchlt_eng/audio/151/nchlt_eng_151m_0390.wav	disadvantaged economically compared
+nchlt_eng_000485	nchlt_eng/audio/141/nchlt_eng_141m_0213.wav	modern child rulers
+nchlt_eng_000486	nchlt_eng/audio/059/nchlt_eng_059m_0665.wav	sales tax rate
+nchlt_eng_000487	nchlt_eng/audio/196/nchlt_eng_196f_0517.wav	australian labour movement
+nchlt_eng_000488	nchlt_eng/audio/068/nchlt_eng_068f_0040.wav	complete metric space
+nchlt_eng_000489	nchlt_eng/audio/030/nchlt_eng_030f_0078.wav	king edward's death
+nchlt_eng_000490	nchlt_eng/audio/121/nchlt_eng_121f_0044.wav	american spoken word artists
+nchlt_eng_000491	nchlt_eng/audio/066/nchlt_eng_066f_0323.wav	especially quantum decoherence
+nchlt_eng_000492	nchlt_eng/audio/038/nchlt_eng_038m_0304.wav	breakbulk exports include
+nchlt_eng_000493	nchlt_eng/audio/196/nchlt_eng_196f_0420.wav	bra
+nchlt_eng_000494	nchlt_eng/audio/051/nchlt_eng_051f_0036.wav	formal concentration indicates
+nchlt_eng_000495	nchlt_eng/audio/101/nchlt_eng_101f_0216.wav	islamic republics
+nchlt_eng_000496	nchlt_eng/audio/154/nchlt_eng_154m_0518.wav	arizona state university
+nchlt_eng_000497	nchlt_eng/audio/160/nchlt_eng_160m_0105.wav	mathematicians who committed suicide
+nchlt_eng_000498	nchlt_eng/audio/095/nchlt_eng_095m_0396.wav	process outsourcing includes
+nchlt_eng_000499	nchlt_eng/audio/078/nchlt_eng_078f_0327.wav	science fiction short
+nchlt_eng_000500	nchlt_eng/audio/113/nchlt_eng_113m_0502.wav	soviet occupation zone
+nchlt_eng_000501	nchlt_eng/audio/095/nchlt_eng_095m_0493.wav	application programming interfaces
+nchlt_eng_000502	nchlt_eng/audio/114/nchlt_eng_114f_0610.wav	english civil war
+nchlt_eng_000503	nchlt_eng/audio/165/nchlt_eng_165m_1199.wav	german writers
+nchlt_eng_000504	nchlt_eng/audio/051/nchlt_eng_051f_0011.wav	east india company
+nchlt_eng_000505	nchlt_eng/audio/154/nchlt_eng_154m_0059.wav	military variants only
+nchlt_eng_000506	nchlt_eng/audio/045/nchlt_eng_045m_0298.wav	barge passing heinz
+nchlt_eng_000507	nchlt_eng/audio/084/nchlt_eng_084f_0005.wav	primarily religious focus
+nchlt_eng_000508	nchlt_eng/audio/155/nchlt_eng_155m_0277.wav	christian songs
+nchlt_eng_000509	nchlt_eng/audio/139/nchlt_eng_139m_0158.wav	brakpan
+nchlt_eng_000510	nchlt_eng/audio/047/nchlt_eng_047m_0090.wav	nations framework convention
+nchlt_eng_000511	nchlt_eng/audio/138/nchlt_eng_138m_0160.wav	members of the public chamber
+nchlt_eng_000512	nchlt_eng/audio/067/nchlt_eng_067f_0052.wav	science fiction short
+nchlt_eng_000513	nchlt_eng/audio/202/nchlt_eng_202m_0037.wav	provide important alternative
+nchlt_eng_000514	nchlt_eng/audio/124/nchlt_eng_124f_0292.wav	dutton
+nchlt_eng_000515	nchlt_eng/audio/116/nchlt_eng_116f_0373.wav	electronic design automation
+nchlt_eng_000516	nchlt_eng/audio/062/nchlt_eng_062m_0441.wav	internal revenue service
+nchlt_eng_000517	nchlt_eng/audio/064/nchlt_eng_064m_0380.wav	holy roman church
+nchlt_eng_000518	nchlt_eng/audio/079/nchlt_eng_079m_0249.wav	bay devil rays
+nchlt_eng_000519	nchlt_eng/audio/048/nchlt_eng_048m_0248.wav	french grand prix
+nchlt_eng_000520	nchlt_eng/audio/190/nchlt_eng_190f_0267.wav	greek historian herodotus
+nchlt_eng_000521	nchlt_eng/audio/030/nchlt_eng_030f_0243.wav	new york people
+nchlt_eng_000522	nchlt_eng/audio/076/nchlt_eng_076m_0370.wav	particularly distinguished civilization
+nchlt_eng_000523	nchlt_eng/audio/135/nchlt_eng_135m_0305.wav	free reed aerophones
+nchlt_eng_000524	nchlt_eng/audio/126/nchlt_eng_126f_0209.wav	romanian masculine given names
+nchlt_eng_000525	nchlt_eng/audio/187/nchlt_eng_187m_0088.wav	epistemological theories
+nchlt_eng_000526	nchlt_eng/audio/066/nchlt_eng_066f_0431.wav	tropical continental ct
+nchlt_eng_000527	nchlt_eng/audio/153/nchlt_eng_153m_0227.wav	late middle ages
+nchlt_eng_000528	nchlt_eng/audio/013/nchlt_eng_013m_0170.wav	national defense commission
+nchlt_eng_000529	nchlt_eng/audio/144/nchlt_eng_144m_0624.wav	works
+nchlt_eng_000530	nchlt_eng/audio/128/nchlt_eng_128f_0005.wav	modern child rulers
+nchlt_eng_000531	nchlt_eng/audio/078/nchlt_eng_078f_0533.wav	locations in norse mythology
+nchlt_eng_000532	nchlt_eng/audio/162/nchlt_eng_162m_0192.wav	christian social union
+nchlt_eng_000533	nchlt_eng/audio/167/nchlt_eng_167m_0073.wav	primary decay mode
+nchlt_eng_000534	nchlt_eng/audio/096/nchlt_eng_096m_0535.wav	european parliament election
+nchlt_eng_000535	nchlt_eng/audio/172/nchlt_eng_172f_0283.wav	east coast maine
+nchlt_eng_000536	nchlt_eng/audio/160/nchlt_eng_160m_0028.wav	irish defence forces
+nchlt_eng_000537	nchlt_eng/audio/197/nchlt_eng_197m_0260.wav	narrow gauge railway
+nchlt_eng_000538	nchlt_eng/audio/159/nchlt_eng_159m_0074.wav	german humanitarians
+nchlt_eng_000539	nchlt_eng/audio/044/nchlt_eng_044f_0055.wav	requests for audio pronunciation english
+nchlt_eng_000540	nchlt_eng/audio/101/nchlt_eng_101f_0400.wav	teenage mutant ninja
+nchlt_eng_000541	nchlt_eng/audio/189/nchlt_eng_189f_0401.wav	customer relationship management
+nchlt_eng_000542	nchlt_eng/audio/069/nchlt_eng_069f_0162.wav	cue ball cue
+nchlt_eng_000543	nchlt_eng/audio/127/nchlt_eng_127m_0036.wav	carbonate minerals
+nchlt_eng_000544	nchlt_eng/audio/173/nchlt_eng_173f_0305.wav	civil aviation organization
+nchlt_eng_000545	nchlt_eng/audio/099/nchlt_eng_099f_0273.wav	indian infantry
+nchlt_eng_000546	nchlt_eng/audio/043/nchlt_eng_043f_0475.wav	states army air
+nchlt_eng_000547	nchlt_eng/audio/055/nchlt_eng_055m_0435.wav	united states environmental
+nchlt_eng_000548	nchlt_eng/audio/109/nchlt_eng_109f_0037.wav	naturalized citizens of the united states
+nchlt_eng_000549	nchlt_eng/audio/184/nchlt_eng_184f_0470.wav	dewitt clinton high
+nchlt_eng_000550	nchlt_eng/audio/147/nchlt_eng_147m_0661.wav	annalen der physik
+nchlt_eng_000551	nchlt_eng/audio/053/nchlt_eng_053m_0022.wav	short story collection
+nchlt_eng_000552	nchlt_eng/audio/076/nchlt_eng_076m_0093.wav	citation needed reason
+nchlt_eng_000553	nchlt_eng/audio/078/nchlt_eng_078f_0502.wav	west indies federation
+nchlt_eng_000554	nchlt_eng/audio/189/nchlt_eng_189f_0100.wav	create short stories
+nchlt_eng_000555	nchlt_eng/audio/024/nchlt_eng_024m_0144.wav	english male singers
+nchlt_eng_000556	nchlt_eng/audio/013/nchlt_eng_013m_0215.wav	test scores
+nchlt_eng_000557	nchlt_eng/audio/180/nchlt_eng_180f_0097.wav	clergy quickly declined
+nchlt_eng_000558	nchlt_eng/audio/044/nchlt_eng_044f_0216.wav	world rally championship
+nchlt_eng_000559	nchlt_eng/audio/121/nchlt_eng_121f_0306.wav	confederate states army generals
+nchlt_eng_000560	nchlt_eng/audio/097/nchlt_eng_097f_0571.wav	[s] heterodox economics
+nchlt_eng_000561	nchlt_eng/audio/136/nchlt_eng_136m_0263.wav	was blind but now see
+nchlt_eng_000562	nchlt_eng/audio/092/nchlt_eng_092m_0130.wav	articles containing proofs
+nchlt_eng_000563	nchlt_eng/audio/169/nchlt_eng_169f_0255.wav	topological space
+nchlt_eng_000564	nchlt_eng/audio/113/nchlt_eng_113m_0349.wav	central american nations
+nchlt_eng_000565	nchlt_eng/audio/042/nchlt_eng_042f_0341.wav	text text text
+nchlt_eng_000566	nchlt_eng/audio/002/nchlt_eng_002m_0183.wav	nobel family
+nchlt_eng_000567	nchlt_eng/audio/202/nchlt_eng_202m_0039.wav	crowned holy roman
+nchlt_eng_000568	nchlt_eng/audio/188/nchlt_eng_188f_0172.wav	french novelists
+nchlt_eng_000569	nchlt_eng/audio/119/nchlt_eng_119f_0249.wav	golden globe film
+nchlt_eng_000570	nchlt_eng/audio/121/nchlt_eng_121f_0504.wav	apparently scientifically demonstrated
+nchlt_eng_000571	nchlt_eng/audio/161/nchlt_eng_161m_0338.wav	reigning world champion
+nchlt_eng_000572	nchlt_eng/audio/109/nchlt_eng_109f_0415.wav	relatively small size
+nchlt_eng_000573	nchlt_eng/audio/105/nchlt_eng_105m_0405.wav	in january
+nchlt_eng_000574	nchlt_eng/audio/059/nchlt_eng_059m_0009.wav	federal information processing
+nchlt_eng_000575	nchlt_eng/audio/172/nchlt_eng_172f_0188.wav	national league east
+nchlt_eng_000576	nchlt_eng/audio/194/nchlt_eng_194f_0301.wav	spanish civil war
+nchlt_eng_000577	nchlt_eng/audio/169/nchlt_eng_169f_0467.wav	american film producers
+nchlt_eng_000578	nchlt_eng/audio/143/nchlt_eng_143m_0549.wav	adult literacy rate
+nchlt_eng_000579	nchlt_eng/audio/053/nchlt_eng_053m_0372.wav	music awards winners
+nchlt_eng_000580	nchlt_eng/audio/054/nchlt_eng_054m_0296.wav	fascist period having
+nchlt_eng_000581	nchlt_eng/audio/138/nchlt_eng_138m_0517.wav	iranian plateau
+nchlt_eng_000582	nchlt_eng/audio/129/nchlt_eng_129m_0204.wav	indie friendly london records
+nchlt_eng_000583	nchlt_eng/audio/056/nchlt_eng_056m_0099.wav	rest
+nchlt_eng_000584	nchlt_eng/audio/112/nchlt_eng_112f_0093.wav	the magnetic quantum number
+nchlt_eng_000585	nchlt_eng/audio/115/nchlt_eng_115f_0060.wav	schwellnus
+nchlt_eng_000586	nchlt_eng/audio/137/nchlt_eng_137m_0370.wav	monroe
+nchlt_eng_000587	nchlt_eng/audio/079/nchlt_eng_079m_0022.wav	appalachian state university
+nchlt_eng_000588	nchlt_eng/audio/056/nchlt_eng_056m_0467.wav	colorado state university
+nchlt_eng_000589	nchlt_eng/audio/020/nchlt_eng_020f_0095.wav	le rond d
+nchlt_eng_000590	nchlt_eng/audio/105/nchlt_eng_105m_0577.wav	ian holloway said
+nchlt_eng_000591	nchlt_eng/audio/158/nchlt_eng_158m_0675.wav	deaths from stroke
+nchlt_eng_000592	nchlt_eng/audio/041/nchlt_eng_041m_0351.wav	polymerase chain reaction
+nchlt_eng_000593	nchlt_eng/audio/191/nchlt_eng_191f_0168.wav	mutations confer
+nchlt_eng_000594	nchlt_eng/audio/145/nchlt_eng_145m_0255.wav	convolution using meijer
+nchlt_eng_000595	nchlt_eng/audio/127/nchlt_eng_127m_0290.wav	christian soteriology
+nchlt_eng_000596	nchlt_eng/audio/056/nchlt_eng_056m_0058.wav	field armies
+nchlt_eng_000597	nchlt_eng/audio/155/nchlt_eng_155m_0068.wav	equal credit opportunity
+nchlt_eng_000598	nchlt_eng/audio/162/nchlt_eng_162m_0019.wav	randfontein
+nchlt_eng_000599	nchlt_eng/audio/127/nchlt_eng_127m_0273.wav	people from the principality of ansbach
+nchlt_eng_000600	nchlt_eng/audio/161/nchlt_eng_161m_0311.wav	french roman catholic priests
+nchlt_eng_000601	nchlt_eng/audio/111/nchlt_eng_111m_0565.wav	naturalized citizens of the united states
+nchlt_eng_000602	nchlt_eng/audio/131/nchlt_eng_131m_0888.wav	english short story
+nchlt_eng_000603	nchlt_eng/audio/047/nchlt_eng_047m_0117.wav	generally positive reviews
+nchlt_eng_000604	nchlt_eng/audio/126/nchlt_eng_126f_0002.wav	women philosophers
+nchlt_eng_000605	nchlt_eng/audio/026/nchlt_eng_026m_0313.wav	south africa won
+nchlt_eng_000606	nchlt_eng/audio/182/nchlt_eng_182m_0236.wav	marvel comics titles
+nchlt_eng_000607	nchlt_eng/audio/186/nchlt_eng_186f_0469.wav	having taken place
+nchlt_eng_000608	nchlt_eng/audio/114/nchlt_eng_114f_0320.wav	highest recorded temperature
+nchlt_eng_000609	nchlt_eng/audio/070/nchlt_eng_070f_0422.wav	operation desert storm
+nchlt_eng_000610	nchlt_eng/audio/151/nchlt_eng_151m_0095.wav	jpg [s] roller hockey
+nchlt_eng_000611	nchlt_eng/audio/031/nchlt_eng_031f_0274.wav	neurological disorders
+nchlt_eng_000612	nchlt_eng/audio/185/nchlt_eng_185m_0155.wav	wide web consortium
+nchlt_eng_000613	nchlt_eng/audio/029/nchlt_eng_029f_0233.wav	coast main line
+nchlt_eng_000614	nchlt_eng/audio/173/nchlt_eng_173f_0243.wav	primary intravenous anesthetic
+nchlt_eng_000615	nchlt_eng/audio/086/nchlt_eng_086f_0166.wav	german seepolizei sea
+nchlt_eng_000616	nchlt_eng/audio/166/nchlt_eng_166f_0296.wav	require taller tanks
+nchlt_eng_000617	nchlt_eng/audio/172/nchlt_eng_172f_0067.wav	crowned holy roman
+nchlt_eng_000618	nchlt_eng/audio/034/nchlt_eng_034f_0315.wav	african development community
+nchlt_eng_000619	nchlt_eng/audio/066/nchlt_eng_066f_0096.wav	calendar eras
+nchlt_eng_000620	nchlt_eng/audio/166/nchlt_eng_166f_0062.wav	pope pius
+nchlt_eng_000621	nchlt_eng/audio/191/nchlt_eng_191f_0522.wav	florence
+nchlt_eng_000622	nchlt_eng/audio/088/nchlt_eng_088f_0303.wav	glove award winners
+nchlt_eng_000623	nchlt_eng/audio/190/nchlt_eng_190f_0493.wav	edwind
+nchlt_eng_000624	nchlt_eng/audio/191/nchlt_eng_191f_0295.wav	concerns noun endings
+nchlt_eng_000625	nchlt_eng/audio/015/nchlt_eng_015f_0318.wav	gun running incident
+nchlt_eng_000626	nchlt_eng/audio/005/nchlt_eng_005m_0449.wav	lithuanian armed forces
+nchlt_eng_000627	nchlt_eng/audio/197/nchlt_eng_197m_0239.wav	generally accepted ranges
+nchlt_eng_000628	nchlt_eng/audio/016/nchlt_eng_016f_0442.wav	major population centers
+nchlt_eng_000629	nchlt_eng/audio/134/nchlt_eng_134m_0001.wav	carolina
+nchlt_eng_000630	nchlt_eng/audio/020/nchlt_eng_020f_0013.wav	ancient greek political refugees
+nchlt_eng_000631	nchlt_eng/audio/130/nchlt_eng_130f_0344.wav	north south relations
+nchlt_eng_000632	nchlt_eng/audio/133/nchlt_eng_133m_0437.wav	defending super bowl
+nchlt_eng_000633	nchlt_eng/audio/085/nchlt_eng_085f_0214.wav	citation needed reason
+nchlt_eng_000634	nchlt_eng/audio/134/nchlt_eng_134m_0249.wav	preston north end
+nchlt_eng_000635	nchlt_eng/audio/047/nchlt_eng_047m_0201.wav	test scores
+nchlt_eng_000636	nchlt_eng/audio/105/nchlt_eng_105m_0502.wav	densely populated country
+nchlt_eng_000637	nchlt_eng/audio/091/nchlt_eng_091f_0435.wav	national democratic alliance
+nchlt_eng_000638	nchlt_eng/audio/055/nchlt_eng_055m_0354.wav	science fiction video
+nchlt_eng_000639	nchlt_eng/audio/088/nchlt_eng_088f_0388.wav	million visitors annually
+nchlt_eng_000640	nchlt_eng/audio/125/nchlt_eng_125f_0196.wav	united states district
+nchlt_eng_000641	nchlt_eng/audio/158/nchlt_eng_158m_0106.wav	prime minister qarase [s]
+nchlt_eng_000642	nchlt_eng/audio/006/nchlt_eng_006m_0124.wav	bay
+nchlt_eng_000643	nchlt_eng/audio/049/nchlt_eng_049m_0159.wav	online publication september
+nchlt_eng_000644	nchlt_eng/audio/144/nchlt_eng_144m_0594.wav	listed buildings in the borders
+nchlt_eng_000645	nchlt_eng/audio/167/nchlt_eng_167m_0208.wav	southern united states
+nchlt_eng_000646	nchlt_eng/audio/167/nchlt_eng_167m_0323.wav	open market operations
+nchlt_eng_000647	nchlt_eng/audio/158/nchlt_eng_158m_0355.wav	specific legal regulations
+nchlt_eng_000648	nchlt_eng/audio/073/nchlt_eng_073f_0195.wav	earliest known examples
+nchlt_eng_000649	nchlt_eng/audio/159/nchlt_eng_159m_0554.wav	greek roman catholic
+nchlt_eng_000650	nchlt_eng/audio/197/nchlt_eng_197m_0215.wav	christians of the fourth crusade
+nchlt_eng_000651	nchlt_eng/audio/163/nchlt_eng_163m_0031.wav	complete elliptic integral
+nchlt_eng_000652	nchlt_eng/audio/201/nchlt_eng_201m_0158.wav	hydroelectric power plants
+nchlt_eng_000653	nchlt_eng/audio/157/nchlt_eng_157m_0081.wav	mount saint vincent
+nchlt_eng_000654	nchlt_eng/audio/027/nchlt_eng_027m_0475.wav	honorary academy award
+nchlt_eng_000655	nchlt_eng/audio/105/nchlt_eng_105m_0456.wav	people from aschaffenburg
+nchlt_eng_000656	nchlt_eng/audio/110/nchlt_eng_110f_0337.wav	palestinian legislative council
+nchlt_eng_000657	nchlt_eng/audio/147/nchlt_eng_147m_0615.wav	national pharmacy association
+nchlt_eng_000658	nchlt_eng/audio/099/nchlt_eng_099f_0402.wav	foreign minister alexander
+nchlt_eng_000659	nchlt_eng/audio/099/nchlt_eng_099f_0388.wav	pdf lacks e
+nchlt_eng_000660	nchlt_eng/audio/018/nchlt_eng_018m_0079.wav	major league career
+nchlt_eng_000661	nchlt_eng/audio/182/nchlt_eng_182m_0579.wav	appointed prime minister
+nchlt_eng_000662	nchlt_eng/audio/176/nchlt_eng_176f_0319.wav	rocks forming mont
+nchlt_eng_000663	nchlt_eng/audio/178/nchlt_eng_178f_0599.wav	china sea islands
+nchlt_eng_000664	nchlt_eng/audio/156/nchlt_eng_156m_0468.wav	didn t change
+nchlt_eng_000665	nchlt_eng/audio/155/nchlt_eng_155m_0751.wav	club best known
+nchlt_eng_000666	nchlt_eng/audio/049/nchlt_eng_049m_0080.wav	catholic
+nchlt_eng_000667	nchlt_eng/audio/036/nchlt_eng_036f_0213.wav	honorary academy award
+nchlt_eng_000668	nchlt_eng/audio/089/nchlt_eng_089m_0386.wav	regional transit authority
+nchlt_eng_000669	nchlt_eng/audio/058/nchlt_eng_058f_0506.wav	application software installation
+nchlt_eng_000670	nchlt_eng/audio/115/nchlt_eng_115f_0241.wav	launch vehicle explosion
+nchlt_eng_000671	nchlt_eng/audio/124/nchlt_eng_124f_0105.wav	film score composers
+nchlt_eng_000672	nchlt_eng/audio/020/nchlt_eng_020f_0267.wav	east coast maine
+nchlt_eng_000673	nchlt_eng/audio/143/nchlt_eng_143m_0189.wav	bold represents maxima
+nchlt_eng_000674	nchlt_eng/audio/170/nchlt_eng_170m_0678.wav	infantry fighting vehicles
+nchlt_eng_000675	nchlt_eng/audio/073/nchlt_eng_073f_0071.wav	administered tribal areas
+nchlt_eng_000676	nchlt_eng/audio/104/nchlt_eng_104f_0729.wav	fictional alchemists
+nchlt_eng_000677	nchlt_eng/audio/093/nchlt_eng_093f_0339.wav	salt lake city
+nchlt_eng_000678	nchlt_eng/audio/103/nchlt_eng_103m_0626.wav	new musical express
+nchlt_eng_000679	nchlt_eng/audio/127/nchlt_eng_127m_0344.wav	stockton
+nchlt_eng_000680	nchlt_eng/audio/123/nchlt_eng_123f_0196.wav	indus valley civilization
+nchlt_eng_000681	nchlt_eng/audio/184/nchlt_eng_184f_0139.wav	interpreting various financial
+nchlt_eng_000682	nchlt_eng/audio/017/nchlt_eng_017f_0085.wav	radio free albemuth
+nchlt_eng_000683	nchlt_eng/audio/118/nchlt_eng_118f_0455.wav	polish engineers
+nchlt_eng_000684	nchlt_eng/audio/123/nchlt_eng_123f_0468.wav	large austerity program
+nchlt_eng_000685	nchlt_eng/audio/152/nchlt_eng_152m_0012.wav	mathematical games differ
+nchlt_eng_000686	nchlt_eng/audio/095/nchlt_eng_095m_0361.wav	include better voice
+nchlt_eng_000687	nchlt_eng/audio/014/nchlt_eng_014m_0335.wav	listed buildings in the borders
+nchlt_eng_000688	nchlt_eng/audio/096/nchlt_eng_096m_0200.wav	higher education institutions
+nchlt_eng_000689	nchlt_eng/audio/032/nchlt_eng_032m_0243.wav	pope nicholas v
+nchlt_eng_000690	nchlt_eng/audio/183/nchlt_eng_183f_0421.wav	active duty personnel
+nchlt_eng_000691	nchlt_eng/audio/072/nchlt_eng_072f_0068.wav	annandale
+nchlt_eng_000692	nchlt_eng/audio/127/nchlt_eng_127m_0135.wav	verify credibility dater
+nchlt_eng_000693	nchlt_eng/audio/107/nchlt_eng_107f_0502.wav	hong kong government
+nchlt_eng_000694	nchlt_eng/audio/039/nchlt_eng_039m_0304.wav	languages of the united arab emirates
+nchlt_eng_000695	nchlt_eng/audio/105/nchlt_eng_105m_0006.wav	employees divulging information
+nchlt_eng_000696	nchlt_eng/audio/035/nchlt_eng_035m_0403.wav	lowest energy state
+nchlt_eng_000697	nchlt_eng/audio/194/nchlt_eng_194f_0102.wav	south african president
+nchlt_eng_000698	nchlt_eng/audio/157/nchlt_eng_157m_0537.wav	trade center bombing
+nchlt_eng_000699	nchlt_eng/audio/077/nchlt_eng_077f_0238.wav	s extended range
+nchlt_eng_000700	nchlt_eng/audio/142/nchlt_eng_142m_0608.wav	common external tariff
+nchlt_eng_000701	nchlt_eng/audio/146/nchlt_eng_146m_0562.wav	people from the province of rome
+nchlt_eng_000702	nchlt_eng/audio/030/nchlt_eng_030f_0195.wav	circularly linked list
+nchlt_eng_000703	nchlt_eng/audio/075/nchlt_eng_075f_0319.wav	united states ambassadors
+nchlt_eng_000704	nchlt_eng/audio/021/nchlt_eng_021f_0351.wav	owain glynd
+nchlt_eng_000705	nchlt_eng/audio/092/nchlt_eng_092m_0531.wav	american revolution set
+nchlt_eng_000706	nchlt_eng/audio/191/nchlt_eng_191f_0190.wav	american culture
+nchlt_eng_000707	nchlt_eng/audio/113/nchlt_eng_113m_0429.wav	world trade center
+nchlt_eng_000708	nchlt_eng/audio/004/nchlt_eng_004f_0139.wav	west african states
+nchlt_eng_000709	nchlt_eng/audio/201/nchlt_eng_201m_0151.wav	protection agency epa
+nchlt_eng_000710	nchlt_eng/audio/037/nchlt_eng_037m_0414.wav	high german dialects
+nchlt_eng_000711	nchlt_eng/audio/093/nchlt_eng_093f_0135.wav	using combining diacritics
+nchlt_eng_000712	nchlt_eng/audio/167/nchlt_eng_167m_0184.wav	new testament greek
+nchlt_eng_000713	nchlt_eng/audio/126/nchlt_eng_126f_0611.wav	rapidly produced supplement
+nchlt_eng_000714	nchlt_eng/audio/195/nchlt_eng_195f_0031.wav	iraq's economic prospects
+nchlt_eng_000715	nchlt_eng/audio/092/nchlt_eng_092m_0339.wav	java programming language
+nchlt_eng_000716	nchlt_eng/audio/024/nchlt_eng_024m_0203.wav	bosnian musical instruments
+nchlt_eng_000717	nchlt_eng/audio/020/nchlt_eng_020f_0035.wav	juvenal
+nchlt_eng_000718	nchlt_eng/audio/174/nchlt_eng_174m_0222.wav	south west africa
+nchlt_eng_000719	nchlt_eng/audio/162/nchlt_eng_162m_0554.wav	bede's canterbury source
+nchlt_eng_000720	nchlt_eng/audio/202/nchlt_eng_202m_0049.wav	negative income tax
+nchlt_eng_000721	nchlt_eng/audio/066/nchlt_eng_066f_0057.wav	french foreign minister
+nchlt_eng_000722	nchlt_eng/audio/061/nchlt_eng_061m_0116.wav	iec standards
+nchlt_eng_000723	nchlt_eng/audio/156/nchlt_eng_156m_0152.wav	promising early results
+nchlt_eng_000724	nchlt_eng/audio/059/nchlt_eng_059m_0424.wav	jewish refugees
+nchlt_eng_000725	nchlt_eng/audio/060/nchlt_eng_060m_0978.wav	united states fish
+nchlt_eng_000726	nchlt_eng/audio/045/nchlt_eng_045m_0165.wav	schweizer
+nchlt_eng_000727	nchlt_eng/audio/126/nchlt_eng_126f_0286.wav	socialist unity party
+nchlt_eng_000728	nchlt_eng/audio/150/nchlt_eng_150m_0226.wav	bingaman's campaign slogan
+nchlt_eng_000729	nchlt_eng/audio/101/nchlt_eng_101f_0413.wav	art deco style
+nchlt_eng_000730	nchlt_eng/audio/150/nchlt_eng_150m_0341.wav	social democratic alliance
+nchlt_eng_000731	nchlt_eng/audio/014/nchlt_eng_014m_0329.wav	george washington university
+nchlt_eng_000732	nchlt_eng/audio/182/nchlt_eng_182m_0607.wav	american conservative [s] rabbis
+nchlt_eng_000733	nchlt_eng/audio/099/nchlt_eng_099f_0036.wav	high percentage agarose
+nchlt_eng_000734	nchlt_eng/audio/185/nchlt_eng_185m_0419.wav	adverse drug reactions
+nchlt_eng_000735	nchlt_eng/audio/100/nchlt_eng_100m_0242.wav	jewish american writers
+nchlt_eng_000736	nchlt_eng/audio/082/nchlt_eng_082f_0061.wav	do not trust
+nchlt_eng_000737	nchlt_eng/audio/131/nchlt_eng_131m_0400.wav	latin letters
+nchlt_eng_000738	nchlt_eng/audio/197/nchlt_eng_197m_0082.wav	contractor reportedly named
+nchlt_eng_000739	nchlt_eng/audio/079/nchlt_eng_079m_0358.wav	orthodox monarchs
+nchlt_eng_000740	nchlt_eng/audio/163/nchlt_eng_163m_0027.wav	paul visited
+nchlt_eng_000741	nchlt_eng/audio/194/nchlt_eng_194f_0331.wav	township
+nchlt_eng_000742	nchlt_eng/audio/190/nchlt_eng_190f_0170.wav	higher compression ratio
+nchlt_eng_000743	nchlt_eng/audio/155/nchlt_eng_155m_0337.wav	swedish pop music groups
+nchlt_eng_000744	nchlt_eng/audio/166/nchlt_eng_166f_0048.wav	middle east command
+nchlt_eng_000745	nchlt_eng/audio/139/nchlt_eng_139m_0147.wav	international human rights
+nchlt_eng_000746	nchlt_eng/audio/008/nchlt_eng_008f_0212.wav	german roman catholics
+nchlt_eng_000747	nchlt_eng/audio/184/nchlt_eng_184f_0256.wav	increased pilot situational
+nchlt_eng_000748	nchlt_eng/audio/150/nchlt_eng_150m_0110.wav	law enforcement officer
+nchlt_eng_000749	nchlt_eng/audio/157/nchlt_eng_157m_0534.wav	minister helen clark
+nchlt_eng_000750	nchlt_eng/audio/036/nchlt_eng_036f_0173.wav	murdered russian monarchs
+nchlt_eng_000751	nchlt_eng/audio/039/nchlt_eng_039m_0251.wav	naive set theory
+nchlt_eng_000752	nchlt_eng/audio/115/nchlt_eng_115f_0307.wav	average annual rate
+nchlt_eng_000753	nchlt_eng/audio/010/nchlt_eng_010m_0128.wav	republic east germany
+nchlt_eng_000754	nchlt_eng/audio/038/nchlt_eng_038m_0221.wav	anthological
+nchlt_eng_000755	nchlt_eng/audio/172/nchlt_eng_172f_0384.wav	big east conference
+nchlt_eng_000756	nchlt_eng/audio/114/nchlt_eng_114f_0183.wav	east coast swing
+nchlt_eng_000757	nchlt_eng/audio/053/nchlt_eng_053m_0133.wav	national inventors hall
+nchlt_eng_000758	nchlt_eng/audio/111/nchlt_eng_111m_0213.wav	game console released
+nchlt_eng_000759	nchlt_eng/audio/100/nchlt_eng_100m_0661.wav	london city airport
+nchlt_eng_000760	nchlt_eng/audio/034/nchlt_eng_034f_0167.wav	star trek film
+nchlt_eng_000761	nchlt_eng/audio/183/nchlt_eng_183f_0554.wav	monastic buildings
+nchlt_eng_000762	nchlt_eng/audio/143/nchlt_eng_143m_0159.wav	teenage mutant ninja
+nchlt_eng_000763	nchlt_eng/audio/032/nchlt_eng_032m_0097.wav	divine
+nchlt_eng_000764	nchlt_eng/audio/079/nchlt_eng_079m_0498.wav	natural language processing
+nchlt_eng_000765	nchlt_eng/audio/060/nchlt_eng_060m_0869.wav	british nationality act
+nchlt_eng_000766	nchlt_eng/audio/189/nchlt_eng_189f_0285.wav	molotov ribbentrop pact
+nchlt_eng_000767	nchlt_eng/audio/152/nchlt_eng_152m_0470.wav	hugh pope
+nchlt_eng_000768	nchlt_eng/audio/092/nchlt_eng_092m_0506.wav	virginia general assembly
+nchlt_eng_000769	nchlt_eng/audio/070/nchlt_eng_070f_0416.wav	english naturalists
+nchlt_eng_000770	nchlt_eng/audio/152/nchlt_eng_152m_0274.wav	emperor otto
+nchlt_eng_000771	nchlt_eng/audio/145/nchlt_eng_145m_0410.wav	world series champions
+nchlt_eng_000772	nchlt_eng/audio/184/nchlt_eng_184f_0066.wav	internet assigned numbers
+nchlt_eng_000773	nchlt_eng/audio/189/nchlt_eng_189f_0356.wav	american physicists
+nchlt_eng_000774	nchlt_eng/audio/098/nchlt_eng_098m_0531.wav	interferences
+nchlt_eng_000775	nchlt_eng/audio/082/nchlt_eng_082f_0292.wav	arts occupations
+nchlt_eng_000776	nchlt_eng/audio/164/nchlt_eng_164m_0010.wav	buildings and structures in barcelona
+nchlt_eng_000777	nchlt_eng/audio/180/nchlt_eng_180f_0047.wav	monty python videos
+nchlt_eng_000778	nchlt_eng/audio/135/nchlt_eng_135m_0327.wav	georgetown
+nchlt_eng_000779	nchlt_eng/audio/130/nchlt_eng_130f_0126.wav	original
+nchlt_eng_000780	nchlt_eng/audio/007/nchlt_eng_007f_0422.wav	greater toronto area
+nchlt_eng_000781	nchlt_eng/audio/180/nchlt_eng_180f_0309.wav	dinosaurs of europe
+nchlt_eng_000782	nchlt_eng/audio/123/nchlt_eng_123f_0033.wav	political parties established
+nchlt_eng_000783	nchlt_eng/audio/105/nchlt_eng_105m_0152.wav	wholly owned subsidiary
+nchlt_eng_000784	nchlt_eng/audio/192/nchlt_eng_192m_0402.wav	festival takes place
+nchlt_eng_000785	nchlt_eng/audio/051/nchlt_eng_051f_0169.wav	german democratic republic
+nchlt_eng_000786	nchlt_eng/audio/074/nchlt_eng_074m_0325.wav	orange free state
+nchlt_eng_000787	nchlt_eng/audio/154/nchlt_eng_154m_0196.wav	executive vice president
+nchlt_eng_000788	nchlt_eng/audio/049/nchlt_eng_049m_0081.wav	recyclable materials
+nchlt_eng_000789	nchlt_eng/audio/194/nchlt_eng_194f_0051.wav	people from moscow
+nchlt_eng_000790	nchlt_eng/audio/145/nchlt_eng_145m_0052.wav	football league
+nchlt_eng_000791	nchlt_eng/audio/054/nchlt_eng_054m_0079.wav	formalised strategies using
+nchlt_eng_000792	nchlt_eng/audio/158/nchlt_eng_158m_0299.wav	neil gaiman website
+nchlt_eng_000793	nchlt_eng/audio/012/nchlt_eng_012m_0180.wav	arts occupations
+nchlt_eng_000794	nchlt_eng/audio/068/nchlt_eng_068f_0244.wav	traditional chinese medicine
+nchlt_eng_000795	nchlt_eng/audio/157/nchlt_eng_157m_0050.wav	science fiction awards
+nchlt_eng_000796	nchlt_eng/audio/025/nchlt_eng_025f_0410.wav	sydney opera house
+nchlt_eng_000797	nchlt_eng/audio/026/nchlt_eng_026m_0018.wav	eastern orthodox christians from russia
+nchlt_eng_000798	nchlt_eng/audio/190/nchlt_eng_190f_0370.wav	ancient indian physicians
+nchlt_eng_000799	nchlt_eng/audio/031/nchlt_eng_031f_0696.wav	pleistocene ice age
+nchlt_eng_000800	nchlt_eng/audio/183/nchlt_eng_183f_0537.wav	pioneered environmental protection
+nchlt_eng_000801	nchlt_eng/audio/189/nchlt_eng_189f_0531.wav	geographical naming disputes
+nchlt_eng_000802	nchlt_eng/audio/031/nchlt_eng_031f_0755.wav	joint stock company
+nchlt_eng_000803	nchlt_eng/audio/164/nchlt_eng_164m_0383.wav	sources on germanic paganism
+nchlt_eng_000804	nchlt_eng/audio/087/nchlt_eng_087f_0445.wav	president dick cheney
+nchlt_eng_000805	nchlt_eng/audio/021/nchlt_eng_021f_0284.wav	science fiction video
+nchlt_eng_000806	nchlt_eng/audio/048/nchlt_eng_048m_0017.wav	mountain ranges of ecuador
+nchlt_eng_000807	nchlt_eng/audio/151/nchlt_eng_151m_0014.wav	health
+nchlt_eng_000808	nchlt_eng/audio/146/nchlt_eng_146m_0476.wav	london city airport
+nchlt_eng_000809	nchlt_eng/audio/080/nchlt_eng_080f_0445.wav	supporting actor academy
+nchlt_eng_000810	nchlt_eng/audio/083/nchlt_eng_083m_0355.wav	foreign policy
+nchlt_eng_000811	nchlt_eng/audio/132/nchlt_eng_132m_0178.wav	suffered heavy casualties
+nchlt_eng_000812	nchlt_eng/audio/142/nchlt_eng_142m_0092.wav	natural gas fields
+nchlt_eng_000813	nchlt_eng/audio/128/nchlt_eng_128f_0359.wav	astrological aspects
+nchlt_eng_000814	nchlt_eng/audio/079/nchlt_eng_079m_0209.wav	crowned holy roman
+nchlt_eng_000815	nchlt_eng/audio/100/nchlt_eng_100m_0584.wav	records barney went
+nchlt_eng_000816	nchlt_eng/audio/067/nchlt_eng_067f_0429.wav	holy roman emperors
+nchlt_eng_000817	nchlt_eng/audio/067/nchlt_eng_067f_0426.wav	natural language processing
+nchlt_eng_000818	nchlt_eng/audio/069/nchlt_eng_069f_0147.wav	native american culture
+nchlt_eng_000819	nchlt_eng/audio/180/nchlt_eng_180f_0212.wav	adviser told u
+nchlt_eng_000820	nchlt_eng/audio/057/nchlt_eng_057m_0146.wav	unified school district
+nchlt_eng_000821	nchlt_eng/audio/052/nchlt_eng_052m_0027.wav	finally broke lou
+nchlt_eng_000822	nchlt_eng/audio/002/nchlt_eng_002m_0302.wav	pope innocent
+nchlt_eng_000823	nchlt_eng/audio/134/nchlt_eng_134m_0025.wav	ancient macedonian generals
+nchlt_eng_000824	nchlt_eng/audio/126/nchlt_eng_126f_0272.wav	successful romanian team
+nchlt_eng_000825	nchlt_eng/audio/033/nchlt_eng_033m_0421.wav	deified roman emperors
+nchlt_eng_000826	nchlt_eng/audio/032/nchlt_eng_032m_0404.wav	humboldt university of berlin faculty
+nchlt_eng_000827	nchlt_eng/audio/107/nchlt_eng_107f_0355.wav	recyclable materials
+nchlt_eng_000828	nchlt_eng/audio/016/nchlt_eng_016f_0357.wav	west coast [s] of the united states
+nchlt_eng_000829	nchlt_eng/audio/004/nchlt_eng_004f_0184.wav	multidirectional shooters
+nchlt_eng_000830	nchlt_eng/audio/153/nchlt_eng_153m_0157.wav	electric light orchestra
+nchlt_eng_000831	nchlt_eng/audio/012/nchlt_eng_012m_0168.wav	glove award winners
+nchlt_eng_000832	nchlt_eng/audio/201/nchlt_eng_201m_0197.wav	abstract syntax tree
+nchlt_eng_000833	nchlt_eng/audio/054/nchlt_eng_054m_0116.wav	nobel family
+nchlt_eng_000834	nchlt_eng/audio/192/nchlt_eng_192m_0139.wav	religious persecution
+nchlt_eng_000835	nchlt_eng/audio/111/nchlt_eng_111m_0507.wav	pacific coast league
+nchlt_eng_000836	nchlt_eng/audio/030/nchlt_eng_030f_0361.wav	cancer deaths in france
+nchlt_eng_000837	nchlt_eng/audio/181/nchlt_eng_181f_0425.wav	series masters
+nchlt_eng_000838	nchlt_eng/audio/092/nchlt_eng_092m_0236.wav	neon genesis evangelion
+nchlt_eng_000839	nchlt_eng/audio/115/nchlt_eng_115f_0198.wav	suspension high school
+nchlt_eng_000840	nchlt_eng/audio/036/nchlt_eng_036f_0386.wav	south west england
+nchlt_eng_000841	nchlt_eng/audio/056/nchlt_eng_056m_0476.wav	jewish studies jerusalem
+nchlt_eng_000842	nchlt_eng/audio/076/nchlt_eng_076m_0120.wav	events took place
+nchlt_eng_000843	nchlt_eng/audio/066/nchlt_eng_066f_0317.wav	real numbers
+nchlt_eng_000844	nchlt_eng/audio/196/nchlt_eng_196f_0213.wav	nearby texas theater
+nchlt_eng_000845	nchlt_eng/audio/153/nchlt_eng_153m_0321.wav	touring car championship
+nchlt_eng_000846	nchlt_eng/audio/012/nchlt_eng_012m_0054.wav	state income tax
+nchlt_eng_000847	nchlt_eng/audio/095/nchlt_eng_095m_0620.wav	dover area school
+nchlt_eng_000848	nchlt_eng/audio/151/nchlt_eng_151m_0408.wav	ancient greek satirists
+nchlt_eng_000849	nchlt_eng/audio/057/nchlt_eng_057m_0488.wav	latin religious phrases
+nchlt_eng_000850	nchlt_eng/audio/031/nchlt_eng_031f_0475.wav	holy spirit proceeds
+nchlt_eng_000851	nchlt_eng/audio/192/nchlt_eng_192m_0084.wav	sri lankan civil
+nchlt_eng_000852	nchlt_eng/audio/056/nchlt_eng_056m_0278.wav	new keynesian economics
+nchlt_eng_000853	nchlt_eng/audio/179/nchlt_eng_179f_0392.wav	prime minister following
+nchlt_eng_000854	nchlt_eng/audio/081/nchlt_eng_081f_0204.wav	yankee doodle dandy
+nchlt_eng_000855	nchlt_eng/audio/072/nchlt_eng_072f_0466.wav	played important roles
+nchlt_eng_000856	nchlt_eng/audio/074/nchlt_eng_074m_0045.wav	client server architecture
+nchlt_eng_000857	nchlt_eng/audio/153/nchlt_eng_153m_0187.wav	leaving new orleans
+nchlt_eng_000858	nchlt_eng/audio/057/nchlt_eng_057m_0209.wav	baseball team based
+nchlt_eng_000859	nchlt_eng/audio/192/nchlt_eng_192m_0088.wav	rulers of sparta
+nchlt_eng_000860	nchlt_eng/audio/124/nchlt_eng_124f_0261.wav	fiction with unreliable narrators
+nchlt_eng_000861	nchlt_eng/audio/142/nchlt_eng_142m_0670.wav	american poets
+nchlt_eng_000862	nchlt_eng/audio/082/nchlt_eng_082f_0442.wav	articles including recorded pronunciations
+nchlt_eng_000863	nchlt_eng/audio/015/nchlt_eng_015f_0154.wav	german music theorists
+nchlt_eng_000864	nchlt_eng/audio/136/nchlt_eng_136m_0608.wav	social democratic parties
+nchlt_eng_000865	nchlt_eng/audio/188/nchlt_eng_188f_0312.wav	west coast eagles
+nchlt_eng_000866	nchlt_eng/audio/184/nchlt_eng_184f_0515.wav	new classical economics
+nchlt_eng_000867	nchlt_eng/audio/134/nchlt_eng_134m_0141.wav	national democratic alliance
+nchlt_eng_000868	nchlt_eng/audio/111/nchlt_eng_111m_0466.wav	space shuttle program
+nchlt_eng_000869	nchlt_eng/audio/142/nchlt_eng_142m_0512.wav	design incorporated tricycle
+nchlt_eng_000870	nchlt_eng/audio/084/nchlt_eng_084f_0398.wav	state department records
+nchlt_eng_000871	nchlt_eng/audio/188/nchlt_eng_188f_0192.wav	regular season record
+nchlt_eng_000872	nchlt_eng/audio/189/nchlt_eng_189f_0166.wav	people from victoria county nova scotia
+nchlt_eng_000873	nchlt_eng/audio/038/nchlt_eng_038m_0328.wav	buddhism
+nchlt_eng_000874	nchlt_eng/audio/195/nchlt_eng_195f_0463.wav	international military tribunal
+nchlt_eng_000875	nchlt_eng/audio/151/nchlt_eng_151m_0472.wav	fictional arabs
+nchlt_eng_000876	nchlt_eng/audio/200/nchlt_eng_200f_0280.wav	critical thinking
+nchlt_eng_000877	nchlt_eng/audio/109/nchlt_eng_109f_0377.wav	comedy actor golden
+nchlt_eng_000878	nchlt_eng/audio/148/nchlt_eng_148m_0382.wav	false claims act
+nchlt_eng_000879	nchlt_eng/audio/087/nchlt_eng_087f_0369.wav	lgbt jews
+nchlt_eng_000880	nchlt_eng/audio/170/nchlt_eng_170m_0871.wav	computer pioneers
+nchlt_eng_000881	nchlt_eng/audio/048/nchlt_eng_048m_0211.wav	francis scott key
+nchlt_eng_000882	nchlt_eng/audio/016/nchlt_eng_016f_0455.wav	ancient greek philosophers
+nchlt_eng_000883	nchlt_eng/audio/162/nchlt_eng_162m_0085.wav	italian cardinals
+nchlt_eng_000884	nchlt_eng/audio/186/nchlt_eng_186f_0257.wav	eastern european allies
+nchlt_eng_000885	nchlt_eng/audio/093/nchlt_eng_093f_0473.wav	people associated with transcendentalism
+nchlt_eng_000886	nchlt_eng/audio/162/nchlt_eng_162m_0333.wav	florida subspecies
+nchlt_eng_000887	nchlt_eng/audio/081/nchlt_eng_081f_0052.wav	baggage train provided
+nchlt_eng_000888	nchlt_eng/audio/196/nchlt_eng_196f_0460.wav	revolutionary command council
+nchlt_eng_000889	nchlt_eng/audio/191/nchlt_eng_191f_0036.wav	public switched telephone
+nchlt_eng_000890	nchlt_eng/audio/135/nchlt_eng_135m_0474.wav	city council consists
+nchlt_eng_000891	nchlt_eng/audio/030/nchlt_eng_030f_0126.wav	gdp growth rate
+nchlt_eng_000892	nchlt_eng/audio/042/nchlt_eng_042f_0412.wav	suffolk community council
+nchlt_eng_000893	nchlt_eng/audio/124/nchlt_eng_124f_0214.wav	ancient roman street
+nchlt_eng_000894	nchlt_eng/audio/042/nchlt_eng_042f_0216.wav	fortress
+nchlt_eng_000895	nchlt_eng/audio/072/nchlt_eng_072f_0151.wav	science fiction genre
+nchlt_eng_000896	nchlt_eng/audio/143/nchlt_eng_143m_0005.wav	loch ness monster
+nchlt_eng_000897	nchlt_eng/audio/085/nchlt_eng_085f_0631.wav	australian prime minister
+nchlt_eng_000898	nchlt_eng/audio/007/nchlt_eng_007f_0070.wav	citation needed reason
+nchlt_eng_000899	nchlt_eng/audio/126/nchlt_eng_126f_0103.wav	charles stewart parnell
+nchlt_eng_000900	nchlt_eng/audio/076/nchlt_eng_076m_0191.wav	prose edda book
+nchlt_eng_000901	nchlt_eng/audio/109/nchlt_eng_109f_0275.wav	chinese civil war
+nchlt_eng_000902	nchlt_eng/audio/138/nchlt_eng_138m_0710.wav	african origin view
+nchlt_eng_000903	nchlt_eng/audio/064/nchlt_eng_064m_0183.wav	current account balance
+nchlt_eng_000904	nchlt_eng/audio/083/nchlt_eng_083m_0251.wav	free and open source software organizations
+nchlt_eng_000905	nchlt_eng/audio/162/nchlt_eng_162m_0280.wav	summer olympic games
+nchlt_eng_000906	nchlt_eng/audio/008/nchlt_eng_008f_0326.wav	hong kong island
+nchlt_eng_000907	nchlt_eng/audio/135/nchlt_eng_135m_0133.wav	harvard law school
+nchlt_eng_000908	nchlt_eng/audio/030/nchlt_eng_030f_0406.wav	video game franchises
+nchlt_eng_000909	nchlt_eng/audio/113/nchlt_eng_113m_0384.wav	royal military academy
+nchlt_eng_000910	nchlt_eng/audio/130/nchlt_eng_130f_0608.wav	operation iraqi freedom
+nchlt_eng_000911	nchlt_eng/audio/069/nchlt_eng_069f_0394.wav	president dick cheney
+nchlt_eng_000912	nchlt_eng/audio/151/nchlt_eng_151m_0337.wav	pope clement
+nchlt_eng_000913	nchlt_eng/audio/126/nchlt_eng_126f_0613.wav	space shuttle challenger
+nchlt_eng_000914	nchlt_eng/audio/111/nchlt_eng_111m_0347.wav	services tax [s] gst
+nchlt_eng_000915	nchlt_eng/audio/197/nchlt_eng_197m_0216.wav	american presbyterians
+nchlt_eng_000916	nchlt_eng/audio/096/nchlt_eng_096m_0595.wav	pope clement
+nchlt_eng_000917	nchlt_eng/audio/029/nchlt_eng_029f_0220.wav	declared slavery illegal
+nchlt_eng_000918	nchlt_eng/audio/011/nchlt_eng_011m_0333.wav	crowned holy roman
+nchlt_eng_000919	nchlt_eng/audio/066/nchlt_eng_066f_0266.wav	listed buildings in the borders
+nchlt_eng_000920	nchlt_eng/audio/097/nchlt_eng_097f_0157.wav	fourth [s] lateran council
+nchlt_eng_000921	nchlt_eng/audio/035/nchlt_eng_035m_0430.wav	great turkish war
+nchlt_eng_000922	nchlt_eng/audio/093/nchlt_eng_093f_0009.wav	states began using
+nchlt_eng_000923	nchlt_eng/audio/157/nchlt_eng_157m_0214.wav	kingdoms attaining complex
+nchlt_eng_000924	nchlt_eng/audio/181/nchlt_eng_181f_0449.wav	international phonetic alphabet
+nchlt_eng_000925	nchlt_eng/audio/155/nchlt_eng_155m_0813.wav	intermediate appellate court
+nchlt_eng_000926	nchlt_eng/audio/078/nchlt_eng_078f_0133.wav	john maynard smith
+nchlt_eng_000927	nchlt_eng/audio/013/nchlt_eng_013m_0243.wav	carrier battle group
+nchlt_eng_000928	nchlt_eng/audio/164/nchlt_eng_164m_0160.wav	liquefied natural gas
+nchlt_eng_000929	nchlt_eng/audio/061/nchlt_eng_061m_0217.wav	assassinated gothic people
+nchlt_eng_000930	nchlt_eng/audio/053/nchlt_eng_053m_0466.wav	ian holloway said
+nchlt_eng_000931	nchlt_eng/audio/080/nchlt_eng_080f_0266.wav	songs commonly played
+nchlt_eng_000932	nchlt_eng/audio/142/nchlt_eng_142m_0334.wav	french canadian trader la
+nchlt_eng_000933	nchlt_eng/audio/104/nchlt_eng_104f_0683.wav	legal research
+nchlt_eng_000934	nchlt_eng/audio/125/nchlt_eng_125f_0566.wav	south china sea
+nchlt_eng_000935	nchlt_eng/audio/197/nchlt_eng_197m_0294.wav	national league batting
+nchlt_eng_000936	nchlt_eng/audio/020/nchlt_eng_020f_0511.wav	leone
+nchlt_eng_000937	nchlt_eng/audio/066/nchlt_eng_066f_0059.wav	clarinetist ferdinand troyer
+nchlt_eng_000938	nchlt_eng/audio/100/nchlt_eng_100m_0735.wav	cities in ancient egypt
+nchlt_eng_000939	nchlt_eng/audio/114/nchlt_eng_114f_0471.wav	days of the year
+nchlt_eng_000940	nchlt_eng/audio/133/nchlt_eng_133m_0466.wav	nansen ran aground
+nchlt_eng_000941	nchlt_eng/audio/062/nchlt_eng_062m_0311.wav	oral hygiene
+nchlt_eng_000942	nchlt_eng/audio/089/nchlt_eng_089m_0191.wav	swiss immigrants to the united states
+nchlt_eng_000943	nchlt_eng/audio/060/nchlt_eng_060m_0063.wav	american revolution set
+nchlt_eng_000944	nchlt_eng/audio/141/nchlt_eng_141m_0178.wav	deified people
+nchlt_eng_000945	nchlt_eng/audio/143/nchlt_eng_143m_0093.wav	probability theorists
+nchlt_eng_000946	nchlt_eng/audio/054/nchlt_eng_054m_0208.wav	incompleteness theorem constructs
+nchlt_eng_000947	nchlt_eng/audio/161/nchlt_eng_161m_0475.wav	ancient greek cities
+nchlt_eng_000948	nchlt_eng/audio/043/nchlt_eng_043f_0086.wav	old vic theatre
+nchlt_eng_000949	nchlt_eng/audio/198/nchlt_eng_198f_0139.wav	states began using
+nchlt_eng_000950	nchlt_eng/audio/122/nchlt_eng_122f_0085.wav	oliver wendell holmes
+nchlt_eng_000951	nchlt_eng/audio/105/nchlt_eng_105m_0080.wav	database management systems
+nchlt_eng_000952	nchlt_eng/audio/119/nchlt_eng_119f_0457.wav	seemingly limitless number
+nchlt_eng_000953	nchlt_eng/audio/056/nchlt_eng_056m_0386.wav	derived units
+nchlt_eng_000954	nchlt_eng/audio/015/nchlt_eng_015f_0105.wav	creator deities
+nchlt_eng_000955	nchlt_eng/audio/184/nchlt_eng_184f_0191.wav	revivalist new light
+nchlt_eng_000956	nchlt_eng/audio/146/nchlt_eng_146m_0367.wav	chief town continued
+nchlt_eng_000957	nchlt_eng/audio/197/nchlt_eng_197m_0253.wav	do not trust
+nchlt_eng_000958	nchlt_eng/audio/168/nchlt_eng_168f_0307.wav	century census records
+nchlt_eng_000959	nchlt_eng/audio/004/nchlt_eng_004f_0003.wav	english pacifists
+nchlt_eng_000960	nchlt_eng/audio/181/nchlt_eng_181f_0393.wav	new thought movement
+nchlt_eng_000961	nchlt_eng/audio/144/nchlt_eng_144m_0337.wav	new state constitution
+nchlt_eng_000962	nchlt_eng/audio/045/nchlt_eng_045m_0094.wav	excitation function measurements
+nchlt_eng_000963	nchlt_eng/audio/124/nchlt_eng_124f_0432.wav	see ieee [s] computational intelligence society
+nchlt_eng_000964	nchlt_eng/audio/154/nchlt_eng_154m_0264.wav	south east asian
+nchlt_eng_000965	nchlt_eng/audio/026/nchlt_eng_026m_0215.wav	explosive ordnance disposal
+nchlt_eng_000966	nchlt_eng/audio/176/nchlt_eng_176f_0056.wav	french open champions
+nchlt_eng_000967	nchlt_eng/audio/085/nchlt_eng_085f_0185.wav	simple exhaustive searches
+nchlt_eng_000968	nchlt_eng/audio/187/nchlt_eng_187m_0251.wav	city riverside church
+nchlt_eng_000969	nchlt_eng/audio/193/nchlt_eng_193f_0496.wav	service
+nchlt_eng_000970	nchlt_eng/audio/143/nchlt_eng_143m_0398.wav	knights of malta
+nchlt_eng_000971	nchlt_eng/audio/029/nchlt_eng_029f_0496.wav	american president george
+nchlt_eng_000972	nchlt_eng/audio/193/nchlt_eng_193f_0036.wav	meaningful democratic transition
+nchlt_eng_000973	nchlt_eng/audio/073/nchlt_eng_073f_0145.wav	shop pro bypass
+nchlt_eng_000974	nchlt_eng/audio/139/nchlt_eng_139m_0328.wav	minister neville chamberlain
+nchlt_eng_000975	nchlt_eng/audio/065/nchlt_eng_065f_0412.wav	grade listed
+nchlt_eng_000976	nchlt_eng/audio/188/nchlt_eng_188f_0533.wav	italian roman catholic priests
+nchlt_eng_000977	nchlt_eng/audio/100/nchlt_eng_100m_0099.wav	including permanent record
+nchlt_eng_000978	nchlt_eng/audio/187/nchlt_eng_187m_0204.wav	second temple period
+nchlt_eng_000979	nchlt_eng/audio/135/nchlt_eng_135m_0404.wav	house of andechs
+nchlt_eng_000980	nchlt_eng/audio/165/nchlt_eng_165m_0152.wav	anton schiefner published
+nchlt_eng_000981	nchlt_eng/audio/182/nchlt_eng_182m_0024.wav	united nations conference
+nchlt_eng_000982	nchlt_eng/audio/175/nchlt_eng_175f_0309.wav	early latin translations
+nchlt_eng_000983	nchlt_eng/audio/153/nchlt_eng_153m_0202.wav	continuous function
+nchlt_eng_000984	nchlt_eng/audio/182/nchlt_eng_182m_0449.wav	acting theorists
+nchlt_eng_000985	nchlt_eng/audio/037/nchlt_eng_037m_0042.wav	institutional revolutionary party
+nchlt_eng_000986	nchlt_eng/audio/044/nchlt_eng_044f_0353.wav	american technology writers
+nchlt_eng_000987	nchlt_eng/audio/047/nchlt_eng_047m_0294.wav	eastern orthodox christians from russia
+nchlt_eng_000988	nchlt_eng/audio/143/nchlt_eng_143m_0213.wav	dark knight returns
+nchlt_eng_000989	nchlt_eng/audio/115/nchlt_eng_115f_0319.wav	chemical bonding
+nchlt_eng_000990	nchlt_eng/audio/176/nchlt_eng_176f_0164.wav	english poets
+nchlt_eng_000991	nchlt_eng/audio/165/nchlt_eng_165m_0286.wav	prominent examples include
+nchlt_eng_000992	nchlt_eng/audio/153/nchlt_eng_153m_0204.wav	minor league teams
+nchlt_eng_000993	nchlt_eng/audio/192/nchlt_eng_192m_0433.wav	current oral traditions
+nchlt_eng_000994	nchlt_eng/audio/118/nchlt_eng_118f_0588.wav	despite receiving little
+nchlt_eng_000995	nchlt_eng/audio/031/nchlt_eng_031f_0217.wav	people from leytonstone
+nchlt_eng_000996	nchlt_eng/audio/157/nchlt_eng_157m_0132.wav	rosta
+nchlt_eng_000997	nchlt_eng/audio/196/nchlt_eng_196f_0365.wav	snake river watershed
+nchlt_eng_000998	nchlt_eng/audio/122/nchlt_eng_122f_0075.wav	south west africa
+nchlt_eng_000999	nchlt_eng/audio/163/nchlt_eng_163m_0330.wav	league world cup
+nchlt_eng_001000	nchlt_eng/audio/196/nchlt_eng_196f_0402.wav	germanic peoples
+nchlt_eng_001001	nchlt_eng/audio/077/nchlt_eng_077f_0067.wav	religious persecution
+nchlt_eng_001002	nchlt_eng/audio/018/nchlt_eng_018m_0207.wav	false claims act
+nchlt_eng_001003	nchlt_eng/audio/096/nchlt_eng_096m_0211.wav	commission
+nchlt_eng_001004	nchlt_eng/audio/038/nchlt_eng_038m_0030.wav	married yvonne blue
+nchlt_eng_001005	nchlt_eng/audio/174/nchlt_eng_174m_0157.wav	harrison's novel true
+nchlt_eng_001006	nchlt_eng/audio/106/nchlt_eng_106f_0036.wav	william randolph hearst
+nchlt_eng_001007	nchlt_eng/audio/058/nchlt_eng_058f_0195.wav	online publication september
+nchlt_eng_001008	nchlt_eng/audio/157/nchlt_eng_157m_0083.wav	santa clara county
+nchlt_eng_001009	nchlt_eng/audio/196/nchlt_eng_196f_0079.wav	large data sets
+nchlt_eng_001010	nchlt_eng/audio/026/nchlt_eng_026m_0080.wav	good friday agreement
+nchlt_eng_001011	nchlt_eng/audio/019/nchlt_eng_019f_0479.wav	linear differential equation
+nchlt_eng_001012	nchlt_eng/audio/016/nchlt_eng_016f_0179.wav	president dick cheney
+nchlt_eng_001013	nchlt_eng/audio/104/nchlt_eng_104f_0526.wav	riemann zeta function
+nchlt_eng_001014	nchlt_eng/audio/093/nchlt_eng_093f_0251.wav	discovered incendiary substance
+nchlt_eng_001015	nchlt_eng/audio/174/nchlt_eng_174m_0113.wav	operation iraqi freedom
+nchlt_eng_001016	nchlt_eng/audio/181/nchlt_eng_181f_0411.wav	fundamental human rights
+nchlt_eng_001017	nchlt_eng/audio/045/nchlt_eng_045m_0153.wav	american terrorism victims
+nchlt_eng_001018	nchlt_eng/audio/062/nchlt_eng_062m_0330.wav	fictional writers
+nchlt_eng_001019	nchlt_eng/audio/173/nchlt_eng_173f_0428.wav	method
+nchlt_eng_001020	nchlt_eng/audio/033/nchlt_eng_033m_0388.wav	hebrew bible people
+nchlt_eng_001021	nchlt_eng/audio/033/nchlt_eng_033m_0255.wav	brave new world
+nchlt_eng_001022	nchlt_eng/audio/020/nchlt_eng_020f_0390.wav	elected prime minister
+nchlt_eng_001023	nchlt_eng/audio/188/nchlt_eng_188f_0462.wav	new party forming
+nchlt_eng_001024	nchlt_eng/audio/053/nchlt_eng_053m_0056.wav	guinness world record
+nchlt_eng_001025	nchlt_eng/audio/032/nchlt_eng_032m_0284.wav	prevent discrete code
+nchlt_eng_001026	nchlt_eng/audio/181/nchlt_eng_181f_0460.wav	pauline related books
+nchlt_eng_001027	nchlt_eng/audio/014/nchlt_eng_014m_0074.wav	wild card spot
+nchlt_eng_001028	nchlt_eng/audio/190/nchlt_eng_190f_0295.wav	apparently scientifically demonstrated
+nchlt_eng_001029	nchlt_eng/audio/079/nchlt_eng_079m_0101.wav	international electrotechnical commission
+nchlt_eng_001030	nchlt_eng/audio/147/nchlt_eng_147m_0258.wav	god's supposed link
+nchlt_eng_001031	nchlt_eng/audio/114/nchlt_eng_114f_0379.wav	analog circuits
+nchlt_eng_001032	nchlt_eng/audio/147/nchlt_eng_147m_0746.wav	socialist market economy
+nchlt_eng_001033	nchlt_eng/audio/163/nchlt_eng_163m_0092.wav	hungarian second army
+nchlt_eng_001034	nchlt_eng/audio/082/nchlt_eng_082f_0132.wav	pittsburgh
+nchlt_eng_001035	nchlt_eng/audio/097/nchlt_eng_097f_0042.wav	air force academy
+nchlt_eng_001036	nchlt_eng/audio/057/nchlt_eng_057m_0470.wav	deities in the iliad
+nchlt_eng_001037	nchlt_eng/audio/143/nchlt_eng_143m_0167.wav	sirius satellite radio
+nchlt_eng_001038	nchlt_eng/audio/004/nchlt_eng_004f_0069.wav	frankish queens consort
+nchlt_eng_001039	nchlt_eng/audio/106/nchlt_eng_106f_0386.wav	max planck institute
+nchlt_eng_001040	nchlt_eng/audio/108/nchlt_eng_108f_0171.wav	similar chemical compounds
+nchlt_eng_001041	nchlt_eng/audio/125/nchlt_eng_125f_0183.wav	subset sum problem
+nchlt_eng_001042	nchlt_eng/audio/061/nchlt_eng_061m_0081.wav	second century
+nchlt_eng_001043	nchlt_eng/audio/094/nchlt_eng_094m_0390.wav	beat poets
+nchlt_eng_001044	nchlt_eng/audio/101/nchlt_eng_101f_0065.wav	jon's father drove
+nchlt_eng_001045	nchlt_eng/audio/011/nchlt_eng_011m_0274.wav	american inventions
+nchlt_eng_001046	nchlt_eng/audio/112/nchlt_eng_112f_0002.wav	it is a nonlinear function
+nchlt_eng_001047	nchlt_eng/audio/068/nchlt_eng_068f_0296.wav	chekhov began writing
+nchlt_eng_001048	nchlt_eng/audio/049/nchlt_eng_049m_0286.wav	states army air
+nchlt_eng_001049	nchlt_eng/audio/103/nchlt_eng_103m_0311.wav	microwave background radiation
+nchlt_eng_001050	nchlt_eng/audio/048/nchlt_eng_048m_0648.wav	personal area network
+nchlt_eng_001051	nchlt_eng/audio/188/nchlt_eng_188f_0396.wav	new york review
+nchlt_eng_001052	nchlt_eng/audio/039/nchlt_eng_039m_0061.wav	lisp programming language
+nchlt_eng_001053	nchlt_eng/audio/093/nchlt_eng_093f_0627.wav	living fossils
+nchlt_eng_001054	nchlt_eng/audio/061/nchlt_eng_061m_0447.wav	amino acid sequences
+nchlt_eng_001055	nchlt_eng/audio/129/nchlt_eng_129m_0024.wav	thomas hart benton
+nchlt_eng_001056	nchlt_eng/audio/184/nchlt_eng_184f_0161.wav	canadian film actors
+nchlt_eng_001057	nchlt_eng/audio/089/nchlt_eng_089m_0467.wav	hong kong island
+nchlt_eng_001058	nchlt_eng/audio/108/nchlt_eng_108f_0419.wav	franco sensi's period
+nchlt_eng_001059	nchlt_eng/audio/042/nchlt_eng_042f_0226.wav	logan international airport
+nchlt_eng_001060	nchlt_eng/audio/183/nchlt_eng_183f_0015.wav	passes issues contradicting
+nchlt_eng_001061	nchlt_eng/audio/053/nchlt_eng_053m_0441.wav	high priests of israel
+nchlt_eng_001062	nchlt_eng/audio/163/nchlt_eng_163m_0262.wav	cousteau started snorkel
+nchlt_eng_001063	nchlt_eng/audio/020/nchlt_eng_020f_0081.wav	immeasurable wide range
+nchlt_eng_001064	nchlt_eng/audio/075/nchlt_eng_075f_0328.wav	economy of american samoa
+nchlt_eng_001065	nchlt_eng/audio/160/nchlt_eng_160m_0431.wav	chinese martial arts
+nchlt_eng_001066	nchlt_eng/audio/030/nchlt_eng_030f_0009.wav	long range linguistics gave
+nchlt_eng_001067	nchlt_eng/audio/178/nchlt_eng_178f_0617.wav	main movie theatre
+nchlt_eng_001068	nchlt_eng/audio/031/nchlt_eng_031f_0144.wav	systems programming languages
+nchlt_eng_001069	nchlt_eng/audio/079/nchlt_eng_079m_0395.wav	explosive ordnance disposal
+nchlt_eng_001070	nchlt_eng/audio/152/nchlt_eng_152m_0087.wav	new zealand government
+nchlt_eng_001071	nchlt_eng/audio/031/nchlt_eng_031f_0950.wav	carol's matching private
+nchlt_eng_001072	nchlt_eng/audio/048/nchlt_eng_048m_0560.wav	defence
+nchlt_eng_001073	nchlt_eng/audio/105/nchlt_eng_105m_0236.wav	canadian inventors
+nchlt_eng_001074	nchlt_eng/audio/142/nchlt_eng_142m_0309.wav	european countries
+nchlt_eng_001075	nchlt_eng/audio/005/nchlt_eng_005m_0329.wav	north german confederation
+nchlt_eng_001076	nchlt_eng/audio/124/nchlt_eng_124f_0222.wav	new york metropolitan
+nchlt_eng_001077	nchlt_eng/audio/019/nchlt_eng_019f_0463.wav	telecommunication union itu
+nchlt_eng_001078	nchlt_eng/audio/068/nchlt_eng_068f_0041.wav	liberation organization plo [s]
+nchlt_eng_001079	nchlt_eng/audio/107/nchlt_eng_107f_0447.wav	greek polytonic
+nchlt_eng_001080	nchlt_eng/audio/003/nchlt_eng_003m_0431.wav	rebellion
+nchlt_eng_001081	nchlt_eng/audio/150/nchlt_eng_150m_0043.wav	living people
+nchlt_eng_001082	nchlt_eng/audio/158/nchlt_eng_158m_0489.wav	also in general terms also
+nchlt_eng_001083	nchlt_eng/audio/139/nchlt_eng_139m_0242.wav	los angeles angels
+nchlt_eng_001084	nchlt_eng/audio/065/nchlt_eng_065f_0318.wav	inspecting medical facilities
+nchlt_eng_001085	nchlt_eng/audio/121/nchlt_eng_121f_0327.wav	bafta award nomination
+nchlt_eng_001086	nchlt_eng/audio/173/nchlt_eng_173f_0441.wav	deaths from stroke
+nchlt_eng_001087	nchlt_eng/audio/117/nchlt_eng_117f_0383.wav	polish immigrants to the united states
+nchlt_eng_001088	nchlt_eng/audio/019/nchlt_eng_019f_0003.wav	kuiper belt objects
+nchlt_eng_001089	nchlt_eng/audio/166/nchlt_eng_166f_0211.wav	united states food
+nchlt_eng_001090	nchlt_eng/audio/182/nchlt_eng_182m_0402.wav	jewish american scientists
+nchlt_eng_001091	nchlt_eng/audio/053/nchlt_eng_053m_0305.wav	listed buildings in the borders
+nchlt_eng_001092	nchlt_eng/audio/098/nchlt_eng_098m_0249.wav	energy information administration
+nchlt_eng_001093	nchlt_eng/audio/175/nchlt_eng_175f_0218.wav	public school district
+nchlt_eng_001094	nchlt_eng/audio/112/nchlt_eng_112f_0364.wav	directors
+nchlt_eng_001095	nchlt_eng/audio/125/nchlt_eng_125f_0553.wav	african american musicians
+nchlt_eng_001096	nchlt_eng/audio/142/nchlt_eng_142m_0085.wav	astounding science fiction
+nchlt_eng_001097	nchlt_eng/audio/043/nchlt_eng_043f_0029.wav	leaf vegetables
+nchlt_eng_001098	nchlt_eng/audio/063/nchlt_eng_063m_0417.wav	congestive heart failure
+nchlt_eng_001099	nchlt_eng/audio/019/nchlt_eng_019f_0107.wav	british world music groups
+nchlt_eng_001100	nchlt_eng/audio/124/nchlt_eng_124f_0257.wav	minister manmohan singh
+nchlt_eng_001101	nchlt_eng/audio/200/nchlt_eng_200f_0361.wav	mythological hero cult
+nchlt_eng_001102	nchlt_eng/audio/192/nchlt_eng_192m_0181.wav	canadian people of scottish descent
+nchlt_eng_001103	nchlt_eng/audio/042/nchlt_eng_042f_0248.wav	pali sanskrit term
+nchlt_eng_001104	nchlt_eng/audio/054/nchlt_eng_054m_0287.wav	features atoms wide
+nchlt_eng_001105	nchlt_eng/audio/005/nchlt_eng_005m_0301.wav	orthodox monarchs
+nchlt_eng_001106	nchlt_eng/audio/090/nchlt_eng_090m_0410.wav	president andrew jackson
+nchlt_eng_001107	nchlt_eng/audio/029/nchlt_eng_029f_0160.wav	administered tribal areas
+nchlt_eng_001108	nchlt_eng/audio/198/nchlt_eng_198f_0088.wav	universal postal union
+nchlt_eng_001109	nchlt_eng/audio/018/nchlt_eng_018m_0651.wav	states postal service
+nchlt_eng_001110	nchlt_eng/audio/031/nchlt_eng_031f_0052.wav	densely populated country
+nchlt_eng_001111	nchlt_eng/audio/075/nchlt_eng_075f_0439.wav	barge passing heinz
+nchlt_eng_001112	nchlt_eng/audio/187/nchlt_eng_187m_0099.wav	abstract data type
+nchlt_eng_001113	nchlt_eng/audio/060/nchlt_eng_060m_1020.wav	arab league member
+nchlt_eng_001114	nchlt_eng/audio/146/nchlt_eng_146m_0381.wav	james madison university
+nchlt_eng_001115	nchlt_eng/audio/099/nchlt_eng_099f_0431.wav	pdpa [s] communist controlled regime
+nchlt_eng_001116	nchlt_eng/audio/094/nchlt_eng_094m_0126.wav	native american cultures
+nchlt_eng_001117	nchlt_eng/audio/086/nchlt_eng_086f_0354.wav	aristotle defines metaphysics as
+nchlt_eng_001118	nchlt_eng/audio/091/nchlt_eng_091f_0425.wav	east coast maine
+nchlt_eng_001119	nchlt_eng/audio/178/nchlt_eng_178f_0206.wav	picture experts group
+nchlt_eng_001120	nchlt_eng/audio/195/nchlt_eng_195f_0224.wav	publicly traded companies
+nchlt_eng_001121	nchlt_eng/audio/087/nchlt_eng_087f_0330.wav	cold war tensions
+nchlt_eng_001122	nchlt_eng/audio/184/nchlt_eng_184f_0234.wav	roman catholic bishop
+nchlt_eng_001123	nchlt_eng/audio/008/nchlt_eng_008f_0032.wav	may
+nchlt_eng_001124	nchlt_eng/audio/125/nchlt_eng_125f_0187.wav	canadian immigrants to the united states
+nchlt_eng_001125	nchlt_eng/audio/175/nchlt_eng_175f_0263.wav	prime mover onboard
+nchlt_eng_001126	nchlt_eng/audio/143/nchlt_eng_143m_0087.wav	obsolete scientific theories
+nchlt_eng_001127	nchlt_eng/audio/011/nchlt_eng_011m_0170.wav	super bowl victories
+nchlt_eng_001128	nchlt_eng/audio/156/nchlt_eng_156m_0154.wav	city riverside church
+nchlt_eng_001129	nchlt_eng/audio/139/nchlt_eng_139m_0055.wav	early latin translations
+nchlt_eng_001130	nchlt_eng/audio/127/nchlt_eng_127m_0354.wav	african coastal highway
+nchlt_eng_001131	nchlt_eng/audio/116/nchlt_eng_116f_0022.wav	digital audio broadcasting
+nchlt_eng_001132	nchlt_eng/audio/112/nchlt_eng_112f_0325.wav	united states department
+nchlt_eng_001133	nchlt_eng/audio/178/nchlt_eng_178f_0515.wav	european political party
+nchlt_eng_001134	nchlt_eng/audio/104/nchlt_eng_104f_0626.wav	french foreign legion
+nchlt_eng_001135	nchlt_eng/audio/084/nchlt_eng_084f_0063.wav	depute [s] muslim envoy
+nchlt_eng_001136	nchlt_eng/audio/095/nchlt_eng_095m_0126.wav	russian short story writers
+nchlt_eng_001137	nchlt_eng/audio/078/nchlt_eng_078f_0274.wav	digital terrestrial television
+nchlt_eng_001138	nchlt_eng/audio/128/nchlt_eng_128f_0008.wav	modern military historian
+nchlt_eng_001139	nchlt_eng/audio/012/nchlt_eng_012m_0485.wav	southwestern united states
+nchlt_eng_001140	nchlt_eng/audio/052/nchlt_eng_052m_0343.wav	mexican general juan
+nchlt_eng_001141	nchlt_eng/audio/161/nchlt_eng_161m_0319.wav	greek goddesses
+nchlt_eng_001142	nchlt_eng/audio/108/nchlt_eng_108f_0170.wav	lgbt writers from france
+nchlt_eng_001143	nchlt_eng/audio/186/nchlt_eng_186f_0420.wav	request quotation date
+nchlt_eng_001144	nchlt_eng/audio/071/nchlt_eng_071f_0314.wav	liberation organization plo
+nchlt_eng_001145	nchlt_eng/audio/087/nchlt_eng_087f_0664.wav	higher compression ratio
+nchlt_eng_001146	nchlt_eng/audio/044/nchlt_eng_044f_0113.wav	cue ball cue
+nchlt_eng_001147	nchlt_eng/audio/149/nchlt_eng_149m_0040.wav	object database management
+nchlt_eng_001148	nchlt_eng/audio/075/nchlt_eng_075f_0444.wav	fantasy baseball fans
+nchlt_eng_001149	nchlt_eng/audio/109/nchlt_eng_109f_0165.wav	swiss vegetarians
+nchlt_eng_001150	nchlt_eng/audio/201/nchlt_eng_201m_0016.wav	black panther party
+nchlt_eng_001151	nchlt_eng/audio/048/nchlt_eng_048m_0396.wav	tertiary extinction event
+nchlt_eng_001152	nchlt_eng/audio/175/nchlt_eng_175f_0326.wav	world meteorological organization
+nchlt_eng_001153	nchlt_eng/audio/152/nchlt_eng_152m_0180.wav	various option taxes
+nchlt_eng_001154	nchlt_eng/audio/075/nchlt_eng_075f_0472.wav	including international competitors
+nchlt_eng_001155	nchlt_eng/audio/183/nchlt_eng_183f_0198.wav	silent film actors
+nchlt_eng_001156	nchlt_eng/audio/100/nchlt_eng_100m_0404.wav	north pacific ocean
+nchlt_eng_001157	nchlt_eng/audio/082/nchlt_eng_082f_0160.wav	japanese martial arts
+nchlt_eng_001158	nchlt_eng/audio/048/nchlt_eng_048m_0149.wav	comics buyer s
+nchlt_eng_001159	nchlt_eng/audio/075/nchlt_eng_075f_0305.wav	rugby union team
+nchlt_eng_001160	nchlt_eng/audio/156/nchlt_eng_156m_0295.wav	known instruments include
+nchlt_eng_001161	nchlt_eng/audio/137/nchlt_eng_137m_0238.wav	new classical economics
+nchlt_eng_001162	nchlt_eng/audio/139/nchlt_eng_139m_0419.wav	statistic
+nchlt_eng_001163	nchlt_eng/audio/162/nchlt_eng_162m_0398.wav	franz von papen
+nchlt_eng_001164	nchlt_eng/audio/062/nchlt_eng_062m_0277.wav	national democratic alliance
+nchlt_eng_001165	nchlt_eng/audio/156/nchlt_eng_156m_0359.wav	time generally saw
+nchlt_eng_001166	nchlt_eng/audio/017/nchlt_eng_017f_0037.wav	rulers who died as children
+nchlt_eng_001167	nchlt_eng/audio/068/nchlt_eng_068f_0092.wav	chicago metropolitan area
+nchlt_eng_001168	nchlt_eng/audio/105/nchlt_eng_105m_0231.wav	beneath grade levels
+nchlt_eng_001169	nchlt_eng/audio/031/nchlt_eng_031f_0300.wav	union political leaders
+nchlt_eng_001170	nchlt_eng/audio/115/nchlt_eng_115f_0084.wav	american jewish university
+nchlt_eng_001171	nchlt_eng/audio/079/nchlt_eng_079m_0475.wav	indie friendly london records
+nchlt_eng_001172	nchlt_eng/audio/064/nchlt_eng_064m_0463.wav	left field wall
+nchlt_eng_001173	nchlt_eng/audio/010/nchlt_eng_010m_0272.wav	deaths from throat cancer
+nchlt_eng_001174	nchlt_eng/audio/090/nchlt_eng_090m_0444.wav	eastern orthodox christians from russia
+nchlt_eng_001175	nchlt_eng/audio/114/nchlt_eng_114f_0139.wav	lorentz force law
+nchlt_eng_001176	nchlt_eng/audio/138/nchlt_eng_138m_0058.wav	id software released
+nchlt_eng_001177	nchlt_eng/audio/117/nchlt_eng_117f_0316.wav	mayflower
+nchlt_eng_001178	nchlt_eng/audio/158/nchlt_eng_158m_0349.wav	great irish famine
+nchlt_eng_001179	nchlt_eng/audio/166/nchlt_eng_166f_0120.wav	positron emission tomography
+nchlt_eng_001180	nchlt_eng/audio/196/nchlt_eng_196f_0037.wav	ancient egypt achieved
+nchlt_eng_001181	nchlt_eng/audio/144/nchlt_eng_144m_0465.wav	south asian countries
+nchlt_eng_001182	nchlt_eng/audio/173/nchlt_eng_173f_0283.wav	western roman empire
+nchlt_eng_001183	nchlt_eng/audio/156/nchlt_eng_156m_0446.wav	medieval european mathematics
+nchlt_eng_001184	nchlt_eng/audio/003/nchlt_eng_003m_0047.wav	radio broadcast stations
+nchlt_eng_001185	nchlt_eng/audio/063/nchlt_eng_063m_0165.wav	special path attribute
+nchlt_eng_001186	nchlt_eng/audio/185/nchlt_eng_185m_0609.wav	david's
+nchlt_eng_001187	nchlt_eng/audio/089/nchlt_eng_089m_0066.wav	major international airport
+nchlt_eng_001188	nchlt_eng/audio/169/nchlt_eng_169f_0150.wav	world recognizes franchise
+nchlt_eng_001189	nchlt_eng/audio/095/nchlt_eng_095m_0034.wav	later versions supported
+nchlt_eng_001190	nchlt_eng/audio/096/nchlt_eng_096m_0363.wav	hebrew bible people
+nchlt_eng_001191	nchlt_eng/audio/045/nchlt_eng_045m_0353.wav	white blood cells
+nchlt_eng_001192	nchlt_eng/audio/110/nchlt_eng_110f_0054.wav	complex numbers
+nchlt_eng_001193	nchlt_eng/audio/094/nchlt_eng_094m_0283.wav	special operations force
+nchlt_eng_001194	nchlt_eng/audio/147/nchlt_eng_147m_0200.wav	limited geographic area
+nchlt_eng_001195	nchlt_eng/audio/025/nchlt_eng_025f_0388.wav	influential japanese composer
+nchlt_eng_001196	nchlt_eng/audio/184/nchlt_eng_184f_0151.wav	sydney morning herald
+nchlt_eng_001197	nchlt_eng/audio/099/nchlt_eng_099f_0170.wav	gibson les paul
+nchlt_eng_001198	nchlt_eng/audio/104/nchlt_eng_104f_0480.wav	interactive achievement award
+nchlt_eng_001199	nchlt_eng/audio/008/nchlt_eng_008f_0087.wav	software synthesizer reaktor
+nchlt_eng_001200	nchlt_eng/audio/057/nchlt_eng_057m_0272.wav	pali sanskrit term
+nchlt_eng_001201	nchlt_eng/audio/012/nchlt_eng_012m_0092.wav	greek mythology
+nchlt_eng_001202	nchlt_eng/audio/121/nchlt_eng_121f_0182.wav	games
+nchlt_eng_001203	nchlt_eng/audio/150/nchlt_eng_150m_0104.wav	turkic rulers
+nchlt_eng_001204	nchlt_eng/audio/073/nchlt_eng_073f_0336.wav	greek letters
+nchlt_eng_001205	nchlt_eng/audio/152/nchlt_eng_152m_0427.wav	torah people
+nchlt_eng_001206	nchlt_eng/audio/131/nchlt_eng_131m_0673.wav	recent dna analysis
+nchlt_eng_001207	nchlt_eng/audio/038/nchlt_eng_038m_0283.wav	major population centers
+nchlt_eng_001208	nchlt_eng/audio/104/nchlt_eng_104f_0677.wav	atomic molecular and optical physics
+nchlt_eng_001209	nchlt_eng/audio/132/nchlt_eng_132m_0177.wav	iran iraq war
+nchlt_eng_001210	nchlt_eng/audio/142/nchlt_eng_142m_0513.wav	film techniques
+nchlt_eng_001211	nchlt_eng/audio/160/nchlt_eng_160m_0121.wav	bridgeport
+nchlt_eng_001212	nchlt_eng/audio/087/nchlt_eng_087f_0793.wav	people from trier
+nchlt_eng_001213	nchlt_eng/audio/113/nchlt_eng_113m_0492.wav	stating unrestricted submarine
+nchlt_eng_001214	nchlt_eng/audio/068/nchlt_eng_068f_0338.wav	generic religious instruction
+nchlt_eng_001215	nchlt_eng/audio/062/nchlt_eng_062m_0012.wav	gun running incident
+nchlt_eng_001216	nchlt_eng/audio/047/nchlt_eng_047m_0048.wav	outstanding natural beauty
+nchlt_eng_001217	nchlt_eng/audio/178/nchlt_eng_178f_0533.wav	british medical journal
+nchlt_eng_001218	nchlt_eng/audio/076/nchlt_eng_076m_0197.wav	allemansdrift
+nchlt_eng_001219	nchlt_eng/audio/176/nchlt_eng_176f_0432.wav	following table summarizes
+nchlt_eng_001220	nchlt_eng/audio/160/nchlt_eng_160m_0330.wav	english comedy writers
+nchlt_eng_001221	nchlt_eng/audio/032/nchlt_eng_032m_0169.wav	american shooting survivors
+nchlt_eng_001222	nchlt_eng/audio/050/nchlt_eng_050m_0366.wav	regional transit authority
+nchlt_eng_001223	nchlt_eng/audio/105/nchlt_eng_105m_0130.wav	international phonetic association
+nchlt_eng_001224	nchlt_eng/audio/031/nchlt_eng_031f_0029.wav	national defense commission
+nchlt_eng_001225	nchlt_eng/audio/064/nchlt_eng_064m_0172.wav	australian prime minister
+nchlt_eng_001226	nchlt_eng/audio/106/nchlt_eng_106f_0019.wav	people from raleigh north carolina
+nchlt_eng_001227	nchlt_eng/audio/044/nchlt_eng_044f_0258.wav	major commercial success
+nchlt_eng_001228	nchlt_eng/audio/178/nchlt_eng_178f_0616.wav	fission chain reaction
+nchlt_eng_001229	nchlt_eng/audio/155/nchlt_eng_155m_0297.wav	helium core supported
+nchlt_eng_001230	nchlt_eng/audio/164/nchlt_eng_164m_0525.wav	recorded pronunciations uk
+nchlt_eng_001231	nchlt_eng/audio/082/nchlt_eng_082f_0334.wav	overall art department
+nchlt_eng_001232	nchlt_eng/audio/056/nchlt_eng_056m_0344.wav	national weather service
+nchlt_eng_001233	nchlt_eng/audio/147/nchlt_eng_147m_0323.wav	world wide fund
+nchlt_eng_001234	nchlt_eng/audio/170/nchlt_eng_170m_0777.wav	johnson
+nchlt_eng_001235	nchlt_eng/audio/015/nchlt_eng_015f_0358.wav	union political leaders
+nchlt_eng_001236	nchlt_eng/audio/043/nchlt_eng_043f_0186.wav	wild card spot
+nchlt_eng_001237	nchlt_eng/audio/173/nchlt_eng_173f_0106.wav	cover making
+nchlt_eng_001238	nchlt_eng/audio/017/nchlt_eng_017f_0234.wav	cold war tensions
+nchlt_eng_001239	nchlt_eng/audio/003/nchlt_eng_003m_0361.wav	swedish musical groups
+nchlt_eng_001240	nchlt_eng/audio/163/nchlt_eng_163m_0392.wav	swedish chemists
+nchlt_eng_001241	nchlt_eng/audio/010/nchlt_eng_010m_0327.wav	old feature requests
+nchlt_eng_001242	nchlt_eng/audio/201/nchlt_eng_201m_0110.wav	notably hosting peace
+nchlt_eng_001243	nchlt_eng/audio/066/nchlt_eng_066f_0428.wav	princeton university alumni
+nchlt_eng_001244	nchlt_eng/audio/178/nchlt_eng_178f_0242.wav	royal geographical society
+nchlt_eng_001245	nchlt_eng/audio/089/nchlt_eng_089m_0474.wav	depute muslim envoy
+nchlt_eng_001246	nchlt_eng/audio/019/nchlt_eng_019f_0129.wav	dark horse comics
+nchlt_eng_001247	nchlt_eng/audio/136/nchlt_eng_136m_0273.wav	early modern english
+nchlt_eng_001248	nchlt_eng/audio/031/nchlt_eng_031f_1072.wav	operation enduring freedom
+nchlt_eng_001249	nchlt_eng/audio/079/nchlt_eng_079m_0279.wav	greek archaeological sites
+nchlt_eng_001250	nchlt_eng/audio/045/nchlt_eng_045m_0399.wav	pope paul
+nchlt_eng_001251	nchlt_eng/audio/100/nchlt_eng_100m_0302.wav	lawrence livermore national
+nchlt_eng_001252	nchlt_eng/audio/197/nchlt_eng_197m_0220.wav	fled en masse
+nchlt_eng_001253	nchlt_eng/audio/034/nchlt_eng_034f_0170.wav	fictional alchemists
+nchlt_eng_001254	nchlt_eng/audio/196/nchlt_eng_196f_0007.wav	japanese film directors
+nchlt_eng_001255	nchlt_eng/audio/085/nchlt_eng_085f_0083.wav	earlier leadership contest
+nchlt_eng_001256	nchlt_eng/audio/016/nchlt_eng_016f_0007.wav	highly reactive hydrogen
+nchlt_eng_001257	nchlt_eng/audio/092/nchlt_eng_092m_0117.wav	narrow coastal plain
+nchlt_eng_001258	nchlt_eng/audio/069/nchlt_eng_069f_0187.wav	sci fi channel
+nchlt_eng_001259	nchlt_eng/audio/119/nchlt_eng_119f_0071.wav	civil rights leaders
+nchlt_eng_001260	nchlt_eng/audio/143/nchlt_eng_143m_0141.wav	indian ocean trade
+nchlt_eng_001261	nchlt_eng/audio/010/nchlt_eng_010m_0281.wav	minimum wage laws
+nchlt_eng_001262	nchlt_eng/audio/026/nchlt_eng_026m_0347.wav	client server architecture
+nchlt_eng_001263	nchlt_eng/audio/154/nchlt_eng_154m_0532.wav	carolingian latin writers
+nchlt_eng_001264	nchlt_eng/audio/183/nchlt_eng_183f_0266.wav	history of italy
+nchlt_eng_001265	nchlt_eng/audio/030/nchlt_eng_030f_0026.wav	bay devil rays
+nchlt_eng_001266	nchlt_eng/audio/060/nchlt_eng_060m_0434.wav	black sea region
+nchlt_eng_001267	nchlt_eng/audio/098/nchlt_eng_098m_0160.wav	chemical mixtures
+nchlt_eng_001268	nchlt_eng/audio/151/nchlt_eng_151m_0303.wav	new supreme court
+nchlt_eng_001269	nchlt_eng/audio/112/nchlt_eng_112f_0260.wav	christian monasteries
+nchlt_eng_001270	nchlt_eng/audio/050/nchlt_eng_050m_0123.wav	right hand drive
+nchlt_eng_001271	nchlt_eng/audio/031/nchlt_eng_031f_0045.wav	[s] swedish musical groups
+nchlt_eng_001272	nchlt_eng/audio/003/nchlt_eng_003m_0234.wav	greek polytonic
+nchlt_eng_001273	nchlt_eng/audio/105/nchlt_eng_105m_0387.wav	fully developed constructed language
+nchlt_eng_001274	nchlt_eng/audio/038/nchlt_eng_038m_0013.wav	upper new york
+nchlt_eng_001275	nchlt_eng/audio/190/nchlt_eng_190f_0086.wav	recyclable materials
+nchlt_eng_001276	nchlt_eng/audio/108/nchlt_eng_108f_0523.wav	american screenwriters
+nchlt_eng_001277	nchlt_eng/audio/119/nchlt_eng_119f_0188.wav	north american english
+nchlt_eng_001278	nchlt_eng/audio/027/nchlt_eng_027m_0300.wav	murdered russian monarchs
+nchlt_eng_001279	nchlt_eng/audio/194/nchlt_eng_194f_0068.wav	san diego padres
+nchlt_eng_001280	nchlt_eng/audio/195/nchlt_eng_195f_0293.wav	and every gain divine
+nchlt_eng_001281	nchlt_eng/audio/053/nchlt_eng_053m_0249.wav	holy roman emperors
+nchlt_eng_001282	nchlt_eng/audio/068/nchlt_eng_068f_0486.wav	lgbt jews
+nchlt_eng_001283	nchlt_eng/audio/175/nchlt_eng_175f_0034.wav	trade agreement nafta
+nchlt_eng_001284	nchlt_eng/audio/189/nchlt_eng_189f_0201.wav	national guard ang
+nchlt_eng_001285	nchlt_eng/audio/031/nchlt_eng_031f_0254.wav	greater toronto area
+nchlt_eng_001286	nchlt_eng/audio/145/nchlt_eng_145m_0064.wav	united nations peacekeeping
+nchlt_eng_001287	nchlt_eng/audio/078/nchlt_eng_078f_0344.wav	judges
+nchlt_eng_001288	nchlt_eng/audio/168/nchlt_eng_168f_0553.wav	english speaking countries
+nchlt_eng_001289	nchlt_eng/audio/085/nchlt_eng_085f_0265.wav	ft m long
+nchlt_eng_001290	nchlt_eng/audio/192/nchlt_eng_192m_0237.wav	bay devil rays
+nchlt_eng_001291	nchlt_eng/audio/126/nchlt_eng_126f_0364.wav	cincinnati red stockings
+nchlt_eng_001292	nchlt_eng/audio/073/nchlt_eng_073f_0454.wav	shi ar empire
+nchlt_eng_001293	nchlt_eng/audio/157/nchlt_eng_157m_0002.wav	complaints
+nchlt_eng_001294	nchlt_eng/audio/198/nchlt_eng_198f_0098.wav	simple harmonic oscillator
+nchlt_eng_001295	nchlt_eng/audio/126/nchlt_eng_126f_0287.wav	william grey walter
+nchlt_eng_001296	nchlt_eng/audio/149/nchlt_eng_149m_0326.wav	constitution took effect
+nchlt_eng_001297	nchlt_eng/audio/189/nchlt_eng_189f_0057.wav	mission specialist educators or
+nchlt_eng_001298	nchlt_eng/audio/047/nchlt_eng_047m_0333.wav	morrison fauna
+nchlt_eng_001299	nchlt_eng/audio/049/nchlt_eng_049m_0388.wav	lowest energy state
+nchlt_eng_001300	nchlt_eng/audio/100/nchlt_eng_100m_0229.wav	adapted screenplay academy
+nchlt_eng_001301	nchlt_eng/audio/111/nchlt_eng_111m_0462.wav	german saints
+nchlt_eng_001302	nchlt_eng/audio/176/nchlt_eng_176f_0180.wav	apparently seventh century deuteronomy
+nchlt_eng_001303	nchlt_eng/audio/098/nchlt_eng_098m_0516.wav	countries bordering the atlantic ocean
+nchlt_eng_001304	nchlt_eng/audio/101/nchlt_eng_101f_0436.wav	british prime ministers
+nchlt_eng_001305	nchlt_eng/audio/156/nchlt_eng_156m_0308.wav	active duty personnel
+nchlt_eng_001306	nchlt_eng/audio/153/nchlt_eng_153m_0103.wav	ray transition calculations
+nchlt_eng_001307	nchlt_eng/audio/019/nchlt_eng_019f_0497.wav	operation desert storm
+nchlt_eng_001308	nchlt_eng/audio/110/nchlt_eng_110f_0002.wav	lord peter wimsey
+nchlt_eng_001309	nchlt_eng/audio/031/nchlt_eng_031f_0851.wav	rustenburg
+nchlt_eng_001310	nchlt_eng/audio/066/nchlt_eng_066f_0278.wav	canadian aviation hall of fame inductees
+nchlt_eng_001311	nchlt_eng/audio/150/nchlt_eng_150m_0454.wav	western new york
+nchlt_eng_001312	nchlt_eng/audio/087/nchlt_eng_087f_0406.wav	test cricket competitions
+nchlt_eng_001313	nchlt_eng/audio/029/nchlt_eng_029f_0124.wav	ancient milesians
+nchlt_eng_001314	nchlt_eng/audio/003/nchlt_eng_003m_0066.wav	explosive ordnance disposal
+nchlt_eng_001315	nchlt_eng/audio/190/nchlt_eng_190f_0446.wav	north german confederation
+nchlt_eng_001316	nchlt_eng/audio/186/nchlt_eng_186f_0226.wav	short story manga
+nchlt_eng_001317	nchlt_eng/audio/007/nchlt_eng_007f_0396.wav	western european countries
+nchlt_eng_001318	nchlt_eng/audio/104/nchlt_eng_104f_0412.wav	relatively short period
+nchlt_eng_001319	nchlt_eng/audio/197/nchlt_eng_197m_0053.wav	sattva predominant qualities
+nchlt_eng_001320	nchlt_eng/audio/153/nchlt_eng_153m_0495.wav	former dutch colonies
+nchlt_eng_001321	nchlt_eng/audio/103/nchlt_eng_103m_0257.wav	scottish businesspeople
+nchlt_eng_001322	nchlt_eng/audio/195/nchlt_eng_195f_0044.wav	allow successful attacks
+nchlt_eng_001323	nchlt_eng/audio/198/nchlt_eng_198f_0304.wav	football conference afc
+nchlt_eng_001324	nchlt_eng/audio/077/nchlt_eng_077f_0068.wav	al bin ali
+nchlt_eng_001325	nchlt_eng/audio/015/nchlt_eng_015f_0100.wav	months depending
+nchlt_eng_001326	nchlt_eng/audio/106/nchlt_eng_106f_0535.wav	chief retained command
+nchlt_eng_001327	nchlt_eng/audio/157/nchlt_eng_157m_0281.wav	westminster
+nchlt_eng_001328	nchlt_eng/audio/089/nchlt_eng_089m_0061.wav	right hand drive
+nchlt_eng_001329	nchlt_eng/audio/034/nchlt_eng_034f_0427.wav	russian chess writers
+nchlt_eng_001330	nchlt_eng/audio/053/nchlt_eng_053m_0054.wav	raise biological questions
+nchlt_eng_001331	nchlt_eng/audio/142/nchlt_eng_142m_0439.wav	increased pilot situational
+nchlt_eng_001332	nchlt_eng/audio/010/nchlt_eng_010m_0200.wav	united states later
+nchlt_eng_001333	nchlt_eng/audio/096/nchlt_eng_096m_0371.wav	banking sector boasted
+nchlt_eng_001334	nchlt_eng/audio/014/nchlt_eng_014m_0232.wav	area named gwent
+nchlt_eng_001335	nchlt_eng/audio/021/nchlt_eng_021f_0245.wav	southern pacific railroad
+nchlt_eng_001336	nchlt_eng/audio/141/nchlt_eng_141m_0120.wav	best belfast city
+nchlt_eng_001337	nchlt_eng/audio/135/nchlt_eng_135m_0128.wav	eastern bloc nations
+nchlt_eng_001338	nchlt_eng/audio/164/nchlt_eng_164m_0250.wav	late sixteenth century
+nchlt_eng_001339	nchlt_eng/audio/111/nchlt_eng_111m_0497.wav	parktown
+nchlt_eng_001340	nchlt_eng/audio/059/nchlt_eng_059m_0687.wav	stalinism era scholars and writers
+nchlt_eng_001341	nchlt_eng/audio/076/nchlt_eng_076m_0080.wav	united states federal
+nchlt_eng_001342	nchlt_eng/audio/057/nchlt_eng_057m_0253.wav	portuguese admirals
+nchlt_eng_001343	nchlt_eng/audio/165/nchlt_eng_165m_0175.wav	punk rock movement
+nchlt_eng_001344	nchlt_eng/audio/098/nchlt_eng_098m_0096.wav	pope gregory
+nchlt_eng_001345	nchlt_eng/audio/060/nchlt_eng_060m_0986.wav	political philosophers
+nchlt_eng_001346	nchlt_eng/audio/186/nchlt_eng_186f_0098.wav	citation needed september
+nchlt_eng_001347	nchlt_eng/audio/051/nchlt_eng_051f_0086.wav	day international cricketers
+nchlt_eng_001348	nchlt_eng/audio/123/nchlt_eng_123f_0261.wav	palo alto research
+nchlt_eng_001349	nchlt_eng/audio/202/nchlt_eng_202m_0150.wav	new political party
+nchlt_eng_001350	nchlt_eng/audio/099/nchlt_eng_099f_0412.wav	german chemists
+nchlt_eng_001351	nchlt_eng/audio/109/nchlt_eng_109f_0279.wav	o beautiful for spacious skies
+nchlt_eng_001352	nchlt_eng/audio/158/nchlt_eng_158m_0569.wav	old west norse
+nchlt_eng_001353	nchlt_eng/audio/142/nchlt_eng_142m_0571.wav	organisation of the islamic conference members
+nchlt_eng_001354	nchlt_eng/audio/065/nchlt_eng_065f_0119.wav	american shooting survivors
+nchlt_eng_001355	nchlt_eng/audio/125/nchlt_eng_125f_0345.wav	american male singers
+nchlt_eng_001356	nchlt_eng/audio/145/nchlt_eng_145m_0437.wav	american medical association
+nchlt_eng_001357	nchlt_eng/audio/163/nchlt_eng_163m_0485.wav	social
+nchlt_eng_001358	nchlt_eng/audio/076/nchlt_eng_076m_0362.wav	west indies federation
+nchlt_eng_001359	nchlt_eng/audio/057/nchlt_eng_057m_0148.wav	glove award winners
+nchlt_eng_001360	nchlt_eng/audio/103/nchlt_eng_103m_0330.wav	inhumane weapons convention
+nchlt_eng_001361	nchlt_eng/audio/089/nchlt_eng_089m_0203.wav	peer review process
+nchlt_eng_001362	nchlt_eng/audio/142/nchlt_eng_142m_0434.wav	pope julius

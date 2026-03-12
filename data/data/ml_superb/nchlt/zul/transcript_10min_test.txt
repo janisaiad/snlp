@@ -1,0 +1,138 @@
+nchlt_zul_000940	nchlt_zul/audio/030/nchlt_zul_030m_0032.wav	kusebenza isitifikedi sokushona
+nchlt_zul_000941	nchlt_zul/audio/180/nchlt_zul_180m_0207.wav	abangamaphini esiphathimandla [s] sezokwazisa
+nchlt_zul_000942	nchlt_zul/audio/149/nchlt_zul_149m_0262.wav	namagqubu eminyakanyaka [s] kwavimbanisa
+nchlt_zul_000943	nchlt_zul/audio/090/nchlt_zul_090f_0138.wav	nehhovisi likamaster ukuthola
+nchlt_zul_000944	nchlt_zul/audio/149/nchlt_zul_149m_0033.wav	sihloni phe siqinisekise
+nchlt_zul_000945	nchlt_zul/audio/007/nchlt_zul_007m_0167.wav	umuntu igunya lokushayela
+nchlt_zul_000946	nchlt_zul/audio/098/nchlt_zul_098f_0468.wav	ngokulandela umthetho wesilungu
+nchlt_zul_000947	nchlt_zul/audio/078/nchlt_zul_078m_0427.wav	okumele athole imali
+nchlt_zul_000948	nchlt_zul/audio/139/nchlt_zul_139m_0238.wav	luyatholaka esizindeni sembhalo
+nchlt_zul_000949	nchlt_zul/audio/199/nchlt_zul_199f_0251.wav	kukalwazi ngobufakazi engininike
+nchlt_zul_000950	nchlt_zul/audio/057/nchlt_zul_057m_0394.wav	kwezinyanga ezine zilandelana
+nchlt_zul_000951	nchlt_zul/audio/070/nchlt_zul_070m_0366.wav	somthetho wokulekelela kwezenhlalakahle
+nchlt_zul_000952	nchlt_zul/audio/073/nchlt_zul_073m_0563.wav	irisidi lokwamukela isicelo
+nchlt_zul_000953	nchlt_zul/audio/019/nchlt_zul_019m_0282.wav	ukusebenzisa ulimi ukuhlola
+nchlt_zul_000954	nchlt_zul/audio/151/nchlt_zul_151m_0142.wav	ukwehluka nokufana okukhona
+nchlt_zul_000955	nchlt_zul/audio/044/nchlt_zul_044f_0160.wav	mongameli wephalamende nomgcini
+nchlt_zul_000956	nchlt_zul/audio/156/nchlt_zul_156f_0143.wav	ngazilibazisa ngobala angiqhubeke
+nchlt_zul_000957	nchlt_zul/audio/130/nchlt_zul_130f_1007.wav	okungakhandli [s] njengokuhamba kwandisa
+nchlt_zul_000958	nchlt_zul/audio/127/nchlt_zul_127m_0324.wav	sasikade singenamakhethini ahlukanisa
+nchlt_zul_000959	nchlt_zul/audio/083/nchlt_zul_083m_0424.wav	nguhlelo lwezinga lasekuqaleni
+nchlt_zul_000960	nchlt_zul/audio/188/nchlt_zul_188f_0597.wav	aseduzane [s] ezomnyango wezangaphakathi
+nchlt_zul_000961	nchlt_zul/audio/125/nchlt_zul_125f_0123.wav	ayenakho ngempilo wakukhiphela
+nchlt_zul_000962	nchlt_zul/audio/110/nchlt_zul_110m_0316.wav	kuyileli khishi ngilithanda
+nchlt_zul_000963	nchlt_zul/audio/177/nchlt_zul_177m_0347.wav	kokuphambukela kulomgudu [s] okuyisinyathelo
+nchlt_zul_000964	nchlt_zul/audio/150/nchlt_zul_150m_0065.wav	isingaze ikhonze umntanayo
+nchlt_zul_000965	nchlt_zul/audio/092/nchlt_zul_092f_0181.wav	enye nenye imoto
+nchlt_zul_000966	nchlt_zul/audio/011/nchlt_zul_011f_0509.wav	ongumnakekeli ubufakazi obusemthethweni
+nchlt_zul_000967	nchlt_zul/audio/034/nchlt_zul_034m_0037.wav	izaziso ezithunyelwe ngeqondomshini
+nchlt_zul_000968	nchlt_zul/audio/201/nchlt_zul_201f_0327.wav	onomlando woku cindezeleka
+nchlt_zul_000969	nchlt_zul/audio/111/nchlt_zul_111f_0513.wav	onesitifiketi sokugunyazwa ozizwa
+nchlt_zul_000970	nchlt_zul/audio/080/nchlt_zul_080m_0324.wav	olwazi lwentela ngokunabile
+nchlt_zul_000971	nchlt_zul/audio/023/nchlt_zul_023m_0106.wav	ekudistriki yalapho umuntu
+nchlt_zul_000972	nchlt_zul/audio/169/nchlt_zul_169m_0456.wav	kunesicelo sokubuyekezwa kwesinqumo
+nchlt_zul_000973	nchlt_zul/audio/021/nchlt_zul_021m_0186.wav	bafundisise kahle imiyalelo
+nchlt_zul_000974	nchlt_zul/audio/141/nchlt_zul_141m_0343.wav	ngezimakethe ezinikelayo kusiza
+nchlt_zul_000975	nchlt_zul/audio/043/nchlt_zul_043m_0119.wav	okusayinwe khona isicelo
+nchlt_zul_000976	nchlt_zul/audio/034/nchlt_zul_034m_0442.wav	esithi indawo nendlela
+nchlt_zul_000977	nchlt_zul/audio/075/nchlt_zul_075f_0141.wav	asekele imibono yakhe
+nchlt_zul_000978	nchlt_zul/audio/007/nchlt_zul_007m_0225.wav	umhlalaphansi eningizimu afrika
+nchlt_zul_000979	nchlt_zul/audio/146/nchlt_zul_146m_0096.wav	sesithathe amagxathu amakhulu
+nchlt_zul_000980	nchlt_zul/audio/195/nchlt_zul_195f_0596.wav	abenguni abangakaze baphuphe
+nchlt_zul_000981	nchlt_zul/audio/090/nchlt_zul_090f_0134.wav	kwisimo esiqondena nawe
+nchlt_zul_000982	nchlt_zul/audio/047/nchlt_zul_047f_0001.wav	nemininingwane yohlelo lokwelashwa
+nchlt_zul_000983	nchlt_zul/audio/102/nchlt_zul_102m_0396.wav	umkhokhi wentela uzokwamukelwa
+nchlt_zul_000984	nchlt_zul/audio/024/nchlt_zul_024f_0134.wav	kusho umphathi wendabuko
+nchlt_zul_000985	nchlt_zul/audio/062/nchlt_zul_062m_0205.wav	imali engur ikhishwa
+nchlt_zul_000986	nchlt_zul/audio/158/nchlt_zul_158m_0104.wav	namahlombe amabhuzi amhlophe
+nchlt_zul_000987	nchlt_zul/audio/154/nchlt_zul_154m_0203.wav	edofika
+nchlt_zul_000988	nchlt_zul/audio/200/nchlt_zul_200f_0200.wav	ngensipho namanzi gwema
+nchlt_zul_000989	nchlt_zul/audio/063/nchlt_zul_063m_0496.wav	ulimi lokuqala olwengeziwe
+nchlt_zul_000990	nchlt_zul/audio/166/nchlt_zul_166f_0457.wav	seplastiki obuhlala umphathele
+nchlt_zul_000991	nchlt_zul/audio/027/nchlt_zul_027f_0137.wav	nemiphumela kulungele inhloso
+nchlt_zul_000992	nchlt_zul/audio/193/nchlt_zul_193f_0561.wav	lokujoyina olukhethile ludala
+nchlt_zul_000993	nchlt_zul/audio/065/nchlt_zul_065f_0353.wav	sisebenza iminyaka emibili
+nchlt_zul_000994	nchlt_zul/audio/041/nchlt_zul_041m_0022.wav	ku sars website
+nchlt_zul_000995	nchlt_zul/audio/070/nchlt_zul_070m_0053.wav	ukuthola umyalelo wokukhipha
+nchlt_zul_000996	nchlt_zul/audio/073/nchlt_zul_073m_0323.wav	angakhetha uuthi avume
+nchlt_zul_000997	nchlt_zul/audio/126/nchlt_zul_126f_0158.wav	bezakhamuzi [s] ngokwalesahluko nangokosiko
+nchlt_zul_000998	nchlt_zul/audio/027/nchlt_zul_027f_0149.wav	izokhipha amasamanisi kummangalelwa
+nchlt_zul_000999	nchlt_zul/audio/052/nchlt_zul_052f_0002.wav	kube yilona elivela
+nchlt_zul_001000	nchlt_zul/audio/010/nchlt_zul_010f_0197.wav	ukuhambisana kwemicabango ngokusebenzisa
+nchlt_zul_001001	nchlt_zul/audio/054/nchlt_zul_054f_0208.wav	san diego chargers
+nchlt_zul_001002	nchlt_zul/audio/140/nchlt_zul_140m_0184.wav	abalandela lemikhakha bayogculiseka
+nchlt_zul_001003	nchlt_zul/audio/034/nchlt_zul_034m_0278.wav	amaafidavithi aphuma kubantu
+nchlt_zul_001004	nchlt_zul/audio/026/nchlt_zul_026f_0391.wav	nezindaba zokulingana ngokobulili
+nchlt_zul_001005	nchlt_zul/audio/164/nchlt_zul_164f_0500.wav	sikhundla esigcwalisiwe sigcwaliswa
+nchlt_zul_001006	nchlt_zul/audio/151/nchlt_zul_151m_0582.wav	ngesikahthi sekhomishani kaleon
+nchlt_zul_001007	nchlt_zul/audio/134/nchlt_zul_134m_0174.wav	lwezethulo ezibhekiswe kwikomidi
+nchlt_zul_001008	nchlt_zul/audio/200/nchlt_zul_200f_0256.wav	zokungenelela sesikulungele ukuguqula
+nchlt_zul_001009	nchlt_zul/audio/020/nchlt_zul_020f_0160.wav	lolu lwazi olulandelayo
+nchlt_zul_001010	nchlt_zul/audio/129/nchlt_zul_129m_0429.wav	kweqe ithamo esinalo
+nchlt_zul_001011	nchlt_zul/audio/171/nchlt_zul_171m_0046.wav	olwakhelwe ukuqeqesheka nobungcweti
+nchlt_zul_001012	nchlt_zul/audio/014/nchlt_zul_014f_0254.wav	wezokubusa ngokubambisana nezindaba
+nchlt_zul_001013	nchlt_zul/audio/052/nchlt_zul_052f_0025.wav	[s] nezindleko kwisikhulu sezondlo
+nchlt_zul_001014	nchlt_zul/audio/044/nchlt_zul_044f_0214.wav	kahle neze kulokho
+nchlt_zul_001015	nchlt_zul/audio/033/nchlt_zul_033m_0053.wav	amagama asetshenziswe kahle
+nchlt_zul_001016	nchlt_zul/audio/175/nchlt_zul_175m_0925.wav	abaphephise ubengeke nangengozi
+nchlt_zul_001017	nchlt_zul/audio/188/nchlt_zul_188f_0345.wav	uzokwazi ukufunda nokubukela
+nchlt_zul_001018	nchlt_zul/audio/200/nchlt_zul_200f_0462.wav	uthuthukise imikhiqizo emisha
+nchlt_zul_001019	nchlt_zul/audio/088/nchlt_zul_088m_0021.wav	uma umuntu etholwe
+nchlt_zul_001020	nchlt_zul/audio/175/nchlt_zul_175m_0703.wav	unotono
+nchlt_zul_001021	nchlt_zul/audio/186/nchlt_zul_186m_0003.wav	ziyothwalwa ngabazali abafuna
+nchlt_zul_001022	nchlt_zul/audio/077/nchlt_zul_077m_0442.wav	sephomedi uma lena
+nchlt_zul_001023	nchlt_zul/audio/012/nchlt_zul_012f_0174.wav	ngayo yokukhokhela imali
+nchlt_zul_001024	nchlt_zul/audio/034/nchlt_zul_034m_0455.wav	kubandakanya umthetho wokuphathwa
+nchlt_zul_001025	nchlt_zul/audio/044/nchlt_zul_044f_0443.wav	ngeke wakhipha imvume
+nchlt_zul_001026	nchlt_zul/audio/055/nchlt_zul_055f_0372.wav	leli fomu linikezelwe
+nchlt_zul_001027	nchlt_zul/audio/064/nchlt_zul_064f_0251.wav	kepha siya siba
+nchlt_zul_001028	nchlt_zul/audio/153/nchlt_zul_153m_0019.wav	bathumele iripoti yokubuyela
+nchlt_zul_001029	nchlt_zul/audio/181/nchlt_zul_181f_0621.wav	anganibusisa lifezeke iphupho
+nchlt_zul_001030	nchlt_zul/audio/140/nchlt_zul_140m_0456.wav	ungacela abasizi bezenhlala
+nchlt_zul_001031	nchlt_zul/audio/132/nchlt_zul_132m_0296.wav	kubantu [s] bakulesi sifundazwe
+nchlt_zul_001032	nchlt_zul/audio/011/nchlt_zul_011f_0149.wav	eliphethe izindaba zenhlalo
+nchlt_zul_001033	nchlt_zul/audio/087/nchlt_zul_087m_0068.wav	[s] ungenza isicelo sokwamukelwa
+nchlt_zul_001034	nchlt_zul/audio/028/nchlt_zul_028f_0152.wav	yiliphi ilungu labasebenzi
+nchlt_zul_001035	nchlt_zul/audio/182/nchlt_zul_182f_0797.wav	nasephephandabeni noabeni ezizungeza
+nchlt_zul_001036	nchlt_zul/audio/121/nchlt_zul_121f_0572.wav	ethu ukuphazamiseka okungabakhona
+nchlt_zul_001037	nchlt_zul/audio/173/nchlt_zul_173m_0294.wav	eziphakanyisweni nasezinhlelweni zokwabiwa
+nchlt_zul_001038	nchlt_zul/audio/200/nchlt_zul_200f_0182.wav	izibongo zaboo zakudala
+nchlt_zul_001039	nchlt_zul/audio/033/nchlt_zul_033m_0465.wav	kuqale kutholakale imvume
+nchlt_zul_001040	nchlt_zul/audio/047/nchlt_zul_047f_0196.wav	nokudalwa kwamathuba emisebenzi
+nchlt_zul_001041	nchlt_zul/audio/182/nchlt_zul_182f_0645.wav	isitsha esikhanyayo okwazi
+nchlt_zul_001042	nchlt_zul/audio/093/nchlt_zul_093f_0524.wav	yobisi nemikhiqizo yalo
+nchlt_zul_001043	nchlt_zul/audio/104/nchlt_zul_104f_0466.wav	ephalamende azitholele wona
+nchlt_zul_001044	nchlt_zul/audio/008/nchlt_zul_008m_0421.wav	kusikhulu sezondlo ngokukhokhela
+nchlt_zul_001045	nchlt_zul/audio/110/nchlt_zul_110m_0317.wav	kushenxa kwakhelwe embonweni
+nchlt_zul_001046	nchlt_zul/audio/105/nchlt_zul_105f_0345.wav	othatshathiwe ehhovisini lezemisebenzi
+nchlt_zul_001047	nchlt_zul/audio/200/nchlt_zul_200f_0257.wav	njengokuthi ubenze balalele
+nchlt_zul_001048	nchlt_zul/audio/008/nchlt_zul_008m_0124.wav	game boy color
+nchlt_zul_001049	nchlt_zul/audio/054/nchlt_zul_054f_0358.wav	kulesi siqephu esilandelayo
+nchlt_zul_001050	nchlt_zul/audio/045/nchlt_zul_045m_0401.wav	uma umuntu etholwe
+nchlt_zul_001051	nchlt_zul/audio/108/nchlt_zul_108f_0077.wav	nelizwe laseshayina ukuvumbuka
+nchlt_zul_001052	nchlt_zul/audio/159/nchlt_zul_159m_0294.wav	babezijabulele becula kumnandi
+nchlt_zul_001053	nchlt_zul/audio/062/nchlt_zul_062m_0133.wav	ngokushelelayo izikhathi eziningi
+nchlt_zul_001054	nchlt_zul/audio/049/nchlt_zul_049f_0301.wav	kwezindawo zokufuya izinkukhu
+nchlt_zul_001055	nchlt_zul/audio/009/nchlt_zul_009m_0339.wav	kepha siya siba
+nchlt_zul_001056	nchlt_zul/audio/047/nchlt_zul_047f_0453.wav	sisebenza iminyaka emibili
+nchlt_zul_001057	nchlt_zul/audio/159/nchlt_zul_159m_0595.wav	ukumasashwa kwekhanda nentamo
+nchlt_zul_001058	nchlt_zul/audio/017/nchlt_zul_017m_0320.wav	ngokukhokhela intela yesikhashana
+nchlt_zul_001059	nchlt_zul/audio/046/nchlt_zul_046m_0228.wav	of south africa
+nchlt_zul_001060	nchlt_zul/audio/171/nchlt_zul_171m_0382.wav	[s] okwasemadolobheni okumela ngokuhlanganyelwayo
+nchlt_zul_001061	nchlt_zul/audio/140/nchlt_zul_140m_0701.wav	izindleko zecala eziwumthamo
+nchlt_zul_001062	nchlt_zul/audio/131/nchlt_zul_131f_0065.wav	owehluleka ukuyi thobela
+nchlt_zul_001063	nchlt_zul/audio/092/nchlt_zul_092f_0199.wav	lesi sithombe esilandelayo
+nchlt_zul_001064	nchlt_zul/audio/061/nchlt_zul_061f_0459.wav	abangamalunga eqembu labantu
+nchlt_zul_001065	nchlt_zul/audio/057/nchlt_zul_057m_0025.wav	esikoleni ngosuku [s] locwaningo
+nchlt_zul_001066	nchlt_zul/audio/062/nchlt_zul_062m_0309.wav	uma ummangalelwa [s] evuma
+nchlt_zul_001067	nchlt_zul/audio/046/nchlt_zul_046m_0367.wav	elungwini lomkhandlu ophethe
+nchlt_zul_001068	nchlt_zul/audio/049/nchlt_zul_049f_0375.wav	ukwenza isicelo sokuba
+nchlt_zul_001069	nchlt_zul/audio/047/nchlt_zul_047f_0365.wav	omhlali okwazi ukwenza
+nchlt_zul_001070	nchlt_zul/audio/047/nchlt_zul_047f_0174.wav	umfundisi ubufakazi bokuthi
+nchlt_zul_001071	nchlt_zul/audio/065/nchlt_zul_065f_0225.wav	asetshenziswa ngokugculisayo imisho
+nchlt_zul_001072	nchlt_zul/audio/173/nchlt_zul_173m_0408.wav	iziphathimandla ezihl elayo
+nchlt_zul_001073	nchlt_zul/audio/097/nchlt_zul_097f_0456.wav	lendlu yesishayamthetho kuzwelonke
+nchlt_zul_001074	nchlt_zul/audio/085/nchlt_zul_085m_0366.wav	abasebenzi abaselivini kufanele
+nchlt_zul_001075	nchlt_zul/audio/047/nchlt_zul_047f_0385.wav	izindlela ezingcono zokusebenza
+nchlt_zul_001076	nchlt_zul/audio/049/nchlt_zul_049f_0145.wav	nezindleko kwisikhulu sezondlo
+nchlt_zul_001077	nchlt_zul/audio/062/nchlt_zul_062m_0441.wav	zeminwe yomenzi wesicelo

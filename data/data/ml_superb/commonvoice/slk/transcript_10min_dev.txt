@@ -1,0 +1,139 @@
+cv_slk_000878 common_voice_sk_26379282.mp3 brzdový pedál
+cv_slk_000879 common_voice_sk_26379283.mp3 karcinóm
+cv_slk_000880 common_voice_sk_26379284.mp3 evakuácia; vysťahovanie
+cv_slk_000881 common_voice_sk_26379290.mp3 kritika; nepríjemné hodnotenie
+cv_slk_000882 common_voice_sk_26379291.mp3 chladný; studený
+cv_slk_000883 common_voice_sk_26379292.mp3 hypotéza; teória; predpoklad
+cv_slk_000884 common_voice_sk_26379294.mp3 Bethlehem
+cv_slk_000885 common_voice_sk_26379295.mp3 V Košickej kotline nechal vystavať nový komitátny hrad Novum Castrum.
+cv_slk_000886 common_voice_sk_25220042.mp3 bezpečnostný; preventívny
+cv_slk_000887 common_voice_sk_25220043.mp3 klasický; formálny; slávnostný
+cv_slk_000888 common_voice_sk_25220044.mp3 hlupák
+cv_slk_000889 common_voice_sk_25220045.mp3 Pritom všetkom je veľmi rozmanitá a zdravá.
+cv_slk_000890 common_voice_sk_25220046.mp3 upevnený; uchytený; zafixovaný
+cv_slk_000891 common_voice_sk_25220050.mp3 kuvajtský dinár
+cv_slk_000892 common_voice_sk_25220051.mp3 Mexičan
+cv_slk_000893 common_voice_sk_25220052.mp3 Dňami pracovného kľudu je sobota a nedeľa.
+cv_slk_000894 common_voice_sk_25220053.mp3 chronický
+cv_slk_000895 common_voice_sk_25220054.mp3 kuvajtská menová jednotka
+cv_slk_000896 common_voice_sk_25220064.mp3 nosič golfových palíc; krabička s čajom
+cv_slk_000897 common_voice_sk_25220065.mp3 rozdielny; rôzny; iný
+cv_slk_000898 common_voice_sk_25220066.mp3 otupelý; opitý; ožratý do nemoty; spitý namol; opitý namol; napitý; nadratý
+cv_slk_000899 common_voice_sk_25220067.mp3 Arizona
+cv_slk_000900 common_voice_sk_25220069.mp3 zabezpečuje centrálnu technickú evidenciu pozemných komunikácií
+cv_slk_000901 common_voice_sk_25220112.mp3 dláždený povrch
+cv_slk_000902 common_voice_sk_25220114.mp3 Fyzické osoby stále viac zverejňujú svoje osobné údaje, a to aj v globálnom meradle.
+cv_slk_000903 common_voice_sk_25220115.mp3 benzínová nádrž; nádrž na benzín; palivová nádrž
+cv_slk_000904 common_voice_sk_25220116.mp3 ľahká atletika
+cv_slk_000905 common_voice_sk_25220117.mp3 osamelý; sám; osamotený
+cv_slk_000906 common_voice_sk_25220131.mp3 kataklyzma; pohroma; katastrofa
+cv_slk_000907 common_voice_sk_25220132.mp3 hromada; kopa; množstvo; spústa; hŕba; halda; veľké množstvo; hora; stoh
+cv_slk_000908 common_voice_sk_25220133.mp3 cieva
+cv_slk_000909 common_voice_sk_25220134.mp3 obozretnosť; opatrnosť; pozornosť
+cv_slk_000910 common_voice_sk_25220135.mp3 farba; farbivo; náter
+cv_slk_000911 common_voice_sk_28723134.mp3 okrasné pero; perá
+cv_slk_000912 common_voice_sk_28723168.mp3 hra; bezstarostná zábava
+cv_slk_000913 common_voice_sk_28723172.mp3 Ministerstvo udeľuje oprávnenie na dobu neurčitú.
+cv_slk_000914 common_voice_sk_28723177.mp3 kyselina
+cv_slk_000915 common_voice_sk_28723183.mp3 kvapalinová jednotka
+cv_slk_000916 common_voice_sk_28723184.mp3 belasý; bledomodrý
+cv_slk_000917 common_voice_sk_28723188.mp3 letecká ochrana
+cv_slk_000918 common_voice_sk_28723190.mp3 obchodná politika
+cv_slk_000919 common_voice_sk_28723209.mp3 Prevádzka jednej zo služieb ovplyvňuje aj ostatné služby bežiace v rovnakom operačnom systéme
+cv_slk_000920 common_voice_sk_28723210.mp3 Graminales; rad Graminales
+cv_slk_000921 common_voice_sk_28723211.mp3 líbyjský dinár
+cv_slk_000922 common_voice_sk_28723212.mp3 kult; náboženský kult
+cv_slk_000923 common_voice_sk_28723218.mp3 opätovné vyhlásenie; opätovné potvrdenie; opätovné uistenie
+cv_slk_000924 common_voice_sk_28723221.mp3 istrov Lanai
+cv_slk_000925 common_voice_sk_28723222.mp3 omilostenie; zľutovanie
+cv_slk_000926 common_voice_sk_28723231.mp3 odvetvie; sektor; sféra
+cv_slk_000927 common_voice_sk_28723244.mp3 odchod; odchádzanie
+cv_slk_000928 common_voice_sk_28723247.mp3 podrobný; detailný; prepracovaný
+cv_slk_000929 common_voice_sk_28723258.mp3 gonádotropín
+cv_slk_000930 common_voice_sk_28723259.mp3 Je tri štvrte na jednu.
+cv_slk_000931 common_voice_sk_28723271.mp3 podstatný; značný
+cv_slk_000932 common_voice_sk_28723281.mp3 jahoda
+cv_slk_000933 common_voice_sk_28723283.mp3 bratstvo; bratský zväzok; bratské puto
+cv_slk_000934 common_voice_sk_28723286.mp3 milión
+cv_slk_000935 common_voice_sk_28723288.mp3 izotermický; izotermný; stály o teplote
+cv_slk_000936 common_voice_sk_28723292.mp3 Vysielanie diela, retransmisia diela a sprístupňovanie diela verejnosti je verejným prenosom diela.
+cv_slk_000937 common_voice_sk_28723293.mp3 Naopak do morského akvária by sa takýto piesok hodil.
+cv_slk_000938 common_voice_sk_28723309.mp3 osvetlenie; vysvietenie
+cv_slk_000939 common_voice_sk_30608184.mp3 metrický cent; cent
+cv_slk_000940 common_voice_sk_30608186.mp3 Aby sme mohli presne určiť hrozby v sieti v reálnom čase, potrebujeme funkčný firewall
+cv_slk_000941 common_voice_sk_30608188.mp3 hrad Balmoral
+cv_slk_000942 common_voice_sk_30608190.mp3 extrém
+cv_slk_000943 common_voice_sk_30608191.mp3 omáčka na špagety; omáčka na pastu
+cv_slk_000944 common_voice_sk_30608526.mp3 kozmetický
+cv_slk_000945 common_voice_sk_30608528.mp3 analytik
+cv_slk_000946 common_voice_sk_30608531.mp3 dobrodružný
+cv_slk_000947 common_voice_sk_30608534.mp3 aktivita; činnosť; konanie; pôsobenie; aktívnosť
+cv_slk_000948 common_voice_sk_30608535.mp3 buržoázny; malomeštiacky
+cv_slk_000949 common_voice_sk_30608580.mp3 junior
+cv_slk_000950 common_voice_sk_30608582.mp3 Nová Guinea
+cv_slk_000951 common_voice_sk_30608583.mp3 V obytných priestoroch je vhodným riešením nosná kovová konštrukcia
+cv_slk_000952 common_voice_sk_30608584.mp3 Nová čistá akadama má veľkú schopnosť viazať na seba minerály z vody.
+cv_slk_000953 common_voice_sk_30608590.mp3 Nastav teplotu na chodbe na dvadsať päť stupňov Celzia.
+cv_slk_000954 common_voice_sk_30608591.mp3 kriminálny; trestuhodný; zločinný
+cv_slk_000955 common_voice_sk_30608592.mp3 ľudská hlava
+cv_slk_000956 common_voice_sk_30608593.mp3 chybný; poškodený; pokazený; defektný
+cv_slk_000957 common_voice_sk_30608594.mp3 klérus; duchovenstvo
+cv_slk_000958 common_voice_sk_30608615.mp3 Pustíme sa do zvyšovania kapacity diskových úložísk a prenosovej kapacity sieťovej infraštruktúry.
+cv_slk_000959 common_voice_sk_30608616.mp3 Fuego
+cv_slk_000960 common_voice_sk_30608617.mp3 Odtiaľ potom ostreľoval mesto, ktoré sa hneď vzdalo.
+cv_slk_000961 common_voice_sk_30608618.mp3 opiát
+cv_slk_000962 common_voice_sk_30608619.mp3 Za nimi nasledovali duševne pracujúci a tiež ženy na materskej dovolenke či podnikatelia.
+cv_slk_000963 common_voice_sk_30608630.mp3 kyselina uhličitá
+cv_slk_000964 common_voice_sk_30608631.mp3 hodinový stroj
+cv_slk_000965 common_voice_sk_30608632.mp3 cirkevný otec; apoštol
+cv_slk_000966 common_voice_sk_30608633.mp3 materiálny
+cv_slk_000967 common_voice_sk_30608634.mp3 náhla kontrola
+cv_slk_000968 common_voice_sk_27636032.mp3 Všetky celosklenené nádrže je nutné klásť na rovný priestor povrchu stojanu
+cv_slk_000969 common_voice_sk_27636034.mp3 králik vodný
+cv_slk_000970 common_voice_sk_27636035.mp3 Na prvom poschodí sa nachádza mechanizmus veľkých hodín.
+cv_slk_000971 common_voice_sk_27636036.mp3 pečený; upečený
+cv_slk_000972 common_voice_sk_27636037.mp3 Dočasné vyhotovenie rozmnoženiny diela
+cv_slk_000973 common_voice_sk_27636064.mp3 flegmatizátor; odstrašenie; čokoľvek, čo prekáža; odstrašovací prostriedok; prekážka
+cv_slk_000974 common_voice_sk_27636066.mp3 kríza; krízová situácia
+cv_slk_000975 common_voice_sk_27636067.mp3 medzimozog; diencefalon
+cv_slk_000976 common_voice_sk_27636068.mp3 bitka; boj; zápas; konflikt
+cv_slk_000977 common_voice_sk_27636070.mp3 moderný; aktuálny; najnovší; hypermoderný; priekopnícky - technológia
+cv_slk_000978 common_voice_sk_27636084.mp3 hydina; hydinové mäso
+cv_slk_000979 common_voice_sk_27636085.mp3 fatalita; fatálnosť; osudovosť; osudná náhoda; smrteľná nehoda; smrteľný úraz; úmrtnosť
+cv_slk_000980 common_voice_sk_27636086.mp3 Aká je teplota v garáži?
+cv_slk_000981 common_voice_sk_27636087.mp3 os; čap; os ramena nápravy
+cv_slk_000982 common_voice_sk_27636088.mp3 čeľaď
+cv_slk_000983 common_voice_sk_27636094.mp3 nutný; potrebný
+cv_slk_000984 common_voice_sk_27636095.mp3 nadvláda; prevaha; dominancia; kontrola
+cv_slk_000985 common_voice_sk_27636096.mp3 predmetov a listov rastlín, pretože im bránia v dýchaní.
+cv_slk_000986 common_voice_sk_27636097.mp3 citrónový; citrusový
+cv_slk_000987 common_voice_sk_27636098.mp3 bióm; zónový ekosystém
+cv_slk_000988 common_voice_sk_27636113.mp3 kyselina pikrová; trinitrofenol
+cv_slk_000989 common_voice_sk_27636115.mp3 Preto doporučujeme kupovať rašelinu určenú priamo pre akvaristiku.
+cv_slk_000990 common_voice_sk_27636116.mp3 vaskulárny; cievny; cievnatý; krvný
+cv_slk_000991 common_voice_sk_27636117.mp3 okenný rám; rám okna; okenica
+cv_slk_000992 common_voice_sk_27636118.mp3 bibliomanský; bibliofilský
+cv_slk_000993 common_voice_sk_27636139.mp3 ihla
+cv_slk_000994 common_voice_sk_27636140.mp3 garáž
+cv_slk_000995 common_voice_sk_27636142.mp3 inflačný
+cv_slk_000996 common_voice_sk_27636143.mp3 aktuálny; súčasný; momentálny
+cv_slk_000997 common_voice_sk_29626916.mp3 hranica; okraj; pokraj
+cv_slk_000998 common_voice_sk_29626917.mp3 odliatok; liatina
+cv_slk_000999 common_voice_sk_29626918.mp3 kružnica
+cv_slk_001000 common_voice_sk_29626920.mp3 nepríjemný človek; nevrlá osoba; nevľúdna osoba
+cv_slk_001001 common_voice_sk_29626922.mp3 buržoázny
+cv_slk_001002 common_voice_sk_29626982.mp3 beloch
+cv_slk_001003 common_voice_sk_29626984.mp3 Štandardnou možnosťou čítačiek je pripojenie k internetu.
+cv_slk_001004 common_voice_sk_29626985.mp3 experiment; pokus
+cv_slk_001005 common_voice_sk_29626986.mp3 nákazlivá choroba; nákaza
+cv_slk_001006 common_voice_sk_29626987.mp3 kanonická hodina
+cv_slk_001007 common_voice_sk_29627073.mp3 krmivo; suché krmivo
+cv_slk_001008 common_voice_sk_29627077.mp3 ovsená kaša; kukuričná kaša
+cv_slk_001009 common_voice_sk_29627080.mp3 kryštálik ľadu; ľadová ihlička
+cv_slk_001010 common_voice_sk_29627082.mp3 kniha
+cv_slk_001011 common_voice_sk_29627084.mp3 Príklady nájdeme aj v geológii.
+cv_slk_001012 common_voice_sk_29627155.mp3 môžu byť aj nebezpečné.
+cv_slk_001013 common_voice_sk_29627156.mp3 artézsky
+cv_slk_001014 common_voice_sk_29627158.mp3 gonáda; pohlavná žľaza
+cv_slk_001015 common_voice_sk_29627159.mp3 forma; kmeň
+cv_slk_001016 common_voice_sk_29627162.mp3 Aká je teplota v detskej izbe?

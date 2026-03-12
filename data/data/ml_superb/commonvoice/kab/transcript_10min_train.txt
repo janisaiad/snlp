@@ -1,0 +1,145 @@
+cv_kab_000000 common_voice_kab_22747958.mp3 La nettnadi tamudrut.
+cv_kab_000001 common_voice_kab_22746475.mp3 Cukkeɣ d lawan ad nebdu.
+cv_kab_000002 common_voice_kab_33831447.mp3 Ur yessaweḍ ad d-yawey akayad-nni.
+cv_kab_000003 common_voice_kab_17451839.mp3 yurar mliḥ deg wannar
+cv_kab_000004 common_voice_kab_20639921.mp3 Ur cukkeɣ ara d tidet.
+cv_kab_000005 common_voice_kab_17845265.mp3 Mi ixulef abrid yeğğa-t, di lkaf yewḥel uḍar-is.
+cv_kab_000006 common_voice_kab_18395070.mp3 Tfaqeḍ-asen?
+cv_kab_000007 common_voice_kab_20326487.mp3 Ad teqqim deg uxxam-nsen, ad tečč seg yedrimen n tejmaɛt arma tezweǧ.
+cv_kab_000008 common_voice_kab_18032523.mp3 D ayen igerzen i mi yerbeḥ talɣuɣt deg tteɛṭac n iseggasen di leɛmeṛ-is.
+cv_kab_000009 common_voice_kab_17519675.mp3 ɛuhdeɣ-ken ur cciḍeɣ
+cv_kab_000010 common_voice_kab_22837440.mp3 Ttxil-m, mel-iyi-d abrid.
+cv_kab_000011 common_voice_kab_24257098.mp3 ilem
+cv_kab_000012 common_voice_kab_20160945.mp3 Yenɣa-yam-t.
+cv_kab_000013 common_voice_kab_17637362.mp3 mi kfiɣ regmeɣ iman-iw
+cv_kab_000014 common_voice_kab_18549794.mp3 Bɣiɣ ad n-rzuɣ ɣur-wen.
+cv_kab_000015 common_voice_kab_20958311.mp3 Tṛuḥ-iyi.
+cv_kab_000016 common_voice_kab_22665217.mp3 Enrhumé, il tousse; il est alité.
+cv_kab_000017 common_voice_kab_22982971.mp3 Arkasen-a ur iyi-hwin ara.
+cv_kab_000018 common_voice_kab_18789334.mp3 Mliɣ-asen d acu ara xedmen.
+cv_kab_000019 common_voice_kab_22750928.mp3 Melmi ay d-tguǧǧ ɣer da?
+cv_kab_000020 common_voice_kab_22745584.mp3 Nekk ssawaleɣ s tmaziɣt.
+cv_kab_000021 common_voice_kab_17373042.mp3 yiwen yiwen neɣ sin sin
+cv_kab_000022 common_voice_kab_18387388.mp3 Tsefḍeḍ akk leḥyuḍ-nni?
+cv_kab_000023 common_voice_kab_19470673.mp3 Kemmel aṭili!
+cv_kab_000024 common_voice_kab_23599204.mp3 Ulac tiḥuna zzat wanda zedɣeɣ.
+cv_kab_000025 common_voice_kab_23658560.mp3 Sami d ababat n sin n yigerdan.
+cv_kab_000026 common_voice_kab_23433019.mp3 Werjin ddiɣ s axxam n ɛemmi.
+cv_kab_000027 common_voice_kab_18703351.mp3 Nḥemmel ad necnu.
+cv_kab_000028 common_voice_kab_23109794.mp3 D acu ay awent-iga uselmad?
+cv_kab_000029 common_voice_kab_17767653.mp3 Addad n tkebbanit deg tagara n useggas, isefraḥ.
+cv_kab_000030 common_voice_kab_21863818.mp3 Lliɣ sseftutuseɣ aɣrum.
+cv_kab_000031 common_voice_kab_22738985.mp3 Anda tella texxamt-nnek?
+cv_kab_000032 common_voice_kab_17557956.mp3 ur yeqqim ara
+cv_kab_000033 common_voice_kab_17686332.mp3 taseftit n yezri am tin n wurmir
+cv_kab_000034 common_voice_kab_22760466.mp3 Is jun tekkid tiwled?
+cv_kab_000035 common_voice_kab_17935010.mp3 Dɣa d tidet?
+cv_kab_000036 common_voice_kab_22353698.mp3 Azekka, ad d-qḍunt.
+cv_kab_000037 common_voice_kab_21379121.mp3 Tebɣiḍ kra sɣur-nteɣ?
+cv_kab_000038 common_voice_kab_17634052.mp3 Sewḥel tisefsiyin web akken ad ifsusen isebtar
+cv_kab_000039 common_voice_kab_18381556.mp3 Zeɛma d kečč i ixedmen aya?
+cv_kab_000040 common_voice_kab_22335014.mp3 Anda ay tent-tessutrem?
+cv_kab_000041 common_voice_kab_17635802.mp3 ṭṭfen amẓabi
+cv_kab_000042 common_voice_kab_21890583.mp3 Nettat d taselmadt-inu.
+cv_kab_000043 common_voice_kab_21087840.mp3 Iṭij ɣef medden merra.
+cv_kab_000044 common_voice_kab_20703501.mp3 Tebɣa ad tennaɣ.
+cv_kab_000045 common_voice_kab_23388959.mp3 D Yuba axir-iw deg tefransist.
+cv_kab_000046 common_voice_kab_17569511.mp3 d tamusni
+cv_kab_000047 common_voice_kab_22958204.mp3 Netta meẓẓiy aṭas ɣef Mexluf.
+cv_kab_000048 common_voice_kab_32567682.mp3 sin
+cv_kab_000049 common_voice_kab_22754012.mp3 Irgazen d irmekdiyen.
+cv_kab_000050 common_voice_kab_22751200.mp3 Anta deg-sent ay yelhan?
+cv_kab_000051 common_voice_kab_20211009.mp3 Tiwwura n yigenwan.
+cv_kab_000052 common_voice_kab_17944329.mp3 Ḥbes ur ggar ara iman-im.
+cv_kab_000053 common_voice_kab_17810881.mp3 Acuɣeṛ i tettazzaleḍ?
+cv_kab_000054 common_voice_kab_24052209.mp3 ih
+cv_kab_000055 common_voice_kab_34901581.mp3 semmus
+cv_kab_000056 common_voice_kab_22744186.mp3 Ayen ay d-nenna d tidet.
+cv_kab_000057 common_voice_kab_18169084.mp3 Awi-d kan amek ara d-banen s tugna yelhan.
+cv_kab_000058 common_voice_kab_33047142.mp3 ilem
+cv_kab_000059 common_voice_kab_22761734.mp3 It haven't been very long since the airplan took off.
+cv_kab_000060 common_voice_kab_19137867.mp3 Xḍan akk yergazen-nni i tsertit.
+cv_kab_000061 common_voice_kab_23375192.mp3 Ur tesɛim ara akk tazrirt.
+cv_kab_000062 common_voice_kab_21675474.mp3 Ur d-yettas ara ass-a.
+cv_kab_000063 common_voice_kab_17716651.mp3 Ad d-iniɣ.
+cv_kab_000064 common_voice_kab_18093761.mp3 Ad farsen tiḥdayin.
+cv_kab_000065 common_voice_kab_23365160.mp3 Maɛṭub deg uxxam i yella?
+cv_kab_000066 common_voice_kab_18500087.mp3 Tura ad yebdu ixeddim.
+cv_kab_000067 common_voice_kab_17981512.mp3 D awezɣi ad yebḍu ixemmimen-is ɣef sin.
+cv_kab_000068 common_voice_kab_23369602.mp3 Tusut-inu attan la trennu.
+cv_kab_000069 common_voice_kab_22377583.mp3 La sselmadeɣ tabaskit.
+cv_kab_000070 common_voice_kab_22747351.mp3 Yella-d yiwen n usehwu.
+cv_kab_000071 common_voice_kab_23368917.mp3 Awi-d gma-m.
+cv_kab_000072 common_voice_kab_22748239.mp3 Teɛjeb-ak tkeṛṛust-nnek?
+cv_kab_000073 common_voice_kab_22748975.mp3 D tidet ur tḥemmlem ara?
+cv_kab_000074 common_voice_kab_18262639.mp3 Ur smuɣbun ara.
+cv_kab_000075 common_voice_kab_22740516.mp3 Tiziri tettagad irgazen.
+cv_kab_000076 common_voice_kab_19821532.mp3 Tebḍa-yasen-tent-id.
+cv_kab_000077 common_voice_kab_17630862.mp3 a kra ireqqen deg izilan
+cv_kab_000078 common_voice_kab_23627924.mp3 Necci d John nemɛagab aṣugi.
+cv_kab_000079 common_voice_kab_22741145.mp3 La yettraḥ ukeffay-a.
+cv_kab_000080 common_voice_kab_22741148.mp3 Takti-inek am tinna-inu.
+cv_kab_000081 common_voice_kab_23611108.mp3 Tellamt tɛebbdemt imsemmuden.
+cv_kab_000082 common_voice_kab_23611662.mp3 Acḥal ay meɣɣret twacult-nnem?
+cv_kab_000083 common_voice_kab_17366677.mp3 ɣas ma nteddu ḥafi
+cv_kab_000084 common_voice_kab_17366679.mp3 dda ḥemmu yezga yeqqaṛ-asen ala tagi qaṛṛen-as tafelwit n uselkem
+cv_kab_000085 common_voice_kab_18377087.mp3 Ad k-senseɣ tafat?
+cv_kab_000086 common_voice_kab_18377090.mp3 D ta i d ayla-nwen?
+cv_kab_000087 common_voice_kab_20148649.mp3 Ad as-tt-tɛeṛḍem?
+cv_kab_000088 common_voice_kab_20148650.mp3 Ttṛebbin ibekki.
+cv_kab_000089 common_voice_kab_22743477.mp3 Tellam tettɛumum din.
+cv_kab_000090 common_voice_kab_22743547.mp3 Anda ay tent-tessaggzem?
+cv_kab_000091 common_voice_kab_20436263.mp3 Argaz: "Yyaw seg uzekka ad nuksanet, ilaq ad nuksan, ihi ad nuksan."
+cv_kab_000092 common_voice_kab_20436264.mp3 Ass-a urgaɣ amzun mmuteɣ.
+cv_kab_000093 common_voice_kab_22707702.mp3 Tettekkamt?
+cv_kab_000094 common_voice_kab_22707703.mp3 Yettwassen?
+cv_kab_000095 common_voice_kab_22742748.mp3 Tanemmirt i Mass Nagata.
+cv_kab_000096 common_voice_kab_22745776.mp3 Yesɛa takti d tamaynut.
+cv_kab_000097 common_voice_kab_22746813.mp3 Telliḍ tesɛiḍ cwiṭ, naɣ?
+cv_kab_000098 common_voice_kab_22747282.mp3 Sarameɣ ad ten-id-tafeḍ.
+cv_kab_000099 common_voice_kab_34703453.mp3 Nella nettɛawad-as ssbiɣa i wexxam.
+cv_kab_000100 common_voice_kab_34706404.mp3 Ur ssineɣ ad ssiwleɣ akked tsednan.
+cv_kab_000101 common_voice_kab_22752835.mp3 D aya ay d-yenna lqanun.
+cv_kab_000102 common_voice_kab_22752839.mp3 Ad sgunfuɣ kra n wussan.
+cv_kab_000103 common_voice_kab_17557726.mp3 igenni ur inegger ara
+cv_kab_000104 common_voice_kab_17557727.mp3 d acu-t laẓ ma tella tawat
+cv_kab_000105 common_voice_kab_26179697.mp3 ṭam
+cv_kab_000106 common_voice_kab_26179700.mp3 semmus
+cv_kab_000107 common_voice_kab_24476068.mp3 yiwen
+cv_kab_000108 common_voice_kab_24476069.mp3 kraḍ
+cv_kab_000109 common_voice_kab_17363441.mp3 muḥend neɣ belqasem
+cv_kab_000110 common_voice_kab_17363443.mp3 buɣni ɛeddi aẓaɣar
+cv_kab_000111 common_voice_kab_22815437.mp3 Imir-a, kemm d taselmadt.
+cv_kab_000112 common_voice_kab_22815438.mp3 Yifxir ad ččeɣ weḥd-i.
+cv_kab_000113 common_voice_kab_24726420.mp3 yiwen
+cv_kab_000114 common_voice_kab_24726424.mp3 sin
+cv_kab_000115 common_voice_kab_21679514.mp3 D nitenti ay igan aya.
+cv_kab_000116 common_voice_kab_21679520.mp3 Yuba yebɣa ad yaɣ Dahbiya.
+cv_kab_000117 common_voice_kab_28502328.mp3 kuẓ
+cv_kab_000118 common_voice_kab_28502329.mp3 semmus
+cv_kab_000119 common_voice_kab_17647940.mp3 axeddam s lxuf iheddeṛ
+cv_kab_000120 common_voice_kab_17647943.mp3 Imerreɣ gar tullas.
+cv_kab_000121 common_voice_kab_22744493.mp3 Yessefk ad teqqimem da.
+cv_kab_000122 common_voice_kab_22744587.mp3 Adlifus-a yeǧǧa-t lweqt.
+cv_kab_000123 common_voice_kab_20388222.mp3 Anda ara afeɣ aya?
+cv_kab_000124 common_voice_kab_20388223.mp3 Iseggem-itent akk.
+cv_kab_000125 common_voice_kab_28023680.mp3 yiwen
+cv_kab_000126 common_voice_kab_28023682.mp3 sḍis
+cv_kab_000127 common_voice_kab_17780582.mp3 Acḥal n tektubin i teqqaṛeḍ g ccheṛ?
+cv_kab_000128 common_voice_kab_17780584.mp3 A ccuha-m a taneqqact gar tneqcin.
+cv_kab_000129 common_voice_kab_27953692.mp3 ilem
+cv_kab_000130 common_voice_kab_27953694.mp3 ih
+cv_kab_000131 common_voice_kab_23998869.mp3 sin
+cv_kab_000132 common_voice_kab_23998872.mp3 yiwen
+cv_kab_000133 common_voice_kab_18069386.mp3 Err-itt ɛad ar uɛezri am nekki.
+cv_kab_000134 common_voice_kab_18069402.mp3 Sizdeget iceṭṭiḍen-nwen.
+cv_kab_000135 common_voice_kab_17635992.mp3 I tmaziɣt neǧǧa
+cv_kab_000136 common_voice_kab_17635994.mp3 taslent-nni akken i yeɣlin
+cv_kab_000137 common_voice_kab_22751693.mp3 Ffrent fell-asent tidet.
+cv_kab_000138 common_voice_kab_22751748.mp3 Xmesṭac kan n tedqiqin.
+cv_kab_000139 common_voice_kab_18549259.mp3 Ini-as ad yekkes accaren-is.
+cv_kab_000140 common_voice_kab_18549266.mp3 Tellam dinna yid-s?
+cv_kab_000141 common_voice_kab_22707606.mp3 Yuba yeḍɛef.
+cv_kab_000142 common_voice_kab_22707608.mp3 Ur ttasmeɣ.
+cv_kab_000143 common_voice_kab_22707004.mp3 Tefka-yi-t.
+cv_kab_000144 common_voice_kab_22707007.mp3 Ur tuḍinem.

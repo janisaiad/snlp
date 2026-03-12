@@ -1,0 +1,86 @@
+googlei18n-tts_eus_000000 eum_07060_00171488023.wav Uste dut Unialcok lotura daukala BM supermerkatuekin
+googlei18n-tts_eus_000001 euf_06592_00759395559.wav Izugarri gustatzen zaizkit Dairy Queen enpresaren marrubizko izozkiak
+googlei18n-tts_eus_000002 eum_02436_01256073787.wav Beharbada Johnson & Johnson izango da munduko multinazional ezagunenetako bat
+googlei18n-tts_eus_000003 eum_08784_00825900326.wav Paris maitasunaren hiria dela diote batzuek
+googlei18n-tts_eus_000004 eum_05679_00309202374.wav Encartaciones du izena eskualdeko autobus-linea nagusiak
+googlei18n-tts_eus_000005 euf_09697_01616775567.wav Gastronomía Cantábricak ikastetxez ikastetxe dabil prestaturiko janaria banatzen
+googlei18n-tts_eus_000006 eum_07049_01254059074.wav Bartzelonako aireportura iritsi da bart Lionel Messi haren familiarekin hegaldi pribatuan
+googlei18n-tts_eus_000007 euf_06592_01612971373.wav Iñigo Urkullu lehendakariak Argentinako euskal etxeak bisitatu berri ditu
+googlei18n-tts_eus_000008 euf_02436_00788516695.wav Acería de Alava altzairuzko hodien ekoizpenean aritzen da aspaldi
+googlei18n-tts_eus_000009 eum_03853_00320483154.wav Shangri-La hotelak gomendatu dizkidate
+googlei18n-tts_eus_000010 euf_07505_01477672055.wav Mendeko azken urtea izan zen mila bederatziehun eta laurogeita hemeretzia
+googlei18n-tts_eus_000011 euf_07505_00612819567.wav Busturia kostaldeko eskualdeari izena ematen dion udalerria da
+googlei18n-tts_eus_000012 eum_07973_01027895376.wav Oporretan, Bernedora joatea erabaki dugu
+googlei18n-tts_eus_000013 eum_08421_00897342272.wav Ipar Irlandako gatazkari lotutako gertakizun ugari jazo ziren Derryn
+googlei18n-tts_eus_000014 eum_08784_02106787238.wav José Ramón Soroiz aktorea, batik bat, telebistan aritu da
+googlei18n-tts_eus_000015 euf_04310_00109186392.wav Amets bezalako bertsolari gutxi ezagutu ditugu.
+googlei18n-tts_eus_000016 eum_01208_00437636033.wav Ahalko banu, Armenia ezagutuko nuke
+googlei18n-tts_eus_000017 euf_08421_00568598533.wav Compañía Vitoriana de Excavación y Transportes enpresa Gamarra aldean dago
+googlei18n-tts_eus_000018 eum_07060_00117705198.wav CBS kateak galegoz ere eskainiko ditu edukiak
+googlei18n-tts_eus_000019 euf_09799_01425508936.wav Luxorren, berrogeita hamar gradura arteko tenperatura pairatu behar izan genuen
+googlei18n-tts_eus_000020 euf_03397_01102281886.wav Chilera joan da anaia lana bilatzeko helburuarekin.
+googlei18n-tts_eus_000021 eum_01208_00315286636.wav El Correo Español-El Pueblo Vasco izena zuen egunkariari El Correo deitzen diote gaur egun
+googlei18n-tts_eus_000022 eum_00610_00260020543.wav Hogeita lau urterekin bukatu zituen ikasketak
+googlei18n-tts_eus_000023 euf_02121_01800176939.wav Ainara bezain neska politik ez dut ezagutzen
+googlei18n-tts_eus_000024 eum_02121_01616602207.wav Hamar milatik gora sinadura jaso ziren egun bakarrean Otegiren alde
+googlei18n-tts_eus_000025 euf_09334_01240431869.wav Bill Murray aktoreari izugarri gustatzen zaio beisbola
+googlei18n-tts_eus_000026 eum_01523_01724445602.wav Osakidetzak beste hainbat zerbitzu publikok baina hobeto funtzionatzen du
+googlei18n-tts_eus_000027 euf_04766_01609401938.wav Itsaslur pasealekua antzinako trenbide batean eraiki dute
+googlei18n-tts_eus_000028 eum_08421_00861245429.wav Gutxik dakite Adidas eta Puma enpresen fundatzaileak anaiak direla
+googlei18n-tts_eus_000029 euf_04766_00205865302.wav Kataluniako zirkuitua Montmeló herrian dago
+googlei18n-tts_eus_000030 euf_09697_00419130672.wav Zortzi-zazpi-bi-bederatzi-zazpi-bost-zero-zero-zero
+googlei18n-tts_eus_000031 eum_08784_01528309734.wav Josefina Serratosa aktoreak jarduera oparoa izan zuen hogeita hamarreko hamarkadan
+googlei18n-tts_eus_000032 euf_08886_02136694395.wav Accentur Dublingo enpresa handienetariko bat da
+googlei18n-tts_eus_000033 euf_00610_01814570274.wav Abenturaren hiriburua dela diote Queenslandi buruz
+googlei18n-tts_eus_000034 euf_04766_01755128300.wav ITPk aeronautikan jarduten du aspalditik
+googlei18n-tts_eus_000035 euf_03853_00337778198.wav Lamincer ijezketa-enpresa Mungian dago
+googlei18n-tts_eus_000036 eum_02121_01713578238.wav Saudi Arabia munduko herrialde itxienetarikoa da
+googlei18n-tts_eus_000037 eum_00610_00539598397.wav Mundakako ezker olatuak ez du parekorik mundu zabalean
+googlei18n-tts_eus_000038 euf_08886_01584770720.wav Gatikara joango naiz datorren larunbatean zure anaiarekin
+googlei18n-tts_eus_000039 eum_03853_00760032944.wav Lee Min-ho aktore, abeslari eta modeloak sari asko irabazi ditu
+googlei18n-tts_eus_000040 euf_02484_00266057011.wav Afrikara joatea erabaki dute ezkon ezteietan.
+googlei18n-tts_eus_000041 eum_00295_00543525441.wav Atzoko beroaldia eta gero, gaurko hogeita hiru graduko tenperatura eskertzekoa da
+googlei18n-tts_eus_000042 eum_00295_01610170964.wav Dirutza handiko aktoreak Hollywooden bizi dira
+googlei18n-tts_eus_000043 eum_07060_00745234087.wav Gure artean oso ezaguna ez den genozidioa gertatu zen Kanbodian
+googlei18n-tts_eus_000044 euf_04415_00097555033.wav Hogeita lau urterekin bukatu zituen ikasketak
+googlei18n-tts_eus_000045 eum_00295_00022468176.wav British Petroleumek arazoak izan zituen duela urte batzuk isuri bat zela eta
+googlei18n-tts_eus_000046 euf_07508_00713533381.wav Koralezko Hesi Handia Australian dago
+googlei18n-tts_eus_000047 eum_01208_01795583374.wav Andorran erosi nahi dut argazki-kamera berria
+googlei18n-tts_eus_000048 euf_03502_00601707065.wav Adelaida oso polita omen da
+googlei18n-tts_eus_000049 euf_04310_01537145624.wav Fermin Muguruzaren azken diskoa erostea gomendadu didate.
+googlei18n-tts_eus_000050 euf_00295_00557633300.wav Hogeita hamazazpi lagunekin joan ginen Parisera
+googlei18n-tts_eus_000051 euf_01208_01366099091.wav Ezin izan zen Australian geratu sei hilabete baino gehiago
+googlei18n-tts_eus_000052 euf_03502_01935713375.wav Agate Deunako igoera oso erraza da
+googlei18n-tts_eus_000053 eum_01523_00529535326.wav Entzun dut My Chemical Romance taldeko kideak berriro batu direla
+googlei18n-tts_eus_000054 eum_02436_00449666708.wav Urdaibaiko kanpinean pasa genituen hiru gau
+googlei18n-tts_eus_000055 euf_07060_01177076633.wav Hirurehun lagunek soilik ikusi zuten emanaldi hura
+googlei18n-tts_eus_000056 euf_04766_02095091948.wav Ikea Nortek denda handia dauka Barakaldon, Megaparken, hain zuzen ere
+googlei18n-tts_eus_000057 euf_08421_00006554681.wav Fernando Alonso pilotua laster aldatuko da automobil-taldez
+googlei18n-tts_eus_000058 euf_09334_00647463621.wav Backstreet Boys taldeko mutilek ziboten modura egiten dute dantza
+googlei18n-tts_eus_000059 eum_08421_01259715314.wav Daniel Radcliffe ikustean, Harry Potterrez gogoratzen da jende guztia
+googlei18n-tts_eus_000060 eum_02121_01014823015.wav Amitabh Bachchan aktoreak hirurogeita bederatzian egin zuen debuta film batean
+googlei18n-tts_eus_000061 euf_02484_00671399004.wav Aceros de Araia aspaldi ikusi genuen.
+googlei18n-tts_eus_000062 euf_03349_00024599593.wav Hirurak eta zazpi dira dagoeneko
+googlei18n-tts_eus_000063 eum_06592_00548827297.wav Hugo Boss markak emakumeentzako arropa- eta osagarri-bilduma ere badu
+googlei18n-tts_eus_000064 eum_01208_01899395959.wav Ekainean, ikasturtea bukatzen dute ikasleek
+googlei18n-tts_eus_000065 eum_08886_00819028255.wav Umorezko lanak aukeratzen ditu beti Andoni Agirrekomezkortak
+googlei18n-tts_eus_000066 eum_08886_01646565330.wav Donostiako aste nagusian, Antonio Orozcok kontzertu gogoangarria eskaini zuen
+googlei18n-tts_eus_000067 eum_03853_00120891797.wav Royal Dutch Shell Europako petrolio-enpresa garrantzitsuenetako bat da
+googlei18n-tts_eus_000068 eum_07505_00146517353.wav Corey Grayk laurehun mila jarraitzaile dauzka YouTuben
+googlei18n-tts_eus_000069 eum_01208_01570782744.wav Irugurutzetako labeak Irunetik hurbil daude eta tren batean bisita daitezke
+googlei18n-tts_eus_000070 eum_07049_00083262422.wav Andy Murray Teniseko Davis kopako finalerdietara pasatu zen
+googlei18n-tts_eus_000071 eum_07508_00738246037.wav Egaña gozotegian, kafea eta ogia erosi ditugu
+googlei18n-tts_eus_000072 euf_00610_01331426735.wav Leintz-Gatzaga bertako gatzagatik izan da ospetsua mendeetan zehar
+googlei18n-tts_eus_000073 euf_07060_00841451950.wav Paco Obregón durangarra Geroa antzerki-konpainian ibili zen denbora-luzez
+googlei18n-tts_eus_000074 euf_08784_01276498907.wav Nire lagun mina Laosera joan da oporretan hiru astez
+googlei18n-tts_eus_000075 eum_08421_00380425482.wav Bizkaian langabezia gutxi dagoela diote
+googlei18n-tts_eus_000076 euf_01208_01728241629.wav Ana Belen eztabaidan aritzen da beti
+googlei18n-tts_eus_000077 euf_04310_00685031165.wav Veneziara joanez gero, gondoletan ibili beharra dago
+googlei18n-tts_eus_000078 eum_00610_01254637356.wav Martiño Rivas Vimianzon jaio zen eta El internado telesailean atera delako da ezaguna
+googlei18n-tts_eus_000079 euf_05679_00505264939.wav Forum irekitzearen ondorioez eztabaidatuko dugu gero
+googlei18n-tts_eus_000080 eum_09697_01328346078.wav Hurrengo urtean hasiko da ikastolan Alaia
+googlei18n-tts_eus_000081 eum_01208_01076643504.wav Acería de Alava altzairuzko hodien ekoizpenean aritzen da aspaldi
+googlei18n-tts_eus_000082 euf_08886_01528422903.wav Acería de Alava altzairuzko hodien ekoizpenean aritzen da aspaldi
+googlei18n-tts_eus_000083 euf_05679_02047500067.wav Gauza nabaria da Jon Bon Jovi zahartzen ari dela
+googlei18n-tts_eus_000084 eum_09697_01321671411.wav Lydia Boschen alaba gazteenak Andrea du izena
+googlei18n-tts_eus_000085 eum_08886_00869968027.wav Bobbi Brownek makillaje munduan lortu duena liluragarria da

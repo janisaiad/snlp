@@ -1,0 +1,116 @@
+nchlt_ssw_000867	nchlt_ssw/audio/023/nchlt_ssw_023m_0193.wav	kumele bafake sicelo
+nchlt_ssw_000868	nchlt_ssw/audio/178/nchlt_ssw_178m_0037.wav	lemedical aid scheme
+nchlt_ssw_000869	nchlt_ssw/audio/099/nchlt_ssw_099f_0473.wav	bosomabhizinisi betigodzi telive
+nchlt_ssw_000870	nchlt_ssw/audio/172/nchlt_ssw_172m_0263.wav	sihlalo kanye nelisekela
+nchlt_ssw_000871	nchlt_ssw/audio/030/nchlt_ssw_030f_0776.wav	letinye tisibonisa ifashini
+nchlt_ssw_000872	nchlt_ssw/audio/153/nchlt_ssw_153f_0443.wav	uma utsenga kumave
+nchlt_ssw_000873	nchlt_ssw/audio/166/nchlt_ssw_166m_0446.wav	umvikeli wesive lawrence
+nchlt_ssw_000874	nchlt_ssw/audio/162/nchlt_ssw_162m_0437.wav	nemalungelo eluntfu kanye
+nchlt_ssw_000875	nchlt_ssw/audio/014/nchlt_ssw_014m_0064.wav	lelincusa nobe emishini
+nchlt_ssw_000876	nchlt_ssw/audio/025/nchlt_ssw_025m_0302.wav	emhlangano jikelele wemnyaka
+nchlt_ssw_000877	nchlt_ssw/audio/166/nchlt_ssw_166m_0440.wav	yakho loyikhokha ngenyanga
+nchlt_ssw_000878	nchlt_ssw/audio/150/nchlt_ssw_150m_0034.wav	kanye nekubamba lichaza
+nchlt_ssw_000879	nchlt_ssw/audio/099/nchlt_ssw_099f_0289.wav	loku akusho kutsi
+nchlt_ssw_000880	nchlt_ssw/audio/005/nchlt_ssw_005m_0077.wav	emafomu esicelo kumele
+nchlt_ssw_000881	nchlt_ssw/audio/057/nchlt_ssw_057f_0347.wav	labanye batsandza umcululo wesintfu
+nchlt_ssw_000882	nchlt_ssw/audio/154/nchlt_ssw_154f_0496.wav	sifundza nangetimpihlo tabo
+nchlt_ssw_000883	nchlt_ssw/audio/158/nchlt_ssw_158m_0394.wav	aphindze futsi awusayine
+nchlt_ssw_000884	nchlt_ssw/audio/019/nchlt_ssw_019f_0129.wav	kutindlela tekulawula kutsenga
+nchlt_ssw_000885	nchlt_ssw/audio/147/nchlt_ssw_147m_0012.wav	kutsi emalungelo akho
+nchlt_ssw_000886	nchlt_ssw/audio/107/nchlt_ssw_107f_0521.wav	acinisekise abuye esekele
+nchlt_ssw_000887	nchlt_ssw/audio/175/nchlt_ssw_175f_0422.wav	kutsi wena nalabo
+nchlt_ssw_000888	nchlt_ssw/audio/070/nchlt_ssw_070f_0487.wav	tigcina umhlaba umuhle
+nchlt_ssw_000889	nchlt_ssw/audio/124/nchlt_ssw_124f_0475.wav	[s] yekuhlala yesikhashana nobe
+nchlt_ssw_000890	nchlt_ssw/audio/167/nchlt_ssw_167m_0330.wav	sifundza nangekubelekwa kwebantfwana
+nchlt_ssw_000891	nchlt_ssw/audio/001/nchlt_ssw_001m_0181.wav	kwendzima yekufundza yetilwimi
+nchlt_ssw_000892	nchlt_ssw/audio/177/nchlt_ssw_177m_0417.wav	kuhambelana nesihloko kodvwa
+nchlt_ssw_000893	nchlt_ssw/audio/027/nchlt_ssw_027m_0352.wav	loku kutawufaka ekhatsi
+nchlt_ssw_000894	nchlt_ssw/audio/134/nchlt_ssw_134m_0433.wav	kutsi ukhombise liholonchanti
+nchlt_ssw_000895	nchlt_ssw/audio/087/nchlt_ssw_087f_0379.wav	wetinshokutsi temagama netakhiwo
+nchlt_ssw_000896	nchlt_ssw/audio/052/nchlt_ssw_052m_0260.wav	emajobo avunulwa majaha
+nchlt_ssw_000897	nchlt_ssw/audio/183/nchlt_ssw_183m_0154.wav	sinemdlalo we uulibhola
+nchlt_ssw_000898	nchlt_ssw/audio/156/nchlt_ssw_156m_0290.wav	kumbambisa ligama
+nchlt_ssw_000899	nchlt_ssw/audio/187/nchlt_ssw_187m_0312.wav	ngeluhlelo lwavelonkhe lwekusita
+nchlt_ssw_000900	nchlt_ssw/audio/153/nchlt_ssw_153f_0204.wav	akukho sicelo lesitawubukwa
+nchlt_ssw_000901	nchlt_ssw/audio/158/nchlt_ssw_158m_0364.wav	kutinzuzo letiniketwa tikhungo
+nchlt_ssw_000902	nchlt_ssw/audio/127/nchlt_ssw_127f_0279.wav	nasemaveni lamasha njengalokungavimbeki
+nchlt_ssw_000903	nchlt_ssw/audio/120/nchlt_ssw_120m_0018.wav	[s] nalasemkhatsini kutsi bangene
+nchlt_ssw_000904	nchlt_ssw/audio/181/nchlt_ssw_181m_0029.wav	lesingenta ncono kuto
+nchlt_ssw_000905	nchlt_ssw/audio/059/nchlt_ssw_059m_0060.wav	lokudla lokuphathelane nemidlo
+nchlt_ssw_000906	nchlt_ssw/audio/131/nchlt_ssw_131f_0018.wav	nangabe uphendvule umbuto
+nchlt_ssw_000907	nchlt_ssw/audio/077/nchlt_ssw_077f_0022.wav	sicelo kumele uhlale
+nchlt_ssw_000908	nchlt_ssw/audio/113/nchlt_ssw_113f_0042.wav	timphawu lesisemkhatsini tifaka
+nchlt_ssw_000909	nchlt_ssw/audio/019/nchlt_ssw_019f_0241.wav	umbuto esigabeni a
+nchlt_ssw_000910	nchlt_ssw/audio/109/nchlt_ssw_109f_0323.wav	umkhombandlela wekufaka sicelo
+nchlt_ssw_000911	nchlt_ssw/audio/181/nchlt_ssw_181m_0599.wav	nabo bonkhe lababambe
+nchlt_ssw_000912	nchlt_ssw/audio/158/nchlt_ssw_158m_0489.wav	ucelwa kutsi ucaphele
+nchlt_ssw_000913	nchlt_ssw/audio/022/nchlt_ssw_022m_0217.wav	kufaka sicelo semvumo
+nchlt_ssw_000914	nchlt_ssw/audio/177/nchlt_ssw_177m_0496.wav	[s] locuketse lokudzingekile lokungemagama
+nchlt_ssw_000915	nchlt_ssw/audio/028/nchlt_ssw_028m_0095.wav	emafomu ekufaka sicelo
+nchlt_ssw_000916	nchlt_ssw/audio/050/nchlt_ssw_050f_0412.wav	sijelwa naqa shaka zulu
+nchlt_ssw_000917	nchlt_ssw/audio/117/nchlt_ssw_117f_0221.wav	ubodla luju uma liphimbo lingasaphumi
+nchlt_ssw_000918	nchlt_ssw/audio/091/nchlt_ssw_091f_0112.wav	balandzele luhlakasimo lolufanele
+nchlt_ssw_000919	nchlt_ssw/audio/100/nchlt_ssw_100m_0223.wav	ati kutsi ngabe
+nchlt_ssw_000920	nchlt_ssw/audio/144/nchlt_ssw_144f_0021.wav	letindleko tesikhatsi lesilingene
+nchlt_ssw_000921	nchlt_ssw/audio/074/nchlt_ssw_074f_0113.wav	lekucala lelifomu lakho
+nchlt_ssw_000922	nchlt_ssw/audio/050/nchlt_ssw_050f_0250.wav	bosomabhizimisi labancane babalulekile emangweni
+nchlt_ssw_000923	nchlt_ssw/audio/142/nchlt_ssw_142m_0171.wav	incwadzi levela kumtimba
+nchlt_ssw_000924	nchlt_ssw/audio/003/nchlt_ssw_003m_0204.wav	lesincunyelwe kusebenta lesicelo
+nchlt_ssw_000925	nchlt_ssw/audio/162/nchlt_ssw_162m_0211.wav	nobe labafakwe emndenini
+nchlt_ssw_000926	nchlt_ssw/audio/070/nchlt_ssw_070f_0246.wav	kantsi labanye batsandza imidlalo yekulwa
+nchlt_ssw_000927	nchlt_ssw/audio/126/nchlt_ssw_126m_0217.wav	tisenta sihlakaniphe
+nchlt_ssw_000928	nchlt_ssw/audio/146/nchlt_ssw_146f_0019.wav	sitifiketi sekuba msulwa
+nchlt_ssw_000929	nchlt_ssw/audio/116/nchlt_ssw_116f_0330.wav	ekuphatsa kanye newebuchwepheshe
+nchlt_ssw_000930	nchlt_ssw/audio/056/nchlt_ssw_056m_0120.wav	kufundzela temidlalo
+nchlt_ssw_000931	nchlt_ssw/audio/006/nchlt_ssw_006m_0334.wav	kufanele bufekiselwe ku
+nchlt_ssw_000932	nchlt_ssw/audio/101/nchlt_ssw_101f_0370.wav	science fiction writers
+nchlt_ssw_000933	nchlt_ssw/audio/020/nchlt_ssw_020m_0217.wav	ticelo labahlala etindzaweni
+nchlt_ssw_000934	nchlt_ssw/audio/132/nchlt_ssw_132m_0476.wav	kulokulandzelako ubhale ngako
+nchlt_ssw_000935	nchlt_ssw/audio/154/nchlt_ssw_154f_0134.wav	siyakwati loku uma
+nchlt_ssw_000936	nchlt_ssw/audio/133/nchlt_ssw_133f_0100.wav	utawuchitsa imali lengemabhiliyoni
+nchlt_ssw_000937	nchlt_ssw/audio/087/nchlt_ssw_087f_0377.wav	kunemaphutsa lambalwa elupelomagama
+nchlt_ssw_000938	nchlt_ssw/audio/050/nchlt_ssw_050f_0359.wav	lilangeni yimali yakangwane
+nchlt_ssw_000939	nchlt_ssw/audio/031/nchlt_ssw_031m_0643.wav	umoya wekuphefumula siwutfola etihlahleni
+nchlt_ssw_000940	nchlt_ssw/audio/124/nchlt_ssw_124f_0430.wav	[s] sicelo semvumo yeluhlelo
+nchlt_ssw_000941	nchlt_ssw/audio/117/nchlt_ssw_117f_0300.wav	lizinga leliphansi liphepha
+nchlt_ssw_000942	nchlt_ssw/audio/118/nchlt_ssw_118f_0283.wav	lengafanela kukhokhiswa intsela
+nchlt_ssw_000943	nchlt_ssw/audio/123/nchlt_ssw_123m_0124.wav	bomakhalekhukhwini nabo banencuco
+nchlt_ssw_000944	nchlt_ssw/audio/030/nchlt_ssw_030f_0687.wav	bantfu bayahlabela nabadzakiwe
+nchlt_ssw_000945	nchlt_ssw/audio/127/nchlt_ssw_127f_0078.wav	yelilanga ayisawucabuli umtimba
+nchlt_ssw_000946	nchlt_ssw/audio/132/nchlt_ssw_132m_0664.wav	kugcizelela kwekutsi kumenyetelwa
+nchlt_ssw_000947	nchlt_ssw/audio/165/nchlt_ssw_165m_0022.wav	kuyevakala kutsi utsini
+nchlt_ssw_000948	nchlt_ssw/audio/124/nchlt_ssw_124f_0497.wav	sikhatsi lesidze kangaka
+nchlt_ssw_000949	nchlt_ssw/audio/141/nchlt_ssw_141f_0404.wav	kakhulu akakasebentisi imitsetfo
+nchlt_ssw_000950	nchlt_ssw/audio/059/nchlt_ssw_059m_0370.wav	silala ecansini
+nchlt_ssw_000951	nchlt_ssw/audio/011/nchlt_ssw_011m_0065.wav	lesifundza lelitiko letekutfutfukiswa
+nchlt_ssw_000952	nchlt_ssw/audio/070/nchlt_ssw_070f_0219.wav	bomakoti bagidzeela inkhosi
+nchlt_ssw_000953	nchlt_ssw/audio/072/nchlt_ssw_072m_0134.wav	singastandzi kudla lokunemafutsa
+nchlt_ssw_000954	nchlt_ssw/audio/137/nchlt_ssw_137f_0164.wav	kanye nemalungelo eluntfu
+nchlt_ssw_000955	nchlt_ssw/audio/161/nchlt_ssw_161m_0164.wav	liphepha lesitsatfu p [s]
+nchlt_ssw_000956	nchlt_ssw/audio/179/nchlt_ssw_179f_0533.wav	upheke imbita unatse
+nchlt_ssw_000957	nchlt_ssw/audio/073/nchlt_ssw_073f_0019.wav	sicelo kumele asayine
+nchlt_ssw_000958	nchlt_ssw/audio/146/nchlt_ssw_146f_0649.wav	eastern european countries
+nchlt_ssw_000959	nchlt_ssw/audio/007/nchlt_ssw_007m_0310.wav	kutfola kutsi ngabe
+nchlt_ssw_000960	nchlt_ssw/audio/070/nchlt_ssw_070f_0125.wav	imali yami bayebile
+nchlt_ssw_000961	nchlt_ssw/audio/162/nchlt_ssw_162m_0151.wav	bantfu batsandza kubheja emahhashi
+nchlt_ssw_000962	nchlt_ssw/audio/156/nchlt_ssw_156m_0068.wav	temidlalo tinabomongameli bato
+nchlt_ssw_000963	nchlt_ssw/audio/054/nchlt_ssw_054f_0485.wav	kantsi letinye tibita emanani laphasi [s]
+nchlt_ssw_000964	nchlt_ssw/audio/005/nchlt_ssw_005m_0196.wav	savelonkhe lesibuketiwe semabanga
+nchlt_ssw_000965	nchlt_ssw/audio/187/nchlt_ssw_187m_0115.wav	asita bantfu bakhone kephla
+nchlt_ssw_000966	nchlt_ssw/audio/186/nchlt_ssw_186f_0582.wav	khetsa imphendvulo kuleti
+nchlt_ssw_000967	nchlt_ssw/audio/031/nchlt_ssw_031m_0611.wav	sifundza kutsi bebabusa njani
+nchlt_ssw_000968	nchlt_ssw/audio/049/nchlt_ssw_049m_0626.wav	imicimbi yabonobuhle
+nchlt_ssw_000969	nchlt_ssw/audio/039/nchlt_ssw_039f_0370.wav	tangoma telitulu tilusito kahulu emphakatsini
+nchlt_ssw_000970	nchlt_ssw/audio/181/nchlt_ssw_181m_0551.wav	singastandzi kudla lokunemafutsa
+nchlt_ssw_000971	nchlt_ssw/audio/019/nchlt_ssw_019f_0070.wav	sicelo ehhovisi lakho
+nchlt_ssw_000972	nchlt_ssw/audio/006/nchlt_ssw_006m_0251.wav	yaphambilini futsi kubhaliswe
+nchlt_ssw_000973	nchlt_ssw/audio/139/nchlt_ssw_139m_0314.wav	silalela kakhulu umbhacanga
+nchlt_ssw_000974	nchlt_ssw/audio/077/nchlt_ssw_077f_0028.wav	achaze umehluko lobhacile
+nchlt_ssw_000975	nchlt_ssw/audio/144/nchlt_ssw_144f_0047.wav	sinemidlalo nemasiko lamanyenti
+nchlt_ssw_000976	nchlt_ssw/audio/157/nchlt_ssw_157f_0397.wav	kantsi abadzingi kwelashwa
+nchlt_ssw_000977	nchlt_ssw/audio/057/nchlt_ssw_057f_0096.wav	singadli kudla kunye njalo
+nchlt_ssw_000978	nchlt_ssw/audio/102/nchlt_ssw_102f_0177.wav	tifundzisa ngemlandvo esikolweni
+nchlt_ssw_000979	nchlt_ssw/audio/078/nchlt_ssw_078f_0419.wav	ebantfu labanyenti bayawafuna emabhisinisi
+nchlt_ssw_000980	nchlt_ssw/audio/170/nchlt_ssw_170m_0499.wav	futsi sikhalo sakho
+nchlt_ssw_000981	nchlt_ssw/audio/099/nchlt_ssw_099f_0266.wav	kwetilwimi kutawentiwa ngalokulandzelako
+nchlt_ssw_000982	nchlt_ssw/audio/032/nchlt_ssw_032m_0325.wav	kuhambisana ngalokufanele nesihloko

@@ -1,0 +1,1090 @@
+LAD_gle_000550	cll_z0002_481	cé go raibh Doire ar an dara cathair is mó sa Tuaisceart, shocraigh Stormont go dtógfaí 'cathair nua' Craigavon.
+LAD_gle_000551	cll_z0001_524	Bhíomar an-chúramach á ardú ag seachaint gríobha nimhneacha an fhabhcúin óig
+LAD_gle_000552	cll_z0001_830	Chonaic sé iad, agus bhí go maith.
+LAD_gle_000553	cll_z0002_441	Is í Teresa Condeco, príomhriarthóir an Ard-Stiúrthóireacht um Oideachas agus Cultúr, a thabharfaidh an eocharchaint.
+LAD_gle_000554	cll_z0001_592	tá an lá dírithe ar thrí aoisghrúpa.
+LAD_gle_000555	cll_z0001_984	b'é spiorad na saoirse ar a dhá chois é.
+LAD_gle_000556	cll_z0001_391	Ina ráiteas aréir thagair Ó Gadhra don fhaillí.
+LAD_gle_000557	cll_z0001_702	Caspar Klaj, seacht mbliana déag d'aois ó íochtar Dusseldorf.
+LAD_gle_000558	cll_z0001_825	Nach raibh fios a mhalairte acu.
+LAD_gle_000559	cll_z0002_010	Is díol trua iad an tseanlánúin atá in uillinn a chéile.
+LAD_gle_000560	cll_z0001_165	Beatha teanga í a labhairt; buanú teanga í a scríobh.
+LAD_gle_000561	cll_z0001_939	bhí faitíos orainn go mbeadh bac le forbairt.
+LAD_gle_000562	cll_z0002_436	Is é atá ann, a scríobhtar, "stádas teoranta a thabhairt don Ghaeilge i raon áirithe comhthéacsanna i sochaí na hÉireann."
+LAD_gle_000563	cll_z0001_980	bhí a fhios agam nach fiú dom teacht díreach
+LAD_gle_000564	cll_z0001_423	Shíolraigh Flaithbheartaigh ó Eochaidh Muighmheadhoin, rí na hÉireann.
+LAD_gle_000565	cll_z0001_768	bhí sé ar dhuine de na scríobhaithe a rinne cóip de Leabhar Fhíodhnacha.
+LAD_gle_000566	cll_z0002_096	Trasna uaim i sraith úd an halla bhí leaid nár mhór é m'aithne air.
+LAD_gle_000567	cll_z0002_147	bhí Sarah de Búrca in Amharclann Siobhán Nic Cionnaith nuair a léirigh Rang seacht i mBunscoil Bheann Mhadagáin an dráma.
+LAD_gle_000568	cll_z0001_685	Ba scéalaí maith Pádraig agus bhailigh Liam Mac Meanman iad.
+LAD_gle_000569	cll_z0001_146	Gan amhras, níor ghabh sé leithscéal.
+LAD_gle_000570	cll_z0001_349	Sa mhéid sin ní raibh siad ciontach.
+LAD_gle_000571	cll_z0001_439	Le gach boin a boinín, le gach cás a leithscéal.
+LAD_gle_000572	cll_z0001_347	ní raibh teorainn lena gcreideamh.
+LAD_gle_000573	cll_z0001_456	Ach bhí fearg an domhain ar mhuintir Québec.
+LAD_gle_000574	cll_z0002_317	Díol suntais, mar sin, go bhfuil poiblíocht na Nollag faoi lán seoil.
+LAD_gle_000575	cll_z0002_103	Taispeánann an t-údar arís agus arís eile sa leabhar seo nárbh aon amadán é Emmet.
+LAD_gle_000576	cll_z0001_366	Níorbh é Widgery é ach ann oiread.
+LAD_gle_000577	cll_z0002_063	Beidh an cheist sin á plé ag Meon Eile amárach
+LAD_gle_000578	cll_z0001_812	múinteoireacht pé duine a d'fhostófaí
+LAD_gle_000579	cll_z0001_014	Ghabh sé tríd an mBruiséil.
+LAD_gle_000580	cll_z0002_266	Ba cheart go mbeadh Michael Conlon an-sásta leis féin freisin.
+LAD_gle_000581	cll_z0001_029	ní mian liom socrú síos.
+LAD_gle_000582	cll_z0002_236	Sin an saghas freagra a thabharfainn ar lucht mo cháinte dá mbeadh teanga aibí agam.
+LAD_gle_000583	cll_z0001_889	Shroicheas an halla leath uair an chloig róluath.
+LAD_gle_000584	cll_z0001_438	bhí an scéal riamh amhlaidh.
+LAD_gle_000585	cll_z0002_261	Scríobhadh sé go rialta don bpáipéar Southside.
+LAD_gle_000586	cll_z0001_676	Uain suain ón saol amuigh í
+LAD_gle_000587	cll_z0001_395	Tic toc, tic toc, sprioc-am ag teacht.
+LAD_gle_000588	cll_z0001_919	tá mé buíoch de gach aon duine a chuir píosa
+LAD_gle_000589	cll_z0001_744	ní thiocfadh liom gearán ar bith a dhéanamh faoi éifeacht na ngardaí
+LAD_gle_000590	cll_z0001_882	D'éag an t-athair go hóg.
+LAD_gle_000591	cll_z0001_900	Fócas deisceartach a bheas ann feasta.
+LAD_gle_000592	cll_z0002_192	geansaí gorm agus an litir C greanta air, ar dhath an chróch.
+LAD_gle_000593	cll_z0001_958	Níl ach an t-aon teach cónaithe amháin ina dhiaidh sin, teach feilme i gCill Uachdrach.
+LAD_gle_000594	cll_z0001_656	ní raibh uisce te ann.
+LAD_gle_000595	cll_z0001_809	Phós sé Mary Kelly ón Uaimh.
+LAD_gle_000596	cll_z0001_403	d'fhoghlaim mé ag plé leis an téacs
+LAD_gle_000597	cll_z0001_045	leabhar dá gcuid i gcló
+LAD_gle_000598	cll_z0001_571	Bean fhiata ar fiuchadh go fraochta.
+LAD_gle_000599	cll_z0001_419	Fágfaidh mé mo chóip de An Triail
+LAD_gle_000600	cll_z0001_950	tá sé ag pléascadh cheana thall is abhus.
+LAD_gle_000601	cll_z0001_428	Ach sin a bhfuil, mo chairde.
+LAD_gle_000602	cll_z0002_198	Níl aon spéis acu i gcothromaíocht chomhdheise oideachais, ach a mhalairt.
+LAD_gle_000603	cll_z0001_995	Bláth fiáin ach bláth mar sin féin.
+LAD_gle_000604	cll_z0001_689	tá thart faoi sheachtó suíochán sa New Theatre.
+LAD_gle_000605	cll_z0002_426	I naoi déag tríocha a naoi bhí rang á mhúineadh aige ann ar an ornáideachas Ceilteach i gcúrsaí deartha.
+LAD_gle_000606	cll_z0001_492	bhí píosa béaloidis i gcló aici in An tÉireannach Nollaig naoi déag tríocha a cúig
+LAD_gle_000607	cll_z0002_347	Anseo úsáidtear an teicneolaíocht nua is satailítí cumarsáide chun an cianoideachas a fhorbairt.
+LAD_gle_000608	cll_z0001_600	Dúirt tú é, a Airt.
+LAD_gle_000609	cll_z0002_206	Ba chóir dóibh, ar bhonn prionsabail, leagan nua ceart a chur i gcló
+LAD_gle_000610	cll_z0001_754	Rinne mé aoibh dhoicheallach leis.
+LAD_gle_000611	cll_z0002_410	bhí sí ag múineadh ar feadh leathbhliana in Mercer's, meánscoil do chailíní i gCaisleán Cnucha.
+LAD_gle_000612	cll_z0001_129	Dhúisigh Dia aniar le mochéirí
+LAD_gle_000613	cll_z0002_031	ach léim sí amach is í ag béicíl.
+LAD_gle_000614	cll_z0002_345	Naomh Otmar, Gearmánach, a bhunaigh an mhainistir de réir an scéil.
+LAD_gle_000615	cll_z0002_158	Is minic fosta, a scríobhann sí, nach mbíonn caighdeán sásúil teanga acu.
+LAD_gle_000616	cll_z0001_765	tá Gaelchultúr ag plé leis an earnáil phoiblí
+LAD_gle_000617	cll_z0001_130	fiú tar éis beagnach daichead bliain.
+LAD_gle_000618	cll_z0001_341	bhí an íocaíocht le déanamh dé Sathairn.
+LAD_gle_000619	cll_z0001_413	Ar dtús, bhí an chonspóid leanúnach faoi bhinse fiosrúcháin Mahon.
+LAD_gle_000620	cll_z0001_735	tá sé ag éirí ródheacair dóibh.
+LAD_gle_000621	cll_z0001_537	Diaidh ar ndiaidh, d'éalaigh pé cúthaileacht.
+LAD_gle_000622	cll_z0001_843	Chuir sí tuairisc mionteanga gach aon áit ar tháinig sí i dtír.
+LAD_gle_000623	cll_z0001_581	Is leor go dtuigfimid go bhfuil sé ann.
+LAD_gle_000624	cll_z0002_475	Is é an tiománaí glórach is dealraithí a rachaidh sa díog, gan an t-iománaí cam a bhac beag ná mór.
+LAD_gle_000625	cll_z0001_372	Ach caithfidh urlár a bheith in áit éigin
+LAD_gle_000626	cll_z0002_316	Níor iarras de shaol ach aire a thabhairt dom mháthair is dom chuid gabhar.
+LAD_gle_000627	cll_z0002_209	In Namia níl baol báite ar an té nach gcrochfar.
+LAD_gle_000628	cll_z0001_831	Is ar an lá seo a tháinig siad le chéile sa seomra, más fíor.
+LAD_gle_000629	cll_z0001_904	Agus chualathas gach duine ag gáirí ón ngairdín aníos go spuaic an teampaill lasnairde.
+LAD_gle_000630	cll_z0001_116	Elvis tar éis bháis fadó ionainn, ó dhein sé G I Blues.
+LAD_gle_000631	cll_z0002_432	tá Niall Quinn théis éirí as ina Stiúrthóir Idirnáisiúnta le Sunderland.
+LAD_gle_000632	cll_z0001_044	cailín eile ann nach raibh uaithi ach barróg ó Des.
+LAD_gle_000633	cll_z0001_800	An leabhar bhliantúil is mó ar domhan.
+LAD_gle_000634	cll_z0002_390	Creideann sé go mbeidh athruithe sonracha le feiceáil roimh dheireadh na bliana.
+LAD_gle_000635	cll_z0001_609	Is dócha go bhfuil sé fós fíor.
+LAD_gle_000636	cll_z0002_454	D'fhógair an tAire Oideachais agus Eolaíochta Noel Dempsey athruithe i struchtúr scrúdú Cáilíochta sa Ghaeilge an tseachtain seo caite.
+LAD_gle_000637	cll_z0002_037	b'é bóthar na ndán a bhí roimhe amach pé ar domhan é
+LAD_gle_000638	cll_z0002_207	Is i mBéarla a labhróidh Johan Haggman.
+LAD_gle_000639	cll_z0001_921	Nuair a bhíonn tionóisc mhór
+LAD_gle_000640	cll_z0001_187	Ar ndóigh níor ghearr sé aon phingin orthu.
+LAD_gle_000641	cll_z0001_736	bhí Gaeilge aige ón gcliabháin.
+LAD_gle_000642	cll_z0001_038	Bhuf-bhuf! Suzi atá uaim.
+LAD_gle_000643	cll_z0002_328	agus tar éis beagán tathanta, deir siad go raibh siad ann chun troid ar son na náisiún mbeaga.
+LAD_gle_000644	cll_z0001_734	Agus í ag imeacht san imigéin
+LAD_gle_000645	cll_z0001_888	Tá áiseanna den scoth ann, tá scoileanna den scoth ann agus is áit réasúnta sábháilte é
+LAD_gle_000646	cll_z0002_469	Dhein buíon bheag de sceimhlitheoirí, a bhformhór ón Araib Shádaisteach, ionsaí ar Nua-Eabhrac.
+LAD_gle_000647	cll_z0001_363	Is cóir brú a chur.
+LAD_gle_000648	cll_z0002_060	Bhris fear isteach sa teach agus sháigh Stephen.
+LAD_gle_000649	cll_z0001_154	tá tú ag déanamh go diail.
+LAD_gle_000650	cll_z0001_608	Dódh go han-dona é sa chaoi go mbeadh aghaidh nua de dhíth air.
+LAD_gle_000651	cll_z0002_448	"Le leathnú a chur ar an nGaeilge caithfear 'normalú' a dhéanamh," a deir an straitéis go neamhbhalbh.
+LAD_gle_000652	cll_z0002_164	Is minic barúil á nochtadh againn ar barúil dara láimhe í dáiríre.
+LAD_gle_000653	cll_z0002_187	Ó am go chéile tagann marcach an bealach ag aclú capaill.
+LAD_gle_000654	cll_z0002_009	dá mbeadh mac ag an gcat nach deas mar a bhlífí é
+LAD_gle_000655	cll_z0001_380	Ón chéad lá ba chairde iad Seoirse is Muiris Ó Súilleabháin, oileánach óg
+LAD_gle_000656	cll_z0002_048	Duine de na mic ba ea Art óg, file agus scríobhaí
+LAD_gle_000657	cll_z0001_410	Thug Qutb cuairt ar Mheiriceá agus chuir a bhfaca sé ann déistin air.
+LAD_gle_000658	cll_z0002_173	Beidh sin uilig le fáil ar ardáin dhigiteacha éagsúla ó ríomhairí go fóin chliste.
+LAD_gle_000659	cll_z0001_394	Agus ócáid phoiblí a bhí ann.
+LAD_gle_000660	cll_z0002_075	Thuig sé gur trí oideachas a leigheasfaí
+LAD_gle_000661	cll_z0001_401	Is mall agus is mithid.
+LAD_gle_000662	cll_z0002_156	Tosaíonn na muisiriúin ag úscadh lacht ar dhath na fola leis an bhfaobhar.
+LAD_gle_000663	cll_z0001_189	Tá Gollnisch ar chúig faoin gcéad.
+LAD_gle_000664	cll_z0001_583	De choiréal geal é gaineamh mín na trá
+LAD_gle_000665	cll_z0001_037	Línte as Cuimhní Cinn le Máirtín Ó Direáin.
+LAD_gle_000666	cll_z0001_282	samhlú de chuid na naoú haoise déag atá ann.
+LAD_gle_000667	cll_z0001_557	bhí Sarah de Búrca ann chun níos mó eolais a fháil.
+LAD_gle_000668	cll_z0001_204	An cith roimh an dealán.
+LAD_gle_000669	cll_z0002_279	Mura féidir linn meas bheith againn ar éagsúlacht cultúr ní thógfaimid go deo an Eoraip nua seo.
+LAD_gle_000670	cll_z0001_549	Ar deachtóir é Fidel? B'ea go follasach.
+LAD_gle_000671	cll_z0001_696	Cuirim mo chuidse figiúr ar fad isteach san inneall.
+LAD_gle_000672	cll_z0002_069	'Trácht comheagraithe' ar iomlán an chreidimh Chaitlicigh atá ann.
+LAD_gle_000673	cll_z0001_115	tá an aimsir geallta an-ghaofar agus fuar inniu.
+LAD_gle_000674	cll_z0001_074	thiarnaí talún atá á gciapadh.
+LAD_gle_000675	cll_z0001_891	tá fórsa nua tagtha ar an saol a bhainfidh praghas domhanda as leatrom áitiúil
+LAD_gle_000676	cll_z0001_453	duine a thug seal ina oifigeach sa Daingean, contae Chiarraí, agus gaiscíoch go smior.
+LAD_gle_000677	cll_z0001_365	Gheall an aip dom nach mbeadh sé róghaofar nó rófhliuch nó rófhuar.
+LAD_gle_000678	cll_z0001_785	An scairf sin ar a cloigeann.
+LAD_gle_000679	cll_z0002_362	Ceann de laigí móra an chórais dhaonlathaigh i dtír ar bith ná go bhféachtar ar gach fadhb trí ghairid-dearcán.
+LAD_gle_000680	cll_z0002_111	Sheol Sinn Féin a gclár teanga i mBaile átha Cliath inné
+LAD_gle_000681	cll_z0002_240	fíor, tá ar ár gcumas é a dhíol go daor.
+LAD_gle_000682	cll_z0001_635	tá loch sa bpáirc mar a mbíonn lachain fhiáine ag snámh.
+LAD_gle_000683	cll_z0001_278	Aithním ar d'aghaidh gur i dteannta Geoffrey a bhís.
+LAD_gle_000684	cll_z0002_414	Go dtí deireadh naoi déag caoga a dó ba é a chara, an cartúnaí cáiliúil C E Kelly
+LAD_gle_000685	cll_z0001_665	ní bheidh athbhreathnú á dhéanamh ar chinneadh na moltóirí
+LAD_gle_000686	cll_z0002_179	Is beag duine nach mbeadh den tuairim go bhfuil a chuid eolais cruinn.
+LAD_gle_000687	cll_z0001_813	Is fíordheacair teanga teaghlaigh a athrú
+LAD_gle_000688	cll_z0001_867	tá sé thar a bheith simplí
+LAD_gle_000689	cll_z0001_356	Is é Eoin Mac Néill a bhí sa chathaoir.
+LAD_gle_000690	cll_z0001_876	Is abhcóide é Feargal Ó Dubhghaill a bhfuil cónaí air i mBaile Átha Cliath.
+LAD_gle_000691	cll_z0001_884	Ach is é an spórt a bhfuil an spéis is mó ann anois go hidirnáisiúnta ná an trí-atlan.
+LAD_gle_000692	cll_z0001_155	Is í ár n-aidhm ná an Ghaeilge a chur chun cinn.
+LAD_gle_000693	cll_z0001_679	Nach bhfuil pilibíní anseo ó aimsir an Bhúda
+LAD_gle_000694	cll_z0001_190	Cúig euro ar gach ceann.
+LAD_gle_000695	cll_z0002_291	Ar m'fhallaing go raibh siad tamall fós uaim, ach bhí oiread mhuga de dhá shúil agam.
+LAD_gle_000696	cll_z0001_448	"Tabharfaimid aire mhaith daoibh," a gheall sé
+LAD_gle_000697	cll_z0001_279	Ach caithfear splanc de chineál a bheith ionat.
+LAD_gle_000698	cll_z0001_143	Greim faighte ag foirgneoir ar phíosa eile talún fós.
+LAD_gle_000699	cll_z0001_832	Eiriceacht Ghiúdach is ea an Chríostaíocht cheartchreidmheach.
+LAD_gle_000700	cll_z0001_986	I ndiaidh ceithre mhí aistríodh é go Príosún Dhoire.
+LAD_gle_000701	cll_z0001_790	Oiread chéanna le Maude ina cuid filíochta, d'aimsigh Nic Cormaic an nóta foirfe.
+LAD_gle_000702	cll_z0002_055	ní bhfuaireas féin pingin rua de bharr mo shaothair as.
+LAD_gle_000703	cll_z0001_338	Dheonaigh sí a corp i gcóir taighde leighis.
+LAD_gle_000704	cll_z0001_227	"tá sé in am gníomhú," a dúirt sé
+LAD_gle_000705	cll_z0001_552	Aistear trastíre le tasc faoi leith a chur i gcrích agus rudaí ag tarlú faoi thrí
+LAD_gle_000706	cll_z0001_762	Ba gheall le clabhsúr é dóibh ar scéal uafásach an ionsaithe.
+LAD_gle_000707	cll_z0002_313	Cháin iarcheannaire an U U P, an Tiarna Reg Empey, iad go neamhbhalbh.
+LAD_gle_000708	cll_z0002_327	Tháinig siad aniar aduaidh ar an D U P nuair a tharraing siad siar as an bhfeidhmeannas.
+LAD_gle_000709	cll_z0001_034	ní hócáid mhór spóirt go géar-iomaíocht.
+LAD_gle_000710	cll_z0002_233	bhí sraith móreagarthóirí eile a d'fhág
+LAD_gle_000711	cll_z0002_354	bheifeá ansin go lá Jean Ricard agus stop ná stad ní dhéanfadh carr ná cairt ná carbad.
+LAD_gle_000712	cll_z0002_335	An cosantóir aonair ba mhó dar sheas ar son cearta an duine lena ghuth uaigneach singiltí féin riamh, b'fhéidir.
+LAD_gle_000713	cll_z0001_579	Go samhla tú aoibhnis a gheobhaidh daoine eile
+LAD_gle_000714	cll_z0002_024	Príomhchathair Kerala in iardheisceart na hIndia.
+LAD_gle_000715	cll_z0001_840	Bhí an t-imeacht saor in aisce.
+LAD_gle_000716	cll_z0001_151	Tugann sé "Eoraip na hEorpa" ar an réigiún Meánmhuirí
+LAD_gle_000717	cll_z0001_644	"Talamh bán," a bhí ann mar Bhostún.
+LAD_gle_000718	cll_z0001_965	Ach ní fada eile a leanfaidh mé leis an drochnós, is baolach.
+LAD_gle_000719	cll_z0001_247	Is é an trua nach bhfuil Myles beo.
+LAD_gle_000720	cll_z0002_274	tá an smaoineamh céanna á phlé sa domhan Angla-Shacsanach agus san Eoraip faoin dúchas Ceilteach.
+LAD_gle_000721	cll_z0001_147	Ba leor leithscéal ar bith.
+LAD_gle_000722	cll_z0001_134	I bpáirtíocht le Pádraig Ua Maoileoin
+LAD_gle_000723	cll_z0001_465	Chuir sé sin leis an imeallú
+LAD_gle_000724	cll_z0001_339	Is breá liom an t-ainm.
+LAD_gle_000725	cll_z0001_522	Ach de réir a chéile d'fhoghlaim mé í
+LAD_gle_000726	cll_z0002_177	Comhartha dóchais rugbaí? Fainic an ceann éasca
+LAD_gle_000727	cll_z0002_305	Rinne ceoltóirí ó Jiwaka i Nua-Ghuine Phapua dlúthdhiosca dá gcuid amhrán den chéad uair.
+LAD_gle_000728	cll_z0001_662	Tá siad chun seaicéid chulaith dhubha a mheascadh le hoodies
+LAD_gle_000729	cll_z0001_318	Aithneoidh tú ar a gcuid poipíní iad.
+LAD_gle_000730	cll_z0002_006	Dúirt ní Riada gur chóir go mbeadh deireadh leis an mhaolú
+LAD_gle_000731	cll_z0001_640	B'iontach an plean gnó é nuair a smaoiníonn
+LAD_gle_000732	cll_z0001_516	Is trua gur chaill Tomás Ó Dúlaing a phost.
+LAD_gle_000733	cll_z0001_706	Ba de shliocht na hAlban in oirthear Uladh a athair.
+LAD_gle_000734	cll_z0001_593	Moltar go láidir focal a chur ar thicéad.
+LAD_gle_000735	cll_z0002_227	Dúirt comhordaitheoir Gaeilge an ionaid, Aisling ní Bheacháin, go raibh córas T E G in úsáid go forleathan.
+LAD_gle_000736	cll_z0001_778	cá bhfuil do thriall? A d'fhiafraigh an fear den fháinleog.
+LAD_gle_000737	cll_z0001_335	Agus ina dhiaidh sin léimid na nuachtáin, im chás féin de, thrí cinn ar a laghad in aghaidh an lae.
+LAD_gle_000738	cll_z0002_066	tástálann siad pé rud a thástálann tástálacha an I.Q.
+LAD_gle_000739	cll_z0001_133	Réab Comhar isteach mar ghaoth úr tar éis ré choimeádach
+LAD_gle_000740	cll_z0001_112	Leathchéad bliain ó shin chuaigh sé ar díol
+LAD_gle_000741	cll_z0002_115	Dramhaíl na hoíche aréir ina sprémhóin fan an bhealaigh.
+LAD_gle_000742	cll_z0001_748	Ba é a ghnó iad a roinnt go poiblí lena chuid léitheoirí
+LAD_gle_000743	cll_z0002_106	In Namia athscrítear an stair fad is atá an ghaoth laistiar di.
+LAD_gle_000744	cll_z0001_039	Bailiúchán de phrós Gharret Fitzgerald
+LAD_gle_000745	cll_z0002_326	shílfeá, mar sin, go mbeadh údar maith ag an bhfeachtas ar son rogha reifreann a lorg anois.
+LAD_gle_000746	cll_z0002_131	Ar scoil Piers Rua Butler, Cill Chainnigh, a d'fhreastail sé
+LAD_gle_000747	cll_z0001_202	Labhair sé faoi thábhacht na Gaeilge.
+LAD_gle_000748	cll_z0002_272	Ar thaobh amháin den bhóthar feicimid an dá bholcán mhóra
+LAD_gle_000749	cll_z0002_107	Sa phlé cuireadh ceist ar Joyce Carol Oates i dtaobh nua-úrscéil ina bhfuil bean ceaptha ina huachtarán ollscoile.
+LAD_gle_000750	cll_z0001_440	Is Gaeilgeoir líofa Gaeltachta mé
+LAD_gle_000751	cll_z0001_773	Ceol Gaelach nó ceol traidisiúnta nó ceol na Gaeltachta.
+LAD_gle_000752	cll_z0002_062	Raibh aon duine eile ag tiúineáil isteach?
+LAD_gle_000753	cll_z0002_215	Chuala mé go minic faoi ach diabhal a fhios agam cén áit a bhfuil sé
+LAD_gle_000754	cll_z0002_151	Oíche fhuar gheimhridh a bhí ann i measc na nAlp.
+LAD_gle_000755	cll_z0001_093	Is é taobh le loighic a theanga féin.
+LAD_gle_000756	cll_z0001_541	Is albam do lucht leanúna agus éisteachta dílis síoraí u two é seo.
+LAD_gle_000757	cll_z0002_181	Tháinig fear amháin as Arizona chun castáil le cairde a bhí aige as Bostún.
+LAD_gle_000758	cll_z0002_310	má chuirtear Alan Kelly isteach ansin, caithfidh sé a bheith iontach éifeachtach nó beidh an Lucht Oibre thíos leis.
+LAD_gle_000759	cll_z0001_589	Andy Murray slán i gCraobh na bhFear.
+LAD_gle_000760	cll_z0001_789	"Go deimhin!" arsa an t-athair.
+LAD_gle_000761	cll_z0002_364	Ach tá an Nollaig ag teacht agus tá chomh maith cúpla bronntanas a thabhairt dúinn féin i lár na fuipeála.
+LAD_gle_000762	cll_z0001_944	An raibh anraith leictreach aréir agat?
+LAD_gle_000763	cll_z0001_360	Maraíodh fear naoi mbliana déag d'aois i dtimpiste bóthair i nDún na nGall luath ar maidin.
+LAD_gle_000764	cll_z0001_568	Tugann Vincent Morley le fios in D I B gurbh é Dáire Mac Bruaideadha a athair.
+LAD_gle_000765	cll_z0002_308	Le linn mo chúléisteachta ar chúinní sráide dhom, pioc níor airigh mé faoin Seanad.
+LAD_gle_000766	cll_z0002_000	Ach ní hí cailliúint codlata an rud is measa de.
+LAD_gle_000767	cll_z0001_250	tá neach dofheicthe suite trasna uait.
+LAD_gle_000768	cll_z0001_030	Sánn mias atá faighte aige ó bhean sa tsráid faoi mo shrón.
+LAD_gle_000769	cll_z0001_553	Samhlaíocht ghlan, a léitheoir dhil.
+LAD_gle_000770	cll_z0002_449	ná luaigh an focal "tiarna" leosan!
+LAD_gle_000771	cll_z0002_078	dá mhéad stuif atá againn is ea is fearr.
+LAD_gle_000772	cll_z0002_208	ní raibh freagrach as a bhua, ná ciontach ina laigí
+LAD_gle_000773	cll_z0002_219	tá an chomharsanacht seo ciúin, ina codladh, cheapfá
+LAD_gle_000774	cll_z0001_358	Is fiú go maith aiste Phádraig uí Riain.
+LAD_gle_000775	cll_z0001_013	Cónaidhme ag plé leo faoi thodhchaí an Tuaiscirt.
+LAD_gle_000776	cll_z0001_352	Fidléir ó Bhaile átha Cliath ó dhúchas í agus seo an chéad albam dá cuid.
+LAD_gle_000777	cll_z0001_819	Ba dhuine casta é Mauriac.
+LAD_gle_000778	cll_z0002_016	shílfeá go mbeadh náire orthu cruicéad a imirt.
+LAD_gle_000779	cll_z0002_213	Ba bhreá leis an Ailgéir, a thír dhúchais féin.
+LAD_gle_000780	cll_z0001_345	Thosaigh na huain ag méileach. Lig Íosa scread.
+LAD_gle_000781	cll_z0001_960	Ar éigin atá a clár éadain fuaraithe.
+LAD_gle_000782	cll_z0001_405	Shíl cuid de na filí a ghlac páirt
+LAD_gle_000783	cll_z0001_359	I lár na naoi déag caogaidí chuaigh siad chun cónaithe sa Daingean.
+LAD_gle_000784	cll_z0001_720	Ba cheart go mbeadh fhios agamsa é
+LAD_gle_000785	cll_z0001_614	tá an Phailis tuairim ocht míle soir ó thuaidh ó Ghuaire.
+LAD_gle_000786	cll_z0002_275	Tugadh an ollúnacht do scoláire Ceilteach eile arbh ainm dó Mühlhausen.
+LAD_gle_000787	cll_z0001_464	Go gcloise tú do chroí ag caint.
+LAD_gle_000788	cll_z0001_108	tá mír dheas in Ó Dónaill faoin bhó
+LAD_gle_000789	cll_z0002_428	bhí sé ar scoil ar dtús sa Mhodhscoil, scoil Ghaelach istigh sa chathair féin.
+LAD_gle_000790	cll_z0001_252	Imríodh cluichí uirthi chomh fada siar le naoi déag dó dhéag
+LAD_gle_000791	cll_z0001_167	Spéir ghlan oíche ghealaí seaca.
+LAD_gle_000792	cll_z0002_315	"Tá muid ag fanacht anois le cead a fháil don bheartas seo ó Ofqual agus ón Roinn Oideachais" a dúradh.
+LAD_gle_000793	cll_z0001_987	tá scríofa aige i dtaobh na hEorpa in Raon mo shiúil míle naoi gcéad is seachtó a dó
+LAD_gle_000794	cll_z0002_406	Lean sé den staidéar in Munich, Beirlín, Páras, an Háig
+LAD_gle_000795	cll_z0001_690	Ba mhór aige aon chúnamh.
+LAD_gle_000796	cll_z0001_724	Sea, tá muid ceart go leor.
+LAD_gle_000797	cll_z0001_741	Reifreann faoi bhunreacht nua ordaithe ag Uachtarán na Siria Bashar al-Assad don fiche séú lá de mhí Feabhra.
+LAD_gle_000798	cll_z0001_121	Dea-aoibh orthu ar fad.
+LAD_gle_000799	cll_z0001_102	n-aithneofaí tréithe na sean-namhad.
+LAD_gle_000800	cll_z0001_559	tá ceist airgeadais ann fosta.
+LAD_gle_000801	cll_z0001_508	Tuigeann tú cén fáth, a Thiarna.
+LAD_gle_000802	cll_z0001_050	bhí rud éigin dom choinneáil siar.
+LAD_gle_000803	cll_z0001_750	Cheap mé leascheannasaí i bhfoirm aip chun súil a choinneáil ar na calraí
+LAD_gle_000804	cll_z0002_087	Is féidir é a dhéanamh anseo le húdarás nua neamhspleách.
+LAD_gle_000805	cll_z0001_291	Tar i gcabhair orm go luath.
+LAD_gle_000806	cll_z0001_844	Mothaím an dólás atá istigh ann.
+LAD_gle_000807	cll_z0001_710	D'éag sé deich aon Nollaig dhá mhíle
+LAD_gle_000808	cll_z0002_287	Foilseacháin Inis Gleoire Bhéal Feirste a d'fhoilsigh smut ar shmut.
+LAD_gle_000809	cll_z0002_259	D'fhreastalaíodh sé ar rang oíche sa cheardscoil i gCluain Meala agus é sna fichidí
+LAD_gle_000810	cll_z0001_094	bhí cúpla alt i dtaobh ceoil aige in Comhar.
+LAD_gle_000811	cll_z0001_632	Shoiprigh an triúr acu iad féin faoi chrann.
+LAD_gle_000812	cll_z0002_143	Bhronn a chara Georges Roualt pictiúr dá dhéantús féin air.
+LAD_gle_000813	cll_z0002_353	Más mian leat racht a chur díot gan díobháil a dhéanamh d'aon duine, mholfainn an rang seo.
+LAD_gle_000814	cll_z0001_198	Bhraith mé uaim é, caithfidh mé a rá
+LAD_gle_000815	cll_z0001_835	nár shamhlaigh ár sinsear riamh.
+LAD_gle_000816	cll_z0002_028	Cuireann daoine nua úire agus beogacht leis an saol.
+LAD_gle_000817	cll_z0001_648	Níl a leithéid i gceist le post an Choimisinéara.
+LAD_gle_000818	cll_z0001_728	An fhadhb faoi Dheilfe, áfach, go mbíodh sé go minic débhríoch.
+LAD_gle_000819	cll_z0002_116	cá háit sa mhuine a bhfuil do nead
+LAD_gle_000820	cll_z0001_092	Ag cruthú is ag imirt cluichí agus ag poibliú
+LAD_gle_000821	cll_z0002_013	Ceart go leor, tusa amuigh ansin nach léann filíocht, ní mheánn sé brobh.
+LAD_gle_000822	cll_z0002_185	ná níor den aon bhuíon iad agus na Tuareig a ghabh Timbuktu cúpla bliain ó shin.
+LAD_gle_000823	cll_z0001_206	Bhí Osborn Bergin ar dhuine dá dhilchairde.
+LAD_gle_000824	cll_z0001_641	Éireannaigh iad ar fad de réir rialacha FIFA, níl aon rud as bealach faoi sin.
+LAD_gle_000825	cll_z0002_389	Is í Adelaide Nic Chárthaigh an comhspeisialtóir nua agus é mar phríomhchuspóir aici cúrsaí
+LAD_gle_000826	cll_z0001_834	Ar easpa brí a mhairimid.
+LAD_gle_000827	cll_z0002_129	Luadh ann a mhac Richard Johnston agus máthair an mhic sin.
+LAD_gle_000828	cll_z0001_388	Ba í an namhaid i gcónaí í
+LAD_gle_000829	cll_z0001_082	Insíodh dúinn gur scrios buamaí cuid mhór den Ard-Eaglais
+LAD_gle_000830	cll_z0001_461	ach theip ar a mhisneach.
+LAD_gle_000831	cll_z0001_901	Bheadh a thuilleadh siléige doghlactha.
+LAD_gle_000832	cll_z0001_934	Is furasta a fheiceáil cad chuige a mbeadh tarraingt ag an iris ar ghlúin an Idirlín.
+LAD_gle_000833	cll_z0001_182	ní miste liom cén cineál Alfa Romeo.
+LAD_gle_000834	cll_z0001_601	Agus má chleachtann tú é, feicfidh tú é
+LAD_gle_000835	cll_z0001_031	Log na Coille mar sprioc.
+LAD_gle_000836	cll_z0001_503	"Seafóid, a Ghabriel!" ar sise.
+LAD_gle_000837	cll_z0001_902	Seo an áit a bhfuil an fhadhb don Rialtas.
+LAD_gle_000838	cll_z0001_201	Bíodh sé ceart nó éigeart
+LAD_gle_000839	cll_z0001_827	Yeats mar ábhar plé sa dara ceann.
+LAD_gle_000840	cll_z0001_624	Maigh Eo a sheas idir iad agus Craobh Chonnacht.
+LAD_gle_000841	cll_z0002_359	Beidh Aoife ní Thuairisg, bean Paisean Faisean, i mbun na hócáide.
+LAD_gle_000842	cll_z0001_500	Léirigh sé uafás an bháis dúinn.
+LAD_gle_000843	cll_z0002_320	Don té nach raibh aon scil acu ann, shílfeá gur déanta as dusta dubh a bhí sé
+LAD_gle_000844	cll_z0001_386	Tá níos mó ná peil i gceist.
+LAD_gle_000845	cll_z0002_068	ní bhíonn leisce orthu iad féin a chur i láthair go croíúil.
+LAD_gle_000846	cll_z0001_177	Léigh Séamus Ó Dubhghaill an páipéar thar a cheann.
+LAD_gle_000847	cll_z0002_468	Tagann geolaithe chun staidéar a dhéanamh ar na bruthcharraigeacha agus bíonn saineolaithe fiadhúlra i mbun taighde ar an iora rua.
+LAD_gle_000848	cll_z0001_733	Theastaigh uaim iad go léir a thaifeadadh i bhfilíocht.
+LAD_gle_000849	cll_z0002_183	Nuair a ghabh na ríthe an talamh de cheart claímh bhí a fhios acu go leanfadh an slua iad.
+LAD_gle_000850	cll_z0001_841	Meastar go mbeidh amhais an dá thír ag comhoibriú lena chéile le trioblóid a thógáil i gcaitheamh an chomórtais.
+LAD_gle_000851	cll_z0001_023	Fuair sé suas go leathchéad.
+LAD_gle_000852	cll_z0001_199	Eisean timpeall deich mbliana i mo dhiaidh.
+LAD_gle_000853	cll_z0001_294	An fiú í a Tharrtháil?
+LAD_gle_000854	cll_z0001_398	Mhúineadh sé Briotáinis i mBaile átha Cliath.
+LAD_gle_000855	cll_z0002_478	Leabhar nótaí ag an bhfile Cumannach Francis Combes, ón bhFrainc, agus rud éigin rúnda á bhreacadh síos aige.
+LAD_gle_000856	cll_z0001_629	má thig le daoine eile é a dhéanamh, tig linne.
+LAD_gle_000857	cll_z0001_955	An Iaráic, gabhar, dá mbeadh ceann ar bith fanta.
+LAD_gle_000858	cll_z0001_485	ní raibh baol ar bith ann dom.
+LAD_gle_000859	cll_z0001_315	Ba i nGleann Cholm Cille, contae Dhún na nGall, a rugadh Ó Cuinneagáin.
+LAD_gle_000860	cll_z0001_639	Chraith Conal lámha leosan leis arís is arís.
+LAD_gle_000861	cll_z0001_437	Leanas orm in airde de ruathar, é ag cúngú ina shimléar.
+LAD_gle_000862	cll_z0001_400	tá sí uilíoch chomh maith le pearsanta.
+LAD_gle_000863	cll_z0001_849	Aibreáin agus mí na Bealtaine.
+LAD_gle_000864	cll_z0002_425	bhí rang á mhúineadh aige i Scoil na nEalaíon ar mhaisiú párpháipéir
+LAD_gle_000865	cll_z0001_625	Ghnóthaigh siad, ach bua crua gan stíl a bhí ann.
+LAD_gle_000866	cll_z0002_239	bhí sí ag súil go mbeadh borradh faoi na himeachtaí idirnáisiúnta.
+LAD_gle_000867	cll_z0001_862	Agus chreid mise an aip.
+LAD_gle_000868	cll_z0001_457	fiú mura bhfuil siad go hiomlán líofa.
+LAD_gle_000869	cll_z0001_443	ní dheinim nótaí ná réamhdhréacht.
+LAD_gle_000870	cll_z0001_333	Molaim gur cheart iad a dhíbirt.
+LAD_gle_000871	cll_z0001_774	Leabhar ait atá in An Ghaeilge Bheo.
+LAD_gle_000872	cll_z0002_225	b'é an chéad chor ná rátaí pá agus tuarastail a reo.
+LAD_gle_000873	cll_z0001_488	mná óga dathúla a bhí iontu
+LAD_gle_000874	cll_z0001_357	tá cuid dá dhraíocht feicthe agam.
+LAD_gle_000875	cll_z0001_060	Gabhaimid buíochas leat, a Thiarna.
+LAD_gle_000876	cll_z0001_745	Níor luadh ceachtar den dá ábhar
+LAD_gle_000877	cll_z0001_499	beannófar SOIR uainn í, bliain na hainnise.
+LAD_gle_000878	cll_z0002_356	Níor mhiste leis an rialtas ansiúd stop a chur leis an sruth athimirceach, dá mb'fhéidir.
+LAD_gle_000879	cll_z0001_881	Ó am go chéile bhí poist thar lear aige.
+LAD_gle_000880	cll_z0001_509	tá fabhtanna eile sa chóras.
+LAD_gle_000881	cll_z0001_886	"Tá mo ghuth píosa garbh ar maidin," a deir sé
+LAD_gle_000882	cll_z0002_344	Ansin théadh siad abhaile agus ghabhadh siad buíochas leis an Dia geal a bhí maith agus ina fhlaithis.
+LAD_gle_000883	cll_z0002_153	"tá tú ag baile anseo pé scéal é i mBaile an Reeroy" arsa an Gunnadóir Fileata.
+LAD_gle_000884	cll_z0002_299	Is taighdeoir sinsearach le U T V í Áine ní Chosgráin
+LAD_gle_000885	cll_z0001_911	má tá cúnamh ar bith uaibh, labhair le Nicola.
+LAD_gle_000886	cll_z0002_445	B'iriseoir é Gongadze a mbíodh sé de nós aige cámas a fháil ar Kuchma.
+LAD_gle_000887	cll_z0002_296	'Dar Cníops!' chun an focal Críost a sheachaint agus a leithéid sin ach níor nós an-leathan é
+LAD_gle_000888	cll_z0001_483	Ag ocht Sráid Morley, Port Láirge, a rugadh é
+LAD_gle_000889	cll_z0002_258	Thóg Máirtín thart ar thríocha scéal agus píosaí seanchais uaidh.
+LAD_gle_000890	cll_z0001_782	ní chreideann duine ar bith iad, mar ní hiad sin atá ag teastáil uathu.
+LAD_gle_000891	cll_z0001_787	Fiche euro atá ar thicéad nó ar lacáiste.
+LAD_gle_000892	cll_z0002_079	Oiread agus uair an chloig de rang Gaeilge ar scoil
+LAD_gle_000893	cll_z0002_033	File grá den scoth é Fritz, im thuairimse.
+LAD_gle_000894	cll_z0001_572	San leasú céanna sin, chaithfí painéil éagsúla a bheith ann.
+LAD_gle_000895	cll_z0002_251	Craoltóir maith ba ea é agus rinne sé dhá shraith teilifíse do r t e
+LAD_gle_000896	cll_z0001_076	Cuir an plúr isteach i mbabhla mór.
+LAD_gle_000897	cll_z0001_529	Beidh córas comhuaineach ar fáil.
+LAD_gle_000898	cll_z0002_186	tá páiste eile do mo leanaí liteartha sé mhí d'aois anois ná Gabh ar Scoil!
+LAD_gle_000899	cll_z0001_350	Ach pé áit ar phioc sé suas iad d'fhág sé a rian neamhchoitianta féin orthu.
+LAD_gle_000900	cll_z0001_584	ní rabhas ag smaoineamh beag ná mór cá rabhas ag dul.
+LAD_gle_000901	cll_z0002_112	bhí sé anseo cheana ar a shlí ann nó as an Afganastáin.
+LAD_gle_000902	cll_z0001_594	bhí páirt mhór aige i gcur faoi chois éirí amach Aoidh Mhig Uidhir i bhFear Manach.
+LAD_gle_000903	cll_z0002_199	An gcuirfidh na cláir nua borradh eile faoin stáisiún? Beidh le cluinstin.
+LAD_gle_000904	cll_z0001_799	Duinnínigh agus O'Neill Lane ag teacht ar an bhfód.
+LAD_gle_000905	cll_z0001_510	Cad dúirt Aodh Mór Ó Neill? "Beidh lá geal gréine go fóill in éirinn"
+LAD_gle_000906	cll_z0001_009	An Giallsa Damer, a scríobh léirmheastóir
+LAD_gle_000907	cll_z0001_296	Ag éirí as cur i bhfeidhm
+LAD_gle_000908	cll_z0001_667	Is duine den "ghlúin chaillte" é Geoff.
+LAD_gle_000909	cll_z0001_043	Is doiligh botún chomh bunúsach a thuigbheáil.
+LAD_gle_000910	cll_z0001_387	Boilgín fóillíochta é idir boilgín fóillíochta eile.
+LAD_gle_000911	cll_z0001_505	ag tarraingt móna abhaile.
+LAD_gle_000912	cll_z0002_301	tá leabhar nua do léitheoirí óga le hAnna Heussaff
+LAD_gle_000913	cll_z0002_084	tá sé deacair é a sheachaint lena fholt fionn.
+LAD_gle_000914	cll_z0001_330	Ba cheart go mbeadh níos mó céille ag Mansergh, áfach
+LAD_gle_000915	cll_z0001_788	bhí plé agus míniú iomarcach.
+LAD_gle_000916	cll_z0001_815	Níl sí le cur suas le seirbhís – nó bia – den dara grád.
+LAD_gle_000917	cll_z0001_256	Rinceoir maith ba ea í
+LAD_gle_000918	cll_z0001_455	Beidh gadaí de Nollaig le Tom Murphy, aistrithe ag Brídín Nic Dhonncha, ar camchuairt ar ball.
+LAD_gle_000919	cll_z0002_001	ná ní fheicim fuip Íosa ar thairseach na mbanc.
+LAD_gle_000920	cll_z0001_837	I mbunú údarás na Gaeltachta.
+LAD_gle_000921	cll_z0001_426	b'fhiú ceist a chur orthu.
+LAD_gle_000922	cll_z0001_576	tá go leor airgid ann do chách.
+LAD_gle_000923	cll_z0001_698	Is muidne a bheidh mar dheisceabail, ag scaipeadh an tsoiscéil.
+LAD_gle_000924	cll_z0002_054	I naoi déag daichead a cúig dhaor rialtas na Fraince chun báis é in absentia.
+LAD_gle_000925	cll_z0001_991	Suaimhneas síoraí dá anam uasal faoi chiúine chlabhastrach na gcrann is na bhfallaí in Abbeydorney.
+LAD_gle_000926	cll_z0001_852	Ach ansin, céard faoin spéis domhínithe seo
+LAD_gle_000927	cll_z0002_290	Na glúine Gael a ghabh tríd an gcóras scolaíochta bí deimhnitheach de gur cuireadh an cheist orthu.
+LAD_gle_000928	cll_z0002_306	Bhain mé triail as Bootcamp uair amháin, i mbun brúnna aníos san fhéar i bpáirc éigin ag bánú an lae.
+LAD_gle_000929	cll_z0001_495	tá a chuid matán ag gobadh amach as an phic – bíodh is nach pic tríthoiseach é
+LAD_gle_000930	cll_z0001_703	Is maith liom a gcuid céapar.
+LAD_gle_000931	cll_z0001_283	Beidh mo ghuth fé bhláth ó aois go h-aois
+LAD_gle_000932	cll_z0001_022	Crothnaím uaim iad sa gheimhreadh.
+LAD_gle_000933	cll_z0001_804	Níltear cinnte gurbh é Céitinn a chum 'Milis an teanga an Ghaeilge'
+LAD_gle_000934	cll_z0001_941	Teanga á fuascailt nó teanga á scrios? Costas agus moill na foclóireachta.
+LAD_gle_000935	cll_z0002_289	An Teach Bán, Washington, D C; bhí Seoirse Dubya faoi smúit.
+LAD_gle_000936	cll_z0001_471	bhí greim daingean ag an ndá láimh aici ar an dúrud málaí plaisteacha.
+LAD_gle_000937	cll_z0001_307	tá siad milis a dhuine.
+LAD_gle_000938	cll_z0001_268	Amharc go bhfuil féar, bó agus na síogaí sa tseanchas.
+LAD_gle_000939	cll_z0002_162	Cuireadh ranganna Breatnaise ar fáil chun go mbeadh teacht ag an bpobal ar a ndúchas.
+LAD_gle_000940	cll_z0001_868	Níl seo chomh saonta is a cheapfaí
+LAD_gle_000941	cll_z0001_525	Oibríonn agus cónaíonn Rofes timpeall chathair Perpignan.
+LAD_gle_000942	cll_z0002_038	Faoi láthair, tá cumainn óige acu
+LAD_gle_000943	cll_z0001_707	Ina dhiaidh sin théadh sé go minic go dtí an Eoraip.
+LAD_gle_000944	cll_z0001_769	Is as Baile átha Cliath ó dhúchas é
+LAD_gle_000945	cll_z0002_119	Duine ar bith a ghabh trí chéasadh ní bhaineann sé leis an saol seo níos mó
+LAD_gle_000946	cll_z0001_153	Na siopadóirí ó dheas ag geonaíl.
+LAD_gle_000947	cll_z0001_087	shílfeá, ar an gcéad radharc, gur bábóg phoircealláin a bhí sa bpictiúr.
+LAD_gle_000948	cll_z0002_323	Más mian leat dul ag siúl, gabh amach chun na sléibhte, téir bealach Chill Mhantáin, feictear an t-iolar órga thuas.
+LAD_gle_000949	cll_z0002_100	tá clamháin le feiceáil gach aon áit de bharr na dea-aimsire.
+LAD_gle_000950	cll_z0002_189	Níl mórán acu ann ach ní fada go mbeidh na céadta acu le feiceáil sa spéir.
+LAD_gle_000951	cll_z0002_467	Chuir sé i gcuimhne dom an méid rudaí, idir bharrúil agus uafásach, atá cloiste agam féin ag cluichí
+LAD_gle_000952	cll_z0001_421	Caithfear cuid den ghnáthshaol a dhéanamh den tríú teanga.
+LAD_gle_000953	cll_z0001_392	Níl mé baileach cinnte cén uair ar thuig mé gurb as an nGaeltacht mé
+LAD_gle_000954	cll_z0001_072	Baile Átha Cliath, áit a seolfaidh an láithreoir
+LAD_gle_000955	cll_z0001_806	File ba ea a mhac.
+LAD_gle_000956	cll_z0001_713	bhí sé ina láithreoir sa chlár raidió 'The Long note'
+LAD_gle_000957	cll_z0001_127	Na scórtha póilín ar dualgas, héileacaptar ag eitilt timpeall.
+LAD_gle_000958	cll_z0001_758	Is ea, is maith le daoine figiúir.
+LAD_gle_000959	cll_z0002_074	Chuireadh sé an dubhghall ina ghealghael ort dá mbeadh céir i do chluasa.
+LAD_gle_000960	cll_z0001_404	ní bheadh a fhios agat
+LAD_gle_000961	cll_z0002_018	tá páirtnéireachtaí go mór i réim.
+LAD_gle_000962	cll_z0002_148	Imreofar an dá bhabhtaí leathcheannais ar an Domhnach beag seo, an ochtú lá déag de mhí na Samhna.
+LAD_gle_000963	cll_z0001_351	tá an bheirt fhear ag pléadáil neamhchiontach.
+LAD_gle_000964	cll_z0001_246	Deir Ó Ciosáin go mba fhear gaoil leis é
+LAD_gle_000965	cll_z0001_262	Ba bheag ba lú orainn ná gabháltas Gael.
+LAD_gle_000966	cll_z0002_046	bhí sé ag taobhú leis na ríogaithe in aghaidh na Comhchomhairle.
+LAD_gle_000967	cll_z0002_081	Sin é an difear mór idir buamaí Bheograid agus buamaí Bhagdaid.
+LAD_gle_000968	cll_z0001_090	Ba den phribhléid bheith á léamh.
+LAD_gle_000969	cll_z0002_015	Ach i Washington, thug an tUachtarán Bush "a thuilleadh cleasaíochta" ar an gníomh.
+LAD_gle_000970	cll_z0001_498	D'fhilleas abhaile níos boichte, níos saibhre.
+LAD_gle_000971	cll_z0002_059	bhí dhá rang de chuid an Chonartha á stiúradh aige i rith an ama.
+LAD_gle_000972	cll_z0002_366	bhí an t-eagras sásta fosta go mbeadh teorainneacha na Gaeltachta bunaithe ar chritéir theangeolaíocha.
+LAD_gle_000973	cll_z0001_078	ní inniu ná inné a saolaíodh an coincheap.
+LAD_gle_000974	cll_z0001_337	tá aicme ghairmiúil iriseoirí ag déanamh slí bheatha as an iriseoireacht
+LAD_gle_000975	cll_z0002_094	Táimse ar aon intinn le Philip Bramley.
+LAD_gle_000976	cll_z0001_954	Is é a ghlanmhalairt timpeall ar fad é
+LAD_gle_000977	cll_z0001_159	Cuir i bpáirc peile iad.
+LAD_gle_000978	cll_z0002_324	An Tolg Draíochta is ainm do leabhar nua páistí Carmel uí Cheallaigh agus Jimmy Burns.
+LAD_gle_000979	cll_z0002_193	Is eagal liom nach chun suaimhnis atá Cnoc Suain a dhul.
+LAD_gle_000980	cll_z0001_489	gabháil buíochais leis an ocht faoin gcéad
+LAD_gle_000981	cll_z0001_266	ní dheachaigh muidne i muinín an ghunna riamh.
+LAD_gle_000982	cll_z0001_209	An fhadhb: géarchéim thodhchaí na Fraincise.
+LAD_gle_000983	cll_z0002_435	Maolíosa McHugh, Cathaoirleach Bhord gobharnóirí Ghaelscoil na Deirge
+LAD_gle_000984	cll_z0002_384	Beidh turas eile Eorpach an deireadh seachtaine seo agus bíodh is nár cheart go mbeadh iontas orm
+LAD_gle_000985	cll_z0001_759	Is sinne corpchnaipe an domhain.
+LAD_gle_000986	cll_z0001_511	Chaith sé seal i Londain leis na imreoirí Éireannacha.
+LAD_gle_000987	cll_z0001_478	Nach sibhse a bhí aineolach, a Dheaid.
+LAD_gle_000988	cll_z0001_469	bhí cúigear searbhóntaí sa teach, chomh maith le buime.
+LAD_gle_000989	cll_z0001_142	An Peann Coitianta le Liam Ó Muirthile
+LAD_gle_000990	cll_z0002_157	I sé déag daichead a haon a sheol ceathrar Proinsiasach í chuig Lobháin.
+LAD_gle_000991	cll_z0001_144	Caithfear íoc go daor astu.
+LAD_gle_000992	cll_z0002_276	Is náireach mar a bhaineann na húdaráis nua sa Chróit agus sa tSeirbia úsáid as cúrsaí teanga.
+LAD_gle_000993	cll_z0001_430	An namhaid? Gach uile bhean eile.
+LAD_gle_000994	cll_z0002_117	Roghnaítear na daoine mí-ádhmharacha seo go randamach, geall leis.
+LAD_gle_000995	cll_z0002_397	Ba é an chéad duine é i gceannas ar an gcúirt éigse a tháinig in áit na dámhscoile sa Bhlarna.
+LAD_gle_000996	cll_z0001_896	Athraíodh an saol ó bhun.
+LAD_gle_000997	cll_z0002_065	I gceann de bhiostrónna nua Bhaile átha Cliath a bhíomar le déanaí
+LAD_gle_000998	cll_z0002_482	Muintir na háite is mó a bhíonn i láthair, iad ag gríosadh agus ag moladh na gceoltóirí le fonn.
+LAD_gle_000999	cll_z0001_012	bí ag caint ar chliste.
+LAD_gle_001000	cll_z0001_123	Freagra ar dhán Dhiarmuid Mhic an Bhaird
+LAD_gle_001001	cll_z0001_253	Ba ghá athbhreithniú a dhéanamh i ndiaidh caoga bliain.
+LAD_gle_001002	cll_z0001_251	Agus tá scaoll ag teacht fúm.
+LAD_gle_001003	cll_z0001_630	Is mise Maidhc chomh maith.
+LAD_gle_001004	cll_z0001_873	tá, ar ndóigh, an dara tuairim ann.
+LAD_gle_001005	cll_z0001_957	Itheann an bolb go dtí go mbíonn a bholg lán.
+LAD_gle_001006	cll_z0002_237	Ar chaoi éigin d'aithin sé orm gur thurasóir
+LAD_gle_001007	cll_z0001_743	Sceideal nua t g a ceathair
+LAD_gle_001008	cll_z0001_255	Flosc chun foghlama orainn beirt.
+LAD_gle_001009	cll_z0001_792	Níor saolaíodh ina dhuine é go dtí seacht déag Roimh Chríost, an uair úd ina sheaman sa tSibéir.
+LAD_gle_001010	cll_z0001_175	Beidh Bileog ar ais dé Céadaoin, an dara lá de Mhí Eanáir.
+LAD_gle_001011	cll_z0002_165	tá lá i ndiaidh gearradh siar a dhéanamh ar na laethanta a fhoilsítear an nuachtán.
+LAD_gle_001012	cll_z0001_235	bhí a mac Micheál, agus cuid dá dheartháireacha, sna hóglaigh
+LAD_gle_001013	cll_z0001_599	Ghabh bó bheannaithe eile thar bráid.
+LAD_gle_001014	cll_z0001_367	Is snoíodóirí den scoth iad.
+LAD_gle_001015	cll_z0001_797	"Ó, nach bhfuil?" a d'fhiafraigh mé
+LAD_gle_001016	cll_z0001_305	tá deis ann scoil den chéad scoth a bhunú i gCléire.
+LAD_gle_001017	cll_z0001_936	Scaradh a dhíbríonn Dia ónár gcúraimí saolta.
+LAD_gle_001018	cll_z0001_322	tá cúpla ceacht maith ann
+LAD_gle_001019	cll_z0002_228	Ach má tá córas tearmainn ag an Libia, ní ceann maith é
+LAD_gle_001020	cll_z0001_545	Thiomáin sí as a bealach leis an ticéad a bhailiú ó Eoghan.
+LAD_gle_001021	cll_z0001_803	Is dócha go mbeadh ábhar seimineáir
+LAD_gle_001022	cll_z0002_023	Is canúint í seo nár thuig Gearmánach riamh.
+LAD_gle_001023	cll_z0002_373	Scáth ná eagla ní raibh roimh an speach seo, ach amháin i gcroí mórtasach maingléiseach na ríochta.
+LAD_gle_001024	cll_z0001_711	Ró-éasca a rinne sé iad.
+LAD_gle_001025	cll_z0002_382	bhí a leithéid de dhíospóireacht "an-tábhachtach," a dúirt sé, agus an Rialtas ag ullmhú plean fiche bliain don Ghaeilge.
+LAD_gle_001026	cll_z0001_069	Ag aon bhreithlá gheobhfá cártaí
+LAD_gle_001027	cll_z0002_200	Bhunaigh Oidhreacht scéim cúntóirí teanga sa bhliain naoi déag nócha a dó
+LAD_gle_001028	cll_z0001_866	An t-ullmhúchán síceolaíoch don obráid, eolas is comhairle á ndáileadh orm braon i ndiaidh braon.
+LAD_gle_001029	cll_z0001_073	má thugann tú nóta mór bainc di ligfidh sí béic
+LAD_gle_001030	cll_z0001_647	bhí cúpla orlach uisce ag a bhun agus é lán foichí
+LAD_gle_001031	cll_z0002_190	Dúinne, laoch fomhórach is ea aon duine a ghabhann i ngar don chraobh.
+LAD_gle_001032	cll_z0001_637	Aithnímid poll Tí Liabáin thíos fúinn agus feicimid sinn féin ann.
+LAD_gle_001033	cll_z0001_311	Neach geal ab ea é
+LAD_gle_001034	cll_z0001_412	Pól Aspal, níor nath leis é
+LAD_gle_001035	cll_z0002_124	thóg Easpag Salzburg sa bhliain seacht déag tríocha a sé
+LAD_gle_001036	cll_z0002_082	Ach pé ní eile ina thaobh, níorbh aon Phaidí Plaisteach é Pádraig.
+LAD_gle_001037	cll_z0001_100	Mic léinn leighis ab ea seachtó a cúig faoin gcéad díobh sin.
+LAD_gle_001038	cll_z0001_080	Caibidil nua eile i leabhar C L G.
+LAD_gle_001039	cll_z0001_654	San iomlán dheineadar dhá mhíle trí chéad ionsaí ón aer ar cheantar cúng Gaza.
+LAD_gle_001040	cll_z0001_220	cibé áit ar an speictream a luíonn do spéis
+LAD_gle_001041	cll_z0001_373	Ba dheacair cur in aghaidh ceann ar bith díobh.
+LAD_gle_001042	cll_z0002_297	tá siad ag iarraidh go n-athosclófaí an teorainn idir Gaza agus an Éigipt ag Rafah, i measc rudaí eile.
+LAD_gle_001043	cll_z0001_764	an lá deireanach a bhí mé ann.
+LAD_gle_001044	cll_z0001_493	tá liosta agam, má tá sé uait.
+LAD_gle_001045	cll_z0001_371	Sheas Lugh ar an tsráid tamall.
+LAD_gle_001046	cll_z0001_538	bhí an Eoraip Chríostaí riamh amhrastúil faoi Ghiúdaigh.
+LAD_gle_001047	cll_z0001_450	Bhíodar ciaptha de shíor ag iarraidh iad féin a chaolú agus a thanú
+LAD_gle_001048	cll_z0001_701	Ba mhó an draíocht a bhain le cluichí san oíche.
+LAD_gle_001049	cll_z0002_246	I measc na bhfilí a bhfuil dánta acu ann tá Fearghal óg Mac an Bhaird
+LAD_gle_001050	cll_z0002_420	I naoi déag trí déag bhuaigh sí Modhnóireacht sna Teangacha Ceilteacha i gColáiste na Tríonóide.
+LAD_gle_001051	cll_z0002_245	Deirtear gur ar long uí Shúilleabháin Béarra a chum sé é agus é ar a bhealach chun na Spáinne.
+LAD_gle_001052	cll_z0002_127	Dúirt eagarthóir an nuachtáin, Seán Tadhg Ó Gairbhí, go raibh an suíomh nua beagnach ullamh.
+LAD_gle_001053	cll_z0002_039	deich nóiméad tar éis a deich iarnóin san oíche amárach.
+LAD_gle_001054	cll_z0001_148	An mbeidh toradh ar obair uí Fhoighil? Beidh le feiceáil.
+LAD_gle_001055	cll_z0001_607	Spreagadh atá de dhíth orthu, chan díspeagadh.
+LAD_gle_001056	cll_z0001_416	Beidh praghas an scoir le n-íoc fós.
+LAD_gle_001057	cll_z0002_424	I gCill Domhnóig, paróiste Bhaile uí Phéacháin, Tiobraid árann, a rugadh é i Iúil ocht déag ochtó a dó
+LAD_gle_001058	cll_z0001_994	tá na taibhsí i bhfolach san adamh.
+LAD_gle_001059	cll_z0002_257	Tuairimítear gur mhó de mháthair aici an bhean sin ná an Frances Barry úd
+LAD_gle_001060	cll_z0001_651	Ó am go chéile níor léir di ach gealacáin a shúl.
+LAD_gle_001061	cll_z0002_322	ní ceart go ndéanfaí neamhaird ar scéal Dietrich von Hildebrand, áfach
+LAD_gle_001062	cll_z0001_375	Ag caint ar chogadh Vítneam.
+LAD_gle_001063	cll_z0002_352	Bhris troid fhíochmhar amach idir an dá dhream agus cé gur chan Johnny amhrán dár teideal
+LAD_gle_001064	cll_z0002_218	An raibh uathachas de shaghas áirithe ar an fhile W B Yeats
+LAD_gle_001065	cll_z0001_061	Briotaíl Bhéarla a bhíonn i gceist i gcónaí
+LAD_gle_001066	cll_z0001_103	naoi déag ochtó a haon
+LAD_gle_001067	cll_z0002_398	An leithscéal a bhí ag na húdaráis i gCorcaigh ná nach raibh aon long sásta pasáiste a thabhairt don seanduine.
+LAD_gle_001068	cll_z0001_631	Bualadh boinn speisialta airgid ina chuimhne.
+LAD_gle_001069	cll_z0002_072	Ba mhaith gur bhuail an tAire leis le linn dó bheith ó thuaidh.
+LAD_gle_001070	cll_z0002_017	Thiontaigh an slacaí ar a shála agus shiúil leis.
+LAD_gle_001071	cll_z0001_617	Fair plé don lead sin.
+LAD_gle_001072	cll_z0001_540	Ciarán a dhréachtaigh plean chun páipéar nua a fhoilsiú
+LAD_gle_001073	cll_z0002_340	Baineann comhairle mar seo go mórmhór leosan atá imithe in aois, daoine nach mbeadh chomh gníomhach agus a bhíodh.
+LAD_gle_001074	cll_z0002_355	Seans go mbeadh an leibhéal sin i bhfad níos ísle i gcás na spúnóga agus na gcnámha.
+LAD_gle_001075	cll_z0001_166	Ach d'fhéadfaí liosta ar bith a úsáid
+LAD_gle_001076	cll_z0001_963	Díreach ansin, shiúil bean amach as an teach.
+LAD_gle_001077	cll_z0001_535	Dúradh liom go ndéanfadh brabús.
+LAD_gle_001078	cll_z0001_757	Is mór an mhaith buíochas a ghabháil.
+LAD_gle_001079	cll_z0001_427	Sea, ba í Sasana an namhaid.
+LAD_gle_001080	cll_z0002_194	Diomaite de chúrsaí teanga, níl tada ró-iontach le hinse aige.
+LAD_gle_001081	cll_z0001_937	Táimid thuas i measc na sléibhte.
+LAD_gle_001082	cll_z0002_104	bhí an t-am ann go bhféadfadh eagraíocht plean nó scéim a bheith acu.
+LAD_gle_001083	cll_z0001_084	D'éag sé míle nó dhó taobh ó thuaidh de Chrois Mhic Lionnáin.
+LAD_gle_001084	cll_z0001_152	Na teaghlaigh Ghaeilge a mhisniú
+LAD_gle_001085	cll_z0001_677	bhí dhá Eoraip ann i gcónaí riamh.
+LAD_gle_001086	cll_z0001_760	D'inis an méid sin go leor duit faoin bhfear uasal ceolmhar seo a d'imigh uainn le gairid.
+LAD_gle_001087	cll_z0002_302	Nuair a bhí a hiníon sa bhunscoil cuireadh "janitor" na scoile isteach sa rang chun a máthairtheanga a mhúineadh di.
+LAD_gle_001088	cll_z0001_490	Is amhlaidh a mhol Liam triúr easpag i ndán.
+LAD_gle_001089	cll_z0001_848	I rith an mhórshiúil, bhí Putin ina sheasamh ar ghualainn Yanukovych.
+LAD_gle_001090	cll_z0001_460	Aimsíonn siad bia abhus agus tearmann.
+LAD_gle_001091	cll_z0002_166	Beidh an tuath bánaithe agus is dócha go mbeidh deireadh leis an Rómainis féin.
+LAD_gle_001092	cll_z0002_350	tá smaoineamh agam: dáiltear amach é mar a dhéanfaí le súp.
+LAD_gle_001093	cll_z0002_022	Go dtí go bhfreagraíonn an I R A, cur amú ama a bheadh ann cainteanna nó toghchán comhthionóil a reáchtáil.
+LAD_gle_001094	cll_z0001_746	tá na mílte corp pollta aige.
+LAD_gle_001095	cll_z0002_212	I dtosach tháinig siad ar son an pá a reo.
+LAD_gle_001096	cll_z0002_262	San iomaíocht don phost mór, bhí John McCain, Poblachtánach ó Arizona.
+LAD_gle_001097	cll_z0001_066	Thug sé chun boird mé
+LAD_gle_001098	cll_z0002_329	ní foláir nó bhí scéal luachmhar pearsanta laistiar de gach duine díobh sin.
+LAD_gle_001099	cll_z0001_534	Dúnmharfóir a bhí ag caitheamh Doc Martins.
+LAD_gle_001100	cll_z0001_645	bhí an slua faoi gheasa acu.
+LAD_gle_001101	cll_z0001_752	d'aithneofaí sa chliabhán iad dá mbeadh na comharthaí níos soiléire.
+LAD_gle_001102	cll_z0001_570	Bronnadh ceann de Dhuaiseanna Jacob air.
+LAD_gle_001103	cll_z0001_497	Chuala gach coiscéim uaim ar an urlár adhmaid.
+LAD_gle_001104	cll_z0001_219	Príomhthreibh Pheiriú iad na Quechua.
+LAD_gle_001105	cll_z0002_056	Bhuaigh píosa leis duais ag Oireachtas naoi déag seasca
+LAD_gle_001106	cll_z0001_678	tá Pósadh Figaro á stáitsiú in ómós do Phádraig Ó hÉanaí
+LAD_gle_001107	cll_z0001_200	Cad eile? Ó sea, mo dhearúd, tá íomhá adhmaid againn den dia Éireannach, Cernunnus.
+LAD_gle_001108	cll_z0001_779	Is baolach nach raibh an dara rang riamh ann
+LAD_gle_001109	cll_z0001_940	Is dream spioradálta iad na Gaeil.
+LAD_gle_001110	cll_z0001_833	Ubh úr, an ea? Scrúdaigh mé iad.
+LAD_gle_001111	cll_z0001_077	Féach ansin é, gnúis mhoncaí, inchinn ghealbhain
+LAD_gle_001112	cll_z0002_152	bhí leath den rang críochnaithe le seachtain, imithe go dtí an Ghréig nó áit éigin
+LAD_gle_001113	cll_z0001_417	Thiocfadh le tuismitheoir ar bith tabhairt fúthu gan deacracht.
+LAD_gle_001114	cll_z0001_353	'Gus is scim liom na fásanna.
+LAD_gle_001115	cll_z0001_176	Dhein Niko iontas den mhéid sin.
+LAD_gle_001116	cll_z0001_977	Ba é an sáirsint earcaíochta ab fhearr a bhí ag an I R A riamh é
+LAD_gle_001117	cll_z0002_339	Folamh atá na hoifigí ó cuireadh deireadh leis an chomhdháil faoi scéim atheagair de chuid an fhorais féin.
+LAD_gle_001118	cll_z0001_531	Chúig chúilín déag a fuair Tiobraid Árann
+LAD_gle_001119	cll_z0001_532	Aclaítear í mar uirlis bhríomhar nua-aimseartha.
+LAD_gle_001120	cll_z0001_564	ní bheadh fadhb ar bith againn, a dúirt muid.
+LAD_gle_001121	cll_z0001_436	"Seo dhaoibh póigín ó bharr mo mhéar!" arsa Lugh agus rith sé leis.
+LAD_gle_001122	cll_z0001_384	Bhí siad ar long a bhí ag tabhairt aghaidh ar an Spáinn.
+LAD_gle_001123	cll_z0001_680	D'imigh sé leis go Dún Dealgan.
+LAD_gle_001124	cll_z0001_847	D'fhéadfadh ispíní Denny's a chur os ard gur bagún iad "ó mhuin na muice".
+LAD_gle_001125	cll_z0002_343	Ar chuma a shinsear roimhe san aimsir anallód, bhí cleas na mbeach agus na meala á imirt arís aige.
+LAD_gle_001126	cll_z0001_374	Luaim foighne mar d'fhéadfadh an rang seo a bheith saghas leamh.
+LAD_gle_001127	cll_z0001_699	tá plean ag Arnie dúinn.
+LAD_gle_001128	cll_z0001_920	tá an t-eispéireas ar fad an-nua-aoiseach.
+LAD_gle_001129	cll_z0002_064	Lorgaím uair an chloig breise ó rúnaí Hot Press.
+LAD_gle_001130	cll_z0002_360	Is é a cheapann an tAire Spion agus Sumanna gur fadhb teicnící múinteoireachta é
+LAD_gle_001131	cll_z0001_033	Níor luigh siad le ciall ach spreag siad an tsamhlaíocht.
+LAD_gle_001132	cll_z0002_348	Rud "neamhghnách" a bhí ann nach ndéanfaí "in athuair".
+LAD_gle_001133	cll_z0002_163	Maidir le Críostaithe, tá siad nádúrtha agus de réir mar a cheap Dia iad.
+LAD_gle_001134	cll_z0002_180	Luadh ceannasacht agus caoine agus carthanacht agus cruthaitheacht.
+LAD_gle_001135	cll_z0002_085	ídítear boinn na ngluaisteán leis na taiscí beag a iompar ó rang go rang, ó fhaiche go faiche.
+LAD_gle_001136	cll_z0001_740	bhí sé in ospís le tamall.
+LAD_gle_001137	cll_z0002_361	Ar an gcuma chéanna thugadh sé chugainn isteach sa rang ábhar nár bhain leis an gcúrsa, fíortheist an ardoideachasóra.
+LAD_gle_001138	cll_z0001_298	Fearann beag a bhí ag m'athair nuair ba bheo dó
+LAD_gle_001139	cll_z0001_922	Is ródheacair é an áilleacht a shainmhíniú
+LAD_gle_001140	cll_z0001_105	tá an dara halbam déag ó stiúideo u two i ndiaidh tuirlingt.
+LAD_gle_001141	cll_z0002_494	San fhógra báis luadh iníon agus beirt mhac a bheith aige féin agus a bhean chéile Bláthnaid.
+LAD_gle_001142	cll_z0001_124	Ba é a luaigh ainm Phóil le Marsh.
+LAD_gle_001143	cll_z0002_330	éiríonn a cloigeann as a cliabh faoi dheireadh; an rinn sin de ghob buí le sonrú go soiléir.
+LAD_gle_001144	cll_z0001_049	b'fhiú dóibh dul ag suirí
+LAD_gle_001145	cll_z0001_692	Braoinín fuisce, b'fhéidir? Bhí gá le huchtach éigin
+LAD_gle_001146	cll_z0002_224	Go raibh tú cosúil le daoine eile, agus go raibh tú go hiomlán ar leith uathu.
+LAD_gle_001147	cll_z0002_427	Rinne sé portráidí d'Éamonn de Valera
+LAD_gle_001148	cll_z0001_697	ní theastaíonn siad ó éinne
+LAD_gle_001149	cll_z0002_346	Scrios siad trealamh, chaith péint ar bhallaí agus bhris fuinneoga agus doirse.
+LAD_gle_001150	cll_z0001_636	Táimid timpeallaithe ag callán de gach saghas.
+LAD_gle_001151	cll_z0001_214	Tá cónaí air i nGaeltacht Chois Fharraige.
+LAD_gle_001152	cll_z0002_372	Is ar an gcúis sin, agus easpa paraisiút, a cinneadh ar gan ionsaí a dhéanamh ón aer.
+LAD_gle_001153	cll_z0001_470	Deirtear gur chóirigh sé le haghaidh cló tuairim cúig chéad leabhar.
+LAD_gle_001154	cll_z0001_897	ní fios cad a tharlóidh sa todhchaí
+LAD_gle_001155	cll_z0002_092	Dhiúltaigh The Daily Telegraph é a fhoilsiú cé gur íoc siad pingin mhaith le cearta eisiacha an scéil a cheannach.
+LAD_gle_001156	cll_z0001_433	Ba é Henry Farren, snoíodóir cloch, a athair.
+LAD_gle_001157	cll_z0002_029	ní chloiseann an chéad dá rang naíonáin Béarla ar bith.
+LAD_gle_001158	cll_z0002_093	Níor thuig mé d'fhocal uaidh ach Irlandesi.
+LAD_gle_001159	cll_z0001_334	Phreab siad aniar le fórsa is le binb.
+LAD_gle_001160	cll_z0001_814	tá m'aird iomlán ar a cuid uamanna.
+LAD_gle_001161	cll_z0002_264	Praghas cúig euro agus caoga cent ar píosa beag de miotal óir
+LAD_gle_001162	cll_z0001_712	bhí sé rannpháirteach le Siobhán Nic Cionnaith
+LAD_gle_001163	cll_z0002_077	Mar sin féin, rithfeadh sé leat nár dúirt
+LAD_gle_001164	cll_z0002_231	Shroich mé Salzburg san Ostair ar séú lá de mhí Eanáir naoi déag caoga a seacht
+LAD_gle_001165	cll_z0002_249	Foilsíodh drochaistriúchán Béarla den Ogygia i seacht déag nócha a trí
+LAD_gle_001166	cll_z0001_425	trí lá a mhairfidh an plé - a chreidtear.
+LAD_gle_001167	cll_z0002_411	Fuair sé post mar chléireach sóisearach i gcomhlacht Tedcastle McCormick, iompórtálaí guail, an bhliain dár gcionn.
+LAD_gle_001168	cll_z0001_527	Is é ús réalachas na hEorpa é
+LAD_gle_001169	cll_z0001_918	ní dhéanfadh bean as Baile átha Cliath ceathair é
+LAD_gle_001170	cll_z0002_412	Chuir Máirtín béim i gcónaí ar an nGaeilge, ina shaol pearsanta agus i measc fhoireann an tsiopa.
+LAD_gle_001171	cll_z0001_379	Sin mo bharúil cibé ar bith.
+LAD_gle_001172	cll_z0002_027	I bhfad sula raibh irisí ar nós Hello ann bhí Lola againn.
+LAD_gle_001173	cll_z0001_726	Saol na hainnise a bhíodh ann ag an dream a d'imíodh.
+LAD_gle_001174	cll_z0001_985	D'éag sé Bealtaine dhá mhíle
+LAD_gle_001175	cll_z0001_458	tá fuinneamh nua le mothú ann.
+LAD_gle_001176	cll_z0001_454	Dia le hadhradh nuair ba chuí, Dia eile fós nuair a d'athraigh an rialtas.
+LAD_gle_001177	cll_z0001_484	Rinne Heussaff taighde cuimsitheach agus í i mbun pinn.
+LAD_gle_001178	cll_z0001_998	Mealláin, chun báis i ndiaidh éirí Amach naoi déag sé déag
+LAD_gle_001179	cll_z0002_433	Ghabh ceannaire Fhianna Fáil, Micheál Martin, leithscéal aréir faoi bhotúin a rinneadh nuair a bhí a pháirtí féin sa rialtas.
+LAD_gle_001180	cll_z0002_452	Dhiúltaigh Campbell eolas ar bith a thabhairt faoin eachtra ná faoin gceathrar eile a bhí sa bhuíon ón U V F.
+LAD_gle_001181	cll_z0002_349	má loic an Rialtas ar an nGaeilge san Eoraip tá caoi anois acu ar an mbris a thabhairt isteach.
+LAD_gle_001182	cll_z0001_871	Is ionann iad go léir, uasal is íseal, is canann Ko Un iad mar a chanfadh feithid.
+LAD_gle_001183	cll_z0001_838	Dúirt sé i gclár raidió uair
+LAD_gle_001184	cll_z0001_687	Is é an dráma príomhthionscnamh na bliana i Moinseo.
+LAD_gle_001185	cll_z0001_459	trí chéad euro atá ann mar phríomhdhuais mar aon le corn buan.
+LAD_gle_001186	cll_z0001_684	bhí sé in aon rang le Mícheál Ó Domhnaill
+LAD_gle_001187	cll_z0002_234	caithigí uaibh an plean don dara teach sa Chróit nó i bhFlorida.
+LAD_gle_001188	cll_z0002_458	Níor éirigh le heagras ar bith sa Tuaisceart stádas a bhaint amach mar cheanneagraíocht.
+LAD_gle_001189	cll_z0001_560	Iarradh freisin go mbeadh comhoibriú ar bhonn
+LAD_gle_001190	cll_z0002_473	tá tuairimíocht i measc saineolaithe anois nach leor forbairt tionsclaíochta ann féin mar straitéis athnuachan agus caomhnaithe teanga.
+LAD_gle_001191	cll_z0002_459	Ba spórt é i Luimneach nár thug mórán ómóis ariamh do lucht an rachmais.
+LAD_gle_001192	cll_z0002_431	Glactar sa Dáil, leis an mBille um Sheirbhíse Uisce, bille a chuireann rialacháin nua i bhfeidhm do dhabhacha séarachais.
+LAD_gle_001193	cll_z0002_263	Moladh mór do Des! Meas mór! Scoth stuif.
+LAD_gle_001194	cll_z0001_860	Is ionann liomsa an craiceann is a luach is a dhath, cibé rud a deireann tú féin.
+LAD_gle_001195	cll_z0001_996	tá mé ag foghlaim Gearmáinise le fiche a cúig bliain.
+LAD_gle_001196	cll_z0001_751	Chuirfeadh sé samhnas air dá ligfí don bheirt líomhaintí a dhéanamh in aghaidh a gcomhoifigeach go poiblí
+LAD_gle_001197	cll_z0001_507	Múineann haiku é sin dúinn.
+LAD_gle_001198	cll_z0002_146	Lar Corbett ar ais ar phainéal iomána Thiobraid árann
+LAD_gle_001199	cll_z0002_012	tá sí i ndiaidh í féin a chaitheamh den chlaí i dtreo an fhéir.
+LAD_gle_001200	cll_z0001_907	Ba chóir go mbeadh meas againn ar thuairimí a chéile.
+LAD_gle_001201	cll_z0001_145	tá an rud a dúirt tú drochmheasúil.
+LAD_gle_001202	cll_z0002_336	I mBaile an Mhóta Shligigh a cumadh Leabhar Bhaile an Mhóta, mar a thuigfeá
+LAD_gle_001203	cll_z0001_842	Go polaitiúil, tá Chirac mort.
+LAD_gle_001204	cll_z0001_324	Níl margadh ann níos mó don chnuasach aonteangach.
+LAD_gle_001205	cll_z0002_021	Mura foláir linn é ní foláir dúinn plé leis.
+LAD_gle_001206	cll_z0002_004	bhí mo shaol agam ar Facebook.
+LAD_gle_001207	cll_z0002_396	bhí Séamus óg mustrach teaspúil agus, b'fhéidir, místuama meargánta.
+LAD_gle_001208	cll_z0001_548	Go deimhin, is gairid go dtuigimid go bhfuil an Luch Oibre ag sceamhaíl.
+LAD_gle_001209	cll_z0001_932	Suigh siar agus bain sult.
+LAD_gle_001210	cll_z0002_071	tá cúis ann go dtugtar "peil Ghaelach" ar an chluiche.
+LAD_gle_001211	cll_z0002_455	Is féidir gur tuigthe, gan amhras, nach prionsabail ar fad atá i gceist anseo, ach féinleas.
+LAD_gle_001212	cll_z0001_626	Is de shliocht Luo iad muintir Obama agus tá clú orthu as a bheith sa tóir ar oideachas.
+LAD_gle_001213	cll_z0001_727	Ag labhairt dó an Satharn seo caite dúirt Shane Ross nach mbeadh fuip i gceist sa chomhghuaillíocht nua.
+LAD_gle_001214	cll_z0002_437	Meiteamorfóis nach dtiocfaidh chun foirfeachta ach go mbeidh sé fréamhaithe i gclaochlú pearsanta i saol fhormhór na saoránach.
+LAD_gle_001215	cll_z0002_123	Ghabh mé buíochas leis agus chuidigh sé liom an trealamh a chur sa charr.
+LAD_gle_001216	cll_z0002_499	An ruaig curtha ar léirsitheoirí a bhí ag cur fúthu taobh amuigh den Bhanc Ceannais i mBaile Átha Cliath.
+LAD_gle_001217	cll_z0002_174	Dúnadh an áit de phlimp is le plab.
+LAD_gle_001218	cll_z0002_155	Ach is de réir a chéile a ghabh Ó Conghaile cúis na hÉireann chuige féin.
+LAD_gle_001219	cll_z0001_596	Bheinn ag insint bréag dá ndéarfainn go raibh sin eisceachtúil.
+LAD_gle_001220	cll_z0001_917	Dar liom ní fheicfinn go deo arís í"
+LAD_gle_001221	cll_z0001_796	Chuas á lorg lá mar dhréimire ach theip orm teacht air.
+LAD_gle_001222	cll_z0001_383	Dhealraigh gáire beag ar a aghaidh.
+LAD_gle_001223	cll_z0001_328	tá fadhb againn le bia.
+LAD_gle_001224	cll_z0001_514	Níl bunús ar bith eolaíoch lena cuid tuairimí
+LAD_gle_001225	cll_z0002_095	Chaill Fianna Fáil pé creideamh a bhí acu daichead bliain ó shin
+LAD_gle_001226	cll_z0001_588	Ba é a thug dídean d'Uilliam Bedell
+LAD_gle_001227	cll_z0001_325	Afracáinis a fhoghlaim ar scoil.
+LAD_gle_001228	cll_z0001_795	Níos déanaí chuir a bhean a hainm ann.
+LAD_gle_001229	cll_z0001_675	Pé cúis a bhí leis, níl spéis dá laghad agam ann.
+LAD_gle_001230	cll_z0001_623	Chuir an eachtra tús le seachtain uafásach.
+LAD_gle_001231	cll_z0002_479	Cur amach aige ar Paul Durcan, Rita Ann Higgins, Moya Cannon agus scata eile.
+LAD_gle_001232	cll_z0001_717	Chroith an tAthair Giusep a cheann i dtreo Victor.
+LAD_gle_001233	cll_z0001_761	rothar a fháil ar cíos.
+LAD_gle_001234	cll_z0001_542	Cad a thabharfá ar bhall den R A F nach píolóta
+LAD_gle_001235	cll_z0002_232	Theip air cuimhneamh ar aon ní taitneamhach so-úsáidte a bhí de dhíth.
+LAD_gle_001236	cll_z0001_018	Níor scoláire béaloidis é Pedersen.
+LAD_gle_001237	cll_z0001_533	seastán smige nuair a thagann tuirse ort
+LAD_gle_001238	cll_z0002_267	Déan cinnte go bhfuil an friochtán breá té
+LAD_gle_001239	cll_z0002_277	tá "cás maith déanta againn" a dúirt an príomhfheidhmeannach.
+LAD_gle_001240	cll_z0002_463	Agus b'shin é údar an cheapacháin shealadaigh go dtí I M M A, ceapachán a lean ar feadh coicíse san iomlán.
+LAD_gle_001241	cll_z0001_114	nó ag feabhsú ar a laghad
+LAD_gle_001242	cll_z0002_383	tagartha eile atá in ainm is a bheith údarásach, an Coiste Téarmaíochta, focal ponc i e agus dreamanna eile.
+LAD_gle_001243	cll_z0001_117	Ar a laghad ar bith bhí tásc uirthi.
+LAD_gle_001244	cll_z0001_864	"An mbeadh suim agat an litir a fheiceáil?" a d'fhiafraigh m'aintín Kathleen díom.
+LAD_gle_001245	cll_z0002_003	Cuid den lucht leanúna "dea-aimsire" atá ionamsa.
+LAD_gle_001246	cll_z0001_772	I mí Lúnasa dhá mhíle a sé sheol Gmail a n-uirlis nua comhrá
+LAD_gle_001247	cll_z0001_845	Ba mhór an chailliúint dom é sin.
+LAD_gle_001248	cll_z0001_244	Níor éirigh leo measúnú a dhéanamh
+LAD_gle_001249	cll_z0001_226	cibé áit a gcuirtí é
+LAD_gle_001250	cll_z0002_188	Mar sin féin, tá eagla orm go bhfuil siad i ndiaidh greim a fháil orm.
+LAD_gle_001251	cll_z0001_953	Saothar comhpháirtíochta is ea é gan aon amhras.
+LAD_gle_001252	cll_z0001_054	Fáithe an fichiú hAois
+LAD_gle_001253	cll_z0002_342	Oíche Chéadaoin seo caite, ghabh póilíní Spáinneacha príomheagarthóir agus deichniúr foirne de chuid an nuachtáin.
+LAD_gle_001254	cll_z0001_686	Smaoinigh faoi ar nós preppy in aghaidh síc an choláiste! Bígí ag fáil réidh.
+LAD_gle_001255	cll_z0002_051	Coigistíodh an céad is tríocha acra a bhí ag Seán.
+LAD_gle_001256	cll_z0002_298	Ciallóidh Conradh Liospóin go mbeidh áit ár dteanga agus ár gcultúr náisiúnta san Eoraip níos sábháilte ná riamh.
+LAD_gle_001257	cll_z0002_321	Den chéad Teachta Dála níl ag seasamh ina éadan ach Mattie McGrath.
+LAD_gle_001258	cll_z0001_487	Ag fanacht le bus ar imeall chathair chorcaí a bhíos.
+LAD_gle_001259	cll_z0001_993	tá easpa comhordaithe ann agus tá daoine trí chéile.
+LAD_gle_001260	cll_z0001_655	ciníocha á nglaoch ag cuid den dream
+LAD_gle_001261	cll_z0001_663	Agus ionas nach mbeidh díomá ort, ná téigh in aice leis an gclub Tresor – is áit uafásach í
+LAD_gle_001262	cll_z0002_113	bhí an téama "Ó Aidhm go Feidhm" faoi chaibidil ag na heagrais Ghaeilge ag an chruinniú
+LAD_gle_001263	cll_z0001_137	Creidimid ann toisc gur mian linn creidiúint ann.
+LAD_gle_001264	cll_z0001_149	ní chuirfear ann ach mo chorpán
+LAD_gle_001265	cll_z0002_247	bhí caidreamh aige in Douai agus arís i bPáras le David Rothe.
+LAD_gle_001266	cll_z0002_375	Bronnadh Gradam Eilís Dillon (don té a chum a chéad saothar do pháistí) ar Bob Burke dá leabhar bleachtaireachta
+LAD_gle_001267	cll_z0001_466	ní féidir ach méid áirithe a fhoghlaim
+LAD_gle_001268	cll_z0001_556	Is leagan ar leith de chuid atá againn i gcás Na Sailm
+LAD_gle_001269	cll_z0002_337	Am baiste, agus dar muige! Féach sin! Smaoinítear air, tuarascáil eile fós.
+LAD_gle_001270	cll_z0001_098	a bhíonn á gcoimeád faoi ómós i sanctóir gach séipéil.
+LAD_gle_001271	cll_z0001_721	tá an Eoraip athraithe gan amhras.
+LAD_gle_001272	cll_z0002_485	bhí sé réitithe le haghaidh cló aige faoi mhíle ach bhí clódóirí na hollscoile ag obair ar a mbogstróc.
+LAD_gle_001273	cll_z0001_442	Splanc bheag rua agus donn gan choinne
+LAD_gle_001274	cll_z0001_067	beiriú trí neomat, an buíocán bog.
+LAD_gle_001275	cll_z0002_150	Leath an dá shúil air beagán.
+LAD_gle_001276	cll_z0001_660	tá sé curtha i Reilig an Choilligh sa Spidéal.
+LAD_gle_001277	cll_z0002_035	Gramadach chomh neamhealaíonta le sciath.
+LAD_gle_001278	cll_z0002_466	An uair dheireanach gur tharla a leithéid i Westminster? Siar i naoi déag a deich
+LAD_gle_001279	cll_z0001_179	Tadhg ba ainm dá athair.
+LAD_gle_001280	cll_z0002_099	Ba ghairid gur déanadh dearmad air mar Sholzenitzin.
+LAD_gle_001281	cll_z0001_544	Is tréimhse speisialta spéisiúil lán le spraoi agus spiorad í
+LAD_gle_001282	cll_z0001_506	Is léir go bhfuil siad fabhtach.
+LAD_gle_001283	cll_z0001_420	Cúigear scríbhneoirí, inár gcimí ag L A F.
+LAD_gle_001284	cll_z0001_794	Chun filleadh ar an athfhiántas.
+LAD_gle_001285	cll_z0001_215	ní raibh trup is callán uathu de shíor.
+LAD_gle_001286	cll_z0001_238	Caithfear a rá go raibh pointe maith aige.
+LAD_gle_001287	cll_z0001_396	Bhraith sé uaidh an Rúis.
+LAD_gle_001288	cll_z0001_058	Is íomhá fhoirfe de Noel í
+LAD_gle_001289	cll_z0001_051	Cúbach ba ea é nár chúb riamh.
+LAD_gle_001290	cll_z0002_167	Coláiste na mbó? Níl ansin ach coláiste
+LAD_gle_001291	cll_z0001_482	Macasamhail lámh Midas ar an stair.
+LAD_gle_001292	cll_z0001_128	Comhuaineach sníomhbhairdneach ó cheann go ceangal.
+LAD_gle_001293	cll_z0002_300	tá Dún na nGall fós ag úsáid plean forbartha a réitíodh roimh theacht i bhfeidhm an Acht Pleanála.
+LAD_gle_001294	cll_z0002_386	tá siad go maith ag teanga na sean-namhad, ach tá siad go dona ag a dteanga náisiúnta féin.
+LAD_gle_001295	cll_z0001_481	tá an Gúm agus áis faoi
+LAD_gle_001296	cll_z0001_473	Céim chun tosaigh, dhá chéim ar gcúl
+LAD_gle_001297	cll_z0001_397	Gan é cinnte cén deismireacht a bheadh chuige dá bharr.
+LAD_gle_001298	cll_z0001_218	Is bolcáin bheo iad seo.
+LAD_gle_001299	cll_z0002_379	Maoiníonn Foras na Gaeilge an nuachtán agus chuir Foinseiarratas isteach ar chonradh nua uathu.
+LAD_gle_001300	cll_z0001_019	Bainim taitneamh as na fotheidil.
+LAD_gle_001301	cll_z0001_422	Baineann a chuid dánta cineál spáis amach dó féin, spás le hanálú éigin a dhéanamh
+LAD_gle_001302	cll_z0001_798	An Rialtas abhus ag canrán.
+LAD_gle_001303	cll_z0001_523	trí phunt atá ar na ticéid.
+LAD_gle_001304	cll_z0001_299	Níor mhaith leis a chuid bacaíle a roinnt leo.
+LAD_gle_001305	cll_z0001_257	"D'fhostaigh George óg arís iad, nach suimiúil?" a deir an Saighdiúir Tréigthe.
+LAD_gle_001306	cll_z0001_742	Ba thogra é de chuid Chomhairle Ceantair na hÓmaí
+LAD_gle_001307	cll_z0001_519	Is léir freisin go raibh meas mór aige ar Fhíníní a óige
+LAD_gle_001308	cll_z0001_603	Tír ar leith í an Iaráin.
+LAD_gle_001309	cll_z0002_417	Agus é ina oifigeach custaim athuair cuireadh ó áit go háit é amhail is dá mba earcach óg é
+LAD_gle_001310	cll_z0001_634	Radharc speisialta atá geallta cinnte.
+LAD_gle_001311	cll_z0001_869	Agus i gcónaí maslaí an chiníochais á gcaitheamh leis na hoibrithe ón iasacht.
+LAD_gle_001312	cll_z0001_964	ní hionadh gur ghabh sé ar mhionmharc an Chaesair.
+LAD_gle_001313	cll_z0002_108	Mura mbeadh trácht orthu, ar ndóigh, níorbh ann dóibh.
+LAD_gle_001314	cll_z0001_885	Cuir píosa beag ola agus salann leis.
+LAD_gle_001315	cll_z0002_070	Bean as Perpignan san iardheisceart a dúirt é sin liom.
+LAD_gle_001316	cll_z0002_120	I gceantracha móra, is é an I R A a bhí ag rialú
+LAD_gle_001317	cll_z0002_020	Ar imeall na cathrach tá banc dramhaíl.
+LAD_gle_001318	cll_z0002_030	Bhog fórsaí Mheiriceá isteach san Afganastáin.
+LAD_gle_001319	cll_z0002_133	bhí sé ar cuairt i Ráth Maoláin nuair ba dhóbair go ngabhfaí é
+LAD_gle_001320	cll_z0001_512	Cuireadh tórramh trí lá uirthi.
+LAD_gle_001321	cll_z0001_451	bhí beirt deartháireacha ag Cyril agus beirt deirfiúracha.
+LAD_gle_001322	cll_z0001_763	Theastaigh an fhéinriail uainn agus fuaireamar í sa deireadh.
+LAD_gle_001323	cll_z0002_122	Beidh an Bealach Thiar Thuaidh oscailte do shoithí sár i bhfad.
+LAD_gle_001324	cll_z0002_211	Fiche bliain ar an méar fhada ag rialtas i ndiaidh rialtais.
+LAD_gle_001325	cll_z0001_297	Agus ina dhiaidh sin, todhchaígh.
+LAD_gle_001326	cll_z0001_057	ní múinteoir ná múinteoir mé
+LAD_gle_001327	cll_z0001_059	Luadh fiú bagairtí buamaí a bheith faighte.
+LAD_gle_001328	cll_z0001_032	bhí Aodh Mac Laifeartaigh, a bhfuil mórchuid déanta aige, ar fheabhas
+LAD_gle_001329	cll_z0002_474	Measaim go bhfuil draíocht ag baint lena cuid filíochta ó Rabbie Burns go dtí Hugh MacDiarmid.
+LAD_gle_001330	cll_z0001_225	tá foirgnimh mhóra nua tógtha i ngach áit
+LAD_gle_001331	cll_z0001_156	allas an tíogair, téarma ar dheoch an-láidir ar fad.
+LAD_gle_001332	cll_z0001_491	tá a fear céile, Laurence Flanagan, tugtha mar chomhúdar Irish Place Names.
+LAD_gle_001333	cll_z0001_870	Níl aon tslí nua ann le páistí a thógáil.
+LAD_gle_001334	cll_z0002_168	I ndiaidh trí nóiméad shíl mé go mbeadh orm an glaoch sin a dhéanamh.
+LAD_gle_001335	cll_z0002_440	Agus mé i gColáiste na hOllscoile, Corcaigh, d'fhanas tamall in aontíos le boc darb ainm Roderick Campbell.
+LAD_gle_001336	cll_z0001_883	Bhunaigh sé club dátheangach don óige
+LAD_gle_001337	cll_z0001_184	ní dual dóibh bheith ag caoineadh.
+LAD_gle_001338	cll_z0001_376	Aistrítear an long ar a bhfuil sé
+LAD_gle_001339	cll_z0002_307	Mura bhfuil meas ag an aos polaitiúil ort, tá intuigthe nach mbeadh meas agatsa ar an aos polaitiúil ar ais.
+LAD_gle_001340	cll_z0001_627	Ach bhí ceol maith ann, cé nach n-aontódh m'athair bocht liom.
+LAD_gle_001341	cll_z0001_402	Focal suas, mar a deir Mac an Easpaig.
+LAD_gle_001342	cll_z0002_303	Mar atá inniu, bhí seasca ball ag Seanad an tSaorstáit
+LAD_gle_001343	cll_z0001_111	Ach ní go ceann i bhfad.
+LAD_gle_001344	cll_z0001_846	Fíodh na daoine i ngréasán teanga.
+LAD_gle_001345	cll_z0001_546	Ach tá tú óg, agus teastaíonn uait an saol a bhlaiseadh.
+LAD_gle_001346	cll_z0001_657	Foilsíodh an réamhrá in Irisleabhar Mhuighe Nuadhad.
+LAD_gle_001347	cll_z0001_138	Bíonn gearrstócaigh ag feitheamh ag pointí
+LAD_gle_001348	cll_z0002_419	tá dhá litir ag Coleman a thugann leide ar a mhodh oibre.
+LAD_gle_001349	cll_z0001_933	tá spriocanna comhchosúla idir an ghluaiseacht nuabhunaithe agus gluaiseacht an Chadhanaigh.
+LAD_gle_001350	cll_z0002_470	Maidir leis na scoileanna a dhíríonn go speisialta ar an gceol, bíonn múineadh foirmeálta mar dhlúthchuid.
+LAD_gle_001351	cll_z0001_435	Pé samhlú is a dhéanaim beidh bréag air.
+LAD_gle_001352	cll_z0001_289	tá cleachtadh acu orm faoin am seo.
+LAD_gle_001353	cll_z0002_205	Cúrsa éigin scoile a bhunú ina mbeadh bac agus teir agus cosc ar leabhair agus ar leictreonaic agus ar leictreachas.
+LAD_gle_001354	cll_z0001_824	Is míle trua cuspóir a seilge.
+LAD_gle_001355	cll_z0001_163	coinbhéartú meoin nó iompú ar ais de thoradh bróin agus áthais
+LAD_gle_001356	cll_z0001_275	bhí an tÉireannach Paul Brady ag imirt in aghaidh Luis Moreno ó Mheiriceá
+LAD_gle_001357	cll_z0001_135	Bhíodh sé ag obair mar aoire bó dó siúd.
+LAD_gle_001358	cll_z0001_828	Eagla ná eagla romham ní raibh air.
+LAD_gle_001359	cll_z0001_731	Thacaigh Foras na Gaeilge le hobair an choimisinéara.
+LAD_gle_001360	cll_z0001_909	Is maith go bhfuil díospóireacht phoiblí ar siúl idir lucht na bpeann cruthaitheach agus lucht na bpeann dearg.
+LAD_gle_001361	cll_z0002_434	Freastalóidh an Taoiseach ar ócáidí éagsúla i Washington dé Máirt.
+LAD_gle_001362	cll_z0002_025	D'oil comhlachtaí nua iad féin agus iad i mbun ceamara.
+LAD_gle_001363	cll_z0001_970	tá plean difriúil, níos daonlathaí ag Lula.
+LAD_gle_001364	cll_z0001_026	Samhradh fliuch? Téigh ó thuaidh.
+LAD_gle_001365	cll_z0001_316	Spreag sin díospóireacht faoi chuótaí cineáil.
+LAD_gle_001366	cll_z0001_008	bhí céim mháistir aige ó Oxford.
+LAD_gle_001367	cll_z0001_452	I gCill Fhionnúrach a bhí sí ina dhiaidh sin.
+LAD_gle_001368	cll_z0001_577	Is dia iontach ar fad é
+LAD_gle_001369	cll_z0001_913	cuimhnígí go bhfuil Bush tosaithe cheana féin ar an mbuaileam sciath céanna faoin Iaráin.
+LAD_gle_001370	cll_z0002_136	Ba é an duine ba shine é den ochtar leanaí a bhí ag Ned Kelly, siúinéir, agus Johanna Cashman.
+LAD_gle_001371	cll_z0001_028	Chum sé suas le céad go leith píosa ceoil.
+LAD_gle_001372	cll_z0001_180	ní cosúil go ngéillfidh na ceannaircigh.
+LAD_gle_001373	cll_z0001_989	Fág an meascán sa chuisneoir ar feadh uair a chloig.
+LAD_gle_001374	cll_z0001_113	Ainmníodh seomra sa mhúsaem as.
+LAD_gle_001375	cll_z0002_169	Is é oighear diachrach an scéil é nach bhfuil aon scil faoi leith uait le dul le baincéireacht.
+LAD_gle_001376	cll_z0001_753	Lig mé osna dhomhain asam.
+LAD_gle_001377	cll_z0001_270	Chuaigh mé féin go hoifig an phoist gar dom.
+LAD_gle_001378	cll_z0001_575	Cloisim ann an cliabhán á luascadh, an naíonán ar diúl.
+LAD_gle_001379	cll_z0002_101	Bhraith sé a chuid fola ag coipeadh, arraing trína dhroim.
+LAD_gle_001380	cll_z0001_070	Aimsíonn muid culaith dheas nua.
+LAD_gle_001381	cll_z0002_265	ní shocrófar an costas go dtí go mbeidh tuairisc faighte ón Roinn Comhshaoil.
+LAD_gle_001382	cll_z0001_447	Scrios oidhreachta a bheadh ann.
+LAD_gle_001383	cll_z0001_463	An focal scoir ag Micheál D. Ó hUiginn, teachta dála
+LAD_gle_001384	cll_z0001_683	Thimpeallaigh Aonghus Éire ag scigmhagadh faoi na huaisle.
+LAD_gle_001385	cll_z0001_055	Ba é Christopher Butler, ardeaspag Chaisil, a rinne an socrú
+LAD_gle_001386	cll_z0001_000	"Táim go deimhin." a d'fhreagraíos.
+LAD_gle_001387	cll_z0002_026	Gach seans gur bhraith muid imní faoi leith freisin.
+LAD_gle_001388	cll_z0001_818	Díoladh gach uile cheann acu oíche Aoine.
+LAD_gle_001389	cll_z0002_195	Crógacht na n-othar eile agus an tuirse a chuireann cuairteoirí orthu uaireanta.
+LAD_gle_001390	cll_z0001_669	Is é an scéal céanna ag na húdaráis áitiúla é
+LAD_gle_001391	cll_z0001_729	Thugas cuairt ar Bhruges agus ar Lováin.
+LAD_gle_001392	cll_z0001_621	líníochtaí is ea iad
+LAD_gle_001393	cll_z0001_229	deich euro atá ar na ticéid.
+LAD_gle_001394	cll_z0002_281	Is mar sin a chothaítear ciníochas, fulaingt is naimhdeas.
+LAD_gle_001395	cll_z0001_381	Caitheann siad clocha fiú má tá siad sa pheaca iad féin.
+LAD_gle_001396	cll_z0001_088	tá dlúthdhioscaí ag dul leis na leabhair.
+LAD_gle_001397	cll_z0001_618	Thángthas ar choirp bheirt fhear in árasán i gcathair Luimnigh.
+LAD_gle_001398	cll_z0001_242	Ach ná bí buartha faoi.
+LAD_gle_001399	cll_z0001_064	buanna a shamhlaítí fadó leis an nGael.
+LAD_gle_001400	cll_z0001_961	tá bua iontach scríbhneoireachta ag an údar
+LAD_gle_001401	cll_z0001_892	tá sé aistrithe ag Máire Nic Mhaoláin.
+LAD_gle_001402	cll_z0002_052	Ach i ndiaidh Chogadh an dá rí rinneadh coigistiú, a leanfadh ar feadh saol Sir Nioclás, ar thalamh na mBrúnach.
+LAD_gle_001403	cll_z0001_578	Is é an fhírinne é; is é an Ard-Bheith é
+LAD_gle_001404	cll_z0002_142	Ba í Máire Sheáin Ruaidh ní Ghallchóir ó Chaiseal na gCorr a bhanchéile.
+LAD_gle_001405	cll_z0001_952	Seo beirt a rinne íobairt i ndiaidh íobairt le go mbeadh ábhar léitheoireachta ag lucht na Gaeilge.
+LAD_gle_001406	cll_z0001_554	tá cáil ar go leor daoine dá shliocht.
+LAD_gle_001407	cll_z0001_046	Tadhg ab ainm dá athair.
+LAD_gle_001408	cll_z0002_161	Go maraí an diabhal tusa le do chuid friseáilteachta.
+LAD_gle_001409	cll_z0001_775	Is rud nua é sin sa Nua-Shéalainn.
+LAD_gle_001410	cll_z0002_175	B'fhéidir go bhfaigheadh an Rialtas cnap airgid ar ais as an Eoraip mar a gealladh.
+LAD_gle_001411	cll_z0001_962	Aghaidh shollúnta Adams ag labhairt amhail is a bhí an óráid cois uaigh uí Dhonnabháin Rossa á tabhairt aige.
+LAD_gle_001412	cll_z0002_385	Mheascadar substaint brúite leis an duilleog d'fhonn is go mbeadh mearbhall ar an gcailín roimh a bás.
+LAD_gle_001413	cll_z0001_622	Faraor, tá lámh agus focal idir Polo agus Claudia Schiffer.
+LAD_gle_001414	cll_z0001_861	Is rud rua é sin; is rud rua mise.
+LAD_gle_001415	cll_z0001_331	Bíonn bród acu aisti, nó náire orthu fúithi.
+LAD_gle_001416	cll_z0002_182	B'fhéidir go mbeadh fonn ar Éireannaigh fanacht sa mbaile freisin.
+LAD_gle_001417	cll_z0001_231	b'fhiú a rá arís, ach ná bac...
+LAD_gle_001418	cll_z0001_475	tá iarracht níos fearr de dhíth uathu uilig.
+LAD_gle_001419	cll_z0001_946	Nuair a bhíos féin i rang na naíonán beaga sa bhunscoil bhí múinteoir againn a dhéanadh bagairt.
+LAD_gle_001420	cll_z0001_277	An-chosantóir go deo é Tommy.
+LAD_gle_001421	cll_z0001_808	Cainteoir dúchais Gaeilge ó Fhánaid, contae Dhún na nGall, ba ea Úna
+LAD_gle_001422	cll_z0001_001	I dtuairisc, a scríobh cigirí ón Roinn
+LAD_gle_001423	cll_z0002_495	Is as an gCreagán dá chara Réamonn Ó muirí agus dúirt seisean: 'Ba é an Creagán a chéadsearc.'
+LAD_gle_001424	cll_z0002_429	Cuirfidh sé gliondar ar go leor go bhfuil traic acu ar an albam.
+LAD_gle_001425	cll_z0002_126	bhí buicéad stáin lán de bhric locha, cuid acu dhá phunt go maith.
+LAD_gle_001426	cll_z0001_574	Féach ar a bhfuil de stáisiúin teilifíse is raidió ann.
+LAD_gle_001427	cll_z0002_019	Chomh luath is a dhún na scoileanna, tháinig claochlú ar an mbóthar seo 'gainne.
+LAD_gle_001428	cll_z0002_201	Mhol sé a bhean, an dealbhóir Clíodhna Cussen, a bhí ina crann taca i gcónaí aige.
+LAD_gle_001429	cll_z0001_444	Murach iad ní bheadh dóchas ann anois.
+LAD_gle_001430	cll_z0001_967	Leoga, tá dhá Eoraip ann go fóill, ach anois tá ainmneacha nua orthu: an lár agus an forimeall.
+LAD_gle_001431	cll_z0001_183	ní íocfaidh siad pingin rua agus sin sin.
+LAD_gle_001432	cll_z0002_286	Ba mhaith linn go dtabharfaí aird orainn gach uair a scríobhann muid nó a chraolann muid píosa.
+LAD_gle_001433	cll_z0002_159	Casann na scéalta ar fad ar roth úd na hintleachta, ó pheirspictíocht bhanúil.
+LAD_gle_001434	cll_z0001_854	ní gan dua a saothraíodh an comhghéilleadh sin.
+LAD_gle_001435	cll_z0001_801	Chonaiceas Garda ag tabhairt píosa
+LAD_gle_001436	cll_z0002_256	D'fhan sé ina rúnaí acu tar éis dó éirí as a bheith ina chaptaen.
+LAD_gle_001437	cll_z0001_906	Dílseacht an tslabhra bhig a bhriseadh.
+LAD_gle_001438	cll_z0001_418	Gach foghlaim chun deise duit féin.
+LAD_gle_001439	cll_z0001_826	Ghluais na focail uaidh go seolta.
+LAD_gle_001440	cll_z0001_496	ní mór clárú faoin Aoine, an ceathrú lá de mhí Iúil.
+LAD_gle_001441	cll_z0001_664	Faraor, níor éirigh leis an phróiseas athneartaithe.
+LAD_gle_001442	cll_z0002_034	Tar éis uair an chloig nó mar sin, radharc ar shéipéil.
+LAD_gle_001443	cll_z0001_355	Fuair filí eile duaiseanna as saothar próis.
+LAD_gle_001444	cll_z0001_188	Seo anois daoine a bhí ag guí go mbeadh sé fuar.
+LAD_gle_001445	cll_z0001_409	Ba aige a bhí an fhís.
+LAD_gle_001446	cll_z0002_288	tá an staidéar ag cothú bród nua iontu - as a gcumas léinn agus as saíocht na teanga.
+LAD_gle_001447	cll_z0002_332	Ghabh mé trasna na habhann i mBaile átha Luain, agus ní raibh Sionainn Bhriain Bhóroimhe ag dul siar insa tsáile.
+LAD_gle_001448	cll_z0002_008	Feiceann tú do mhac dóighiúil féin faoi chulaith oráiste.
+LAD_gle_001449	cll_z0001_477	Níl luach ar bith orthu anois.
+LAD_gle_001450	cll_z0001_107	má chuaigh, bhí díomá orm.
+LAD_gle_001451	cll_z0002_011	Rinne mé píosa ar an raidió sa teanga sin chomh maith.
+LAD_gle_001452	cll_z0001_633	bhí na horlaí eile uaidh sa chiseán.
+LAD_gle_001453	cll_z0001_024	Scéal suimiúil faoi chlog Chill Éinde
+LAD_gle_001454	cll_z0001_935	Is minic mé leis ag smaoineamh ar bhean an ghoil.
+LAD_gle_001455	cll_z0001_766	Bíonn siad ag déanamh plé faoi
+LAD_gle_001456	cll_z0001_223	Bhronn an Eoraip Chruthaitheach deontas dhá chéad míle euro ar Telegael Teo.
+LAD_gle_001457	cll_z0002_252	ní raibh an teanga le húsáid chun cultúr nua-aimsire na hEorpa a thabhairt isteach.
+LAD_gle_001458	cll_z0001_887	Amaideacht a bhí ann ón gcéad uair a luadh é
+LAD_gle_001459	cll_z0002_138	bhí sé ar scoil ag na Bráithre Críostaí i nDún Garbhán, é in aon rang le Nioclás Breatnach.
+LAD_gle_001460	cll_z0001_536	Is trua fosta go bhfuil caint ann ar Oifig an Choimisinéara a lonnú thiar.
+LAD_gle_001461	cll_z0001_501	san áit is foigsi do shliabh síon
+LAD_gle_001462	cll_z0002_357	Díol spéise é an díospóireacht a bhain le ról na Gaeilge i saol na seirbhíse nuabhunaithe.
+LAD_gle_001463	cll_z0001_446	Deir siad liom cé acu píosa is greannmhaire.
+LAD_gle_001464	cll_z0001_700	Raghadsa amach agus beidh fhios ag duine éigin amuigh iad.
+LAD_gle_001465	cll_z0002_184	Cheap sé go raibh cathair Dhoire dúr agus neamhchairdiúil.
+LAD_gle_001466	cll_z0001_776	Is boichte go mór an Dáil gan é
+LAD_gle_001467	cll_z0001_566	bhí boladh barbeque ag éirí ón ngairdín aníos ach bheireas greim ar mo pheann gorm.
+LAD_gle_001468	cll_z0001_916	Níl nóiméad le ligean amú
+LAD_gle_001469	cll_z0002_415	Dhealródh sé ó thagairtí a dhéanann Ó Fiaich agus Ó hÁdhmaill go raibh éalang ar lámh nó ar sciathán leis.
+LAD_gle_001470	cll_z0001_025	Táimid ar thóir ráitis láidir ficsin.
+LAD_gle_001471	cll_z0001_254	Deineann sé lá mór fuiseog.
+LAD_gle_001472	cll_z0002_407	Cóipeáil na sean-lámhscríbhinní dlí go cruinn a bhí i gceist
+LAD_gle_001473	cll_z0001_612	D'fháiltigh an tríú rún roimh mholtaí
+LAD_gle_001474	cll_z0001_811	Le roinnt mhaith pleanála, bheadh raidió Rí-Rá in ann cur faoi i saol an raidió dhigitigh.
+LAD_gle_001475	cll_z0001_161	Níl ciall ná ciall leis sin.
+LAD_gle_001476	cll_z0001_370	Déanfar é sin in am tráth.
+LAD_gle_001477	cll_z0001_732	Dúirt sé gur "onóir agus pribhléid" a bhí ann bheith athcheaptha ina choimisinéir.
+LAD_gle_001478	cll_z0001_486	dá mbeadh caint ag an leon, ní thuigfimis é
+LAD_gle_001479	cll_z0001_233	Ba dhlúthchuid dá dhaonnacht é
+LAD_gle_001480	cll_z0002_149	Ach amharc go géar ar an phictiúr, a stór.
+LAD_gle_001481	cll_z0001_230	tá siad ag imeacht go mall.
+LAD_gle_001482	cll_z0001_910	Thóg sí píosa amháin, an dara píosa, an tríú píosa agus rop sí lena gob iad.
+LAD_gle_001483	cll_z0002_073	Ach mar a dúirt an nath: ní bheidh le feiceáil.
+LAD_gle_001484	cll_z0001_081	ní tír í an Dalmáit, ar ndóigh, ach réigiún.
+LAD_gle_001485	cll_z0002_043	Is ar éigean go mbeidh seans acu ullmhúchán a dhéanamh don dílleachta seo
+LAD_gle_001486	cll_z0001_295	Ba mhór liom do chuidiú
+LAD_gle_001487	cll_z0001_905	bhí deiseanna acu, ach chuir siad amú iad.
+LAD_gle_001488	cll_z0002_334	Ach dá mbeadh airm ag Saddam, is cinnte nach ndéanfaí ionsaí air.
+LAD_gle_001489	cll_z0001_248	Tugann gach teaghlach ciseán go dtí an margadh
+LAD_gle_001490	cll_z0001_777	ní fheicfeá riamh i gculaith é
+LAD_gle_001491	cll_z0002_243	Chuaigh sé ó Douai go Rouen agus rinne sé staidéar ar an diagacht ann.
+LAD_gle_001492	cll_z0002_217	É ar son na méise adhmaid, a déarfá, nuair ba spúnóg airgid a bhí aige féin.
+LAD_gle_001493	cll_z0002_363	Baineann buaine airde leis an gcruthaitheacht pé scríbhneoireacht, ceol, dealbhádóireacht nó eile í
+LAD_gle_001494	cll_z0001_649	Tig leat amhrán a mholadh ach téacs a chur go anocht f m ag r t e ponc i e
+LAD_gle_001495	cll_z0001_997	coláistí oiliúna do mhná sa Nigéir
+LAD_gle_001496	cll_z0002_223	Níor ghlac Iosrael léi, mar an gcéanna le roinnt mhaith polaiteoirí i Stáit Aontaithe Mheiriceá.
+LAD_gle_001497	cll_z0001_504	D'fhiafraigh Joe dínn ansin an raibh taithí ag duine ar bith dínn ar thraenáil seabhac nó fabhcún.
+LAD_gle_001498	cll_z0002_457	Sa scannán sin, ina nglacann Tom Hanks an phríomhpháirt, d'fhuadaigh foghlaithe mara ón tSomáil long Mheiriceánach ar an Muir Indiach.
+LAD_gle_001499	cll_z0001_290	stiúireofaí mé san áit chuí sa gharraí ar oíche an tseó
+LAD_gle_001500	cll_z0002_314	B'fhéidir go mbeadh píosa eile ann sula dtarlódh a leithéid d'fhoireann idirchontae sinsir Ros Comáin.
+LAD_gle_001501	cll_z0001_949	Ar an dea-uair domsa, tá fostaíocht bhuan agam.
+LAD_gle_001502	cll_z0002_285	tá Murascaill na Boisnia agus an Mhuir Aidriad agus an Mhuir Chaisp ann agus is den teanga iad.
+LAD_gle_001503	cll_z0001_810	Bhailigh Bairéad a lán ábhair uaidh.
+LAD_gle_001504	cll_z0001_056	Bhain sé céim B A agus H Dip.
+LAD_gle_001505	cll_z0001_646	Thiocfadh leat an rud céanna a rá fá theanga.
+LAD_gle_001506	cll_z0001_693	Dum Ting is ainm dúinn.
+LAD_gle_001507	cll_z0002_380	Ach níltear slán ón mbás sna báid seo fiú má sheachnaítear an teip innill is an t-iompú
+LAD_gle_001508	cll_z0001_261	Beidh an bhliain amach romhainn suimiúil.
+LAD_gle_001509	cll_z0001_605	tá an chosúlacht ar an scéal go mbeidh Geimhreadh guagach romhainn.
+LAD_gle_001510	cll_z0001_494	Is é sin, bíonn spraoi ina chuid cainte leis na meáin.
+LAD_gle_001511	cll_z0001_434	Ach a luaithe is a bhfágfá an Spidéal taobh thoir dhíot, bhí an Ghaeilge in uachtar.
+LAD_gle_001512	cll_z0001_872	Cheap mé go mbeadh faoiseamh agam i dtíortha eile, nach raibh ann ach áilteoir fáin.
+LAD_gle_001513	cll_z0001_099	Ba dheacair é a shamhlú ach múineann gá seift.
+LAD_gle_001514	cll_z0001_329	bhí Fiontar riamh ó thús, nuálaíoch, cruthaitheach agus ar ardchaighdeán.
+LAD_gle_001515	cll_z0001_096	Is é mo dhícheall é coimeád bonn ar bhonn leis.
+LAD_gle_001516	cll_z0002_376	bhí poill á ndéanamh i screamh an domhain acu ionas go n-urlaicfeadh an talamh a chuid putóg aníos.
+LAD_gle_001517	cll_z0002_134	D'fhill sé ar Bhaile átha Cliath um Shamhain naoi déag daichead a seacht
+LAD_gle_001518	cll_z0002_338	ní shílfeá, mar sin, go mbeadh sé de mhisneach ionam leabhar scéalta faoi dhamhán alla a léamh.
+LAD_gle_001519	cll_z0002_465	Bíodh is go bhfuil "téamaí dorcha" faoi chaibidil sa tsraith, tá súil aige go gcaithfí "solas sna cúinní dorcha".
+LAD_gle_001520	cll_z0001_590	ní rabhadar sochreidte sa ról.
+LAD_gle_001521	cll_z0001_749	Bheadh trua ag aon duine dóibh.
+LAD_gle_001522	cll_z0001_036	Celt nó Meamram Páipéar Ríomhaire mar shampla.
+LAD_gle_001523	cll_z0001_914	Is le dua a léann siad scéal gearr i nGaeilge.
+LAD_gle_001524	cll_z0002_270	Mar, i ndeireadh na dála, is é mian domhúchta gach croí aontachtaigh go n-aithneofaí iad mar Bhriotanaigh.
+LAD_gle_001525	cll_z0001_085	Ghnóthaigh sé an H Dip.
+LAD_gle_001526	cll_z0002_086	Ach ní bheadh Lennon nó McCartney ann gan an chuid stuama den fhoireann.
+LAD_gle_001527	cll_z0001_992	"Aithním aghaidh an fhir sin," ar mé le mo chompánach, "nó tá dealramh aige le duine a aithním."
+LAD_gle_001528	cll_z0001_310	Bádh mé ar thalamh tirim.
+LAD_gle_001529	cll_z0001_661	D'éag sé deich aon Bealtaine dhá mhíle
+LAD_gle_001530	cll_z0001_171	"Tá an plota níos fearr i mbliana." arsa Eoghan McDermott
+LAD_gle_001531	cll_z0001_973	Labhair sé fosta faoi mhíréir idir foinsí tagartha eile.
+LAD_gle_001532	cll_z0001_267	Bhíos anois mar chuid de leaschlann.
+LAD_gle_001533	cll_z0001_281	Slat tomhais mhaith í reifreann ar mheas rialtais.
+LAD_gle_001534	cll_z0001_035	tá caint ann faoi oscailt oifigiúil.
+LAD_gle_001535	cll_z0002_484	'Thar sáile i dtír iasachta is ea tháinig an Haicéadach ar éirinn, a thír dhúchais', a deir Valkenberg.
+LAD_gle_001536	cll_z0001_053	chéad léiriú Gaeilge sa Phéacóg.
+LAD_gle_001537	cll_z0001_157	ar cheann de na hurraí preasa.
+LAD_gle_001538	cll_z0002_132	tá liosta a shaothair ag Ó Conchúir.
+LAD_gle_001539	cll_z0001_517	ní chreidfeá é, ach is geall le Búda Ceilteach é
+LAD_gle_001540	cll_z0001_126	Tá an rud céanna fíor i gcás teanga.
+LAD_gle_001541	cll_z0001_539	Ba í Máire Nig Ulghairg a mháthair.
+LAD_gle_001542	cll_z0001_164	D'amharc sé orm le dínit ach bhí loinnir na súl múchta.
+LAD_gle_001543	cll_z0002_400	Ba é an chéad duine é a rinne iarracht ar fhoclóir dátheangach a chur ar fáil don Ghaeilgeoir.
+LAD_gle_001544	cll_z0002_128	Ceann de mhórtheaghlaigh na cathrach iad ó aimsir na Normannach.
+LAD_gle_001545	cll_z0001_820	Táim ag teacht chugaibh pé ar domhan é
+LAD_gle_001546	cll_z0001_272	Ainmníodh go minic don Duais Nobel é
+LAD_gle_001547	cll_z0001_859	ní raibh aon ní eile fágtha.
+LAD_gle_001548	cll_z0002_439	In áit bheith ag cur leis an bhearna idir an Chróit agus an tSeirbia, bhí sé á cúngú
+LAD_gle_001549	cll_z0001_040	ár n-arán laethúil tabhair dúinn inniu
+LAD_gle_001550	cll_z0001_101	Más sea, is boichte muid.
+LAD_gle_001551	cll_z0001_915	chaithfí na rialacha a scríobh arís.
+LAD_gle_001552	cll_z0001_816	ní gan chúis an t-imní céanna.
+LAD_gle_001553	cll_z0001_738	Táilliúir ba ea a athair Christopher Delaney agus ba í Mary Quigley a mháthair.
+LAD_gle_001554	cll_z0002_268	Beidh sé leibhéal i gceist: bunrang aon, bunrang dó, meánrang aon, meánrang dó, ardrang agus rang cruinnis.
+LAD_gle_001555	cll_z0002_229	Is fíor gur féidir cuid mhaith de na hamhráin thosaigh a fhágáil sa bhanc dramhaíl.
+LAD_gle_001556	cll_z0002_391	nach gá go mbeadh an caighdeán ardaithe de réir an mhéid a tháirgtear.
+LAD_gle_001557	cll_z0001_784	Sin a tharla tar éis athimeartha.
+LAD_gle_001558	cll_z0002_110	Ciseán biolair agus seamróga, a Mhám.
+LAD_gle_001559	cll_z0001_063	Seo é Éamonn an Chnoic.
+LAD_gle_001560	cll_z0001_327	tá ag éirí leo áil a dhéanamh den éigean, áfach
+LAD_gle_001561	cll_z0001_945	Ar an drochuair, níor bhean mhór Xantia í mo chéile mná.
+LAD_gle_001562	cll_z0002_160	Go minic tagraíonn sé don ómós a bhí ag seanmhuintir na Cóiré do na mairbh.
+LAD_gle_001563	cll_z0001_208	Aontaím leat go h-iomlán! Ní aontaím libhse.
+LAD_gle_001564	cll_z0002_369	Dúirt comheagarthóir an leabhair, Róise ní Bhaoill, go raibh "scoth" na scéalaíochta le fáil ann.
+LAD_gle_001565	cll_z0001_141	Sin é an leigheas agus ní baghcat ná cinsireacht.
+LAD_gle_001566	cll_z0001_086	B'fhearr leo an ball a bhrógáil suas an pháirc.
+LAD_gle_001567	cll_z0002_109	Tháinig sé seo aniar aduaidh orainn agus b'iontach an rud é
+LAD_gle_001568	cll_z0001_591	ní beag an bua é sin.
+LAD_gle_001569	cll_z0001_472	tá lúb ar lár ansin.
+LAD_gle_001570	cll_z0001_249	Is breá liom an tsraith teilifíse
+LAD_gle_001571	cll_z0002_080	An tuar nár tháinig faoin tairngreacht.
+LAD_gle_001572	cll_z0001_518	Is minic nach leanann an díograis is an spraoi.
+LAD_gle_001573	cll_z0001_610	Is i ndiaidh ar ndiaidh a chreimtear an caisleán.
+LAD_gle_001574	cll_z0001_348	ní chuireann siad cis, cáis ná yahoo orm.
+LAD_gle_001575	cll_z0001_747	Go dtuga Dia agus Allah ciall agus trócaire dúinn.
+LAD_gle_001576	cll_z0001_047	An comhlacht neamhspleách léiriúcháin Lugh Films
+LAD_gle_001577	cll_z0001_668	Bua do na daoine, agus bua don daonlathas é seo, bua ón mbun aníos.
+LAD_gle_001578	cll_z0001_528	Filleann an caife Gorm mar chaife Cois Life.
+LAD_gle_001579	cll_z0001_903	I gcaitheamh a chuid fichidí bhí sé ag fáil airgid le dul ag imirt cispheile.
+LAD_gle_001580	cll_z0002_319	bhí tráth ann nuair a d'fhéadfaí 'poblachtánachas bog' a shamhlú leo.
+LAD_gle_001581	cll_z0001_344	tá an rud céanna fíor sa spórt.
+LAD_gle_001582	cll_z0001_875	Tháinig scoláirí ó rang Ethel chomh maith le ucht na ranganna áitiúla eile.
+LAD_gle_001583	cll_z0001_241	ní bhuafaidh Cecelia Ahern duais Nobel na Litríochta.
+LAD_gle_001584	cll_z0001_966	Caint olabhéalach go maith a bhí ar siúl go dtí seo.
+LAD_gle_001585	cll_z0002_331	Céastar cimí agus cuirtear daoine chun báis ar dhóigh nach gcreidfeá
+LAD_gle_001586	cll_z0002_216	San am, ní raibh cúrsaí ríomhaireachta ach i dtús a ré sa tír seo.
+LAD_gle_001587	cll_z0001_755	Is minic gur doicheall agus dímheas a bhíonn rompu.
+LAD_gle_001588	cll_z0002_141	Scaipeadh a luaithreach ar uaigh Mhichíl uí Choileáin i nGlas Naíon.
+LAD_gle_001589	cll_z0001_595	Seanleabhair a bhí bunaithe ar ghiob-geab.
+LAD_gle_001590	cll_z0001_650	Téid ceol le gaoth, ach téid beart go cnámh.
+LAD_gle_001591	cll_z0001_756	Tógtar amach an deimheas agus an claíomh agus an sámh leictreach.
+LAD_gle_001592	cll_z0002_067	Is cuimhin liom an chéad rang Gaeilge a bhí agam ar meánscoil.
+LAD_gle_001593	cll_z0002_418	Bhíodh rang drámaíochta aige in Ard-Scoil na Tráchtála, Ráth Maonais, ar feadh seacht mbliana.
+LAD_gle_001594	cll_z0001_106	Chuaigh sé ar pinsean luath ón státseirbhís.
+LAD_gle_001595	cll_z0001_431	Is annamh iad ag feidhmiú san áit ar thibhe buillí agus ar thréine teagmháil
+LAD_gle_001596	cll_z0001_382	Bheith á scríobh ó am go chéile ag an gcriticeoir clúiteach
+LAD_gle_001597	cll_z0001_258	An púicín a chuirfeá ar chapall.
+LAD_gle_001598	cll_z0001_193	Ach níl de ghnó acu ach gnó poiblí
+LAD_gle_001599	cll_z0002_292	shílfeá gur iarr sé orthu ionsaí a dhéanamh ar Bheirlín chomh drogallach agus a bhí siad faoin iarraidh.
+LAD_gle_001600	cll_z0001_718	Is uirlis iontach ar fad é
+LAD_gle_001601	cll_z0001_091	Is diail an dream iad i ngach slí, im thuairimse.
+LAD_gle_001602	cll_z0001_520	ní leigheasfadh leithscéalta a bpian.
+LAD_gle_001603	cll_z0001_526	Cailleach bhréan na Breataine Bige.
+LAD_gle_001604	cll_z0001_513	bhí beirt chara linn chomh maith, Osman agus Ajmal, teifigh Mhoslamacha ón Afganastáin.
+LAD_gle_001605	cll_z0001_791	Sea go deimhin, an bháisteach.
+LAD_gle_001606	cll_z0001_666	Dord den scoth ó Karl.
+LAD_gle_001607	cll_z0001_858	Samhlaigh an léimt agus an ceiliúradh.
+LAD_gle_001608	cll_z0002_500	Na deartháireacha Wayne agus John Dundon ciontach in imeaglú 's bagairt a dhéanamh ar cheathrar as teaghlach amháin a mharú
+LAD_gle_001609	cll_z0001_265	Ní amharclann amháin a bheidh ann ach trí cinn.
+LAD_gle_001610	cll_z0002_203	bhí slua pinsinéirí ansin romham, an litir mhallaithe ina lámha acu.
+LAD_gle_001611	cll_z0001_786	bhí naoi gcinn de ríthe rua ann sa deireadh.
+LAD_gle_001612	cll_z0001_563	Is geall le bheith ag siúl trí cheacht céimseatan cuid acu.
+LAD_gle_001613	cll_z0001_898	bhí go maith is ní raibh go holc.
+LAD_gle_001614	cll_z0001_369	Mac le Dáibhí Dubh Mac Gearailt ba ea é
+LAD_gle_001615	cll_z0001_793	Níl aon eolas aici faoi na mothúcháin láidre a shantaím.
+LAD_gle_001616	cll_z0001_817	Níor dá ghnóithe é plé le polaitíocht.
+LAD_gle_001617	cll_z0001_326	b'í uain bheo Chathail uí Eochaidh í, b'í uair na glóire aige í
+LAD_gle_001618	cll_z0002_325	Ach anois, níl Gaeilge ar bith aige sa tarna rang mar go bhfuil an bómán sin, Bean uí Ghallchóir aige.
+LAD_gle_001619	cll_z0002_365	Sraith aistí atá sa leabhar agus brollach leis an dochtúir
+LAD_gle_001620	cll_z0001_865	Sa deireadh, thug Paddy aghaidh ar Bhéal Feirste.
+LAD_gle_001621	cll_z0001_232	Ach greim a fháil ar dheich faoin gcéad acu, ba shláintiúla i bhfad a cás.
+LAD_gle_001622	cll_z0001_264	Ócáid neamhghnách, d'fhéadfá a rá
+LAD_gle_001623	cll_z0002_210	Is minic ceist na teanga ina cnámh spairne sa lá atá inniu ann.
+LAD_gle_001624	cll_z0001_415	Chuir muid téacs chuig cara eile linn a bhí ag ceolchoirm sa halla.
+LAD_gle_001625	cll_z0001_659	D'aistrigh sé leabhar
+LAD_gle_001626	cll_z0001_615	Ag a Aifreann éagnairce seinneadh ceol Aifrinn a chum sé féin
+LAD_gle_001627	cll_z0001_530	tá an praghas iomlán seafóideach.
+LAD_gle_001628	cll_z0001_174	Ruaigeann siad an t-eagla, an badhbh, an bogeyman.
+LAD_gle_001629	cll_z0001_879	Deirtear go ndeachaigh Elizabeth Squibb go Meiriceá i ndiaidh na trialach.
+LAD_gle_001630	cll_z0001_671	Bertie agus a chairde nó an dream eile? Ní gá ach cliceáil.
+LAD_gle_001631	cll_z0001_899	D'fhéach Iósaef go ciúin is go díreach air.
+LAD_gle_001632	cll_z0002_333	Léitheoir ba ea é, ach is iomaí léitheoir nár mharaigh Ard-Diúc.
+LAD_gle_001633	cll_z0001_002	bhí Michael D. Higgins riamh neamhspleách.
+LAD_gle_001634	cll_z0002_083	ní madra é, fiú – is fear beag atá ann faoi chulaith gadhair
+LAD_gle_001635	cll_z0001_269	Ach fillim ar na foirgnimh.
+LAD_gle_001636	cll_z0001_041	Mínigh gurb é an seachtú haois déag aois ghlórmhar
+LAD_gle_001637	cll_z0001_172	Ag dul ar gcúl, gan amhras.
+LAD_gle_001638	cll_z0001_719	cá bhfuil na cait uait? Ag bailiú spíonán i gcomhair an dinnéir atá siad, a Louis.
+LAD_gle_001639	cll_z0002_413	fiú agus é ar scoil i gColáiste Dulwich théadh sé go dtí rang de chuid Chonradh na Gaeilge.

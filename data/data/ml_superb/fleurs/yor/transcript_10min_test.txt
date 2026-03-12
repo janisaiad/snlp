@@ -1,0 +1,37 @@
+fleurs_yor_000269	yo_ng/audio/test/15946352848379732346.wav	MARIA Lè Pọ̀ Sí ẹ̀GBẹ́ Tó SúMọ́ Bí TO Rí ERUNRUN IBẹ̀ TIRIN O ṣEéṣE Kí INá RU SóKè
+fleurs_yor_000270	yo_ng/audio/test/14767853972783211072.wav	ìFAJọRA LáàRIN ààRùN ọPọLọ àTI ìHùWàSí ẹ̀Dá MA ń RAN àWọN ONíṣẹ́ ìWáDìí ìJìNLẹ̀ Lọ́Wọ́ NíNú Iṣẹ́ ìWáDìí WọN
+fleurs_yor_000271	yo_ng/audio/test/18153484263083482016.wav	KòDáNILóJú SùGBọ̀N ó Lè TI Ní AHọ́N AMúGA. LáRA OúNJẹ Rẹ̀ NI ìJàPà ẹJA ńLá àWọN MOSASAURS àTI Pé ó Lè Jẹ́ àWọN ẹRANKO Tó ń Jẹ́ èNìYàN
+fleurs_yor_000272	yo_ng/audio/test/1428539510544387394.wav	ọKùNRIN Náà Kọ́Kọ́ Wà Ní ILé ìWòSàN JAMES PAGET Ní ìLú ńLá GREAT YARMOUTH
+fleurs_yor_000273	yo_ng/audio/test/16234015669501218965.wav	LíLọ-BíBọ̀ ìRìNNà Ní ìWáDìí ìRìNKèRINDò àWọN AWAKọ Kọ̀ọ̀KAN àTI IPò òKàN KAN Sí òMíRàN Ní AGBẹDẹ MéJì PéLù ìBáSẹPọ̀ Tí WọN Ní Sí ARA WọN
+fleurs_yor_000274	yo_ng/audio/test/3390389085586894221.wav	òKìKí Rẹ̀ Kàń̀ Gẹ́Gẹ́ Bí NǹKAN ìJAYé Tí ó Bẹ̀Rẹ̀ NI NǹKAN Bí 400 A.D. Tí ó Sì GBòDE TIHTí DI NǹKAN Bí 1100 A.D
+fleurs_yor_000275	yo_ng/audio/test/14441198535062197841.wav	ó TíNRíN LáBé òSùPá LóJú òFURUUFú O SI NíPọN LáBé Ní àWọN èBá óKé IPó òSùPá
+fleurs_yor_000276	yo_ng/audio/test/9901083005772746602.wav	èèYàN A KàN MáA ROKàN Pé Kí NI Yóò GBẹ̀YìN DùRù NíGBàTí Kò Bá SI NǹKAN KAN
+fleurs_yor_000277	yo_ng/audio/test/11372729808954885147.wav	AEROSMITH TI FAGILé ìPàDé ORIN Tó Kù Ní ìRìN àJò
+fleurs_yor_000278	yo_ng/audio/test/14591299157575218740.wav	Ní àWọN òPóPóNà KAN àWọN ILé Iṣẹ́ ńLáNLá Ní ọKọ̀ OJú òFURUFú WọN ṣùGBọ́N Ní àWọN òPóPóNà MíRàN àTI Ní àWọN ILé Iṣẹ́ KéKèKé WàHáLà Wà
+fleurs_yor_000279	yo_ng/audio/test/4914263278822619163.wav	Gẹ́Lẹ́ Bí òṣùPá ṣE ń ṣE PẹLú AYé Tí Yóò Sì Jẹ́ Kí ó GúN Bẹ́ẹ̀ NI MILKY WAY ṣE MáA ń ṣE Pẹ̀Lú SAGITTARIUS GALAXY
+fleurs_yor_000280	yo_ng/audio/test/17275473253987360864.wav	ìTàKùN AYéLUJáRA ṣE àGBáJọ ìBáRAẹ́NISọ̀Rọ̀ GBOGBOGBò àTI ọLọ́DANNI
+fleurs_yor_000281	yo_ng/audio/test/1050392290980008442.wav	Lẹ́YìN Tí ìJàǹBá Náà ṣẹLẹ̀ Wọ́N GBé GIBSON Lọ Sí ILé ìWòSàN ṣùGBọN Kò Pẹ́ Lẹ́YìN Rẹ̀ NI ó Kú
+fleurs_yor_000282	yo_ng/audio/test/18058114074713563825.wav	Bí ẹ̀Dọ̀FUN ṣE LọLẹ̀ Tó NI Bí RERE AYé ṣE ṣE ARA Rẹ̀ GBOGBO èNìYàN Ní AGBáRA LáTI Ní ALáFíà àTI ìTẹ́Lọ́RùN
+fleurs_yor_000283	yo_ng/audio/test/2973220097125089280.wav	OWó FALKLANDS NI Pọ́ùN FALKLANDTí FKP èYí Tí IYE Rẹ̀ Jẹ́ ìKAN Pẹ̀Lú IYE Pọ́ùN ILẹ̀ BRITAIN GBP
+fleurs_yor_000284	yo_ng/audio/test/12338324765884602911.wav	àWọN ẹGBẹ́ àFOJúRí Ní A GBé PAPọ̀ Bí ẹGBẹ́ Tí A KAN Ní ìGBàGBA NíNú Rẹ̀ ṣùGBọ́N ìYàTọ̀ Díẹ̀ Wà NíNú Rẹ̀
+fleurs_yor_000285	yo_ng/audio/test/1358171896415875834.wav	IJAMBA NAA SELE NI ORI OKE GIGA IGBAGBO SI WA WIPE IKANRA INA NI O SE OKUNFA RE
+fleurs_yor_000286	yo_ng/audio/test/11811333240071060267.wav	LóWùRọ́ọ̀ ọJọ́ AYé Rẹ̀ èTò Náà SàFIHàN ìLò ìTàKùN RáDíò TOGINET RADIO ìTàKùN Tó FOJúSUN ọ̀Rọ̀ ORí RáDíò
+fleurs_yor_000287	yo_ng/audio/test/7367177975866289931.wav	APIA NI IPINLE AGBARA SAMOA ILU NAA WA NI IREKUSU UPOLU O DE NI EYAN 40,000 O DIN DIE
+fleurs_yor_000288	yo_ng/audio/test/11149214120926022672.wav	IREKUSU HON KONGI FUN AGBEGBE HON KONGI NI ORUKO RE O DE JE IBI TI ABEWO PUPO MA N DOJUKO JU
+fleurs_yor_000289	yo_ng/audio/test/17451378881878605146.wav	LáìPẹ́ Tí ìFúNGUNMọ́NI Bẹ̀Rẹ̀ ILẹ̀ BRITIAN Bẹ̀Rẹ̀ SíNí FI IKọ̀ OLóGUN OJú OMI Dá ILẹ̀ GERMANY DúRó
+fleurs_yor_000290	yo_ng/audio/test/11573587840445703456.wav	DANIELLE LANTAGNE Tí OH Jẹ́ òGBóNTARìGì FúN UN LóRí àìSàN Sọ Pé àWọN ONíLàJà NI ó ṣE E ṣE Kí WọN FA àJàKáLẹ̀ Ná
+fleurs_yor_000291	yo_ng/audio/test/9064421918937418514.wav	ìLú Náà Ló TúN Jẹ́ IBùDó FúN GíGUN ILẹ̀ RíRU NYIRAGONGO Pẹ̀Lú ìTọPA ORíòKè GORILLA Tó DíNWó JùLọ NíLẹ̀ ADúLáWọ̀
+fleurs_yor_000292	yo_ng/audio/test/12520096912770924218.wav	MOSASAURUS JE APANIRUN TI O LE JU NIGBA AYE RE KO BERU NKANKAN LEYIN AWON MOSASAURS MIRAN
+fleurs_yor_000293	yo_ng/audio/test/6480969090978341770.wav	àWọN ǹKAN Tó Wà LóRí èTò Ní BALI Ní TíTọ́Jú AGINJú Tó KùN Ní àGBáYé àTI PíNPíN ìMA ẹ̀Ró LáTI RAN àWọN ORíLẹ̀ èDè Tó ṣì ń DàGBà DáADáA
+fleurs_yor_000294	yo_ng/audio/test/4490667348359098213.wav	àWọN ẹ̀NìYàN KAN Rò Pé ó JàRE ṣùGBọ́N ọ̀Pọ̀ èNìYàN GBàGBọ́ NíNú òDì KEJì; Pé Ní ṣE NISOLAR SYSTEM N YI YíPO AYé Tí ó FI Mọ́ òòRùN ATI àWọN ìRàWọ̀ MìíRàN
+fleurs_yor_000295	yo_ng/audio/test/7949726828816456415.wav	ELéRé ìJE Tó Dá ń Tọ́ ẹKùN Lè GùN úN ó Lè Má Tọ̀ọ́ DáADáALúWẹ̀ẹ́ FO IBI Tó JíNNA Bẹ́ẹ̀ Ló Lè FA OHUN Tí èèYàN Tó SáNGUN Lè Fà FúN ìGBà MáRùN úN
+fleurs_yor_000296	yo_ng/audio/test/9868032811547245109.wav	àMọ́ṣá LáTàRí ìLàNà ìBáRAẹNISọ̀Rọ̀ Tó FALẹ̀ àWọN àRà Lẹ́KùN ìWọ̀ OòRùN LE Wà Lẹ́YìN Pẹ̀Lú Bí I ọDúN MáRùNDíNLọ́GBọ̀N Sí ọGBọ̀N ọDúN
+fleurs_yor_000297	yo_ng/audio/test/11321643064301928553.wav	àWọN ERé ìDáRAYá Tó GBAJúMọ̀ Ní Bọ́ọ̀Lù àFẹSẹ̀GBá Bọ́ọ̀Lú ALáWọ̀N VOLLEY BALL WATER POLO àTI ERé SíSá Pẹ̀Lú Mọ́Tò F1
+fleurs_yor_000298	yo_ng/audio/test/15778549436981445223.wav	ìṣẹ́Jú MáRùN úN SíWáJú IDáN ìJì Bẹ̀Rẹ̀ Sí NI Jà Bí ìṣẹ́Jú KAN SI ìJì Náà Dé ORí àáDọ́RIN KìLóMíTà LáàRíN WáKàTí KANLéYìN Náà NI òJò Bẹ̀Rẹ̀ Sí NI Rọ̀ TO Bẹ́ẹ̀ TI DíDúN Rẹ̀ LáRA DàBí ABẹ́Rẹ́ Bẹ́ẹ̀ NI YìNYíN ń Bọ́ LáTI OJú ọ̀RUN GBOGBO ẹNìYàN Bẹ̀Rẹ̀ Sí Ní Wá RìRì Wọ́N ń Bẹ̀Rù Wọ́N ń PARIWO Wọ́N Sì ń Sá GBA ORí ARA WọN
+fleurs_yor_000299	yo_ng/audio/test/14829752578636043248.wav	FUN APẹẹRẹ NI ọDUN KọọKAN AWọN AKẹKọ LATI ILE IWE BENETI NI KAROLINA ARIWA ṣE AKANSE OJU IWE AYELUJARA NIPA IRIN AJO WọN SI OLU-ILU LọDọDUN WọN MA N TUN OJU-IWE NAA KO ṣUGBọN WON MA N PA AWON TI TẹLẹ Mọ LATI FI ṣE IWE APAMOWO
+fleurs_yor_000300	yo_ng/audio/test/14014370440930557607.wav	Ní ìGBà 1920 àWọN ìWà àWọN èNìYàN àTI ORíLẹ̀ èDè Tó BORí Ní ALòDì Sí OGN àTI ìDáWà
+fleurs_yor_000301	yo_ng/audio/test/4374975200988416965.wav	ìTàKùN BLOG Náà Lè SE ìRàNWọ́ FúN ìKọ̀Wé àWọN AKẹ́ẹ̀Kọ́. NíGBàTí àWọN AKẹ́ẹ̀Kọ́ Bẹ̀Rẹ̀ ìRíRí ìTàKùN BLOG TI WọN Pẹ̀Lú ìLO èDè àTI àKọTọ́ Tó Wọ́ WíWà NíLẹ̀ àWọN èRò MA ń Yí èYí PADà
+fleurs_yor_000302	yo_ng/audio/test/18109627037388050044.wav	ìDá OGúN OMI Tó Dà SíLẹ̀ NíNú àWọN ODò AYé SíNú òKUN Wá LáTI AMAZON
+fleurs_yor_000303	yo_ng/audio/test/2282006464338702659.wav	Pẹ̀Lú KUNDALINI YOGA àGBàRá Yìí àGBàRá ìMòYE MáA ń DI JìJì DìDE NíPASẹ̀ àWọN ìDúRó YOGA àWọN ẹRé ìDáRAYá MíMí àWọN èRò àTúNWí àTI ìWọRAN
+fleurs_yor_000304	yo_ng/audio/test/15103760912072072608.wav	ILù OLóMìNIRA Ní PúPọ̀ NíNú àWọN EREKUSU KéKèKé TàBí Kí Wọ́N NíṣE Pẹ̀Lú ILẹ̀ FARANSE Tí A TúN Mọ̀ Wọ́N Gẹ́Gẹ́ Bí RISọ́Tì ETí òKUN ONíGBáDùN
+fleurs_yor_000305	yo_ng/audio/test/12442148459912039092.wav	IGBáKEJì OLóRí SINGAPO WONGI KANI SENGI Ló KíI O Dẹ̀ Sọ̀Rọ̀ Ní BA ISòWò àTI ọ̀Rọ̀ ìHàLẹ̀ Pẹ̀Lú OLóRí SINGAPO LEE HSIEN LOONGI

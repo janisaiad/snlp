@@ -1,0 +1,802 @@
+cv_skr_000000 common_voice_skr_33152492.mp3 اِیہو کُجھ اَکھیندے جو " تِھی وَن٘ڄ" تے او تِھی ویندے ۔
+cv_skr_000001 common_voice_skr_33374122.mp3 پیسہ اوہو جیڑھا کھیسے وچ ہے، رن اوہا جیڑھی تلے ہے
+cv_skr_000002 common_voice_skr_33438986.mp3 کل دا تھین٘دا اڄ تھیوے
+cv_skr_000003 common_voice_skr_33329455.mp3 تاں اِیں ڳالھ دا کوئی ثبوت پیش کرو ۔
+cv_skr_000004 common_voice_skr_33329459.mp3 اللہ نے اُنھاں دے دِلاں اُتے تے
+cv_skr_000005 common_voice_skr_33150446.mp3 جِہڑے تعلق کوں رکھن دا اللہ حکم ݙیندے ،
+cv_skr_000006 common_voice_skr_33150449.mp3 آن٘دی اے گھوڑی چڑھ کے، وین٘دی جوں وان٘گوں
+cv_skr_000007 common_voice_skr_33447745.mp3 ݙٹھے نہیں تے مُٹھے نہیں
+cv_skr_000008 common_voice_skr_33447749.mp3 بھوئیں تے پوندی شابش کھٹو
+cv_skr_000009 common_voice_skr_33447748.mp3 شریک چن٘ڳے ہوون ہا تاں خدا دے ناں ہووِن ہا
+cv_skr_000010 common_voice_skr_33153406.mp3 امید دی جاہ خالی ہوندی ہے
+cv_skr_000011 common_voice_skr_33153407.mp3 جِتی مونہہ اُتی ڳالھیں
+cv_skr_000012 common_voice_skr_33153409.mp3 لوہار دا ہکو دھک
+cv_skr_000013 common_voice_skr_33068716.mp3 کمبھار دے گھر بھنیا تھاں ہون٘دے
+cv_skr_000014 common_voice_skr_33068717.mp3 علم ریت دی مُٹھ ہے
+cv_skr_000015 common_voice_skr_33068720.mp3 پرائے دھسے کوں ہتھ ناں لا، آپݨا پٹ ناں پڑا
+cv_skr_000016 common_voice_skr_33068713.mp3 واہ خان دی گھوڑی ، اندر ٻدھو تھاں بھنین٘دی ، ٻاہر ٻدھو کاں پٹین٘دے
+cv_skr_000017 common_voice_skr_33237561.mp3 تکھی ٹرے تاں چھوہِر ہے، مَٹھی ٹرے تاں نازو
+cv_skr_000018 common_voice_skr_33237564.mp3 پہلےچٹی، ول ہٹی، ولا کھٹی
+cv_skr_000019 common_voice_skr_33237563.mp3 بھیݙاں وچ نَہر
+cv_skr_000020 common_voice_skr_33237562.mp3 عمراں پیکیں گزری ، ناں اللہ وسائی
+cv_skr_000021 common_voice_skr_33043104.mp3 ہُݨ او پاݨی ملتان وَیہ ڳے
+cv_skr_000022 common_voice_skr_33043106.mp3 اَک دا کیہاں نک
+cv_skr_000023 common_voice_skr_33043110.mp3 ون٘ڄ ناں اوں تنور دے نیڑے ، جتھ آدھی ادھ کپیجن پیڑے
+cv_skr_000024 common_voice_skr_33043113.mp3 ادھار دی ماء مر ڳئی ہے؟
+cv_skr_000025 common_voice_skr_33052091.mp3 ہݨوں چلّے ، ہر بلا ٹلّے
+cv_skr_000026 common_voice_skr_33052090.mp3 اَتے لوکاں نال خُلق دِی ڳالھ کریسن، نمازاں قائم رکھیسن،
+cv_skr_000027 common_voice_skr_33052093.mp3 اللہ ݙیوے تے بندہ گھنے
+cv_skr_000028 common_voice_skr_33052095.mp3 پُچھو کتھاؤں دی، ݙسے کتھاؤں دی
+cv_skr_000029 common_voice_skr_33052088.mp3 پیسہ ݙتا روک، تے کھلا ݙتا ٹھوک
+cv_skr_000030 common_voice_skr_33297546.mp3 سرائیکی زبان پاکستان دی مٹھی زبان ہے
+cv_skr_000031 common_voice_skr_33297544.mp3 بھیݙ کوں ہر کئی منیندے
+cv_skr_000032 common_voice_skr_33429699.mp3 خبر نہیں اُٹھ کیڑھی کڑی ون٘ڄ ٻہسی
+cv_skr_000033 common_voice_skr_33429706.mp3 رکھ پت ، رکھا پت
+cv_skr_000034 common_voice_skr_33429704.mp3 تے جَیں طرح چاہو کھاؤ پیؤ،
+cv_skr_000035 common_voice_skr_33018910.mp3 للّو پتر کرے وپار ، گھنے وِہاجی ݙیوے ادھار
+cv_skr_000036 common_voice_skr_33018913.mp3 اَتے اُوں کنوں علاوہ ٻِیا کہیں کُوں نِسِّے منین٘دے حالانکہ او کتاب برحق ہے،
+cv_skr_000037 common_voice_skr_33018911.mp3 گھروں ون٘ڄ رڄ کے ، اڳون ملّن ، بھڄ کے
+cv_skr_000038 common_voice_skr_33018912.mp3 بیشک تُوں وݙے غلبے تے وَݙی حکمت والا ہیں ۔
+cv_skr_000039 common_voice_skr_33018909.mp3 ہتھ بھنّاں کم کرین٘دے ، دل بھنّاں کم نئیں کرین٘دا
+cv_skr_000040 common_voice_skr_33168095.mp3 ادریں کن ادھار من٘گݨ
+cv_skr_000041 common_voice_skr_33168096.mp3 ادریں کنیں پروتھ نئیں بچدے
+cv_skr_000042 common_voice_skr_33168097.mp3 سن٘بھال موسٰی گھگھری ، میں وین٘دی پئی ہاں سگھری
+cv_skr_000043 common_voice_skr_33168098.mp3 خدا واسطے دا ویر
+cv_skr_000044 common_voice_skr_33168099.mp3 اساں وِڄ نہ وچالےتے تماشا ݙیکھݨ والے
+cv_skr_000045 common_voice_skr_33363971.mp3 فاتحہ ناں درود تے کھا ڳئے مردود
+cv_skr_000046 common_voice_skr_33363974.mp3 ݙاڈھے کوں ݙاڈھی ہون٘دی ہے
+cv_skr_000047 common_voice_skr_33363975.mp3 استاوے کوں پروݨ گلا ݙیوے تیکوں ہک چھِن اے
+cv_skr_000048 common_voice_skr_33363973.mp3 اندھے دی نونہہ، سُنڄ ݙہوں مونہہ
+cv_skr_000049 common_voice_skr_33364010.mp3 ٻاہروں حاجی، اندروں پاجی
+cv_skr_000050 common_voice_skr_33060481.mp3 بندہ ڈِھڈھ دا کُتّا ہِے
+cv_skr_000051 common_voice_skr_33060482.mp3 مسیت بݨی نئیں ، ان٘دھے اڳے آڳئین
+cv_skr_000052 common_voice_skr_33060528.mp3 ہتھ کوں ہتھ سن٘ڄاݨدے
+cv_skr_000053 common_voice_skr_33060529.mp3 مَیں وی تُہاݙے نال آپڑیں کِیتے ہوئے
+cv_skr_000054 common_voice_skr_33060530.mp3 شالا ݙیندا نہ تھکیں
+cv_skr_000055 common_voice_skr_33060532.mp3 کن٘ڈ چائیں ، سُکھ نئیں آن٘دا
+cv_skr_000056 common_voice_skr_33449304.mp3 کلراٹھی بھوئیں رہائی ، تاں حاصل مٹی چائی
+cv_skr_000057 common_voice_skr_33449303.mp3 ݙکھ دی رات سال برابر
+cv_skr_000058 common_voice_skr_33449331.mp3 فر فر پڑھدی ، توڑ ناں چڑھدی
+cv_skr_000059 common_voice_skr_33449332.mp3 سن٘ڄیں کھوہ دی کان٘جݨ
+cv_skr_000060 common_voice_skr_33449345.mp3 اتھاں چپ دی جاہ ہے الا کوئی نئیں سڳدا
+cv_skr_000061 common_voice_skr_33449347.mp3 رب دی ڳݨی سچ ہے
+cv_skr_000062 common_voice_skr_33449348.mp3 وݙا شریک سکا بھرا
+cv_skr_000063 common_voice_skr_33131709.mp3 وݙیاں دی غلطی نئیں پکڑین٘دی
+cv_skr_000064 common_voice_skr_33131712.mp3 ڳالھ مہاڑ:بھڄدیاں دے اڳوں، نسدیاں دے پچھوں
+cv_skr_000065 common_voice_skr_33131713.mp3 سئیں دے من بھاݨی تے کاݨی وی راݨی
+cv_skr_000066 common_voice_skr_33131715.mp3 اڳوں بھاء، پچھوں کندھ، اندھا ونڄے کیڑھے پندھ
+cv_skr_000067 common_voice_skr_33131716.mp3 آیا وساکھ تے ودھ ڳئی ساکھ
+cv_skr_000068 common_voice_skr_33131894.mp3 میݙی بھاجی پن٘ج پاء ہے
+cv_skr_000069 common_voice_skr_33131895.mp3 رون٘دا کیوں ہے ؟ شکل این٘ویں ہے
+cv_skr_000070 common_voice_skr_33131897.mp3 حالی ویلھا ہے
+cv_skr_000071 common_voice_skr_33131898.mp3 دمہ دم نال
+cv_skr_000072 common_voice_skr_33194081.mp3 مالھ پراݨی لوٹے بھنّے ، ڄٹ شودا کھڑ کھتی کھنّے
+cv_skr_000073 common_voice_skr_33194108.mp3 وݙا سݙاوݨ سوکھا ہے ، وݙا بݨݨ اوکھا ہے
+cv_skr_000074 common_voice_skr_33194109.mp3 دنیا مردہ پرست ہے
+cv_skr_000075 common_voice_skr_33194107.mp3 اَتے نہ اُوں کنُوں عِوضاݨاں گِھدّا ویسی،
+cv_skr_000076 common_voice_skr_33194111.mp3 اَتے او ویلا وِی یاد کرو ڄَݙاں تُساں موسیٰ کُوں آکھیا
+cv_skr_000077 common_voice_skr_33198451.mp3 مر کے ولّے
+cv_skr_000078 common_voice_skr_33198452.mp3 ٻڈھے طوطے نئیں پڑھدے
+cv_skr_000079 common_voice_skr_33198454.mp3 ٻس ایندے وِچ جِتھوں چاہو،
+cv_skr_000080 common_voice_skr_33198456.mp3 ہولے ہولے الین٘دی ون٘ڄائیں ، ہاں آلے ہتھ گھتین٘دی ون٘ڄائیں
+cv_skr_000081 common_voice_skr_33137327.mp3 ل
+cv_skr_000082 common_voice_skr_33137329.mp3 کویلی کوں ترکلے دا ݙن٘بھ ءِی ٻہوں
+cv_skr_000083 common_voice_skr_33137326.mp3 چن٘ڳیاں کول ٻیٹھا، اُتھاں جھولی پھل پئے، بریاں کول ٻیٹھا او وی ڈھیہ پئے
+cv_skr_000084 common_voice_skr_33137328.mp3 سبھو ݙوہ نین٘گِر تے ناں ݙیو ، ماء ماسی کن٘دھ ایرے تے آسی
+cv_skr_000085 common_voice_skr_33144852.mp3 چلدی دا ناں گاݙی
+cv_skr_000086 common_voice_skr_33144854.mp3 توݨے ہیں حیلے، اپݨا ڈھونگر تاں گھیلے
+cv_skr_000087 common_voice_skr_33145585.mp3 تے بعضیاں کُوں نہوے مَنیندے،
+cv_skr_000088 common_voice_skr_33145586.mp3 ٻکری کھیر تاں ݙتا، پر مینڳݨیاں پا کے
+cv_skr_000089 common_voice_skr_33145587.mp3 ترٹ ترٹ بھناں، توڑ ناں پُناں
+cv_skr_000090 common_voice_skr_33145657.mp3 وہن٘دے دریا وچوں ہر کئی بھرین٘دے
+cv_skr_000091 common_voice_skr_33145662.mp3 چیݨے دی محصلی تے نسری دا شربت
+cv_skr_000092 common_voice_skr_33159430.mp3 جیڑھا چڑھسی اوہو ڈھہسی
+cv_skr_000093 common_voice_skr_33159431.mp3 بندہ بندے دا داروں ہے
+cv_skr_000094 common_voice_skr_33159432.mp3 جھڑی جھڑی ݙین٘ہہ ڳیا، کچڄی دا ٹٻر بُکھ مویا
+cv_skr_000095 common_voice_skr_33159433.mp3 چور کنوں ڈھیر پن٘ڈ اُٻالھی
+cv_skr_000096 common_voice_skr_33159434.mp3 ساݙیاں اکھیں وچ مٹی ناں گھت
+cv_skr_000097 common_voice_skr_33159450.mp3 اَتے بِیا ایہ وِی یاد کرو
+cv_skr_000098 common_voice_skr_33159452.mp3 کوہ ناں ٹری تے بابل تریہائی
+cv_skr_000099 common_voice_skr_33159477.mp3 اٹھے تے چڑھدی ہے لاکڑا وی منگدی ہے
+cv_skr_000100 common_voice_skr_33159476.mp3 پھڳݨ، وائیں وڳݨ، سیالے دا کندھی لڳݨ
+cv_skr_000101 common_voice_skr_33159479.mp3 ساݙا سلام ہے
+cv_skr_000102 common_voice_skr_33159478.mp3 خدا خراب نہ کری
+cv_skr_000103 common_voice_skr_33159497.mp3 ترکلے دی کار سدھا کر ݙتے
+cv_skr_000104 common_voice_skr_33159499.mp3 اُٹھاں نال کوݙی کھیݙے واہ کملی پُلاݨی
+cv_skr_000105 common_voice_skr_33159496.mp3 سبھّا ڳئی مرین٘دی ٻاݨ ،کئیں ناں کیتی پوری پاݨ
+cv_skr_000106 common_voice_skr_33159495.mp3 تہاݙے کِیتے رِزق پیدا کرے،
+cv_skr_000107 common_voice_skr_33159520.mp3 رڄ کمینہ ہے ، بکھ اشراف ہے
+cv_skr_000108 common_voice_skr_33159521.mp3 سوجھلا کریندی ہے،
+cv_skr_000109 common_voice_skr_33159523.mp3 ٻاہن٘دی دا راہن٘دی
+cv_skr_000110 common_voice_skr_33159522.mp3 جیہوں جیہں سمھدن ، اوہو جیہیں ڄمدن
+cv_skr_000111 common_voice_skr_33159540.mp3 بغانے ساہ دا کیاں وِسا
+cv_skr_000112 common_voice_skr_33159541.mp3 اوہو دا اوہو ریہا
+cv_skr_000113 common_voice_skr_33159542.mp3 جو میݙے اِیں گھر کوں طواف کرݨ والیاں، اعتکاف کرݨ والیاں،
+cv_skr_000114 common_voice_skr_33159544.mp3 چپ تھی ڳئے ڈھول ، تاں ہݨ بیشک ٻول
+cv_skr_000115 common_voice_skr_33159561.mp3 کھڑا ، ٹردے کوں نئیں ملدا
+cv_skr_000116 common_voice_skr_33159563.mp3 جواناں دے وار خالی نئیں وین٘دے
+cv_skr_000117 common_voice_skr_33094621.mp3 اکھ وچ سور دا وال ہس
+cv_skr_000118 common_voice_skr_33094624.mp3 اوکھے ویلھے گݙانہہ کوں پیو بݨاوݨا پوندے
+cv_skr_000119 common_voice_skr_33094652.mp3 ہن٘گدے کوں شرم آوے یا ݙیہدے کوں شرم آوے
+cv_skr_000120 common_voice_skr_33094654.mp3 کوڑ دے ہتھ پیر نئیں ہون٘دے
+cv_skr_000121 common_voice_skr_33094757.mp3 فاقیاں دیا ماری ناں موئی ، پر غماں دی ماری مر ڳئی
+cv_skr_000122 common_voice_skr_33094760.mp3 نمبردار میں ، روٹی میݙا بھرا ݙیسی
+cv_skr_000123 common_voice_skr_33094825.mp3 اُٹھ دے من٘ہ وچوں ڄال دی بو آن٘دی ہے
+cv_skr_000124 common_voice_skr_33094826.mp3 گن٘گے دیاں رمزاں گن٘گا ڄاݨے یا اون٘دی ماء
+cv_skr_000125 common_voice_skr_33094827.mp3 اُدراں دے گھر پروتھ نہیں بچدے
+cv_skr_000126 common_voice_skr_33094866.mp3 ککھ دا وی چور ، لکھ دا وی چور
+cv_skr_000127 common_voice_skr_33094868.mp3 توں مل دا مالک، اساں دل دے مال
+cv_skr_000128 common_voice_skr_33192207.mp3 صحت دی بادشاہی ہووی
+cv_skr_000129 common_voice_skr_33192210.mp3 منشیاݨی دیاں تریفاں منشی لکھے
+cv_skr_000130 common_voice_skr_33192209.mp3 بھنی ڳئی، بھنی ڳئی، بگا وصل چاتی آئی
+cv_skr_000131 common_voice_skr_33192232.mp3 کیڑھے باغ دی مولی ہے
+cv_skr_000132 common_voice_skr_33192247.mp3 مہمان آوے ، بلا ناں آوے
+cv_skr_000133 common_voice_skr_33192265.mp3 بے حیاواں دے لال طرے
+cv_skr_000134 common_voice_skr_33192264.mp3 چھیڑو دی ماء بھیݨ نئیں ہون٘دی
+cv_skr_000135 common_voice_skr_33192268.mp3 ڳٹھ پیٹ دا ، انت کئیں ناں پایا
+cv_skr_000136 common_voice_skr_33192266.mp3 پرہیز گار لوکاں کِیتے ہدایت ہے ۔
+cv_skr_000137 common_voice_skr_33192299.mp3 اَتے اُوں کنوں وَدھ ظالم کِہڑا ہے جِہڑا اُوں گواہی کُوں
+cv_skr_000138 common_voice_skr_33192303.mp3 جہڑے ویلے بجلی دی چمک اُنھاں کِیتے
+cv_skr_000139 common_voice_skr_33192300.mp3 گھروڳی شئے زیادہ تڳدی ہے
+cv_skr_000140 common_voice_skr_33192302.mp3 نڳا نان٘واں ، نت پئی ویاواں
+cv_skr_000141 common_voice_skr_33192301.mp3 ناں جھمر ناں تاڑی ، اجائی مون٘ہہ تے ݙاڑھی
+cv_skr_000142 common_voice_skr_33192309.mp3 چاکری سوکھا کم نئیں
+cv_skr_000143 common_voice_skr_33019456.mp3 تیلی دا اچار، ہک مویا ٻیا تیار
+cv_skr_000144 common_voice_skr_33019457.mp3 ݙو ملواݨیاں وچ ککڑ حرام
+cv_skr_000145 common_voice_skr_33019458.mp3 ترکلے کون ول ہوسی، میکوں ول ناں ہوسی
+cv_skr_000146 common_voice_skr_33019460.mp3 اینکوں کݨواں سٹ مریندے
+cv_skr_000147 common_voice_skr_33019481.mp3 ٻئے دی بھاء ءِچ کون سڑدے
+cv_skr_000148 common_voice_skr_33019482.mp3 شاہواں دیاں ڳالھیں شاہ ڄاݨن
+cv_skr_000149 common_voice_skr_33019483.mp3 آپو آپݨی پئی ہے
+cv_skr_000150 common_voice_skr_33019484.mp3 اَتے آخرت وِچ او نیک لوکاں وِچوں ہوسی ۔
+cv_skr_000151 common_voice_skr_33019485.mp3 رکھی شئے کم آن٘دی ہے
+cv_skr_000152 common_voice_skr_33025856.mp3 جیجھاں ݙیسیں ، اوجھاں جھلیسیں
+cv_skr_000153 common_voice_skr_33025858.mp3 آپݨی ذات ݙکھائی, کڈھی ہس
+cv_skr_000154 common_voice_skr_33025857.mp3 آپݨی دھی ست پھلاں دی راݨی
+cv_skr_000155 common_voice_skr_33025890.mp3 حالی کچا تھاں ہِے
+cv_skr_000156 common_voice_skr_33025897.mp3 گھر لکھ دی ، ٻاہر ککھ دی
+cv_skr_000157 common_voice_skr_33025896.mp3 ٻس اَساں اُنھاں کِیتے حکم ݙے ݙِتا
+cv_skr_000158 common_voice_skr_33138783.mp3 غصہ حرام ہے
+cv_skr_000159 common_voice_skr_33138784.mp3 نوں مہینے ماء دے ڈھڈھ وِچ کیویں ریہا ہوسی
+cv_skr_000160 common_voice_skr_33138785.mp3 تاں ذَری مَر وَن٘ڄݨ دِی خواہش تاں کر ݙِکھاؤ ۔
+cv_skr_000161 common_voice_skr_33138782.mp3 کیا تُہاکوں توقع ہے جو تُہاݙے آکھیئے تے اِیمان گِھن آسن،
+cv_skr_000162 common_voice_skr_33138976.mp3 اُٹھ تے چڑھی وین٘دی ہئی تے لاکڑے من٘گدی وین٘دی ہئی
+cv_skr_000163 common_voice_skr_33138981.mp3 دیسی کُتی ولائتی بھون٘ک
+cv_skr_000164 common_voice_skr_33138975.mp3 اساں اُݙردے مارن
+cv_skr_000165 common_voice_skr_33139049.mp3 ودھ ودھ کے شَہر تھیوو
+cv_skr_000166 common_voice_skr_33139055.mp3 جُتی پیر، دشمن زیر
+cv_skr_000167 common_voice_skr_33139059.mp3 ککِڑ بان٘گاں ݙین٘دی پئی ہے
+cv_skr_000168 common_voice_skr_33139198.mp3 یاراں دی بھاہ بھتاری تے
+cv_skr_000169 common_voice_skr_33139201.mp3 ہار ہار بھنّاں ، توڑ ناں پُنّاں
+cv_skr_000170 common_voice_skr_33139197.mp3 تاں جو پاک صاف شَئیں کھاؤ پِیؤ،
+cv_skr_000171 common_voice_skr_33139200.mp3 شان شرم قائم رہوی
+cv_skr_000172 common_voice_skr_33994033.mp3 شالا کماناں چھکیاں رہونیں
+cv_skr_000173 common_voice_skr_33998641.mp3 کئیں دا ہتھ چلدے کئیں دی زبان
+cv_skr_000174 common_voice_skr_33998661.mp3 دل دی ڳالھ مون٘ہہ تے آوین٘دی ہے
+cv_skr_000175 common_voice_skr_33998677.mp3 اَتے کوہ طور کوں تہاݙے سراں توں اُچا کر کھڑایا،
+cv_skr_000176 common_voice_skr_33998732.mp3 بی بی وسے قاسم ٻیلے، روح فرید آباد
+cv_skr_000177 common_voice_skr_33998734.mp3 جاہ اوہا سڑدی ہے جتھاں بھاء ٻلدی ہے
+cv_skr_000178 common_voice_skr_33998761.mp3 مَیں تُہاکوں سارے لوکاں تے فضیلت ݙِتی ۔
+cv_skr_000179 common_voice_skr_34015351.mp3 اݨ ورساندی ݙیر ولایا، جی وے ابا جی
+cv_skr_000180 common_voice_skr_34015378.mp3 دان٘گی دا تلا مون٘ہہ ، تے ناں روشن خاتوں
+cv_skr_000181 common_voice_skr_34024675.mp3 کوڑے یار ، سلاماں دی چٹی
+cv_skr_000182 common_voice_skr_34027107.mp3 چھوہریں کنوں شیطان وی پناہ من٘گدے
+cv_skr_000183 common_voice_skr_34027111.mp3 سچ سچ ہوندے
+cv_skr_000184 common_voice_skr_34027131.mp3 اکھ ہے تاں لکھ ہے
+cv_skr_000185 common_voice_skr_34027145.mp3 اِیہا ڳالھ ہے ، تاں کہیں شہر وِچ ڄُل رہو،
+cv_skr_000186 common_voice_skr_34027293.mp3 پاڑ پاڑ سیواں تے نکمی مول ناں تھیواں
+cv_skr_000187 common_voice_skr_34027476.mp3 مون٘ہہ وِچ گھن٘گھݨیاں پاتی ٻیٹھیں ؟
+cv_skr_000188 common_voice_skr_34142113.mp3 جیکر اُوندی عمر وَدھا وِی ݙِتی وَن٘ڄے،
+cv_skr_000189 common_voice_skr_34142264.mp3 جیڑھے ستھݨ سیوین٘دن ، او نیفے دی جاہ وی رکھوین٘دن
+cv_skr_000190 common_voice_skr_34142328.mp3 سیالا جؤاناں دا بھئی ، ٻڈھیاں دا قصائی
+cv_skr_000191 common_voice_skr_34142448.mp3 سلامت رہیں ، ناں وِسریں ناں یاد رہیں
+cv_skr_000192 common_voice_skr_34179259.mp3 جھوٹھیاں تے خدا دی لعنت
+cv_skr_000193 common_voice_skr_34179362.mp3 سئیں! جیویں پیا
+cv_skr_000194 common_voice_skr_34250686.mp3 کیا تُساں اللہ دے متعلق اِہجیاں ڳالھیں نھیں پے کریندے،
+cv_skr_000195 common_voice_skr_34252004.mp3 نواں نمازی تے پاݨی دا اُڄاڑا
+cv_skr_000196 common_voice_skr_34273315.mp3 اڄ کریسی ، کل چیسی
+cv_skr_000197 common_voice_skr_34338291.mp3 ملّاں دی مݙی ، ہک لوٹا ، ٻئی تݙی
+cv_skr_000198 common_voice_skr_34338290.mp3 اَتے نماز قائم رکھیندن،
+cv_skr_000199 common_voice_skr_34424435.mp3 حرام حلال دی کاتی ہے
+cv_skr_000200 common_voice_skr_34499608.mp3 نائی آ! وال اڳوں
+cv_skr_000201 common_voice_skr_34499740.mp3 سودھے دا آڳا پیچھا ہک ہون٘دے
+cv_skr_000202 common_voice_skr_34536731.mp3 اٹھ دی لاہی چڑھی، ݙونہاں تے لعنت
+cv_skr_000203 common_voice_skr_34536729.mp3 کھوٹا پیسہ تے ماڑا پتر اوکے ویلھے کم آن٘دے
+cv_skr_000204 common_voice_skr_34536856.mp3 اللہ یار کندھی تے
+cv_skr_000205 common_voice_skr_34602151.mp3 بھیݙ جنتے ویسی، کتری ویسی
+cv_skr_000206 common_voice_skr_33163383.mp3 ٻدھا تاں شینہہ وی مار کھاندے
+cv_skr_000207 common_voice_skr_33163381.mp3 گھاہی گھاہ مرین٘دا تھکا ، دربھ ساوے دا ساوا
+cv_skr_000208 common_voice_skr_33163382.mp3 دھن پچاوے بھابڑا ، رڄ پچاوے مین٘ھ
+cv_skr_000209 common_voice_skr_33163801.mp3 شیطان دے کن ݙورے
+cv_skr_000210 common_voice_skr_33163795.mp3 نظر پتھر ݙال ݙین٘دی ہے
+cv_skr_000211 common_voice_skr_33163794.mp3 شَئیں کوں روشن کر گِھنے،
+cv_skr_000212 common_voice_skr_33163800.mp3 اتھاں تیݙا چرو پوریا پئے
+cv_skr_000213 common_voice_skr_33163798.mp3 پاݨی ءِچ ڳکڑاں تے مندھاݨی مارے ٹکراں
+cv_skr_000214 common_voice_skr_33163799.mp3 ماء گن٘جی ، ستارھاں اُٹھ کن٘گھیاں دے
+cv_skr_000215 common_voice_skr_33163796.mp3 پاݨی ہمیشاں پل تلوں وہندے
+cv_skr_000216 common_voice_skr_33163802.mp3 اَتے او سب کُجھ سݨن والا اَتے ٻُہوں ڄاݨݨ والا ہے ۔
+cv_skr_000217 common_voice_skr_33163803.mp3 ݙٹھی گݙان٘ہہ توں ، رُٹھی کمبھار نال
+cv_skr_000218 common_voice_skr_33178987.mp3 بلائیں دا مون٘ہہ برود
+cv_skr_000219 common_voice_skr_33178991.mp3 گھر آئے کوں نئیں کڈھین٘دا
+cv_skr_000220 common_voice_skr_33178989.mp3 سئیں سن٘بھالی بان٘دی ، لوک غیرت کھاوِن
+cv_skr_000221 common_voice_skr_33178988.mp3 اُتوں ڈٹھا سنبھلدے، دلوں لتھا, ڈٹھا نئیں سنبھلدا
+cv_skr_000222 common_voice_skr_33179012.mp3 ان٘دھی نواݨی نہیرݨ ون٘جھ دا
+cv_skr_000223 common_voice_skr_33179016.mp3 اَتے ڄَݙاں اُنھاں کوں آکھیا ویندے جو اِیمان گِھن آؤ،
+cv_skr_000224 common_voice_skr_33179014.mp3 آئی ہاں میں تیݙے ساہ توں کیوں وین٘دیں کن٘ڈ ولا
+cv_skr_000225 common_voice_skr_33179013.mp3 ݙاہ کراڑ ہکو ڄٹ ، چالھی مُلاں ادھی رن
+cv_skr_000226 common_voice_skr_33186580.mp3 ڳالھ مہاڑ:بھڄن داݨے تے کݙن کٹاݨے
+cv_skr_000227 common_voice_skr_33186578.mp3 دڑ وٹ زمانہ کٹ
+cv_skr_000228 common_voice_skr_33186581.mp3 گھر ہوویں رڄی ، ٻاہروں آوے تھالی کڄی
+cv_skr_000229 common_voice_skr_33186582.mp3 امیر دا گھوڑا تے غریب دا بھورا
+cv_skr_000230 common_voice_skr_33214671.mp3 ݙے نہ گھن ، اجایا چن٘بڑیا جِن
+cv_skr_000231 common_voice_skr_33214672.mp3 لاتھی شئے آوے کم ، بھان٘ویں ہووے ڳوہ دا چم
+cv_skr_000232 common_voice_skr_33214675.mp3 توں بھن داݨے
+cv_skr_000233 common_voice_skr_33214678.mp3 مَتراپا ست جھڳے سڑین٘دے
+cv_skr_000234 common_voice_skr_33279198.mp3 من٘گ پرائی خیر ، متاں آپݨی وی ہووے
+cv_skr_000235 common_voice_skr_33279203.mp3 دَر لتھا رہی
+cv_skr_000236 common_voice_skr_33279201.mp3 اوں کنوں ݙریجے جیڑھا دریا دے پاروں بُجے ݙیوے
+cv_skr_000237 common_voice_skr_33279195.mp3 اڳلیاں کیتی، پچھلیاں چاتی
+cv_skr_000238 common_voice_skr_33279213.mp3 گن٘جی کبوتری ، محلاں وِچ دیرے
+cv_skr_000239 common_voice_skr_33279212.mp3 پا نہ پڑھی تے پھاہے چڑھی
+cv_skr_000240 common_voice_skr_33279204.mp3 کلھا دم ، ناں جھورا ناں غم
+cv_skr_000241 common_voice_skr_33197327.mp3 ککِڑ مٹی اݙاوے ، آپݨے سِر وِچ پاوے
+cv_skr_000242 common_voice_skr_33197323.mp3 اُنھاں آکھیا، تیݙی ذات پاک ہے،
+cv_skr_000243 common_voice_skr_33197325.mp3 دم نال اُمیداں ہن
+cv_skr_000244 common_voice_skr_33197326.mp3 ڳالھیں کریجن من بھان٘وݨیاں ، گھیو بھان٘ویں گھت ناں گھت
+cv_skr_000245 common_voice_skr_33197324.mp3 پیلا پتر جوار دا، کم دا ناں کار دا
+cv_skr_000246 common_voice_skr_33197328.mp3 آپݨی پت آپݨے ہتھ
+cv_skr_000247 common_voice_skr_33197329.mp3 نور چانݨاں قائم رہوی
+cv_skr_000248 common_voice_skr_33197330.mp3 سمجھ نہ ساکوں آوے
+cv_skr_000249 common_voice_skr_33198319.mp3 سرکاروں گھیو ڈھہیوے ، دھسے ءِچ جھلیجے
+cv_skr_000250 common_voice_skr_33198320.mp3 نان٘گ کوں جتّی کھیر پلاؤ ، زہر ءِی بݨسی
+cv_skr_000251 common_voice_skr_33198324.mp3 جھوکاں وَسنِیں
+cv_skr_000252 common_voice_skr_33198323.mp3 ٻیڑی ٹھِلّی
+cv_skr_000253 common_voice_skr_33198381.mp3 ماء مریڑی ، پیو تن٘دولا ، پتر کیسر دی پاڑ
+cv_skr_000254 common_voice_skr_33198382.mp3 شیر پن٘ڄرے وِچ وی شیر ہون٘دے
+cv_skr_000255 common_voice_skr_33198383.mp3 ڄاݨدو، جو اَساݙا رَبّ وِی اُوہو ہے،
+cv_skr_000256 common_voice_skr_33198384.mp3 پاݨی لبالب، تارا کئی کئی
+cv_skr_000257 common_voice_skr_33198385.mp3 آجڑی دا کتا چھاں تے نہ ٻہہ ݙیکھے
+cv_skr_000258 common_voice_skr_33208291.mp3 نورن٘گ جڑدا ریہا تے بھاڄڑ لڑھدا ریہا
+cv_skr_000259 common_voice_skr_33208293.mp3 جتھاں پئی پھٹ، اُتھاں پئی لُٹ
+cv_skr_000260 common_voice_skr_33208294.mp3 پیہندی موئی، پکیندی موئی، لوٹھر آئے کھا ڳئے
+cv_skr_000261 common_voice_skr_33208341.mp3 جتھاں رات پئے ڳئی، اُتھائیں دیرا
+cv_skr_000262 common_voice_skr_33208338.mp3 پنݨے کوں پنݨاں نئیں بھاندا
+cv_skr_000263 common_voice_skr_33208402.mp3 دریا دا ہمسایہ ، ناں بکھا ناں تریہایا
+cv_skr_000264 common_voice_skr_33208407.mp3 ٹَھپّے دا اُوہ حصّہ جیڑھا کَھٹیڄ تے ݙونڳا تِھی وین٘دا ہِے۔
+cv_skr_000265 common_voice_skr_33208405.mp3 آکھیا سچ ہَس، ماری خَچ ہس
+cv_skr_000266 common_voice_skr_33211251.mp3 مامے دے ݙوہلے ٻوہٹا تے بھݨیجا آکڑ آکڑ پھرے
+cv_skr_000267 common_voice_skr_33211244.mp3 جِہڑے ایہ خیال وِی رکھیندن
+cv_skr_000268 common_voice_skr_33211250.mp3 کتݨ دا ݙاں نئیں آن٘دا ، چرکھا رن٘گیل ہووے
+cv_skr_000269 common_voice_skr_33213104.mp3 موذی دا سِر بھنین٘دے
+cv_skr_000270 common_voice_skr_33213107.mp3 پاند دا پیچ، ناں پیت ناں پریت زر، زاری دی جیت
+cv_skr_000271 common_voice_skr_33213110.mp3 موئے دے نال کئی نئیں مردا
+cv_skr_000272 common_voice_skr_33213106.mp3 بھائیوالی دی کُنی، چوک ءِچ بھنی
+cv_skr_000273 common_voice_skr_33213108.mp3 اَتے کِنھائیں کوں قتل کر چُھوڑیندے وے ۔
+cv_skr_000274 common_voice_skr_33213111.mp3 ون٘ڈ کھادا ، ایمان پاتا
+cv_skr_000275 common_voice_skr_33213117.mp3 جِہڑا جو سچّا تے پکّا ہے ابراہیم مشرک لوکاں وِچوں نہ ہا ۔
+cv_skr_000276 common_voice_skr_33213118.mp3 سید تے ملّاں کوں خدا بادشاہی ناں ݙیوے
+cv_skr_000277 common_voice_skr_33213120.mp3 ککِڑ کُٹھی ، ڳوان٘ڈھݨ رُٹھی
+cv_skr_000278 common_voice_skr_33213121.mp3 ابا مرے اماں مرے ساݙے پن٘ج کسیرے کھرے
+cv_skr_000279 common_voice_skr_33255042.mp3 شالا جوانیاں ماݨیں
+cv_skr_000280 common_voice_skr_33255048.mp3 ان٘دھی روکے ان٘دھی کوں تے لتاں مارے کن٘دھی کوں
+cv_skr_000281 common_voice_skr_33255049.mp3 خدا مہربان تاں جڳ مہربان
+cv_skr_000282 common_voice_skr_33255047.mp3 ماراں سو تے ڳݨاں ہک
+cv_skr_000283 common_voice_skr_33255327.mp3 جِہڑی قوم اللہ تے یقین رَکھیندی ہے
+cv_skr_000284 common_voice_skr_33255329.mp3 چن٘ڳیاں دے چن٘ڳے تھین٘دن
+cv_skr_000285 common_voice_skr_33255325.mp3 گن٘د ءِچ وٹا مارو ، چھن٘ڈکاں تاں آسن
+cv_skr_000286 common_voice_skr_33255328.mp3 گھروں ون٘ڄے بکھی ، ٻاہروں ملسی سڑی سُکی
+cv_skr_000287 common_voice_skr_33255382.mp3 حق ناں اللہ دا
+cv_skr_000288 common_voice_skr_33255389.mp3 چڄ پیا ، چڄ پیا ، من٘جھوں لہا کے کڄ پیا
+cv_skr_000289 common_voice_skr_33255391.mp3 دمڑی ناں ون٘ڄے ، چمڑی بھان٘ویں ون٘ڄے
+cv_skr_000290 common_voice_skr_33255392.mp3 من وِچ دروہ ، ویڑھے ݙوہ
+cv_skr_000291 common_voice_skr_33020405.mp3 اُٹھ دے سروں پروݨ لہہ پووے وت وی چن٘ڳا ہے
+cv_skr_000292 common_voice_skr_33020400.mp3 لوہا لوہاراں دے ڳل
+cv_skr_000293 common_voice_skr_33020399.mp3 ساری رات رون٘دی رہی مویا ہک وی ناں
+cv_skr_000294 common_voice_skr_33020404.mp3 اڳوں ٹردے پچھوں دی خبر نئیں
+cv_skr_000295 common_voice_skr_33020411.mp3 لیکھا مان٘واں دھیّاں وِچ وی ہون٘دے
+cv_skr_000296 common_voice_skr_33020408.mp3 ہر کوئی آپݨی غرقی وِچ غرق ہے
+cv_skr_000297 common_voice_skr_33020409.mp3 ون٘ڄ او کاکا مشری ، آپݨی پووی تے ٻئے دی وسری
+cv_skr_000298 common_voice_skr_33020402.mp3 لڑھدے خربوزے ، مِتراں دی ارواح
+cv_skr_000299 common_voice_skr_33020403.mp3 آپݨیاں وچ بھاہ تے اوپریاں وچ ساہ
+cv_skr_000300 common_voice_skr_33020401.mp3 اینکوں کیا پتہ بھیݙ دی چُت ءِچ مینڳݨیاں کون وٹیندے
+cv_skr_000301 common_voice_skr_33020407.mp3 کر سیوہ ، کھا میوہ
+cv_skr_000302 common_voice_skr_33020406.mp3 لیس لسوڑی دی ، آکڑ چوہڑی دی
+cv_skr_000303 common_voice_skr_33020413.mp3 اُوکوں وِی تھوڑے ݙِینہاں دِی زندگی کِیتے مال متاع ݙیساں،
+cv_skr_000304 common_voice_skr_33020412.mp3 اَتے نہ کہ جِہڑے گُمراہ ہِن
+cv_skr_000305 common_voice_skr_33020419.mp3 خنگاہ ڈھہݨ پئی ، خلیفیاں نیں وی وٹے مارے
+cv_skr_000306 common_voice_skr_33020420.mp3 سئیں دے من بھاݨی ، تاں کملی وی سیاݨی
+cv_skr_000307 common_voice_skr_33020422.mp3 ایندے چپے تلے ریت ہے
+cv_skr_000308 common_voice_skr_33020423.mp3 آنیں دیر لڳدی ہے، وینیں دیر نئیں لڳدی
+cv_skr_000309 common_voice_skr_33020421.mp3 لن٘گڑا ٹٹو ، لہور دا دایا
+cv_skr_000310 common_voice_skr_33020432.mp3 میں تیݙا دٻلا چاتے ؟
+cv_skr_000311 common_voice_skr_33020429.mp3 اَتے او اِیں ڳالھ کوں نھیں سَمجھدے ۔
+cv_skr_000312 common_voice_skr_33020430.mp3 اِیں ڳالھ وِچ تہاݙے رَبّ دِی طرفوں
+cv_skr_000313 common_voice_skr_33020431.mp3 کاݨی اکھ ناں رہن٘دی ڳجھی
+cv_skr_000314 common_voice_skr_33020439.mp3 نحوست ون٘ڄے تاں مٹی سوناں تھی وین٘دی ہے
+cv_skr_000315 common_voice_skr_33020433.mp3 ٻناں لنگھ تے ڳالھ ݙیوائیں
+cv_skr_000316 common_voice_skr_33020438.mp3 ٻڈھا ناں مرے ناں منجی ویلھی کرے
+cv_skr_000317 common_voice_skr_33020434.mp3 ٹر ڳئیں پتہ لڳدے یا وت مرڳئیں
+cv_skr_000318 common_voice_skr_33020437.mp3 آئی جو قبر وچ جال، چہ سوڑی تے چہ موکلی
+cv_skr_000319 common_voice_skr_33020435.mp3 بدل کالا تاں نت سیالا
+cv_skr_000320 common_voice_skr_33020436.mp3 رب ݙین٘دا ناں تھکے
+cv_skr_000321 common_voice_skr_33020440.mp3 جین٘دے تے ہتھ رکھو ، آپݨا مُل آپ کریسی
+cv_skr_000322 common_voice_skr_33020441.mp3 آڑا پاڑا تے تہاکوں میݙا ساڑا
+cv_skr_000323 common_voice_skr_33020442.mp3 بادشہیں کوں پووِن ویکے، تے ڄٹی کون وِچاری
+cv_skr_000324 common_voice_skr_33020443.mp3 سن٘ڄیں گھر وِچ کھکھر لڳدی ہے
+cv_skr_000325 common_voice_skr_33062639.mp3 ان کھادیں سول پوندے تاں پووݨ ݙیو
+cv_skr_000326 common_voice_skr_33062641.mp3 جیہاں تیݙا لوݨ پاݨی ، تیہاں ساݙا کم ڄاݨی
+cv_skr_000327 common_voice_skr_33062636.mp3 اَتے یاد کرو او ویلا ڄَݙاں تُساں کنُوں پکا قول قرار گِھدا،
+cv_skr_000328 common_voice_skr_33062643.mp3 مرݨ جیوݨ بن٘دے دے نال ہے
+cv_skr_000329 common_voice_skr_33062686.mp3 ہِل دے آلݨے وِچ ماس کتھاں
+cv_skr_000330 common_voice_skr_33062687.mp3 ہک مردے ٻیا تیار
+cv_skr_000331 common_voice_skr_33062689.mp3 کھوہݨ ناں کھسݨ ، ݙن٘دوڑکی وٹݨ
+cv_skr_000332 common_voice_skr_33062690.mp3 اللہ نہ ظالم کرے نہ ظالم دے حوالے کرے
+cv_skr_000333 common_voice_skr_33062688.mp3 سراں نال سرداریاں
+cv_skr_000334 common_voice_skr_33062742.mp3 سڄݨ ڈھیر، دشمن زیر
+cv_skr_000335 common_voice_skr_33062743.mp3 بزاری رن دا کیاں اعتبار
+cv_skr_000336 common_voice_skr_33062745.mp3 فرخ سیر دی وسّی نگری ، سن٘دھ وِچ وُٹھی مین٘ہ تے نسری
+cv_skr_000337 common_voice_skr_33062741.mp3 پنݨ سڄی کار، چور پووے ناں دھاڑ
+cv_skr_000338 common_voice_skr_33062744.mp3 اوندا تاں مُتر ٻلدے
+cv_skr_000339 common_voice_skr_33062831.mp3 اماں تئیں طمع، بابل تئیں راج
+cv_skr_000340 common_voice_skr_33062834.mp3 اُوندا رَنگ اِہجا گھاٹا ہووے جو ݙیکھݨ والیاں دے دِل خوش کر ݙیوے ۔
+cv_skr_000341 common_voice_skr_33062835.mp3 سر وݙے سرداراں دے ، پیر وݙے مرداراں دے
+cv_skr_000342 common_voice_skr_33062832.mp3 سچا قسم نئیں چین٘دا
+cv_skr_000343 common_voice_skr_33062833.mp3 اُنھاں کوں وِی سَݙ گِھنو جیکر تساں سچے ہیوے
+cv_skr_000344 common_voice_skr_33073722.mp3 اَتے اللہ دے سِوا جہڑے تہاݙے حمائتی ہوون،
+cv_skr_000345 common_voice_skr_33073853.mp3 اماں بابو دا مٹھا ناں، اوپرے چھک کے دھپ سٹن، آپݨے سٹن چھاں
+cv_skr_000346 common_voice_skr_33073856.mp3 میں چار میلے زیادہ ݙٹھے ہوسن
+cv_skr_000347 common_voice_skr_33073857.mp3 قول ہارݨ جؤاناں دا کم نئیں
+cv_skr_000348 common_voice_skr_33073855.mp3 ہک اݨ بھان٘دا ، ݙوجھا گوݙے نال
+cv_skr_000349 common_voice_skr_33073854.mp3 اَتے تُساں ڄاݨدے سَمجھدے وی ہیوے ۔
+cv_skr_000350 common_voice_skr_33074150.mp3 بھاڄی ݙے اوں گھر جتھوں آوی وَل
+cv_skr_000351 common_voice_skr_33074151.mp3 غریب دی شالا ماء ناں ویاوے ہا
+cv_skr_000352 common_voice_skr_33074154.mp3 دعا ݙیوݨ آلے پٹ پلوت نئیں کرین٘دے
+cv_skr_000353 common_voice_skr_33074153.mp3 بھُوم ڳوجھی کوں پرموٹ تے وائرل کرݨ کیتے ٹیم تیار کرو.
+cv_skr_000354 common_voice_skr_33074300.mp3 خیر میݙے سردار دی
+cv_skr_000355 common_voice_skr_33074301.mp3 بھلا کر تے کھوہ ءِچ سٹ
+cv_skr_000356 common_voice_skr_33074304.mp3 جئیں کنوں بادشاہ رُسّے ، اوں نال کون وسّے
+cv_skr_000357 common_voice_skr_33074307.mp3 کھا کے ݙکار وی نئیں ݙین٘دے
+cv_skr_000358 common_voice_skr_33074310.mp3 ٻلی کوں خواب چھچھڑیاں دا
+cv_skr_000359 common_voice_skr_33074379.mp3 جوان ، زنانی تے ہتھ نئیں چین٘دے
+cv_skr_000360 common_voice_skr_33074381.mp3 زمین٘دار دربھ دی پاڑ
+cv_skr_000361 common_voice_skr_33074382.mp3 جیوݨ جوگا!
+cv_skr_000362 common_voice_skr_33074378.mp3 گھوڑے کو تلّا ، رن کو کھلّا
+cv_skr_000363 common_voice_skr_33074425.mp3 لیکھا وین٘دی چھاں ہے
+cv_skr_000364 common_voice_skr_33074421.mp3 اَتے تہاکوں تمام جہاناں والیاں اُتے فضیلت ݙِتی ہَئی ۔
+cv_skr_000365 common_voice_skr_33074423.mp3 چولے کنوں ٻُولیاں وݙیاں
+cv_skr_000366 common_voice_skr_33074428.mp3 کراوے کھکھاݨی ، کرے کھکھ ، مریجے سڳو فقیر
+cv_skr_000367 common_voice_skr_33074431.mp3 گھݨیپا دِلاں وِچ وِتھیاں پین٘دے
+cv_skr_000368 common_voice_skr_33074483.mp3 آپݨی شئے آپݨی ہے
+cv_skr_000369 common_voice_skr_33074486.mp3 ݙے ناں ڄاݨے ڈھٹی تے شریکاں کولوں رُٹھی
+cv_skr_000370 common_voice_skr_33074485.mp3 اللہ سئیں آں! سِدھی سَیت کر
+cv_skr_000371 common_voice_skr_33074487.mp3 ݙیوݨ آلے دیاں سو ڳالھیں سݨیاں وین٘دین
+cv_skr_000372 common_voice_skr_33074488.mp3 آسا رام بھمبھڑی، کسیرا ݙے پیسے کوں چمبڑی
+cv_skr_000373 common_voice_skr_33075664.mp3 بُتھی ݙنگوری تھاں بھنݨ جوڳی ہے
+cv_skr_000374 common_voice_skr_33075662.mp3 گاہک تے موت دا کیڑھا ویلھا
+cv_skr_000375 common_voice_skr_33075666.mp3 حلوائی دی ہٹی ، نانی دی ارواح
+cv_skr_000376 common_voice_skr_33075663.mp3 دریا دا انت کہیں نئیں پاتا
+cv_skr_000377 common_voice_skr_33075678.mp3 جیکوں کتا پٹے ، ست کھلے اوہو کھاوے
+cv_skr_000378 common_voice_skr_33075679.mp3 سّوراں دے ڳل ٹلیاں کون گھتّے
+cv_skr_000379 common_voice_skr_33075677.mp3 اِنوں اُنوں رناں ، آدھی اِچ دھناں
+cv_skr_000380 common_voice_skr_33075681.mp3 ان٘دھا کتا وا کوں بھون٘کے سئیں دے لیکھے تازی اے
+cv_skr_000381 common_voice_skr_33075680.mp3 اَتے ٻس مَیں کنوں ای ݙردے رہو ۔
+cv_skr_000382 common_voice_skr_33075665.mp3 نناݨ چرکھے دی کاݨ
+cv_skr_000383 common_voice_skr_33075705.mp3 ڳل دی بلا ، نل وِچ
+cv_skr_000384 common_voice_skr_33075709.mp3 سر دا بھار پیراں تے آن٘دے
+cv_skr_000385 common_voice_skr_33075708.mp3 شالا ہَݙ سہندے بار خدا کئیں تے نہ ݙیوے
+cv_skr_000386 common_voice_skr_33075710.mp3 کیڑھی چکی دا اٹا کھان٘دے ہو
+cv_skr_000387 common_voice_skr_33075711.mp3 اِہجیاں ڳالھیں دِی پیروی کرویندے ہن جِہڑیاں جو
+cv_skr_000388 common_voice_skr_33100857.mp3 ذال پئے راضی تے کیا کریسی مُلاں قاضی
+cv_skr_000389 common_voice_skr_33100861.mp3 ان٘دھا گھوڑا تے لشکر دا زیان
+cv_skr_000390 common_voice_skr_33100863.mp3 حقی تاں ایویں ہے
+cv_skr_000391 common_voice_skr_33100865.mp3 اے تیݙی راہ، او میݙی راہ
+cv_skr_000392 common_voice_skr_33100866.mp3 مون٘ہہ چوہی تے ڈھڈھ کھوئی
+cv_skr_000393 common_voice_skr_33100913.mp3 آپݨا اوگھ لہاوݨا تے ون٘ڈ نہ ݙین٘دا کوئی
+cv_skr_000394 common_voice_skr_33100916.mp3 کݙان٘ہیں ہتھاں دے لیکے مٹدِن ؟
+cv_skr_000395 common_voice_skr_33100918.mp3 سمجھدے اَتے اَساں اللہ دے فرمانبردار ہَیں ۔
+cv_skr_000396 common_voice_skr_33100920.mp3 چوڑھیاں دی ٹَیں وکھری ہون٘دی ہے
+cv_skr_000397 common_voice_skr_33100921.mp3 چن٘ڳا تھیا ڳُڑ مکھیاں کھادا، اساں بھݨ بھݨ کنوں بچیوسے
+cv_skr_000398 common_voice_skr_33100998.mp3 سڄݨ ٻان٘ھ ݙیوے تاں سالم ناں نڳلو
+cv_skr_000399 common_voice_skr_33100999.mp3 ٻکری اپݨے پیریں آپ ٹن٘گین٘دی ہے
+cv_skr_000400 common_voice_skr_33101000.mp3 اِتی منت کندھ دی کروں ہا تاں او وی ڈھیہہ پووے ہا
+cv_skr_000401 common_voice_skr_33101001.mp3 سَکّا او جو سِک لہاوے تے اوکھے ویلھے کم آوے
+cv_skr_000402 common_voice_skr_33101002.mp3 مون٘ہہ کوں ملاحظہ ، سِراں کوں سلام
+cv_skr_000403 common_voice_skr_33101067.mp3 پڑھے کنوں ڳڑھیا چنڳا
+cv_skr_000404 common_voice_skr_33101071.mp3 سن٘ویں سن٘جھ دے موئے کوں کئی کے تئیں رووے
+cv_skr_000405 common_voice_skr_33101069.mp3 گابے ہل وہاوِن ہا ݙان٘داں کوں کون پچھے ہا
+cv_skr_000406 common_voice_skr_33101070.mp3 ٻیر آلے گھر وٹے پوندن
+cv_skr_000407 common_voice_skr_33101068.mp3 توں آہدیں میکوں بھیݙاں گھن ݙیو
+cv_skr_000408 common_voice_skr_33101122.mp3 من٘جھ ڳان٘ھ دھن دی ، دھی بھیݨ ڄم دی
+cv_skr_000409 common_voice_skr_33101125.mp3 چٹے کپڑے سلاماں دی چٹی
+cv_skr_000410 common_voice_skr_33101126.mp3 ٻہݨ دی جاہ ݙے چا، سمݨ دی ڳول گھنساں
+cv_skr_000411 common_voice_skr_33101124.mp3 پیو دی جتی پتر کوں پوری آوے تاں اونکوں یار سمجھو
+cv_skr_000412 common_voice_skr_33101123.mp3 جیویں ڳئے ، اون٘ویں آئے
+cv_skr_000413 common_voice_skr_33101172.mp3 چور چوری کنوں ڳیا ، ہیرا پھیری کنوں ناں ڳیا
+cv_skr_000414 common_voice_skr_33101173.mp3 شرع دا کیا شرم
+cv_skr_000415 common_voice_skr_33101174.mp3 کئیں ٻئے دی قبر وِچ نئیں ون٘ڄݨاں
+cv_skr_000416 common_voice_skr_33101176.mp3 پٹیا پہاڑ نکھتھا چوہا، اوہو وی مویا ہوا
+cv_skr_000417 common_voice_skr_33101175.mp3 ناں سر ہوسی ، ناں درد پوسی
+cv_skr_000418 common_voice_skr_33177122.mp3 جِہڑا کُجھ اُنھاں آپڑیاں ہتھاں نال لکھیئے تے اوندے کِیتے وِی بد بختی ہے،
+cv_skr_000419 common_voice_skr_33177127.mp3 سوکا ساوا تھیویں
+cv_skr_000420 common_voice_skr_33177128.mp3 اے تاں نت ٻلوکڑا ہے
+cv_skr_000421 common_voice_skr_33177129.mp3 کݙان٘ہیں کھوٹا پیسہ وی کم آن٘دے
+cv_skr_000422 common_voice_skr_33177124.mp3 ہردے ٻچڑے دی خیر
+cv_skr_000423 common_voice_skr_33177165.mp3 لیکھا عیب کڄین٘دے
+cv_skr_000424 common_voice_skr_33177166.mp3 ہک کوں کڈھو ، ٻئے کوں ڈھکو
+cv_skr_000425 common_voice_skr_33177169.mp3 موئی نئیں پھِتھی پئی ہے
+cv_skr_000426 common_voice_skr_33177190.mp3 اڄ کریسیں ، کل بھریسیں
+cv_skr_000427 common_voice_skr_33177167.mp3 ٻارہاں ورہیاں دی چھوہِر تے پوتریاں دی ݙاݙی
+cv_skr_000428 common_voice_skr_33177192.mp3 پلے نہیں پیسا، جمعرات پرنیساں
+cv_skr_000429 common_voice_skr_33177193.mp3 دل وسّے قاسم ٻیلے ، من فرید آباد
+cv_skr_000430 common_voice_skr_33177191.mp3 ہک کرین٘دے ناں ݙو
+cv_skr_000431 common_voice_skr_33177194.mp3 ہاں مروڑا ، ڄن٘گھاں تروڑا
+cv_skr_000432 common_voice_skr_33177244.mp3 ہک کنوں ہک داݨا ہے
+cv_skr_000433 common_voice_skr_33177243.mp3 ماء گھولی ون٘ڄی
+cv_skr_000434 common_voice_skr_33177245.mp3 اِنھاں ساریاں دے دِل ہِکو جِیہے ہَن،
+cv_skr_000435 common_voice_skr_33177246.mp3 چوٹی کُتی ، جلیبیاں دی راکھی
+cv_skr_000436 common_voice_skr_33177248.mp3 کُپے وِچ ڳٹکاں ، ہوکا دراکھ دا
+cv_skr_000437 common_voice_skr_33177277.mp3 اڳے چکڑ ہئی، ٻیا بھیݙاں متریا
+cv_skr_000438 common_voice_skr_33177278.mp3 ندّی تار متاراں تے تارا کئی کئی
+cv_skr_000439 common_voice_skr_33177279.mp3 چور دا بھرا ڳن٘ڈھ کپ
+cv_skr_000440 common_voice_skr_33177280.mp3 آئی بلا، ڳئی بلا، نعرہ دم باہُو
+cv_skr_000441 common_voice_skr_33177281.mp3 ٻوٹیاں حرام تے شورواں حلال
+cv_skr_000442 common_voice_skr_33177313.mp3 دھیاں بیغاناں دھن
+cv_skr_000443 common_voice_skr_33177317.mp3 جوڑا جوہ ݙتا ون٘ڄے تاں کھوہ دا پاݨی چوّ وین٘دے
+cv_skr_000444 common_voice_skr_33177312.mp3 گھر وِچ اٹھا نہیں ، پھُلکے میݙے شوخ پکاویں
+cv_skr_000445 common_voice_skr_33177319.mp3 جین٘دی جُتی اوں دا سِر
+cv_skr_000446 common_voice_skr_33177337.mp3 سخی دا ٻیڑا پار
+cv_skr_000447 common_voice_skr_33177339.mp3 پر نفع نہ ݙے سڳدا ہا، اَتے چن٘ڳی طرح جاݨدے ہَن
+cv_skr_000448 common_voice_skr_33177340.mp3 وَہے وُڑھے نئیں ، سسار اڳے آئے ٻیٹھن
+cv_skr_000449 common_voice_skr_33177338.mp3 ہر کئی آپݨے دم دا ہوکا ݙین٘دے
+cv_skr_000450 common_voice_skr_33177366.mp3 ہک در بن٘د ، سو در کھلا
+cv_skr_000451 common_voice_skr_33177367.mp3 جتھوں دی کھوتی، اُتھائیں آن کھلوتی
+cv_skr_000452 common_voice_skr_33177368.mp3 ڈھیر کاوڑ تے گھر دا زیان
+cv_skr_000453 common_voice_skr_33177369.mp3 سائیاں کتھائیں ، ودھائیاں کتھائیں
+cv_skr_000454 common_voice_skr_33177370.mp3 جوانی دیوانی ہون٘دی ہے
+cv_skr_000455 common_voice_skr_33177411.mp3 سخی دے مال تے پون٘دی ہے ، شوم دی جان تے
+cv_skr_000456 common_voice_skr_33177413.mp3 دنیا کمائی مکر نال، روٹی کھادی شکر نال
+cv_skr_000457 common_voice_skr_33177414.mp3 اندھے ہتھ بندوخ
+cv_skr_000458 common_voice_skr_33177415.mp3 گابا کݙدے کِلّے دی تݙ تے
+cv_skr_000459 common_voice_skr_33177436.mp3 چور دے پیر نئیں ہون٘دے
+cv_skr_000460 common_voice_skr_33177447.mp3 جتھوں دی بلا ہے اُتھائیں چنڳی ہے
+cv_skr_000461 common_voice_skr_33316202.mp3 تاں اَکھیندن اَساں وِی ایمان گِھن آئیسے،
+cv_skr_000462 common_voice_skr_33316204.mp3 جگو دے ݙوہڑے پُٹھے، مین٘ہ اُتے چھپر وُٹھے
+cv_skr_000463 common_voice_skr_33316207.mp3 مطلب ویلھے لوک گݙان٘ھ کوں پیو بݨین٘دن
+cv_skr_000464 common_voice_skr_33316208.mp3 بکھا رڄ نہ کھاوے
+cv_skr_000465 common_voice_skr_33316205.mp3 ہتھ وِچ کئی کسب ہووے تاں اوکھے ویلھے کم آن٘دے
+cv_skr_000466 common_voice_skr_33316262.mp3 عقل دی مار تے ݙکھاں دی اڑی
+cv_skr_000467 common_voice_skr_33316263.mp3 والاں نال سر بھارا نئیں تھین٘دا
+cv_skr_000468 common_voice_skr_33316266.mp3 ہک مرے قضا نال ، ٻیا مرے رضا نال
+cv_skr_000469 common_voice_skr_33316318.mp3 چالھی خالی، پن٘جھا من٘جھا، سٹھ قبر کھٹ
+cv_skr_000470 common_voice_skr_33316319.mp3 لیکھا اوہو جیڑھا آپݨے کھیسے وِچ ہے
+cv_skr_000471 common_voice_skr_33316320.mp3 سیوا بن میوہ نئیں
+cv_skr_000472 common_voice_skr_33316346.mp3 آندیں سکھ ، نہ ویندیں ݙکھ
+cv_skr_000473 common_voice_skr_33316348.mp3 کرنی نوکری ، تاں نخرا کیہاں
+cv_skr_000474 common_voice_skr_33316349.mp3 اِنوں اُنوں ولے تے آڑے آلا جھلے
+cv_skr_000475 common_voice_skr_33316347.mp3 اُٹھاں آلاں نال یاری تے ٻوہے جھکے
+cv_skr_000476 common_voice_skr_33316384.mp3 ون٘ڄݨ آپݨے وس ، آوݨ پرائے وس
+cv_skr_000477 common_voice_skr_33316385.mp3 ناں ہک پݨیں ہا ، ناں ݙاہ سݨیں ہا
+cv_skr_000478 common_voice_skr_33316381.mp3 جو اُنھاں دے رَب دی طرفوں ایہ ہک سچی تے موقع دی مثال ہے،
+cv_skr_000479 common_voice_skr_33316382.mp3 بابل تئیں توں کجھ نئیں منگدے
+cv_skr_000480 common_voice_skr_33316383.mp3 آپݨے گھر کوئی چھڄ وڄاوے بھانویں چھاݨی
+cv_skr_000481 common_voice_skr_33316407.mp3 بھرا جیوے، میں سواں ناں تھیوے
+cv_skr_000482 common_voice_skr_33316408.mp3 شالا جیندا رہویں
+cv_skr_000483 common_voice_skr_33316409.mp3 ڳالھا ڳالھ کرے ، سیاݨا قیاس کرے
+cv_skr_000484 common_voice_skr_33316412.mp3 سو عیباں دا ہکو عیب بکھ ہے
+cv_skr_000485 common_voice_skr_33316406.mp3 پہلے گھر دے، ول ٻہر دے
+cv_skr_000486 common_voice_skr_33128930.mp3 اَتے فرعون دِی اولاد کوں غرق کر چھوڑیا،
+cv_skr_000487 common_voice_skr_33128931.mp3 کن٘دھ کھادی جالیاں ، گھر کھادا سالیاں
+cv_skr_000488 common_voice_skr_33128932.mp3 اڑی کُنی، توں کیوں رُنی؟ میں اتوں اتوں مُنی
+cv_skr_000489 common_voice_skr_33129042.mp3 کھیتی ڄٹ دی ، بازی نٹ دی
+cv_skr_000490 common_voice_skr_33129044.mp3 من٘گھر پوہ ءِچ رادھی تے مان٘ہہ ءِچ شادی
+cv_skr_000491 common_voice_skr_33129047.mp3 ناں پرنیا ناں جن٘ڄ ڳیا
+cv_skr_000492 common_voice_skr_33129043.mp3 ڄمے نوں تے پٹے ستارھاں ، واہ ڑی ماسی مہراں
+cv_skr_000493 common_voice_skr_33129073.mp3 اکھیں دی جاہ بھربھٹے مل ڳئین
+cv_skr_000494 common_voice_skr_33129074.mp3 کئیں نائی کوں آکھیا ، چھتّے کیہو جیݙے ، اوں آکھیا ہݨیں اڳوں آسن
+cv_skr_000495 common_voice_skr_33129075.mp3 آپݨی کیتی آپݨے اڳوں آندی ہے
+cv_skr_000496 common_voice_skr_33133261.mp3 ٻہوں کوں ٻہوں حرص ہے
+cv_skr_000497 common_voice_skr_33133285.mp3 سارے رستے موکلے
+cv_skr_000498 common_voice_skr_33133287.mp3 جیندے لفظاں دی چوݨ مخاطب دی سماجی تے وسیبی قدر
+cv_skr_000499 common_voice_skr_33133286.mp3 ہائے ہائے ڈھیر تے لبھت تھولی
+cv_skr_000500 common_voice_skr_33133314.mp3 آڳوں اللہ مالک ہے
+cv_skr_000501 common_voice_skr_33133315.mp3 الف کوں ڄاݨے کلی ناں محمد فاضل خاں
+cv_skr_000502 common_voice_skr_33133333.mp3 ڄٹ رُٹھا تاں کمی مُٹھا ، کمی رُٹھا تاں کمی مُٹھا
+cv_skr_000503 common_voice_skr_33133382.mp3 ڳائیں کتّیں تئیں ، اڳوں موئے گابے ، پچھوں موئے سئیں
+cv_skr_000504 common_voice_skr_33133434.mp3 بیج پاوو چݨ کے، پاݨی پیوو پُݨ کے
+cv_skr_000505 common_voice_skr_33133452.mp3 اِیہ لُکیندن یا ظاہر کریندن، اللہ بالکل جاݨدا کھڑے ۔
+cv_skr_000506 common_voice_skr_33133459.mp3 اندھا کتا سئیں کوں بھونکے
+cv_skr_000507 common_voice_skr_33133467.mp3 ݙرے ٻلی توں ، ناں شیر خاں
+cv_skr_000508 common_voice_skr_33133574.mp3 ہک مرے ݙوجھا وکاوے ، تریجھا ٻہہ تݙی تے کھاوے
+cv_skr_000509 common_voice_skr_33133592.mp3 اَتے او لوک جِنھاں جو انکار کر ݙِتے،
+cv_skr_000510 common_voice_skr_33133634.mp3 اڄاں اُتھائیں کھڑے
+cv_skr_000511 common_voice_skr_33133624.mp3 نکے وݙے سبھ دی خیر
+cv_skr_000512 common_voice_skr_33133635.mp3 تاڑی ݙو ہتھڑ وڄدی ہے
+cv_skr_000513 common_voice_skr_33133657.mp3 ترائے وِچ ناں تیرھاں وچ، ناں لوٹے آلے ٻیراں وچ
+cv_skr_000514 common_voice_skr_33133658.mp3 اکھیں دا اندھا، ڳنڈھ دا پورا
+cv_skr_000515 common_voice_skr_33133659.mp3 زبان تخت تے ٻلھین٘دی وی ہے ، لہین٘دی وی ہے
+cv_skr_000516 common_voice_skr_33137007.mp3 آتݨ دی رن نہ کار نہ کم
+cv_skr_000517 common_voice_skr_33137005.mp3 نٹھیاں بھڄیاں دے پتݨ میلے
+cv_skr_000518 common_voice_skr_33137006.mp3 ہتھ ناں پڄے ، تھو ، کوڑی
+cv_skr_000519 common_voice_skr_33137016.mp3 شیراں دے ٻال شیر ہون٘دن
+cv_skr_000520 common_voice_skr_33137017.mp3 آڳی
+cv_skr_000521 common_voice_skr_33137046.mp3 بندے کوں بندے نال واہ پوندی ہے
+cv_skr_000522 common_voice_skr_33137025.mp3 ہک شرم ٻوڑے ، ہک شرم تارے
+cv_skr_000523 common_voice_skr_33137027.mp3 چار ݙین٘ہہ وݙا ہاں
+cv_skr_000524 common_voice_skr_33137028.mp3 زنا تے فنا
+cv_skr_000525 common_voice_skr_33137045.mp3 اُٹھا جِیوا کھڑایا تاں جو تُساں میݙے احسان مَنّو ۔
+cv_skr_000526 common_voice_skr_33137044.mp3 پَٹ دی لغام رکاباں من٘ڄ دیاں
+cv_skr_000527 common_voice_skr_33137047.mp3 چڑھ ون٘ڄ ٻچڑا سولی ، تیکوں تتی وا ناں لڳے
+cv_skr_000528 common_voice_skr_33137059.mp3 جیڑھی پھٹی ، سوادوں پھٹی
+cv_skr_000529 common_voice_skr_33137062.mp3 اَساݙے رَب آ! اَساکوں آپڑاں فرمانبردار مسلمان بݨائی رکھیں
+cv_skr_000530 common_voice_skr_33137071.mp3 اللہ سئیں آں! ݙُدھ پُتر آلے دے متھّے لان٘ویں
+cv_skr_000531 common_voice_skr_33137070.mp3 دیہہ وݙا ، ناں سُن٘ڄ
+cv_skr_000532 common_voice_skr_33137072.mp3 چٹکر ساڑی ہئی ؟
+cv_skr_000533 common_voice_skr_33137067.mp3 ٻیڑی تری
+cv_skr_000534 common_voice_skr_33137075.mp3 موت تے مہمان دا کئی ویلھا نئیں ہون٘دا
+cv_skr_000535 common_voice_skr_33137076.mp3 سائیاں دا نک ءِی نئیں کپین٘دی
+cv_skr_000536 common_voice_skr_33137082.mp3 وَل تہاکوں آسمانی بجلی پکڑ گِھدا تے
+cv_skr_000537 common_voice_skr_33137083.mp3 چن٘ڳے چن٘ڳے مرڳئے، رہ ڳئے یاوے، منگن دعائیں کئی ٹوٹا بھوئیں وِکاوے
+cv_skr_000538 common_voice_skr_33137085.mp3 چھوٹا پاݨی ݙیکھ تے وݙے ٹپ ناں مار
+cv_skr_000539 common_voice_skr_33137086.mp3 وے! ماء ٹھر ٹھر ون٘ڄی
+cv_skr_000540 common_voice_skr_33137095.mp3 ڄٹ پلاوے لسّی تے ڳل وچ پاوے رسّی
+cv_skr_000541 common_voice_skr_33137119.mp3 کچّھا ہیٹھ قرآن تے نظر ڈھڳے تے
+cv_skr_000542 common_voice_skr_33137120.mp3 جین٘دی کھڑی اَگھاوے ، اوکوں ان٘بار کرݨ نال کیا
+cv_skr_000543 common_voice_skr_33137464.mp3 کن٘جوس کھٹے ، دھرتی کھاوے
+cv_skr_000544 common_voice_skr_33137478.mp3 پٹکی پرے ونڄ پئی ہے، اللہ پت رکھ گھدی ہے
+cv_skr_000545 common_voice_skr_33137467.mp3 کان٘واں دے آکھے ڈھور نئیں مردے
+cv_skr_000546 common_voice_skr_33137468.mp3 ٹ
+cv_skr_000547 common_voice_skr_33137465.mp3 آئے رزق کوں دھکا نئیں ݙیویندا
+cv_skr_000548 common_voice_skr_33137466.mp3 جِہڑے ویلے اَساں فرشتیاں کوں حکم ݙِتا ،
+cv_skr_000549 common_voice_skr_33137474.mp3 من٘جھیں ٻدھݨیاں ساکھڑیاں پہلے گھر سنبھال
+cv_skr_000550 common_voice_skr_33137481.mp3 در بھارواں ، پِچھاڑی نن٘گی
+cv_skr_000551 common_voice_skr_33138851.mp3 چاٹی وچ سِر ݙتیاں مولھے کنوں کیا ݙرݨا
+cv_skr_000552 common_voice_skr_33138902.mp3 اَرمان لڳدے جو اُنھاں اِیں ڳالھ کوں کیوں نہ جاݨ گِھدّا ۔
+cv_skr_000553 common_voice_skr_33138901.mp3 نہ تاں آپڑیں آپ اُتے ظلم کرݨ والیاں وِچوں تِھی ویسو ۔
+cv_skr_000554 common_voice_skr_33138903.mp3 گرمی کنوں کاں دی اکھ نکلدی ہے
+cv_skr_000555 common_voice_skr_33138900.mp3 کن٘ڈ پچھوں تاں بادشاہواں دا وی گلا تھین٘دے
+cv_skr_000556 common_voice_skr_33138960.mp3 آپݨی قبر آپݨا جواب
+cv_skr_000557 common_voice_skr_33138968.mp3 جین٘دیں من٘دے کڈھین٘دن ، موئیں غلاف چڑھین٘دن
+cv_skr_000558 common_voice_skr_33138972.mp3 آپݨی موڑھی چٹ ہووے تاں ٻئے کوں کیا آکھوں
+cv_skr_000559 common_voice_skr_33139018.mp3 شکلاں ݙیکھ آ جواناں دیاں ، ماء مریڑی تے پتر ڳاٹے بھن
+cv_skr_000560 common_voice_skr_33139019.mp3 قبر چونے غچ ، مردہ بے ایمان
+cv_skr_000561 common_voice_skr_33139020.mp3 اٹھ خالی وی رڑے تے لݙیا ہویا وی
+cv_skr_000562 common_voice_skr_33139092.mp3 مُتر نال ݙیوا نئیں ٻلدا
+cv_skr_000563 common_voice_skr_33139088.mp3 ستھݨ سیوین٘دی ہے تاں نیفا وی رکھین٘دے
+cv_skr_000564 common_voice_skr_33139130.mp3 وُوئے بنی اِسرائیل والو! میݙیاں اِنھاں نعمتاں کوں یاد کرو،
+cv_skr_000565 common_voice_skr_33139139.mp3 خس کم ، جہاں پاک
+cv_skr_000566 common_voice_skr_33139135.mp3 ٻال دی ماء ناں مرے، ٻڈھڑے دی ذال
+cv_skr_000567 common_voice_skr_33139267.mp3 توں کیوں پرائے پھٹے ءِچ لت اڑیندیں
+cv_skr_000568 common_voice_skr_33139269.mp3 ہریا جواری رن داء تے لین٘دے
+cv_skr_000569 common_voice_skr_33152204.mp3 اوہا راݨی جیڑھی شوہر دے من بھاݨی
+cv_skr_000570 common_voice_skr_33152205.mp3 شالا ہک دا لکھ تھیویں
+cv_skr_000571 common_voice_skr_33152206.mp3 جن٘ڄ چڑھی تے ون٘ڄ وڑی
+cv_skr_000572 common_voice_skr_33152212.mp3 ٻال چئی دے ہن، کھئی دے نہیں
+cv_skr_000573 common_voice_skr_33152210.mp3 ذرا کہیں الایا ، سگھرا ٻاہر آیا
+cv_skr_000574 common_voice_skr_33152213.mp3 شیطان ہر جاہ ہے
+cv_skr_000575 common_voice_skr_33152214.mp3 اماں کنوں دھی سیاݨی، پکے ردھے گھتے پاݨی
+cv_skr_000576 common_voice_skr_33152211.mp3 وݙیریاں نال کَلھے ٻَہندن تاں اَکھیندن،
+cv_skr_000577 common_voice_skr_33152207.mp3 رُٹھے دا بھان٘ڳا ، ڳڑ کنوں وی مٹھا
+cv_skr_000578 common_voice_skr_33152209.mp3 چھوہراں دی ویلی تے اللہ ٻیلی
+cv_skr_000579 common_voice_skr_33152238.mp3 دول ناں شرنائی ، جن٘ڄ چڑھی اجائی
+cv_skr_000580 common_voice_skr_33152242.mp3 اندھی ہنگے، ݙو کھناوے
+cv_skr_000581 common_voice_skr_33152241.mp3 اُدھل ڳیاں کوں ݙاج کون ݙین٘دے
+cv_skr_000582 common_voice_skr_33152455.mp3 ہک پاء لوڑ ءِی من٘گدیں سیر ، چادر ݙیکھ تے پیر دگھیر
+cv_skr_000583 common_voice_skr_33152456.mp3 افسر افسر ہے بھانویں مٹی دا ہوے
+cv_skr_000584 common_voice_skr_33152454.mp3 لیکھا ہووے ہا شادی ناں کروں ہا
+cv_skr_000585 common_voice_skr_33152502.mp3 متھے دا لکھیا نئیں مٹدا
+cv_skr_000586 common_voice_skr_33152503.mp3 آلݨے وچوں نکلیا پکھی ول نئیں آندا
+cv_skr_000587 common_voice_skr_33152506.mp3 شالا ٻُڈھ سہاڳݨ تھیویں
+cv_skr_000588 common_voice_skr_33152505.mp3 گرمی ون٘ڄے لپ جیرے نال ، سردی ون٘ڄے لپ ہیرے نال
+cv_skr_000589 common_voice_skr_33152732.mp3 ݙین٘دے گھندے گھاٹا
+cv_skr_000590 common_voice_skr_33152760.mp3 جیڑھا ہتھ قلم چین٘دے، تلوار نئیں چین٘دا
+cv_skr_000591 common_voice_skr_33152761.mp3 آوݨ ونڄݨ ٻہوں، ݙیوݨ گھنݨ گھٹ
+cv_skr_000592 common_voice_skr_33152762.mp3 اٹھ دے مونہہ وچوں ڄال دی بو آندی ہے
+cv_skr_000593 common_voice_skr_33152763.mp3 گھر ٹوپا ، ٻاہر ہوکا
+cv_skr_000594 common_voice_skr_33152891.mp3 کچّی رن کچ کماوے ، یار کوں کھڑی ہتھ نال ٻدھاوے
+cv_skr_000595 common_voice_skr_33152892.mp3 برداری ڄاݨ برابری
+cv_skr_000596 common_voice_skr_33152889.mp3 آوے دا آوا خراب ہے
+cv_skr_000597 common_voice_skr_33152890.mp3 اٹھی آپ نہ سڳے ݙوہ گوݙیں تے
+cv_skr_000598 common_voice_skr_33152909.mp3 رناں نال متھا لاوے تاں کناں دی خیر مناوے
+cv_skr_000599 common_voice_skr_33152912.mp3 جو اَساݙے رَبّ آ! اَساں کنوں اَساݙی اِیہ خدمت قبول چا کر،
+cv_skr_000600 common_voice_skr_33152913.mp3 لکھ مرے ، لکھ پال ناں مرے
+cv_skr_000601 common_voice_skr_33152910.mp3 ستّیاں دے کٹے ، جاڳݨ آلیاں دیاں کٹیاں
+cv_skr_000602 common_voice_skr_33152911.mp3 ݙکھی کوں ݙکھ گھن لہن٘دے
+cv_skr_000603 common_voice_skr_33152924.mp3 ڄمدیاں ، سولاں دے مون٘ہہ ترِکھے
+cv_skr_000604 common_voice_skr_33152925.mp3 جیڑھا بھون٘کدے او پٹین٘دا نئیں
+cv_skr_000605 common_voice_skr_33152927.mp3 جِہڑا گندے کسب کرے، اَتے اوندیاں خطائیں اوکوں ہر پاسوں ویڑھ گِھنن،
+cv_skr_000606 common_voice_skr_33152944.mp3 من٘گیاں تاں ٹن٘گیا، پرناں تاں پئے ڳیا مرناں
+cv_skr_000607 common_voice_skr_33152946.mp3 کھٹو آوے ݙردا ، من کھٹو آوے لڑدا
+cv_skr_000608 common_voice_skr_33152945.mp3 من٘گھر پوہ رادھی ، کیہیں من وِچ شادی
+cv_skr_000609 common_voice_skr_33152947.mp3 ٻڈھی بھیݙ چھوہراں دی کھیݙ
+cv_skr_000610 common_voice_skr_33152948.mp3 سچ سچ ءِے ، کوڑ کوڑ ءِے ، کوڑ دے مون٘ہہ ءِچ دھوڑ ءِے
+cv_skr_000611 common_voice_skr_33152961.mp3 شالا تتی واء نہ لڳی
+cv_skr_000612 common_voice_skr_33152959.mp3 اُٹھ تے چڑھدی لاکڑے من٘گدی
+cv_skr_000613 common_voice_skr_33152963.mp3 وݙا ٻول ناں ٻولو ، رب کنوں ݙرو
+cv_skr_000614 common_voice_skr_33152978.mp3 خدا چھپر پاڑ کے ݙین٘دے
+cv_skr_000615 common_voice_skr_33152988.mp3 میل جوئے پئے دا
+cv_skr_000616 common_voice_skr_33152989.mp3 کݙان٘ہیں ݙاݙے دی ، کݙان٘ہیں پوترے دی
+cv_skr_000617 common_voice_skr_33152991.mp3 بھر کھیسہ، کھا پتیسہ
+cv_skr_000618 common_voice_skr_33152977.mp3 اَتے اساں تُہاݙے اُتے بَدلاں دی چَھاں کِیتی رکھی،
+cv_skr_000619 common_voice_skr_33153000.mp3 ٻچڑے وݙیرے تے ݙُُکھ پریرے
+cv_skr_000620 common_voice_skr_33153002.mp3 مومن آں! ایہو بن٘د ولا پڑھیں
+cv_skr_000621 common_voice_skr_33153018.mp3 عورت مرد دے چولے دی جوں ہے
+cv_skr_000622 common_voice_skr_33153019.mp3 اوکھے ویلھے کم ناں آوے، اونویں ساݙا یار سݙاوے
+cv_skr_000623 common_voice_skr_33153021.mp3 ٻوتھی چِٻی مردے ویلھے تھیندی ہے یا سوال کرݨ ویلھے
+cv_skr_000624 common_voice_skr_33153084.mp3 زلفاں آلے ، چون٘ڈیاں وِچ نئیں پین٘دے
+cv_skr_000625 common_voice_skr_33153079.mp3 آکھے شادی تاں تیار ہے، بس ڳولݨی کنوار ہے
+cv_skr_000626 common_voice_skr_33153140.mp3 بے عیب ذات خدا دی
+cv_skr_000627 common_voice_skr_33153185.mp3 میݙی اُوں نعمت کُوں یاد کرو،
+cv_skr_000628 common_voice_skr_33153183.mp3 زن٘دگی دے پولے ، کئیں کوں ݙاڈھے کئیں کوں ہولے
+cv_skr_000629 common_voice_skr_33153186.mp3 اوتریاں کوں پتر ݙیندے
+cv_skr_000630 common_voice_skr_33153182.mp3 آپݨی کیتی ہر کئی چیسی
+cv_skr_000631 common_voice_skr_33235042.mp3 ݙان٘د دا ݙان٘د ہے
+cv_skr_000632 common_voice_skr_33235036.mp3 ہر اُوں شخص کوں آکھ ݙیو جِہڑا جو جبرئیل نال دُشمنی رکھیندے
+cv_skr_000633 common_voice_skr_33235202.mp3 ݙاڈھے دا ݙن ، ہر حال من
+cv_skr_000634 common_voice_skr_33235249.mp3 آدم کُوں آکھیس، جو اُنھاں کُوں انھاں شَئیں دے ناں ݙسا،
+cv_skr_000635 common_voice_skr_33235246.mp3 ٻس تُہاݙے وِچوں جِہڑے وِی اِیں طرح دے کم کرن،
+cv_skr_000636 common_voice_skr_33235256.mp3 شالا اَوکھ نہ آوی
+cv_skr_000637 common_voice_skr_33235251.mp3 ایندے ہتھاں وچ چھِن ہن
+cv_skr_000638 common_voice_skr_33235338.mp3 اُٹھ دے مونہہ ءِچ جیرا
+cv_skr_000639 common_voice_skr_33235339.mp3 ایندیاں اݨ ݙودھیاں چھِڑدن
+cv_skr_000640 common_voice_skr_33235341.mp3 اللہ سئیں آں! نُور پِیر دے ویلے کئیں بخت آلے دے متھے لان٘ویں
+cv_skr_000641 common_voice_skr_33149601.mp3 لڳی کار نئیں چھوڑین٘دی
+cv_skr_000642 common_voice_skr_33149599.mp3 اکبر جیہاں بادشاہ، بیلو جیہاں ڄٹ، ناں کئی ہویا پہلے ناں کوئی ہوسی وت
+cv_skr_000643 common_voice_skr_33149598.mp3 ناں وݙا لکھویرے دا ، ساہ ناں ٹکر ٹیرے دا
+cv_skr_000644 common_voice_skr_33149606.mp3 ݙیکھ ݙیکھ جین٘دے پن
+cv_skr_000645 common_voice_skr_33150025.mp3 چوڑھیاں دی شادی تے جان٘ڄیں کُتے
+cv_skr_000646 common_voice_skr_33150027.mp3 میݙا گھر پاݨی وِچ ہے ؟
+cv_skr_000647 common_voice_skr_33150028.mp3 اِیہو ہِکو عبادت دے لائق ہے، اَتے اَساں اُون٘دے فرمانبردار ہیں ۔
+cv_skr_000648 common_voice_skr_33150026.mp3 ایہ تاں او لوک ہِن جِنہاں ہدایت دے
+cv_skr_000649 common_voice_skr_33150057.mp3 منیوا ، میٹھا میوہ
+cv_skr_000650 common_voice_skr_33150058.mp3 تہاݙی دعا برکت نال
+cv_skr_000651 common_voice_skr_33150059.mp3 جو تُہاݙے اُتے تُہاݙے رَبّ دی طرفوں کوئی چن٘ڳائی نازل تھیوے
+cv_skr_000652 common_voice_skr_33150056.mp3 جیویں آکھیسیں ، اون٘ویں سݨسیں
+cv_skr_000653 common_voice_skr_33150070.mp3 ہک دا ݙیوݨا چن٘ڳاں ، در در ݙیوݨاں من٘دا
+cv_skr_000654 common_voice_skr_33150071.mp3 ݙیݨ دا گھر ، ٻالیں دے مِدان ءِچ
+cv_skr_000655 common_voice_skr_33150073.mp3 گھیو پیا تھال ، ناں مہݨاں ناں ڳالھ
+cv_skr_000656 common_voice_skr_33150077.mp3 لوکاں کوں لوکاں دی ، ٻوڑی کوں کناں دی
+cv_skr_000657 common_voice_skr_33150075.mp3 کماوے گلا ، کھاوے کلھا
+cv_skr_000658 common_voice_skr_33150089.mp3 نک ناں ناساں ، پلن٘گ تے کھاساں
+cv_skr_000659 common_voice_skr_33150090.mp3 نورجہاں لدھیاں لانّواں ، ڳلی کوچے عاماں گاماں
+cv_skr_000660 common_voice_skr_33150091.mp3 ۔
+cv_skr_000661 common_voice_skr_33150092.mp3 جوٹھ جوٹھ ہے، سچ سچ ہے
+cv_skr_000662 common_voice_skr_33150093.mp3 سئیں رکھے لڄ غریب لوکاں دی
+cv_skr_000663 common_voice_skr_33163334.mp3 تے نہ او مُونجھے ݙکّھے رَہسن ۔
+cv_skr_000664 common_voice_skr_33163335.mp3 سمجھݨ آلے کیتے اتھاں موت ہے
+cv_skr_000665 common_voice_skr_33163336.mp3 کجھ ݙتا اڳوں آڳئے
+cv_skr_000666 common_voice_skr_33163344.mp3 کھوہ دی مٹی کھوہ کوں پوری تھین٘دی ہے
+cv_skr_000667 common_voice_skr_33163345.mp3 گجدی گاجاں مارے ، چپاتی کم سن٘وارے
+cv_skr_000668 common_voice_skr_33163346.mp3 کھٹیا کھاوے ممانی ، سٹاں سہے ݙٹیل
+cv_skr_000669 common_voice_skr_33163348.mp3 مئی کوں ناں باپ کوں ، ول ول پکڑے آپ کوں
+cv_skr_000670 common_voice_skr_33163360.mp3 ڄمین٘دی ڳئی ہئی تے ناون٘ہہ ناں ݙین٘دی ڳئی ہئی
+cv_skr_000671 common_voice_skr_33163359.mp3 کرنی دا پھل ضرور ملدے
+cv_skr_000672 common_voice_skr_33163361.mp3 ذات پئی کھوہ وِچ ، روٹی پئی مون٘ہہ وِچ
+cv_skr_000673 common_voice_skr_33163362.mp3 پن پن کھاسوں ، ڈھول وڄیندے رہسوں
+cv_skr_000674 common_voice_skr_33163363.mp3 کھادا پیتا لڳا تھیا
+cv_skr_000675 common_voice_skr_33163396.mp3 سب کجھ آمدن نال ہے
+cv_skr_000676 common_voice_skr_33163375.mp3 جئیں چن٘ج ݙتی ہے او چوڳا وی ݙیسی
+cv_skr_000677 common_voice_skr_33163377.mp3 مراسیاں دی کتّی وی سُر نال بھون٘کدی ہے
+cv_skr_000678 common_voice_skr_33163378.mp3 اسبغول تے کجھ ناں پھول
+cv_skr_000679 common_voice_skr_33163395.mp3 اُلاریا ماریا برابر ہوندے
+cv_skr_000680 common_voice_skr_33163374.mp3 دیوانی ، دیوانہ کر ݙین٘دی ہے
+cv_skr_000681 common_voice_skr_33163376.mp3 اُچی دکان پھکا پکوان
+cv_skr_000682 common_voice_skr_33163394.mp3 ٻارہاں کوہ دریا، ستھݨ مونڈھے تے
+cv_skr_000683 common_voice_skr_33163397.mp3 نانوں ڳیا ملتان ، ناں انّوں نے ناں اُنّوں آن
+cv_skr_000684 common_voice_skr_33163398.mp3 انڈے کتھائیں، کُڑ کُڑ کتھائیں
+cv_skr_000685 common_voice_skr_33163405.mp3 اُوں مِین٘ہ وانگوں ہے جِیندے وِچ اندھارے ہووِن،
+cv_skr_000686 common_voice_skr_33163406.mp3 ویلھے دی نماز ، کویلے دیاں ٹکراں
+cv_skr_000687 common_voice_skr_33163407.mp3 سر آئی بھری ہر کئی چین٘دے
+cv_skr_000688 common_voice_skr_33163404.mp3 بھری چُنڈ ول ول بھریندی ہے
+cv_skr_000689 common_voice_skr_33163929.mp3 سان٘گے دی ٻکری تے کُسان٘گے دی مین٘ھ
+cv_skr_000690 common_voice_skr_33163931.mp3 اسحاق، یعقوب اُتے اوندے قبیلے یہودی یا عیسائی ہِن،
+cv_skr_000691 common_voice_skr_33163933.mp3 اے گھیو، او وسنݨ، ساݙا مفت دا ہے کھنݨ
+cv_skr_000692 common_voice_skr_33163932.mp3 بٹھ کھیڑیاں دے تُول وہاݨے، میکوں بھاندی رانجھݨ دی لوئی
+cv_skr_000693 common_voice_skr_33163955.mp3 واہ واہ نال ڈھڈھ نئیں بھرین٘دا
+cv_skr_000694 common_voice_skr_33163956.mp3 حرکت نال برکت ہے
+cv_skr_000695 common_voice_skr_33163957.mp3 پار نہ اُروار اَدھ اِچ گار
+cv_skr_000696 common_voice_skr_33163965.mp3 ٻہوں مکھݨ چُت تے کوئی نئیں تھپین٘دا
+cv_skr_000697 common_voice_skr_33163967.mp3 ران٘جھا سب دا سان٘جھا
+cv_skr_000698 common_voice_skr_33177497.mp3 مون٘ہہ ملّاں دا ، اکھیں چور دیاں
+cv_skr_000699 common_voice_skr_33177499.mp3 خربوزیاں دا رکھا گدڑ
+cv_skr_000700 common_voice_skr_33177500.mp3 اَتے اِیں طرح تُساں آپڑیں حق وِچ ظلم چا کِیتا ۔
+cv_skr_000701 common_voice_skr_33177501.mp3 ڈڈھ تاں کتا وی پلین٘دے
+cv_skr_000702 common_voice_skr_33177541.mp3 کرنی نیکی تے پچھݨ کیہاں
+cv_skr_000703 common_voice_skr_33177522.mp3 چُت بھیݙی ، مون٘ہہ ٻاکرا
+cv_skr_000704 common_voice_skr_33177526.mp3 کتا کتے دا ویری ہون٘دے
+cv_skr_000705 common_voice_skr_33177529.mp3 بندہ ڈڈھ دے پچھوں کوڑ کماندے
+cv_skr_000706 common_voice_skr_33177530.mp3 اَتے جَیں بندے آپڑیں ایمان کوں کفر نال بدل گِھدے،
+cv_skr_000707 common_voice_skr_33177537.mp3 روٹی مُکے ججمان دا قصور ، بھاڄی مُکے تاں مزمان دا قصور
+cv_skr_000708 common_voice_skr_33177539.mp3 وساخ ڄیٹھ وُٹھا ، ساوݨ بدراں مُٹھا
+cv_skr_000709 common_voice_skr_33177540.mp3 اڄ نال کل نئیں رلدی
+cv_skr_000710 common_voice_skr_33177553.mp3 ایمان دا ݙیوا ٻلدا راہوی
+cv_skr_000711 common_voice_skr_33177570.mp3 دیدار بازی ، رب راضی
+cv_skr_000712 common_voice_skr_33177573.mp3 دنیا کرن٘ت ، لہن٘ت دی کہاݨی ہے
+cv_skr_000713 common_voice_skr_33177571.mp3 شالا جھوکاں وسنیں
+cv_skr_000714 common_voice_skr_33177606.mp3 تقدیر نال زور نئیں
+cv_skr_000715 common_voice_skr_33177637.mp3 اُٹھ دا لاݙ، کچاوا ٹوٹے
+cv_skr_000716 common_voice_skr_33177635.mp3 جو اِیمان گِھن آندن اُون٘دے اُتے جِہڑا کُجھ تیݙے اُتے نازل تھئے،
+cv_skr_000717 common_voice_skr_33177651.mp3 اکھیں د ان٘دھا تے ناں نورݨ
+cv_skr_000718 common_voice_skr_33177652.mp3 ݙاڈھے کوں ڈھن٘گا کون گھتے
+cv_skr_000719 common_voice_skr_33177654.mp3 ان٘جو ان٘ج تھیا تاں ڳلیا، ہک تھیا تاں بچا
+cv_skr_000720 common_voice_skr_33177684.mp3 کھاوݨ ساکھڑا ، پچاوݨ ݙاکھڑا
+cv_skr_000721 common_voice_skr_33177687.mp3 توکل دے ٻیڑے پاڑ
+cv_skr_000722 common_voice_skr_33177688.mp3 ایندے گھر خیر ہے
+cv_skr_000723 common_voice_skr_33242581.mp3 عزت وݙی شئے ہے
+cv_skr_000724 common_voice_skr_33242583.mp3 کئیں ݙتو ناں مت ، ریہوں جت دا جت
+cv_skr_000725 common_voice_skr_33242588.mp3 بھیݙ دا بھݙورا، ٹکا پورے دا پورا
+cv_skr_000726 common_voice_skr_33242595.mp3 لڑن فوجاں ناں سردار دا
+cv_skr_000727 common_voice_skr_33242597.mp3 رن دا یار وی اوہو تے پیکیں پچاوݨ آلا وی اوہو
+cv_skr_000728 common_voice_skr_33242598.mp3 چرݨ تے دِل نئیں، آکھے مکوڑے لتاں مرین٘دن
+cv_skr_000729 common_voice_skr_33242596.mp3 شیشے وِچ مُون٘ہ تاں ݙیکھ
+cv_skr_000730 common_voice_skr_33279945.mp3 بھاء تے پاݨی دے ہتھ پیر نئیں ہوندے
+cv_skr_000731 common_voice_skr_33279946.mp3 آپݨا مریسی چھاں تے سٹیسی، پرایا مریسی دُھپ ءِچ پیسی
+cv_skr_000732 common_voice_skr_33279960.mp3 باچھا بھولوں، وزیر نولوں، رعیت کوں کتھاں ڳولوں
+cv_skr_000733 common_voice_skr_33288933.mp3 اندھے کاݨے دی ہک رڳ وادھو ہوندی ہے
+cv_skr_000734 common_voice_skr_33288934.mp3 آپݨے ڄئے آپ پالو
+cv_skr_000735 common_voice_skr_33288942.mp3 نکا نکا کم تے اُڄڑ ڳئی رن
+cv_skr_000736 common_voice_skr_33288940.mp3 بندے دی دوا بندہ ہِے
+cv_skr_000737 common_voice_skr_33288984.mp3 پھلیلی دی ہٹی لٹ آئے
+cv_skr_000738 common_voice_skr_33288985.mp3 جنہاں ڄمائن ، اُنہاں بارے چائن
+cv_skr_000739 common_voice_skr_33288991.mp3 آپݨی شئے تکڑی تے کِہیں کہیں تے پھکڑی
+cv_skr_000740 common_voice_skr_33289062.mp3 جین٘دی لڳی ناں ویائی ، او کیا ڄاݨے پیڑ پرائی
+cv_skr_000741 common_voice_skr_33289063.mp3 ݙو ذالیں دا ونرا ، جیویں ݙو کتیں وچ سوّر
+cv_skr_000742 common_voice_skr_33289064.mp3 پئے نئیں گھر، بی بی کوں کیندا ݙر
+cv_skr_000743 common_voice_skr_33289070.mp3 ناں وہائی ، ناں ڳہائی ، اللہ نیں بݨائی
+cv_skr_000744 common_voice_skr_33289076.mp3 ڄٹ دا ہاسا ، بھنے پاسا
+cv_skr_000745 common_voice_skr_33289167.mp3 سن٘ڄیں پیر ، اوترے خلیفے
+cv_skr_000746 common_voice_skr_33289191.mp3 بن٘دیں دے بھنݨ نال کاٹھ وی بھڄ پون٘دن
+cv_skr_000747 common_voice_skr_33289189.mp3 لہا گھن جتّی تے پکڑن٘س کھتّی
+cv_skr_000748 common_voice_skr_33289192.mp3 راجیاں دا گھر تے موتیاں دا کال
+cv_skr_000749 common_voice_skr_33289188.mp3 گن٘گے دے اشارے گن٘گے دی ماء سمجھدی ہے
+cv_skr_000750 common_voice_skr_33289203.mp3 بابو ݙاڈھے اماں تے
+cv_skr_000751 common_voice_skr_33289204.mp3 تاں اُوکوں بدلا ݙیندا ہَا، اَتے او اِیں ڳالھ کوں سَمجھدا وِی ہا ۔
+cv_skr_000752 common_voice_skr_33289205.mp3 ادھار چاوݨ سوکھا ہے، لہاوݨ اوکھا ہے
+cv_skr_000753 common_voice_skr_33289206.mp3 مٹھا مٹھا ہپ ہپ ، کوڑا کوڑا تھو تھو
+cv_skr_000754 common_voice_skr_33289224.mp3 ٹھڈھا لوہا تتے کوں کپیندے
+cv_skr_000755 common_voice_skr_33289225.mp3 ایہ لوک بہشتی ہِن، او ایندے وِچ ہمیشہ ہمیشہ خوش رہسن ۔
+cv_skr_000756 common_voice_skr_33289226.mp3 مرداں وچوں ہے ناں رناں وچوں
+cv_skr_000757 common_voice_skr_33289227.mp3 چٹے کپڑے کھیسے خالی
+cv_skr_000758 common_voice_skr_33289248.mp3 مون٘ہہ تے مُچھاں ، اڄاں ٻال ءِ ، اون٘ویں کھلیاں دا کال ءِ
+cv_skr_000759 common_voice_skr_33289249.mp3 ݙن٘د دی تیلی نسی چھوڑی
+cv_skr_000760 common_voice_skr_33289250.mp3 سارے ڳڑ دیاں ڳلٹیاں ہن
+cv_skr_000761 common_voice_skr_33289252.mp3 چڑھݨا درخت تے ، تے ݙیکھݨیاں پوڑیاں
+cv_skr_000762 common_voice_skr_33289285.mp3 قصائی دا ٻچہ ، کݙان٘ہیں ناں سچا
+cv_skr_000763 common_voice_skr_33289292.mp3 اساں چیمے چٹھے، کھاوݨا ان٘جو ان٘ج، لٹݨ کوں ہیں کٹھے
+cv_skr_000764 common_voice_skr_33289293.mp3 آپݨی اوہا، جیڑھی آپݨے کول
+cv_skr_000765 common_voice_skr_33289339.mp3 پڑوپی دیاں تن، جیڑھی مرضی آوی گھن
+cv_skr_000766 common_voice_skr_33289340.mp3 اینویں نکلئی روݙا، جیویں سوٓڑ وچوں گوݙا
+cv_skr_000767 common_voice_skr_33289341.mp3 آکھے بندہ، سݨے خدا
+cv_skr_000768 common_voice_skr_33289342.mp3 ٻس تُساں وِی مَردے ویلے تَئیں ضرور مسلمان تِھیئے رِہائے ۔
+cv_skr_000769 common_voice_skr_33289338.mp3 گرمی کوں گرمی مرین٘دی ہے
+cv_skr_000770 common_voice_skr_33289438.mp3 اللہ ایہ پاڑے مِلاوے
+cv_skr_000771 common_voice_skr_33289418.mp3 چوڑ چپٹ دی پُٹھی مت
+cv_skr_000772 common_voice_skr_33289722.mp3 ماء رووے دھی کیتے ، دھی رووے یار کیتے
+cv_skr_000773 common_voice_skr_33289720.mp3 اُنھاں کِیتے نہ کوئی ݙر ݙُکل ہوسی، تے نہ او مُونجھے ݙُکھے تِھیسِن ۔
+cv_skr_000774 common_voice_skr_33289724.mp3 موت بن٘دے دی راکھی ہے
+cv_skr_000775 common_voice_skr_33289727.mp3 ٻݙدے کوں ککھ دا آسرا
+cv_skr_000776 common_voice_skr_33289729.mp3 آئی ہاں میں تاں تیݙے ساہ، توں کیوں ویندیں کنڈ ولا
+cv_skr_000777 common_voice_skr_33374147.mp3 سئیں پٹھے ملتان ، ٻیلی ون٘ڄے خراسان
+cv_skr_000778 common_voice_skr_33374148.mp3 رب ݙیندا نہ تھکّی
+cv_skr_000779 common_voice_skr_33374151.mp3 سئیں ون٘ڄن ٻیڑی چڑھ کے ، گواہ غوطے کھان٘دے
+cv_skr_000780 common_voice_skr_33374150.mp3 آپݨی واری ترائے ویہاں سو
+cv_skr_000781 common_voice_skr_33374221.mp3 چُپ دا اجر رب ݙیسی
+cv_skr_000782 common_voice_skr_33374223.mp3 اللہ لوڑ دی تھوڑ نہ ݙیوی
+cv_skr_000783 common_voice_skr_33374222.mp3 ول ، تاں کل
+cv_skr_000784 common_voice_skr_33374383.mp3 بندہ ہیں یا جِن
+cv_skr_000785 common_voice_skr_33374384.mp3 بھمݨ بھوں، اندھاریاں راتیں
+cv_skr_000786 common_voice_skr_33374380.mp3 من٘گھر پوہ ، ہک کھا تے ٻیا جھوہ
+cv_skr_000787 common_voice_skr_33374402.mp3 آپ پلیاݨی نفر لن٘گاہ۔ آپ پاولی تے نوکر سید
+cv_skr_000788 common_voice_skr_33374403.mp3 جَو ساوے، کئی ناں آوے، جَو پکے، آڳئے سکے
+cv_skr_000789 common_voice_skr_33374404.mp3 چن٘ڳے بن٘دے دی خوشبو پرے تئیں پُڄ وین٘دی ہے
+cv_skr_000790 common_voice_skr_33374432.mp3 جِہڑے جو اللہ تے قیامت دے ݙین٘ہ اُتے ایمان رکھیندے ہووِن،
+cv_skr_000791 common_voice_skr_33374442.mp3 جے لوڑھا رڑھ کوں چرے تاں ڄٹ کتھوں ساوا
+cv_skr_000792 common_voice_skr_33374435.mp3 آن پووی سر آپݨے، چھوڑ پرائی آس
+cv_skr_000793 common_voice_skr_33374431.mp3 چیتر وُٹھا ، ساوݨ مُٹھا
+cv_skr_000794 common_voice_skr_33374451.mp3 سروں لتھی لوئی ، تے کیا کریسی کوئی
+cv_skr_000795 common_voice_skr_33374452.mp3 اُمید ہووے تے ارتھ نہ پووے
+cv_skr_000796 common_voice_skr_33374453.mp3 اکبر جھیاں بادشاہ ٻیلو جھیاں ڄٹ نہ کوئی ہویا پہلے نہ کوئی ہوسی وت
+cv_skr_000797 common_voice_skr_33374454.mp3 ان٘در ٻیٹھی لکھ دی ٻاہر نکھتی ککھ دی
+cv_skr_000798 common_voice_skr_33374444.mp3 میݨ دا ہیں جو پگھر ویسیں
+cv_skr_000799 common_voice_skr_33374445.mp3 آپݨا کم سدھا ہے
+cv_skr_000800 common_voice_skr_33374500.mp3 ملکاݨی دی ٻانھی ، ݙڈھ ملکاݨی
+cv_skr_000801 common_voice_skr_33374501.mp3 حرام حرامی کوں پچدے

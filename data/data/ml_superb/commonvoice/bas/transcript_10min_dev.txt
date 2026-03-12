@@ -1,0 +1,145 @@
+cv_bas_000827 common_voice_bas_26567688.mp3 Litéñék li ñkôô kembe.
+cv_bas_000828 common_voice_bas_26567689.mp3 Manyuñ nyen a yé ntap hana i Nyaônde.
+cv_bas_000829 common_voice_bas_26567690.mp3 Kapinda a ñkan hibabam.
+cv_bas_000830 common_voice_bas_26567691.mp3 Me ñgwés bé me bikay eglege wee ndôle.
+cv_bas_000831 common_voice_bas_26567692.mp3 Hép puum.
+cv_bas_000832 common_voice_bas_26567693.mp3 Liôm ndap.
+cv_bas_000833 common_voice_bas_26567694.mp3 Pam i tan.
+cv_bas_000834 common_voice_bas_26567706.mp3 Njip ii.
+cv_bas_000835 common_voice_bas_26567707.mp3 Ñwaghe u mbugi.
+cv_bas_000836 common_voice_bas_26567708.mp3 Woñi u ñubha me ñgwéé.
+cv_bas_000837 common_voice_bas_26567710.mp3 A nhéndne me kôô.
+cv_bas_000838 common_voice_bas_26567711.mp3 Njôô maok.
+cv_bas_000839 common_voice_bas_26567713.mp3 A mmôdi man hana isi.
+cv_bas_000840 common_voice_bas_26567714.mp3 A ñgwande me hana libôk lini!.
+cv_bas_000841 common_voice_bas_26567715.mp3 Kii i ntagbe?
+cv_bas_000842 common_voice_bas_26567716.mp3 Pugul dikala ni wédé.
+cv_bas_000843 common_voice_bas_26567717.mp3 Ni nunu nlôñga a nyôñôl lida ibaa.
+cv_bas_000844 common_voice_bas_26567718.mp3 Man bakô a nnyoy.
+cv_bas_000845 common_voice_bas_26567720.mp3 Kundus ndamba bijek.
+cv_bas_000846 common_voice_bas_26567721.mp3 Mbara likondo.
+cv_bas_000847 common_voice_bas_26567722.mp3 U biyééna nunu mudaa!
+cv_bas_000848 common_voice_bas_26567723.mp3 A mpôdôs bon béé.
+cv_bas_000849 common_voice_bas_26567730.mp3 Ke bigibigi.
+cv_bas_000850 common_voice_bas_26567731.mp3 Môñgô u ntegep i malép.
+cv_bas_000851 common_voice_bas_26567732.mp3 Lélép i njôp nye i jis.
+cv_bas_000852 common_voice_bas_26567733.mp3 Lipehel joñ li ta bé li kék.
+cv_bas_000853 common_voice_bas_26632835.mp3 Njee a ntondi pagi hana libôk?
+cv_bas_000854 common_voice_bas_26632836.mp3 Malét suglu a nnay ni ndôm.
+cv_bas_000855 common_voice_bas_26632837.mp3 A ñumus me ndondok.
+cv_bas_000856 common_voice_bas_26632838.mp3 Nje mut a nsane hiwiye?
+cv_bas_000857 common_voice_bas_26632859.mp3 Ba nyadle nye mbegee.
+cv_bas_000858 common_voice_bas_26632860.mp3 Mañge a ñkahal kañal nsas.
+cv_bas_000859 common_voice_bas_26632861.mp3 Légél mut mis.
+cv_bas_000860 common_voice_bas_26632862.mp3 Bôt bahogi ba ñkon miñkugi woñi.
+cv_bas_000861 common_voice_bas_26632869.mp3 Mut libôla.
+cv_bas_000862 common_voice_bas_26632870.mp3 Diléla di nlôl hee?
+cv_bas_000863 common_voice_bas_26632871.mp3 Kéñél me makala munu hikômbôl hini.
+cv_bas_000864 common_voice_bas_26632872.mp3 Hikogdo hi ntamba nye gwom bi mbôô.
+cv_bas_000865 common_voice_bas_26632873.mp3 Minlôñ mi nténda.
+cv_bas_000866 common_voice_bas_26632884.mp3 Añ e, ndi u kek yo ñgumul.
+cv_bas_000867 common_voice_bas_26632885.mp3 Liñgwañ jon li nyédbaha we.
+cv_bas_000868 common_voice_bas_26632886.mp3 Me mbahla ni nson matila.
+cv_bas_000869 common_voice_bas_26632887.mp3 A gwéé mben jôl i tidigi.
+cv_bas_000870 common_voice_bas_26632889.mp3 Bogna mis.
+cv_bas_000871 common_voice_bas_26632890.mp3 Nsiñga njel.
+cv_bas_000872 common_voice_bas_26632891.mp3 U ñgwélés mintômba ñgandak.
+cv_bas_000873 common_voice_bas_26632892.mp3 Me ñuu we mudga.
+cv_bas_000874 common_voice_bas_26632893.mp3 A mbet i mbenda, a yogop.
+cv_bas_000875 common_voice_bas_26632894.mp3 Kristô ntohol a ñgwééne bés len!
+cv_bas_000876 common_voice_bas_26632895.mp3 Éña i kwade.
+cv_bas_000877 common_voice_bas_26632896.mp3 Mut a ñamde ni hop.
+cv_bas_000878 common_voice_bas_26632897.mp3 A mbahba yaga bikada le a ñke bé?
+cv_bas_000879 common_voice_bas_26632907.mp3 Ñgomén a gwéé méé mambén.
+cv_bas_000880 common_voice_bas_26632910.mp3 A mbuñgne me biboboñ bi nje hiônde.
+cv_bas_000881 common_voice_bas_26632911.mp3 Mut a mbahla hyañgaa.
+cv_bas_000882 common_voice_bas_26632912.mp3 Kit hop.
+cv_bas_000883 common_voice_bas_26632913.mp3 Miñkôt mi tjay mi ñwagha.
+cv_bas_000884 common_voice_bas_26632923.mp3 Hiléléba hi yé mu ñkoñ wem.
+cv_bas_000885 common_voice_bas_26632925.mp3 A ntjédél me hyéé.
+cv_bas_000886 common_voice_bas_26632926.mp3 Njôñ i yé béba lem.
+cv_bas_000887 common_voice_bas_26632927.mp3 Me nniñne man i kaga.
+cv_bas_000888 common_voice_bas_26632928.mp3 Njee a nhuñbe?
+cv_bas_000889 common_voice_bas_26632944.mp3 I mut nuu a ñgi yii nsuda.
+cv_bas_000890 common_voice_bas_26632947.mp3 Boñge ba nhônda ni mbédgé.
+cv_bas_000891 common_voice_bas_26632948.mp3 U nhubus ñkôô kii u ñkit wo.
+cv_bas_000892 common_voice_bas_26632969.mp3 Bon bana ba bigwééha hilo hyada.
+cv_bas_000893 common_voice_bas_26632971.mp3 Lién joñ li ñkandap ni!
+cv_bas_000894 common_voice_bas_26632973.mp3 Môlôl ma ntoy libadô.
+cv_bas_000895 common_voice_bas_26632975.mp3 Mbôô i sae i bédi ntjep u e.
+cv_bas_000896 common_voice_bas_26632989.mp3 Kel i ñkandi.
+cv_bas_000897 common_voice_bas_26632990.mp3 Éde me ndék jam mu i ñgii!
+cv_bas_000898 common_voice_bas_26632996.mp3 Me nyimbne nye lisaha jé.
+cv_bas_000899 common_voice_bas_26632997.mp3 Ta a nsidil simet ndap.
+cv_bas_000900 common_voice_bas_26632998.mp3 Kôy i nhébla.
+cv_bas_000901 common_voice_bas_26073426.mp3 Me ñédél ñwaa wem mbot.
+cv_bas_000902 common_voice_bas_26073427.mp3 Hisañgi hi ñgond.
+cv_bas_000903 common_voice_bas_26073428.mp3 Mbot i mbambla.
+cv_bas_000904 common_voice_bas_26073429.mp3 U boñ bañ tôgôl.
+cv_bas_000905 common_voice_bas_26073430.mp3 Ñwel u hyéé hi nyoo u léli ñgéda yoso.
+cv_bas_000906 common_voice_bas_26073458.mp3 Banjibo a nlet.
+cv_bas_000907 common_voice_bas_26073459.mp3 Tehe le libudge jap li dibee.
+cv_bas_000908 common_voice_bas_26073460.mp3 Di bak i pémsan nyogi, me bum nye.
+cv_bas_000909 common_voice_bas_26073461.mp3 Me nyegel sa wem.
+cv_bas_000910 common_voice_bas_26073462.mp3 Ndudu yem i kôli béé ni mut mpe.
+cv_bas_000911 common_voice_bas_26073482.mp3 Me ñkañ matos ma ñkônô u.
+cv_bas_000912 common_voice_bas_26073483.mp3 Libehna li ta bé munu lép unu.
+cv_bas_000913 common_voice_bas_26073484.mp3 Yééne i miñoñ; yééne ane.
+cv_bas_000914 common_voice_bas_26073485.mp3 Me nsomb bitamb.
+cv_bas_000915 common_voice_bas_26073496.mp3 Me gwéé bôdôl ni Ñwet wem.
+cv_bas_000916 common_voice_bas_26073497.mp3 Jéan Bikôgôô a ñkôt hisigô!
+cv_bas_000917 common_voice_bas_26073498.mp3 Ba nhéhha tjandi hi ñgéda.
+cv_bas_000918 common_voice_bas_26073499.mp3 Di yé bayogga.
+cv_bas_000919 common_voice_bas_26073500.mp3 Matjee ma kôp ma mpôbôs nye.
+cv_bas_000920 common_voice_bas_26073511.mp3 E i nyandi.
+cv_bas_000921 common_voice_bas_26073512.mp3 Me mbem liwanda jem.
+cv_bas_000922 common_voice_bas_26073513.mp3 Suñ nyaga, suñ bas.
+cv_bas_000923 common_voice_bas_26073514.mp3 Legel pôndi malép.
+cv_bas_000924 common_voice_bas_26073515.mp3 Ndap yem i yé ni bibende.
+cv_bas_000925 common_voice_bas_26073520.mp3 Me ñke i put i yéñ bijek.
+cv_bas_000926 common_voice_bas_26073521.mp3 Sédi pan me bada hiônde!
+cv_bas_000927 common_voice_bas_26073522.mp3 Bokibodbum ba ntôl ha bé.
+cv_bas_000928 common_voice_bas_26073523.mp3 A ñkon i tôl.
+cv_bas_000929 common_voice_bas_26073524.mp3 Dokta a mbéélaha me mis.
+cv_bas_000930 common_voice_bas_26160185.mp3 Mut mindañ nunu!
+cv_bas_000931 common_voice_bas_26160186.mp3 Me mbédne séya malép i ñgii téblé.
+cv_bas_000932 common_voice_bas_26160187.mp3 Linolok jéé li binuga.
+cv_bas_000933 common_voice_bas_26160188.mp3 Kii ba ñgwel nye i wip, a lôndôl nyañ.
+cv_bas_000934 common_voice_bas_26160189.mp3 U ntonda nunu mañge mudaa.
+cv_bas_000935 common_voice_bas_26160190.mp3 A mboñ jeñgeñgi.
+cv_bas_000936 common_voice_bas_26160191.mp3 Ti me tawédé.
+cv_bas_000937 common_voice_bas_26160192.mp3 Kii u nnoñ me kihkis hala?
+cv_bas_000938 common_voice_bas_26160193.mp3 Mudaa a mbohba libii.
+cv_bas_000939 common_voice_bas_26160194.mp3 Man sônda a nhem hiséba.
+cv_bas_000940 common_voice_bas_26160195.mp3 Pééha i nnay hana ini mbay!
+cv_bas_000941 common_voice_bas_26160196.mp3 A ñkéñél me jomb li bisiñgli.
+cv_bas_000942 common_voice_bas_26160197.mp3 Mbot i nnumb nye lipuduk.
+cv_bas_000943 common_voice_bas_26160198.mp3 Mudaa a ék ndap libii.
+cv_bas_000944 common_voice_bas_26160199.mp3 Hônd miñañ minlam.
+cv_bas_000945 common_voice_bas_26160200.mp3 Nlôñ u hyémbi.
+cv_bas_000946 common_voice_bas_26160201.mp3 Lañ mbit ni makégse.
+cv_bas_000947 common_voice_bas_26160202.mp3 Tjaha di nyik di ññôm me.
+cv_bas_000948 common_voice_bas_26160203.mp3 Wéhél i mapep.
+cv_bas_000949 common_voice_bas_26160204.mp3 Me nsébla mu i dina li.
+cv_bas_000950 common_voice_bas_26160205.mp3 Hikok hi nhéya ni kwade a nhoo.
+cv_bas_000951 common_voice_bas_26160206.mp3 Kômnyoo i bé noñok mudaa.
+cv_bas_000952 common_voice_bas_26160207.mp3 Me mmal bahbas.
+cv_bas_000953 common_voice_bas_26160208.mp3 Mawanda ma mbigdana.
+cv_bas_000954 common_voice_bas_26160209.mp3 Mañge a nyuñguu manyañ.
+cv_bas_000955 common_voice_bas_26160215.mp3 Ndamb yem i nnyambi.
+cv_bas_000956 common_voice_bas_26160216.mp3 Sét ô, emble kiñ Hilôlômb.
+cv_bas_000957 common_voice_bas_26160217.mp3 Me mbôdlene maé i ñwel wom.
+cv_bas_000958 common_voice_bas_26160218.mp3 Mut a nti ndak le ba yibi tuñ yé ndap.
+cv_bas_000959 common_voice_bas_26160219.mp3 Bakéña a nsulul me.
+cv_bas_000960 common_voice_bas_26160220.mp3 Bahba hibay.
+cv_bas_000961 common_voice_bas_26160221.mp3 Bibabi bi mbabla.
+cv_bas_000962 common_voice_bas_26160222.mp3 Moo u yé me ikédé wom.
+cv_bas_000963 common_voice_bas_26160223.mp3 Me ñgwés nigil minsoñgi.
+cv_bas_000964 common_voice_bas_26160224.mp3 Bitôdô bi nundne i juu he i wéñél bé.
+cv_bas_000965 common_voice_bas_26160225.mp3 A nlôñhe me bitamb bi wom.
+cv_bas_000966 common_voice_bas_26160226.mp3 Kiñ yéé i me nnok.
+cv_bas_000967 common_voice_bas_26160227.mp3 A gwéé nyôs ibaa.
+cv_bas_000968 common_voice_bas_26160228.mp3 Me nlahma lañ.
+cv_bas_000969 common_voice_bas_26160229.mp3 Bibéba gwéé bi mpéhla.
+cv_bas_000970 common_voice_bas_26160230.mp3 Ba mbañ bikaga, miñkuu, makôga.
+cv_bas_000971 common_voice_bas_26160231.mp3 Likoñga li koo li nlék i wom.

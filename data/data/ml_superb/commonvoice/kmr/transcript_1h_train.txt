@@ -1,0 +1,723 @@
+cv_kmr_000000 common_voice_kmr_34836756.mp3 Ev name ji min re hatiye.
+cv_kmr_000001 common_voice_kmr_34838308.mp3 Ez dilşikestî me.
+cv_kmr_000002 common_voice_kmr_24876542.mp3 Gîskê pîrê tenê xelas dibe û sax dimîne
+cv_kmr_000003 common_voice_kmr_34830901.mp3 Ew çi gû ye dipeyive?
+cv_kmr_000004 common_voice_kmr_34911625.mp3 Diranê min diêşe.
+cv_kmr_000005 common_voice_kmr_34809600.mp3 Ez movika hestiyên xwe difirkînim.
+cv_kmr_000006 common_voice_kmr_34912414.mp3 Ez amade me.
+cv_kmr_000007 common_voice_kmr_34818670.mp3 Tom ti carî nahêle ez biserkevim.
+cv_kmr_000008 common_voice_kmr_34817835.mp3 We dilê wê şikand.
+cv_kmr_000009 common_voice_kmr_34402680.mp3 Sînorê Kanadayê li ku derê ye?
+cv_kmr_000010 common_voice_kmr_34818084.mp3 Min babet fêm nekir.
+cv_kmr_000011 common_voice_kmr_34819155.mp3 Ka em bala xwe bidin ser armancên xwe.
+cv_kmr_000012 common_voice_kmr_24855766.mp3 zarokên me tew nizanin
+cv_kmr_000013 common_voice_kmr_33517034.mp3 weka quşxaneya bi qelî.
+cv_kmr_000014 common_voice_kmr_28264829.mp3 Ango zimanê wan ê jiyanê, vediguhere zimanekî din
+cv_kmr_000015 common_voice_kmr_34922621.mp3 Neçe.
+cv_kmr_000016 common_voice_kmr_24840974.mp3 jî derbas dibû
+cv_kmr_000017 common_voice_kmr_34912627.mp3 Min ciyekî vala dît.
+cv_kmr_000018 common_voice_kmr_29996342.mp3 Tiliyên xwe nexin devê xwe û neynûkên xwe nexwin.
+cv_kmr_000019 common_voice_kmr_34912393.mp3 Navê min Gulbihar e.
+cv_kmr_000020 common_voice_kmr_34837377.mp3 Ew xemgîn e.
+cv_kmr_000021 common_voice_kmr_34816485.mp3 Çavên xwe carek din bigire.
+cv_kmr_000022 common_voice_kmr_34817947.mp3 Tom ji min re qala sedsala bîstem kir.
+cv_kmr_000023 common_voice_kmr_34817931.mp3 Jixwe me ew stran gotiye.
+cv_kmr_000024 common_voice_kmr_34816895.mp3 Ji ber ku yekşem bû dikan girtî bû.
+cv_kmr_000025 common_voice_kmr_34821552.mp3 Baş bû ku tu jî hat kar!
+cv_kmr_000026 common_voice_kmr_24858803.mp3 Emaneta Rebbê min bike
+cv_kmr_000027 common_voice_kmr_34857574.mp3 Em razî ne.
+cv_kmr_000028 common_voice_kmr_34818773.mp3 Navê parêzerê te çi ye?
+cv_kmr_000029 common_voice_kmr_34818771.mp3 Vejena dendikî xeternak e.
+cv_kmr_000030 common_voice_kmr_24842716.mp3 Elok ji mirîşkan mezintir in.
+cv_kmr_000031 common_voice_kmr_24842717.mp3 Dinya bi dor e
+cv_kmr_000032 common_voice_kmr_34816080.mp3 Ji kerema xwe lîstika xwe berdewam bikin.
+cv_kmr_000033 common_voice_kmr_34816173.mp3 Tu xwendekarekî japon î?
+cv_kmr_000034 common_voice_kmr_34862863.mp3 Tom ew ê sibê hindilkê bilîze.
+cv_kmr_000035 common_voice_kmr_34862858.mp3 Ev hirçekî gewr e.
+cv_kmr_000036 common_voice_kmr_34889698.mp3 Çermê wê nerm e.
+cv_kmr_000037 common_voice_kmr_34889701.mp3 Tom ji Maryê re taştê amade kir.
+cv_kmr_000038 common_voice_kmr_34778763.mp3 Tenê tiştekî ku tu nizanî pênc wextên nimêjê ye.
+cv_kmr_000039 common_voice_kmr_34778765.mp3 Ew biçûk e lê jîr e.
+cv_kmr_000040 common_voice_kmr_32104239.mp3 Mirîşka me ye diçe di pîna xelkê de hêkan dike.
+cv_kmr_000041 common_voice_kmr_32104240.mp3 Li min ne dost û ne biran e
+cv_kmr_000042 common_voice_kmr_24924520.mp3 Mi ji te re got sed carî.
+cv_kmr_000043 common_voice_kmr_24924521.mp3 Encamên avêtina gelaşê li kolan û nav avê, çi ye?
+cv_kmr_000044 common_voice_kmr_24846423.mp3 Fîlmên min li hemû deverên cîhanê dihatin nîşandan.
+cv_kmr_000045 common_voice_kmr_24846424.mp3 Nîzeka neh sale kû çê dikim.
+cv_kmr_000046 common_voice_kmr_30069732.mp3 Cotkar kengî erdê cot dikin?
+cv_kmr_000047 common_voice_kmr_30069734.mp3 henekan dikin
+cv_kmr_000048 common_voice_kmr_34891161.mp3 Berlîn paytexta Almanyayê ye.
+cv_kmr_000049 common_voice_kmr_34891153.mp3 Ti tişt li binê kursiyê tune ye.
+cv_kmr_000050 common_voice_kmr_34822458.mp3 Egzersiz tendirustiyê baştir dike.
+cv_kmr_000051 common_voice_kmr_34822461.mp3 Bala xwe bide min, ji kerema xwe.
+cv_kmr_000052 common_voice_kmr_34913166.mp3 Min tenê xwest werim malê.
+cv_kmr_000053 common_voice_kmr_34913171.mp3 Tu amade yî?
+cv_kmr_000054 common_voice_kmr_34913686.mp3 Ez wan baş nas dikim.
+cv_kmr_000055 common_voice_kmr_34913683.mp3 Ew birçî bûye îro.
+cv_kmr_000056 common_voice_kmr_25534144.mp3 Ker û kurî li hev zûrî.
+cv_kmr_000057 common_voice_kmr_25534145.mp3 Ez du salî me.
+cv_kmr_000058 common_voice_kmr_34815193.mp3 Ez ne serokê vî welatî me.
+cv_kmr_000059 common_voice_kmr_34815194.mp3 Navê min Ferşad e.
+cv_kmr_000060 common_voice_kmr_34857251.mp3 Baran li gundê me dibare.
+cv_kmr_000061 common_voice_kmr_34865992.mp3 Birayê min îro çû welêt.
+cv_kmr_000062 common_voice_kmr_34059451.mp3 Ew ê sibê biçe Tokyoyê.
+cv_kmr_000063 common_voice_kmr_34059455.mp3 Navê min Şevîn e.
+cv_kmr_000064 common_voice_kmr_24891095.mp3 Wê di mal de weka dûpişk be.
+cv_kmr_000065 common_voice_kmr_24891101.mp3 Min tu dîtî
+cv_kmr_000066 common_voice_kmr_26720894.mp3 Vîzeya we heye?
+cv_kmr_000067 common_voice_kmr_26720895.mp3 Navê vê li herêma we çi ye?
+cv_kmr_000068 common_voice_kmr_34841519.mp3 Ez ji vî bajarokî hez dikim.
+cv_kmr_000069 common_voice_kmr_34841692.mp3 Gerek e tu vî dermanî bibî.
+cv_kmr_000070 common_voice_kmr_34815124.mp3 Tu hîn gelekî ciwan î.
+cv_kmr_000071 common_voice_kmr_34815125.mp3 Tomî ji min re got ku ew ê venegere Bostonê.
+cv_kmr_000072 common_voice_kmr_33759181.mp3 Ez naxebitim.
+cv_kmr_000073 common_voice_kmr_33759182.mp3 Çi amûrên teknîkî di mala we de hene?
+cv_kmr_000074 common_voice_kmr_24846221.mp3 Tirseka hê pirtir bi pêlavker girt.
+cv_kmr_000075 common_voice_kmr_24846222.mp3 Em rûdinin
+cv_kmr_000076 common_voice_kmr_24846223.mp3 pîrê nemre pincar tê.
+cv_kmr_000077 common_voice_kmr_34818899.mp3 Ew ji erebeya xwe ya nû razî ye.
+cv_kmr_000078 common_voice_kmr_34818900.mp3 Tu yê kengî telefonî min bikî?
+cv_kmr_000079 common_voice_kmr_34818958.mp3 Ez fransî fêrî waneyan dibim.
+cv_kmr_000080 common_voice_kmr_24843134.mp3 Ew naçe gund
+cv_kmr_000081 common_voice_kmr_24843136.mp3 Ev pirsgirêk gelek caran derdikeve holê.
+cv_kmr_000082 common_voice_kmr_24843138.mp3 wexta li mal dimam min digot.
+cv_kmr_000083 common_voice_kmr_24957871.mp3 Ez baş im, tu çawa yî?
+cv_kmr_000084 common_voice_kmr_24957873.mp3 Kengî berf û baran dibare?
+cv_kmr_000085 common_voice_kmr_24957874.mp3 Wexta ku ez zarok bûm şevên me pir caran bê çîrçîrok derbas nedibûn
+cv_kmr_000086 common_voice_kmr_25025419.mp3 Ev cejn rojên berxwedan, serkeftin an jî rojên kêfxweşiyê ne.
+cv_kmr_000087 common_voice_kmr_25025420.mp3 Bi temasa çermî
+cv_kmr_000088 common_voice_kmr_25025421.mp3 meriv bê xwarin ango bê ard û arvan diman
+cv_kmr_000089 common_voice_kmr_32376728.mp3 Her ku mezin dibe bêaqil dibe.
+cv_kmr_000090 common_voice_kmr_32376729.mp3 Em ê bînin.
+cv_kmr_000091 common_voice_kmr_32376730.mp3 Îro Înî ye.
+cv_kmr_000092 common_voice_kmr_24841568.mp3 Zelalê zarokeke zîrek e.
+cv_kmr_000093 common_voice_kmr_24841569.mp3 em hevalê hev in
+cv_kmr_000094 common_voice_kmr_24841570.mp3 Xweza jî xwe nû dike.
+cv_kmr_000095 common_voice_kmr_24861912.mp3 Dîtina min li we hindik e
+cv_kmr_000096 common_voice_kmr_24861913.mp3 Wezîrê çandê, bi şandeyeke ronakbîrên Amedê re hate cem hev
+cv_kmr_000097 common_voice_kmr_24861916.mp3 Mirov bi tena serê xwe nikare bijî.
+cv_kmr_000098 common_voice_kmr_34833816.mp3 Tom û Mary mişteriyên baş bûn.
+cv_kmr_000099 common_voice_kmr_34833821.mp3 Tom ji we zêdetir diaxive.
+cv_kmr_000100 common_voice_kmr_34833820.mp3 Tom ew ê çend rojan li vir be.
+cv_kmr_000101 common_voice_kmr_31823570.mp3 Serê wî tûjike di gelek cîh de mexel hatiye.
+cv_kmr_000102 common_voice_kmr_31823571.mp3 Her kesek taybetiyên wî yên cuda hene.
+cv_kmr_000103 common_voice_kmr_31823573.mp3 Xwezî bavê min ev zarok dîtibûna.
+cv_kmr_000104 common_voice_kmr_33679541.mp3 çimkî hemu dewlet, mirovahî û misliman tev lal û ker bibûn
+cv_kmr_000105 common_voice_kmr_33679542.mp3 û pê mijûl bûma
+cv_kmr_000106 common_voice_kmr_33679543.mp3 Çû serdana dikandaran û ji wan re behsa projeyên xwe kir
+cv_kmr_000107 common_voice_kmr_34818590.mp3 Ez li olîmpiyatan temaşe dikim.
+cv_kmr_000108 common_voice_kmr_34818714.mp3 Tu dikarî karekî bidî min?
+cv_kmr_000109 common_voice_kmr_34818717.mp3 Ew, hevalê min ê dibistanê ye.
+cv_kmr_000110 common_voice_kmr_24840801.mp3 Me hewl da ku bi kurtî, bîr û baweriyên rêxistinên xwe bînin ziman
+cv_kmr_000111 common_voice_kmr_24840802.mp3 Hûn jî zanin ku mirov bi rêya qisan ji hev hez dike
+cv_kmr_000112 common_voice_kmr_24840803.mp3 Yekî ku dişibiya karmendekî malnişîn jî hebû.
+cv_kmr_000113 common_voice_kmr_33607670.mp3 Ev cureyên kiryaran, aştî û îstîqrara deverê lawaz dikin
+cv_kmr_000114 common_voice_kmr_33607672.mp3 Roj bi roj war xweş dibe.
+cv_kmr_000115 common_voice_kmr_33607674.mp3 ne bes e
+cv_kmr_000116 common_voice_kmr_33605452.mp3 Li pêşiya her rêzekê du kovik tên danîn.
+cv_kmr_000117 common_voice_kmr_33605454.mp3 Bi taybet wateyên wan gelek rûniştine
+cv_kmr_000118 common_voice_kmr_33605456.mp3 Mirovê li ser qebrê ne
+cv_kmr_000119 common_voice_kmr_34914597.mp3 Tom dilê min dizî.
+cv_kmr_000120 common_voice_kmr_34914594.mp3 Pêdiviya we bi tiştekî din heye?
+cv_kmr_000121 common_voice_kmr_34914615.mp3 Bêhna porê te pir xweş e.
+cv_kmr_000122 common_voice_kmr_24862536.mp3 Bala xwendekaran kişand.
+cv_kmr_000123 common_voice_kmr_24862537.mp3 sibehekê ji bo here gund xwe amade kir.
+cv_kmr_000124 common_voice_kmr_24862538.mp3 Bi rêya rehên xwe, avê ji axê distîne û dide pelên xwe.
+cv_kmr_000125 common_voice_kmr_24862539.mp3 Xwendekarek ji her rêzekê pimpimoka xwe bi pêş ve dibe.
+cv_kmr_000126 common_voice_kmr_28838922.mp3 Dema ew bûyer bû, me wek rewşenbîrên li derveyî welat, xwe gelek lawaz dît
+cv_kmr_000127 common_voice_kmr_28838923.mp3 Rêwîtiya dijwarî dest pê dikir
+cv_kmr_000128 common_voice_kmr_28838925.mp3 Tu dixwazî em bi hev re bin?
+cv_kmr_000129 common_voice_kmr_28838926.mp3 Berê gul bû, baran barî şil bû
+cv_kmr_000130 common_voice_kmr_29553635.mp3 Tu henekê xwe bi min dikî.
+cv_kmr_000131 common_voice_kmr_29553636.mp3 Ev xort diçe dibistanê.
+cv_kmr_000132 common_voice_kmr_29553640.mp3 Em roj bi roj bi pêş diketin.
+cv_kmr_000133 common_voice_kmr_29553644.mp3 Li Yekîtiya Ewropayê îngilîzî zimanekî fermî ye.
+cv_kmr_000134 common_voice_kmr_33012041.mp3 Min dev ji hemû tiştî berda.
+cv_kmr_000135 common_voice_kmr_33012042.mp3 Wexta tên cem hev
+cv_kmr_000136 common_voice_kmr_33012043.mp3 Di devê me de ziman û diran hene.
+cv_kmr_000137 common_voice_kmr_33012045.mp3 Nikare di bin stêrkan re bimeşe.
+cv_kmr_000138 common_voice_kmr_25054285.mp3 Hejmara kesên betal her diçe zêdetir dibe.
+cv_kmr_000139 common_voice_kmr_25054286.mp3 Beriya ku wefat bike, gelek name ji lêzimên xwe re şandine.
+cv_kmr_000140 common_voice_kmr_25054288.mp3 Zarokên wê fehm kiribû ku derdê wê heye
+cv_kmr_000141 common_voice_kmr_25054290.mp3 Ji bo wan, zimanê Kurdî, ne amûreke propagandayê ye
+cv_kmr_000142 common_voice_kmr_34817326.mp3 Tom di kîjan odeyê de ye?
+cv_kmr_000143 common_voice_kmr_34817349.mp3 Dilên me girêdayî ne.
+cv_kmr_000144 common_voice_kmr_34817351.mp3 Ez nizanim rawestgeha otobûsê li ku derê ye.
+cv_kmr_000145 common_voice_kmr_34817355.mp3 Mosko serbajarê Rûsyayê ye.
+cv_kmr_000146 common_voice_kmr_28798471.mp3 Bi biharan û havînan xweza xwe li vir bêhempa dixemilîne.
+cv_kmr_000147 common_voice_kmr_28798472.mp3 Dengê wî nîne xwe û karê xwe bike divê em van berheman derxin.
+cv_kmr_000148 common_voice_kmr_28798473.mp3 didin pey dê û bavên xwe.
+cv_kmr_000149 common_voice_kmr_28798475.mp3 Piştê ku goşt keliya xwê têxinê biçîk bikelînin
+cv_kmr_000150 common_voice_kmr_24841910.mp3 û bi dengekî bilind dibêje
+cv_kmr_000151 common_voice_kmr_24841912.mp3 Min dest û rûyê xwe şûştin.
+cv_kmr_000152 common_voice_kmr_24841913.mp3 Qet li kesî nakin sebrê
+cv_kmr_000153 common_voice_kmr_24841914.mp3 du sê meriv daxwazname dan miftî
+cv_kmr_000154 common_voice_kmr_33826388.mp3 Gelo ev nivîs çi ye, çîrok e?
+cv_kmr_000155 common_voice_kmr_33826389.mp3 we jiyana dêya xwe mehf kir
+cv_kmr_000156 common_voice_kmr_33829107.mp3 Ramanên Seîdê Kurdî, di derbarê jinan de
+cv_kmr_000157 common_voice_kmr_33829108.mp3 Ji nişka ve derî hat girtin û sawekê min girt.
+cv_kmr_000158 common_voice_kmr_24845938.mp3 We xwest
+cv_kmr_000159 common_voice_kmr_24845939.mp3 Keskesor: bi renge kesk, sor, zer, narencî, şîn, binevşî, fîrûz e ye.
+cv_kmr_000160 common_voice_kmr_24845941.mp3 Tu Mihemed Emîn î
+cv_kmr_000161 common_voice_kmr_24845943.mp3 Ez wêneyan nîgar dikim û stranan jî dibêjim.
+cv_kmr_000162 common_voice_kmr_24840846.mp3 Înternet, li ser zarokan bandoreke neyînî dike
+cv_kmr_000163 common_voice_kmr_24840847.mp3 Em ji hevalên xwe hez bikin û bi wan re bilîzin.
+cv_kmr_000164 common_voice_kmr_24840848.mp3 Ew naxwaze
+cv_kmr_000165 common_voice_kmr_24840849.mp3 Wextê hate gund kete qulûbeya gundiyekî
+cv_kmr_000166 common_voice_kmr_26807538.mp3 Tu çawa yî
+cv_kmr_000167 common_voice_kmr_26807539.mp3 Ez ê te bikujim.
+cv_kmr_000168 common_voice_kmr_26807542.mp3 Ji bo xatirê min.
+cv_kmr_000169 common_voice_kmr_26807543.mp3 Ez ji Tirkiyeyê me.
+cv_kmr_000170 common_voice_kmr_24841224.mp3 Heger tu bilizî bi zar re
+cv_kmr_000171 common_voice_kmr_24841225.mp3 Lewre neheqiya herî zêde, li wî welatî heye
+cv_kmr_000172 common_voice_kmr_24841226.mp3 Tê de zengil heye lê derî tune.
+cv_kmr_000173 common_voice_kmr_24841227.mp3 Dewletên Yekbûyî yên Emerîkayê, li hember komkujiyan bêdeng dima
+cv_kmr_000174 common_voice_kmr_24866097.mp3 Her eşîrek, girêdayî serokekî ye û tevde jî girêdayî axayekî ne
+cv_kmr_000175 common_voice_kmr_24866099.mp3 Di vê dema teknolojiyê de divê çîrçîrok neyê jibîrkirin
+cv_kmr_000176 common_voice_kmr_24866100.mp3 Lê belê serwerê gemiyê hat, ew hişyar kir û jê re got: Hey zilamo!
+cv_kmr_000177 common_voice_kmr_24866101.mp3 gundiyan û mala kalê min li wê rê palî dikirin
+cv_kmr_000178 common_voice_kmr_26315537.mp3 Divê ez hinekî xulmaş bibim.
+cv_kmr_000179 common_voice_kmr_26315539.mp3 me carna genimê xwe dibir di aşê wan de dihêrand
+cv_kmr_000180 common_voice_kmr_26315541.mp3 Ji zozan û gundên xwe, reviyane cihên bi ewle
+cv_kmr_000181 common_voice_kmr_26315542.mp3 Mamoste xwendekaran fêrî çi dike?
+cv_kmr_000182 common_voice_kmr_34819252.mp3 Koma we ji ya me bihêztir e.
+cv_kmr_000183 common_voice_kmr_34819251.mp3 Dema ez xwendekarek bûm, min gelek caran jê re nivîsand.
+cv_kmr_000184 common_voice_kmr_34819312.mp3 Tom sor dibe.
+cv_kmr_000185 common_voice_kmr_34819313.mp3 Bilindtir.
+cv_kmr_000186 common_voice_kmr_25391484.mp3 Goreyên xwe pîne kir.
+cv_kmr_000187 common_voice_kmr_25391485.mp3 Here dikanê ji min re avekê bikire.
+cv_kmr_000188 common_voice_kmr_25391486.mp3 Şirîkatiya min û te têk naçe.
+cv_kmr_000189 common_voice_kmr_25391487.mp3 Di ser wê bûyerê re kelogirî bû.
+cv_kmr_000190 common_voice_kmr_31824076.mp3 Tu ne baş bûyî
+cv_kmr_000191 common_voice_kmr_31824078.mp3 lê rastiya herî mezin
+cv_kmr_000192 common_voice_kmr_31824079.mp3 Dema paşîvê malbat tev radibin
+cv_kmr_000193 common_voice_kmr_31824080.mp3 Dema ku hûn serdana xizmên xwe dikin, hûn çawa tev digerin?
+cv_kmr_000194 common_voice_kmr_34859549.mp3 Bêdengtir!
+cv_kmr_000195 common_voice_kmr_34904770.mp3 Tu neyê û nebe sedema aloziyê.
+cv_kmr_000196 common_voice_kmr_34904781.mp3 Pisîk pir xweşik e.
+cv_kmr_000197 common_voice_kmr_34904774.mp3 Ez bi wê re çûm beravê.
+cv_kmr_000198 common_voice_kmr_24957964.mp3 Fîncanek danî ser masê û hinek şîr xiste fîncanê.
+cv_kmr_000199 common_voice_kmr_24957965.mp3 Ev her du şirket, bi hezaran karmendên xwe ji kar derdixin
+cv_kmr_000200 common_voice_kmr_24957966.mp3 him jî ez pir eciz dibûm
+cv_kmr_000201 common_voice_kmr_24957967.mp3 Di felsefeya Che de jiyaneke tijî û dagirtî heye.
+cv_kmr_000202 common_voice_kmr_24862618.mp3 ji çeman re çavkanî dibe
+cv_kmr_000203 common_voice_kmr_24862619.mp3 li gor min çîrçîrok xweştir û baştir e
+cv_kmr_000204 common_voice_kmr_24862620.mp3 Dest û rûyê xwe bişo were em taştê bixwin!
+cv_kmr_000205 common_voice_kmr_24862621.mp3 Serok Bush berevanî ji rêbaza Emerîka li Iraqê dike
+cv_kmr_000206 common_voice_kmr_33829327.mp3 ku mirov bixwaze û bike gelek tişt çêdibin.
+cv_kmr_000207 common_voice_kmr_33829328.mp3 Azadî ji zaroktiyê dest pê dike.
+cv_kmr_000208 common_voice_kmr_33829674.mp3 ev gotina elmasmîsal e.
+cv_kmr_000209 common_voice_kmr_33829678.mp3 Pinpinîk, bi rengên xwe yên cihêreng tê naskirin.
+cv_kmr_000210 common_voice_kmr_24843143.mp3 Ev demek e, li ser binesaziya malperekê dixebitim
+cv_kmr_000211 common_voice_kmr_24843145.mp3 Balafirgeheke mezin, li Hewlêrê ava dibe
+cv_kmr_000212 common_voice_kmr_24843146.mp3 Roj tim hiltê sibehan.
+cv_kmr_000213 common_voice_kmr_24843147.mp3 Em dikin
+cv_kmr_000214 common_voice_kmr_24843148.mp3 Sêva çê para hirçê ye.
+cv_kmr_000215 common_voice_kmr_25756337.mp3 Wê name nivîsî.
+cv_kmr_000216 common_voice_kmr_25756338.mp3 Ez çûm acîlê, piyê min diêşe.
+cv_kmr_000217 common_voice_kmr_25756339.mp3 Lîstikgehek li gorî hejmara xwendekaran tê nîşankirin.
+cv_kmr_000218 common_voice_kmr_25756340.mp3 Heya ku dilê xwesî nekeve zavê
+cv_kmr_000219 common_voice_kmr_25756341.mp3 Divê em rûnin.
+cv_kmr_000220 common_voice_kmr_24852891.mp3 Ez bîst û neh salî me.
+cv_kmr_000221 common_voice_kmr_24852892.mp3 bi rojan, bi mehan, berf li erdê dima.
+cv_kmr_000222 common_voice_kmr_24852893.mp3 û jê mehrûm nebe
+cv_kmr_000223 common_voice_kmr_24852894.mp3 Yên ku çîrçîrokan guhdar kirine, bandora çîrçîrokê li ser wê gelek maye
+cv_kmr_000224 common_voice_kmr_24852895.mp3 Bide!
+cv_kmr_000225 common_voice_kmr_25431502.mp3 Rojên reş girtiye ser me.
+cv_kmr_000226 common_voice_kmr_25431503.mp3 Roja sêşemê em ê herin zanîngeha Rojava xwe lê tomar bikin.
+cv_kmr_000227 common_voice_kmr_25811762.mp3 Min ji Diyarbekirê pir hez kir.
+cv_kmr_000228 common_voice_kmr_25811763.mp3 Li dar û qametê.
+cv_kmr_000229 common_voice_kmr_25811765.mp3 Sûcê xwe dikin sûcê me.
+cv_kmr_000230 common_voice_kmr_25644836.mp3 Pisîk ji avê hez nakin.
+cv_kmr_000231 common_voice_kmr_25644838.mp3 Ew diajon.
+cv_kmr_000232 common_voice_kmr_25644841.mp3 Bi tena xwe têkeve hêlanê.
+cv_kmr_000233 common_voice_kmr_25644844.mp3 Li çiyayan im.
+cv_kmr_000234 common_voice_kmr_25644846.mp3 Ji zimanekî werdigerîne zimanekî din.
+cv_kmr_000235 common_voice_kmr_27762437.mp3 Wey li min!
+cv_kmr_000236 common_voice_kmr_27762438.mp3 Ez li malê di odeya xwe de me.
+cv_kmr_000237 common_voice_kmr_27762439.mp3 Te xwest
+cv_kmr_000238 common_voice_kmr_27762440.mp3 Şerm nake.
+cv_kmr_000239 common_voice_kmr_27762441.mp3 Hûn ji kîjan demsalê hez dikin?
+cv_kmr_000240 common_voice_kmr_25381077.mp3 Em naajon.
+cv_kmr_000241 common_voice_kmr_25381078.mp3 Îşev ez ê li cem we rakevim.
+cv_kmr_000242 common_voice_kmr_25381079.mp3 Em li daristanê wenda bûn.
+cv_kmr_000243 common_voice_kmr_25381080.mp3 Min neaniye.
+cv_kmr_000244 common_voice_kmr_25381081.mp3 Hûn ê çi vexwin?
+cv_kmr_000245 common_voice_kmr_25365562.mp3 Ez dikarim qehweyekê bidim we?
+cv_kmr_000246 common_voice_kmr_25365563.mp3 We alî min kir.
+cv_kmr_000247 common_voice_kmr_25365564.mp3 Ji zû ve yî me wan nedîtiye.
+cv_kmr_000248 common_voice_kmr_25365569.mp3 Oxir be.
+cv_kmr_000249 common_voice_kmr_25365571.mp3 Bawer im ez biçim ê baş be.
+cv_kmr_000250 common_voice_kmr_25080703.mp3 Nivîsa navborî,dikare ji vê lînkê were dîtin
+cv_kmr_000251 common_voice_kmr_25080704.mp3 Ji bergên sehenî, bergên tacî û tovan pêk tê.
+cv_kmr_000252 common_voice_kmr_25080705.mp3 Min ê fîrmayek mezin çê bikira
+cv_kmr_000253 common_voice_kmr_25080706.mp3 Dikarim pirtûk, lênûs û kincên xwe kom bikim.
+cv_kmr_000254 common_voice_kmr_25080708.mp3 dêya me wer digot
+cv_kmr_000255 common_voice_kmr_25054010.mp3 Rojbûna te pîroz be.
+cv_kmr_000256 common_voice_kmr_25054011.mp3 Heya ku birçî nebî xwarinê nexwe.
+cv_kmr_000257 common_voice_kmr_25054012.mp3 kul û derdî wî pir e
+cv_kmr_000258 common_voice_kmr_25054013.mp3 me digot em çawa zû top bikin
+cv_kmr_000259 common_voice_kmr_25054014.mp3 Qîz û kurê vî zemanê bê yar nabin
+cv_kmr_000260 common_voice_kmr_25369240.mp3 Tu digirî.
+cv_kmr_000261 common_voice_kmr_25369241.mp3 Ew nealiqiye.
+cv_kmr_000262 common_voice_kmr_25369242.mp3 Li Mêrdînê gelek milet hene.
+cv_kmr_000263 common_voice_kmr_25369243.mp3 Me wergera Tatoebayê jî xelas kir.
+cv_kmr_000264 common_voice_kmr_25369244.mp3 Ez dişibiyam dêya xwe.
+cv_kmr_000265 common_voice_kmr_25010041.mp3 Çend dîmen, ji navçeya serê kaniyê
+cv_kmr_000266 common_voice_kmr_25010042.mp3 Helem qulem neke.
+cv_kmr_000267 common_voice_kmr_25010043.mp3 gelê xwe nas dike
+cv_kmr_000268 common_voice_kmr_25010044.mp3 Divê mirov li paqijiya pol û dibistana xwe baldar be.
+cv_kmr_000269 common_voice_kmr_25010045.mp3 Yê me dixapîne şeytan e
+cv_kmr_000270 common_voice_kmr_24840553.mp3 Ez, êrîşkariya hovane ya li hember Elewiyan, bi tundî şermezar dikim
+cv_kmr_000271 common_voice_kmr_24840554.mp3 Herweha ji îngilîzî û tirkî çîrok wergerandine kurdî.
+cv_kmr_000272 common_voice_kmr_24840555.mp3 Çîroka Mar û Rêwî
+cv_kmr_000273 common_voice_kmr_24840556.mp3 tî û birçî meriv bê hal dihêle.
+cv_kmr_000274 common_voice_kmr_24840557.mp3 Yên ku vexwarinên tîr û xurekên bi reng dixwin
+cv_kmr_000275 common_voice_kmr_25055751.mp3 Her kesek taybetiyên wî yên cuda hene.
+cv_kmr_000276 common_voice_kmr_25055752.mp3 Polîs, jî ber daxuyaniya ku wî xwendî, ew binçav kir
+cv_kmr_000277 common_voice_kmr_25055753.mp3 Pezê we heye?
+cv_kmr_000278 common_voice_kmr_25055754.mp3 Du camên pencere
+cv_kmr_000279 common_voice_kmr_25055755.mp3 Piştî bidawîkirina dibistana amadeyiyê, bi vê lîstika şanoyê, dest bi aktoriyê dike
+cv_kmr_000280 common_voice_kmr_34815867.mp3 Delalê ji heriyê hestiyek çêkir.
+cv_kmr_000281 common_voice_kmr_34815942.mp3 Li mala Tomî av tune ye.
+cv_kmr_000282 common_voice_kmr_34815945.mp3 Ti mînakek tê hişê te?
+cv_kmr_000283 common_voice_kmr_34815943.mp3 Tom ji dêvla dibistanê li malê perwerde dît.
+cv_kmr_000284 common_voice_kmr_34816029.mp3 Ez ji Maryê hez dikim.
+cv_kmr_000285 common_voice_kmr_25376609.mp3 Hûn nealiqîne.
+cv_kmr_000286 common_voice_kmr_25376610.mp3 Ji kerema xwe.
+cv_kmr_000287 common_voice_kmr_25376611.mp3 Nanê tenûrê nadim bi yê firinê.
+cv_kmr_000288 common_voice_kmr_25376612.mp3 Em ê bînin.
+cv_kmr_000289 common_voice_kmr_25376613.mp3 Ew aciz bûn.
+cv_kmr_000290 common_voice_kmr_25079569.mp3 Çiyayê Reş, Darîstana Qerejdaxê
+cv_kmr_000291 common_voice_kmr_25079570.mp3 Kurê mezin hawar dikir: Dayê ez dişewitim!
+cv_kmr_000292 common_voice_kmr_25079571.mp3 Mifte di kilîta deriyê xweha min de digeriya.
+cv_kmr_000293 common_voice_kmr_25079572.mp3 Ku ez bigirim
+cv_kmr_000294 common_voice_kmr_25079573.mp3 Li dijî rojnamevanekî, doz hate vekirin
+cv_kmr_000295 common_voice_kmr_24844397.mp3 Kesayetiya hozanê nemir Cegerxwîn, girêdayî jiyana wî ye
+cv_kmr_000296 common_voice_kmr_24844399.mp3 Bi wî pereyî divê paltoyekî baş bistîne.
+cv_kmr_000297 common_voice_kmr_24844402.mp3 Di vir de wan jî, durûtî bi Kurdan re kir
+cv_kmr_000298 common_voice_kmr_24844405.mp3 Di navînê de salek derbas bûye aqilê xort dîsa li ezmanan bûye.
+cv_kmr_000299 common_voice_kmr_24844406.mp3 wî her tişt bi jina xwe re parve kiribû
+cv_kmr_000300 common_voice_kmr_24969744.mp3 Jiyan, azadî û ewlekariya kesane, mafê her mirovî ye
+cv_kmr_000301 common_voice_kmr_24969746.mp3 Mezlum û zaliman gelek nas dike.
+cv_kmr_000302 common_voice_kmr_24969747.mp3 Kurê mezin ji diya xwe re
+cv_kmr_000303 common_voice_kmr_24969749.mp3 Ez dabaşa dapîra xwe dikim.
+cv_kmr_000304 common_voice_kmr_24969752.mp3 Bedena Amedê
+cv_kmr_000305 common_voice_kmr_24939340.mp3 Çavên wan wek agir e
+cv_kmr_000306 common_voice_kmr_24939341.mp3 Em qederê di sê kîlomêtiran bi rê ve çûn.
+cv_kmr_000307 common_voice_kmr_24939342.mp3 ji wan re rojî gelek zor û zehmet e.
+cv_kmr_000308 common_voice_kmr_24939343.mp3 Holmes: Cilên xweha te lê bûn?
+cv_kmr_000309 common_voice_kmr_24939344.mp3 Piştê qedandina paliyan bêder destpê dike.
+cv_kmr_000310 common_voice_kmr_25651562.mp3 Ez meşiyam.
+cv_kmr_000311 common_voice_kmr_25651563.mp3 Dema zewaca wî ye.
+cv_kmr_000312 common_voice_kmr_25651564.mp3 Diranên wî di bêrîka min de ne.
+cv_kmr_000313 common_voice_kmr_25651565.mp3 Ji kerema xwe gavên pevsazkirinê temam bike.
+cv_kmr_000314 common_voice_kmr_25651566.mp3 Jiyan zêde kurt e.
+cv_kmr_000315 common_voice_kmr_25057467.mp3 Hûn kar dikin
+cv_kmr_000316 common_voice_kmr_25057468.mp3 - Ez nikarim bibêjim.
+cv_kmr_000317 common_voice_kmr_25057469.mp3 Katolîk ew kesî ji dêra katolîk, ango roma-katolîk, re tê gotin.
+cv_kmr_000318 common_voice_kmr_25057470.mp3 Ji her demî bêtir, pêwistiya Kurdan bi hevkariyê heye
+cv_kmr_000319 common_voice_kmr_25057471.mp3 nîşana warê meriv û qimeta meriv dide zanîn
+cv_kmr_000320 common_voice_kmr_24844748.mp3 Xweza, gelek tiştan di nava xwe de dihewîne.
+cv_kmr_000321 common_voice_kmr_24844749.mp3 Zilamê terpase kire qêrîn
+cv_kmr_000322 common_voice_kmr_24844750.mp3 Hişkayiya ku çandinî û sewalkarî felc kir dibe sedema koçberiyê
+cv_kmr_000323 common_voice_kmr_24844751.mp3 Pir wextê min heye.
+cv_kmr_000324 common_voice_kmr_24844752.mp3 Bike û bibêje.
+cv_kmr_000325 common_voice_kmr_24884991.mp3 Him Fars him jî Tirk, Nîzamî wekî xwemalê edebiyatên xwe nîşan didin
+cv_kmr_000326 common_voice_kmr_24884992.mp3 Tadekar azad in?
+cv_kmr_000327 common_voice_kmr_24884993.mp3 Ji dilê xwe parpare me.
+cv_kmr_000328 common_voice_kmr_24884995.mp3 - Ez nikarim bibêjim.
+cv_kmr_000329 common_voice_kmr_24884997.mp3 Ji aliyekî din ve jî hesreta însana ketibû nav û dilê wî.
+cv_kmr_000330 common_voice_kmr_24976055.mp3 Her dem bijî Kurdistan.
+cv_kmr_000331 common_voice_kmr_24976056.mp3 Difikirî digot
+cv_kmr_000332 common_voice_kmr_24976057.mp3 di daxuyaniyeke nivîskî de amarên nû aşkere kirin
+cv_kmr_000333 common_voice_kmr_24976058.mp3 Li Yekîtiya Ewropayê îngilîzî zimanekî fermî ye.
+cv_kmr_000334 common_voice_kmr_24976059.mp3 Tom ne ehmeq e.
+cv_kmr_000335 common_voice_kmr_24956734.mp3 Di bin baranê de, bayê xweşik, bi nermahî ku li rûyê meriv şilpaq dike.
+cv_kmr_000336 common_voice_kmr_24956735.mp3 Ev, ne mijara me ye, divê yekser me mijûl neke
+cv_kmr_000337 common_voice_kmr_24956736.mp3 Bi xatirê te û şîretên min ji bîr meke.
+cv_kmr_000338 common_voice_kmr_24956737.mp3 Holmes bi her awayî ceriband; pencerê ne dihatin vekirin.
+cv_kmr_000339 common_voice_kmr_24956738.mp3 Mamoste daxwaza xwenkaran qebûl kir.
+cv_kmr_000340 common_voice_kmr_24957484.mp3 Bi çavên xwe temaşe dikim û dişopînim.
+cv_kmr_000341 common_voice_kmr_24957485.mp3 Roj bi roj war xweş dibe.
+cv_kmr_000342 common_voice_kmr_24957486.mp3 ku mirov bixwaze û bike gelek tişt çêdibin.
+cv_kmr_000343 common_voice_kmr_24957487.mp3 Ji rêxistinên civakî, daxuyaniyeke girîng hat dayîn
+cv_kmr_000344 common_voice_kmr_24957488.mp3 deng ji min dihat.
+cv_kmr_000345 common_voice_kmr_25641980.mp3 Havîn e şev kin e.
+cv_kmr_000346 common_voice_kmr_25641981.mp3 Ez Pêşmerge me.
+cv_kmr_000347 common_voice_kmr_25641982.mp3 Divê ez vegerim nexweşxaneyê.
+cv_kmr_000348 common_voice_kmr_25641983.mp3 Hatina buharê mizgîna xêrê ye.
+cv_kmr_000349 common_voice_kmr_25641990.mp3 Ez dikarim jûrekê veqetînim?
+cv_kmr_000350 common_voice_kmr_24898102.mp3 Êdî derbas bû. Êdî qediya!
+cv_kmr_000351 common_voice_kmr_24898103.mp3 Malbata ku dayîk, bav, xwişk û bira tê de bi hev re dijîn.
+cv_kmr_000352 common_voice_kmr_24898104.mp3 Milletê me, welatparêzekî xwe yê têkoşer û mêrxas winda kir
+cv_kmr_000353 common_voice_kmr_24898105.mp3 Hin caran jî me dişîne ezmûngeha bijîşkî.
+cv_kmr_000354 common_voice_kmr_24898106.mp3 Dengê defê ji dûr ve xweş tê.
+cv_kmr_000355 common_voice_kmr_24931149.mp3 Ez baş im.
+cv_kmr_000356 common_voice_kmr_24931150.mp3 Ez jî spas dikim.
+cv_kmr_000357 common_voice_kmr_24931151.mp3 Ez ji Efrînê me.
+cv_kmr_000358 common_voice_kmr_24931152.mp3 Ew çi ye?
+cv_kmr_000359 common_voice_kmr_24931153.mp3 Teknolojî baş e.
+cv_kmr_000360 common_voice_kmr_24894954.mp3 Carekê ceriband, mar bi keçîkê ve ne da.
+cv_kmr_000361 common_voice_kmr_24894956.mp3 dest bi jiyana xwe ya Kurdî bikin
+cv_kmr_000362 common_voice_kmr_24894958.mp3 Ev jî, bê şik bi riya zanîn û perwerdehiyê bi dest dikeve
+cv_kmr_000363 common_voice_kmr_24894959.mp3 Xebatên hilbijartinan, bê navber li hemû bajaran didomin
+cv_kmr_000364 common_voice_kmr_24894961.mp3 gelê me li ol û ziman û çand û hunera xwe zêdetir xwedî derkeve.
+cv_kmr_000365 common_voice_kmr_24874157.mp3 Malpera me, di qonaxa avakirinê de ye
+cv_kmr_000366 common_voice_kmr_24874158.mp3 Bi rastî gelek karên min hebûn.
+cv_kmr_000367 common_voice_kmr_24874160.mp3 û pê re dizewice
+cv_kmr_000368 common_voice_kmr_24874161.mp3 Gelo ji ber çi reaksiyon bileztir nabe?
+cv_kmr_000369 common_voice_kmr_24874162.mp3 Ez ji te re dibêjim.
+cv_kmr_000370 common_voice_kmr_24872457.mp3 Ji bo lêkolînan, piştgirî ji rayedaran bistînin
+cv_kmr_000371 common_voice_kmr_24872458.mp3 Wê qûna te têkeve avê
+cv_kmr_000372 common_voice_kmr_24872459.mp3 - Navê min Raskolnîkov.
+cv_kmr_000373 common_voice_kmr_24872460.mp3 Xebatên berfireh li Zanîngeha Duke û Zanîngeha Oxfordê tên meşandin.
+cv_kmr_000374 common_voice_kmr_24872461.mp3 Ji xwe şîp ji pisingê hinek meztir e.
+cv_kmr_000375 common_voice_kmr_24856964.mp3 Em li ser soza xwe ne.
+cv_kmr_000376 common_voice_kmr_24856966.mp3 xwe ji qeda û bobelatan jî dûr bixîne
+cv_kmr_000377 common_voice_kmr_24856967.mp3 Famîle, cins û cureyên kevjalan di her avê de dijîn.
+cv_kmr_000378 common_voice_kmr_24856968.mp3 Herçî bihin hin bi hin zêde dibû.
+cv_kmr_000379 common_voice_kmr_24856969.mp3 Em li gorî van em bernameya xwe ya jiyanê amade dikin.
+cv_kmr_000380 common_voice_kmr_24846532.mp3 Dayik mêze dike ku kurê wê ji wê nagere.
+cv_kmr_000381 common_voice_kmr_24846533.mp3 Hezkirin ne bi dev e.
+cv_kmr_000382 common_voice_kmr_24846534.mp3 Gelî hevalan, ji we pirseke min heye
+cv_kmr_000383 common_voice_kmr_24846535.mp3 em ji gund derkevin
+cv_kmr_000384 common_voice_kmr_24846536.mp3 Hebû tunebû
+cv_kmr_000385 common_voice_kmr_24858460.mp3 Di vê pêvajoyê de germkirin bi sê cureyan tê kirin.
+cv_kmr_000386 common_voice_kmr_24858461.mp3 Bila Xwedê lêxe
+cv_kmr_000387 common_voice_kmr_24858462.mp3 Mirin pakî ye
+cv_kmr_000388 common_voice_kmr_24858464.mp3 ez hevalê te me
+cv_kmr_000389 common_voice_kmr_24858465.mp3 divê armanca me jiyaneke Kurdî be.
+cv_kmr_000390 common_voice_kmr_24840489.mp3 karê xwe bike, çi jê xwendinê tê.
+cv_kmr_000391 common_voice_kmr_24840490.mp3 Kurê mezin ji diya xwe re
+cv_kmr_000392 common_voice_kmr_24840491.mp3 Pêkhateyên ne ji wê olê jî tev li van pîrozbahiyan dibin.
+cv_kmr_000393 common_voice_kmr_24840492.mp3 Em sûcê mezin bi xwe dikin
+cv_kmr_000394 common_voice_kmr_24840493.mp3 ez mamosteyan hez dikim
+cv_kmr_000395 common_voice_kmr_27550424.mp3 Mirov ji mirovan re çawa dikare bibe mirovekî baş?
+cv_kmr_000396 common_voice_kmr_27550425.mp3 Bêbexto ka hinek bext.
+cv_kmr_000397 common_voice_kmr_27550426.mp3 Ev beş, tevger û berjengên guncaw digire nava xwe.
+cv_kmr_000398 common_voice_kmr_27550427.mp3 Mîna ku dengê wî qelibîbû.
+cv_kmr_000399 common_voice_kmr_27550428.mp3 rûspiyên malbatê meseleyê jê re dibêjin
+cv_kmr_000400 common_voice_kmr_27711750.mp3 Jina werî ji malbatê.
+cv_kmr_000401 common_voice_kmr_27711751.mp3 Nelezîne, eceleya me tune.
+cv_kmr_000402 common_voice_kmr_27711753.mp3 Mem û Zîn berhema nivîskarê Kurd Ehmedê Xanî ye.
+cv_kmr_000403 common_voice_kmr_27711754.mp3 Ez bêçare me.
+cv_kmr_000404 common_voice_kmr_27711755.mp3 Te ji Wanê hez kir?
+cv_kmr_000405 common_voice_kmr_31823729.mp3 çekên bi reng li xwe dike û xwe pê dixemlîne.
+cv_kmr_000406 common_voice_kmr_31823732.mp3 Tiştên xerab bi serê wî de hatine.
+cv_kmr_000407 common_voice_kmr_31823733.mp3 û axa ku davêtin ser min dengê wan weka urrîna ewran deng dida
+cv_kmr_000408 common_voice_kmr_31823734.mp3 Kevoka biristik pir zana û zîrek bû.
+cv_kmr_000409 common_voice_kmr_31823735.mp3 Ez bîst û neh salî me.
+cv_kmr_000410 common_voice_kmr_25391171.mp3 Dilê te heye, em biçin konserê?
+cv_kmr_000411 common_voice_kmr_25391173.mp3 Ez dikarim şûşeyeka biçûk a sodayê wergirim?
+cv_kmr_000412 common_voice_kmr_25391174.mp3 Ji kerema xwe.
+cv_kmr_000413 common_voice_kmr_25391176.mp3 Cotkarên Qoserê ji ber qutbûna ceyranê îja darên fistqan diçînin.
+cv_kmr_000414 common_voice_kmr_25391177.mp3 Vê hefteyê betal im.
+cv_kmr_000415 common_voice_kmr_24873077.mp3 Yekî xerabiyek bi te kir?
+cv_kmr_000416 common_voice_kmr_24873078.mp3 Hûn kar dikin
+cv_kmr_000417 common_voice_kmr_24873079.mp3 Tengezariya navebera Îsraîl û komên Fîlîstînê mezin dibe
+cv_kmr_000418 common_voice_kmr_24873080.mp3 ez êdî bûm mela, melayê gund
+cv_kmr_000419 common_voice_kmr_24873081.mp3 bi bêhn û hîsên xwe hevûdu nas dikin
+cv_kmr_000420 common_voice_kmr_24924784.mp3 Zikê min pir diêşe.
+cv_kmr_000421 common_voice_kmr_24924786.mp3 dibêjin li me biborin ji ber hinek sedeman em pir dereng man.
+cv_kmr_000422 common_voice_kmr_24924792.mp3 jina xwe Eso dipirse
+cv_kmr_000423 common_voice_kmr_24924794.mp3 tu niha li ku yî
+cv_kmr_000424 common_voice_kmr_24924796.mp3 Tu ne baş î
+cv_kmr_000425 common_voice_kmr_24840710.mp3 hatiye weşandin
+cv_kmr_000426 common_voice_kmr_24840711.mp3 Ez bi xêra Nûbiharê
+cv_kmr_000427 common_voice_kmr_24840712.mp3 Çima Ronî nehatibû dibistanê?
+cv_kmr_000428 common_voice_kmr_24840713.mp3 Ala rengîn bilind bû.
+cv_kmr_000429 common_voice_kmr_24840714.mp3 Meta Gulîstanê teşîrêseke pir jêhatî ye.
+cv_kmr_000430 common_voice_kmr_24841248.mp3 niha jî li xwe nagrin ku bi Kurdî qisan bikin
+cv_kmr_000431 common_voice_kmr_24841249.mp3 Dotmamên te ji ku ne?
+cv_kmr_000432 common_voice_kmr_24841250.mp3 Ew lênûsk jî dêya min ê rihmetî avêt sobê, şewitand.
+cv_kmr_000433 common_voice_kmr_24841251.mp3 Li ser hin babetên dîrokî, hevpeyvînek çêkir
+cv_kmr_000434 common_voice_kmr_24841252.mp3 Ji bo her karekî, demek taybet pêwîst e, yan na?
+cv_kmr_000435 common_voice_kmr_34821034.mp3 Gelo ev cî vala ye?
+cv_kmr_000436 common_voice_kmr_34821035.mp3 Fîlmên ku tu pir ji wan hez dikî kîjan in?
+cv_kmr_000437 common_voice_kmr_34913418.mp3 Ew ket odeya xwe.
+cv_kmr_000438 common_voice_kmr_34913443.mp3 Hûn dilê min dişikînin.
+cv_kmr_000439 common_voice_kmr_34913461.mp3 Dilê wî lê dide.
+cv_kmr_000440 common_voice_kmr_29357089.mp3 Ez jî bîst û çar salî me.
+cv_kmr_000441 common_voice_kmr_29357096.mp3 Hûn ê bikin
+cv_kmr_000442 common_voice_kmr_29357124.mp3 naxwazim kesî bibînim
+cv_kmr_000443 common_voice_kmr_29357125.mp3 Televizyonê veke û bibe ser Waarê.
+cv_kmr_000444 common_voice_kmr_29357129.mp3 Her bikarhêner dikare rewşa sê bikarhênerên din jî kontrol bike.
+cv_kmr_000445 common_voice_kmr_25115040.mp3 Ew navê xwe dinivîse.
+cv_kmr_000446 common_voice_kmr_25115041.mp3 Destê xwesiyê nagîhîje keziyê
+cv_kmr_000447 common_voice_kmr_25115042.mp3 Berêvarî me çandinî qedand.
+cv_kmr_000448 common_voice_kmr_25115043.mp3 Haya zikê têr ji zikê birçî tune
+cv_kmr_000449 common_voice_kmr_25115044.mp3 Wê zarokên xwe bi lorikan dihewandin û dikirin xew.
+cv_kmr_000450 common_voice_kmr_25044020.mp3 Li rex min rûne tu bi Xwedê
+cv_kmr_000451 common_voice_kmr_25044021.mp3 Lewra Gelê Kurd, xwedî şaristaniyeke dewlemend bû
+cv_kmr_000452 common_voice_kmr_25044022.mp3 asta hunera van ji hev cuda dibe.
+cv_kmr_000453 common_voice_kmr_25044023.mp3 bi dê û bavê xwe re bi qeşmerkî qise dikin.
+cv_kmr_000454 common_voice_kmr_25044024.mp3 Her roj du sê caran zerzewat û fêkiyên cur bi cur bixwin
+cv_kmr_000455 common_voice_kmr_24841187.mp3 Ev lebatên me, karê wan cuda ye.
+cv_kmr_000456 common_voice_kmr_24841188.mp3 Bilezîne!
+cv_kmr_000457 common_voice_kmr_24841189.mp3 Kovan Baqî bi xwe mirovekî mirovbûna wî girêdayî kurdbûna wî ye!
+cv_kmr_000458 common_voice_kmr_24841190.mp3 Zirbavê min ji malbateke kevin e; ji malbata Rweylot.
+cv_kmr_000459 common_voice_kmr_24841191.mp3 Meha Şabanê mehek bi fazîlet e
+cv_kmr_000460 common_voice_kmr_24841012.mp3 ku mirov pîr dibe kurm dikeve zimanê wan.
+cv_kmr_000461 common_voice_kmr_24841015.mp3 Gorî pêdiviyan di tevahiya cureyên artêşê de, firqe tên sazkirin.
+cv_kmr_000462 common_voice_kmr_24841017.mp3 Di zimanê Kurdî de ango kurmancî de gelek tişt hatine kategorîze kirin
+cv_kmr_000463 common_voice_kmr_24841019.mp3 Ez qayîlim ku ji tornên xwe hez bikim
+cv_kmr_000464 common_voice_kmr_24841021.mp3 Piştî bûyerê, gelek derdoran cara yekem, fermandarî rexne kirin
+cv_kmr_000465 common_voice_kmr_25256804.mp3 Ji bo lêkolînan, piştgirî ji rayedaran bistînin
+cv_kmr_000466 common_voice_kmr_25256805.mp3 Mamostekî zaroka me.
+cv_kmr_000467 common_voice_kmr_25256806.mp3 Bi piranî ji bo teswîra bihar û baxan tê gotin.
+cv_kmr_000468 common_voice_kmr_25256807.mp3 Ji daîreyekê pirtir dişibiya dolabekê.
+cv_kmr_000469 common_voice_kmr_25256808.mp3 Ez tiştên xwe belav nakim.
+cv_kmr_000470 common_voice_kmr_24965245.mp3 Pênc çûk li ser darê hebûn.
+cv_kmr_000471 common_voice_kmr_24965246.mp3 Pîr Mêro: Lo min berdin, hûn çima min dibin?
+cv_kmr_000472 common_voice_kmr_24965247.mp3 divê armanca me jiyaneke Kurdî be.
+cv_kmr_000473 common_voice_kmr_24965248.mp3 Şev û rojê bike gazî
+cv_kmr_000474 common_voice_kmr_24965249.mp3 Keran kir, hespan xwar
+cv_kmr_000475 common_voice_kmr_24987546.mp3 Keça mêran bixwazin keça jinan nexwazin.
+cv_kmr_000476 common_voice_kmr_24987547.mp3 Bi dengekî ku tevahî hevalên min ên di refê de bibihîzin, diaxivim.
+cv_kmr_000477 common_voice_kmr_24987548.mp3 niha jî li xwe nagrin ku bi Kurdî qisan bikin
+cv_kmr_000478 common_voice_kmr_24987549.mp3 bawermend tev bira ne
+cv_kmr_000479 common_voice_kmr_24987550.mp3 Ka em ji kê dest pê bikin?
+cv_kmr_000480 common_voice_kmr_24840433.mp3 Şoreşgerên wê demê, şermok û zêde bi xwe nebawer bûn
+cv_kmr_000481 common_voice_kmr_24840434.mp3 Gavek din şûnda nimêja min kiribûn
+cv_kmr_000482 common_voice_kmr_24840435.mp3 Çeng gotiye: Hawar!
+cv_kmr_000483 common_voice_kmr_24840436.mp3 Kovareke nû, li salona şaredariya bajarê mezin dê were pêşandan
+cv_kmr_000484 common_voice_kmr_24840437.mp3 Saet kevn in.
+cv_kmr_000485 common_voice_kmr_33805743.mp3 Piştgiriyê bidin namzetên alîgirê aştî û demokrasiyê
+cv_kmr_000486 common_voice_kmr_33805774.mp3 Mirin heye, qet tu natirsî
+cv_kmr_000487 common_voice_kmr_33805775.mp3 Qelûna kalikê min dirêj e.
+cv_kmr_000488 common_voice_kmr_33805837.mp3 Heyfa te.
+cv_kmr_000489 common_voice_kmr_33805835.mp3 Ev hostetî, aheng, xweşî û vegotina çîrçîrokan bi çîrokan re xuya dibû
+cv_kmr_000490 common_voice_kmr_33805838.mp3 Çivîk mala xwe li ku derê çêdikin?
+cv_kmr_000491 common_voice_kmr_24868569.mp3 Serpêhatiya te ya muzîkê, çawa dest pê kir?
+cv_kmr_000492 common_voice_kmr_24868570.mp3 Mirovê betal birçî dimîne.
+cv_kmr_000493 common_voice_kmr_24868571.mp3 Di Mihrîcana Pirtûkan a Batmanê ya Duyemîn de
+cv_kmr_000494 common_voice_kmr_24868634.mp3 Karê min heye.
+cv_kmr_000495 common_voice_kmr_24868636.mp3 Hûn televîzyonê vedikin
+cv_kmr_000496 common_voice_kmr_24868639.mp3 şîva me pel e
+cv_kmr_000497 common_voice_kmr_24859484.mp3 Nigê xwe li koda xwe dixe
+cv_kmr_000498 common_voice_kmr_24859485.mp3 Hîndekarî û perwerdehî, ne heman tişt in
+cv_kmr_000499 common_voice_kmr_24859486.mp3 Carek ji caran mêrxasek hebû.
+cv_kmr_000500 common_voice_kmr_24859487.mp3 Dev heye qise nake, cihê wê heye lê ranakeve
+cv_kmr_000501 common_voice_kmr_24859488.mp3 gur xwe davêjin kur û keçikê
+cv_kmr_000502 common_voice_kmr_24859514.mp3 Dema ku em kar dikin, hem laşê me, hem jî mejiyê me diweste.
+cv_kmr_000503 common_voice_kmr_34822541.mp3 Wê dilê min şikand.
+cv_kmr_000504 common_voice_kmr_34822538.mp3 Sibê roja yekem a biharê ye.
+cv_kmr_000505 common_voice_kmr_34912074.mp3 Ez wê bi kar tînim.
+cv_kmr_000506 common_voice_kmr_34912089.mp3 Tom neçar bû îstifa bike.
+cv_kmr_000507 common_voice_kmr_34912126.mp3 Ev sêv sor e.
+cv_kmr_000508 common_voice_kmr_34912140.mp3 Em her tim di polê de disitirin.
+cv_kmr_000509 common_voice_kmr_24947916.mp3 Di koktêylê de bi berhevkarên antolojiiyê re hevpeyvînek kirin
+cv_kmr_000510 common_voice_kmr_24947918.mp3 Ava kaniyê dikişe.
+cv_kmr_000511 common_voice_kmr_24947919.mp3 Me jî rakin paşîvê
+cv_kmr_000512 common_voice_kmr_24947920.mp3 Pênc lênûsên Jiyanê û du lênûsên Rênasî hene.
+cv_kmr_000513 common_voice_kmr_24947933.mp3 Careke din bi bîr xist ku ji bo çareseriyê, ew girîngiyê didin diyalogê
+cv_kmr_000514 common_voice_kmr_24947936.mp3 ku mecbur be destê xwe bide ber devê xwe
+cv_kmr_000515 common_voice_kmr_34819269.mp3 Ez slovenî fêr dibim.
+cv_kmr_000516 common_voice_kmr_34819304.mp3 Bisekine.
+cv_kmr_000517 common_voice_kmr_34819319.mp3 Karîn navekî Almanî ye.
+cv_kmr_000518 common_voice_kmr_34819331.mp3 Dilê min neşikîne.
+cv_kmr_000519 common_voice_kmr_34819333.mp3 Kê ev şikand?
+cv_kmr_000520 common_voice_kmr_34819334.mp3 Ez ji ser navê te fedî dikim.
+cv_kmr_000521 common_voice_kmr_34815148.mp3 Netewa cîranên te çi ye?
+cv_kmr_000522 common_voice_kmr_34815149.mp3 Xeman nexwe ez heme.
+cv_kmr_000523 common_voice_kmr_34815152.mp3 Lê tu negirî!
+cv_kmr_000524 common_voice_kmr_34920693.mp3 Berçavkên kê li wir in?
+cv_kmr_000525 common_voice_kmr_34920699.mp3 Azad li vir sekinî bû.
+cv_kmr_000526 common_voice_kmr_34920714.mp3 Çima divê tu biçî Moskowê?
+cv_kmr_000527 common_voice_kmr_32374012.mp3 Îro jî her roj jî
+cv_kmr_000528 common_voice_kmr_32374014.mp3 Zilam ne dişibiya yekî hîlebaz.
+cv_kmr_000529 common_voice_kmr_32374072.mp3 û zarokên xwe ber bi zimanê xerîb ve dimeşînin
+cv_kmr_000530 common_voice_kmr_32374074.mp3 Wextê Holmes vegeriya bû mal saet jî bû bû yek.
+cv_kmr_000531 common_voice_kmr_32374135.mp3 Ne esil kil û kildan e.
+cv_kmr_000532 common_voice_kmr_32374143.mp3 Silav û rêzên xwe yên ji dil, pêşkêş dikim
+cv_kmr_000533 common_voice_kmr_24860161.mp3 Siwarê hespê bi siwarê kerê qayîl nabe
+cv_kmr_000534 common_voice_kmr_25379212.mp3 Bêhna xwe berde.
+cv_kmr_000535 common_voice_kmr_25379213.mp3 Birazê were avê li destên min bike.
+cv_kmr_000536 common_voice_kmr_25379214.mp3 Serê wê diêşe.
+cv_kmr_000537 common_voice_kmr_25379215.mp3 Dêya min nan lê dixe, nanê teze.
+cv_kmr_000538 common_voice_kmr_25379216.mp3 Ez dixwazim te nas bikim.
+cv_kmr_000539 common_voice_kmr_32310290.mp3 Matryona berê jî çêkirina gîzmeyan dîtibû.
+cv_kmr_000540 common_voice_kmr_32310291.mp3 Piştê xwarinê devê xwe bi avê têwerdin
+cv_kmr_000541 common_voice_kmr_32310292.mp3 Ey kekê min qe xemgîn nebe û mereq neke
+cv_kmr_000542 common_voice_kmr_32310294.mp3 Holmes derî vekir û em ketin hundir.
+cv_kmr_000543 common_voice_kmr_34890375.mp3 Ez sê salan li Bostonê mam.
+cv_kmr_000544 common_voice_kmr_34890387.mp3 Ewrek tavê vedişêre.
+cv_kmr_000545 common_voice_kmr_34779232.mp3 Lê nedixwest here Hezroyê.
+cv_kmr_000546 common_voice_kmr_34779564.mp3 Tu hevalê min î.
+cv_kmr_000547 common_voice_kmr_34912734.mp3 Tom pir nayê hezkirin.
+cv_kmr_000548 common_voice_kmr_34912791.mp3 Ez hefteyê pênc rojan dixebitim.
+cv_kmr_000549 common_voice_kmr_34912792.mp3 Kîvroşk bi gelemperî ji mişkan mezintir in.
+cv_kmr_000550 common_voice_kmr_34912793.mp3 Tu bi xêr hatiyî mala xwe canê min.
+cv_kmr_000551 common_voice_kmr_33978459.mp3 Hevalê ku bi tabûta min girtibûn
+cv_kmr_000552 common_voice_kmr_33978504.mp3 Di nav de wekî diriyê reş e
+cv_kmr_000553 common_voice_kmr_33978501.mp3 Odeyên we yên vala hene?
+cv_kmr_000554 common_voice_kmr_33978614.mp3 Holmes: Heq di destên we de ye.
+cv_kmr_000555 common_voice_kmr_33978616.mp3 - Ku hûn dixwin bixwin.
+cv_kmr_000556 common_voice_kmr_33978647.mp3 Rezber, Cotmeh û Mijdar mehên payîzê ne.
+cv_kmr_000557 common_voice_kmr_33978640.mp3 Divê partî û komeleyên Kurd serbest bin
+cv_kmr_000558 common_voice_kmr_34816978.mp3 Ez jî bawer dikim wisa.
+cv_kmr_000559 common_voice_kmr_34817016.mp3 London serbajarê Îngilîstanê ye.
+cv_kmr_000560 common_voice_kmr_34817063.mp3 Wê dilê min dizî.
+cv_kmr_000561 common_voice_kmr_34817060.mp3 Ma tu ji sporê hez nakî?
+cv_kmr_000562 common_voice_kmr_34817079.mp3 Tu dixwazî biçî derekê?
+cv_kmr_000563 common_voice_kmr_34817082.mp3 Tom li erdê rûdine.
+cv_kmr_000564 common_voice_kmr_34817080.mp3 Ez û hevalên xwe kurdî fêr dibin.
+cv_kmr_000565 common_voice_kmr_25057512.mp3 Goştê masiyan, tîmareke baş e.
+cv_kmr_000566 common_voice_kmr_25057515.mp3 Rojda ji Alan mezintir e.
+cv_kmr_000567 common_voice_kmr_25057521.mp3 Min parêznameya xwe, bi Kurdî pêşkêş kiribû
+cv_kmr_000568 common_voice_kmr_25057522.mp3 Lê dîsa jî mirov dikare çend xalên gelemper destnîşan bike
+cv_kmr_000569 common_voice_kmr_25057525.mp3 Xuyabû ku em Ji bo nimêja cenazeyê diçûn mizgeftê.
+cv_kmr_000570 common_voice_kmr_25057526.mp3 Pişt û kefên dest tên ba hev û nava tiliyan tên paqîjkirin.
+cv_kmr_000571 common_voice_kmr_25057527.mp3 Xewa min nayê.
+cv_kmr_000572 common_voice_kmr_24841395.mp3 Radyo, tenê amûra guhdarkirinê ye.
+cv_kmr_000573 common_voice_kmr_24841397.mp3 Bi ya we, sererkan çima ew qas bi hêrs bû
+cv_kmr_000574 common_voice_kmr_24841447.mp3 Heger pîvan tune bin, tevlihevî dê çêbibe.
+cv_kmr_000575 common_voice_kmr_24841449.mp3 Lîstik bi bangkirina mamoste ji navê rengekî re, dest pê dike.
+cv_kmr_000576 common_voice_kmr_24841451.mp3 Her roj û şev fersenda mirovan heye ku xwe efû bike
+cv_kmr_000577 common_voice_kmr_24841452.mp3 Di berfê de pir lîstok tên lîstin.
+cv_kmr_000578 common_voice_kmr_24841470.mp3 Bedena Amedê
+cv_kmr_000579 common_voice_kmr_34890489.mp3 Tom di bin çavdêriyê de ye.
+cv_kmr_000580 common_voice_kmr_34890502.mp3 Ev di şevekê de nabe.
+cv_kmr_000581 common_voice_kmr_34894916.mp3 Meryem xwişka cêwî ya Tomî ye.
+cv_kmr_000582 common_voice_kmr_34894952.mp3 Vê xwarinê tahm bike.
+cv_kmr_000583 common_voice_kmr_34894936.mp3 Wî stranên koçberiyê gotin.
+cv_kmr_000584 common_voice_kmr_34894946.mp3 Bilindtir.
+cv_kmr_000585 common_voice_kmr_34919923.mp3 Saeta xerabe jî rojê du caran rastiyê rê dide.
+cv_kmr_000586 common_voice_kmr_24846245.mp3 Ev ji bo netewa Kurd, destkefteke dîrokî ye
+cv_kmr_000587 common_voice_kmr_24846246.mp3 Elmanya, dê rasterast vîzeyê bide welatiyên herêmê
+cv_kmr_000588 common_voice_kmr_24846247.mp3 Ji bo agahîyê we ku daye me, ji we re pir spas dikim
+cv_kmr_000589 common_voice_kmr_24848835.mp3 germahî dikeve hewayê
+cv_kmr_000590 common_voice_kmr_24848836.mp3 Me jî rakin paşîvê
+cv_kmr_000591 common_voice_kmr_24848838.mp3 Di buharê de şînatiyên weke pîvaz, beqdûnis û xes derdikevin.
+cv_kmr_000592 common_voice_kmr_24848839.mp3 Yên ku Kurdî nizanibin bixwînin
+cv_kmr_000593 common_voice_kmr_34835269.mp3 Ev derewek mezin e.
+cv_kmr_000594 common_voice_kmr_34835321.mp3 Wan biryar dan ku dîsa li cem hev bimînin.
+cv_kmr_000595 common_voice_kmr_34835383.mp3 Hestî di nav cemedê de cemidî man.
+cv_kmr_000596 common_voice_kmr_34835433.mp3 Rasterast biçe.
+cv_kmr_000597 common_voice_kmr_34835432.mp3 Bavê min mijûl e.
+cv_kmr_000598 common_voice_kmr_34835469.mp3 Samî qîrîn bihîst.
+cv_kmr_000599 common_voice_kmr_34835467.mp3 Trên li ser rêyan dimeşin.
+cv_kmr_000600 common_voice_kmr_34835530.mp3 Birayê me îro ne li vir e.
+cv_kmr_000601 common_voice_kmr_25543191.mp3 Keç porê xwe şeh dike.
+cv_kmr_000602 common_voice_kmr_25543192.mp3 Ma qehweya te bi şekir e?
+cv_kmr_000603 common_voice_kmr_25543193.mp3 Hatina min ne ji kêfê bû, karê min derket lewma ez hatim.
+cv_kmr_000604 common_voice_kmr_25543194.mp3 wî nan xwar
+cv_kmr_000605 common_voice_kmr_25543195.mp3 Ez dimeşim.
+cv_kmr_000606 common_voice_kmr_25543285.mp3 Bêhna dêya min teng bûye.
+cv_kmr_000607 common_voice_kmr_25543286.mp3 We neanî.
+cv_kmr_000608 common_voice_kmr_25543287.mp3 We ajotiye.
+cv_kmr_000609 common_voice_kmr_34816746.mp3 Tomî dev ji axaftinê berda.
+cv_kmr_000610 common_voice_kmr_34816744.mp3 Ew mamosteyek e.
+cv_kmr_000611 common_voice_kmr_34816748.mp3 Samî li derî mêze dikir.
+cv_kmr_000612 common_voice_kmr_34816828.mp3 Piraniya wan ji ber vê nexweşiyê sax namînin.
+cv_kmr_000613 common_voice_kmr_34816829.mp3 Ez li zanîngehê fêrî zimanê kurdî dibim.
+cv_kmr_000614 common_voice_kmr_34816826.mp3 Ez niha dixwazim Tomî bibînim.
+cv_kmr_000615 common_voice_kmr_34816899.mp3 Te çima em hilbijartin?
+cv_kmr_000616 common_voice_kmr_34816904.mp3 Çavên we vekirî ne?
+cv_kmr_000617 common_voice_kmr_34816971.mp3 Te çi got?
+cv_kmr_000618 common_voice_kmr_24919472.mp3 Demek dirêj bû
+cv_kmr_000619 common_voice_kmr_24919473.mp3 Çekên kîmyewî û yên nukleerî qedexe ne.
+cv_kmr_000620 common_voice_kmr_24919474.mp3 Ew rebenên bi xew in
+cv_kmr_000621 common_voice_kmr_24919476.mp3 Bi rêya rehên xwe, avê ji axê distîne û dide pelên xwe.
+cv_kmr_000622 common_voice_kmr_24919578.mp3 Rêwîtiya min hêdî qediya bû
+cv_kmr_000623 common_voice_kmr_24919579.mp3 Em biyanî ne
+cv_kmr_000624 common_voice_kmr_24919580.mp3 pey Emer dikeve
+cv_kmr_000625 common_voice_kmr_24919581.mp3 Qesir di eyaleta Sariyê di Stokmoranê de ye.
+cv_kmr_000626 common_voice_kmr_24919582.mp3 Encamên baş bi dest dixe.
+cv_kmr_000627 common_voice_kmr_24842226.mp3 Îro em dibînin ku dildar û xîretkêşên zimanê Kurdî roj bi roj zêde dibin.
+cv_kmr_000628 common_voice_kmr_24842227.mp3 min li gund dîwar çê dikir
+cv_kmr_000629 common_voice_kmr_24842228.mp3 Ew bi pirtûka xwe ya bi navê Dîroka Herodot tê naskirin.
+cv_kmr_000630 common_voice_kmr_24842229.mp3 Çekdaran, li Îraqê kargerên şîrketeke parastinê revandin
+cv_kmr_000631 common_voice_kmr_24842231.mp3 Rengê pênûsa mamostê qehweyî ye
+cv_kmr_000632 common_voice_kmr_24842265.mp3 Mîna malê bavê xwe bixwe
+cv_kmr_000633 common_voice_kmr_24842266.mp3 Di wê pêşbirkê de helbesta Ersoy a bi navê Netirse!
+cv_kmr_000634 common_voice_kmr_24842267.mp3 Sal derbas dibin
+cv_kmr_000635 common_voice_kmr_24842268.mp3 Li bajêr, biroj derketina derve qedexe kirin
+cv_kmr_000636 common_voice_kmr_24924919.mp3 ku yekî feqîr tiştekî dikire jê re dibêjin: “Te ji ku hanî?”
+cv_kmr_000637 common_voice_kmr_24924920.mp3 Ev kovar, di destpêkê de ji aliyê naverokê ve qels û lawaz bû
+cv_kmr_000638 common_voice_kmr_24924922.mp3 Hin nexweşî ji lawiran vediguhezin mirovan.
+cv_kmr_000639 common_voice_kmr_24924923.mp3 Wî jî, hêvî kiribû ku rojekê weke wê azad be
+cv_kmr_000640 common_voice_kmr_24924924.mp3 Ez û hevalên xwe bi hev re dilîzin.
+cv_kmr_000641 common_voice_kmr_24924956.mp3 li ber çira min bi dizî pirtukê şerî’etê dixwend.
+cv_kmr_000642 common_voice_kmr_24924958.mp3 Li ser mirov tesîreke pir xweş dike.
+cv_kmr_000643 common_voice_kmr_24924963.mp3 Armanca vê televîzyona serbixwe, weşana çandî û perwerdeyî ye
+cv_kmr_000644 common_voice_kmr_24924965.mp3 Divê xêzên rengan dernekevin derveyî teşeyê.
+cv_kmr_000645 common_voice_kmr_34826943.mp3 Ev rê we ber bi ku ve dibe?
+cv_kmr_000646 common_voice_kmr_34827038.mp3 Wê hestiyek da kûçikê xwe.
+cv_kmr_000647 common_voice_kmr_34827040.mp3 Ev kitêb reş e.
+cv_kmr_000648 common_voice_kmr_34827269.mp3 Tom û Zana pir caran bi hev re bi fransî dipeyivin.
+cv_kmr_000649 common_voice_kmr_34827428.mp3 Tom pirsgirêkek di makîneya wî de dît.
+cv_kmr_000650 common_voice_kmr_34827571.mp3 Erê, ez zewicî me.
+cv_kmr_000651 common_voice_kmr_34827747.mp3 Nefron yekeyên parzûnkirinê ne di nav gurçikan de.
+cv_kmr_000652 common_voice_kmr_34827887.mp3 Ew dil e.
+cv_kmr_000653 common_voice_kmr_34827892.mp3 Ez tevahiya rojê pir xebitîm lewma ez betilî bûm.
+cv_kmr_000654 common_voice_kmr_33865314.mp3 Em di nava rojekê de pir karan dikin.
+cv_kmr_000655 common_voice_kmr_33865311.mp3 ez çîrçîrokan dixwînim
+cv_kmr_000656 common_voice_kmr_33865374.mp3 nayê wê wateyê ku ziman cuda ne.
+cv_kmr_000657 common_voice_kmr_33865377.mp3 Her cihekî welêt bi hebûna tiştekî navdar e.
+cv_kmr_000658 common_voice_kmr_33865427.mp3 kurê xwe yê biçûk daye kêleka xwe
+cv_kmr_000659 common_voice_kmr_33865428.mp3 Çar jûr di mala me de hene.
+cv_kmr_000660 common_voice_kmr_33865460.mp3 hûn bi aqilê xwe pir bawer in
+cv_kmr_000661 common_voice_kmr_33865461.mp3 Dîn yek e cudahî tinîne
+cv_kmr_000662 common_voice_kmr_33865462.mp3 Werin alî min bikin em ê daran biçînin.
+cv_kmr_000663 common_voice_kmr_24956584.mp3 Ew tê
+cv_kmr_000664 common_voice_kmr_24956585.mp3 Li Hewlêrê, Pêşengeha Navdewletî hate vekirin
+cv_kmr_000665 common_voice_kmr_24956586.mp3 Wexta li ser Helepçê çekên kîmyawî barandin
+cv_kmr_000666 common_voice_kmr_24956587.mp3 Heta me dewar komê serhev dikirin wext ber nîvro dibû
+cv_kmr_000667 common_voice_kmr_24956588.mp3 Ku zarok negrî dê şîr nadyê.
+cv_kmr_000668 common_voice_kmr_25053669.mp3 Hêja ye pir dêya min.
+cv_kmr_000669 common_voice_kmr_25053670.mp3 Li gelek mizgeftan nimêj kir.
+cv_kmr_000670 common_voice_kmr_25053672.mp3 We ez dîtim
+cv_kmr_000671 common_voice_kmr_25053674.mp3 Yan jî mala me li rojavayê komîngehê ye.
+cv_kmr_000672 common_voice_kmr_25648285.mp3 Raweste!
+cv_kmr_000673 common_voice_kmr_25648287.mp3 Tim dibêje erê.
+cv_kmr_000674 common_voice_kmr_25648294.mp3 Bila hêsan be!
+cv_kmr_000675 common_voice_kmr_25648297.mp3 Here ji wî bipirse.
+cv_kmr_000676 common_voice_kmr_25648322.mp3 Axirkê!
+cv_kmr_000677 common_voice_kmr_25648327.mp3 Ez çar salan li Amedê jiyîm.
+cv_kmr_000678 common_voice_kmr_25648335.mp3 Ma zimanê te guran xwariye.
+cv_kmr_000679 common_voice_kmr_25648338.mp3 Qelew bûye.
+cv_kmr_000680 common_voice_kmr_25648340.mp3 Em bi hev re radizên.
+cv_kmr_000681 common_voice_kmr_25648342.mp3 Ev projeya ji bo Kurdî pir girîng e.
+cv_kmr_000682 common_voice_kmr_25093775.mp3 ez çîrçîrokan dixwînim
+cv_kmr_000683 common_voice_kmr_25093777.mp3 jî derbas dibû
+cv_kmr_000684 common_voice_kmr_25093778.mp3 Pol û dibistana xwe paqij kirin.
+cv_kmr_000685 common_voice_kmr_25093779.mp3 di rê de rastê mirovekî bi salê yê ecêp tê
+cv_kmr_000686 common_voice_kmr_25093780.mp3 Memoste, heval û malbata min, ji dengê min hez dikin.
+cv_kmr_000687 common_voice_kmr_25093811.mp3 Hinekên bikin hinekên bixwin
+cv_kmr_000688 common_voice_kmr_25093812.mp3 Min digirt
+cv_kmr_000689 common_voice_kmr_25093813.mp3 Nûnerê Îranê, gef li Îsraîl û Emerîkayê xwar
+cv_kmr_000690 common_voice_kmr_25093814.mp3 Ji kerema xwe dersa bi zimanê Kurdî hilbijêrin.
+cv_kmr_000691 common_voice_kmr_25093815.mp3 Holmes li ser text rûnişt, ez jî li ser qenefê rûniştim.
+cv_kmr_000692 common_voice_kmr_34923732.mp3 Guhên dîwar hene.
+cv_kmr_000693 common_voice_kmr_34923815.mp3 Tom ji we pirtir dişitexile.
+cv_kmr_000694 common_voice_kmr_34923816.mp3 Pirteqal xwedî naverokeke zêde ya vîtamînê ye.
+cv_kmr_000695 common_voice_kmr_34923855.mp3 Tom nizanibû ku Mary li ku çûbû dibistanê.
+cv_kmr_000696 common_voice_kmr_34923880.mp3 Ez meraq dikim ka çi wî ditirsîne.
+cv_kmr_000697 common_voice_kmr_34923915.mp3 Di laşê we de gelek hestî hene
+cv_kmr_000698 common_voice_kmr_34924001.mp3 Jan bi telefonê jî negeriya.
+cv_kmr_000699 common_voice_kmr_34924013.mp3 Plana te bi rastî jî bi kêr hat.
+cv_kmr_000700 common_voice_kmr_34924017.mp3 Tom kêf kir.
+cv_kmr_000701 common_voice_kmr_34924199.mp3 Ev mêşhingiv e.
+cv_kmr_000702 common_voice_kmr_25053431.mp3 Barzanî, ji serdana Ewropayê vegeriya welêt
+cv_kmr_000703 common_voice_kmr_25053432.mp3 Di rojnameyan de nivîsên der barê rojê de hatin weşandin.
+cv_kmr_000704 common_voice_kmr_25053433.mp3 Peyama min ew e, êdî bes e, ew ne baş e!
+cv_kmr_000705 common_voice_kmr_25053434.mp3 Zarok di mal de bingeha jiyan a xwe ava dike.
+cv_kmr_000706 common_voice_kmr_25053435.mp3 Na, tu hevala min î.
+cv_kmr_000707 common_voice_kmr_25053465.mp3 Li min porkurê!
+cv_kmr_000708 common_voice_kmr_25053466.mp3 Sîwan ji nişkan ve got: Hevalino!
+cv_kmr_000709 common_voice_kmr_25053467.mp3 Weke ajokar em li ser kursiyê rûnin û tevgerên wî lasa bikin.
+cv_kmr_000710 common_voice_kmr_25053468.mp3 teknolojiye bikar bîne
+cv_kmr_000711 common_voice_kmr_25053469.mp3 Em îşev hev bibînin.
+cv_kmr_000712 common_voice_kmr_24939724.mp3 Pêlên mêran mîna pêlên behrê ye
+cv_kmr_000713 common_voice_kmr_24939725.mp3 Her wiha, vexwandinên ji bo nirxandina hevpar a lêkolînê hene.
+cv_kmr_000714 common_voice_kmr_24939726.mp3 Ev Gotinên Pêşiyan tev li devera gund hatine berhevkirin
+cv_kmr_000715 common_voice_kmr_24939727.mp3 Jêhatîbûn di bingeha xwe de hizirê diparêze.
+cv_kmr_000716 common_voice_kmr_24939728.mp3 Bi şêwazeke çors got:
+cv_kmr_000717 common_voice_kmr_24939738.mp3 Paqijkirina diranan, me ji nexweşiyan diparêze.
+cv_kmr_000718 common_voice_kmr_24939739.mp3 Kurd bi hukumetê re peymanek çêkiriye
+cv_kmr_000719 common_voice_kmr_24939741.mp3 Ku Xwedê bide wê mele çi bike.
+cv_kmr_000720 common_voice_kmr_24939742.mp3 Wey mirinê qebra xedar
+cv_kmr_000721 common_voice_kmr_24939743.mp3 hûn kî ne?
+cv_kmr_000722 common_voice_kmr_33530986.mp3 Mîhrîcana Amedê, dê ji bo aştiyê deng bide

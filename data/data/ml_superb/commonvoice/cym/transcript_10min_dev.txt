@@ -1,0 +1,105 @@
+cv_cym_000000 common_voice_cy_31488241.mp3 Mae ganddi chwaer iau.
+cv_cym_000001 common_voice_cy_24454255.mp3 Byddai'n grêt petaet ti'n cael dyrchafiad.
+cv_cym_000002 common_voice_cy_18357273.mp3 Rhedais i ffwrdd heb ddweud dim wrthi am beth ddigwyddodd.
+cv_cym_000003 common_voice_cy_19132010.mp3 Faint mae ystafell sengl yn ei gostio?
+cv_cym_000004 common_voice_cy_24434766.mp3 Mae'r rhai hyn, ac amryw o ymgeiswyr pellach, wedi aflwyddo mewn rhan.
+cv_cym_000005 common_voice_cy_24143678.mp3 Roedd y cychod yn y marina yn paratoi ar gyfer y gaeaf.
+cv_cym_000006 common_voice_cy_31535212.mp3 Fodd bynnag, nid oedd gan Charles unrhyw fwriad o ymladd.
+cv_cym_000007 common_voice_cy_19033733.mp3 Mae hi'n ugain munud i ddau.
+cv_cym_000008 common_voice_cy_20319692.mp3 Mae arweinyddiaeth yr ysgol yn gadarn, yn llwyddiannus ac yn deg iawn
+cv_cym_000009 common_voice_cy_26994258.mp3 Gostiodd e lot o arian.
+cv_cym_000010 common_voice_cy_30478926.mp3 Am yr un rheswm, cymeradwyodd e'r enwebiadau Gweriniaethol i'r Gyngres.
+cv_cym_000011 common_voice_cy_27209066.mp3 Rwy'n teimlo bod y cwricwlwm rwy'n ei astudio yn gynhwysol
+cv_cym_000012 common_voice_cy_21400225.mp3 Yr oedd Dafydd wedi mynd i edrych am y defaid, a Phero gydag ef.
+cv_cym_000013 common_voice_cy_19019103.mp3 Mae hi a'r plant yn dod i ymweld â ni rhywbryd yn y mis nesaf.
+cv_cym_000014 common_voice_cy_19213053.mp3 Mae o'n borffor.
+cv_cym_000015 common_voice_cy_24421294.mp3 Roedd hi i weld yn deall ac yn gwerthfawrogi'r problemau.
+cv_cym_000016 common_voice_cy_24959644.mp3 Cawsom brofion ei fod ynte yn meddu doniau nodedig iawn.
+cv_cym_000017 common_voice_cy_24467003.mp3 Erbyn heddiw mae eu gwaith yn cael ei arddangos ledled y byd
+cv_cym_000018 common_voice_cy_25299136.mp3 Deth y postmon â pharsel mawr i mi bore 'ma.
+cv_cym_000019 common_voice_cy_22193168.mp3 un
+cv_cym_000020 common_voice_cy_31959855.mp3 Dyn mewn gwisg siriol glas a choch.
+cv_cym_000021 common_voice_cy_18373874.mp3 Byddai angen mynd lawr i'r siop ar y bws i gyrraedd mewn pryd.
+cv_cym_000022 common_voice_cy_24532361.mp3 Y ddwy ffactor wahanol yw tebygoliaeth y risg a difrifoldeb y perygl
+cv_cym_000023 common_voice_cy_19059617.mp3 Mae hi'n chwarter i ddau.
+cv_cym_000024 common_voice_cy_24520701.mp3 Ydych chi wedi dŵad yn ôl yn barod, ac wedi cysgu hefyd?
+cv_cym_000025 common_voice_cy_18295842.mp3 Mae'n flin gen i, nes i wir anghofio mynd i mewn i'r tŷ yn y gwaelod.
+cv_cym_000026 common_voice_cy_27862715.mp3 Creodd pob myfyriwr wagle llawn dychymyg, a defnyddiodd llawn botensial y deunyddiau
+cv_cym_000027 common_voice_cy_24429117.mp3 Gwelodd Bob na fedrwn gerdded, a chymerodd fi ar ei gefn.
+cv_cym_000028 common_voice_cy_24383529.mp3 Un o'r rhesymau yma yw'r newid mewn gwerthoedd cymdeithasol
+cv_cym_000029 common_voice_cy_24005148.mp3 Daeth llencyn heibio gan chwibanu.
+cv_cym_000030 common_voice_cy_24441962.mp3 Ond nid oes gennyt ddiolch i mi am ddim un o'r pethau hyn.
+cv_cym_000031 common_voice_cy_18665992.mp3 Dim ots, gwaith dros dro yw'r recordio.
+cv_cym_000032 common_voice_cy_24478830.mp3 Allan o'r twll syllai ben bychan bach gyda phâr o lygaid ofnus ynddo.
+cv_cym_000033 common_voice_cy_19264875.mp3 Mae hi'n feichiog.
+cv_cym_000034 common_voice_cy_23996408.mp3 Ond gall tebygolrwydd amodol achosi tramgwydd, ac mae angen dehongli'n ofalus.
+cv_cym_000035 common_voice_cy_18381372.mp3 A fuest ti i weld y lliw glas hyfryd sydd ar yr awyr?
+cv_cym_000036 common_voice_cy_24533015.mp3 Mae'r cennin Pedr yn eu gogoniant ar hyn o bryd.
+cv_cym_000037 common_voice_cy_18933184.mp3 Ble mae'r cyfleusterau cyhoeddus agosaf?
+cv_cym_000038 common_voice_cy_27314507.mp3 Mae'r fferyllydd angen gwrando ar y cleifion er mwyn adeiladu perthynas gyda nhw
+cv_cym_000039 common_voice_cy_18570664.mp3 Ydy, mae hi'n digwydd bod yma felly rydw i wedi dod yn ôl am y sgwrs.
+cv_cym_000040 common_voice_cy_18450753.mp3 Roeddech chi ar eich ffordd nôl ar y diwrnod hwnnw.
+cv_cym_000041 common_voice_cy_30472762.mp3 Deilliodd ei briodas gyntaf fab cyn dod i ben gydag ysgariad.
+cv_cym_000042 common_voice_cy_26439539.mp3 Mae papur saniteiddio ar gael am ddim ar hyd coridorau'r brifysgol.
+cv_cym_000043 common_voice_cy_24144027.mp3 Fedri di argymell llyfr arall i fi ddarllen?
+cv_cym_000044 common_voice_cy_27313949.mp3 Hoffech chi gael darn arall o dost?
+cv_cym_000045 common_voice_cy_24469370.mp3 Gwasgodd ei gwefusau tenau yn dynnach at ei gilydd.
+cv_cym_000046 common_voice_cy_25064610.mp3 Eto rwyt ti wedi ymdrechu i ateb y cwestiynau
+cv_cym_000047 common_voice_cy_33786261.mp3 Maen nhw'n cynhyrchu secretiadau lled ludiog sy'n cynnwys fferomonau a chyfansoddion semeiogemegol eraill.
+cv_cym_000048 common_voice_cy_33425220.mp3 Mae'r farchnad ar gyfer ceir hynafol wedi amrywio'n wyllt dros y blynyddoedd.
+cv_cym_000049 common_voice_cy_18128786.mp3 Beuno, trotscïaeth, peipen, cerrig llwydion, ffawt, tangnefedd, fwyell, hoe
+cv_cym_000050 common_voice_cy_19007151.mp3 Dw i'n dysgu mathemateg.
+cv_cym_000051 common_voice_cy_19182424.mp3 Nid yw nifer y dorf sydd yn dod i wylio yn uchel.
+cv_cym_000052 common_voice_cy_18157155.mp3 Wyt ti angen eistedd lawr?
+cv_cym_000053 common_voice_cy_27772743.mp3 Be sy'n bod?
+cv_cym_000054 common_voice_cy_32176247.mp3 Mae'r garfan yn penderfynu ennill y wobr am y platŵn gorau ar bob cyfrif.
+cv_cym_000055 common_voice_cy_19078054.mp3 Mae dwy ystafell wely.
+cv_cym_000056 common_voice_cy_17811920.mp3 Ydy, mae hi'n digwydd bod yma felly rydw i wedi dod yn ôl am y sgwrs.
+cv_cym_000057 common_voice_cy_17299824.mp3 Beth ydy pris yr oriawr yna?
+cv_cym_000058 common_voice_cy_19197029.mp3 Felly dyna sydd angen gwneud er mwyn iddi hi barhau i weithio.
+cv_cym_000059 common_voice_cy_24568204.mp3 A does neb byth wedi ffonio nôl.
+cv_cym_000060 common_voice_cy_24429289.mp3 Mae'n cynrychioli'r amser ychydig cyn datblygiad bywyd ar y Ddaear.
+cv_cym_000061 common_voice_cy_24451518.mp3 Rwy'n falch o weld y mymryn golau yna yn disgleirio.
+cv_cym_000062 common_voice_cy_19028293.mp3 rhai, steroid, cefnogaeth, felen, cau, garej, angau, ymhlith
+cv_cym_000063 common_voice_cy_24582028.mp3 Roedd Parry yn unig fab i'r cerddor John Parry a Maria ei wraig.
+cv_cym_000064 common_voice_cy_24596932.mp3 Trafodwch yr effeithiau mae cyfrifiaduron yn cael yn y gweithle
+cv_cym_000065 common_voice_cy_24440529.mp3 Yn anffodus, nid fi oedd y cogydd.
+cv_cym_000066 common_voice_cy_24002606.mp3 Gawn ni gytuno mai rwanawr ydy'r gair?
+cv_cym_000067 common_voice_cy_24438658.mp3 Priododd ddwywaith, yn gyntaf â Mary Jones, merch y Cyrnol.
+cv_cym_000068 common_voice_cy_24453999.mp3 Eleni, roedd Hannah a Steven yn dathlu deugain mlynedd o fywyd priodasol.
+cv_cym_000069 common_voice_cy_18430917.mp3 Es i draw at y dyn ac mae ugain llyfr ar ôl i'r ferch allu cael dros yr haf.
+cv_cym_000070 common_voice_cy_24530726.mp3 Ar ochr y mynydd ac ar ochr y môr, y mae amaethdy Glasynys.
+cv_cym_000071 common_voice_cy_24453269.mp3 Ceir tafell denau o salami gyda garnais o ansiofis ac ychydig o olewydd du.
+cv_cym_000072 common_voice_cy_24776637.mp3 Rho wybod os wyt ti'n cael problem llwytho i fyny.
+cv_cym_000073 common_voice_cy_19217965.mp3 Sut mae anifeiliaid yn edrych ar ôl eu dannedd?
+cv_cym_000074 common_voice_cy_19534726.mp3 Ond nid oes gan bob un o'r cyrff yr un lefel o awdurdod.
+cv_cym_000075 common_voice_cy_18370436.mp3 Dydy e ddim yn deg arni hi na'r bobl chwaith.
+cv_cym_000076 common_voice_cy_18582891.mp3 Dim ots, gwaith dros dro yw'r recordio.
+cv_cym_000077 common_voice_cy_24019325.mp3 Enwad Cristnogol Protestannaidd yw Eglwys y Bedyddwyr neu'r Bedyddwyr.
+cv_cym_000078 common_voice_cy_18118079.mp3 Mae'r ddau'n cael hwyl gyda'i gilydd yn chwarae wrth y llyn.
+cv_cym_000079 common_voice_cy_18266665.mp3 Tynnodd e ddim lluniau cyn gorffen ei waith.
+cv_cym_000080 common_voice_cy_18266668.mp3 Beth sy'n bod?
+cv_cym_000081 common_voice_cy_18499268.mp3 Beth yw enw dy dad?
+cv_cym_000082 common_voice_cy_18499269.mp3 Mae'r llawr yn oer iawn.
+cv_cym_000083 common_voice_cy_22773061.mp3 Nofel ar gyfer plant a'r arddegau gan Dafydd Price Jones yw Nefoedd Wen!
+cv_cym_000084 common_voice_cy_22773062.mp3 Yma hefyd mae bedd Twm o'r Nant.
+cv_cym_000085 common_voice_cy_19190949.mp3 Dywedodd Alun Davies bod angen edrych eto ar y safonau wrth greu deddf iaith newydd.
+cv_cym_000086 common_voice_cy_19190952.mp3 Mae disgwyl i bris gosod cofeb hefyd godi.
+cv_cym_000087 common_voice_cy_20245431.mp3 Mae'r broses o greu theatr a chreu ymgyrch yn broses debyg iawn
+cv_cym_000088 common_voice_cy_20245432.mp3 Dw i'n edrych ymlaen at gael dathlu dy ddiwrnod hefo chdi
+cv_cym_000089 common_voice_cy_33280655.mp3 Un fenyw'n talu am bryniant wrth i'r ddwy fenyw arall edrych ar gylchgronau.
+cv_cym_000090 common_voice_cy_33280756.mp3 Ar ben y goron roedd dau angor aur wedi'u croesi.
+cv_cym_000091 common_voice_cy_28838697.mp3 Maint canolog ydyn nhw fel arfer, weithiau yn fwy, ar ffurf silindr.
+cv_cym_000092 common_voice_cy_28838713.mp3 Am y rheswm hwn adeiladwyd gorsaf fesur ar y copa.
+cv_cym_000093 common_voice_cy_18490808.mp3 A fuest ti i weld y lliw glas hyfryd sydd ar yr awyr?
+cv_cym_000094 common_voice_cy_18490809.mp3 Roeddech chi ar eich ffordd nôl ar y diwrnod hwnnw.
+cv_cym_000095 common_voice_cy_24002626.mp3 Teithlyfr gan Elin Llwyd Morgan yw Tafarnau Cymru.
+cv_cym_000096 common_voice_cy_24002627.mp3 Dengys ymchwiliadau fod rhieni'n poeni'n ormodol am hyn.
+cv_cym_000097 common_voice_cy_18367135.mp3 Doeddwn i ddim yn gwybod os oeddet ti mewn brys neu beidio.
+cv_cym_000098 common_voice_cy_18370684.mp3 Dydy e ddim yn deg arni hi na'r bobl chwaith.
+cv_cym_000099 common_voice_cy_19017576.mp3 Beth yw gweddi'r Arglwydd?
+cv_cym_000100 common_voice_cy_19017578.mp3 Dw i eisiau cael ad-daliad.
+cv_cym_000101 common_voice_cy_22662877.mp3 pedwar
+cv_cym_000102 common_voice_cy_22662883.mp3 wyth
+cv_cym_000103 common_voice_cy_19047573.mp3 Mae hi'n meddwl fy mod i'n annwyl weithiau.
+cv_cym_000104 common_voice_cy_19047575.mp3 O le wyt ti'n dod?

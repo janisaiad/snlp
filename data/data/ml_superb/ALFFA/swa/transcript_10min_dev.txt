@@ -1,0 +1,171 @@
+ALFFA_swa_000175	SWH-05-20110123_16k-emission_swahili_05h30_-_06h00_tu_20110123_part121	tutakapo kuwa na mjadala mwingine kama huu labda mwenzangu unaona nakumalizia
+ALFFA_swa_000176	16k-emission_swahili_15h00_-_16h00_tu_20110311_part211g	ziko zinaingia kwenye machafuko nurdin ni hayo tu jioni ya leo
+ALFFA_swa_000177	16k-emission_swahili_05h30_-_06h00_tu_20101211_part101g	anadai kuwa madai ya ocampo kuwa amefanya uchunguzi ni ya uongo
+ALFFA_swa_000178	SWH-15-20101103_emission_swahili_15h00_-_16h00_tu_20101103_part144	alifunguliwa mashtaka mwaka elfu mbili na sita
+ALFFA_swa_000179	SWH-15-20101113_16k-emission_swahili_15h00_-_16h00_tu_20101113_part133	hizi ni materials ambazo zinatengenezwa kwenye viwanda
+ALFFA_swa_000180	SWH-05-20110125_16k-emission_swahili_05h30_-_06h00_tu_20110125_part77	akiamini ndio yamekuwa yakichangia kiongozi anayetawala kimabavu lauren badgbo
+ALFFA_swa_000181	SWH-15-20110124_16k-emission_swahili_15h00_-_16h00_tu_20110124_part193	la utunzaji wa mazingira
+ALFFA_swa_000182	SWH-15-20101109_emission_swahili_15h00_-_16h00_tu_20101109_part59	nchi za pakistan na afghanistan
+ALFFA_swa_000183	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part4	naitwa nurdin selemani kwanza ni mkhutsari wa habari
+ALFFA_swa_000184	SWH-15-20101117_16k-emission_swahili_15h00_-_16h00_tu_20101117_part315	ee ambao ambao ndio walitakiwa
+ALFFA_swa_000185	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part169	shukrani sana emanuel makundi nikutakie tu jioni njema asante sana nawe jioni njema
+ALFFA_swa_000186	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part472	na jopo la marais watano wa umoja wa afrika au waendelea na juhudi zao
+ALFFA_swa_000187	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part301	ambapo umehudhuriwa na hasimu wake alisan watara
+ALFFA_swa_000188	SWH-15-20101104_emission_swahili_15h00_-_16h00_tu_20101104_part74	amesema tuzo hiyo pia inatambua michango ya watetezi wa haki za binadamu katika nchi mbali mbali
+ALFFA_swa_000189	SWH-15-20101113_16k-emission_swahili_15h00_-_16h00_tu_20101113_part195	hapa mlalakuwa mkabala na mlimani city
+ALFFA_swa_000190	SWH-15-20101109_emission_swahili_15h00_-_16h00_tu_20101109_part339	ndipo ambapo bunge inakuwa kwa kweli haitafaa
+ALFFA_swa_000191	SWH-05-20101123_16k-emission_swahili_05h30_-_06h00_tu_20101123_part51	na dakika thelathini na tano kwa saa za afrika ya mashariki
+ALFFA_swa_000192	SWH-15-20101130_16k-emission_swahili_15h00_-_16h00_tu_20101130_part348	kujadili namna ya kukabiliana na mabadiliko ya tabia nchi
+ALFFA_swa_000193	SWH-15-20110207_16k-emission_swahili_15h00_-_16h00_tu_20110207_part252	kwa mara nyingine namkaribisha dokta ruben omato kutoka nchini tanzania
+ALFFA_swa_000194	SWH-05-20101113_16k-emission_swahili_05h30_-_06h00_tu_20101113_part39	naam nikiangalia wakati ni saa mbili na dakika thelathini na nne basi nakualika
+ALFFA_swa_000195	16k-emission_swahili_15h00_-_16h00_tu_20110311_part116g	tume ya taifa uchaguzi imesema itahakikisha uchaguzi unafanyika kwani idadi
+ALFFA_swa_000196	SWH-15-20110124_16k-emission_swahili_15h00_-_16h00_tu_20110124_part456	huwa hayo matendo wakipatikana walikokimbia
+ALFFA_swa_000197	SWH-15-20110207_16k-emission_swahili_15h00_-_16h00_tu_20110207_part167	au itaendeleza ndio kuviirudisha nyuma
+ALFFA_swa_000198	SWH-15-20101104_emission_swahili_15h00_-_16h00_tu_20101104_part422	kitu gani unaweza ukakieleza leo
+ALFFA_swa_000199	SWH-15-20110126_16k-emission_swahili_15h00_-_16h00_tu_20110126_part411	ni habari rafiki hii leo msikilizaji
+ALFFA_swa_000200	SWH-15-20101115_16k-emission_swahili_15h00_-_16h00_tu_20101115_part140	kustaajabisha kwa sababu mkongwe ambaye ni bingwa marathon wa dunia
+ALFFA_swa_000201	16k-emission_swahili_15h00_-_16h00_tu_20110323_part070g	rais wa afghanstan hamid karizai amewashauri wanamgambo wa taliban kusitisha kufanya mashambulizi
+ALFFA_swa_000202	SWH-15-20101117_16k-emission_swahili_15h00_-_16h00_tu_20101117_part230	na kwa wakati tarehe tisa mwezi januari mwaka ujao
+ALFFA_swa_000203	SWH-05-20110123_16k-emission_swahili_05h30_-_06h00_tu_20110123_part107	kusikia masikioni lakini sasa jambo ni kwamba nimeona wakati mwingi
+ALFFA_swa_000204	SWH-15-20110207_16k-emission_swahili_15h00_-_16h00_tu_20110207_part19	wanachotaka ni huyu bwana aondokee wamekumbana na matatizo mengi nadhani wameona labda
+ALFFA_swa_000205	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part72	karibu na mji mkuu mosco kushika moto
+ALFFA_swa_000206	16k-emission_swahili_15h00_-_16h00_tu_20110311_part245g	wamesha tamuka wazi kumtaka kanali gaddafi
+ALFFA_swa_000207	SWH-05-20101110_16k-emission_swahili_15h00_-_16h00_tu_20101110_part358	wakiwa majumbani na hata wengine wakiwa jiani
+ALFFA_swa_000208	SWH-05-20101113_16k-emission_swahili_05h30_-_06h00_tu_20101113_part155	juma hili limeshuhudia mauwaji ya wakristo zaidi ya arobaini huko nchini iraq
+ALFFA_swa_000209	SWH-15-20101115_16k-emission_swahili_15h00_-_16h00_tu_20101115_part93	pamoja na burundi na uganda nchi zilizotuma wanajeshi nchini somalia ndio wanaoshiriki mkutano huo
+ALFFA_swa_000210	SWH-05-20110327_16k-emission_swahili_05h30_-_06h00_tu_20110327_part80	aa manungu mtibwa
+ALFFA_swa_000211	SWH-15-20101117_16k-emission_swahili_15h00_-_16h00_tu_20101117_part256	hadi sasa huenda idadi kubwa zaidi ya watu
+ALFFA_swa_000212	SWH-15-20101103_emission_swahili_15h00_-_16h00_tu_20101103_part404	baada ya mashirika ya kutetea haki za kibinadamu
+ALFFA_swa_000213	SWH-05-20110327_16k-emission_swahili_05h30_-_06h00_tu_20110327_part96	aa makubwa kama kombe la dunia na mara nyingi kombe la mataifa bingwa barani afrika
+ALFFA_swa_000214	SWH-15-20110303_16k-emission_swahili_15h00_-_16h00_tu_20110303_part298	ambapo waliwafiatulia risasi polisi hao katika maeneo
+ALFFA_swa_000215	SWH-05-20101106_16k-emission_swahili_05h30_-_06h00_tu_20101106_part79	tanzania si salama hata comoro si salama
+ALFFA_swa_000216	SWH-05-20101109_emission_swahili_05h30_-_06h00_tu_20101109_part138	watawapa tatizo watakaobaki yaani wakristo watakaobaki
+ALFFA_swa_000217	SWH-15-20101103_emission_swahili_15h00_-_16h00_tu_20101103_part462	yaani kunamkumbali tanzania zima ulipiga kura wewe
+ALFFA_swa_000218	SWH-15-20101227_16k-emission_swahili_15h00_-_16h00_tu_20101227_part147	ana wachezaji ana wachezaji wengi sana mechi ya soka kulipo huko uingereza lakini mara nyingi katika mashindano haya zuhra mwera
+ALFFA_swa_000219	SWH-15-20101227_16k-emission_swahili_15h00_-_16h00_tu_20101227_part440	nitakutakia mwaka mpya mwema tukiusubiri
+ALFFA_swa_000220	SWH-15-20101117_16k-emission_swahili_15h00_-_16h00_tu_20101117_part325	nchi za afrika pia hazijawa na
+ALFFA_swa_000221	16k-emission_swahili_05h30_-_06h00_tu_20101124_part205m	yataja tarehe ya uchaguzi mkuu wa nchi hiyo
+ALFFA_swa_000222	SWH-05-20101111_emission_swahili_05h30_-_06h00_tu_20101111_part155	kitatuwezesha tuangalie ni nini inaweza
+ALFFA_swa_000223	SWH-05-20101107_16k-emission_swahili_05h30_-_06h00_tu_20101107_part40	anasema hata yeye alinyimwa ruhusa ya kuwaona
+ALFFA_swa_000224	SWH-15-20101113_16k-emission_swahili_15h00_-_16h00_tu_20101113_part370	lengo lao ni kuimarisha usalama na hakuna yeyote ambaye atazuiwa
+ALFFA_swa_000225	SWH-15-20110303_16k-emission_swahili_15h00_-_16h00_tu_20110303_part152	hii habari hii zuhra ni kuwa wale wote wanaofuga wanyama kama paka
+ALFFA_swa_000226	SWH-15-20101117_16k-emission_swahili_15h00_-_16h00_tu_20101117_part41	ulitoa saini mwezi aprili mwaka huu kati ya rais wa marekani barack obama
+ALFFA_swa_000227	16k-emission_swahili_05h30_-_06h00_tu_20101211_part134g	lakini tofauti na matumaini waliyokuwa nayo wao wote wawili
+ALFFA_swa_000228	SWH-15-20101130_16k-emission_swahili_15h00_-_16h00_tu_20101130_part101	da dosi wa redio france international
+ALFFA_swa_000229	SWH-15-20101130_16k-emission_swahili_15h00_-_16h00_tu_20101130_part432	tukiendelea kuburudika kutoka ndani ya matatu hiyo uko eneo gani sasa hivi hapo
+ALFFA_swa_000230	16k-emission_swahili_15h00_-_16h00_tu_20110311_part447l	na uja uzito ule lazima udhibitishwe kisayansi kwamba mtu huyu ana uja uzito huwezi kusema tu kwamba ni suala la imani tu
+ALFFA_swa_000231	SWH-15-20101117_16k-emission_swahili_15h00_-_16h00_tu_20101117_part204	kati ya mtu kutoka nje mwekezaji kutoka nje na mwekezaji wa ndani
+ALFFA_swa_000232	SWH-15-20110207_16k-emission_swahili_15h00_-_16h00_tu_20110207_part220	na huku uwezo wa kuongeza muindo mbinu bado
+ALFFA_swa_000233	SWH-05-20101121_16k-emission_swahili_05h30_-_06h00_tu_20101121_part46	na vile vile kuinua uchumi kwa taifa hilo
+ALFFA_swa_000234	SWH-15-20101109_emission_swahili_15h00_-_16h00_tu_20101109_part223	sehemu za tanzania na wenyewe wanavutia kwao rwan
+ALFFA_swa_000235	SWH-15-20110224_16k-emission_swahili_15h00_-_16h00_tu_20110224_part119	lilili gundulika katika jimbo la asia likifanya mazoezi ya kijeshi
+ALFFA_swa_000236	SWH-15-20110124_16k-emission_swahili_15h00_-_16h00_tu_20110124_part455	machoni pake ni mambo ya huzuni sana ila
+ALFFA_swa_000237	SWH-15-20101104_emission_swahili_15h00_-_16h00_tu_20101104_part297	kwa vile ndani yake kuna abiria ishirini ambao miongoni mwao ni wanawake watoto
+ALFFA_swa_000238	SWH-05-20101107_16k-emission_swahili_05h30_-_06h00_tu_20101107_part52	ambapo juma hili atakuwa anaangazia
+ALFFA_swa_000239	SWH-05-20101109_emission_swahili_05h30_-_06h00_tu_20101109_part6	tume ya uchaguzi nchini guinea ya sema matukio rasmi ya urais
+ALFFA_swa_000240	SWH-15-20101115_16k-emission_swahili_15h00_-_16h00_tu_20101115_part390	naam ni sauti yake mhadhiri msaidizi kutoka chuo kikuu cha dar es salaam
+ALFFA_swa_000241	SWH-15-20110224_16k-emission_swahili_15h00_-_16h00_tu_20110224_part331	yamegundulika kupitishwa gambia na hatimaye kuwafikia waasi hao
+ALFFA_swa_000242	16k-emission_swahili_15h00_-_16h00_tu_20110323_part437n	asante sana hilo ni swali zuri sana na ni changamoto namba moja ya mamlaka
+ALFFA_swa_000243	SWH-15-20101130_16k-emission_swahili_15h00_-_16h00_tu_20101130_part354	kwa sababu utakwenda hatua zaidi ya pale ulipofika copenhagen
+ALFFA_swa_000244	SWH-15-20101104_emission_swahili_15h00_-_16h00_tu_20101104_part247	maana yake kuna chama tawala na kuna chama cha upinzani au chama
+ALFFA_swa_000245	SWH-15-20101117_16k-emission_swahili_15h00_-_16h00_tu_20101117_part328	idd hajj njema na katika simu
+ALFFA_swa_000246	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part250	wale waliohusika wale walio waliofanya huu mkataba pamoja wa kuongoza serikali kwa pamoja
+ALFFA_swa_000247	16k-emission_swahili_15h00_-_16h00_tu_20110323_part010g	wakti huo ambapo majeshi kutoka nchi za kujihami
+ALFFA_swa_000248	SWH-05-20110321_16k-emission_swahili_05h30_-_06h00_tu_20110321_part62	sauti ya waziri wa ulinzi wa marekani robert gay
+ALFFA_swa_000249	SWH-05-20110317_16k-emission_swahili_05h30_-_06h00_tu_20110317_part73	kwa saa kumi na nane nyumbani kwa saida khan mwenye umri wa miaka sitini na minane huko haro kaskazini magharibi
+ALFFA_swa_000250	SWH-15-20101113_16k-emission_swahili_15h00_-_16h00_tu_20101113_part267	inasemekana kuwa meli hiyo kwa jina yuang
+ALFFA_swa_000251	SWH-15-20101103_emission_swahili_15h00_-_16h00_tu_20101103_part238	bei zaidi ikuwe ni kitu ngani katika maendeleo ya nchi
+ALFFA_swa_000252	SWH-05-20110114_16k-emission_swahili_05h30_-_06h00_tu_20110114_part45	kaoro unaza na kanisi na kano
+ALFFA_swa_000253	SWH-15-20101113_16k-emission_swahili_15h00_-_16h00_tu_20101113_part82	ya morocco dhiti ya udhibiti wa sehemu hiyo ambayo inazozaniwa kutokana na utajiri
+ALFFA_swa_000254	SWH-05-20110327_16k-emission_swahili_05h30_-_06h00_tu_20110327_part150	naam ni jukwaa la michezo kutoka idhaa ya kiswahili ya redio france international
+ALFFA_swa_000255	16k-emission_swahili_15h00_-_16h00_tu_20110323_part228n	ambayo inasafirishwa kuletwa ulaya na marekani
+ALFFA_swa_000256	SWH-15-20101109_emission_swahili_15h00_-_16h00_tu_20101109_part230	wataalam wa maswala ya kiuchumi kutoka sehemu mbali mbali wanakutana mjini goma
+ALFFA_swa_000257	SWH-05-20110317_16k-emission_swahili_05h30_-_06h00_tu_20110317_part21	serikali ya marekani imekuwa iki imesisitiza mara kwa mara ikimwomba alistide kuahirisha safari yake
+ALFFA_swa_000258	SWH-15-20110224_16k-emission_swahili_15h00_-_16h00_tu_20110224_part452	akavunja sheria kwa makusudi
+ALFFA_swa_000259	SWH-05-20110114_16k-emission_swahili_05h30_-_06h00_tu_20110114_part157	ambao tukueleza moja kwa moja
+ALFFA_swa_000260	SWH-15-20101117_16k-emission_swahili_15h00_-_16h00_tu_20101117_part153	na noeli joram mtaalamu wa masuala ya maendeleo kutoka chuo kikuu cha mtakatifu agustino nchini tanzania
+ALFFA_swa_000261	16k-emission_swahili_05h30_-_06h00_tu_20101124_part036g	china inatajwa kukwepa mara kwa mara kuikosoa korea kaskazini
+ALFFA_swa_000262	SWH-15-20110303_16k-emission_swahili_15h00_-_16h00_tu_20110303_part380	unayemgusa ukiingia kwa taxi driver anakwambia bwana
+ALFFA_swa_000263	16k-emission_swahili_05h30_-_06h00_tu_20101124_part086g	inayoshughulikia kesi za mauaji halaiki ya rwanda
+ALFFA_swa_000264	16k-emission_swahili_05h30_-_06h00_tu_20101211_part044g	inakumbana na kufungiwa kwa misaada
+ALFFA_swa_000265	SWH-05-20101110_16k-emission_swahili_15h00_-_16h00_tu_20101110_part371	kwa ule ambaye haujapata vizuri namba yetu ya simu ni alama ya kujumlisha mbili tano tano
+ALFFA_swa_000266	SWH-15-20101115_16k-emission_swahili_15h00_-_16h00_tu_20101115_part239	haswa ukiangalia kama hii wiki
+ALFFA_swa_000267	SWH-15-20110124_16k-emission_swahili_15h00_-_16h00_tu_20110124_part428	si mambo ya kuwazia wazia tu si mambo ya
+ALFFA_swa_000268	SWH-05-20110215_16k-emission_swahili_05h30_-_06h00_tu_20110215_part193	iko kwenye gradi mpya ya kwanza kabisa
+ALFFA_swa_000269	SWH-15-20110126_16k-emission_swahili_15h00_-_16h00_tu_20110126_part60	na hatimaye kumaliza vita vilivyodumu kwa miaka thelathini na saba
+ALFFA_swa_000270	SWH-15-20110207_16k-emission_swahili_15h00_-_16h00_tu_20110207_part479	hawaambiwi ule ukweli ukaenda ndani na wakaona hasa kwamba hawa
+ALFFA_swa_000271	SWH-15-20110224_16k-emission_swahili_15h00_-_16h00_tu_20110224_part13	nakuzua wasiwasi kwa ujumbe wa umoja wa afrika wanaojaribu kusuluhisha mgogoro wa kisiasa
+ALFFA_swa_000272	SWH-15-20101117_16k-emission_swahili_15h00_-_16h00_tu_20101117_part282	yametangaza kuwa yatakabidhi mikoa kadhaa yenye usalama kwa vikosi vya usalama vya afghanistan
+ALFFA_swa_000273	16k-emission_swahili_15h00_-_16h00_tu_20110323_part511n	ndiyo yanayoyafanya gharama zao ziwe za juu
+ALFFA_swa_000274	SWH-05-20101111_emission_swahili_05h30_-_06h00_tu_20101111_part107	ambaye amesema amepokea vitisho hivyo baada kukataa kupokea pesa ya kupanga
+ALFFA_swa_000275	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part34	tayari ni saa kumi na mbili na dakika tatu afrika mashariki
+ALFFA_swa_000276	SWH-15-20101113_16k-emission_swahili_15h00_-_16h00_tu_20101113_part109	ni kama kawaida tu nikizungumzia kiba
+ALFFA_swa_000277	SWH-15-20101113_16k-emission_swahili_15h00_-_16h00_tu_20101113_part76	idara yao inayoongozwa inaongoza mashtaka nchini humo imesema ya kuwa
+ALFFA_swa_000278	16k-emission_swahili_15h00_-_16h00_tu_20110311_part239g	wanakutana huko nchini ubelgiji katika jiji la brussels
+ALFFA_swa_000279	SWH-15-20110126_16k-emission_swahili_15h00_-_16h00_tu_20110126_part422	hivyo wameajiriwa kwa sababu ya hiyo kazi so
+ALFFA_swa_000280	16k-emission_swahili_15h00_-_16h00_tu_20110323_part106l	ambazo zinatekeleza hiyo adhabu hata nchi za uarabuni
+ALFFA_swa_000281	SWH-15-20101130_16k-emission_swahili_15h00_-_16h00_tu_20101130_part37	sasa hivi ni kwamba ni kufanya negotiation za kidiplomasia
+ALFFA_swa_000282	SWH-15-20101130_16k-emission_swahili_15h00_-_16h00_tu_20101130_part375	ambao wanajadili masuala tabia ya nchi
+ALFFA_swa_000283	16k-emission_swahili_15h00_-_16h00_tu_20110311_part118g	na hali ilivyokuwa mwanzo ambapo wengi walishindwa kupatiwa haki ya kupiga kura
+ALFFA_swa_000284	16k-emission_swahili_05h30_-_06h00_tu_20101211_part072m	ni wasaa wa yaliyojiri wiki hii makala inayolenga kukuarifu kwa undani
+ALFFA_swa_000285	16k-emission_swahili_15h00_-_16h00_tu_20110311_part163g	kuna wenzetu kina salma na asaman zahida
+ALFFA_swa_000286	SWH-15-20110207_16k-emission_swahili_15h00_-_16h00_tu_20110207_part67	na wakati hayo yanajiri kundi la hes bola limekanusha kuhusika
+ALFFA_swa_000287	SWH-15-20110126_16k-emission_swahili_15h00_-_16h00_tu_20110126_part389	kabla ya kufanya mashauriano na viongozi
+ALFFA_swa_000288	SWH-15-20110124_16k-emission_swahili_15h00_-_16h00_tu_20110124_part112	walipiga kura kujitenga na sudan kaskazini
+ALFFA_swa_000289	16k-emission_swahili_15h00_-_16h00_tu_20110203_part420n	anaendana na kazi anayoifanya
+ALFFA_swa_000290	SWH-05-20101110_16k-emission_swahili_15h00_-_16h00_tu_20101110_part126	rais wa brazil luiz nasio lula desilva amemaliza ziara yake ya siku mbili nchini msumbiji
+ALFFA_swa_000291	SWH-15-20101117_16k-emission_swahili_15h00_-_16h00_tu_20101117_part133	sadikika kupigwa mawe kwa kosa la uzinzi
+ALFFA_swa_000292	SWH-15-20110303_16k-emission_swahili_15h00_-_16h00_tu_20110303_part174	kwa sababu inaelekea sasa kwamba kuna mvutano
+ALFFA_swa_000293	SWH-15-20110124_16k-emission_swahili_15h00_-_16h00_tu_20110124_part131	aa nusu fainali ya kombe la bara la
+ALFFA_swa_000294	SWH-15-20101130_16k-emission_swahili_15h00_-_16h00_tu_20101130_part390	ya kuhakikisha afya yako ni salama
+ALFFA_swa_000295	SWH-15-20110126_16k-emission_swahili_15h00_-_16h00_tu_20110126_part349	bunge la afghanistan na limefunguliwa rasmi hii leo na rais hamid karzai
+ALFFA_swa_000296	SWH-05-20101111_emission_swahili_05h30_-_06h00_tu_20101111_part172	kama ndiyo kwanza unajiunga nasi msikilizaji hewani ni makala ya gurudumu la uchumi na hii
+ALFFA_swa_000297	SWH-15-20110126_16k-emission_swahili_15h00_-_16h00_tu_20110126_part468	aa kwa niaba ya wenzangu wote narudia tena salaams zimefika salaams zimefika niko na pendo hapa
+ALFFA_swa_000298	SWH-05-20101110_16k-emission_swahili_15h00_-_16h00_tu_20101110_part316	musuada huo kwamba ni unalingana namba mbili ya katiba ya ufaransa
+ALFFA_swa_000299	SWH-05-20110125_16k-emission_swahili_05h30_-_06h00_tu_20110125_part113	yakuweza kufanya vizuri katika mashindano ya vijana wa chini ya miaka kumi na saba
+ALFFA_swa_000300	16k-emission_swahili_15h00_-_16h00_tu_20110323_part285m	kurejesha utulivu nchini cote de voire
+ALFFA_swa_000301	SWH-15-20110207_16k-emission_swahili_15h00_-_16h00_tu_20110207_part449	ni jukumu au wajibu wa ccm pekee yake au
+ALFFA_swa_000302	SWH-05-20101110_16k-emission_swahili_15h00_-_16h00_tu_20101110_part241	nchini rwanda linatarajia kufanya zoezi la kuhakiki
+ALFFA_swa_000303	16k-emission_swahili_05h30_-_06h00_tu_20101211_part152l	ambapo ni mahakama huru ambazo zitahakikisha kwamba imeimarisha haki
+ALFFA_swa_000304	SWH-05-20110327_16k-emission_swahili_05h30_-_06h00_tu_20110327_part12	kunusuru hali ya tishio la kuibuka kwa vita vya wenyewe kwa wenyewe iliyopo nchini cote de voire
+ALFFA_swa_000305	SWH-15-20110224_16k-emission_swahili_15h00_-_16h00_tu_20110224_part44	watu wa libya wamekosa shukurani kwake
+ALFFA_swa_000306	SWH-05-20101110_16k-emission_swahili_15h00_-_16h00_tu_20101110_part43	ina matumaini hili kwa wakati huu
+ALFFA_swa_000307	SWH-15-20110224_16k-emission_swahili_15h00_-_16h00_tu_20110224_part356	na ninadhani ni kwa vile amefungwa kisheria
+ALFFA_swa_000308	SWH-05-20101112_emission_swahili_05h30_-_06h00_tu_20101112_part66	ili kumlimbikizia madai kuwa alihusika katika ghasia hizo
+ALFFA_swa_000309	16k-emission_swahili_15h00_-_16h00_tu_20110311_part103g	ili kumaliza mgogoro uliopo nchini mwake
+ALFFA_swa_000310	16k-emission_swahili_15h00_-_16h00_tu_20110311_part086g	pamoja na wabunge kushughulikia kilio chao
+ALFFA_swa_000311	SWH-15-20110303_16k-emission_swahili_15h00_-_16h00_tu_20110303_part330	kupata kizuri ijapo kwa hatari fulani
+ALFFA_swa_000312	16k-emission_swahili_15h00_-_16h00_tu_20110323_part409g	sheria ambazo zinaweza zikawa nyepesi kidogo
+ALFFA_swa_000313	SWH-05-20101107_16k-emission_swahili_05h30_-_06h00_tu_20101107_part23	kufanyika katika kipindi cha miaka ishirini
+ALFFA_swa_000314	SWH-05-20101110_16k-emission_swahili_15h00_-_16h00_tu_20101110_part406	ni mchambuzi wa maswala ya kisiasa henry okoit omutata
+ALFFA_swa_000315	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part163	pia kuna habari kuhusiana na rais wa shirikisho la mpira barani asia
+ALFFA_swa_000316	SWH-15-20101227_16k-emission_swahili_15h00_-_16h00_tu_20101227_part178	inakupa fursa ya kusikiliza yaliojadiliwa katika kipindi cha mwaka huu
+ALFFA_swa_000317	16k-emission_swahili_15h00_-_16h00_tu_20110203_part306g	kwa ujumla chaguzi hizi za viongozi wa mitaa hazina msisimko mkubwa
+ALFFA_swa_000318	SWH-05-20110327_16k-emission_swahili_05h30_-_06h00_tu_20110327_part91	tatizo ni kwamba hawa wachezaji wetu hawajui sheria za
+ALFFA_swa_000319	SWH-05-20101107_16k-emission_swahili_05h30_-_06h00_tu_20101107_part92	lakini siku tatu kura zinahesabiwa
+ALFFA_swa_000320	SWH-15-20101113_16k-emission_swahili_15h00_-_16h00_tu_20101113_part206	alafu mitindo yenyewe ndiyo kama hivyo wengine wanafana sijui ee utamaduni wa afrika uko wapi
+ALFFA_swa_000321	SWH-05-20101113_16k-emission_swahili_05h30_-_06h00_tu_20101113_part56	amelaani vikali tabia hiyo ya kutoruhusu watu kuwaona waandishi wa habari hao
+ALFFA_swa_000322	SWH-15-20101103_emission_swahili_15h00_-_16h00_tu_20101103_part374	hata hivyo chama cha democrat kitazidi kudhibiti bunge la senate
+ALFFA_swa_000323	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part367	kiongozi wa serikali ya tibet dalai lama
+ALFFA_swa_000324	SWH-05-20110114_16k-emission_swahili_05h30_-_06h00_tu_20110114_part162	nivyo ninavyokualika kwenye makala muziki ijumaa
+ALFFA_swa_000325	SWH-15-20110224_16k-emission_swahili_15h00_-_16h00_tu_20110224_part332	na wakati waziri wa mambo ya nje ya iran alec barsale akikiri nchi wake kutuma silaha hizo huko gambia
+ALFFA_swa_000326	SWH-15-20101115_16k-emission_swahili_15h00_-_16h00_tu_20101115_part452	na hiyo kang??ang??ania na penginepo kutenda tena vibaya zaidi ya pale
+ALFFA_swa_000327	SWH-15-20101103_emission_swahili_15h00_-_16h00_tu_20101103_part221	na hii ni idhaa ya kiswahili ya redio france international
+ALFFA_swa_000328	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part94	somo lile lililopokelewa kule zimbabwe
+ALFFA_swa_000329	SWH-05-20101110_16k-emission_swahili_15h00_-_16h00_tu_20101110_part350	nurdin selemani ameandaa taarifa ifuatayo
+ALFFA_swa_000330	SWH-05-20101109_emission_swahili_05h30_-_06h00_tu_20101109_part194	na yale mafuta yaliokuwepo mwilini yanapoungua ina maana kwamba
+ALFFA_swa_000331	SWH-05-20101107_16k-emission_swahili_05h30_-_06h00_tu_20101107_part211	ili kuwaonyesha kwamba mgombea fulani ni bora zaidi kwa dini yangu kuliko mgombea huyu
+ALFFA_swa_000332	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part229	ukiangalia kesi mingi sana tangu miaka ya sitini kule wakenya wamefanyiwa makosa mengi sana lakini
+ALFFA_swa_000333	SWH-15-20101104_emission_swahili_15h00_-_16h00_tu_20101104_part84	msikilizaji ni kukumbushe tu kwamba bado watanzania wanaendelea kuvuta subra wakati zoezi
+ALFFA_swa_000334	SWH-15-20101227_16k-emission_swahili_15h00_-_16h00_tu_20101227_part75	eeh haina maana kwamba maanake
+ALFFA_swa_000335	SWH-05-20101107_16k-emission_swahili_05h30_-_06h00_tu_20101107_part103	amani ya tanzania ni ya mungu
+ALFFA_swa_000336	SWH-05-20110321_16k-emission_swahili_05h30_-_06h00_tu_20110321_part152	hawajui hawajui haki zao bado
+ALFFA_swa_000337	SWH-05-20101109_emission_swahili_05h30_-_06h00_tu_20101109_part82	zaidi ya thelathini na saba wameuwawa wakiwemo maaskari na waasi
+ALFFA_swa_000338	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part433	hii zoezi kwa kweli tunashukuru sana ila tu ni ikwa iongezwe kwa sababu siku ya leo wengine wagonjwa wako nyumbani
+ALFFA_swa_000339	16k-emission_swahili_05h30_-_06h00_tu_20101222_part110n	ya joto ambayo pengine itakayokuwa ni mwezi
+ALFFA_swa_000340	SWH-15-20110310_16k-emission_swahili_15h00_-_16h00_tu_20110310_part233	linaweka kenya katika hali mbaya zaidi kwanza kenya
+ALFFA_swa_000341	16k-emission_swahili_05h30_-_06h00_tu_20101211_part114n	eeh mi nafikiri vile nimeona watu watu wanataka kukaa chini na kuongea
+ALFFA_swa_000342	SWH-05-20101123_16k-emission_swahili_05h30_-_06h00_tu_20101123_part140	shiriki katika uchaguzi ndiposa waweze kupata manufaa ya ule uchaguzi
+ALFFA_swa_000343	SWH-15-20101130_16k-emission_swahili_15h00_-_16h00_tu_20101130_part263	ikumbukwe kwamba kuna takriban zaidi ya silaha laki tano hadi million moja ambazo hazijulikani
+ALFFA_swa_000344	SWH-05-20110125_16k-emission_swahili_05h30_-_06h00_tu_20110125_part201	hiyo ndiyo hali halisi katika nchi za afrika mashariki
+ALFFA_swa_000345	SWH-15-20110224_16k-emission_swahili_15h00_-_16h00_tu_20110224_part354	na kuanzia pale tutaamini swala hili

@@ -1,0 +1,170 @@
+nchlt_sot_001016	nchlt_sot/audio/003/nchlt_sot_003f_0224.wav	kopo ya hao e se
+nchlt_sot_001017	nchlt_sot/audio/006/nchlt_sot_006f_0068.wav	ya tlhahisoleseding tshebetsong ya toka
+nchlt_sot_001018	nchlt_sot/audio/006/nchlt_sot_006f_0084.wav	sebokeng sa naha bakeng sa
+nchlt_sot_001019	nchlt_sot/audio/031/nchlt_sot_031f_0044.wav	ditho tsa palamente ha di
+nchlt_sot_001020	nchlt_sot/audio/031/nchlt_sot_031f_0066.wav	new york jets
+nchlt_sot_001021	nchlt_sot/audio/031/nchlt_sot_031f_0229.wav	kgothalletsa ka matla tshebediso ya
+nchlt_sot_001022	nchlt_sot/audio/031/nchlt_sot_031f_0069.wav	e ne e se e
+nchlt_sot_001023	nchlt_sot/audio/159/nchlt_sot_159f_0250.wav	ba marena a engelane ditsebengho
+nchlt_sot_001024	nchlt_sot/audio/006/nchlt_sot_006f_0010.wav	asian financial crisis
+nchlt_sot_001025	nchlt_sot/audio/021/nchlt_sot_021m_0528.wav	ya taelo ya semolao ya
+nchlt_sot_001026	nchlt_sot/audio/003/nchlt_sot_003f_0265.wav	tshebediso e phahameng ya sesebediswa
+nchlt_sot_001027	nchlt_sot/audio/159/nchlt_sot_159f_0043.wav	ba kwetliswang le bakwetlisi bakwetlisi
+nchlt_sot_001028	nchlt_sot/audio/005/nchlt_sot_005m_0102.wav	ka tsela e ke keng
+nchlt_sot_001029	nchlt_sot/audio/031/nchlt_sot_031f_0049.wav	boqwabi
+nchlt_sot_001030	nchlt_sot/audio/159/nchlt_sot_159f_0351.wav	o ne a na ie
+nchlt_sot_001031	nchlt_sot/audio/138/nchlt_sot_138m_0758.wav	ha ke ne ke re
+nchlt_sot_001032	nchlt_sot/audio/005/nchlt_sot_005m_0084.wav	aterese ya moo o dulang
+nchlt_sot_001033	nchlt_sot/audio/138/nchlt_sot_138m_0052.wav	le hojane ba ne ba
+nchlt_sot_001034	nchlt_sot/audio/188/nchlt_sot_188m_0568.wav	le ha ke na le
+nchlt_sot_001035	nchlt_sot/audio/006/nchlt_sot_006f_0224.wav	boramesebetsi ba lokela ho saena
+nchlt_sot_001036	nchlt_sot/audio/188/nchlt_sot_188m_0071.wav	mo rolela kgaebane e le
+nchlt_sot_001037	nchlt_sot/audio/005/nchlt_sot_005m_0517.wav	re tla sebetsa ka matla
+nchlt_sot_001038	nchlt_sot/audio/021/nchlt_sot_021m_0356.wav	theko ya sehlahiswa le bongata
+nchlt_sot_001039	nchlt_sot/audio/006/nchlt_sot_006f_0324.wav	ke molao wa motheo ho
+nchlt_sot_001040	nchlt_sot/audio/006/nchlt_sot_006f_0452.wav	le kgahleho bophelong ba motletlebi
+nchlt_sot_001041	nchlt_sot/audio/021/nchlt_sot_021m_0184.wav	mmala o motsho le bosweu
+nchlt_sot_001042	nchlt_sot/audio/006/nchlt_sot_006f_0240.wav	ba hore khopi ya foromo
+nchlt_sot_001043	nchlt_sot/audio/005/nchlt_sot_005m_0070.wav	borwa e se nang morabe
+nchlt_sot_001044	nchlt_sot/audio/159/nchlt_sot_159f_0418.wav	orutamekgwae loketsengbatho babaholo o be
+nchlt_sot_001045	nchlt_sot/audio/003/nchlt_sot_003f_0418.wav	ho tla nne ho dule
+nchlt_sot_001046	nchlt_sot/audio/159/nchlt_sot_159f_0519.wav	mmankepe bo totiswa ke ho
+nchlt_sot_001047	nchlt_sot/audio/031/nchlt_sot_031f_0209.wav	di na le nako e
+nchlt_sot_001048	nchlt_sot/audio/138/nchlt_sot_138m_0505.wav	na le ho bakang ho
+nchlt_sot_001049	nchlt_sot/audio/003/nchlt_sot_003f_0090.wav	ditletlebo
+nchlt_sot_001050	nchlt_sot/audio/003/nchlt_sot_003f_0347.wav	merafong le temong bakeng sa
+nchlt_sot_001051	nchlt_sot/audio/006/nchlt_sot_006f_0083.wav	leano le ona o hlokometse
+nchlt_sot_001052	nchlt_sot/audio/006/nchlt_sot_006f_0095.wav	united states district
+nchlt_sot_001053	nchlt_sot/audio/031/nchlt_sot_031f_0196.wav	la dibokonyana tsena tse salang
+nchlt_sot_001054	nchlt_sot/audio/003/nchlt_sot_003f_0406.wav	le tsela e telele eo
+nchlt_sot_001055	nchlt_sot/audio/003/nchlt_sot_003f_0278.wav	e ne e le sebaka
+nchlt_sot_001056	nchlt_sot/audio/005/nchlt_sot_005m_0037.wav	valhalla
+nchlt_sot_001057	nchlt_sot/audio/005/nchlt_sot_005m_0386.wav	sam
+nchlt_sot_001058	nchlt_sot/audio/005/nchlt_sot_005m_0053.wav	tla romelwa seteisheneng sa mapolesa
+nchlt_sot_001059	nchlt_sot/audio/159/nchlt_sot_159f_0516.wav	ha e le ho ya
+nchlt_sot_001060	nchlt_sot/audio/021/nchlt_sot_021m_0175.wav	national baseball hall
+nchlt_sot_001061	nchlt_sot/audio/031/nchlt_sot_031f_0233.wav	e fumaneha ka potlako weposaeteng
+nchlt_sot_001062	nchlt_sot/audio/021/nchlt_sot_021m_0362.wav	efe kapa efe eo e
+nchlt_sot_001063	nchlt_sot/audio/003/nchlt_sot_003f_0176.wav	tlameha ho balwa ka botebo
+nchlt_sot_001064	nchlt_sot/audio/003/nchlt_sot_003f_0320.wav	o ne o sebediswa ke
+nchlt_sot_001065	nchlt_sot/audio/005/nchlt_sot_005m_0436.wav	ha re sebetsa mmoho re
+nchlt_sot_001066	nchlt_sot/audio/021/nchlt_sot_021m_0205.wav	tlameha ho balwa ka botebo
+nchlt_sot_001067	nchlt_sot/audio/159/nchlt_sot_159f_0063.wav	ntshetsopele ya molao wa motheo
+nchlt_sot_001068	nchlt_sot/audio/006/nchlt_sot_006f_0313.wav	new york jets
+nchlt_sot_001069	nchlt_sot/audio/159/nchlt_sot_159f_0327.wav	di ka o hapisa moqhaka
+nchlt_sot_001070	nchlt_sot/audio/031/nchlt_sot_031f_0438.wav	kopo ya laesense ya sekepe
+nchlt_sot_001071	nchlt_sot/audio/138/nchlt_sot_138m_0181.wav	se kgabole ha a boya
+nchlt_sot_001072	nchlt_sot/audio/031/nchlt_sot_031f_0029.wav	balemi ba batjha ba ka
+nchlt_sot_001073	nchlt_sot/audio/159/nchlt_sot_159f_0331.wav	re le baetapele re a
+nchlt_sot_001074	nchlt_sot/audio/003/nchlt_sot_003f_0404.wav	botoloki ka mohala tsa afrika
+nchlt_sot_001075	nchlt_sot/audio/188/nchlt_sot_188m_0298.wav	mekotla ya mashala ka veneng
+nchlt_sot_001076	nchlt_sot/audio/159/nchlt_sot_159f_0608.wav	dibasari ka ho ya ka
+nchlt_sot_001077	nchlt_sot/audio/031/nchlt_sot_031f_0283.wav	lekgotla la ho ntshuwa ha
+nchlt_sot_001078	nchlt_sot/audio/005/nchlt_sot_005m_0122.wav	mesebetsi e itseng ka ho
+nchlt_sot_001079	nchlt_sot/audio/138/nchlt_sot_138m_0664.wav	ne ke sa mmone le
+nchlt_sot_001080	nchlt_sot/audio/005/nchlt_sot_005m_0143.wav	la afrika borwa la basebetsi
+nchlt_sot_001081	nchlt_sot/audio/003/nchlt_sot_003f_0017.wav	tsa fuwa maemo a tlase
+nchlt_sot_001082	nchlt_sot/audio/021/nchlt_sot_021m_0445.wav	ho fumana kalafo ya bongaka
+nchlt_sot_001083	nchlt_sot/audio/031/nchlt_sot_031f_0080.wav	kgatello ya tshebediso ya mefuta
+nchlt_sot_001084	nchlt_sot/audio/159/nchlt_sot_159f_0094.wav	ha ke a re ke [s]
+nchlt_sot_001085	nchlt_sot/audio/005/nchlt_sot_005m_0078.wav	le ho tloswa ha matlakala
+nchlt_sot_001086	nchlt_sot/audio/159/nchlt_sot_159f_0012.wav	o [s] ke ke wa kotjwa [s]
+nchlt_sot_001087	nchlt_sot/audio/138/nchlt_sot_138m_0765.wav	ho se na moloko o
+nchlt_sot_001088	nchlt_sot/audio/188/nchlt_sot_188m_0063.wav	a ka a se kgopisehe
+nchlt_sot_001089	nchlt_sot/audio/031/nchlt_sot_031f_0416.wav	haufi le wena kapa ba
+nchlt_sot_001090	nchlt_sot/audio/003/nchlt_sot_003f_0264.wav	kenya tshebetsong mokgwa wa ho
+nchlt_sot_001091	nchlt_sot/audio/138/nchlt_sot_138m_0279.wav	ho na le kgathatseho ka
+nchlt_sot_001092	nchlt_sot/audio/003/nchlt_sot_003f_0065.wav	lokela ho lefa lekgetho la
+nchlt_sot_001093	nchlt_sot/audio/159/nchlt_sot_159f_0298.wav	na le boikarabelo ba ho
+nchlt_sot_001094	nchlt_sot/audio/031/nchlt_sot_031f_0153.wav	haholo ke moruo wa tsona
+nchlt_sot_001095	nchlt_sot/audio/031/nchlt_sot_031f_0067.wav	united states census
+nchlt_sot_001096	nchlt_sot/audio/138/nchlt_sot_138m_0335.wav	a se a hlokahetse monyaduwa
+nchlt_sot_001097	nchlt_sot/audio/006/nchlt_sot_006f_0073.wav	basebeletsi ba lefapha la ditaba
+nchlt_sot_001098	nchlt_sot/audio/159/nchlt_sot_159f_0018.wav	mo rekela motjhini o rokang
+nchlt_sot_001099	nchlt_sot/audio/021/nchlt_sot_021m_0497.wav	ditletlebo
+nchlt_sot_001100	nchlt_sot/audio/031/nchlt_sot_031f_0351.wav	bakeng sa nako e kgutshwane
+nchlt_sot_001101	nchlt_sot/audio/159/nchlt_sot_159f_0338.wav	o be o se o
+nchlt_sot_001102	nchlt_sot/audio/159/nchlt_sot_159f_0291.wav	ha ba qhekelle ha ba
+nchlt_sot_001103	nchlt_sot/audio/159/nchlt_sot_159f_0263.wav	mmakarabelo o ne a tobane
+nchlt_sot_001104	nchlt_sot/audio/138/nchlt_sot_138m_0819.wav	wa tokoloho eo a e
+nchlt_sot_001105	nchlt_sot/audio/188/nchlt_sot_188m_0364.wav	se makatsang ke ho re
+nchlt_sot_001106	nchlt_sot/audio/003/nchlt_sot_003f_0179.wav	ya ditaba tsa lehae kapa
+nchlt_sot_001107	nchlt_sot/audio/021/nchlt_sot_021m_0546.wav	ya tjhelete le meralo ya
+nchlt_sot_001108	nchlt_sot/audio/031/nchlt_sot_031f_0331.wav	tsa lekgetho di ka phethahatswa
+nchlt_sot_001109	nchlt_sot/audio/031/nchlt_sot_031f_0213.wav	laesense ya boditjhaba ya ho
+nchlt_sot_001110	nchlt_sot/audio/159/nchlt_sot_159f_0057.wav	asian financial crisis
+nchlt_sot_001111	nchlt_sot/audio/138/nchlt_sot_138m_0595.wav	[s] ka lefeela la mafeela ke
+nchlt_sot_001112	nchlt_sot/audio/021/nchlt_sot_021m_0068.wav	monetary fund imf
+nchlt_sot_001113	nchlt_sot/audio/021/nchlt_sot_021m_0077.wav	le teng ka nako tsohle
+nchlt_sot_001114	nchlt_sot/audio/031/nchlt_sot_031f_0005.wav	di be tharo mme o
+nchlt_sot_001115	nchlt_sot/audio/188/nchlt_sot_188m_0370.wav	ya ka etsang mahlabisadihlong a
+nchlt_sot_001116	nchlt_sot/audio/006/nchlt_sot_006f_0105.wav	episcopal church usa
+nchlt_sot_001117	nchlt_sot/audio/159/nchlt_sot_159f_0316.wav	ho thuswa ho netefatsa ntlafatso
+nchlt_sot_001118	nchlt_sot/audio/005/nchlt_sot_005m_0238.wav	court ha e le traste
+nchlt_sot_001119	nchlt_sot/audio/006/nchlt_sot_006f_0097.wav	le hore ho tle ho
+nchlt_sot_001120	nchlt_sot/audio/138/nchlt_sot_138m_1148.wav	ya emia e na le
+nchlt_sot_001121	nchlt_sot/audio/159/nchlt_sot_159f_0359.wav	ne e fupere le ho
+nchlt_sot_001122	nchlt_sot/audio/031/nchlt_sot_031f_0218.wav	e fuwa baahi ba naha
+nchlt_sot_001123	nchlt_sot/audio/031/nchlt_sot_031f_0296.wav	basebeletsi ba hao le dijothollo
+nchlt_sot_001124	nchlt_sot/audio/031/nchlt_sot_031f_0241.wav	le ho tempuwa ke mosebeletsi
+nchlt_sot_001125	nchlt_sot/audio/138/nchlt_sot_138m_0714.wav	e ne e le modumedi
+nchlt_sot_001126	nchlt_sot/audio/021/nchlt_sot_021m_0127.wav	re tla tswela pele ka
+nchlt_sot_001127	nchlt_sot/audio/003/nchlt_sot_003f_0219.wav	ha eba o na le
+nchlt_sot_001128	nchlt_sot/audio/005/nchlt_sot_005m_0149.wav	tlhokeho ya mosebetsi wa ho
+nchlt_sot_001129	nchlt_sot/audio/188/nchlt_sot_188m_0237.wav	kokwanahloko enahore baje meroho e
+nchlt_sot_001130	nchlt_sot/audio/003/nchlt_sot_003f_0203.wav	eo ho dumellanweng ka yona
+nchlt_sot_001131	nchlt_sot/audio/138/nchlt_sot_138m_0807.wav	e be ha e ne
+nchlt_sot_001132	nchlt_sot/audio/005/nchlt_sot_005m_0256.wav	naha ya afrika borwa ba
+nchlt_sot_001133	nchlt_sot/audio/005/nchlt_sot_005m_0163.wav	hodimo ho moo ba tla
+nchlt_sot_001134	nchlt_sot/audio/003/nchlt_sot_003f_0349.wav	monetary fund imf
+nchlt_sot_001135	nchlt_sot/audio/188/nchlt_sot_188m_0120.wav	ba rerile ho o etsetsa
+nchlt_sot_001136	nchlt_sot/audio/005/nchlt_sot_005m_0346.wav	dikopo tse sa tlatswang ka
+nchlt_sot_001137	nchlt_sot/audio/006/nchlt_sot_006f_0446.wav	american television actors
+nchlt_sot_001138	nchlt_sot/audio/031/nchlt_sot_031f_0469.wav	national football team
+nchlt_sot_001139	nchlt_sot/audio/005/nchlt_sot_005m_0524.wav	mang le a mang a
+nchlt_sot_001140	nchlt_sot/audio/188/nchlt_sot_188m_0322.wav	ho batjhana ba ka ba
+nchlt_sot_001141	nchlt_sot/audio/138/nchlt_sot_138m_0255.wav	ba mashaba ba ne ba
+nchlt_sot_001142	nchlt_sot/audio/005/nchlt_sot_005m_0212.wav	e na le boikarabelo ba
+nchlt_sot_001143	nchlt_sot/audio/159/nchlt_sot_159f_0313.wav	union member states
+nchlt_sot_001144	nchlt_sot/audio/003/nchlt_sot_003f_0458.wav	boston red sox
+nchlt_sot_001145	nchlt_sot/audio/006/nchlt_sot_006f_0282.wav	moo e leng hore ho
+nchlt_sot_001146	nchlt_sot/audio/031/nchlt_sot_031f_0493.wav	le ka moo o ka
+nchlt_sot_001147	nchlt_sot/audio/188/nchlt_sot_188m_0262.wav	e ka ba kgahlanong le
+nchlt_sot_001148	nchlt_sot/audio/006/nchlt_sot_006f_0004.wav	tiisitse hore ha ho hlwahlwa
+nchlt_sot_001149	nchlt_sot/audio/005/nchlt_sot_005m_0027.wav	maseru
+nchlt_sot_001150	nchlt_sot/audio/006/nchlt_sot_006f_0078.wav	semmuso ya lekgetho e ka
+nchlt_sot_001151	nchlt_sot/audio/138/nchlt_sot_138m_0271.wav	thobalane ba ne ba sa
+nchlt_sot_001152	nchlt_sot/audio/003/nchlt_sot_003f_0489.wav	tsa lehae provinseng eo o
+nchlt_sot_001153	nchlt_sot/audio/006/nchlt_sot_006f_0402.wav	moo se sa tshwanelang se
+nchlt_sot_001154	nchlt_sot/audio/159/nchlt_sot_159f_0325.wav	lebellwa ka ha e ne
+nchlt_sot_001155	nchlt_sot/audio/021/nchlt_sot_021m_0254.wav	extension
+nchlt_sot_001156	nchlt_sot/audio/006/nchlt_sot_006f_0481.wav	nakong ya dikgwedi tsa hlabula
+nchlt_sot_001157	nchlt_sot/audio/003/nchlt_sot_003f_0086.wav	la ho qala la nakwana
+nchlt_sot_001158	nchlt_sot/audio/006/nchlt_sot_006f_0191.wav	toka le ntshetsopele ya molao
+nchlt_sot_001159	nchlt_sot/audio/006/nchlt_sot_006f_0389.wav	wa setjhaba lawrence mushwana o
+nchlt_sot_001160	nchlt_sot/audio/006/nchlt_sot_006f_0371.wav	ka mora nako e itseng
+nchlt_sot_001161	nchlt_sot/audio/021/nchlt_sot_021m_0355.wav	tsebiso ya lefapha le molaong
+nchlt_sot_001162	nchlt_sot/audio/031/nchlt_sot_031f_0432.wav	human development index
+nchlt_sot_001163	nchlt_sot/audio/006/nchlt_sot_006f_0175.wav	ho mokga o laolang wa
+nchlt_sot_001164	nchlt_sot/audio/138/nchlt_sot_138m_0246.wav	re ka e fihlelang ke
+nchlt_sot_001165	nchlt_sot/audio/003/nchlt_sot_003f_0263.wav	ha ho ne ho ena
+nchlt_sot_001166	nchlt_sot/audio/031/nchlt_sot_031f_0167.wav	a ka nna a baka
+nchlt_sot_001167	nchlt_sot/audio/003/nchlt_sot_003f_0421.wav	toka
+nchlt_sot_001168	nchlt_sot/audio/021/nchlt_sot_021m_0358.wav	clarify date february
+nchlt_sot_001169	nchlt_sot/audio/159/nchlt_sot_159f_0482.wav	ha ho ka ba le
+nchlt_sot_001170	nchlt_sot/audio/021/nchlt_sot_021m_0336.wav	ofe kapa ofe wa mmuso
+nchlt_sot_001171	nchlt_sot/audio/138/nchlt_sot_138m_1170.wav	le tjhaba le dikela ba [s]
+nchlt_sot_001172	nchlt_sot/audio/031/nchlt_sot_031f_0207.wav	pakeng tsa dikarolwana tsa mobu
+nchlt_sot_001173	nchlt_sot/audio/188/nchlt_sot_188m_0312.wav	ho bapiswa le ho a
+nchlt_sot_001174	nchlt_sot/audio/021/nchlt_sot_021m_0145.wav	ya tse romellwang ka ntle
+nchlt_sot_001175	nchlt_sot/audio/159/nchlt_sot_159f_0145.wav	o e tlamella lekaleng o
+nchlt_sot_001176	nchlt_sot/audio/006/nchlt_sot_006f_0258.wav	ho sebedisa lebitso le molaong
+nchlt_sot_001177	nchlt_sot/audio/021/nchlt_sot_021m_0285.wav	ya ho ba teng ho
+nchlt_sot_001178	nchlt_sot/audio/159/nchlt_sot_159f_0580.wav	hlomi o ne a bolelle
+nchlt_sot_001179	nchlt_sot/audio/005/nchlt_sot_005m_0420.wav	baka mathata temong ya dijothollo
+nchlt_sot_001180	nchlt_sot/audio/021/nchlt_sot_021m_0238.wav	moralo wa [s] tshebetso wa naha
+nchlt_sot_001181	nchlt_sot/audio/003/nchlt_sot_003f_0448.wav	persian gulf states
+nchlt_sot_001182	nchlt_sot/audio/159/nchlt_sot_159f_0270.wav	e ka hlabeha qetello ya
+nchlt_sot_001183	nchlt_sot/audio/006/nchlt_sot_006f_0067.wav	dikgeong tsa mesebetsi ya sehlopha
+nchlt_sot_001184	nchlt_sot/audio/005/nchlt_sot_005m_0390.wav	ya sefafatsi se fatshe sa
+nchlt_sot_001185	nchlt_sot/audio/003/nchlt_sot_003f_0389.wav	ho fana ka beile le

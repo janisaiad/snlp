@@ -112,7 +112,13 @@ From the **snlp repo root**, one script runs data prep + SSL training + decode f
 
 ### SSL env (Python 3.12+, torchaudio 2.10)
 
-`pyproject.toml` pins `setuptools>=69,<82` and optional deps `soxr`, `tensorboard`. If you hit S3PRL import errors after a fresh `uv sync`, apply these patches under `.venv/lib/python3.*/site-packages/s3prl/` (or re-use a venv where they were applied):
+`pyproject.toml` pins `setuptools>=69,<82` and optional deps `soxr`, `tensorboard`. If you hit S3PRL import errors (e.g. `AttributeError: module 'torchaudio' has no attribute 'set_audio_backend'`) after a fresh `uv add s3prl` or `uv sync`, run from repo root:
+
+```bash
+uv run python scripts/patch_s3prl_for_ssl.py
+```
+
+That script patches the installed `s3prl` in the current venv. Alternatively, apply by hand under `.venv/lib/python3.*/site-packages/s3prl/`:
 
 1. **`upstream/byol_s/byol_a/common.py`** – wrap `torchaudio.set_audio_backend("sox_io")` in `if hasattr(torchaudio, "set_audio_backend"): ...` (removed in torchaudio 2.1+).
 2. **`upstream/roberta/roberta_model.py`** – use `field(default_factory=...)` for any dataclass field whose default is a mutable type (e.g. `encoder`, `decoder`, `quant_noise`).

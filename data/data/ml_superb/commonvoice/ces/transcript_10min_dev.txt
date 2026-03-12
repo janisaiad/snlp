@@ -1,0 +1,188 @@
+cv_ces_000908 common_voice_cs_20730926.mp3 Stačí pár Voltů a buď jej to omráčí, nebo zabije.
+cv_ces_000909 common_voice_cs_20730932.mp3 Náboj do minometu, kámo!
+cv_ces_000910 common_voice_cs_21959164.mp3 Nu, půjdu.
+cv_ces_000911 common_voice_cs_21959189.mp3 A bude?
+cv_ces_000912 common_voice_cs_21959191.mp3 Chápu to.
+cv_ces_000913 common_voice_cs_21959194.mp3 Může se jednat o technologie, nebo sociální změny.
+cv_ces_000914 common_voice_cs_21959195.mp3 Děkuji za rozhovor.
+cv_ces_000915 common_voice_cs_21959351.mp3 Však se s ním seznámíte a poznáte ho dostatek.
+cv_ces_000916 common_voice_cs_21959352.mp3 Začni číst.
+cv_ces_000917 common_voice_cs_21959395.mp3 Je široce dostupný a cena se neustále propadá.
+cv_ces_000918 common_voice_cs_21959396.mp3 Věř mi, prosím.
+cv_ces_000919 common_voice_cs_20878567.mp3 Můžu napsat, jak se to dá dělat s odkazy na literaturu.
+cv_ces_000920 common_voice_cs_20878568.mp3 Proboha, to je hostina!
+cv_ces_000921 common_voice_cs_20878569.mp3 Máme tam ale přátelskou komunitu.
+cv_ces_000922 common_voice_cs_20878570.mp3 Jejich sílá tkví v jejich abundanci.
+cv_ces_000923 common_voice_cs_20878571.mp3 Co nejdříve to odevzdejte a napište mi email.
+cv_ces_000924 common_voice_cs_20878572.mp3 Teď jde o to, jak moc ti ty hodnoty "utíkají".
+cv_ces_000925 common_voice_cs_20878573.mp3 Bob mě miluje, protože si myslí, že mi taky odstranili varlata.
+cv_ces_000926 common_voice_cs_20878575.mp3 Objednej acetát.
+cv_ces_000927 common_voice_cs_20878576.mp3 Můžeme se někdy sejít.
+cv_ces_000928 common_voice_cs_32586420.mp3 tři
+cv_ces_000929 common_voice_cs_32586421.mp3 šest
+cv_ces_000930 common_voice_cs_32586422.mp3 ano
+cv_ces_000931 common_voice_cs_32586423.mp3 nula
+cv_ces_000932 common_voice_cs_32586442.mp3 devět
+cv_ces_000933 common_voice_cs_32586443.mp3 dva
+cv_ces_000934 common_voice_cs_32586444.mp3 čtyři
+cv_ces_000935 common_voice_cs_32586446.mp3 osm
+cv_ces_000936 common_voice_cs_32586448.mp3 sedm
+cv_ces_000937 common_voice_cs_27052268.mp3 devět
+cv_ces_000938 common_voice_cs_27052273.mp3 pět
+cv_ces_000939 common_voice_cs_27052277.mp3 osm
+cv_ces_000940 common_voice_cs_27052280.mp3 ano
+cv_ces_000941 common_voice_cs_27052289.mp3 sedm
+cv_ces_000942 common_voice_cs_27052308.mp3 ne
+cv_ces_000943 common_voice_cs_27052314.mp3 dva
+cv_ces_000944 common_voice_cs_27052316.mp3 jedna
+cv_ces_000945 common_voice_cs_27052322.mp3 čtyři
+cv_ces_000946 common_voice_cs_20546848.mp3 Zanedlouho je dohonil.
+cv_ces_000947 common_voice_cs_20546850.mp3 Tohle všechno trvalo asi půl roku.
+cv_ces_000948 common_voice_cs_20546851.mp3 Ale netrapte se temnými představami.
+cv_ces_000949 common_voice_cs_20546852.mp3 Její manžel zemřel jako hrdina ve válce v Africe.
+cv_ces_000950 common_voice_cs_20546858.mp3 Originál je v tomto článku.
+cv_ces_000951 common_voice_cs_20546859.mp3 Tuhé mrazy zasáhly Česko i v noci na úterý.
+cv_ces_000952 common_voice_cs_20546860.mp3 Poznovu zvedl jsem hlavu a naslouchal.
+cv_ces_000953 common_voice_cs_20546861.mp3 To chování normální není.
+cv_ces_000954 common_voice_cs_20546862.mp3 Stačí ti to takhle?
+cv_ces_000955 common_voice_cs_22378542.mp3 Budeme nyní pokračovat v rozpravě.
+cv_ces_000956 common_voice_cs_22378543.mp3 Následující otázky byly položeny Radě.
+cv_ces_000957 common_voice_cs_22378544.mp3 Ta jednoduše zmizela z pořadu jednání.
+cv_ces_000958 common_voice_cs_22378545.mp3 Nicméně rozšiřování ztratilo na energičnosti.
+cv_ces_000959 common_voice_cs_22378552.mp3 Děkuji vám za podpůrné poznámky a komentáře.
+cv_ces_000960 common_voice_cs_22378553.mp3 Bohužel tomu tak není, pokud jde o Romy.
+cv_ces_000961 common_voice_cs_22378554.mp3 Oběťmi tohoto upuštění jsou tedy mezinárodně smýšlející studenti.
+cv_ces_000962 common_voice_cs_22378555.mp3 Byl to případ mně velmi blízké společnosti; následovalo hromadné propouštění.
+cv_ces_000963 common_voice_cs_22378556.mp3 To je moje první otázka pro Komisi.
+cv_ces_000964 common_voice_cs_24640229.mp3 šest
+cv_ces_000965 common_voice_cs_24640230.mp3 dva
+cv_ces_000966 common_voice_cs_24640231.mp3 pět
+cv_ces_000967 common_voice_cs_24640232.mp3 sedm
+cv_ces_000968 common_voice_cs_24640233.mp3 devět
+cv_ces_000969 common_voice_cs_24689646.mp3 čtyři
+cv_ces_000970 common_voice_cs_24689648.mp3 osm
+cv_ces_000971 common_voice_cs_24689649.mp3 ano
+cv_ces_000972 common_voice_cs_24689651.mp3 jedna
+cv_ces_000973 common_voice_cs_25113710.mp3 pět
+cv_ces_000974 common_voice_cs_25113711.mp3 tři
+cv_ces_000975 common_voice_cs_25113713.mp3 šest
+cv_ces_000976 common_voice_cs_25113714.mp3 ne
+cv_ces_000977 common_voice_cs_25113756.mp3 čtyři
+cv_ces_000978 common_voice_cs_25113757.mp3 ano
+cv_ces_000979 common_voice_cs_25113758.mp3 nula
+cv_ces_000980 common_voice_cs_25113759.mp3 sedm
+cv_ces_000981 common_voice_cs_25113760.mp3 osm
+cv_ces_000982 common_voice_cs_23811213.mp3 Evropským institucím se však daří výrazněji projevovat vůči jiným režimum.
+cv_ces_000983 common_voice_cs_23811214.mp3 Nyní projednáváme novou směrnici.
+cv_ces_000984 common_voice_cs_23811215.mp3 Přesto se v několika bodech od reálného případu liší.
+cv_ces_000985 common_voice_cs_23811216.mp3 Oba jeho rodiče byli velmi vzdělaní lidé.
+cv_ces_000986 common_voice_cs_23811217.mp3 Mám na mysli zejména pracovní skupiny Rady.
+cv_ces_000987 common_voice_cs_23811218.mp3 Záhy se nemocnice stěhovala na ruskou frontu a později na Balkán.
+cv_ces_000988 common_voice_cs_23811220.mp3 Jsou vystaveny v expozici chebské gotiky Galerie výtvarného umění v Chebu.
+cv_ces_000989 common_voice_cs_23811221.mp3 Podle čínské tradice císař po smrti obdržel čestné posmrtné jméno.
+cv_ces_000990 common_voice_cs_23811222.mp3 Staví je v úkrytu pod hustou vegetací a často daleko od břehu.
+cv_ces_000991 common_voice_cs_24185991.mp3 devět
+cv_ces_000992 common_voice_cs_24185992.mp3 tři
+cv_ces_000993 common_voice_cs_24185994.mp3 ano
+cv_ces_000994 common_voice_cs_24185995.mp3 dva
+cv_ces_000995 common_voice_cs_24186053.mp3 pět
+cv_ces_000996 common_voice_cs_24186054.mp3 jedna
+cv_ces_000997 common_voice_cs_24186055.mp3 šest
+cv_ces_000998 common_voice_cs_24186057.mp3 nula
+cv_ces_000999 common_voice_cs_24186060.mp3 čtyři
+cv_ces_001000 common_voice_cs_20485924.mp3 Jenom vyměníš příznaky za genetický algoritmus.
+cv_ces_001001 common_voice_cs_20485925.mp3 Vysvětlete, jaké jsou výhody a nevýhody dvouplášťových plochých střech.
+cv_ces_001002 common_voice_cs_20485926.mp3 Co je tam napsaný?
+cv_ces_001003 common_voice_cs_20485927.mp3 Příští týden jsem bohužel mimo Brno.
+cv_ces_001004 common_voice_cs_20485928.mp3 Ať už jde!
+cv_ces_001005 common_voice_cs_20485949.mp3 Ester Ledecká vyhrála zlatou medaili v paralelním obřím slalomu.
+cv_ces_001006 common_voice_cs_20485950.mp3 A většinou to není příjemné pomyšlení.
+cv_ces_001007 common_voice_cs_20485951.mp3 Snad to nejsou špatné zprávy?
+cv_ces_001008 common_voice_cs_20485952.mp3 Musím s vámi mluvit.
+cv_ces_001009 common_voice_cs_20491428.mp3 Zde válka běsná.
+cv_ces_001010 common_voice_cs_20491429.mp3 Dolní plášť bývá zpravidla vodorovný.
+cv_ces_001011 common_voice_cs_20491430.mp3 Fantazii se nekladou žádné meze.
+cv_ces_001012 common_voice_cs_20491431.mp3 Nejsou až tak špatné.
+cv_ces_001013 common_voice_cs_20491432.mp3 Je konec roku a budeme mít malou oslavu.
+cv_ces_001014 common_voice_cs_20491453.mp3 Stejně tak novinářské kachny.
+cv_ces_001015 common_voice_cs_20491454.mp3 Jaké si dáme novoroční předsevzetí?
+cv_ces_001016 common_voice_cs_20491456.mp3 Na ní seděl s rukama překříženýma přes prsa.
+cv_ces_001017 common_voice_cs_20491457.mp3 Ty tomu ještě nerozumíš, tady máš chleba s máslem, jez.
+cv_ces_001018 common_voice_cs_24329813.mp3 pět
+cv_ces_001019 common_voice_cs_24329814.mp3 čtyři
+cv_ces_001020 common_voice_cs_24329815.mp3 osm
+cv_ces_001021 common_voice_cs_24329816.mp3 devět
+cv_ces_001022 common_voice_cs_24329817.mp3 tři
+cv_ces_001023 common_voice_cs_24329819.mp3 sedm
+cv_ces_001024 common_voice_cs_24329820.mp3 ne
+cv_ces_001025 common_voice_cs_24329821.mp3 šest
+cv_ces_001026 common_voice_cs_24329822.mp3 ano
+cv_ces_001027 common_voice_cs_20535956.mp3 Stokrát opakovaná lež se stává pravdou.
+cv_ces_001028 common_voice_cs_20535957.mp3 Doufám, že se mi něco nepálí na sporáku!
+cv_ces_001029 common_voice_cs_20535958.mp3 Nebo ne: to asi dělají trávníky.
+cv_ces_001030 common_voice_cs_20535959.mp3 Marla se alespoň snaží dostat na dno.
+cv_ces_001031 common_voice_cs_20535960.mp3 Hrad v pozadí.
+cv_ces_001032 common_voice_cs_20535961.mp3 Nějaké jídlo?
+cv_ces_001033 common_voice_cs_20535962.mp3 A teď pohled běžného cestujícího.
+cv_ces_001034 common_voice_cs_20535963.mp3 Zde vidím velký prostor pro další rozvoj.
+cv_ces_001035 common_voice_cs_20535964.mp3 Přepošlu ti, co jsem lidem poslal.
+cv_ces_001036 common_voice_cs_20535965.mp3 Pouze část z toho je pravda.
+cv_ces_001037 common_voice_cs_31833309.mp3 nula
+cv_ces_001038 common_voice_cs_31833310.mp3 pět
+cv_ces_001039 common_voice_cs_31833311.mp3 sedm
+cv_ces_001040 common_voice_cs_31833312.mp3 jedna
+cv_ces_001041 common_voice_cs_31833313.mp3 tři
+cv_ces_001042 common_voice_cs_31833434.mp3 devět
+cv_ces_001043 common_voice_cs_31833435.mp3 ne
+cv_ces_001044 common_voice_cs_31833436.mp3 osm
+cv_ces_001045 common_voice_cs_31833437.mp3 ano
+cv_ces_001046 common_voice_cs_31833444.mp3 Této příležitosti bych chtěl rovněž využít k několika poznámkám.
+cv_ces_001047 common_voice_cs_32195784.mp3 devět
+cv_ces_001048 common_voice_cs_32195785.mp3 ano
+cv_ces_001049 common_voice_cs_32195786.mp3 sedm
+cv_ces_001050 common_voice_cs_32195787.mp3 jedna
+cv_ces_001051 common_voice_cs_32195788.mp3 nula
+cv_ces_001052 common_voice_cs_32195799.mp3 šest
+cv_ces_001053 common_voice_cs_32195800.mp3 čtyři
+cv_ces_001054 common_voice_cs_32195801.mp3 pět
+cv_ces_001055 common_voice_cs_32195802.mp3 tři
+cv_ces_001056 common_voice_cs_32195803.mp3 dva
+cv_ces_001057 common_voice_cs_28048721.mp3 sedm
+cv_ces_001058 common_voice_cs_28048723.mp3 tři
+cv_ces_001059 common_voice_cs_28048725.mp3 šest
+cv_ces_001060 common_voice_cs_28048727.mp3 ano
+cv_ces_001061 common_voice_cs_28048729.mp3 pět
+cv_ces_001062 common_voice_cs_28048743.mp3 jedna
+cv_ces_001063 common_voice_cs_28048746.mp3 ne
+cv_ces_001064 common_voice_cs_28048747.mp3 čtyři
+cv_ces_001065 common_voice_cs_28048750.mp3 nula
+cv_ces_001066 common_voice_cs_28048751.mp3 osm
+cv_ces_001067 common_voice_cs_27525042.mp3 ano
+cv_ces_001068 common_voice_cs_27525043.mp3 nula
+cv_ces_001069 common_voice_cs_27525044.mp3 osm
+cv_ces_001070 common_voice_cs_27525045.mp3 ne
+cv_ces_001071 common_voice_cs_27525046.mp3 jedna
+cv_ces_001072 common_voice_cs_27525052.mp3 sedm
+cv_ces_001073 common_voice_cs_27525053.mp3 šest
+cv_ces_001074 common_voice_cs_27525054.mp3 dva
+cv_ces_001075 common_voice_cs_27525055.mp3 čtyři
+cv_ces_001076 common_voice_cs_27525056.mp3 tři
+cv_ces_001077 common_voice_cs_25256901.mp3 šest
+cv_ces_001078 common_voice_cs_25256902.mp3 ano
+cv_ces_001079 common_voice_cs_25256903.mp3 dva
+cv_ces_001080 common_voice_cs_25256904.mp3 sedm
+cv_ces_001081 common_voice_cs_25256906.mp3 nula
+cv_ces_001082 common_voice_cs_25256907.mp3 tři
+cv_ces_001083 common_voice_cs_25256908.mp3 jedna
+cv_ces_001084 common_voice_cs_25256909.mp3 osm
+cv_ces_001085 common_voice_cs_25256910.mp3 čtyři
+cv_ces_001086 common_voice_cs_25256911.mp3 ne
+cv_ces_001087 common_voice_cs_34739010.mp3 dva
+cv_ces_001088 common_voice_cs_34739011.mp3 pět
+cv_ces_001089 common_voice_cs_34739014.mp3 ne
+cv_ces_001090 common_voice_cs_34739013.mp3 nula
+cv_ces_001091 common_voice_cs_34739015.mp3 šest
+cv_ces_001092 common_voice_cs_34739262.mp3 jedna
+cv_ces_001093 common_voice_cs_34739263.mp3 ano
+cv_ces_001094 common_voice_cs_34739264.mp3 devět
+cv_ces_001095 common_voice_cs_34739265.mp3 osm

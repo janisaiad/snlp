@@ -1,0 +1,139 @@
+cv_ory_000000 common_voice_or_30406521.mp3 ଏକ
+cv_ory_000001 common_voice_or_22446033.mp3 ଗାଦି ପୂଜା ଦକ୍ଷିଣା ଯାହାର ଯାହା ଶକ୍ୟ; କିନ୍ତୁ ପାଞ୍ଚ ସୁକାରୁ ଊଣା ନୁହେଁ ।
+cv_ory_000002 common_voice_or_22274497.mp3 ସେହି ଶବ୍ଦ ଶୁଣି ବିଲୁଆ ଧଡ଼ପଡ଼ ହୋଇ ପଳାଇଗଲା ।
+cv_ory_000003 common_voice_or_22278034.mp3 ଆପଣ ଛେଉଣ୍ଡଟିକୁ ଟିକିଏ ଦୟା କରନ୍ତୁ, ସେହି ପାଞ୍ଚଶରେ ମଙ୍ଗି ଯାନ୍ତୁ ।
+cv_ory_000004 common_voice_or_22275017.mp3 "ମା, ବୁଢ଼ୀ ମା-
+cv_ory_000005 common_voice_or_30407070.mp3 ଏକ
+cv_ory_000006 common_voice_or_30405496.mp3 ପାଞ୍ଚ
+cv_ory_000007 common_voice_or_30406570.mp3 ତିନି
+cv_ory_000008 common_voice_or_30406709.mp3 ଛଅ
+cv_ory_000009 common_voice_or_30406646.mp3 ଦୁଇ
+cv_ory_000010 common_voice_or_22706391.mp3 ଦୁମଦୁମପୁରରେ କନ୍ୟାଟି ଘରଯୋଗା ହେଲାଣି ।
+cv_ory_000011 common_voice_or_22258083.mp3 ଆରେ ମୋ ଚନ୍ଦ୍ର ଉଦିଆରେ, ମୋଘର ଅନ୍ଧାର କରି ଆସିଛୁ, ଆରେ ମୋ କଳାମାଣିକରେ ।
+cv_ory_000012 common_voice_or_22258084.mp3 ସାଆନ୍ତେ ଆପେ କହନ୍ତି ସେ କାହାରି ଗୋଟିଏ ପଇସା ଆଣନ୍ତି ନାହିଁ ।
+cv_ory_000013 common_voice_or_30406633.mp3 ଏକ
+cv_ory_000014 common_voice_or_30406638.mp3 ଛଅ
+cv_ory_000015 common_voice_or_22256537.mp3 ତାଙ୍କର ଯେ ବୁଦ୍ଧି ଢେର, ତାହା ଗାଁ ସାନ୍ତାଳ ମାଇକିନିଆମାନଙ୍କ କତିରୁ କେତେଥର ଶୁଣିଛନ୍ତି ।
+cv_ory_000016 common_voice_or_22256538.mp3 ତାହାର କ୍ଷୁଦ୍ର ପ୍ରାଣ – ତହିଁରୁ ଅତି କ୍ଷୁଦ୍ର ମନଟି ଏକାବେଳକେ ଭାଙ୍ଗି ଯାଇଛି ।
+cv_ory_000017 common_voice_or_30406581.mp3 ଏକ
+cv_ory_000018 common_voice_or_30406582.mp3 ପାଞ୍ଚ
+cv_ory_000019 common_voice_or_22259289.mp3 ମାଆ ବୁଢ଼ୀ କରଇ ସୁକଇଲାଣ
+cv_ory_000020 common_voice_or_22259322.mp3 ନାଉରି କି ଶୋଇ ଯାଇଛି?
+cv_ory_000021 common_voice_or_30406495.mp3 ଛଅ
+cv_ory_000022 common_voice_or_30406497.mp3 ପାଞ୍ଚ
+cv_ory_000023 common_voice_or_30406498.mp3 ହଁ
+cv_ory_000024 common_voice_or_30406477.mp3 ଦୁଇ
+cv_ory_000025 common_voice_or_30406479.mp3 ନା
+cv_ory_000026 common_voice_or_30406480.mp3 ଏକ
+cv_ory_000027 common_voice_or_30405499.mp3 ଶୂନ
+cv_ory_000028 common_voice_or_30405500.mp3 ଦୁଇ
+cv_ory_000029 common_voice_or_30405501.mp3 ସାତ
+cv_ory_000030 common_voice_or_27760412.mp3 ଦୁଇ
+cv_ory_000031 common_voice_or_27760414.mp3 ନଅ
+cv_ory_000032 common_voice_or_27760415.mp3 ଶୂନ
+cv_ory_000033 common_voice_or_25297089.mp3 ନା
+cv_ory_000034 common_voice_or_25297090.mp3 ନଅ
+cv_ory_000035 common_voice_or_25297091.mp3 ଏକ
+cv_ory_000036 common_voice_or_30405567.mp3 ଦୁଇ
+cv_ory_000037 common_voice_or_30405568.mp3 ପାଞ୍ଚ
+cv_ory_000038 common_voice_or_30405571.mp3 ତିନି
+cv_ory_000039 common_voice_or_30405968.mp3 ଛଅ
+cv_ory_000040 common_voice_or_30405970.mp3 ହଁ
+cv_ory_000041 common_voice_or_30405972.mp3 ସାତ
+cv_ory_000042 common_voice_or_22256340.mp3 ପଚାରିଲା, "କବିରାଜେ, କଣ ଦେଖିଲେ?
+cv_ory_000043 common_voice_or_22256342.mp3 କାହାକୁ ଶିଖାଇ ମଣେଇ ଏ କାମଟି କରେଇଚ?
+cv_ory_000044 common_voice_or_22256344.mp3 କିଛି ଖପା ବୋଲରେ ଡାକିଲେ, "ରେ କିଣା!" ଉପସ୍ଥିତ କ୍ଷେତ୍ରରେ ରଥଙ୍କ କ୍ରୋଧ କରିବା ଖୁବ୍ ଅନ୍ୟାୟ ।
+cv_ory_000045 common_voice_or_22256345.mp3 ଗାଈ ଭଗିଚନ୍ଦର ଥିବା ପକ୍ଷମାନେ ସ୍ୱୀକାର କରୁଅଛନ୍ତି ।
+cv_ory_000046 common_voice_or_21843274.mp3 ବରଷାରେ ବାଟବଣା ହେଇଚି, ଆମେ ଦିହେଁ ଏଠି ରହିଯିବା ।"
+cv_ory_000047 common_voice_or_21843275.mp3 ଦିନ ଯାଉଛି ସମସ୍ତଙ୍କର, ଯିବ ସମସ୍ତଙ୍କର ।
+cv_ory_000048 common_voice_or_21843276.mp3 ସେ ଗଲା ନାହିଁ ।
+cv_ory_000049 common_voice_or_21843277.mp3 ପେସ୍କାର - ହଜୁର, ପହିଲା ନମ୍ବର ମାମଲା ନିମକୀ ପୋଲିଶ ଚାଲାଣି ।
+cv_ory_000050 common_voice_or_24666634.mp3 ନଅ
+cv_ory_000051 common_voice_or_24666635.mp3 ନା
+cv_ory_000052 common_voice_or_24666636.mp3 ସାତ
+cv_ory_000053 common_voice_or_24666637.mp3 ଆଠ
+cv_ory_000054 common_voice_or_24454095.mp3 ହଁ
+cv_ory_000055 common_voice_or_24454097.mp3 ଚାରି
+cv_ory_000056 common_voice_or_24454098.mp3 ନା
+cv_ory_000057 common_voice_or_24454099.mp3 ସାତ
+cv_ory_000058 common_voice_or_30405537.mp3 ଚାରି
+cv_ory_000059 common_voice_or_30405538.mp3 ଶୂନ
+cv_ory_000060 common_voice_or_30405539.mp3 ଛଅ
+cv_ory_000061 common_voice_or_30405540.mp3 ସାତ
+cv_ory_000062 common_voice_or_21821987.mp3 ତହିଁଆର ଦିନଠାରୁ ଚାରିଦିନ ଯାଏ ଭଗବାନକୁ ଗାଁ ମଧ୍ୟରେ କେହି ଦେଖିନାହିଁ ।
+cv_ory_000063 common_voice_or_21821988.mp3 ତେବେ ଆଜି ଏତେ ବ୍ୟାକୁଳ କି ପାଇଁ?
+cv_ory_000064 common_voice_or_21821990.mp3 ବାପ ଛେଉଣ୍ଡଟି ଲାଗି କିଏ ଧାଇଁବ?
+cv_ory_000065 common_voice_or_21821991.mp3 ଆଉ ମୁଁ ବୋଲି ସିନା ତୋର ମାଣ ପାଞ୍ଚ ଟଙ୍କାରେ ନେଲି
+cv_ory_000066 common_voice_or_30405502.mp3 ନା
+cv_ory_000067 common_voice_or_30405503.mp3 ଦୁଇ
+cv_ory_000068 common_voice_or_30405504.mp3 ପାଞ୍ଚ
+cv_ory_000069 common_voice_or_30405506.mp3 ସାତ
+cv_ory_000070 common_voice_or_21833737.mp3 ବାଁ ହାତ ପାପୁଲିରେ ମୁହଁରୁ ପୋଷ ପୋଷ ଝାଳ ପୋଛିପକାଉଅଛନ୍ତି ।
+cv_ory_000071 common_voice_or_21833739.mp3 ଏଣିକି ପିତୃଲୋକ ପାଣି ମୁଠାଏ ପାଇବାର ବାଟ କର ।"
+cv_ory_000072 common_voice_or_21833742.mp3 ସେଇଟା ତ ବର ପିଠିରୁ ଦେଣ ।"
+cv_ory_000073 common_voice_or_21833746.mp3 କାହାରିକୁ ନ କହି ମୁକ୍ତାର ବାବୁ ଗୁଣିଆକୁ ଡାକିବା ଲାଗି ଏକ-କାନିଆ ଆପେ ଧାଇଁଲେ ।
+cv_ory_000074 common_voice_or_21821328.mp3 ମକ୍ରାମପୁରରେ ବାଲାଗସ୍ତି ଫାଣ୍ତି ଗୋପାଳପୁରଠାରୁ ଦେଢ଼କୋଶ ଦୂର ।
+cv_ory_000075 common_voice_or_21821329.mp3 ଆଜି ମଳତୀର ଆଦର ଦେଖେ କିଏ!
+cv_ory_000076 common_voice_or_21821330.mp3 ହୁଏତ ମଙ୍ଗରାଜେ ବୁଝିଛନ୍ତି ଫଲ୍ଗୁ ଚିରକାଳ ନିମନ୍ତେ ବିଦାୟ ଗ୍ରହଣ କଲା ।
+cv_ory_000077 common_voice_or_21821331.mp3 ତାହେଲେ ଆପଣଙ୍କ ଘର ପାଣିମାଠିଆରୁ ତ ମାଛ ବାହାରୁଥାନ୍ତେ?
+cv_ory_000078 common_voice_or_30405872.mp3 ଶୂନ
+cv_ory_000079 common_voice_or_30405874.mp3 ନା
+cv_ory_000080 common_voice_or_30405875.mp3 ପାଞ୍ଚ
+cv_ory_000081 common_voice_or_30405876.mp3 ଦୁଇ
+cv_ory_000082 common_voice_or_22271447.mp3 ମହାନ୍ତିଏ ସକାଳୁ ଉଠି ଦୁଇ ଜଣ ମାନିଆ ଚାଉଳ ମାଣର ଠିକ କଣ୍ଟରେ ମାପି ଦେଇ ଯାନ୍ତି ।
+cv_ory_000083 common_voice_or_22271448.mp3 ଚାରିଜଣ ବରକନ୍ଦାଜ ପହରା ।
+cv_ory_000084 common_voice_or_22271449.mp3 ବୁଢ଼ୀର ତ କ୍ରି୍ୟାକର୍ମ ସବୁ ଛିଡ଼ିଲା ।
+cv_ory_000085 common_voice_or_22271457.mp3 ସାଆନ୍ତେ ହୁଁ କହି ତୁନି ହେଲେ ।
+cv_ory_000086 common_voice_or_22107923.mp3 ଚାଳକୁ ନଡ଼ା ନ ଉଠିବାରୁ କାନ୍ଥ ପଡ଼ିଯାଇଥିଲା ।
+cv_ory_000087 common_voice_or_22107924.mp3 ପାଣ କଣ୍ଡରା ପ୍ରଭୃତି ନିଜ ନିଜ ଜାତୀୟ ବୈଷ୍ଣବଙ୍କ ମଧ୍ୟରେ ପୁରୋହିତ ସ୍ଥିର କରିଅଛନ୍ତି ।
+cv_ory_000088 common_voice_or_22107925.mp3 ତାକୁ ଜେଲ ଦେବାକୁ କହିଥିଲେ ।
+cv_ory_000089 common_voice_or_22107926.mp3 ଜଜ୍ ସାହେବ - "କୁଛ ବାତ୍ ନେହି, ଗୋ ଅନ୍ ଚଲୋ ଚଲୋ ।"
+cv_ory_000090 common_voice_or_22107927.mp3 ଆଜିକୁ ମାସେ ହେଲା ମଙ୍ଗରାଜଙ୍କ ଅଗଣାରେ ବନ୍ଧାହେବାର ଦେଖୁଅଛି ।
+cv_ory_000091 common_voice_or_22271357.mp3 ପନ୍ଦର ଖଣ୍ଡ ସରିକି ଚକଚକିଆ ନାଆ, ଗୁଡ଼ାଏ କାଠୁଆ ସଜ ହେଲା ।
+cv_ory_000092 common_voice_or_22271358.mp3 ଶାଶୁ ଶଶୁରକୁ ଘେନି କଣ ବୋହୂମାନେ ସବୁଦିନେ ଘର କରନ୍ତି?
+cv_ory_000093 common_voice_or_22271359.mp3 ଭୟଙ୍କର ଦଉଡ଼ରେ ଯୁତାଯୋଡ଼ିକ କେଉଁଠାରେ ଯେ ଗୋଡ଼ରୁ ପଡ଼ିଗଲା ସେ ଜାଣି ନଥିଲେ ।
+cv_ory_000094 common_voice_or_22271381.mp3 ମା ଡରରେ ରଖିଲେ ନାହିଁ ।
+cv_ory_000095 common_voice_or_22271384.mp3 ଦେଖିଲା, ମାଇଁର ଚେତା ନାହିଁ, ମାମୁ ବେକ ଭାଙ୍ଗି ଆଣ୍ଠୁକୁଣ୍ଢେଇ ବସିଛନ୍ତି ।
+cv_ory_000096 common_voice_or_30405512.mp3 ନା
+cv_ory_000097 common_voice_or_30405513.mp3 ଆଠ
+cv_ory_000098 common_voice_or_30405514.mp3 ତିନି
+cv_ory_000099 common_voice_or_30405515.mp3 ଚାରି
+cv_ory_000100 common_voice_or_30405516.mp3 ହଁ
+cv_ory_000101 common_voice_or_22284442.mp3 ଟଙ୍କା ଆପଣ ଅର୍ଜିଛନ୍ତି କି ଟଙ୍କା ଆପଣଙ୍କୁ ଅର୍ଜିଛି?
+cv_ory_000102 common_voice_or_22284443.mp3 ବଗିଚା ପଗାର ଚାରିପାଖ ସୁନାର ଖାଇ ବାଉଁଶ ବାଡ଼ ପ୍ରାଚୀର ପରି ବେଢ଼ି ରହିଅଛି ।
+cv_ory_000103 common_voice_or_22284444.mp3 ରୋଜ ସଞ୍ଜବେଳୁଁ ପାଖରେ ବସାଇ ରାତି ଦୁଇ ଘଡ଼ି ଯାଏ ପଢ଼ାନ୍ତି ।
+cv_ory_000104 common_voice_or_22284446.mp3 ସବୁ ଗୁଡାକ କୁଆଡେ ଉଡ଼ି ଗଲେ, କାହାରି ପତା ନାହିଁ ।
+cv_ory_000105 common_voice_or_22284447.mp3 ସାରିଆ ପିଠିରେ କୋଡ଼ିଏ ପାହାର ବାଡ଼େଇଲେ ।
+cv_ory_000106 common_voice_or_30406527.mp3 ଏକ
+cv_ory_000107 common_voice_or_30406528.mp3 ତିନି
+cv_ory_000108 common_voice_or_30406530.mp3 ଦୁଇ
+cv_ory_000109 common_voice_or_30406531.mp3 ନା
+cv_ory_000110 common_voice_or_30406534.mp3 ପାଞ୍ଚ
+cv_ory_000111 common_voice_or_30406535.mp3 ଛଅ
+cv_ory_000112 common_voice_or_22263585.mp3 କାରଣ ବିନା କାର୍ଯ୍ୟ ନାହିଁ, ଏହା ନ୍ୟାୟଶାସ୍ତ୍ରର ସୂତ୍ର ଅଟେ ।
+cv_ory_000113 common_voice_or_22263592.mp3 ପ୍ରଥମ ନାଲୁ ମିର୍ଦ୍ଧା, ଦ୍ୱିତୀୟ ନାମ ବୈଦୀ ଶେଠୀ ।
+cv_ory_000114 common_voice_or_22263594.mp3 ତମେ କାହାରି ପାଖରେ କିଛି କହିବ ନାହିଁ ।
+cv_ory_000115 common_voice_or_22263598.mp3 ରସନ୍ତା ବାରିଝରା ତାନ!"
+cv_ory_000116 common_voice_or_22263602.mp3 ବର କନ୍ୟା ନାଆରେ ବସିଲେ ।
+cv_ory_000117 common_voice_or_22263627.mp3 ସାରିଆ - ମୁଁ କଣ କରିବି?
+cv_ory_000118 common_voice_or_22263629.mp3 ବୋଲିବି, ତୁ କ୍ୟାଁ ଏପରି ଛାନିଆ ହେଉଛୁ?
+cv_ory_000119 common_voice_or_22263630.mp3 ଏହା ଛାଡ଼ି ତିରିଶି ବାଟି ସତର ମାଣ ଭାଗରେ ଲାଗିଅଛି ।
+cv_ory_000120 common_voice_or_28976907.mp3 ହଁ
+cv_ory_000121 common_voice_or_28976908.mp3 ତିନି
+cv_ory_000122 common_voice_or_28976910.mp3 ଚାରି
+cv_ory_000123 common_voice_or_28976918.mp3 ଛଅ
+cv_ory_000124 common_voice_or_28976921.mp3 ଦୁଇ
+cv_ory_000125 common_voice_or_28976923.mp3 ଏକ
+cv_ory_000126 common_voice_or_28977170.mp3 ଆଠ
+cv_ory_000127 common_voice_or_28977171.mp3 ସାତ
+cv_ory_000128 common_voice_or_25309826.mp3 ସାତ
+cv_ory_000129 common_voice_or_25309827.mp3 ନଅ
+cv_ory_000130 common_voice_or_25309828.mp3 ପାଞ୍ଚ
+cv_ory_000131 common_voice_or_25309830.mp3 ଦୁଇ
+cv_ory_000132 common_voice_or_25309831.mp3 ଆଠ
+cv_ory_000133 common_voice_or_25309832.mp3 ତିନି
+cv_ory_000134 common_voice_or_25309833.mp3 ଚାରି
+cv_ory_000135 common_voice_or_25309834.mp3 ନା
+cv_ory_000136 common_voice_or_25309835.mp3 ହଁ
+cv_ory_000137 common_voice_or_30405542.mp3 ଦୁଇ
+cv_ory_000138 common_voice_or_30405543.mp3 ଛଅ

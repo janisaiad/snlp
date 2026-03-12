@@ -1,0 +1,135 @@
+nchlt_xho_000828	nchlt_xho/audio/064/nchlt_xho_064m_0162.wav	nje nomntu osephupheni
+nchlt_xho_000829	nchlt_xho/audio/122/nchlt_xho_122f_0749.wav	azeshishini ezaneleyo mazibekwe
+nchlt_xho_000830	nchlt_xho/audio/122/nchlt_xho_122f_0264.wav	affidavit evela kwilungu
+nchlt_xho_000831	nchlt_xho/audio/069/nchlt_xho_069m_0185.wav	ukuba zingathinjwa ezo
+nchlt_xho_000832	nchlt_xho/audio/001/nchlt_xho_001f_0551.wav	kutheni le nto
+nchlt_xho_000833	nchlt_xho/audio/069/nchlt_xho_069m_0382.wav	emini amadoda [s] azibeka
+nchlt_xho_000834	nchlt_xho/audio/123/nchlt_xho_123m_0245.wav	olumanyanisiweyo lunganengqiqo yenzululwazi
+nchlt_xho_000835	nchlt_xho/audio/034/nchlt_xho_034f_0864.wav	emthatha
+nchlt_xho_000836	nchlt_xho/audio/187/nchlt_xho_187f_0355.wav	ezinjengesibhedlele sesifuba ibrooklyn
+nchlt_xho_000837	nchlt_xho/audio/069/nchlt_xho_069m_0021.wav	ukuthi esaph esaph [s]
+nchlt_xho_000838	nchlt_xho/audio/064/nchlt_xho_064m_0049.wav	inkwenkwe endithume yona
+nchlt_xho_000839	nchlt_xho/audio/069/nchlt_xho_069m_0250.wav	sikhulu [s] ezindlebeni zikawelile
+nchlt_xho_000840	nchlt_xho/audio/027/nchlt_xho_027m_0056.wav	usikhova yathinjw a
+nchlt_xho_000841	nchlt_xho/audio/027/nchlt_xho_027m_0026.wav	bebeyazi le nto
+nchlt_xho_000842	nchlt_xho/audio/034/nchlt_xho_034f_0527.wav	ndengakuvaubuse laa ntwana
+nchlt_xho_000843	nchlt_xho/audio/069/nchlt_xho_069m_0239.wav	kaloku unojaji washiyeka
+nchlt_xho_000844	nchlt_xho/audio/064/nchlt_xho_064m_0498.wav	kwangoko litsalele umnxeba
+nchlt_xho_000845	nchlt_xho/audio/034/nchlt_xho_034f_0053.wav	lezezindlu
+nchlt_xho_000846	nchlt_xho/audio/122/nchlt_xho_122f_0632.wav	iziphakamiso kwimibutho engasentla
+nchlt_xho_000847	nchlt_xho/audio/064/nchlt_xho_064m_0525.wav	ngumdala engaphumi kulo
+nchlt_xho_000848	nchlt_xho/audio/034/nchlt_xho_034f_0637.wav	uzwelinzima asegcuwa ke
+nchlt_xho_000849	nchlt_xho/audio/027/nchlt_xho_027m_0194.wav	uzwide
+nchlt_xho_000850	nchlt_xho/audio/187/nchlt_xho_187f_0593.wav	umama okhulelwayo esiba
+nchlt_xho_000851	nchlt_xho/audio/123/nchlt_xho_123m_0350.wav	ngeziqulatho neemilo zezishwankathelo
+nchlt_xho_000852	nchlt_xho/audio/069/nchlt_xho_069m_0279.wav	zizwe liphelil ityala
+nchlt_xho_000853	nchlt_xho/audio/122/nchlt_xho_122f_0043.wav	nezibonda zazinolawulo ngokuzenzekela
+nchlt_xho_000854	nchlt_xho/audio/027/nchlt_xho_027m_0231.wav	igama elithetha ukuba
+nchlt_xho_000855	nchlt_xho/audio/123/nchlt_xho_123m_0255.wav	ngezolo bebebonakalisa uvelwane
+nchlt_xho_000856	nchlt_xho/audio/001/nchlt_xho_001f_0544.wav	amabini exhobe aphelela
+nchlt_xho_000857	nchlt_xho/audio/001/nchlt_xho_001f_0096.wav	nangaphandle koko kungaqondani
+nchlt_xho_000858	nchlt_xho/audio/034/nchlt_xho_034f_0617.wav	ngokuba kungekho magama
+nchlt_xho_000859	nchlt_xho/audio/027/nchlt_xho_027m_0140.wav	engafuma neki lula
+nchlt_xho_000860	nchlt_xho/audio/034/nchlt_xho_034f_0022.wav	yithula le mithwalo
+nchlt_xho_000861	nchlt_xho/audio/123/nchlt_xho_123m_0412.wav	kwisikali sokuxabisa sasesib
+nchlt_xho_000862	nchlt_xho/audio/034/nchlt_xho_034f_0614.wav	avela amabele esel
+nchlt_xho_000863	nchlt_xho/audio/069/nchlt_xho_069m_0256.wav	atsiba phezu kwakhe
+nchlt_xho_000864	nchlt_xho/audio/123/nchlt_xho_123m_0399.wav	ezikweli nqugwala masiqale
+nchlt_xho_000865	nchlt_xho/audio/001/nchlt_xho_001f_0354.wav	namapolisa phambi kokuba
+nchlt_xho_000866	nchlt_xho/audio/122/nchlt_xho_122f_0678.wav	elivunyiweyo nelibekiweyo lisebenziseka
+nchlt_xho_000867	nchlt_xho/audio/034/nchlt_xho_034f_0556.wav	kuba esi sithethe
+nchlt_xho_000868	nchlt_xho/audio/187/nchlt_xho_187f_0031.wav	lomanyano masincedane njengabamelwane
+nchlt_xho_000869	nchlt_xho/audio/123/nchlt_xho_123m_0488.wav	wentetho yokuzikhusela lingacela
+nchlt_xho_000870	nchlt_xho/audio/122/nchlt_xho_122f_0132.wav	ubengumntu [s] othobekileyo ozibophelele
+nchlt_xho_000871	nchlt_xho/audio/187/nchlt_xho_187f_0283.wav	lukazuziwe [s] nobhuqa lwaphula
+nchlt_xho_000872	nchlt_xho/audio/027/nchlt_xho_027m_0124.wav	ngasezantsi ngasemnyango indlu
+nchlt_xho_000873	nchlt_xho/audio/027/nchlt_xho_027m_0179.wav	wakhala ngelizwi elikhulu
+nchlt_xho_000874	nchlt_xho/audio/034/nchlt_xho_034f_0641.wav	balo naluphi na
+nchlt_xho_000875	nchlt_xho/audio/187/nchlt_xho_187f_0089.wav	koluhlu lwemigangatho yabasemagunyeni
+nchlt_xho_000876	nchlt_xho/audio/001/nchlt_xho_001f_0261.wav	uzwide
+nchlt_xho_000877	nchlt_xho/audio/069/nchlt_xho_069m_0290.wav	bonke endandikwibanga elinye
+nchlt_xho_000878	nchlt_xho/audio/123/nchlt_xho_123m_0165.wav	zokuzixhobisa ezidityaniswa nesiseko
+nchlt_xho_000879	nchlt_xho/audio/187/nchlt_xho_187f_0281.wav	zazithwala izidlokolo ziphatha
+nchlt_xho_000880	nchlt_xho/audio/187/nchlt_xho_187f_0605.wav	wavula iwadrobe ejonga
+nchlt_xho_000881	nchlt_xho/audio/122/nchlt_xho_122f_0337.wav	yalapha neyehlabathi esemngciphekweni
+nchlt_xho_000882	nchlt_xho/audio/064/nchlt_xho_064m_0238.wav	sabelani zenihlal etempileni
+nchlt_xho_000883	nchlt_xho/audio/034/nchlt_xho_034f_0535.wav	yokuhlola kufuneka [s] zibonwe
+nchlt_xho_000884	nchlt_xho/audio/064/nchlt_xho_064m_0061.wav	abanye abafundisi ntshapo
+nchlt_xho_000885	nchlt_xho/audio/064/nchlt_xho_064m_0566.wav	ezi zinto zikhankanyiweyo
+nchlt_xho_000886	nchlt_xho/audio/123/nchlt_xho_123m_0070.wav	nokuqoqosha ibhekisa kwintoni
+nchlt_xho_000887	nchlt_xho/audio/001/nchlt_xho_001f_0207.wav	wakhala ngelizwi elikhulu
+nchlt_xho_000888	nchlt_xho/audio/187/nchlt_xho_187f_0373.wav	inemithana emifutshane nengca
+nchlt_xho_000889	nchlt_xho/audio/001/nchlt_xho_001f_0027.wav	kakhulu lanela nje
+nchlt_xho_000890	nchlt_xho/audio/122/nchlt_xho_122f_0664.wav	sifunyaniswe singasebenzi ngokuyimpumelelo
+nchlt_xho_000891	nchlt_xho/audio/069/nchlt_xho_069m_0330.wav	kuthabatha u aabe
+nchlt_xho_000892	nchlt_xho/audio/064/nchlt_xho_064m_0366.wav	umsebenzi wakhe ewunonelele
+nchlt_xho_000893	nchlt_xho/audio/001/nchlt_xho_001f_0447.wav	bebeyazi le nto
+nchlt_xho_000894	nchlt_xho/audio/034/nchlt_xho_034f_0101.wav	yaba ngumhla omkhulu
+nchlt_xho_000895	nchlt_xho/audio/187/nchlt_xho_187f_0280.wav	alingene ukoyisa okokuxhathisa
+nchlt_xho_000896	nchlt_xho/audio/034/nchlt_xho_034f_0285.wav	uyosele leyo indoda
+nchlt_xho_000897	nchlt_xho/audio/027/nchlt_xho_027m_0088.wav	ngabantu ngokukhothana yinja
+nchlt_xho_000898	nchlt_xho/audio/034/nchlt_xho_034f_0657.wav	yasekwindla
+nchlt_xho_000899	nchlt_xho/audio/034/nchlt_xho_034f_0719.wav	akukho nto inzima
+nchlt_xho_000900	nchlt_xho/audio/034/nchlt_xho_034f_0018.wav	asimntu [s] wonke okwaziyo
+nchlt_xho_000901	nchlt_xho/audio/064/nchlt_xho_064m_0248.wav	kamfumana ilanga lingekatshoni
+nchlt_xho_000902	nchlt_xho/audio/069/nchlt_xho_069m_0141.wav	ngumntu nje noko
+nchlt_xho_000903	nchlt_xho/audio/034/nchlt_xho_034f_0239.wav	belizwe
+nchlt_xho_000904	nchlt_xho/audio/123/nchlt_xho_123m_0373.wav	namngcipheko wakuphinda utyale
+nchlt_xho_000905	nchlt_xho/audio/187/nchlt_xho_187f_0091.wav	nandule ukulandelisa ngemibuzo
+nchlt_xho_000906	nchlt_xho/audio/064/nchlt_xho_064m_0304.wav	okokuba ukungathobeli le
+nchlt_xho_000907	nchlt_xho/audio/187/nchlt_xho_187f_0580.wav	zimiselwa ngokweminyaka ukutyeba
+nchlt_xho_000908	nchlt_xho/audio/187/nchlt_xho_187f_0393.wav	ochaphazelekayo kungabingaphantsi kweentsuku
+nchlt_xho_000909	nchlt_xho/audio/123/nchlt_xho_123m_0224.wav	yefeksi yefoni nedilesi
+nchlt_xho_000910	nchlt_xho/audio/034/nchlt_xho_034f_0847.wav	wayegumntu omhlophe eqhuba
+nchlt_xho_000911	nchlt_xho/audio/001/nchlt_xho_001f_0344.wav	[s] kule mihla zibe
+nchlt_xho_000912	nchlt_xho/audio/069/nchlt_xho_069m_0117.wav	neentombi ezizalwa ngabo
+nchlt_xho_000913	nchlt_xho/audio/122/nchlt_xho_122f_0856.wav	lufikelelo oluvuleleke kuwonke
+nchlt_xho_000914	nchlt_xho/audio/001/nchlt_xho_001f_0169.wav	kunye nabafundi bakho
+nchlt_xho_000915	nchlt_xho/audio/123/nchlt_xho_123m_0381.wav	sithuba sifanelekileyo anciphise
+nchlt_xho_000916	nchlt_xho/audio/187/nchlt_xho_187f_0523.wav	kwezenkcubeko kwezembali nakwezakudala
+nchlt_xho_000917	nchlt_xho/audio/123/nchlt_xho_123m_0301.wav	isetyenziselwa ukuthumela imiyalezo
+nchlt_xho_000918	nchlt_xho/audio/187/nchlt_xho_187f_0416.wav	angangeni kwimigibe engendawo
+nchlt_xho_000919	nchlt_xho/audio/187/nchlt_xho_187f_0407.wav	nosikhulume wamangala usikhulume
+nchlt_xho_000920	nchlt_xho/audio/122/nchlt_xho_122f_0679.wav	sakomkhulu siyakuphakamisa [s] ubawo
+nchlt_xho_000921	nchlt_xho/audio/001/nchlt_xho_001f_0494.wav	sikolo senkohlakalo esizangulwa
+nchlt_xho_000922	nchlt_xho/audio/034/nchlt_xho_034f_0253.wav	iimpawu ezicacileyo zokuba
+nchlt_xho_000923	nchlt_xho/audio/034/nchlt_xho_034f_0616.wav	kwakuyne nomthetho wezikolo
+nchlt_xho_000924	nchlt_xho/audio/123/nchlt_xho_123m_0680.wav	usithembiso bayikhomba kwazulu
+nchlt_xho_000925	nchlt_xho/audio/001/nchlt_xho_001f_0069.wav	umamcira efika evela
+nchlt_xho_000926	nchlt_xho/audio/123/nchlt_xho_123m_0406.wav	oyonakalisileyo inwebu eselmlonyeni
+nchlt_xho_000927	nchlt_xho/audio/064/nchlt_xho_064m_0551.wav	zala madoda yityesheleni
+nchlt_xho_000928	nchlt_xho/audio/001/nchlt_xho_001f_0051.wav	phepha leendaba ngathi
+nchlt_xho_000929	nchlt_xho/audio/034/nchlt_xho_034f_0624.wav	lamukunyamalala xa kanye
+nchlt_xho_000930	nchlt_xho/audio/064/nchlt_xho_064m_0517.wav	babudunjiswe yintoni na
+nchlt_xho_000931	nchlt_xho/audio/069/nchlt_xho_069m_0302.wav	wahlathu zelelwa ziinwele
+nchlt_xho_000932	nchlt_xho/audio/034/nchlt_xho_034f_0717.wav	khona indlu yokagcina
+nchlt_xho_000933	nchlt_xho/audio/069/nchlt_xho_069m_0161.wav	tsalwa zibe zide
+nchlt_xho_000934	nchlt_xho/audio/034/nchlt_xho_034f_0347.wav	umzi ubusazema ukuzinza
+nchlt_xho_000935	nchlt_xho/audio/122/nchlt_xho_122f_0648.wav	ethetha athethe [s] nangezandla
+nchlt_xho_000936	nchlt_xho/audio/187/nchlt_xho_187f_0245.wav	kwindlala nasekungenzini imbonakalo
+nchlt_xho_000937	nchlt_xho/audio/069/nchlt_xho_069m_0420.wav	lomandlalo waloo mntu
+nchlt_xho_000938	nchlt_xho/audio/001/nchlt_xho_001f_0345.wav	abazali bakhe bethwele
+nchlt_xho_000939	nchlt_xho/audio/064/nchlt_xho_064m_0041.wav	bacacisele intsi ngiselo
+nchlt_xho_000940	nchlt_xho/audio/001/nchlt_xho_001f_0470.wav	uthixo ngamaxesha onke
+nchlt_xho_000941	nchlt_xho/audio/123/nchlt_xho_123m_0431.wav	zizonke imithombo esenokubakho
+nchlt_xho_000942	nchlt_xho/audio/069/nchlt_xho_069m_0395.wav	balilayo abantwana mabaphiwe
+nchlt_xho_000943	nchlt_xho/audio/123/nchlt_xho_123m_0008.wav	ekwingozi yokuntlithana angabangquba
+nchlt_xho_000944	nchlt_xho/audio/123/nchlt_xho_123m_0489.wav	esinemiqolo emide nengaphezulu
+nchlt_xho_000945	nchlt_xho/audio/187/nchlt_xho_187f_0189.wav	litshatisayo linomrhano obambekayo
+nchlt_xho_000946	nchlt_xho/audio/187/nchlt_xho_187f_0331.wav	inikezele ngezibalo ezingcono
+nchlt_xho_000947	nchlt_xho/audio/034/nchlt_xho_034f_0221.wav	sokukhomba okanye sokwalatha
+nchlt_xho_000948	nchlt_xho/audio/069/nchlt_xho_069m_0272.wav	emaxethukeni kuza [s] kwandulela
+nchlt_xho_000949	nchlt_xho/audio/123/nchlt_xho_123m_0645.wav	ukuwubethelela kwasentloko ngowokuba
+nchlt_xho_000950	nchlt_xho/audio/034/nchlt_xho_034f_0370.wav	le nto yayipha
+nchlt_xho_000951	nchlt_xho/audio/001/nchlt_xho_001f_0434.wav	yamothusa le nto
+nchlt_xho_000952	nchlt_xho/audio/187/nchlt_xho_187f_0574.wav	uqhagamshelwano lokufezekiswa kwezithembiso
+nchlt_xho_000953	nchlt_xho/audio/027/nchlt_xho_027m_0290.wav	ukuba ithe yaya
+nchlt_xho_000954	nchlt_xho/audio/027/nchlt_xho_027m_0064.wav	eyinkwe nkwe ebhinqe
+nchlt_xho_000955	nchlt_xho/audio/122/nchlt_xho_122f_0866.wav	ukuwubethelela kwasentloko ngowokuba
+nchlt_xho_000956	nchlt_xho/audio/187/nchlt_xho_187f_0472.wav	[s] ukuluhlanganisa kumafa aphilayo
+nchlt_xho_000957	nchlt_xho/audio/069/nchlt_xho_069m_0132.wav	omnye umzekelo lo
+nchlt_xho_000958	nchlt_xho/audio/122/nchlt_xho_122f_0170.wav	lamabango elikwiziko labasebenzii
+nchlt_xho_000959	nchlt_xho/audio/069/nchlt_xho_069m_0013.wav	sakhe simantshiyane sanga
+nchlt_xho_000960	nchlt_xho/audio/064/nchlt_xho_064m_0034.wav	ema ibe nalo
+nchlt_xho_000961	nchlt_xho/audio/122/nchlt_xho_122f_0272.wav	lukwazi ukudwelisa inkcaso
+nchlt_xho_000962	nchlt_xho/audio/001/nchlt_xho_001f_0204.wav	olandelayo owathi ufuna

@@ -1,0 +1,130 @@
+cv_ckb_000000 common_voice_ckb_32757998.mp3 ژوورەکەی پیسە.
+cv_ckb_000001 common_voice_ckb_32391336.mp3 ئەو زۆر دەست بە پارەوە دەگرێت.
+cv_ckb_000002 common_voice_ckb_33566924.mp3 کرانە دەستەچیلە لاسکە گۆگەم
+cv_ckb_000003 common_voice_ckb_32916038.mp3 کەلامی خودات بۆ نازڵ ئەکا
+cv_ckb_000004 common_voice_ckb_32305103.mp3 وە نیشانەکانت زیاتر لە پێنج ڕۆژ درێژەیان دەبێت
+cv_ckb_000005 common_voice_ckb_30680773.mp3 تەوای ئەو رۆژانەم بە چاوی خۆم دیت
+cv_ckb_000006 common_voice_ckb_32865594.mp3 لە زستاندا سارد و باراناوییە و ھاوینیشی وشک و گەرم و بێبارانە
+cv_ckb_000007 common_voice_ckb_32344218.mp3 بەڕاستی ڕۆژێکی ناخۆشم بەڕێ کرد.
+cv_ckb_000008 common_voice_ckb_32827718.mp3 هاوژین و چوار منداڵی هەیە
+cv_ckb_000009 common_voice_ckb_33134734.mp3 وشاردییەوە جیبریلی فایق
+cv_ckb_000010 common_voice_ckb_32358821.mp3 بەڵام، کچم
+cv_ckb_000011 common_voice_ckb_33193667.mp3 وتم: یا بینایی چاوان کوڕگەلی تەرخانین هاتگن بۆ پێشواز.
+cv_ckb_000012 common_voice_ckb_32799885.mp3 ئامادەکاریی سەفەرەکەتت تەواو کردووە؟
+cv_ckb_000013 common_voice_ckb_33214466.mp3 ئەو کەسە جێگای لە مەیخانە نییە.
+cv_ckb_000014 common_voice_ckb_32385141.mp3 سەعاتێک پێش ئێستا نانی ئێوارەم خوارد.
+cv_ckb_000015 common_voice_ckb_32305875.mp3 یەکێ لە دار دێتە خوار
+cv_ckb_000016 common_voice_ckb_32759421.mp3 لە بنکەی سپەیس ئێکسی ئیلۆن مەسک
+cv_ckb_000017 common_voice_ckb_29319814.mp3 ئاڵۆزبوونی دۆخەکە ڕەنگە هەوکردنی سیەکان و نیشانەی هاوکاتی تووندی کۆئەندامی هەناسە بگرێتەوە.
+cv_ckb_000018 common_voice_ckb_32826056.mp3 وای زانی باوکیەتی
+cv_ckb_000019 common_voice_ckb_33463365.mp3 نیری یەخسیریی لە ئەستۆ داڕنی،
+cv_ckb_000020 common_voice_ckb_34223483.mp3 ئەو کەسەی تێی هەڵنەدابێ چارەنووس،
+cv_ckb_000021 common_voice_ckb_32772533.mp3 ڕێبوار لە پشتمەوە بوو.
+cv_ckb_000022 common_voice_ckb_32384280.mp3 کتریەکە ڕژا.
+cv_ckb_000023 common_voice_ckb_32317851.mp3 دەڵێ من حەزم لە جۆرێک شیرینی بوو
+cv_ckb_000024 common_voice_ckb_32768145.mp3 بەڕاشکاوی، حەزم لەو پیاوە نییە.
+cv_ckb_000025 common_voice_ckb_32413165.mp3 ئێمە بینیمان
+cv_ckb_000026 common_voice_ckb_32799676.mp3 من لەگەڵ براکەم لە هەمان پۆلم.
+cv_ckb_000027 common_voice_ckb_31826716.mp3 دەردی وشیاری و سەبووری کوشتمی
+cv_ckb_000028 common_voice_ckb_32848429.mp3 هەموو بابەتەکانی کە نوسراون لەلایەن ڕەمەزان عەبدوڵڵا
+cv_ckb_000029 common_voice_ckb_34086816.mp3 تەعجیل یەکێکە لە گەڕەکە کۆنەکانی هەولێر.
+cv_ckb_000030 common_voice_ckb_32759354.mp3 هەمووان چاوەڕێی بینینی فیلمە نوێیەکەی دەکەن.
+cv_ckb_000031 common_voice_ckb_29809843.mp3 دەتوانم بۆ چەند خولەکێک بتبینم؟
+cv_ckb_000032 common_voice_ckb_32340228.mp3 هەر چەن دەکەم فیکر و چەرخش
+cv_ckb_000033 common_voice_ckb_32384291.mp3 چیرۆکێکم بۆ بگێڕەوە کە کۆتایییەکی خۆشی هەبێت.
+cv_ckb_000034 common_voice_ckb_32395081.mp3 با بچینە سەیرانی کوێستانان.
+cv_ckb_000035 common_voice_ckb_33640604.mp3 ڕستەکان کورت کراونەتەوە
+cv_ckb_000036 common_voice_ckb_32764081.mp3 بەڕاست؟
+cv_ckb_000037 common_voice_ckb_33451242.mp3 نە ئۆحە ئۆحەکەی گاوانی باسک
+cv_ckb_000038 common_voice_ckb_32846944.mp3 سبەی دەتانبینینەوە.
+cv_ckb_000039 common_voice_ckb_32757604.mp3 ڕۆژی لەدایکبوونم خەریکە دەگات.
+cv_ckb_000040 common_voice_ckb_32758186.mp3 تاوێ باسی ژن هێنان
+cv_ckb_000041 common_voice_ckb_32865899.mp3 ئەو قوتابخانەیە وەک زیندانێکە.
+cv_ckb_000042 common_voice_ckb_31279212.mp3 دێ لە مۆڵگە و دەراوان
+cv_ckb_000043 common_voice_ckb_30031712.mp3 دەستم بە کتێبخانەکەی دەگات.
+cv_ckb_000044 common_voice_ckb_32800079.mp3 تێکڕا دەمانکرد ڕازی دڵداری
+cv_ckb_000045 common_voice_ckb_32757354.mp3 ئهو له ئهنجامی لێدانهکه شێت بوو
+cv_ckb_000046 common_voice_ckb_32763551.mp3 ئەو کاتژمێرێکی وەک ئەوەی تۆی دەوێت.
+cv_ckb_000047 common_voice_ckb_32799754.mp3 بەشداریم تێدا کرد
+cv_ckb_000048 common_voice_ckb_32349870.mp3 وابزانم غەڵەتییەکی گەورەم کردووە.
+cv_ckb_000049 common_voice_ckb_32294423.mp3 ئەو دەڵێت دەیەوێت بە فەڕەنسی قسە بکات.
+cv_ckb_000050 common_voice_ckb_32294425.mp3 لە بنا ڕاز و نیاز نەکەن؟
+cv_ckb_000051 common_voice_ckb_32761094.mp3 ھێشتا کارم ماوە بیکەم.
+cv_ckb_000052 common_voice_ckb_32761095.mp3 شاد بووم بە دیدارت
+cv_ckb_000053 common_voice_ckb_32761036.mp3 پەیوەندییەکە لە ڕۆژی یەکەمەوە کارەسات بوو.
+cv_ckb_000054 common_voice_ckb_32761042.mp3 نە مەجنوونم نە فەرهادم
+cv_ckb_000055 common_voice_ckb_33338236.mp3 دوورزەنی هەوری بەهار و ڕنوە بەفری بەندەنێ
+cv_ckb_000056 common_voice_ckb_33338237.mp3 فیدای ئەو شۆخە، تەشریفی کە دێتە مەنزڵم باقڵ
+cv_ckb_000057 common_voice_ckb_32757409.mp3 ڕێبوار تەلەفۆنەکەی هەڵگرت و تەلەفۆنی بۆ لەیلا کرد.
+cv_ckb_000058 common_voice_ckb_32757414.mp3 دوازدەی ئەیلوول
+cv_ckb_000059 common_voice_ckb_32947713.mp3 ئەوەی لەو پەرلەمانانە ڕووی داوە
+cv_ckb_000060 common_voice_ckb_32947714.mp3 کابرا جوولەکەیەک بوو
+cv_ckb_000061 common_voice_ckb_32762653.mp3 ئەگەر گۆشت گرانە، نەخواردنی هەرزانە
+cv_ckb_000062 common_voice_ckb_32762655.mp3 ئەوە بابەتێکی شەخسییە.
+cv_ckb_000063 common_voice_ckb_31206829.mp3 دەبینی تۆ ئەگەر چاوێک بگێڕی
+cv_ckb_000064 common_voice_ckb_31206844.mp3 کە دەکەن تاسکە تاسک
+cv_ckb_000065 common_voice_ckb_33322174.mp3 پاش نوێژی شێوان حاجی و چەند کوڕێکی هاتنەوە
+cv_ckb_000066 common_voice_ckb_33322173.mp3 ئەو ناڕەحەتی و ئازارانەی کە بەسەر ئەم کەسانەدا هاتووە
+cv_ckb_000067 common_voice_ckb_32762506.mp3 ئیتاڵیا دۆستێکی باشی ئەلبانیا نییە.
+cv_ckb_000068 common_voice_ckb_32762508.mp3 ئەو ڕووناکیی ژیانم بوو.
+cv_ckb_000069 common_voice_ckb_32761666.mp3 ئەو بەرپرسە دەستی لەکار کێشایەوە
+cv_ckb_000070 common_voice_ckb_32761670.mp3 کاری خوشکەکەم فێرکردنی ئینگلیزییە.
+cv_ckb_000071 common_voice_ckb_32803135.mp3 تۆم بەدوای کێشە دەگەڕێت.
+cv_ckb_000072 common_voice_ckb_32803136.mp3 شەوگار درێژە
+cv_ckb_000073 common_voice_ckb_32330571.mp3 بەرگری و پارێزگاری لە خێزانەکەی دەکات.
+cv_ckb_000074 common_voice_ckb_32330572.mp3 چەندان بەشداریی گرنگ و گەورەی هەبووە
+cv_ckb_000075 common_voice_ckb_32383154.mp3 فەرھاد هەموو شتێک تێک دەدات.
+cv_ckb_000076 common_voice_ckb_32383158.mp3 کوڕژنی ئەسپی بەدفەڕ
+cv_ckb_000077 common_voice_ckb_32800812.mp3 ئەو شتەم لێ دوور بخەنەوە!
+cv_ckb_000078 common_voice_ckb_32800813.mp3 من ئاشنای ئەم ناوچەیە نیم.
+cv_ckb_000079 common_voice_ckb_32849893.mp3 سەبارەت بە کاتی ئۆپەراسیۆنی ئازادکردنی موسڵ
+cv_ckb_000080 common_voice_ckb_32849894.mp3 شارەزای ڕێگەی مردن کێیە
+cv_ckb_000081 common_voice_ckb_32330734.mp3 دایکم چیرۆکێکی سەرنجڕاکێشی بۆ گێڕاینەوە.
+cv_ckb_000082 common_voice_ckb_32330736.mp3 ئەمە کارێکی باشە.
+cv_ckb_000083 common_voice_ckb_32784840.mp3 قژکاڵی لێوئاڵ وەی وەی
+cv_ckb_000084 common_voice_ckb_32784841.mp3 دەڵێت خەواڵوو نییە.
+cv_ckb_000085 common_voice_ckb_33461590.mp3 کەی ویستی دەبێت کۆببێتەوە
+cv_ckb_000086 common_voice_ckb_33461597.mp3 قەرارمان دا بەیانی بچمە ئوتێل و ڕەگەڵ کەوم
+cv_ckb_000087 common_voice_ckb_32539147.mp3 پێویستە پیاوانی ئاسایش هەبن بۆ وەڵامدانەوەی بێزاریکردنەکان و پاراستنی مافی هاوڵاتییان؛
+cv_ckb_000088 common_voice_ckb_32539149.mp3 وزەی ناوکی و وزەی ناوەکی یەک شت نین
+cv_ckb_000089 common_voice_ckb_32800118.mp3 شانازیت پێدەکەین
+cv_ckb_000090 common_voice_ckb_32800125.mp3 بیست و یەک کەم شەش، یەکسانە بە پازدە.
+cv_ckb_000091 common_voice_ckb_32818835.mp3 ئەوە کتێبێکی زۆر قەدیمە.
+cv_ckb_000092 common_voice_ckb_32818837.mp3 لە خزمەتی دا هەمە بزانن دۆست و بێگانە
+cv_ckb_000093 common_voice_ckb_32791009.mp3 نەمزانی کەسێک بەدوامەوەیە.
+cv_ckb_000094 common_voice_ckb_32791017.mp3 یان دەرھێنانی ئەندام و شانەی جەستە
+cv_ckb_000095 common_voice_ckb_32757739.mp3 خۆت لەسەر چیایێک وێنا بکە.
+cv_ckb_000096 common_voice_ckb_32757740.mp3 با پارەمان بەفیڕۆ نەدەین.
+cv_ckb_000097 common_voice_ckb_32826526.mp3 ئێوە منتان بەدڵ نییە.
+cv_ckb_000098 common_voice_ckb_32826527.mp3 وەک شێت عاشقی ئەوە.
+cv_ckb_000099 common_voice_ckb_32775354.mp3 دایک و بابم زەحمەتیان زۆر کیشا
+cv_ckb_000100 common_voice_ckb_32775355.mp3 ماوەیەکە لەوەتەی چووین بۆ لای دایک و باوکت.
+cv_ckb_000101 common_voice_ckb_32809228.mp3 دەخۆی ئێستاش کەبابی جەرگی قازی
+cv_ckb_000102 common_voice_ckb_32809229.mp3 چەند ساڵ لەمەوبەر ئەوەت کرد؟
+cv_ckb_000103 common_voice_ckb_32758171.mp3 بەڵام بەپێی هەواڵەکان کە بە ئێمە دەگەن کۆرۆنا نییە
+cv_ckb_000104 common_voice_ckb_32758173.mp3 با بڕۆمە ناوەوە.
+cv_ckb_000105 common_voice_ckb_33164009.mp3 وا دەبێ زیپک و هیممەت
+cv_ckb_000106 common_voice_ckb_33164008.mp3 کزی و غەریبی ڕەوا ئێرن بۆم!؟
+cv_ckb_000107 common_voice_ckb_32758425.mp3 دەتوانیت هەڵیبوەشێنیتەوە؟
+cv_ckb_000108 common_voice_ckb_32758431.mp3 گوتی ناوی خۆم گۆڕیوە
+cv_ckb_000109 common_voice_ckb_32758711.mp3 ڕۆژەکان زۆر خێرا تێدەپەڕن.
+cv_ckb_000110 common_voice_ckb_32758714.mp3 زۆر ناڕەحەت بووم.
+cv_ckb_000111 common_voice_ckb_32826912.mp3 هەندێک لە هاوڕێکانم هاوسەرگیرییان نەکردووە.
+cv_ckb_000112 common_voice_ckb_32826914.mp3 وەرزی نوێی زنجیرەکە دەستی پێکرد
+cv_ckb_000113 common_voice_ckb_32801436.mp3 ئەوە کێشەی تۆیە.
+cv_ckb_000114 common_voice_ckb_32801440.mp3 لێت تێناگەم چ دەڵێی.
+cv_ckb_000115 common_voice_ckb_33892816.mp3 ئەو کەسەی نەیهاڕی بەرداشی زەمان
+cv_ckb_000116 common_voice_ckb_33893281.mp3 چاو وەکوو بیجادە یا دوو شەو چراغی شوعلە ڕێژ
+cv_ckb_000117 common_voice_ckb_30174149.mp3 ئەم سەگە نەخۆش دیارە.
+cv_ckb_000118 common_voice_ckb_30174161.mp3 شاهین دەزانێت سۆزان عاشقی ئەلەندە.
+cv_ckb_000119 common_voice_ckb_32801747.mp3 لەبەر گەرمای هاوینێ
+cv_ckb_000120 common_voice_ckb_32801748.mp3 من ئادەمی ناو بەهەشت بووم
+cv_ckb_000121 common_voice_ckb_32801954.mp3 لای مەلا مەحموود دەرسی عەرەبی دەخوێنێت
+cv_ckb_000122 common_voice_ckb_32801955.mp3 شەنگەبێری کێل گەردن
+cv_ckb_000123 common_voice_ckb_29778942.mp3 ئەرکێکی گەورەی لەسەر شانە
+cv_ckb_000124 common_voice_ckb_29778946.mp3 لە شەقامەکانی ئەم شارە وێڵ و سەرگەردان بوو
+cv_ckb_000125 common_voice_ckb_32760124.mp3 تۆ شووتییەکە بدە من کە منداڵم زۆرن
+cv_ckb_000126 common_voice_ckb_32760125.mp3 ئەو سەرچۆپیەی دەکێشێ سەرچۆپی خەرجی گرانە
+cv_ckb_000127 common_voice_ckb_32757868.mp3 دەبێت خوێنەرەکانت بەباشی بناسیت
+cv_ckb_000128 common_voice_ckb_32757870.mp3 شەو بەسەردا دێت خەو لێم میوانە
+cv_ckb_000129 common_voice_ckb_33338240.mp3 من بیر و بڕوام وایە پیاو دەبێ زۆر دۆست بگرێ
