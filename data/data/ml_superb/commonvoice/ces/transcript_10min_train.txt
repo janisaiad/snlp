@@ -1,0 +1,143 @@
+cv_ces_000000 common_voice_cs_21994411.mp3 Ale obávám se, že jednoduchá simulace vozidla je na diplomku trochu "jednoduchá".
+cv_ces_000001 common_voice_cs_30691701.mp3 čtyři
+cv_ces_000002 common_voice_cs_23895666.mp3 sedm
+cv_ces_000003 common_voice_cs_20492743.mp3 Rád chodím do lesa a sbírám houby.
+cv_ces_000004 common_voice_cs_21345894.mp3 Mladinkého Václava vedli poručníci od hradu ke hradu.
+cv_ces_000005 common_voice_cs_20538634.mp3 A končí to až ve dvě v noci.
+cv_ces_000006 common_voice_cs_21265143.mp3 Jen mrknout!
+cv_ces_000007 common_voice_cs_22152610.mp3 Pane předsedající, zpráva, o níž zde hovoříme, je dobrá.
+cv_ces_000008 common_voice_cs_27155476.mp3 dva
+cv_ces_000009 common_voice_cs_20479891.mp3 Křeček si však myslí, že mzdy dále porostou.
+cv_ces_000010 common_voice_cs_20483655.mp3 Až jindy.
+cv_ces_000011 common_voice_cs_21711583.mp3 Není nikterak rozjuchaný, ale spíše zadumaný.
+cv_ces_000012 common_voice_cs_28849021.mp3 dva
+cv_ces_000013 common_voice_cs_28849024.mp3 čtyři
+cv_ces_000014 common_voice_cs_20485785.mp3 Konzervy se špatně recyklují.
+cv_ces_000015 common_voice_cs_20485786.mp3 A nevíme, kdo to byl.
+cv_ces_000016 common_voice_cs_20619739.mp3 Pokusím se!
+cv_ces_000017 common_voice_cs_20619744.mp3 Soudní moc vykonávají jménem republiky nezávislé soudy.
+cv_ces_000018 common_voice_cs_33737780.mp3 sedm
+cv_ces_000019 common_voice_cs_33737778.mp3 osm
+cv_ces_000020 common_voice_cs_22779274.mp3 Dle pověsti této vyvýšenina se nazývá hradiště.
+cv_ces_000021 common_voice_cs_22779275.mp3 Jsem velmi vděčný za vaši podporu v této oblasti.
+cv_ces_000022 common_voice_cs_23924962.mp3 osm
+cv_ces_000023 common_voice_cs_23924963.mp3 ano
+cv_ces_000024 common_voice_cs_20456258.mp3 Rána, kouř.
+cv_ces_000025 common_voice_cs_20456259.mp3 Děda se za ní belhá jak zpomalenej film.
+cv_ces_000026 common_voice_cs_33759712.mp3 šest
+cv_ces_000027 common_voice_cs_33759713.mp3 dva
+cv_ces_000028 common_voice_cs_25224517.mp3 ne
+cv_ces_000029 common_voice_cs_25224547.mp3 sedm
+cv_ces_000030 common_voice_cs_23802336.mp3 Netvoří žádné poddruhy.
+cv_ces_000031 common_voice_cs_23802337.mp3 Členové skupiny jsou nadále pronásledováni a většina z nich nemůže vykonávat žádné povolání.
+cv_ces_000032 common_voice_cs_22402318.mp3 Na vrcholové úrovni však vydržel pouze jedno olympijské období.
+cv_ces_000033 common_voice_cs_22402319.mp3 Tématem je otázka Řecka po konání referenda.
+cv_ces_000034 common_voice_cs_22402320.mp3 Šlo o sbor amatérských zpěváků z města Mora.
+cv_ces_000035 common_voice_cs_25053097.mp3 jedna
+cv_ces_000036 common_voice_cs_25053102.mp3 ano
+cv_ces_000037 common_voice_cs_25053106.mp3 tři
+cv_ces_000038 common_voice_cs_30739340.mp3 čtyři
+cv_ces_000039 common_voice_cs_30739341.mp3 devět
+cv_ces_000040 common_voice_cs_30739342.mp3 sedm
+cv_ces_000041 common_voice_cs_22243690.mp3 Samotné deklarace, bez konkrétních akcí, jsou prázdná slova.
+cv_ces_000042 common_voice_cs_22243691.mp3 Co představují lidská práva v Rusku?
+cv_ces_000043 common_voice_cs_22243692.mp3 Návrh jsme obdrželi před několika měsíci.
+cv_ces_000044 common_voice_cs_31846351.mp3 nula
+cv_ces_000045 common_voice_cs_31846352.mp3 pět
+cv_ces_000046 common_voice_cs_31846353.mp3 tři
+cv_ces_000047 common_voice_cs_21654625.mp3 Jak lze charakterizovat klasifikátor naučený základní metodou?
+cv_ces_000048 common_voice_cs_21654629.mp3 Anglická ulice není rozkošnická.
+cv_ces_000049 common_voice_cs_21654630.mp3 Byl jsem si tím jistý, tak jistý.
+cv_ces_000050 common_voice_cs_22767622.mp3 Během třicetileté války hrad značně zchátral.
+cv_ces_000051 common_voice_cs_22767623.mp3 Po propuštění pracoval jako zahradník.
+cv_ces_000052 common_voice_cs_22767626.mp3 Příčinou úmrtí je pravděpodobně srdeční zástava.
+cv_ces_000053 common_voice_cs_22646292.mp3 Poté vtéká do Černomořské nížiny.
+cv_ces_000054 common_voice_cs_22646297.mp3 Průmysl a železniční doprava neexistují.
+cv_ces_000055 common_voice_cs_22646300.mp3 Je vyvíjen ve snaze dosáhnout maximální rychlosti a jednoduchosti.
+cv_ces_000056 common_voice_cs_20483620.mp3 Tedy, pokud na Osmičku bude chodit dost diváků.
+cv_ces_000057 common_voice_cs_20483622.mp3 Aktivita nemá žádná významná rizika.
+cv_ces_000058 common_voice_cs_20483623.mp3 Tuto chvíli si Filip dlouho představoval ve svých snech.
+cv_ces_000059 common_voice_cs_22219678.mp3 To má dva důvody.
+cv_ces_000060 common_voice_cs_22219679.mp3 Rád bych učinil tři velmi krátké poznámky.
+cv_ces_000061 common_voice_cs_22219681.mp3 Komise však nebyla schopna návrh předložit.
+cv_ces_000062 common_voice_cs_20963391.mp3 Čelo bez jediné brázdy a s tváří snědou.
+cv_ces_000063 common_voice_cs_20963393.mp3 Před pár lety jako demonstrační aplikaci detekce obličeje.
+cv_ces_000064 common_voice_cs_20963395.mp3 Nebyla to ani tak diskuse, jako monolog.
+cv_ces_000065 common_voice_cs_32388240.mp3 ne
+cv_ces_000066 common_voice_cs_32388241.mp3 osm
+cv_ces_000067 common_voice_cs_32388242.mp3 jedna
+cv_ces_000068 common_voice_cs_32388244.mp3 sedm
+cv_ces_000069 common_voice_cs_21740249.mp3 Je to, co jsem poslal, pochopitelné?
+cv_ces_000070 common_voice_cs_21740250.mp3 Poté, co někoho zabiju.
+cv_ces_000071 common_voice_cs_21740251.mp3 Aspoň o jednu starost míň.
+cv_ces_000072 common_voice_cs_21740252.mp3 Co chcete?
+cv_ces_000073 common_voice_cs_22381059.mp3 Kromě toho byl sbormistrem pěveckého sboru Sokola a pěveckého sboru "Řemeslnické jednoty" a varhaníkem.
+cv_ces_000074 common_voice_cs_22381060.mp3 Jeho práce u filmu nebyla rozsáhlá.
+cv_ces_000075 common_voice_cs_22381061.mp3 Označení se skládá se z písmen a číslic.
+cv_ces_000076 common_voice_cs_22381062.mp3 Výroba sýra má tradici už od byzantských dob.
+cv_ces_000077 common_voice_cs_20486886.mp3 Jaká je realita?
+cv_ces_000078 common_voice_cs_20486887.mp3 Vystudoval jsem plzeňskou univerzitu.
+cv_ces_000079 common_voice_cs_20486888.mp3 Podmínkou výroby elektřiny je otáčivý pohyb rotoru.
+cv_ces_000080 common_voice_cs_20486889.mp3 I k tomu wiki používám.
+cv_ces_000081 common_voice_cs_23819312.mp3 Můžete mi to říci?
+cv_ces_000082 common_voice_cs_23819313.mp3 Severní Atlantik patří z klimatického hlediska k mírnější zóně západních větrů.
+cv_ces_000083 common_voice_cs_23819314.mp3 Ze staveb se dnes již nic nedochovalo.
+cv_ces_000084 common_voice_cs_23819315.mp3 Některé druhy jsou používány v místní medicíně.
+cv_ces_000085 common_voice_cs_25997140.mp3 sedm
+cv_ces_000086 common_voice_cs_25997142.mp3 šest
+cv_ces_000087 common_voice_cs_25997143.mp3 nula
+cv_ces_000088 common_voice_cs_25997144.mp3 jedna
+cv_ces_000089 common_voice_cs_22705404.mp3 Také slepá okna mají často tuto podobu.
+cv_ces_000090 common_voice_cs_22705405.mp3 Specialitou televizní filmové tvorby jsou televizní seriály.
+cv_ces_000091 common_voice_cs_22705406.mp3 Velká část vrcholu je pokrytá lesním porostem.
+cv_ces_000092 common_voice_cs_22705408.mp3 Nabídne mu ať pro něj pracuje.
+cv_ces_000093 common_voice_cs_22203127.mp3 Rozprava o rozpočtu bohužel nezačala dobře.
+cv_ces_000094 common_voice_cs_22203130.mp3 Myslím si, že mělo být přidruženo Moldavsko, byť jen symbolicky.
+cv_ces_000095 common_voice_cs_22203133.mp3 Jen tak lze separatismu zabránit.
+cv_ces_000096 common_voice_cs_22203138.mp3 Jaký máme rozpočet?
+cv_ces_000097 common_voice_cs_23354439.mp3 Nachází se na jihovýchodě Votic.
+cv_ces_000098 common_voice_cs_23354440.mp3 Z tohoto důvodu nesmíme vytvářet žádné zbytečné překážky.
+cv_ces_000099 common_voice_cs_23354441.mp3 Kandidoval ale za Autonomní zemědělský sojuz.
+cv_ces_000100 common_voice_cs_23354442.mp3 V době okupace bylo několik desítek obyvatel zatčeno a deportováno do koncentračních táborů.
+cv_ces_000101 common_voice_cs_20493770.mp3 Proč, vám nikdo nepoví.
+cv_ces_000102 common_voice_cs_20493771.mp3 Štípe.
+cv_ces_000103 common_voice_cs_20493772.mp3 A když si náhodou dá sprchu.
+cv_ces_000104 common_voice_cs_20493773.mp3 Problém je, že opice nemá potlačování ráda.
+cv_ces_000105 common_voice_cs_20457821.mp3 Jižní Korea má podobné klima jako Česká republika.
+cv_ces_000106 common_voice_cs_20457822.mp3 Obecně se snažit zanechat dobrý dojem.
+cv_ces_000107 common_voice_cs_20457823.mp3 Měla by být zlatá, nikoli černá - spálená.
+cv_ces_000108 common_voice_cs_20457824.mp3 Osobně je přesvědčen, že vrah uprchl oknem.
+cv_ces_000109 common_voice_cs_21683691.mp3 Odlet se mi nebezpečně blíží.
+cv_ces_000110 common_voice_cs_21683692.mp3 Děláš tu svoji drobnou práci, ke které si vycvičený.
+cv_ces_000111 common_voice_cs_21683705.mp3 Mají dva syny a poněkud nudný život.
+cv_ces_000112 common_voice_cs_21683707.mp3 Programátorů jsou ale na světě stovky tisíc.
+cv_ces_000113 common_voice_cs_20536576.mp3 Ach ne, moje lednička!
+cv_ces_000114 common_voice_cs_20536578.mp3 Také žebrák se zastavil a pozoroval tuláka šikmým pohledem.
+cv_ces_000115 common_voice_cs_20536579.mp3 Hoši byli samá legrace.
+cv_ces_000116 common_voice_cs_20536580.mp3 Spíš budou takové tenké.
+cv_ces_000117 common_voice_cs_32120862.mp3 dva
+cv_ces_000118 common_voice_cs_32120863.mp3 šest
+cv_ces_000119 common_voice_cs_32120864.mp3 pět
+cv_ces_000120 common_voice_cs_32120866.mp3 osm
+cv_ces_000121 common_voice_cs_20478061.mp3 Za nimi jely vozy s věcmi.
+cv_ces_000122 common_voice_cs_20478063.mp3 Proč já tam jdu?
+cv_ces_000123 common_voice_cs_20478064.mp3 To však není všechno.
+cv_ces_000124 common_voice_cs_20478065.mp3 No jo, je to šprcka.
+cv_ces_000125 common_voice_cs_20469128.mp3 Tím se z nich udělal chrt.
+cv_ces_000126 common_voice_cs_20469129.mp3 Nemáš zač.
+cv_ces_000127 common_voice_cs_20469130.mp3 Souhlas?
+cv_ces_000128 common_voice_cs_20469131.mp3 Veselé Vánoce, šťastný nový rok a bohatou nadílku.
+cv_ces_000129 common_voice_cs_20469132.mp3 Suroviny jsou obyčejně krásnější a zajímavější.
+cv_ces_000130 common_voice_cs_23403230.mp3 Nejvyšší soud působí jako odvolací orgán.
+cv_ces_000131 common_voice_cs_23403231.mp3 A tak podél cesty z Horní Sněžné na Chlum byla založena osada Nové Chalupy.
+cv_ces_000132 common_voice_cs_23403232.mp3 Dosavadního starostu Josefa Mareše totiž odmítla opozice.
+cv_ces_000133 common_voice_cs_23403233.mp3 Jeho subjektivní pohled převažuje kvalitu objektu.
+cv_ces_000134 common_voice_cs_23403234.mp3 Měl velký úspěch v komických rolích.
+cv_ces_000135 common_voice_cs_25230073.mp3 pět
+cv_ces_000136 common_voice_cs_25230074.mp3 devět
+cv_ces_000137 common_voice_cs_25230075.mp3 nula
+cv_ces_000138 common_voice_cs_25230076.mp3 šest
+cv_ces_000139 common_voice_cs_25230077.mp3 ano
+cv_ces_000140 common_voice_cs_25114825.mp3 ano
+cv_ces_000141 common_voice_cs_25114829.mp3 pět
+cv_ces_000142 common_voice_cs_25114830.mp3 ne

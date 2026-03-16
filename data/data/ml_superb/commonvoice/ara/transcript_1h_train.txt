@@ -1,0 +1,807 @@
+cv_ara_000000 common_voice_ar_28865270.mp3 زارني في أوائل الشهر بدري
+cv_ara_000001 common_voice_ar_26338992.mp3 إبنك بطل.
+cv_ara_000002 common_voice_ar_25175528.mp3 الواعظ الأمرد هذا الذي
+cv_ara_000003 common_voice_ar_25993518.mp3 سمح له هذا بالتخصص في البرونز الصغير، الذي يتم إنتاجه بشكل رئيسي ومربح للتصدير.
+cv_ara_000004 common_voice_ar_19216700.mp3 ألديك قلم ؟
+cv_ara_000005 common_voice_ar_24434923.mp3 يا نديمي قسم بي الى الصهباء
+cv_ara_000006 common_voice_ar_23675091.mp3 إنك تكبر المشكلة.
+cv_ara_000007 common_voice_ar_23974261.mp3 يرغب أن يلتقي بك.
+cv_ara_000008 common_voice_ar_23972887.mp3 إنهم لا يعرفون لماذا حتى.
+cv_ara_000009 common_voice_ar_22759417.mp3 سيسعدني مساعدتك أي وقت تحب.
+cv_ara_000010 common_voice_ar_28809851.mp3 مات الملك!
+cv_ara_000011 common_voice_ar_23703284.mp3 أَحَبُّ نظريّة علمية إليّ هي أن حلقات زحل مكونة بالكامل من الأمتعة المفقودة.
+cv_ara_000012 common_voice_ar_22788984.mp3 سأشتري له قلماً.
+cv_ara_000013 common_voice_ar_28791554.mp3 إن جمال ينتظر سارا.
+cv_ara_000014 common_voice_ar_19242995.mp3 أين المشكلة ؟
+cv_ara_000015 common_voice_ar_22712331.mp3 حياة المريض كانت بخطر
+cv_ara_000016 common_voice_ar_24032000.mp3 وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مِنْ دَابَّةٍ وَالْمَلَائِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ
+cv_ara_000017 common_voice_ar_27192383.mp3 إن الحق معك
+cv_ara_000018 common_voice_ar_32270980.mp3 أنا من أهوى ومن أهوى أنا
+cv_ara_000019 common_voice_ar_27502696.mp3 كم كربة ضاق صدري عن تحملها
+cv_ara_000020 common_voice_ar_28737372.mp3 لي أربعون من السنين
+cv_ara_000021 common_voice_ar_28852934.mp3 أواجه صعوبةً في التحدث عن مشاعري.
+cv_ara_000022 common_voice_ar_19235572.mp3 تقوم أمي بإعداد كعكة لأجل أبي.
+cv_ara_000023 common_voice_ar_28338384.mp3 مدحت معاشرا عررا
+cv_ara_000024 common_voice_ar_28644589.mp3 لك الحمد كلا يجبر الشعب كسره
+cv_ara_000025 common_voice_ar_24218807.mp3 وَأَمّا مَن أوتِيَ كِتابَهُ بِشِمالِهِ فَيَقولُ يا لَيتَني لَم أوتَ كِتابِيَه
+cv_ara_000026 common_voice_ar_23794953.mp3 .يجب أن لا تلعب
+cv_ara_000027 common_voice_ar_25216221.mp3 نزع القريض إلى حمى نقاشه
+cv_ara_000028 common_voice_ar_28825216.mp3 رويدك قد غررت وأنت حر
+cv_ara_000029 common_voice_ar_30387289.mp3 يعز علي قبر بعد مهد
+cv_ara_000030 common_voice_ar_23961397.mp3 تحدثت معها خلال ساعة.
+cv_ara_000031 common_voice_ar_25224070.mp3 الحقيقة هي أنّك جبان.
+cv_ara_000032 common_voice_ar_25289295.mp3 ذهب الناس فاستقلوا وصرنا
+cv_ara_000033 common_voice_ar_25175780.mp3 يا أعز الناس عندي
+cv_ara_000034 common_voice_ar_23974844.mp3 أتى عدة مرات.
+cv_ara_000035 common_voice_ar_24605221.mp3 شغلته أشغال عن الآرام
+cv_ara_000036 common_voice_ar_24256989.mp3 وَرَوَى حُمَيْدٌ عَنْ أَنَسٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ
+cv_ara_000037 common_voice_ar_25197421.mp3 سيدي أنت لم أقل سيدي أنت
+cv_ara_000038 common_voice_ar_22770267.mp3 لا يقولون بعد الآباء اكلوا حصرما واسنان الابناء ضرست.
+cv_ara_000039 common_voice_ar_28801294.mp3 لقد عجلتني نظرتي بهواكا
+cv_ara_000040 common_voice_ar_23373942.mp3 التدخين عادة سيئة.
+cv_ara_000041 common_voice_ar_22770446.mp3 إنكم أولاد يافعين.
+cv_ara_000042 common_voice_ar_22711447.mp3 .شرب القليل
+cv_ara_000043 common_voice_ar_23974617.mp3 من يدرّسك الفرنسية ؟
+cv_ara_000044 common_voice_ar_23763510.mp3 من سيكذب لأجلك ، سيكذب عليك.
+cv_ara_000045 common_voice_ar_23696035.mp3 متى تكون مشغولاً ؟
+cv_ara_000046 common_voice_ar_24206041.mp3 أرسل سامي رسائل حبّ لليلى.
+cv_ara_000047 common_voice_ar_24172177.mp3 وَجَعَلنا مِن بَينِ أَيديهِم سَدًّا وَمِن خَلفِهِم سَدًّا فَأَغشَيناهُم فَهُم لا يُبصِرونَ
+cv_ara_000048 common_voice_ar_22712359.mp3 استيقظت الساعة السادسة و النصف هذا الصباح.
+cv_ara_000049 common_voice_ar_25175334.mp3 سرق الدهر شبابي من يدي
+cv_ara_000050 common_voice_ar_24228732.mp3 واصلت ليلى السّباحة.
+cv_ara_000051 common_voice_ar_28782597.mp3 قالوا فروق الملك دار مخاوف
+cv_ara_000052 common_voice_ar_28782266.mp3 كيف تشرح هذا "أنا لا أستطيع."
+cv_ara_000053 common_voice_ar_19204574.mp3 كم الساعة ؟
+cv_ara_000054 common_voice_ar_28886225.mp3 ما لقوم اذا يقال علي
+cv_ara_000055 common_voice_ar_28801196.mp3 ألا نسيا نفسي حديث البلابلِ
+cv_ara_000056 common_voice_ar_28782138.mp3 تفيء الأيور على أهلها
+cv_ara_000057 common_voice_ar_24033139.mp3 عما كانوا يعملون
+cv_ara_000058 common_voice_ar_28886242.mp3 شيعي الليل وقومي استقبلي
+cv_ara_000059 common_voice_ar_20933539.mp3 .أعرف تلك الفتاة
+cv_ara_000060 common_voice_ar_28297654.mp3 ما زال حر الشوق يغلب صبرها
+cv_ara_000061 common_voice_ar_25853421.mp3 قطع توم النهر سباحة.
+cv_ara_000062 common_voice_ar_23975066.mp3 لا تستمع إليه ، ما يقوله هراء.
+cv_ara_000063 common_voice_ar_20335209.mp3 لماذا تسأل ؟
+cv_ara_000064 common_voice_ar_23378517.mp3 تد يحب زوجته إلزبيث.
+cv_ara_000065 common_voice_ar_22769483.mp3 هذا هو منزله.
+cv_ara_000066 common_voice_ar_20360379.mp3 إنها جميلة جداً.
+cv_ara_000067 common_voice_ar_28793812.mp3 طوبى لمن رفض الفتاة وقد غدا
+cv_ara_000068 common_voice_ar_23493240.mp3 لا أذكر بدقة.
+cv_ara_000069 common_voice_ar_19644854.mp3 لم أسمع شيئاً.
+cv_ara_000070 common_voice_ar_28714673.mp3 رأيتك بينا أنت خل وصاحب
+cv_ara_000071 common_voice_ar_31254910.mp3 أم القمر؟!
+cv_ara_000072 common_voice_ar_28290152.mp3 أمرنا بفعل ذلك.
+cv_ara_000073 common_voice_ar_24754346.mp3 لم أصح من لذة لا لا ولا طرب
+cv_ara_000074 common_voice_ar_21654497.mp3 اتصل بي بيل ليلة أمس.
+cv_ara_000075 common_voice_ar_24257238.mp3 وَقَالَ بَعْضُ الْبُلَغَاءِ مِنْ خَيْرِ خِلَالِك الصَّبْرُ عَلَى اخْتِلَالِك
+cv_ara_000076 common_voice_ar_20315587.mp3 إنه يعمل في قطاع صناعة السيارات.
+cv_ara_000077 common_voice_ar_32422866.mp3 نحن معاني الوجود فيه
+cv_ara_000078 common_voice_ar_25466368.mp3 فَلَمَّا أَبْصَرَنِي قَالَ
+cv_ara_000079 common_voice_ar_22917055.mp3 معدلات الكولسترول في دمي عالية.
+cv_ara_000080 common_voice_ar_23956658.mp3 أعارض استخدام الموت عقوبةً. وأعارض استخدامه مكافأةً كذلك.
+cv_ara_000081 common_voice_ar_20452594.mp3 .لقد تم اختراع الطائرة الورقية قبل ألفَيْ عام
+cv_ara_000082 common_voice_ar_23972934.mp3 مات مليون شخص في الحرب.
+cv_ara_000083 common_voice_ar_32347917.mp3 ما استب قط اثنان إلا غلبا
+cv_ara_000084 common_voice_ar_28801144.mp3 لا قضى الله بيننا بالفراق
+cv_ara_000085 common_voice_ar_28715949.mp3 لا أريد الذهاب إلى النوم الآن.
+cv_ara_000086 common_voice_ar_28801711.mp3 كانت ليلى تسرق البنوك.
+cv_ara_000087 common_voice_ar_33416956.mp3 فَلَمْ يَلْبَثْ بَعْدَ ذَلِكَ إلَّا يَسِيرًا حَتَّى مَاتَ رَحِمَهُ اللَّهُ
+cv_ara_000088 common_voice_ar_23973124.mp3 يرغب أن يلتقي بك.
+cv_ara_000089 common_voice_ar_28801318.mp3 بدأ فاضل يتعلّم العربيّة في الجامعة.
+cv_ara_000090 common_voice_ar_24113593.mp3 آن آدم جوان چیز زیادی درمورد مملکت اش نمی داند.
+cv_ara_000091 common_voice_ar_22789832.mp3 كل سنة و أنت بخير.
+cv_ara_000092 common_voice_ar_24407332.mp3 ما حال حي ثوى ما بين أموات
+cv_ara_000093 common_voice_ar_27917301.mp3 أحسن من رمي برعادة
+cv_ara_000094 common_voice_ar_22770966.mp3 سآكل هنا.
+cv_ara_000095 common_voice_ar_28848319.mp3 أيها البيهقي أحسنت في شعرك
+cv_ara_000096 common_voice_ar_28801778.mp3 إذا ساء ظن بمسترفد
+cv_ara_000097 common_voice_ar_20897642.mp3 هذا أسرع قطار في العالم.
+cv_ara_000098 common_voice_ar_22576667.mp3 لا
+cv_ara_000099 common_voice_ar_23975649.mp3 انظر بانتباه. سأريك كيف تُفْعَل.
+cv_ara_000100 common_voice_ar_28839728.mp3 أصبح أيري معرضا عني
+cv_ara_000101 common_voice_ar_23849289.mp3 العالم ينقسم إلى الناس الذين يعملون الأشياء ، والذين يُشْكَرُونَ عليها.
+cv_ara_000102 common_voice_ar_23698396.mp3 لقد وصلنا.
+cv_ara_000103 common_voice_ar_30714317.mp3 وقلبي شجرهْ!
+cv_ara_000104 common_voice_ar_27504731.mp3 أشعرُ بأنني غير مُقدّر في العمل.
+cv_ara_000105 common_voice_ar_28791388.mp3 يكره الموت أناس جهلوا
+cv_ara_000106 common_voice_ar_23975779.mp3 .قل آآآآآه
+cv_ara_000107 common_voice_ar_21883452.mp3 من فضلك لا تركض في الصف.
+cv_ara_000108 common_voice_ar_28793796.mp3 لو كنت مجبول السماح
+cv_ara_000109 common_voice_ar_19219126.mp3 ذهبت إلى بيتي.
+cv_ara_000110 common_voice_ar_19220070.mp3 بيتي بعيد عن هنا.
+cv_ara_000111 common_voice_ar_23696963.mp3 هي سعيدة.
+cv_ara_000112 common_voice_ar_28801908.mp3 هل تعلم أن مجموعة من وحيد القرن تسمّى كراش.
+cv_ara_000113 common_voice_ar_23972820.mp3 اُنقل الطاولة إلى الخارج إذا سمحت.
+cv_ara_000114 common_voice_ar_28806437.mp3 لا يمكنك أن تخدعني.
+cv_ara_000115 common_voice_ar_25129558.mp3 أيها القانون
+cv_ara_000116 common_voice_ar_21722269.mp3 اتهمتني بالكذب.
+cv_ara_000117 common_voice_ar_28809709.mp3 لك ريحان وراح ومجيدات ملاح
+cv_ara_000118 common_voice_ar_28828431.mp3 مجون صب في صنم
+cv_ara_000119 common_voice_ar_24204469.mp3 فَإِنَّ الرَّغْبَةَ وَالرَّهْبَةَ إذَا اجْتَمَعَا عَلَى النَّفْسِ ذَلَّتْ لَهُمَا وَانْقَادَتْ
+cv_ara_000120 common_voice_ar_28801202.mp3 ليس بنظام كامل.
+cv_ara_000121 common_voice_ar_28793462.mp3 أسقط الحاء من الحمد
+cv_ara_000122 common_voice_ar_28793946.mp3 أزور قبرك والأشجان تمنعني
+cv_ara_000123 common_voice_ar_24964905.mp3 كم لحظة كررتها في لحظه
+cv_ara_000124 common_voice_ar_23768657.mp3 إذا أكلت كثيرًا فإنك تصير سمينًا.
+cv_ara_000125 common_voice_ar_25028901.mp3 أدنى اشتياقي أن أبيت عليلا
+cv_ara_000126 common_voice_ar_23973680.mp3 للرجل الذي ليس عنده إلا مطرقة في طقم أدواته ، تبدو كل مشكلة كالمسمار.
+cv_ara_000127 common_voice_ar_20791546.mp3 حاول أن يهرب.
+cv_ara_000128 common_voice_ar_22789424.mp3 لا أستطيع أن أجد أي خطأ في نظريته.
+cv_ara_000129 common_voice_ar_28068659.mp3 شاقني الأهل لم تشقني الديار
+cv_ara_000130 common_voice_ar_24806956.mp3 طال الثواء على رسوم المنزل
+cv_ara_000131 common_voice_ar_21100655.mp3 ! هذه الألعاب النارية رائعة
+cv_ara_000132 common_voice_ar_28791695.mp3 يا دهر يا صاحب الفجيعات
+cv_ara_000133 common_voice_ar_20489288.mp3 .أريد الذهاب إلى كيوتو
+cv_ara_000134 common_voice_ar_20489290.mp3 طابت ليلتك. أحلاماً سعيدة.
+cv_ara_000135 common_voice_ar_19469249.mp3 .بالكاد يمكنني المشي
+cv_ara_000136 common_voice_ar_19469251.mp3 بقي عازباً طوال حياته.
+cv_ara_000137 common_voice_ar_23558551.mp3 أَحَبُّ نظريّة علمية إليّ هي أن حلقات زحل مكونة بالكامل من الأمتعة المفقودة.
+cv_ara_000138 common_voice_ar_23558552.mp3 ليست هناك مسافة على هذه الأرض أبعد من يوم أمس.
+cv_ara_000139 common_voice_ar_21629099.mp3 سبحنا في البحيرة.
+cv_ara_000140 common_voice_ar_21629100.mp3 أريد أن أقود.
+cv_ara_000141 common_voice_ar_24879486.mp3 كرر اللوم عليه إن تشا
+cv_ara_000142 common_voice_ar_24879488.mp3 شغلت خداشا عن مساعي مخلد
+cv_ara_000143 common_voice_ar_21481956.mp3 .لقد أكلنا هناك ثلاث مرات
+cv_ara_000144 common_voice_ar_21481959.mp3 بقي الأولاد هادئين.
+cv_ara_000145 common_voice_ar_20404416.mp3 بدأ يشعر بالمرض.
+cv_ara_000146 common_voice_ar_20404418.mp3 .يُقال أنها وُلدت في ألمانيا
+cv_ara_000147 common_voice_ar_28815054.mp3 ولو ولوا قليل الفقه فيه
+cv_ara_000148 common_voice_ar_28815055.mp3 وقالوا عليك وسيط الأمور
+cv_ara_000149 common_voice_ar_32382551.mp3 أصلح أبا صالح يا رب إن له
+cv_ara_000150 common_voice_ar_32382594.mp3 إذا بت والفكر تستخرجان
+cv_ara_000151 common_voice_ar_23972704.mp3 قال مارك توين: " كل التعميمات خطأ ، بما فيها هذه ".
+cv_ara_000152 common_voice_ar_23972767.mp3 سامحني رجاءً!
+cv_ara_000153 common_voice_ar_21314690.mp3 من هناك ؟
+cv_ara_000154 common_voice_ar_21314693.mp3 .مايك هو قائد الفريق
+cv_ara_000155 common_voice_ar_28809729.mp3 قال حبي علام تبكي بدمع
+cv_ara_000156 common_voice_ar_28809735.mp3 سرى ونسيم الحاجزين يلاطف
+cv_ara_000157 common_voice_ar_28790253.mp3 كانت ليلى تحبّ نمط الحياة الرّيفية.
+cv_ara_000158 common_voice_ar_28790257.mp3 أبا حفيص رويدا
+cv_ara_000159 common_voice_ar_24045493.mp3 فَقَالُوا أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَابِدُونَ
+cv_ara_000160 common_voice_ar_24045495.mp3 وَمِنْ الْمُحَالِ مُجَادَلَةُ ذَوِي الْمُحَالِ
+cv_ara_000161 common_voice_ar_22768135.mp3 من سرق التفاحة ؟
+cv_ara_000162 common_voice_ar_22768145.mp3 يقود أبي السيارة إلى عمله.
+cv_ara_000163 common_voice_ar_23972443.mp3 أسوأ طريقةٍ للإضرار بقضيةٍ ما هي بالدفاع عنها باستخدام حجج خاطئة عمدًا.
+cv_ara_000164 common_voice_ar_23972494.mp3 إنك لست جباناً.
+cv_ara_000165 common_voice_ar_25304281.mp3 لا تلمني عاذلي حين ترى
+cv_ara_000166 common_voice_ar_25304282.mp3 اليوم طابت ليوحنا مسرته
+cv_ara_000167 common_voice_ar_23975513.mp3 سأشتري له قلماً.
+cv_ara_000168 common_voice_ar_23975694.mp3 مات مليون شخص في الحرب.
+cv_ara_000169 common_voice_ar_23398434.mp3 .نجا من الحادثة شخص واحد
+cv_ara_000170 common_voice_ar_23398436.mp3 عندك ذاكرة حادة.
+cv_ara_000171 common_voice_ar_28856363.mp3 لما أتت من بين كعب مزينة
+cv_ara_000172 common_voice_ar_28856364.mp3 ما يفيق الكتاب من ظلم إبراهيم
+cv_ara_000173 common_voice_ar_19214249.mp3 أنا متعب. أعتقد أنني سأخلد إلى السرير .
+cv_ara_000174 common_voice_ar_19214898.mp3 الكرز أحمر.
+cv_ara_000175 common_voice_ar_30501355.mp3 ساكني مصر أين ذاك التأني
+cv_ara_000176 common_voice_ar_30501424.mp3 والله ما طلعت شمس ولا غربت
+cv_ara_000177 common_voice_ar_20933525.mp3 .ها هو العنوان
+cv_ara_000178 common_voice_ar_20933534.mp3 لا يمكنك الحضور ؟ لمَ لا ؟
+cv_ara_000179 common_voice_ar_25229437.mp3 عاشا سويّا في السّعادة و إلى الأبد.
+cv_ara_000180 common_voice_ar_25229438.mp3 بأبي من شفى فؤادا عليلا
+cv_ara_000181 common_voice_ar_19226926.mp3 أردت الذهاب إلى هناك.
+cv_ara_000182 common_voice_ar_19227038.mp3 أستحم كل يوم تقريباً.
+cv_ara_000183 common_voice_ar_19871967.mp3 سأذهب الآن.
+cv_ara_000184 common_voice_ar_19871968.mp3 من هذان الولدان ؟
+cv_ara_000185 common_voice_ar_28793857.mp3 لم تعد إلى القاهرة أبدا.
+cv_ara_000186 common_voice_ar_28793859.mp3 كن على الصدق مقيما والأدب
+cv_ara_000187 common_voice_ar_23973579.mp3 ارتكبت خطأً فادحاً.
+cv_ara_000188 common_voice_ar_23973707.mp3 لم يتردد عندما قتل الطير للأكل.
+cv_ara_000189 common_voice_ar_28801394.mp3 تأمل أبا عبد الإله فإنه
+cv_ara_000190 common_voice_ar_28801397.mp3 إلى معاليك ينمى المجد والحسب
+cv_ara_000191 common_voice_ar_28786421.mp3 إني لأكنى عنه خيفة أن يشي
+cv_ara_000192 common_voice_ar_28786424.mp3 من عذيري من الخلائف حلوا
+cv_ara_000193 common_voice_ar_21715042.mp3 وَكَمْ قَصَمْنَا مِنْ قَرْيَةٍ كَانَتْ ظَالِمَةً وَأَنْشَأْنَا بَعْدَهَا قَوْمًا آخَرِينَ
+cv_ara_000194 common_voice_ar_21715043.mp3 أحبه كثيراً.
+cv_ara_000195 common_voice_ar_22014694.mp3 نعم
+cv_ara_000196 common_voice_ar_22014695.mp3 صفر
+cv_ara_000197 common_voice_ar_25177302.mp3 وثلاث لما بدت لي منها
+cv_ara_000198 common_voice_ar_25177304.mp3 الضفادع لا يمكنها ابتلاع طعامها وعيونها مفتوحة.
+cv_ara_000199 common_voice_ar_32591062.mp3 مارستُ حُبَّك حتى حال عزُّك لي
+cv_ara_000200 common_voice_ar_32700021.mp3 إنّ أمّ فاضل تحبّ أشياء كهذه.
+cv_ara_000201 common_voice_ar_28011596.mp3 أسأل الله سكرة قبل موتي
+cv_ara_000202 common_voice_ar_28011598.mp3 إذا المرء لا يرعاك إلا تكلفا... فدعه ولا تكثر عليه التأسفا
+cv_ara_000203 common_voice_ar_23586836.mp3 قليلًا قليلًا ، ستلاحظ تحسنا في كتابتك.
+cv_ara_000204 common_voice_ar_23586839.mp3 لم أكن أتوقع هذا منك حقا.
+cv_ara_000205 common_voice_ar_20455341.mp3 ماذا عنك ؟
+cv_ara_000206 common_voice_ar_20455342.mp3 نلعب كرة القدم كل سبت.
+cv_ara_000207 common_voice_ar_28809878.mp3 عقيد الندى أطلق مدائح جمة حبائس
+cv_ara_000208 common_voice_ar_28809880.mp3 إلى أين مرمى قصدها وسراها
+cv_ara_000209 common_voice_ar_25310724.mp3 قد ساد إبرهيم في إيمانه
+cv_ara_000210 common_voice_ar_25310725.mp3 أقاسم لا تسدد سبيلي إلى الرضا
+cv_ara_000211 common_voice_ar_28801665.mp3 قاتله الله فما
+cv_ara_000212 common_voice_ar_28801693.mp3 مرض الحب شفائي أبدا
+cv_ara_000213 common_voice_ar_24888438.mp3 كان امراً مستعجَلاً.
+cv_ara_000214 common_voice_ar_24888439.mp3 بنو حنيفة لا يرضى الدعي بهم
+cv_ara_000215 common_voice_ar_25176323.mp3 ثم إن الوصل فيه محسن
+cv_ara_000216 common_voice_ar_25176324.mp3 جسم بلا روح ضجيع الردى
+cv_ara_000217 common_voice_ar_19770038.mp3 .أعيش في الطابق الأرضي
+cv_ara_000218 common_voice_ar_19770045.mp3 الخطة الجديدة نجحت.
+cv_ara_000219 common_voice_ar_30701096.mp3 أعطت ليلى لسامي رقم هاتفها.
+cv_ara_000220 common_voice_ar_31139182.mp3 صه!
+cv_ara_000221 common_voice_ar_28808797.mp3 أتهزأ بي لما أجد وتلعب
+cv_ara_000222 common_voice_ar_28808918.mp3 غدوت إليك ولي واعدان
+cv_ara_000223 common_voice_ar_25242702.mp3 أيها الغائب عني إنني
+cv_ara_000224 common_voice_ar_25242704.mp3 تفكرت في حيف الزمان عليكم
+cv_ara_000225 common_voice_ar_20844913.mp3 .لا لست نعساناً
+cv_ara_000226 common_voice_ar_20844915.mp3 .إنه ذكي
+cv_ara_000227 common_voice_ar_24953976.mp3 أبقى الرسيم من الركاب رسوما
+cv_ara_000228 common_voice_ar_24953978.mp3 ودواة من مستجاد الصفر
+cv_ara_000229 common_voice_ar_25176172.mp3 لبس التقى للنفس خير لباس
+cv_ara_000230 common_voice_ar_25176173.mp3 أكيد لديك كثير من الأسئلة.
+cv_ara_000231 common_voice_ar_23503617.mp3 كل شيء مستحيل نظريا حتى يَحدُث.
+cv_ara_000232 common_voice_ar_23503733.mp3 لا أعلم إن كنت سأملك الوقت لفعله.
+cv_ara_000233 common_voice_ar_24771031.mp3 نحن في روضة يقصر عنها
+cv_ara_000234 common_voice_ar_24771033.mp3 الحرص عون للزمان على الفتى
+cv_ara_000235 common_voice_ar_19504459.mp3 إنها ماهرة جداً.
+cv_ara_000236 common_voice_ar_19504465.mp3 أحتاج مساعدة طبية
+cv_ara_000237 common_voice_ar_28786446.mp3 الأرض تنقص من أطرافها أبدا
+cv_ara_000238 common_voice_ar_28786449.mp3 أحل العراقي النبيذ وشربه
+cv_ara_000239 common_voice_ar_20962670.mp3 تتكاثر الفئران بسرعة.
+cv_ara_000240 common_voice_ar_20962672.mp3 .أخفض الصوت من فضلك
+cv_ara_000241 common_voice_ar_22768348.mp3 سمعت تلك القصة من قبل.
+cv_ara_000242 common_voice_ar_22768370.mp3 لا أعلم.
+cv_ara_000243 common_voice_ar_23973013.mp3 دعنا لا نستعجل كثيرًا.
+cv_ara_000244 common_voice_ar_23973017.mp3 أحبك.
+cv_ara_000245 common_voice_ar_19506817.mp3 بماذا تحدّق ؟
+cv_ara_000246 common_voice_ar_19506820.mp3 الكل يريد أن يجلس بجانبها.
+cv_ara_000247 common_voice_ar_19247899.mp3 الطفل لا يمشي بعد.
+cv_ara_000248 common_voice_ar_19247901.mp3 أيمكنني أن أطرح بعض الأسئلة ؟
+cv_ara_000249 common_voice_ar_21853173.mp3 آمل أن أزور نارا المرة المقبلة.
+cv_ara_000250 common_voice_ar_21853174.mp3 أهنّئك بنجاحك.
+cv_ara_000251 common_voice_ar_28782465.mp3 يا مصلت السيف لا تطلب به بدلا
+cv_ara_000252 common_voice_ar_28782466.mp3 هم لن يتدخلوا.
+cv_ara_000253 common_voice_ar_25965516.mp3 يشكل نهر باس الصغير الجزء الغربي من مجتمع نهر باس.
+cv_ara_000254 common_voice_ar_25965518.mp3 كانت هناك محطتان في Braintree.
+cv_ara_000255 common_voice_ar_19460018.mp3 سأبقى لعدة أيام فحسب.
+cv_ara_000256 common_voice_ar_19460019.mp3 هذا كتاب.
+cv_ara_000257 common_voice_ar_24204594.mp3 كان سامي يستمع لبريده الصّوتي.
+cv_ara_000258 common_voice_ar_24205986.mp3 لا. أنا آسف، عليّ العودة مبكراً.
+cv_ara_000259 common_voice_ar_27035922.mp3 يا عبد قد طال المطال فأنعمي
+cv_ara_000260 common_voice_ar_27035926.mp3 أنا في عرض آل بيت نبي
+cv_ara_000261 common_voice_ar_32836788.mp3 إنما قلت لشيء كن فكان
+cv_ara_000262 common_voice_ar_32840953.mp3 متى كان لديك الوقت لتفعل ذلك؟
+cv_ara_000263 common_voice_ar_28809332.mp3 أنت للعيد وهو للناس عيد
+cv_ara_000264 common_voice_ar_28809341.mp3 مشيئة العبد من مشيئة الله
+cv_ara_000265 common_voice_ar_19519239.mp3 لنتقابل هنا مرة أخرى في الغد.
+cv_ara_000266 common_voice_ar_19519240.mp3 .من الأفضل لك أن تذهب
+cv_ara_000267 common_voice_ar_19148677.mp3 ألا تشعر بالبرد ؟
+cv_ara_000268 common_voice_ar_19148679.mp3 اشتريت ساعة.
+cv_ara_000269 common_voice_ar_28793889.mp3 ورأت صروف الدهر ذلك فرصة
+cv_ara_000270 common_voice_ar_28793891.mp3 ليس على الضارط تعيير
+cv_ara_000271 common_voice_ar_22913734.mp3 .هذه نقطة مهمة جداً
+cv_ara_000272 common_voice_ar_22913748.mp3 سيكلفك ذلك عشرة آلاف ين.
+cv_ara_000273 common_voice_ar_23973257.mp3 أي نشاط تحتاج لتحقيقه ستحتاج إلى وقت أكثر مما تملكه.
+cv_ara_000274 common_voice_ar_23973374.mp3 .استمر المطر بالهطول طوال اليوم
+cv_ara_000275 common_voice_ar_21328171.mp3 ذهبنا لمشاهدة فيلم ليلة البارحة.
+cv_ara_000276 common_voice_ar_21328173.mp3 .في يوم من الأيام كان هناك مكتب بريدي على هذه الزاوية من الشارع
+cv_ara_000277 common_voice_ar_23973089.mp3 اتبعه.
+cv_ara_000278 common_voice_ar_23973121.mp3 كيف يكون عندك لابتوب ولا يكون عندك جوال ؟
+cv_ara_000279 common_voice_ar_25518694.mp3 ما رأيكم؟
+cv_ara_000280 common_voice_ar_25518699.mp3 أظن أن توم لطيف.
+cv_ara_000281 common_voice_ar_22371318.mp3 سبعة
+cv_ara_000282 common_voice_ar_22371322.mp3 ماذا تفعل يا أبي ؟
+cv_ara_000283 common_voice_ar_31282325.mp3 من الممكن أن يعلم توم أنّنا هنا.
+cv_ara_000284 common_voice_ar_31282460.mp3 توقوا النساء فإن النساء
+cv_ara_000285 common_voice_ar_28426585.mp3 هذه الصورة من أحد الفعاليات التي قمنا بتنظيمها
+cv_ara_000286 common_voice_ar_28426587.mp3 خير الأخلاء من حلتك صحبته
+cv_ara_000287 common_voice_ar_25190449.mp3 شرف الدولة بحر زاخر
+cv_ara_000288 common_voice_ar_25190452.mp3 ولرب أشقر قال نبت عذاره
+cv_ara_000289 common_voice_ar_24053939.mp3 كدأب آل فرعون والذين من قبلهم كذبوا بآياتنا فأخذهم الله بذنوبهم والله شديد العقاب
+cv_ara_000290 common_voice_ar_24053940.mp3 ما كان لي من علم بالملإ الأعلى إذ يختصمون
+cv_ara_000291 common_voice_ar_23393130.mp3 اثنان وخمسون بالمئة من النساء البريطانيات يفضلن الشوكولاته على الجنس.
+cv_ara_000292 common_voice_ar_23393131.mp3 " هل يستطيع أحدٌ مساعدتي ؟ " " سأفعل ".
+cv_ara_000293 common_voice_ar_25559656.mp3 كنت السواد لناظري
+cv_ara_000294 common_voice_ar_25559660.mp3 صديقنا المفضّل طبيب.
+cv_ara_000295 common_voice_ar_27557561.mp3 أورت بي الشهوات نار زنادها
+cv_ara_000296 common_voice_ar_27557565.mp3 يا شريفا لقرنه إشراف
+cv_ara_000297 common_voice_ar_25190113.mp3 يا أبا المستهل حالفت جوعا
+cv_ara_000298 common_voice_ar_25190114.mp3 فَإِنَّ مَنْ تَحَقَّقَ أَمْرًا تَوَطَّأَ لِحُلُولِهِ ، فَهَانَ عَلَيْهِ عِنْدَ نُزُولِهِ
+cv_ara_000299 common_voice_ar_25190117.mp3 ما خاب من في الله كان رجاه
+cv_ara_000300 common_voice_ar_25024851.mp3 توم استطاع ان يهرب
+cv_ara_000301 common_voice_ar_25024852.mp3 قصائد قصيره
+cv_ara_000302 common_voice_ar_25024853.mp3 يوصلني جمال كل يوم بسيارته.
+cv_ara_000303 common_voice_ar_26945304.mp3 استودع الله قوما ما ذكرتهم
+cv_ara_000304 common_voice_ar_26945305.mp3 شاهدت مسعود في مجلس
+cv_ara_000305 common_voice_ar_26945308.mp3 ذات أيد ثلاثة أبد الدهر
+cv_ara_000306 common_voice_ar_25191085.mp3 الجمع ضربوه أرضاً وسرقو ساعته.
+cv_ara_000307 common_voice_ar_25191087.mp3 ذهب التكرم والوفاء من الورى
+cv_ara_000308 common_voice_ar_25191089.mp3 أيا عاصي النصيحة والوصاة
+cv_ara_000309 common_voice_ar_21629123.mp3 أنا لا ألومك.
+cv_ara_000310 common_voice_ar_21629125.mp3 مهمتي هي الإهتمام بالطفل.
+cv_ara_000311 common_voice_ar_21629128.mp3 أين تعملين ؟
+cv_ara_000312 common_voice_ar_28809756.mp3 أصدق القوم إذا لاقيتهم
+cv_ara_000313 common_voice_ar_28809759.mp3 ضاقت فلما استحكمت حلقاتها
+cv_ara_000314 common_voice_ar_28809762.mp3 جمعت آيتين محييه طورا
+cv_ara_000315 common_voice_ar_28406180.mp3 أنصحك بما يلي: تسلى بشي ما
+cv_ara_000316 common_voice_ar_28406183.mp3 أيها الجالس المفكر في الأم
+cv_ara_000317 common_voice_ar_28406184.mp3 لها ناظر بالسحر في القلب نافث
+cv_ara_000318 common_voice_ar_24441236.mp3 لا تكون السعادة بدون الأطفال ولا يكون الأطفال بدون الحب.
+cv_ara_000319 common_voice_ar_24441239.mp3 راح شيبي علي مثل الثغام
+cv_ara_000320 common_voice_ar_24441242.mp3 نقبوهن خشية العشاق
+cv_ara_000321 common_voice_ar_23974552.mp3 قليلًا قليلًا ، ستلاحظ تحسنا في كتابتك.
+cv_ara_000322 common_voice_ar_23974604.mp3 وَكَمْ قَصَمْنَا مِنْ قَرْيَةٍ كَانَتْ ظَالِمَةً وَأَنْشَأْنَا بَعْدَهَا قَوْمًا آخَرِينَ
+cv_ara_000323 common_voice_ar_23974882.mp3 أهذا صحيح ؟ نعم ، هذا صحيح.
+cv_ara_000324 common_voice_ar_25191054.mp3 خبز الخصيب معلق بالكوكب
+cv_ara_000325 common_voice_ar_25191055.mp3 بلغا عني ربوع الصالحيه
+cv_ara_000326 common_voice_ar_25191057.mp3 له قلم يستتبع السيف طائعا
+cv_ara_000327 common_voice_ar_25175722.mp3 كأنه في الكف من خفة
+cv_ara_000328 common_voice_ar_25175724.mp3 هناك تحر جار.
+cv_ara_000329 common_voice_ar_25175725.mp3 كفى البدء منك العود في كل موطن
+cv_ara_000330 common_voice_ar_23373996.mp3 اشترى أبي سيارة جديدة.
+cv_ara_000331 common_voice_ar_23398143.mp3 بديهية كول: مجموع الذكاء في العالم ثابت ؛ عدد السكان يزداد.
+cv_ara_000332 common_voice_ar_23407520.mp3 أن تكون هادئًا في الفصل هو احترام لنوم الآخرين.
+cv_ara_000333 common_voice_ar_24777396.mp3 ليعاقب وسمي جود وليه
+cv_ara_000334 common_voice_ar_24777398.mp3 بوركت غرفة وبورك من قام
+cv_ara_000335 common_voice_ar_24777399.mp3 رأيتكم تبدون في الحرب عدة
+cv_ara_000336 common_voice_ar_22936984.mp3 .لربما تمطر غداً
+cv_ara_000337 common_voice_ar_22937018.mp3 .أحتاج لمزيد من الوقت لأنهي واجبي
+cv_ara_000338 common_voice_ar_22937026.mp3 لماذا لم تستطع النوم ليلة أمس ؟
+cv_ara_000339 common_voice_ar_25649012.mp3 اسمع بني وصيتي واعمل بها
+cv_ara_000340 common_voice_ar_25649013.mp3 اتصل بسيارة إسعاف.
+cv_ara_000341 common_voice_ar_25649015.mp3 أظن أنني يمكنني الانتظار أكثر قليلا.
+cv_ara_000342 common_voice_ar_27647516.mp3 هذا كتاب توم المفضل.
+cv_ara_000343 common_voice_ar_27647520.mp3 من رام جمع الناس في مذهب
+cv_ara_000344 common_voice_ar_27647522.mp3 اقتنع فاضل أنّ ليلى لم تعد تريد قتله.
+cv_ara_000345 common_voice_ar_19850608.mp3 .دعني أساعدك
+cv_ara_000346 common_voice_ar_19850609.mp3 مهما قلت عنه ، اظن انه صادق.
+cv_ara_000347 common_voice_ar_19850611.mp3 و انت؟
+cv_ara_000348 common_voice_ar_19533050.mp3 .لم يعد لدينا سكر
+cv_ara_000349 common_voice_ar_19533051.mp3 لم أقصد أن أؤذيك.
+cv_ara_000350 common_voice_ar_19533052.mp3 أعرف اسمه.
+cv_ara_000351 common_voice_ar_25188986.mp3 آل مراكش لقد غشكم محتسب
+cv_ara_000352 common_voice_ar_25188987.mp3 من مبلغ المعتر والقانع
+cv_ara_000353 common_voice_ar_25188988.mp3 عاقني عنك توالي المطر
+cv_ara_000354 common_voice_ar_27687263.mp3 كم حقيبة ستأخذون في رحلتكم؟
+cv_ara_000355 common_voice_ar_27687264.mp3 ويحك اسكت فضحتني يا راسي
+cv_ara_000356 common_voice_ar_27687266.mp3 أسأل عن الطريق.
+cv_ara_000357 common_voice_ar_24209142.mp3 تركت ليلى مفاتيحها و هاتفها في سيّارتها.
+cv_ara_000358 common_voice_ar_24209233.mp3 وَما هُوَ إِلّا ذِكرٌ لِلعالَمينَ
+cv_ara_000359 common_voice_ar_24210297.mp3 وَقَالَ ابْنُ الرُّومِيِّ رَأَيْتُ
+cv_ara_000360 common_voice_ar_25192068.mp3 ماس عجبا بعطفه وترنح
+cv_ara_000361 common_voice_ar_25192072.mp3 سبيلي إليك كتابي إليكا
+cv_ara_000362 common_voice_ar_25192075.mp3 يوميات إمرأة
+cv_ara_000363 common_voice_ar_19205348.mp3 .ساعدني في الطبخ
+cv_ara_000364 common_voice_ar_19206273.mp3 وصلت البارحة.
+cv_ara_000365 common_voice_ar_19206277.mp3 هاتان أُختان
+cv_ara_000366 common_voice_ar_19803327.mp3 صباح الخير.
+cv_ara_000367 common_voice_ar_19803328.mp3 لا تتدخل فيما لا يعنيك!
+cv_ara_000368 common_voice_ar_19803329.mp3 أتعرف كيف تلعب الشطرنج ؟
+cv_ara_000369 common_voice_ar_23972920.mp3 بالنسبة لي إن ذلك شيء مهم.
+cv_ara_000370 common_voice_ar_23972945.mp3 لا يشرب أي من أصدقائي القهوة.
+cv_ara_000371 common_voice_ar_23973026.mp3 ابتعد عن طريقي يا فتى.
+cv_ara_000372 common_voice_ar_23606197.mp3 لمّا كنتُ طفلًا كنت أقضي الساعات أقرأ لوحدي في غرفتي.
+cv_ara_000373 common_voice_ar_23606198.mp3 لا أذكر بدقة.
+cv_ara_000374 common_voice_ar_23606202.mp3 غادرنا بالقطار.
+cv_ara_000375 common_voice_ar_27244182.mp3 لم يفعل فاضل شيئا.
+cv_ara_000376 common_voice_ar_27244184.mp3 يا سريا له السعادة وافت
+cv_ara_000377 common_voice_ar_27244185.mp3 سيأخذ هذا وقتا.
+cv_ara_000378 common_voice_ar_25190076.mp3 يا عائب الأعراب من جهله
+cv_ara_000379 common_voice_ar_25190078.mp3 خذها إليك أبا إسحاق عن عجل
+cv_ara_000380 common_voice_ar_25190079.mp3 بكى لشتات الدين مكتئب صب
+cv_ara_000381 common_voice_ar_27401948.mp3 هل انت متأكد
+cv_ara_000382 common_voice_ar_27401950.mp3 أتذكر الحادثة بكل وضوح وكأنها حدثت البارحة فقط.
+cv_ara_000383 common_voice_ar_27401951.mp3 إذا كنت تطلب ما تركب
+cv_ara_000384 common_voice_ar_19382767.mp3 عمّا تبحث ؟
+cv_ara_000385 common_voice_ar_19382768.mp3 .الأمل ليس استراتيجية
+cv_ara_000386 common_voice_ar_19382770.mp3 إنه يعمل في المصرف.
+cv_ara_000387 common_voice_ar_19367226.mp3 .لا ، لن تحتاج
+cv_ara_000388 common_voice_ar_19367228.mp3 .زادت الفرقة الموسيقية عدد الحفلات في جولتها
+cv_ara_000389 common_voice_ar_19367230.mp3 إنه يريدك أن تبقى هنا.
+cv_ara_000390 common_voice_ar_21352495.mp3 الموسيقى لغة عالمية.
+cv_ara_000391 common_voice_ar_21352497.mp3 أين الغسيل ؟
+cv_ara_000392 common_voice_ar_21352498.mp3 .هذه نقطة مهمة جداً
+cv_ara_000393 common_voice_ar_24707465.mp3 إني لأحفظ ود من صافيته
+cv_ara_000394 common_voice_ar_24707467.mp3 أقرضته أيرا فرد لسانا
+cv_ara_000395 common_voice_ar_24707470.mp3 لقيل هذا الميتُ في لَحدهِ
+cv_ara_000396 common_voice_ar_25177729.mp3 أتظن صبرك منجدا إن أنجدوا
+cv_ara_000397 common_voice_ar_25177730.mp3 كنت أتطلع لهذا طوال الأسبوع.
+cv_ara_000398 common_voice_ar_25177731.mp3 تعال لتستريح قليلا.
+cv_ara_000399 common_voice_ar_23845895.mp3 الموقف أسوأ مما نظن.
+cv_ara_000400 common_voice_ar_23845962.mp3 تدعى المعجزات معجزات لأنها لا تحصل!
+cv_ara_000401 common_voice_ar_23845967.mp3 العالم ينقسم إلى الناس الذين يعملون الأشياء ، والذين يُشْكَرُونَ عليها.
+cv_ara_000402 common_voice_ar_21742460.mp3 جريدة اليوم تحذّر من قدوم عاصفة.
+cv_ara_000403 common_voice_ar_21742461.mp3 .اِكتب عنوانك من فضلك
+cv_ara_000404 common_voice_ar_21742464.mp3 و أخيراً وصلنا.
+cv_ara_000405 common_voice_ar_21100353.mp3 .أطفأت المذياع
+cv_ara_000406 common_voice_ar_21100354.mp3 انا مهتم بالأدب الامريكي.
+cv_ara_000407 common_voice_ar_21100355.mp3 غيّرت الفتاة شكلها.
+cv_ara_000408 common_voice_ar_24071449.mp3 سبحان رب السماوات والأرض رب العرش عما يصفون
+cv_ara_000409 common_voice_ar_24071452.mp3 هل هناك أحد هنا حقق أي ربح من العقود الآجلة ؟
+cv_ara_000410 common_voice_ar_24071455.mp3 وَيَقْوَى تَظَافُرُهُمْ
+cv_ara_000411 common_voice_ar_24082617.mp3 البسي قبّعتكِ.
+cv_ara_000412 common_voice_ar_24082618.mp3 هل بإمكاني مساعدتك ؟
+cv_ara_000413 common_voice_ar_24082619.mp3 لدي ندبتان على حاجبي الأيسر.
+cv_ara_000414 common_voice_ar_24534408.mp3 زار ليلا فظلت من فرحتي أحسب
+cv_ara_000415 common_voice_ar_24534409.mp3 أردت الانتحار.
+cv_ara_000416 common_voice_ar_24534411.mp3 صاغ قلبي لك حبا من ذهب
+cv_ara_000417 common_voice_ar_20912781.mp3 هل أنت متأكد ؟
+cv_ara_000418 common_voice_ar_20912782.mp3 لا تعجبني هذه الملاحظات.
+cv_ara_000419 common_voice_ar_20912783.mp3 إِنَّ الَّذِينَ سَبَقَتْ لَهُمْ مِنَّا الْحُسْنَى أُولَئِكَ عَنْهَا مُبْعَدُونَ
+cv_ara_000420 common_voice_ar_21179341.mp3 لم أُنهِ واجباتي بعد.
+cv_ara_000421 common_voice_ar_21179369.mp3 .إِذَا كَوَيْتَ سُويسْرَا ، لَأَصْبَحَتْ أَكْبَرَ مِنْ أَلْمَانِيَا
+cv_ara_000422 common_voice_ar_21179395.mp3 لم لا ؟
+cv_ara_000423 common_voice_ar_25194645.mp3 لقد عملت هنا لسنوات عديدة.
+cv_ara_000424 common_voice_ar_25194646.mp3 هل كانوا مشغولين في الإسبوع الماضي؟
+cv_ara_000425 common_voice_ar_25194649.mp3 ذهب الحب فما أشقى الفتى
+cv_ara_000426 common_voice_ar_28786501.mp3 انت في شعر كان فتحا مبينا
+cv_ara_000427 common_voice_ar_28786503.mp3 ألما على الدار التي لو وجدتها
+cv_ara_000428 common_voice_ar_28786505.mp3 مَنْ عَمِلَ لِلْآخِرَةِ أَحْرَزَهَا وَالدُّنْيَا
+cv_ara_000429 common_voice_ar_28786660.mp3 أعيني هلا تبكيان على صخر
+cv_ara_000430 common_voice_ar_28786664.mp3 من الحيف تخسيس النوال ومطله
+cv_ara_000431 common_voice_ar_28786665.mp3 روحا ساعة متون القلاص
+cv_ara_000432 common_voice_ar_27359964.mp3 يفلقن لجة آله فأمامها
+cv_ara_000433 common_voice_ar_27359969.mp3 قالوا هجاك أبو المزاق قلت لهم
+cv_ara_000434 common_voice_ar_27360048.mp3 لعمري وما عمري علي بهين
+cv_ara_000435 common_voice_ar_19314631.mp3 .كنت أمزح فقط
+cv_ara_000436 common_voice_ar_19314632.mp3 كل ما يحصل ، يحصل لسبب.
+cv_ara_000437 common_voice_ar_19314633.mp3 كيف حال الطقس ؟
+cv_ara_000438 common_voice_ar_25175589.mp3 تروح المنايا في البرايا وتغتدي
+cv_ara_000439 common_voice_ar_25175590.mp3 شد زناره على هيف الخصر
+cv_ara_000440 common_voice_ar_25175592.mp3 سميت ساعة فخذ نطق فيها
+cv_ara_000441 common_voice_ar_21644289.mp3 يا أسفاه على قلب تحجر.
+cv_ara_000442 common_voice_ar_21644291.mp3 أفكر في الذهاب إلى الجبال.
+cv_ara_000443 common_voice_ar_21644292.mp3 هذان العنصران مستقلان عن بعضهما.
+cv_ara_000444 common_voice_ar_24770136.mp3 أشار لحظي بعين علم
+cv_ara_000445 common_voice_ar_24770139.mp3 إن كان الدّب القطبي جائعا، فلن يتردّد في الهجوم على فظّ كبير.
+cv_ara_000446 common_voice_ar_24770140.mp3 بتناثر المنثور في أغصانه
+cv_ara_000447 common_voice_ar_25133276.mp3 بأبي وروحي الناعمات الغيدا
+cv_ara_000448 common_voice_ar_25133277.mp3 شهدت القديم الحق بالحادث الفاني
+cv_ara_000449 common_voice_ar_25133279.mp3 اشرب على حسن الثريا قهوة
+cv_ara_000450 common_voice_ar_25194302.mp3 سود العيون أم المواضي البيض
+cv_ara_000451 common_voice_ar_25194303.mp3 كنتم أذلة فأعزكم الله برسوله، فمهما تطلبوا العز بغيره يذلكم الله.
+cv_ara_000452 common_voice_ar_25194304.mp3 وفضاء يرجع الطرف به
+cv_ara_000453 common_voice_ar_23967423.mp3 عليّ أن آخذ الدواء.
+cv_ara_000454 common_voice_ar_23967426.mp3 تحدثتُ إلى الأصدقاء.
+cv_ara_000455 common_voice_ar_23967433.mp3 لم الجو حار هكذا ؟
+cv_ara_000456 common_voice_ar_26961554.mp3 ومضى يؤمك فانثنيت أود لو
+cv_ara_000457 common_voice_ar_26961558.mp3 ولقد تربع لا تربع بعدها
+cv_ara_000458 common_voice_ar_26961839.mp3 إليك رسول الله وجهت وجهتي
+cv_ara_000459 common_voice_ar_20791330.mp3 آن مشجّعة.
+cv_ara_000460 common_voice_ar_20791331.mp3 هل تمزحُ معي ؟
+cv_ara_000461 common_voice_ar_20791332.mp3 عليّ أن أعيد الكتاب قبل السبت.
+cv_ara_000462 common_voice_ar_19465397.mp3 سأحضر بعض كؤوس الشرب.
+cv_ara_000463 common_voice_ar_19465398.mp3 إن الله يمهل ولا يهمل
+cv_ara_000464 common_voice_ar_19465399.mp3 هناك الكثير من الكتب في غرفتي.
+cv_ara_000465 common_voice_ar_23774500.mp3 كان من واجبك أن تجيء البارحة.
+cv_ara_000466 common_voice_ar_23774503.mp3 الأسد حيوان.
+cv_ara_000467 common_voice_ar_23774510.mp3 إنه أفضل من أن يكون صحيحًا.
+cv_ara_000468 common_voice_ar_21919797.mp3 تسعة
+cv_ara_000469 common_voice_ar_21919800.mp3 ثلاثة
+cv_ara_000470 common_voice_ar_21919804.mp3 أربعة
+cv_ara_000471 common_voice_ar_21180633.mp3 .قريباً سيأتي اليوم الذي يستطيع فيه البشر السفر إلى كوكب المريخ
+cv_ara_000472 common_voice_ar_21180635.mp3 .إنها تتناول العشاء
+cv_ara_000473 common_voice_ar_21180636.mp3 هذه الرواية تتكون من ثلاثة أجزاء.
+cv_ara_000474 common_voice_ar_28793934.mp3 حرمت النجح حرمانا مبينا
+cv_ara_000475 common_voice_ar_28793938.mp3 هل تعارض التدخين؟
+cv_ara_000476 common_voice_ar_28793939.mp3 لم يُصب سامي بجروح في رجليه.
+cv_ara_000477 common_voice_ar_27660188.mp3 إعص الهوى وتعز عن سعداكا
+cv_ara_000478 common_voice_ar_27660191.mp3 تعمدني بنصحك في انفرادي
+cv_ara_000479 common_voice_ar_27660194.mp3 برأيك، كم سيكون مدى خطورة هذه المهمة؟
+cv_ara_000480 common_voice_ar_21202791.mp3 هل أضعت شيئاً هنا ؟
+cv_ara_000481 common_voice_ar_21202792.mp3 استمر المطر خمسة أيام.
+cv_ara_000482 common_voice_ar_21202796.mp3 .اِصعدوا الباص واحداً تلو الآخر
+cv_ara_000483 common_voice_ar_27645867.mp3 أي وقت وأي هائل طقس
+cv_ara_000484 common_voice_ar_27645868.mp3 ترفع إلى النجم العلي مكانه
+cv_ara_000485 common_voice_ar_27645869.mp3 ألم تروا للعجب العجيب
+cv_ara_000486 common_voice_ar_24167212.mp3 وَرَبُّكَ يَخلُقُ ما يَشاءُ وَيَختارُ ما كانَ لَهُمُ الخِيَرَةُ سُبحانَ اللَّهِ وَتَعالى عَمّا يُشرِكونَ
+cv_ara_000487 common_voice_ar_24167214.mp3 الهندوس و المسلمون كلّهم إخوة.
+cv_ara_000488 common_voice_ar_24167215.mp3 فَأَوْحَى اللَّهُ إلَيْهِ
+cv_ara_000489 common_voice_ar_22702965.mp3 صفر
+cv_ara_000490 common_voice_ar_22702966.mp3 واحد
+cv_ara_000491 common_voice_ar_22702967.mp3 هَايْ
+cv_ara_000492 common_voice_ar_25133139.mp3 يا أبا سعد قوصره
+cv_ara_000493 common_voice_ar_25133141.mp3 يا دهر كم تسبك المصفى
+cv_ara_000494 common_voice_ar_25133142.mp3 رأيت الناس أكرمهم عليهِم
+cv_ara_000495 common_voice_ar_19527480.mp3 ما المشكلة ؟
+cv_ara_000496 common_voice_ar_19527482.mp3 بإمكانك أن تطلب منه المساعدة.
+cv_ara_000497 common_voice_ar_19527483.mp3 العصافير تطير.
+cv_ara_000498 common_voice_ar_23683141.mp3 هل يعمل بدون تسجيل أيضًا ؟
+cv_ara_000499 common_voice_ar_23683145.mp3 طالما أننا نعيش ، علينا أن نعمل.
+cv_ara_000500 common_voice_ar_23683159.mp3 تدعى المعجزات معجزات لأنها لا تحصل!
+cv_ara_000501 common_voice_ar_19375155.mp3 بعض أصدقائي يمكنهم تحدث الإنجليزية جيداً.
+cv_ara_000502 common_voice_ar_19375157.mp3 .خذني معك
+cv_ara_000503 common_voice_ar_19375159.mp3 القرار النهائي بيد الطلبة.
+cv_ara_000504 common_voice_ar_21705326.mp3 نحن نواجه كارثة كبيرة.
+cv_ara_000505 common_voice_ar_21705327.mp3 تلك السيدة أكبر مني بكثير.
+cv_ara_000506 common_voice_ar_21705328.mp3 واحد
+cv_ara_000507 common_voice_ar_28782602.mp3 لقد كان حقاً سريعاً جداً.
+cv_ara_000508 common_voice_ar_28782607.mp3 صدق الكتاب لمن به يتمسك
+cv_ara_000509 common_voice_ar_28782610.mp3 هو يصدق أى شئ أقوله.
+cv_ara_000510 common_voice_ar_23974935.mp3 إنك لست طالباً.
+cv_ara_000511 common_voice_ar_23975201.mp3 ثُمَّ صَدَقْنَاهُمُ الْوَعْدَ فَأَنْجَيْنَاهُمْ وَمَنْ نَشَاءُ وَأَهْلَكْنَا الْمُسْرِفِينَ
+cv_ara_000512 common_voice_ar_23975217.mp3 يجب عليك فعل ذلك بنفسك.
+cv_ara_000513 common_voice_ar_20373576.mp3 .إسمي بوب
+cv_ara_000514 common_voice_ar_20373578.mp3 أفرش أسناني مرتين في اليوم.
+cv_ara_000515 common_voice_ar_20401421.mp3 عند دخولي إلى الغرفة كان مستغرقاً في قراءة كتاب.
+cv_ara_000516 common_voice_ar_21387016.mp3 أنت لم تتغير مُطلقاً.
+cv_ara_000517 common_voice_ar_21387017.mp3 أين بيتك ؟
+cv_ara_000518 common_voice_ar_21387019.mp3 أنا لست طالباً.
+cv_ara_000519 common_voice_ar_25073969.mp3 إن الذي تخشاه أول وهلة
+cv_ara_000520 common_voice_ar_25073970.mp3 بأبي في الحب معسول اللمى
+cv_ara_000521 common_voice_ar_25073973.mp3 فطر توسط يومه الأسبوعا
+cv_ara_000522 common_voice_ar_27739372.mp3 نابذت من باصطباري عنك يأمرني
+cv_ara_000523 common_voice_ar_27739374.mp3 عظم الله يمن فطرك فطرا
+cv_ara_000524 common_voice_ar_27739375.mp3 يا فاضل. "نعم، ماذا؟"
+cv_ara_000525 common_voice_ar_25199091.mp3 ما زلت أرمي الكلب حتى تركته
+cv_ara_000526 common_voice_ar_25199094.mp3 يا أبا المستهل ماذا تقول
+cv_ara_000527 common_voice_ar_25199097.mp3 شككت وقد زارنى غلطة
+cv_ara_000528 common_voice_ar_25190535.mp3 هل من معاشر غيركم أدعوهم
+cv_ara_000529 common_voice_ar_25190536.mp3 يعلم فاضل الكثير.
+cv_ara_000530 common_voice_ar_25190537.mp3 ما للبضائع بين الناس كلهم
+cv_ara_000531 common_voice_ar_27748406.mp3 كيف أمسيت من الهجر
+cv_ara_000532 common_voice_ar_27748415.mp3 بأبي من سعى يبرد عني
+cv_ara_000533 common_voice_ar_27748417.mp3 تخطت وفود الليل بان به الوخط
+cv_ara_000534 common_voice_ar_27748418.mp3 أيمكنني استعارة هذا الكتاب؟
+cv_ara_000535 common_voice_ar_20527673.mp3 لا أستطيع أن أقول العكس.
+cv_ara_000536 common_voice_ar_20527674.mp3 هل هو معلم ؟
+cv_ara_000537 common_voice_ar_20527675.mp3 أين تعملين ؟
+cv_ara_000538 common_voice_ar_20527677.mp3 عليّ أن أعيد الكتاب قبل السبت.
+cv_ara_000539 common_voice_ar_24145704.mp3 وَما خَلَقنَا السَّماواتِ وَالأَرضَ وَما بَينَهُما لاعِبينَ
+cv_ara_000540 common_voice_ar_24145705.mp3 سامي يحبّ هذا المسلسل.
+cv_ara_000541 common_voice_ar_24145706.mp3 قالوا وَهُم فيها يَختَصِمونَ
+cv_ara_000542 common_voice_ar_24145707.mp3 دمّر سامي حياة ليلى.
+cv_ara_000543 common_voice_ar_19219147.mp3 في البداية واجه صعوبة في التأقلم مع بيته الجديد.
+cv_ara_000544 common_voice_ar_19219148.mp3 بلغها أن تعاود الإتصال بي من فضلك.
+cv_ara_000545 common_voice_ar_19219151.mp3 .بيتك أكبر من بيتي ثلاث مرات
+cv_ara_000546 common_voice_ar_19219153.mp3 كان ذاك أرنوبًا شريرًا.
+cv_ara_000547 common_voice_ar_19348894.mp3 لا أحتاج إلى مساعدتك.
+cv_ara_000548 common_voice_ar_19348895.mp3 كان عطشاناً جداً فطلب القليل من الماء.
+cv_ara_000549 common_voice_ar_19348896.mp3 تعال و اسبح معي.
+cv_ara_000550 common_voice_ar_19348897.mp3 .كان هناك حوالي عشرين دولاراً
+cv_ara_000551 common_voice_ar_24671091.mp3 أنا النور المبين ولا أكني
+cv_ara_000552 common_voice_ar_24671092.mp3 لو كنت أشفق من خضيب بنان
+cv_ara_000553 common_voice_ar_24671093.mp3 ما أبالي من رابه الدهر ما لم
+cv_ara_000554 common_voice_ar_24671094.mp3 شيد بفضلك مشرف البنيان
+cv_ara_000555 common_voice_ar_19743245.mp3 اخي الصغير يشاهد التلفاز.
+cv_ara_000556 common_voice_ar_19743246.mp3 .تفاجأت زوجتي
+cv_ara_000557 common_voice_ar_19743247.mp3 نحن لا نعرف الحقيقة بعد.
+cv_ara_000558 common_voice_ar_19743248.mp3 ماذا تُفضّل ؟
+cv_ara_000559 common_voice_ar_26747020.mp3 ومعتذر من نعمة قد أفادها
+cv_ara_000560 common_voice_ar_26747021.mp3 أريدها أن تبقَ كما كانت.
+cv_ara_000561 common_voice_ar_26747022.mp3 أي قلب كوى الفراق وهزه
+cv_ara_000562 common_voice_ar_26747023.mp3 هي نكبة أغنت فؤادي من أسى
+cv_ara_000563 common_voice_ar_25208115.mp3 زعموا أني خؤون في الهوى
+cv_ara_000564 common_voice_ar_25208117.mp3 ما للزمان عن المروءة عار
+cv_ara_000565 common_voice_ar_25208118.mp3 ومن رآه أمام القدر منبطحا
+cv_ara_000566 common_voice_ar_25208119.mp3 هدمته والمجد ظلٌ لَهُ
+cv_ara_000567 common_voice_ar_25918696.mp3 تصدر لاودا الترتيب متقدمًا على شيكتر وجيمس هانت ويوخن ماس.
+cv_ara_000568 common_voice_ar_25918699.mp3 على الرغم من ذلك، حلت مزيد من الملاحظات الأخيرة التي أجراها رائدا فضاء أمريكيان محل هذه النتيجة.
+cv_ara_000569 common_voice_ar_25918703.mp3 يُعد الراكون من الثدييات أيضًا.
+cv_ara_000570 common_voice_ar_25918705.mp3 من الناحية المعمارية ، يعد دير بيلخور مزيجًا من العمارة هان والتبت والنيبالية.
+cv_ara_000571 common_voice_ar_25201918.mp3 زار وهنا ونحن بالزوراء
+cv_ara_000572 common_voice_ar_25201920.mp3 لكم سادتي أجل احترامي
+cv_ara_000573 common_voice_ar_25201922.mp3 أعمل فيهم ذكرا حساما
+cv_ara_000574 common_voice_ar_25201925.mp3 الخنازير لايمكنها أبدا أن تنظر للسماء في الأعلى.
+cv_ara_000575 common_voice_ar_19436314.mp3 مدريد عاصمة أسبانيا.
+cv_ara_000576 common_voice_ar_19436318.mp3 ذهب الجميع إلى هناك ، أليس كذلك ؟
+cv_ara_000577 common_voice_ar_19436319.mp3 أُدعى جاك.
+cv_ara_000578 common_voice_ar_19436320.mp3 .أتذكر أني سمعت هذه الموسيقى في مكان ما من قبل
+cv_ara_000579 common_voice_ar_19587990.mp3 هل يمكنك أن تسبح حقاً ؟
+cv_ara_000580 common_voice_ar_19587991.mp3 يمكنك الذهاب إلى المحطة بالحافلة.
+cv_ara_000581 common_voice_ar_19587992.mp3 جئت إلى اليابان العام الماضي.
+cv_ara_000582 common_voice_ar_19587993.mp3 أفضل الجود العطاء قبل الموعد
+cv_ara_000583 common_voice_ar_19641663.mp3 هل المصرف بعيد عن هنا ؟
+cv_ara_000584 common_voice_ar_19641664.mp3 يقال أنه لن يعود.
+cv_ara_000585 common_voice_ar_19641665.mp3 هذا كتابها.
+cv_ara_000586 common_voice_ar_19641666.mp3 أفكر في الذهاب إلى الجبال.
+cv_ara_000587 common_voice_ar_24356793.mp3 حُلّت هذه العلة المزعجة أخيرا.
+cv_ara_000588 common_voice_ar_24356794.mp3 هذا بعض الحساء الساخن، أعددته لك.
+cv_ara_000589 common_voice_ar_24356796.mp3 مِن جَفنِهِ آناً ومِن كِبدِه
+cv_ara_000590 common_voice_ar_24356797.mp3 خذوا في رسول الله عني مدائحا
+cv_ara_000591 common_voice_ar_23802106.mp3 لم يُحَقّق شيء عظيم باللعب في المنطقة الآمنة.
+cv_ara_000592 common_voice_ar_23802112.mp3 .نعم ، سيكفي الحليب حتى يوم الجمعة
+cv_ara_000593 common_voice_ar_23802117.mp3 أقنعته أن يتخلى عن الموضوع.
+cv_ara_000594 common_voice_ar_23802139.mp3 .بوب و توم إخوة
+cv_ara_000595 common_voice_ar_24906154.mp3 قسما بناضر قدك اللدن القويم
+cv_ara_000596 common_voice_ar_24906156.mp3 طرقت بنشوة روضة ربعية
+cv_ara_000597 common_voice_ar_24906158.mp3 ألم تريا أن الخليفة لزني
+cv_ara_000598 common_voice_ar_24906159.mp3 ما طلت باللهو والأيام تنتجز
+cv_ara_000599 common_voice_ar_24388114.mp3 مليك الناس ليس له شريك
+cv_ara_000600 common_voice_ar_24388115.mp3 يا من غدا بين تأميل وإشفاق
+cv_ara_000601 common_voice_ar_24388116.mp3 من يوميات رجل مجنون
+cv_ara_000602 common_voice_ar_24388117.mp3 طرقت علوة والرمل شج
+cv_ara_000603 common_voice_ar_26553368.mp3 بؤبؤ عين الأخطبوط ذو شكل مستطيل.
+cv_ara_000604 common_voice_ar_26553372.mp3 كأن صوت الأعجرِ المتين
+cv_ara_000605 common_voice_ar_26553373.mp3 وسل الجار والمعصب والأض
+cv_ara_000606 common_voice_ar_26553376.mp3 لا تحزنن لفرقة الأقران
+cv_ara_000607 common_voice_ar_25334316.mp3 هذا أمير المؤمنين بمجلس
+cv_ara_000608 common_voice_ar_25334317.mp3 أمن الحوادث والهوى المعتاد
+cv_ara_000609 common_voice_ar_25334318.mp3 ليطمعك في رجعات الملول
+cv_ara_000610 common_voice_ar_25334319.mp3 طابت مطاعم من يحقر قدره
+cv_ara_000611 common_voice_ar_25191396.mp3 الناس يتعلمون من التجربة.
+cv_ara_000612 common_voice_ar_25191397.mp3 قد عزمنا على التصيد والنزهة
+cv_ara_000613 common_voice_ar_25191398.mp3 يستحيل الفؤاد أن يستحيلا
+cv_ara_000614 common_voice_ar_25191400.mp3 هذه الدمية هدية من عمتي.
+cv_ara_000615 common_voice_ar_25465057.mp3 أنا أطلي البوابة بطلاء ازرق اللون.
+cv_ara_000616 common_voice_ar_25465063.mp3 أمودعي من قبل أن يلقاني
+cv_ara_000617 common_voice_ar_25465074.mp3 مواعظ الدهر لأبنائه
+cv_ara_000618 common_voice_ar_25465078.mp3 هناك الكرى يا راقد الليل إنني
+cv_ara_000619 common_voice_ar_24040019.mp3 وَبَاعِثٍ يَبْعَثُ عَلَيْهَا
+cv_ara_000620 common_voice_ar_24040020.mp3 وَالَّذِي أَخْرَجَ الْمَرْعَىٰ
+cv_ara_000621 common_voice_ar_24040023.mp3 كَمَا قَالَ دِعْبِلٌ
+cv_ara_000622 common_voice_ar_24040024.mp3 إنِّي وَإِنْ سَبَقَ إلَيَّ الْمَهْرُ
+cv_ara_000623 common_voice_ar_25190309.mp3 أضحت بمرو الشاهجان منادحي
+cv_ara_000624 common_voice_ar_25190310.mp3 يجب أن ندفع الضرائب.
+cv_ara_000625 common_voice_ar_25190312.mp3 غادرت ليلى العمل برفقة سامي.
+cv_ara_000626 common_voice_ar_25190313.mp3 يجب أن تذهب ليلى الآن.
+cv_ara_000627 common_voice_ar_19204373.mp3 .بالكاد أستطيع سماعك
+cv_ara_000628 common_voice_ar_19204374.mp3 كان أي شيء غير عادي أو غير طبيعي كافياً لإرسال زميل إلى مولوكاي
+cv_ara_000629 common_voice_ar_19204375.mp3 يتحدث مايك اليابانية جيداً.
+cv_ara_000630 common_voice_ar_19204376.mp3 .اشترت البيض بالدزينة
+cv_ara_000631 common_voice_ar_25256493.mp3 حصل جمال على التذاكر.
+cv_ara_000632 common_voice_ar_25256494.mp3 لم نلق مساعدة من أحد.
+cv_ara_000633 common_voice_ar_25256500.mp3 إنما الدنيا عناء وذل
+cv_ara_000634 common_voice_ar_25256506.mp3 فتية المغرب هيا للجهاد
+cv_ara_000635 common_voice_ar_19968629.mp3 .لدى بتي صوت رقيق
+cv_ara_000636 common_voice_ar_19968632.mp3 لقد تأخرت عن العمل.
+cv_ara_000637 common_voice_ar_19968637.mp3 تم تنفيذ جميع العمليات من مونتريال وتورونتو
+cv_ara_000638 common_voice_ar_19968638.mp3 أشتاق إليه.
+cv_ara_000639 common_voice_ar_32354809.mp3 لم أكن بحاجة لإخباره.
+cv_ara_000640 common_voice_ar_32355005.mp3 ما إن يزال لهن ردف شائل
+cv_ara_000641 common_voice_ar_32355100.mp3 أيها المنحط عني مجلسا
+cv_ara_000642 common_voice_ar_32355141.mp3 لا يبدو هذا عادلا إطلاقا.
+cv_ara_000643 common_voice_ar_21385778.mp3 هلا طلبت لي سيارة أجرة ؟
+cv_ara_000644 common_voice_ar_21385804.mp3 ما هو برنامجك التلفزيوني المفضل ؟
+cv_ara_000645 common_voice_ar_21385806.mp3 سيسعدني أن أساعدك في أي وقت.
+cv_ara_000646 common_voice_ar_21385808.mp3 تعال إلى هنا.
+cv_ara_000647 common_voice_ar_26198287.mp3 قد أسهمت حساباتهم الجماعية في شعبية روندا بمرور الوقت.
+cv_ara_000648 common_voice_ar_26198470.mp3 تشجع منظمة V-Day عمليات الترحيل السري لتشمل أكبر عدد ممكن من الجهات الفاعلة المتنوعة.
+cv_ara_000649 common_voice_ar_26198471.mp3 تم إنقاذ معظم السفينة في الموقع، ولم يبق سوى بقايا بسيطة منها.
+cv_ara_000650 common_voice_ar_26198475.mp3 تعزف المجموعة الموسيقية أمام جمهور شغوف.
+cv_ara_000651 common_voice_ar_21868815.mp3 سأذهب إلى أمريكا غداً.
+cv_ara_000652 common_voice_ar_21868816.mp3 إننا مسؤولون عن حمايتك من الآن فصاعداً.
+cv_ara_000653 common_voice_ar_21868817.mp3 هيا لنلعب.
+cv_ara_000654 common_voice_ar_21868819.mp3 من فضلك تعال بأسرع ما يمكن.
+cv_ara_000655 common_voice_ar_19395293.mp3 انه حاليا في رحلة عمل في ناجويا.
+cv_ara_000656 common_voice_ar_19395294.mp3 .حتى الأطفال يمكنهم فهم ذلك
+cv_ara_000657 common_voice_ar_19395295.mp3 ما قلته ليس له أي معنى.
+cv_ara_000658 common_voice_ar_19395296.mp3 أين مكان عملك ؟
+cv_ara_000659 common_voice_ar_19540125.mp3 لكن هذا ليس صحيحاً.
+cv_ara_000660 common_voice_ar_19540126.mp3 ابق معنا.
+cv_ara_000661 common_voice_ar_19540127.mp3 .سافرت على نفقتي
+cv_ara_000662 common_voice_ar_19540128.mp3 .مررنا بسانت لويس في طريقنا إلى نيو أورلينز
+cv_ara_000663 common_voice_ar_25193565.mp3 بني طاهر إما منعتم نوالكم
+cv_ara_000664 common_voice_ar_25193567.mp3 بدعة عندي كاسمها بدعه
+cv_ara_000665 common_voice_ar_25193570.mp3 إن العواقب أربع إن جئتها
+cv_ara_000666 common_voice_ar_25193573.mp3 أسعد بمولود أتاك مباركا
+cv_ara_000667 common_voice_ar_21988099.mp3 إثنان
+cv_ara_000668 common_voice_ar_21988101.mp3 سبعة
+cv_ara_000669 common_voice_ar_21988104.mp3 نعم
+cv_ara_000670 common_voice_ar_21988105.mp3 تسعة
+cv_ara_000671 common_voice_ar_24601416.mp3 لاح شيبي فرحت أمرح فيه
+cv_ara_000672 common_voice_ar_24601418.mp3 لعمري لحي من عقيل لقيتهم
+cv_ara_000673 common_voice_ar_24601419.mp3 يا خليلي أراك من شغف الحب
+cv_ara_000674 common_voice_ar_24601420.mp3 بكم أستطيع أن أشتري هذا البيت؟
+cv_ara_000675 common_voice_ar_19204175.mp3 غطاه الوحل من رأسه إلى أخمص قدميه.
+cv_ara_000676 common_voice_ar_19204176.mp3 التحدث بالإنجليزية ليس أمراً سهلاً.
+cv_ara_000677 common_voice_ar_19204177.mp3 بعض أصدقائي يمكنهم تحدث الإنجليزية جيداً.
+cv_ara_000678 common_voice_ar_19204178.mp3 هذه الكتب لي.
+cv_ara_000679 common_voice_ar_30696363.mp3 كيف يا من بها قوام حياتي
+cv_ara_000680 common_voice_ar_30696364.mp3 كنت فيها عازفا... صرت وترْ!
+cv_ara_000681 common_voice_ar_30696385.mp3 أمسى الشباب رداء عنك مستلبا
+cv_ara_000682 common_voice_ar_30696386.mp3 ما عليها سهرت أم بت نائم
+cv_ara_000683 common_voice_ar_28782089.mp3 فيبلغ الغاية فينا مسرعا ويهضم الحقوق منا اجمعا
+cv_ara_000684 common_voice_ar_28782090.mp3 وأبيض كلسان البرق مخترط
+cv_ara_000685 common_voice_ar_28782091.mp3 قفا أخوي إن الدار ليست
+cv_ara_000686 common_voice_ar_28782092.mp3 إسمك... "فاضل صادق."
+cv_ara_000687 common_voice_ar_19380206.mp3 ضعها في أي مكان تشاء.
+cv_ara_000688 common_voice_ar_19380208.mp3 دعني أشرح سبب وصولي متأخراً.
+cv_ara_000689 common_voice_ar_19380209.mp3 في وقت واحد سيتم إنشاء عشرات من دول الكومنولث التعاونية
+cv_ara_000690 common_voice_ar_19380210.mp3 .حملت ثلاثة كتب
+cv_ara_000691 common_voice_ar_21563502.mp3 عشنا في أوساكا عشر سنوات قبل مجيئنا إلى طوكيو.
+cv_ara_000692 common_voice_ar_21563503.mp3 .للأسف ذلك صحيح
+cv_ara_000693 common_voice_ar_21563504.mp3 أيمكنك كتابة الرسالة بالإنجليزية ؟
+cv_ara_000694 common_voice_ar_21563506.mp3 .يجب أن لا تلعب
+cv_ara_000695 common_voice_ar_25226387.mp3 رب ليل أطاله ألم الشوق
+cv_ara_000696 common_voice_ar_25226388.mp3 رقدت ههنا فتاة لبيبه
+cv_ara_000697 common_voice_ar_25226389.mp3 نزلت نجوم الليل فوق رؤوسهم
+cv_ara_000698 common_voice_ar_25226391.mp3 عجبا أيودي بالشعوب بلوغ
+cv_ara_000699 common_voice_ar_24692264.mp3 مرحبا، هذه العملية الجراحية للدكتور يامادا.
+cv_ara_000700 common_voice_ar_24692266.mp3 مرحبا بالخيال منك المطيف
+cv_ara_000701 common_voice_ar_24692268.mp3 لا توصني بلازم وواجب
+cv_ara_000702 common_voice_ar_24692269.mp3 ظعنوا ففي كنف الإله وحفظه
+cv_ara_000703 common_voice_ar_25198271.mp3 أتعشى بغير خبز وهذا
+cv_ara_000704 common_voice_ar_25198273.mp3 كولا, من فضلك.
+cv_ara_000705 common_voice_ar_25198274.mp3 رحمة الله عليه إنه
+cv_ara_000706 common_voice_ar_25198276.mp3 هذا المنتجع الصيفي لم يعد مرغوبا كما كان.
+cv_ara_000707 common_voice_ar_32520321.mp3 كان الانجذاب متبادلا.
+cv_ara_000708 common_voice_ar_32520398.mp3 يجب أن أنظف المعدات، ثم أحزمها بعيدا.
+cv_ara_000709 common_voice_ar_32520449.mp3 وَقَالَ بَعْضُ الْبُلَغَاءِ اعْمَلْ عَمَلَ
+cv_ara_000710 common_voice_ar_32520454.mp3 ما ضار لابس مثله من خاتم
+cv_ara_000711 common_voice_ar_19322536.mp3 أمي تعزف البيانو بمهارة.
+cv_ara_000712 common_voice_ar_19322537.mp3 تعتمد اليابان على نفط البلدان العربية.
+cv_ara_000713 common_voice_ar_19322539.mp3 وفقا للشاعر ، أبريل هو أقسى شهر
+cv_ara_000714 common_voice_ar_19322540.mp3 .ينقص شوكة
+cv_ara_000715 common_voice_ar_25191469.mp3 اخي الى الموت سلك
+cv_ara_000716 common_voice_ar_25191473.mp3 إن ذنبي والله ذنب كبير
+cv_ara_000717 common_voice_ar_25191474.mp3 لبني بشارة بعد أسعد فجعة
+cv_ara_000718 common_voice_ar_25191476.mp3 باكر الراح في أوان البكور
+cv_ara_000719 common_voice_ar_20294090.mp3 إنه في مكتبه.
+cv_ara_000720 common_voice_ar_20294091.mp3 كيف حالك الآن ؟
+cv_ara_000721 common_voice_ar_20294104.mp3 هاتان صورتان جميلتان.
+cv_ara_000722 common_voice_ar_20294107.mp3 اسمح لي أن أقيس ضغط دمك.
+cv_ara_000723 common_voice_ar_25179948.mp3 فإن كلمته فـرّجت عنـه... وإن خليته كـمدا يمـوت
+cv_ara_000724 common_voice_ar_25179949.mp3 إذا المرء لم يظهر لطالب
+cv_ara_000725 common_voice_ar_25179951.mp3 آل زغلول حسبكم من عزاء
+cv_ara_000726 common_voice_ar_25179952.mp3 أنت هو السبب الوحيد في وجودي.
+cv_ara_000727 common_voice_ar_25282172.mp3 كأن رقيبا منك يرعى خواطري
+cv_ara_000728 common_voice_ar_25282173.mp3 الصلاة عليك يا شمس الكمال
+cv_ara_000729 common_voice_ar_25282175.mp3 وليلة قد نسجت ريحها
+cv_ara_000730 common_voice_ar_25282176.mp3 أنا لا أعرفه البتة.
+cv_ara_000731 common_voice_ar_23872715.mp3 لا
+cv_ara_000732 common_voice_ar_23872716.mp3 فَيَرفُكس
+cv_ara_000733 common_voice_ar_23872717.mp3 تسعة
+cv_ara_000734 common_voice_ar_23872718.mp3 سبعة
+cv_ara_000735 common_voice_ar_24218176.mp3 سامي شاب تخلّى عن الدّراسة في مستوى الثّانويّة و لا يملك وظيفة حقيقيّة.
+cv_ara_000736 common_voice_ar_24218750.mp3 وَمَنْ أَقْدَمَ مِنْ غَيْرِ اضْطِرَارٍ عَلَى الِاسْتِعَانَةِ بِجَاهٍ أَوْ بِمَالٍ فَقَدْ أَوْهَى مُرُوءَتَهُ
+cv_ara_000737 common_voice_ar_24219221.mp3 انس أمرهم.
+cv_ara_000738 common_voice_ar_24230220.mp3 لا تمزح رجاءً!
+cv_ara_000739 common_voice_ar_28330793.mp3 يا عاقلا غافلا عما يراد به
+cv_ara_000740 common_voice_ar_28330795.mp3 وفي ابن عمار عزيرية
+cv_ara_000741 common_voice_ar_28330796.mp3 أَنْ تُكْفَى تَسْوِيفَ أَمَلٍ يُرْدِيك
+cv_ara_000742 common_voice_ar_28330797.mp3 دهم ليل تسعى وشهب نهار
+cv_ara_000743 common_voice_ar_24837101.mp3 لما رأت دمعي غداة وداعها
+cv_ara_000744 common_voice_ar_24837102.mp3 سرق الأديب محاسن الوراقِ
+cv_ara_000745 common_voice_ar_24837104.mp3 بُؤسُ اللَبيبِ وَطيبُ عَيشِ الأَحمَقِ
+cv_ara_000746 common_voice_ar_24837105.mp3 لما سأفعل ذلك؟
+cv_ara_000747 common_voice_ar_19842602.mp3 .تدور الأرض
+cv_ara_000748 common_voice_ar_19842604.mp3 ألي بدليل الهاتف ؟
+cv_ara_000749 common_voice_ar_19842605.mp3 شهر في أستراليا سينهي بي
+cv_ara_000750 common_voice_ar_19842606.mp3 ماعليك إلا ان تسأل.
+cv_ara_000751 common_voice_ar_24661960.mp3 محمود در في سلوك من ذهب
+cv_ara_000752 common_voice_ar_24661961.mp3 قد بناها عمر ركن بني
+cv_ara_000753 common_voice_ar_24661963.mp3 وأزهر وضاح يروق عيوننا
+cv_ara_000754 common_voice_ar_24661964.mp3 قال الوشاة وقد بدت في مفرقي للشيب
+cv_ara_000755 common_voice_ar_27365541.mp3 أهجر النوم في طلاب العلاء
+cv_ara_000756 common_voice_ar_27365542.mp3 أرى كل حي يظلم الدهر جهده
+cv_ara_000757 common_voice_ar_27365543.mp3 نغمات الهنا بمثنى وزير
+cv_ara_000758 common_voice_ar_27365545.mp3 سميت الطفلة صوفيا على اسم جدتها.
+cv_ara_000759 common_voice_ar_27639256.mp3 وَوَهَبَ لَك الْيَقِينَ الَّذِي لَا تَسْكُنُ النَّفْسُ إلَّا إلَيْهِ
+cv_ara_000760 common_voice_ar_27639258.mp3 عبد يا همتي عليك السلام
+cv_ara_000761 common_voice_ar_27639261.mp3 وأنطقت الدراهم بعد صمت
+cv_ara_000762 common_voice_ar_27639263.mp3 أنعى إليك نفوسا طاح شاهدها
+cv_ara_000763 common_voice_ar_22374986.mp3 صفر
+cv_ara_000764 common_voice_ar_22374987.mp3 فَيَرفُكس
+cv_ara_000765 common_voice_ar_22374988.mp3 خمسة
+cv_ara_000766 common_voice_ar_22374990.mp3 ستة
+cv_ara_000767 common_voice_ar_20311747.mp3 ما ذلك ؟
+cv_ara_000768 common_voice_ar_20312014.mp3 لم يبقَ إلا القليل من الحليب.
+cv_ara_000769 common_voice_ar_20312016.mp3 لديك بعض الكتب.
+cv_ara_000770 common_voice_ar_20312018.mp3 متى وصلت ؟
+cv_ara_000771 common_voice_ar_19749067.mp3 إنتهت من عملها قبل الساعة الخامسة.
+cv_ara_000772 common_voice_ar_19749069.mp3 . قدمي ما زالت تؤلمني
+cv_ara_000773 common_voice_ar_19749070.mp3 يجب علينا إنهاء كل شيء قبل صباح الثلاثاء.
+cv_ara_000774 common_voice_ar_19749071.mp3 .بِتْنا في هاكوني
+cv_ara_000775 common_voice_ar_28795034.mp3 اشترى فاضل بيزا و ذهب إلى منزله.
+cv_ara_000776 common_voice_ar_28795060.mp3 أحضر الليل منك عقدا وثغرا
+cv_ara_000777 common_voice_ar_28795061.mp3 أين الفودكا ؟
+cv_ara_000778 common_voice_ar_28795106.mp3 سأخبر جمال غدا.
+cv_ara_000779 common_voice_ar_28791452.mp3 رأيت شبحا.
+cv_ara_000780 common_voice_ar_28791453.mp3 اشترى صديقي سيّارة لونها أصفر.
+cv_ara_000781 common_voice_ar_28791489.mp3 ومن نكد الدنيا إذا ما تنكرت
+cv_ara_000782 common_voice_ar_28791490.mp3 مدعي العصمة كذاب ومن
+cv_ara_000783 common_voice_ar_19785100.mp3 واستمع راؤول مرة أخرى إلى حكاية المنزل
+cv_ara_000784 common_voice_ar_19785101.mp3 كل ما تفعله هو التذمر.
+cv_ara_000785 common_voice_ar_19785102.mp3 أمس قرأت قصة مثيرة للاهتمام.
+cv_ara_000786 common_voice_ar_19785103.mp3 لا أعرف شيئاً عن ماضيه.
+cv_ara_000787 common_voice_ar_19963352.mp3 أنا متعب جداً.
+cv_ara_000788 common_voice_ar_19963353.mp3 الإنسان بالتفكير والله بالتدبير
+cv_ara_000789 common_voice_ar_19963354.mp3 .ستبدأ المسرحية في الساعة الثامنة
+cv_ara_000790 common_voice_ar_19963355.mp3 .الناس يحبون الحرية
+cv_ara_000791 common_voice_ar_27643351.mp3 أومض البرق بعلياء منين
+cv_ara_000792 common_voice_ar_27643352.mp3 ليس شعري وإن كسا المجد درا
+cv_ara_000793 common_voice_ar_27643353.mp3 على الكره ما فارقت أحمد وانطوى
+cv_ara_000794 common_voice_ar_27643355.mp3 ألن تخبر توم؟
+cv_ara_000795 common_voice_ar_24927979.mp3 إني رأيت الصبر خير معول
+cv_ara_000796 common_voice_ar_24927980.mp3 ولي طيلسان ناحل غير أنه
+cv_ara_000797 common_voice_ar_24927981.mp3 أقسمت والحنث له آثام
+cv_ara_000798 common_voice_ar_24927983.mp3 عاد عودي إلى ثراه القديم
+cv_ara_000799 common_voice_ar_25194609.mp3 أذكروا لما أروها النديما
+cv_ara_000800 common_voice_ar_25194610.mp3 تنبه قد بدى شمس العقار
+cv_ara_000801 common_voice_ar_25194611.mp3 أراني وما أحدثت بعدك سيئا
+cv_ara_000802 common_voice_ar_25194614.mp3 أنا لا أستطيع أن أفهم ما هو الخطأ!
+cv_ara_000803 common_voice_ar_25208385.mp3 قم ناد أنقرة وقل يهنيك
+cv_ara_000804 common_voice_ar_25208386.mp3 ماذا عسى لأبي الفضائل أن تجيب
+cv_ara_000805 common_voice_ar_25208387.mp3 ريق غريض وثغر منك إغريض
+cv_ara_000806 common_voice_ar_25208388.mp3 أرقتني تلومني أم بكر

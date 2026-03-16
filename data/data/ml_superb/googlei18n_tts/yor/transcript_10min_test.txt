@@ -1,0 +1,148 @@
+googlei18n-tts_yor_001023 yof_01208_01099449672-yo_ng_openslr.wav [snap] Wọ́n rò pé èmi ni mo sọ fún ẹ bẹ́ẹ̀.
+googlei18n-tts_yor_001024 yom_07508_00783170538-yo_ng_openslr.wav [snap] Wọ́n ti lọ fọ’bọ́ níta.
+googlei18n-tts_yor_001025 yof_09334_00458323142-yo_ng_openslr.wav Lára àwọn ìwé tí mo fẹ́ràn láti máa kà ní ìgba tí mo wà ní ilé ìwé girama ni.
+googlei18n-tts_yor_001026 yom_00295_01759262518-yo_ng_openslr.wav Láti mọ iṣẹ́ náà, ó gba ìfarabalẹ̀.
+googlei18n-tts_yor_001027 yof_03397_01408050296-yo_ng_openslr.wav Ejò náà gbé ẹran mì.
+googlei18n-tts_yor_001028 yof_09334_01531532599-yo_ng_openslr.wav Àárẹ̀ náà ti wọ inú ara rẹ̀ tán.
+googlei18n-tts_yor_001029 yom_09334_01080802520-yo_ng_openslr.wav [breath] Dígí tí a gbé sí balùwẹ̀ ti fọ́ ní àná.
+googlei18n-tts_yor_001030 yof_03349_00163875259-yo_ng_openslr.wav Ọwọ́ méjì ni wọ́n kó sí inú ẹ̀.
+googlei18n-tts_yor_001031 yom_09334_01934823276-yo_ng_openslr.wav Ó fẹ́ pẹ́ láyé ju bí ó ti yẹ lọ.
+googlei18n-tts_yor_001032 yom_00610_01079386645-yo_ng_openslr.wav Àt’àná ni mo ti ń sùn.
+googlei18n-tts_yor_001033 yom_01208_00474791844-yo_ng_openslr.wav [breath] [snap] Aláta rodo ti dé o, ṣé ẹ fẹ́ rà àbí ẹ ò rà?
+googlei18n-tts_yor_001034 yof_00610_01630073655-yo_ng_openslr.wav Ọjà ni mò ń lọ báyìí o.
+googlei18n-tts_yor_001035 yom_07049_01576880734-yo_ng_openslr.wav Mo fẹ́ran àgbàdo sísè.
+googlei18n-tts_yor_001036 yom_02121_00083063400-yo_ng_openslr.wav Ọmọ ìya ológì lókè Mẹ̀sàán ni mí.
+googlei18n-tts_yor_001037 yof_03397_01876359592-yo_ng_openslr.wav [snap] Ta ló gbé omi tí mo pọn?
+googlei18n-tts_yor_001038 yof_07049_01210522679-yo_ng_openslr.wav Ẹsẹ̀ àga náà ti kạ́n.
+googlei18n-tts_yor_001039 yof_06136_01516345648-yo_ng_openslr.wav Ó fún-un lọ́tí mu.
+googlei18n-tts_yor_001040 yof_02484_01739384373-yo_ng_openslr.wav Ọpọlọ ọmọ yẹn dà bíi ti Dámilọ́lá.
+googlei18n-tts_yor_001041 yom_01208_00531224427-yo_ng_openslr.wav Ẹlẹ́sìn ìgbàgbọ́ ni àwọn Táyọ̀.
+googlei18n-tts_yor_001042 yof_05223_01497686619-yo_ng_openslr.wav [snap] Ṣé kí a fún àwọn agbasọfọ̀?
+googlei18n-tts_yor_001043 yom_04310_01019575995-yo_ng_openslr.wav Ìró wà ní orí ilẹ̀kùn.
+googlei18n-tts_yor_001044 yom_07505_00972815832-yo_ng_openslr.wav [breath] Gbogbo wọn ni wọ́n ń forí balẹ̀ f'Ólúwa lati àárọ̀ di alẹ́.
+googlei18n-tts_yor_001045 yof_00295_01577870447-yo_ng_openslr.wav Ọmọ yìí ò kí ń gbọ́ràn ṣá.
+googlei18n-tts_yor_001046 yof_07505_02043036677-yo_ng_openslr.wav [snap] Ayé dùn-ún jẹ jùyà lọ ni ọ̀rọ̀ tó bọ́ lẹ́nu Ṣùbòmí nígbà tó jẹ àmàlà tán.
+googlei18n-tts_yor_001047 yom_00295_01634346315-yo_ng_openslr.wav Àmàlà ni Simí jẹ fún oúnjẹ ọ̀sán.
+googlei18n-tts_yor_001048 yom_07505_01380730347-yo_ng_openslr.wav Àjàká lọ sí Ìlú Èkó.
+googlei18n-tts_yor_001049 yof_00295_00444601186-yo_ng_openslr.wav Iná ti tán lórí ẹ̀rọ ìbánisọ̀rọ̀ mi.
+googlei18n-tts_yor_001050 yof_00295_01899318031-yo_ng_openslr.wav Èbìtì ò ní pa eèrà láíláí.
+googlei18n-tts_yor_001051 yom_01523_00136367294-yo_ng_openslr.wav Kí ló dé tí o wà nínú àhámọ́ [external]
+googlei18n-tts_yor_001052 yof_02121_02015408040-yo_ng_openslr.wav Ọlọ́runyọmí ló tan Iwàlọlá jẹ.
+googlei18n-tts_yor_001053 yof_00295_01512514976-yo_ng_openslr.wav Bàbá àti màmá ti lọ sí òde òkú àwọn Ṣeun.
+googlei18n-tts_yor_001054 yom_01523_00908761472-yo_ng_openslr.wav [breath] Kí ló lè mú kí orí máa fọ́ ni báyìí?
+googlei18n-tts_yor_001055 yof_00295_00708065118-yo_ng_openslr.wav Mo júbà àwọn tó layé, àwọn tọ́ ti wà k’áwa tó dé.
+googlei18n-tts_yor_001056 yom_01208_00010936322-yo_ng_openslr.wav Ẹniafẹ́ ti parí ilé ìwé gíga.
+googlei18n-tts_yor_001057 yof_02484_00606215462-yo_ng_openslr.wav Láti mọ iṣẹ́ náà, ó gba ìfarabalẹ̀.
+googlei18n-tts_yor_001058 yom_09334_01973795918-yo_ng_openslr.wav Wọ́n ti fi pamọ́ sínú ilé ìfowópamọ́.
+googlei18n-tts_yor_001059 yof_07505_00414690798-yo_ng_openslr.wav Àwọn Àbẹ̀gbé yóò tó dé láti Ísírẹ́lì ní ọ̀sẹ̀ méjì sí òní.
+googlei18n-tts_yor_001060 yom_01523_01346428924-yo_ng_openslr.wav [breath] Àwọn iwin inú igbó ti ń jíròrò.
+googlei18n-tts_yor_001061 yom_08784_00353698143-yo_ng_openslr.wav Wọn fi ẹ̀mí ìmoore hàn.
+googlei18n-tts_yor_001062 yom_08784_00466800209-yo_ng_openslr.wav Ẹ̀yọ̀, Gẹ̀lẹ̀dẹ́ àti Eégún ni àwọn ọdún ìbílẹ̀ tí mo fẹ́ràn jù.
+googlei18n-tts_yor_001063 yom_06136_00575235639-yo_ng_openslr.wav Ẹ jẹ́ ká lọ fọṣọ wa kó ba lè mọ́.
+googlei18n-tts_yor_001064 yom_08421_00837672219-yo_ng_openslr.wav Ejò náà gbé ẹran mì.
+googlei18n-tts_yor_001065 yof_08784_01482844097-yo_ng_openslr.wav Ṣé o lè yá mi l’ówó títí di ìparí oṣù.
+googlei18n-tts_yor_001066 yof_01208_01947924185-yo_ng_openslr.wav [snap] Jẹ́ ká jọ jó.
+googlei18n-tts_yor_001067 yom_02121_00143985059-yo_ng_openslr.wav Láti ojú fèrèsé ni mo ti ń rí gbogbo ohun tí wọ́n ń ṣe.
+googlei18n-tts_yor_001068 yof_08421_00892616823-yo_ng_openslr.wav Ṣé wàá jẹ ìrẹsì àt’ẹ̀wà?
+googlei18n-tts_yor_001069 yof_01208_01727127192-yo_ng_openslr.wav Èló ni wọ́n ń ta ìwé náà?
+googlei18n-tts_yor_001070 yof_07505_01851862734-yo_ng_openslr.wav Àrà méèrírí, mo r’órí olóńgbò l’átẹ.
+googlei18n-tts_yor_001071 yof_02436_01686003422-yo_ng_openslr.wav Ìwé mẹ́rin ni ọ̀gbẹ́ni Caleb ní ka rà. [external]
+googlei18n-tts_yor_001072 yom_07049_01716546573-yo_ng_openslr.wav Ifálékè ti j’Ọba o.
+googlei18n-tts_yor_001073 yof_05223_00365169300-yo_ng_openslr.wav [snap] Mo fẹ́ lọ sí ọdún Ọ̀ṣun Òṣogbo.
+googlei18n-tts_yor_001074 yof_09334_01228340404-yo_ng_openslr.wav [breath] Àwọn wèrè l’àwọn olóṣèlúu wa o.
+googlei18n-tts_yor_001075 yom_06136_00112118729-yo_ng_openslr.wav [breath] 'Ayé dùn-ún jẹ juùyà lọ' ni ọ̀rọ̀ tó bọ́ lẹ́nu Ṣùbòmí nígbà tó jẹ àmàlà tán.
+googlei18n-tts_yor_001076 yom_01523_01769113672-yo_ng_openslr.wav Ọtí àmupara ni Akínbọ̀dé mu ló bá ń sọ bótobòto ní òru àná.
+googlei18n-tts_yor_001077 yof_07049_01581353881-yo_ng_openslr.wav A ti gé igi kan lulẹ̀.
+googlei18n-tts_yor_001078 yof_00295_01271831382-yo_ng_openslr.wav Ikọ́ burúkú wo ni ò ń wú báyìí.
+googlei18n-tts_yor_001079 yom_03034_00779424400-yo_ng_openslr.wav Kò fẹ́ kí á ṣeré ìfẹ́.
+googlei18n-tts_yor_001080 yof_03397_01410426771-yo_ng_openslr.wav Wọ́n ń ṣe orò ní Sàágámù lọ́wọ́lọ́wọ́.
+googlei18n-tts_yor_001081 yom_02436_00839891534-yo_ng_openslr.wav [snap] Lára àwọn agbẹjọ́rò àgbà ni Fálànà wà.
+googlei18n-tts_yor_001082 yof_00295_01687502216-yo_ng_openslr.wav Àsàwọ́ wà nínú oúnjẹ náà. [external]
+googlei18n-tts_yor_001083 yof_08421_01661644540-yo_ng_openslr.wav Ẹyẹ abàmì ni ẹyẹ igún.
+googlei18n-tts_yor_001084 yof_07049_00923649568-yo_ng_openslr.wav [snap] Àra mí ń ko’ná ní òru m’ọ́jú, ọpẹ́lọpẹ́ Ṣayọ̀ tó tọ́jú mi.
+googlei18n-tts_yor_001085 yom_03034_01911907681-yo_ng_openslr.wav Èmi ni mo bá àbúrò mi ṣe iṣẹ́ àmúrelé rẹ̀.
+googlei18n-tts_yor_001086 yom_07508_00870120725-yo_ng_openslr.wav [snap] Àgbònrín mẹ́ta ń sọdá.
+googlei18n-tts_yor_001087 yof_08784_00256254723-yo_ng_openslr.wav Ẹsẹ̀ ń ro ó púpọ̀.
+googlei18n-tts_yor_001088 yof_07505_00461184390-yo_ng_openslr.wav Àtòrì ńlá ni wọ́n fi nàá.
+googlei18n-tts_yor_001089 yof_02436_01930150103-yo_ng_openslr.wav [breath] [snap] A ṣì ní ọ̀pọ̀ ǹkan láti mọ̀ nípa àwọn àdán àti iye ẹ̀yà tó wà.
+googlei18n-tts_yor_001090 yof_07505_01337287283-yo_ng_openslr.wav Ẹ̀dá nílò láti máa ní àmójúkúrò.
+googlei18n-tts_yor_001091 yof_07505_01416245807-yo_ng_openslr.wav Tí mo bá gbàgbé ohun gbogbo, ojú rẹ ni mi ò [external] le gbàgbé.
+googlei18n-tts_yor_001092 yom_01523_00612617448-yo_ng_openslr.wav Yànmúyańmú ń kùn sí mi létí. [external]
+googlei18n-tts_yor_001093 yof_09334_00180022407-yo_ng_openslr.wav [snap] Erín tóbi ju ajá lọ.
+googlei18n-tts_yor_001094 yom_08784_00940513995-yo_ng_openslr.wav [breath] Wọ́n pa Olúwa wa, ó sì jíǹde. [abrupt]
+googlei18n-tts_yor_001095 yom_07508_02095438771-yo_ng_openslr.wav Mo máa ń lérò pé Bélò ní ọpọlọ ni o, àṣé orí rẹ̀ ò pé rárá.
+googlei18n-tts_yor_001096 yof_02484_00085407980-yo_ng_openslr.wav [snap] Ǹjẹ́ ó ṣeéṣe kí Àrólé pa ọ̀rẹ́ rè?
+googlei18n-tts_yor_001097 yof_02484_01358389254-yo_ng_openslr.wav Bísí jẹ́ ìyàwó kejì.
+googlei18n-tts_yor_001098 yof_03034_00520981556-yo_ng_openslr.wav Ṣé mo jọ òmùgọ̀ ni?
+googlei18n-tts_yor_001099 yom_02121_00511825314-yo_ng_openslr.wav Ẹni rere ni alábàágbé mi ti mo sọ fún ẹ nípa ẹ̀.
+googlei18n-tts_yor_001100 yom_01523_01585700502-yo_ng_openslr.wav [snap] Kò sí Iná lórí ẹ̀rọ ìbánisọ̀rọ̀ mi. [external]
+googlei18n-tts_yor_001101 yom_03397_01566492596-yo_ng_openslr.wav [snap] Bí oò ti ẹ̀ jẹ́ kó hàn ní ojú ẹ, mo mọ̀ pé ohun tí wọ́n ṣe dùn ẹ́ gidi.
+googlei18n-tts_yor_001102 yom_07505_01797491011-yo_ng_openslr.wav Èèyàn mélo lo fẹ́ rí?
+googlei18n-tts_yor_001103 yom_00610_02084800822-yo_ng_openslr.wav Wọ́n ti mú Èmánúẹ̀lì lọ sí ibi tí yóò ti kọ́ bí wọ́n ti ń ṣe bàtà.
+googlei18n-tts_yor_001104 yom_06136_00803488750-yo_ng_openslr.wav [snap] Tùràrí olóòórùn dídùn ni wọ́n fi sí ibi ìtẹ́ òkú.
+googlei18n-tts_yor_001105 yom_07508_01974100140-yo_ng_openslr.wav Wọ́n ti fi Akínsọ̀yínù sínú túbú.
+googlei18n-tts_yor_001106 yof_01208_00067224728-yo_ng_openslr.wav [snap] Ẹ kú ọjọ́ ìbí ooo, ọ̀jọ̀gbọ́n Ṣóyínká.
+googlei18n-tts_yor_001107 yof_03034_01619608827-yo_ng_openslr.wav [snap] Wọ́n pa Olúwa wa, ó sì jíǹde.
+googlei18n-tts_yor_001108 yof_07508_02031310832-yo_ng_openslr.wav Ajíbádé fẹ́ràn obìnrin púpọ̀.
+googlei18n-tts_yor_001109 yom_02484_00770349984-yo_ng_openslr.wav Ilẹ̀kùn yàrá Tádé ti bàjẹ́.
+googlei18n-tts_yor_001110 yof_02484_01981452867-yo_ng_openslr.wav [snap] Aláriwo ọmọ ni ẹ́.
+googlei18n-tts_yor_001111 yof_00610_01190059110-yo_ng_openslr.wav Wọ́n ní ká dá àjọ kí owó baà le pọ̀.
+googlei18n-tts_yor_001112 yof_09334_02140860801-yo_ng_openslr.wav Àwàdà ni a fi bẹ̀rẹ̀ ọ̀rọ̀ náà.
+googlei18n-tts_yor_001113 yof_07505_00576738266-yo_ng_openslr.wav Abíọ́nà ní òun lọ rí Adé ní ago mẹ́wa òní.
+googlei18n-tts_yor_001114 yom_01523_01027459857-yo_ng_openslr.wav [breath] Báwo ni mo ṣe fẹ́ parí iṣẹ́ yìí na?
+googlei18n-tts_yor_001115 yof_09334_00702481759-yo_ng_openslr.wav [breath] [snap] Bí ọmọ yìí ṣe máa ń sọ̀rọ̀ máa ń múmi lọ́kàn.
+googlei18n-tts_yor_001116 yom_06136_01282811083-yo_ng_openslr.wav [external] [snap] Aṣọ púpọ̀ ló wà lọ́jà, lọ ra tì ẹ.
+googlei18n-tts_yor_001117 yom_01523_00690218507-yo_ng_openslr.wav Òkun kìí gùn jù ká má mọ ibi tó ti gùn wá.
+googlei18n-tts_yor_001118 yom_03034_01115540083-yo_ng_openslr.wav Àwọn Yorùbá kò fi ọwọ́ yẹpẹrẹ mú ọrọ ọmọ bíbí láwùjọ.
+googlei18n-tts_yor_001119 yof_07505_01075267765-yo_ng_openslr.wav Ẹlẹ́nu róbótó bí orí ìgò.
+googlei18n-tts_yor_001120 yof_04310_01284468210-yo_ng_openslr.wav [breath] Èdè Gẹ̀ẹ́si ti di gbajúmọ̀ láàárín àwọn èdè àgbáyé. [external]
+googlei18n-tts_yor_001121 yof_01208_01325492457-yo_ng_openslr.wav [breath] Gbogbo rẹ̀ ṣẹ̀ hàn kedere sí mi ni.
+googlei18n-tts_yor_001122 yom_07505_01134318847-yo_ng_openslr.wav [external] Á ṣeé ṣe lágbára ọlọ́run.
+googlei18n-tts_yor_001123 yom_07508_00253762213-yo_ng_openslr.wav [snap] Mo ya ìwé náà sí méjì nítorí inú bí mi gidigidi.
+googlei18n-tts_yor_001124 yom_08421_01567028528-yo_ng_openslr.wav Wákàtí kan ni mo fún ẹ láti dé ibí.
+googlei18n-tts_yor_001125 yom_00295_01437278801-yo_ng_openslr.wav Nígbà tí a lọ síbẹ̀, a rí Awólọ́wọ̀ ní ìlú Ọ̀wọ̀.
+googlei18n-tts_yor_001126 yom_03034_01842627620-yo_ng_openslr.wav Alágídí èyàn ni Odùújókòó.
+googlei18n-tts_yor_001127 yom_00295_01495670377-yo_ng_openslr.wav Ẹran méjì-méjì ló fi ṣe wá lálejò.
+googlei18n-tts_yor_001128 yom_03034_01879578919-yo_ng_openslr.wav Kíni m̀bá ti ṣe sọ pé mo gbọ́?
+googlei18n-tts_yor_001129 yom_00610_01969882534-yo_ng_openslr.wav [snap] Ọkọ̀ ayọ́kẹ́lẹ́ náà rẹwà púpọ̀.
+googlei18n-tts_yor_001130 yom_09334_00633050115-yo_ng_openslr.wav Gbẹ́nu sọ́un, oní’bèérè ìsọlẹ́nu.
+googlei18n-tts_yor_001131 yom_07505_01273201217-yo_ng_openslr.wav [snap] Omi adágún kan wà ní ẹ̀yìn ilé-ìwé mi.
+googlei18n-tts_yor_001132 yof_05223_01583517800-yo_ng_openslr.wav [snap] Atẹ́ ti kúrò ní ile ìwé wa.
+googlei18n-tts_yor_001133 yom_02484_00432712261-yo_ng_openslr.wav [breath] Ó dà bí ẹni pé ó ti rẹ olùkọ́ọ wa.
+googlei18n-tts_yor_001134 yof_08421_01243847513-yo_ng_openslr.wav Ojú mi rí kí n tó ni gbogbo dúkìá yìí.
+googlei18n-tts_yor_001135 yof_06136_01151773106-yo_ng_openslr.wav Jẹ́ ki mọ̀ mọ tí ó bá ti ń lọ sí ilé yin.
+googlei18n-tts_yor_001136 yom_02436_01484341679-yo_ng_openslr.wav Òkédìjí ló sọ bẹ́ẹ̀ nínú ìkan lára àwọn ìwé ẹ̀.
+googlei18n-tts_yor_001137 yof_09334_02113816538-yo_ng_openslr.wav [snap] Olúwa, má jẹ ka pàdánù.
+googlei18n-tts_yor_001138 yom_07508_01609673711-yo_ng_openslr.wav Ìbàjẹ́ ènìyàn kò dáṣẹ́ ọlọ́run dúró.
+googlei18n-tts_yor_001139 yom_08421_01517793806-yo_ng_openslr.wav Àlákála ni Adéníkẹ lá pẹ̀lú Ayaba Èṣítẹ̀rí.
+googlei18n-tts_yor_001140 yom_01523_02052744662-yo_ng_openslr.wav Wọ́n wáa níyẹ̀wù àgbà.
+googlei18n-tts_yor_001141 yom_08421_01471313862-yo_ng_openslr.wav Bí àwọn dókítà mìíràn ṣe máa ń bá’ni sọ̀rọ̀ kò daa rárá.
+googlei18n-tts_yor_001142 yof_03349_02027858799-yo_ng_openslr.wav Ejò paramọ́lẹ̀ burú púpọ̀.
+googlei18n-tts_yor_001143 yom_04310_00481083763-yo_ng_openslr.wav Afẹ́fẹ́ ń kọjálọ lẹ́sọ̀lẹ́sọ̀, gbogbo ohun ń lo létòlétò.
+googlei18n-tts_yor_001144 yof_00295_00732956445-yo_ng_openslr.wav Ẹ má jẹ kí n fẹ̀fun.
+googlei18n-tts_yor_001145 yom_00610_00581757758-yo_ng_openslr.wav Ọ̀kan-ò-jọ̀kan ìdí ni a lè tọ́ka sí pé ó ṣokùnfà pípẹ́ lẹ́yìn ìwé ìtàn àròsọ Yòrùbá.
+googlei18n-tts_yor_001146 yof_00295_01761208648-yo_ng_openslr.wav Akitiyan àwọn ajíhìnrere tí wọ́n ṣe àkọsílẹ̀ àkọtọ́ èdè Yòrùbá kò ṣe é fọwọ́ rọ́ sẹ́yìn.
+googlei18n-tts_yor_001147 yof_09334_00663283013-yo_ng_openslr.wav [breath] Àjòjì ni mo jẹ́ ní ilẹ̀ tí mo ti lọ ṣe ètò àgùnbánirọ̀ mi.
+googlei18n-tts_yor_001148 yof_00295_01083821714-yo_ng_openslr.wav Láti orí dé orúnkún ni òógùn ti ń bòó nígbà tí a gbóhùn ìbọn tí àwọn ọ̀daràn náà yìn.
+googlei18n-tts_yor_001149 yom_08421_00859421512-yo_ng_openslr.wav Iná ìjọba máa ń wà dada ní agbègbè Ilémobọ́lá.
+googlei18n-tts_yor_001150 yom_07508_01052355386-yo_ng_openslr.wav Ọ̀kan pàtàkì lára àwọn ẹ̀yà lítíréṣọ àbáláyé Yorùbá ni eré-oníṣe àbáláyé jẹ́.
+googlei18n-tts_yor_001151 yom_01523_01202984853-yo_ng_openslr.wav Àkọtọ́ òde òní yàtọ̀ sí ti àtijọ́.
+googlei18n-tts_yor_001152 yof_03397_01325603742-yo_ng_openslr.wav Oṣhòdì ni ilé iṣẹ́ Alfa wà.
+googlei18n-tts_yor_001153 yof_00610_01327657874-yo_ng_openslr.wav Mo ní èróngbà láti gbé àpótí ìdìbò lọ́jọ́ kan.
+googlei18n-tts_yor_001154 yof_03034_01373308907-yo_ng_openslr.wav Ayẹyẹ náà yóò lárinrin yàtọ̀ sí ti tẹ́lẹ̀.
+googlei18n-tts_yor_001155 yof_07505_00541120679-yo_ng_openslr.wav A ti di àjèjì ara wa.
+googlei18n-tts_yor_001156 yof_08784_00012858083-yo_ng_openslr.wav Ìbẹ́pẹ náà dùn púpọ̀.
+googlei18n-tts_yor_001157 yom_07508_00331434484-yo_ng_openslr.wav Àpò ìwé ẹ̀ wà nínú aṣọ mi.
+googlei18n-tts_yor_001158 yom_03034_00161043567-yo_ng_openslr.wav [snap] Àwọn ará ìlú ní ìgbàgbọ́ pé ọ̀nà èrú ni ọba tuntun yí fi d’órí àléfà.
+googlei18n-tts_yor_001159 yof_05223_00533851592-yo_ng_openslr.wav Lára àwọn agbẹjọ́rò àgbà ni Fálànà wà.
+googlei18n-tts_yor_001160 yom_02436_01353362184-yo_ng_openslr.wav A ti parí ìjà wa lánàá.
+googlei18n-tts_yor_001161 yof_06136_00845245042-yo_ng_openslr.wav Wọ́n mú ọmọ náà ṣeré.
+googlei18n-tts_yor_001162 yof_07505_00373776736-yo_ng_openslr.wav O jọ ẹni tí yóò ní ẹ̀mí gígùn.
+googlei18n-tts_yor_001163 yom_03034_01116358683-yo_ng_openslr.wav Bàtà mi dà? Níbo lo kó wọn sí?
+googlei18n-tts_yor_001164 yom_02436_01363970755-yo_ng_openslr.wav [snap] Ẹ̀gbọ́n mi ò sí nílé o, ẹ padà wá nírọ̀lẹ́.
+googlei18n-tts_yor_001165 yom_06136_01797301507-yo_ng_openslr.wav Ọ̀dẹ̀ burúkú l’ọmọ Ajíbóyè yìí tó dá mi dúró.
+googlei18n-tts_yor_001166 yom_00610_01210690763-yo_ng_openslr.wav Ìgbéraga kò dára rárá.
+googlei18n-tts_yor_001167 yof_04310_00856689436-yo_ng_openslr.wav [snap] Balùwẹ̀ ni mo bọ́ sí tí mo ti ń jó. [external]
+googlei18n-tts_yor_001168 yof_03349_00408969313-yo_ng_openslr.wav Bàbángídá ti ra mọ́tò kó tó lọ sí Hajj.
+googlei18n-tts_yor_001169 yof_07049_00588967694-yo_ng_openslr.wav Ìrèké yi ò fi bẹ́ẹ̀ dùn bíi ti ọjà.
+googlei18n-tts_yor_001170 yom_02436_01761870840-yo_ng_openslr.wav [snap] Àkèré fi inú ṣe ọgbọ́n ni wọ́n ń pèé.

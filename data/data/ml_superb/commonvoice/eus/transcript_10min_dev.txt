@@ -1,0 +1,103 @@
+cv_eus_000000 common_voice_eu_18595294.mp3 Hezkuntzak prestatu zituen probak pisa eta antzekoak eredu.
+cv_eus_000001 common_voice_eu_18591439.mp3 Non demontre dago Langraiz Oka eta non Boli Kosta?
+cv_eus_000002 common_voice_eu_19525599.mp3 Abenduaren hogeita hamaikan egiten dira San Silvestre lasterketak herrietan.
+cv_eus_000003 common_voice_eu_19482311.mp3 Athleticeko jokalari izateko, ez da euskararik jakin behar.
+cv_eus_000004 common_voice_eu_19524614.mp3 Beste lurraldeetan iraultza ez bultzatzea erabaki zuen.
+cv_eus_000005 common_voice_eu_18898565.mp3 Errepidean barrena egin behar dira lehen urratsak.
+cv_eus_000006 common_voice_eu_18814044.mp3 Jan ase arte eta on egin!
+cv_eus_000007 common_voice_eu_29837051.mp3 Olerkia Julen Lekuonak egindakoa da.
+cv_eus_000008 common_voice_eu_24370727.mp3 Kristalezko Jauregia, parkearen hegoaldeko zatian eraiki zen.
+cv_eus_000009 common_voice_eu_22344602.mp3 San Joan elizaren aztarnak gelditzen dira.
+cv_eus_000010 common_voice_eu_29064230.mp3 Libiako erreginagatik hala deitua, oso ederra zena.
+cv_eus_000011 common_voice_eu_29061639.mp3 Honela konturatu zen fortuna boterearen erantzukizunarekin zetorrela.
+cv_eus_000012 common_voice_eu_18861495.mp3 Ikasle batek baimena eman dit bere ikasturteko kronika hona kopiatzeko.
+cv_eus_000013 common_voice_eu_19011216.mp3 Batek daki hori egia den ala ez.
+cv_eus_000014 common_voice_eu_29044710.mp3 Eduardo bere anai nagusia txirrindulari profesionala ere bazen.
+cv_eus_000015 common_voice_eu_31170294.mp3 Gaur egun, bizarra erabiltzea moda kontua baino ez da.
+cv_eus_000016 common_voice_eu_22344564.mp3 ez
+cv_eus_000017 common_voice_eu_19431857.mp3 Anek leku bereziki eder eta interesgarrien bloga sortu du.
+cv_eus_000018 common_voice_eu_21652402.mp3 Hainbat pelikula ere egin ziren.
+cv_eus_000019 common_voice_eu_29824986.mp3 Familia judutar batean jaio zen.
+cv_eus_000020 common_voice_eu_30479797.mp3 Aita hil ondoren, berriz, hamar urterekin, Bartzelonara itzuli zen.
+cv_eus_000021 common_voice_eu_29861531.mp3 Lautada hau oso aproposa da nekazaritza eta abeltzaintzarako.
+cv_eus_000022 common_voice_eu_19544323.mp3 Aplikazio benetan erabilerraza da oso.
+cv_eus_000023 common_voice_eu_18278254.mp3 Baina kostua handia izan da.
+cv_eus_000024 common_voice_eu_19786765.mp3 Aplikazio benetan erabilerraza da oso.
+cv_eus_000025 common_voice_eu_19508566.mp3 Garaia da behingoz argitzeko zer gertatu den.
+cv_eus_000026 common_voice_eu_21699139.mp3 Hegazti harraparia da, hegoak eta isatsa luzeak dituena.
+cv_eus_000027 common_voice_eu_19509858.mp3 Athleticeko jokalari izateko, ez da euskararik jakin behar.
+cv_eus_000028 common_voice_eu_18999671.mp3 Termino horiek erabiltzen baititu artearen sistemak.
+cv_eus_000029 common_voice_eu_20155075.mp3 Asmoa zuri bakarrik aitortuko dizut txoko hau topatu duzula saritzeko.
+cv_eus_000030 common_voice_eu_18541388.mp3 Nolako harremanak eraiki elkarren artean?
+cv_eus_000031 common_voice_eu_18975080.mp3 Neska baten buruzapiaren inguruan guztiek dute zer esan.
+cv_eus_000032 common_voice_eu_29064611.mp3 Normalean, hiri handiek izaten dute udal polizia hau.
+cv_eus_000033 common_voice_eu_19790520.mp3 Gauzak aldatzen ari dira, baina...
+cv_eus_000034 common_voice_eu_21076863.mp3 Interneten erabiltzen dugun izena geure identitate digitalaren oinarri da.
+cv_eus_000035 common_voice_eu_29035741.mp3 Eraginkorra izan arren, aplikazio batzuetarako ez da gomendagarria.
+cv_eus_000036 common_voice_eu_29064598.mp3 Errege honi buruzko berriak jatorri mitologikoa dute batik bat.
+cv_eus_000037 common_voice_eu_19589700.mp3 Aieneen Harresia edo Erosten Harresia judutarrentzat toki sakratua da.
+cv_eus_000038 common_voice_eu_22343382.mp3 sei
+cv_eus_000039 common_voice_eu_18620417.mp3 Nire jaraunsleek ez lukete ezer irabaziko nire kontura hortik aurrera.
+cv_eus_000040 common_voice_eu_18257925.mp3 Txalapartak ate piloa irekitzen du.
+cv_eus_000041 common_voice_eu_29062075.mp3 Euskarazko telebista zerbitzu hurbila emateko helburua izan dute hasieratik.
+cv_eus_000042 common_voice_eu_29062077.mp3 Jaiotzez madrildarra den arren, Aragoin bizi da.
+cv_eus_000043 common_voice_eu_29060241.mp3 Bilbon jaioa bazen ere, umea zenetik Amurrion bizi zen.
+cv_eus_000044 common_voice_eu_29060244.mp3 Orbita erretrogradoa, oso inklinatua eta oso eszentrikoa du.
+cv_eus_000045 common_voice_eu_18590625.mp3 Gutxi dira halako talde amorratuak.
+cv_eus_000046 common_voice_eu_18590627.mp3 Prentsak hainbat eraso jaso ditu.
+cv_eus_000047 common_voice_eu_19514007.mp3 Nola konprenitu bertzela halako euskarafobia eta erraiten dituzten astakeriak?
+cv_eus_000048 common_voice_eu_19514036.mp3 Eliteak eraldatu egiten direla beti.
+cv_eus_000049 common_voice_eu_18541279.mp3 Bigarren Mundu Gerran ere arma kontrabandoan aritu zen, nagusiki estatubatuarrentzat.
+cv_eus_000050 common_voice_eu_18541280.mp3 Murrizketak barkarazteko edota atzenarazteko asmoz alderdiek bulkaturiko prozesu ofiziala, bertzetik.
+cv_eus_000051 common_voice_eu_21686882.mp3 Polizia auto batek zapaldu ere egin zuen, tiro haren ondoren.
+cv_eus_000052 common_voice_eu_21686885.mp3 Hasieran konpainia bereko taldeen artean jokatu zituzten partidak.
+cv_eus_000053 common_voice_eu_18545198.mp3 Mukizapi horiek bi geruzatan banatuta daude.
+cv_eus_000054 common_voice_eu_18545200.mp3 Gai batzuek epe luzera begiratuko dute.
+cv_eus_000055 common_voice_eu_18578889.mp3 Podiumak bultzatuta, pisua behartzeko prest.
+cv_eus_000056 common_voice_eu_18578890.mp3 Ni astronauta banintz ez nintzateke itzuliko.
+cv_eus_000057 common_voice_eu_22343432.mp3 bat
+cv_eus_000058 common_voice_eu_22343433.mp3 lau
+cv_eus_000059 common_voice_eu_29061276.mp3 Bere ikasleak etorkizuneko irakasleak izango zirela uste zuen.
+cv_eus_000060 common_voice_eu_29061279.mp3 Behin mugimendu separatista osatu ondoren.
+cv_eus_000061 common_voice_eu_29062378.mp3 Egun, turismo-gune ospetsua da Korean.
+cv_eus_000062 common_voice_eu_29062380.mp3 Erromatarrek hainbat kolonia edo hiri eraiki zituzten.
+cv_eus_000063 common_voice_eu_21657400.mp3 Bertan hodi drainatzaile bat erabiltzen da.
+cv_eus_000064 common_voice_eu_21657402.mp3 Betidanik irlandar oihu abertzalea izan da.
+cv_eus_000065 common_voice_eu_18553274.mp3 Mila bederatziehun eta hogeita hemeretzigarren urtean beste gerra hasi zen.
+cv_eus_000066 common_voice_eu_18553278.mp3 Baina zer da sinesgarritasuna zelofanezko mundu honetan?
+cv_eus_000067 common_voice_eu_18866525.mp3 Nanette ikusi ondoren, nire gorputzari buruzko monologoaren amaiera aldatu dut.
+cv_eus_000068 common_voice_eu_18866528.mp3 Elikagaiak eta sendagaiak ematen dizkio baserriak bere buruari.
+cv_eus_000069 common_voice_eu_21654472.mp3 Ospe handia lortu zuen Europa guztian.
+cv_eus_000070 common_voice_eu_21654473.mp3 Udalerriko ekonomia laborantzan dago oinarriturik.
+cv_eus_000071 common_voice_eu_21665561.mp3 Taldea desagertu ondoren, partaideek hainbat proiektu ezberdinetan hartu zuten parte.
+cv_eus_000072 common_voice_eu_21665563.mp3 Motor sortak hainbat aukera zeukan, teknologia aurreratuarekin.
+cv_eus_000073 common_voice_eu_22362867.mp3 Monumentuak, hilobiak eta irudi askeak ere egin zituen.
+cv_eus_000074 common_voice_eu_22362868.mp3 Azkenik, Unibertsitateak berak bere unitate didaktikoak argitaratzen ditu.
+cv_eus_000075 common_voice_eu_21665752.mp3 Orokorrean eskualde euritsua da, inguruko beste herrialdeekin konparatuz gero gutxienez.
+cv_eus_000076 common_voice_eu_21665754.mp3 Artxandako kasinoan bazkaria egin eta bertan hainbat hitzaldi eskaini ziren.
+cv_eus_000077 common_voice_eu_29802461.mp3 Arnas gaixotasun kroniko eta kutsatzailea da, beraz.
+cv_eus_000078 common_voice_eu_29824782.mp3 Arkitekto etxe honek berak ere Plaza Hotela eraiki zuen.
+cv_eus_000079 common_voice_eu_18859172.mp3 Kupela amaitu orduko denok mozkortuko zarete.
+cv_eus_000080 common_voice_eu_18859176.mp3 Eta zer gertatzen da fitxategi hauekin?
+cv_eus_000081 common_voice_eu_29062070.mp3 Kazetaritzako Eskola Ofizialean graduatu zen.
+cv_eus_000082 common_voice_eu_29062071.mp3 Bigarren Mundu Gerran aritutako azken presidentea izan zen.
+cv_eus_000083 common_voice_eu_19517295.mp3 Kontua zen ea zeintzuk izan ote diren aurtengo libururik onenak.
+cv_eus_000084 common_voice_eu_19517356.mp3 Xabier Amurizak ondo deskribatu du garai horretako mugimendua bere lanetan.
+cv_eus_000085 common_voice_eu_21653614.mp3 Gaur egun zortzi subespezie onartuta daude.
+cv_eus_000086 common_voice_eu_21653622.mp3 Lokomozio-aparatuaren atala da, gihar sistemarekin batera.
+cv_eus_000087 common_voice_eu_18620364.mp3 Irlaren beste aldean piratak omen daude.
+cv_eus_000088 common_voice_eu_18620365.mp3 Eskastu hil ere bai baita.
+cv_eus_000089 common_voice_eu_21662653.mp3 Hona hemen ordenako generoen bilakaera.
+cv_eus_000090 common_voice_eu_21662654.mp3 Zine eta telebista aktore ere izan zen.
+cv_eus_000091 common_voice_eu_21662655.mp3 Dinastiako erregeen aldetik jasan zuen jazarpenagatik.
+cv_eus_000092 common_voice_eu_29062136.mp3 Etxeko lau anaiak musikari bilakatu ziren.
+cv_eus_000093 common_voice_eu_29062137.mp3 Eskualde guztia itsasoan hondoratu zen Haserrearen Gerraren ondoren.
+cv_eus_000094 common_voice_eu_29062138.mp3 Donejakue bideko Ondare Kulturala bezala izendatuta dago.
+cv_eus_000095 common_voice_eu_29062195.mp3 Proletarioen lana, ekoizpen-bideak zentralizatzea dela esaten du.
+cv_eus_000096 common_voice_eu_29062235.mp3 Zinean aktore bezala ere aritu da.
+cv_eus_000097 common_voice_eu_29062236.mp3 Kolorez, marroi gorrixka da, baina orban zuriak ere baditu gorputzean.
+cv_eus_000098 common_voice_eu_18940943.mp3 Guk, eskola publikoan, Windows zazpi hori erabiltzen dugu.
+cv_eus_000099 common_voice_eu_18940945.mp3 Katalanek azken hamarkadatan zezenari adarretatik heldu diotela diozu.
+cv_eus_000100 common_voice_eu_18940979.mp3 Udazkena bera eta batez ere negua gozatuko duten jakiak dira.
+cv_eus_000101 common_voice_eu_21672624.mp3 Alde honetako bilbadura harlangaitzez estalia dago.
+cv_eus_000102 common_voice_eu_21672625.mp3 Bere izena aurkitzailearen koinatagatik jasotzen du.

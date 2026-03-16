@@ -1,0 +1,170 @@
+cv_bre_000000 common_voice_br_18482780.mp3 Dre lies hent on deuet.
+cv_bre_000001 common_voice_br_21513369.mp3 An eil hag egile.
+cv_bre_000002 common_voice_br_17977507.mp3 Re nebeut a zo deuet da reiñ dorn dimp.
+cv_bre_000003 common_voice_br_23892739.mp3 c'hwec'h
+cv_bre_000004 common_voice_br_18900835.mp3 hor re.
+cv_bre_000005 common_voice_br_19325014.mp3 en noz-se end-eeun e oa aet kuit diouzh ar gêr.
+cv_bre_000006 common_voice_br_19352124.mp3 Plaen ha kompez.
+cv_bre_000007 common_voice_br_18728547.mp3 Petra a ra an dud amañ ?
+cv_bre_000008 common_voice_br_19893876.mp3 Ya.
+cv_bre_000009 common_voice_br_19893880.mp3 Mont a reot gant an nijerez pe gant an tren ?
+cv_bre_000010 common_voice_br_21726142.mp3 goulenn a ra ar roue ma teuio e vestr-a-di.
+cv_bre_000011 common_voice_br_22712493.mp3 Bep ar mare.
+cv_bre_000012 common_voice_br_18151127.mp3 deut 'oa ar Beatles da ganañ.
+cv_bre_000013 common_voice_br_18151128.mp3 Piv en deus kemeret perzh ?
+cv_bre_000014 common_voice_br_19126911.mp3 Unan bennak.
+cv_bre_000015 common_voice_br_19126912.mp3 Me 'm eus eñ gwelet.
+cv_bre_000016 common_voice_br_18900754.mp3 Ur sikour talvoudus e vefe evito.
+cv_bre_000017 common_voice_br_18900757.mp3 Disfiz o doa evel te ha me.
+cv_bre_000018 common_voice_br_18504339.mp3 Hag o vont da skoazellañ anezhi emaoc'h ?
+cv_bre_000019 common_voice_br_18504342.mp3 En ur gêr.
+cv_bre_000020 common_voice_br_20323762.mp3 Paeañ a rin an tikedoù.
+cv_bre_000021 common_voice_br_20323767.mp3 Ent-bev e oa bet paket al louarn.
+cv_bre_000022 common_voice_br_18392655.mp3 dilun e vin amañ.
+cv_bre_000023 common_voice_br_18392656.mp3 ar plant-mañ eo dav dourañ anezho.
+cv_bre_000024 common_voice_br_17961853.mp3 Petra eo an Tram-Tren ?
+cv_bre_000025 common_voice_br_17961854.mp3 Daoust ha kevredidi Alamagn a chomo he cʼhevredidi da viken ?
+cv_bre_000026 common_voice_br_17363451.mp3 Hennezh wenn.
+cv_bre_000027 common_voice_br_17363452.mp3 N'on ket sur em eus lazhet ar gouloù a-raok mont er-maez.
+cv_bre_000028 common_voice_br_17363453.mp3 Penaos ha pelecʼh e cʼhaller bezañ stummet ?
+cv_bre_000029 common_voice_br_17337747.mp3 Glav a vo hiziv, a soñj deoc'h ?
+cv_bre_000030 common_voice_br_17337748.mp3 Ha koulz eo cʼhoazh da saveteiñ ar brezhoneg ?
+cv_bre_000031 common_voice_br_17337749.mp3 Kudennoù kalon am eus.
+cv_bre_000032 common_voice_br_17332503.mp3 deus digwener.
+cv_bre_000033 common_voice_br_17332504.mp3 lârit un dra bennak.
+cv_bre_000034 common_voice_br_17332505.mp3 Labourat a ra ho kwreg ?
+cv_bre_000035 common_voice_br_26069561.mp3 Ar frouezh a vez gwerzhet war ar marc'had.
+cv_bre_000036 common_voice_br_26081968.mp3 An traoù na blijont ket din.
+cv_bre_000037 common_voice_br_26204460.mp3 da vreur.
+cv_bre_000038 common_voice_br_17983197.mp3 Fall-put.
+cv_bre_000039 common_voice_br_17983198.mp3 Pelecʼh emañ ar roadennoù diavaez ?
+cv_bre_000040 common_voice_br_17983200.mp3 Saozneg.
+cv_bre_000041 common_voice_br_17349068.mp3 Eus peseurt liv ?
+cv_bre_000042 common_voice_br_17349069.mp3 Ha bez’ ez eus nemedennoù ?
+cv_bre_000043 common_voice_br_17349070.mp3 ez ti.
+cv_bre_000044 common_voice_br_18035105.mp3 Ur bern traoù zo ganin da zebriñ.
+cv_bre_000045 common_voice_br_18035107.mp3 Evidon-me, ned int ket.
+cv_bre_000046 common_voice_br_18035108.mp3 Dedennet on gant al levr-mañ.
+cv_bre_000047 common_voice_br_18035109.mp3 sur out e karin.
+cv_bre_000048 common_voice_br_19542671.mp3 Deuet e oa hep bezañ pedet.
+cv_bre_000049 common_voice_br_19542672.mp3 N'ouzon ket pere kemer.
+cv_bre_000050 common_voice_br_19542673.mp3 Petra eo ar re-se ?
+cv_bre_000051 common_voice_br_19542674.mp3 Goulenn a ra ma paeo.
+cv_bre_000052 common_voice_br_17969318.mp3 Naon/Sec'hed am eus.
+cv_bre_000053 common_voice_br_17969319.mp3 da c'hoar a garas.
+cv_bre_000054 common_voice_br_17969320.mp3 Div eur goude hanternoz.
+cv_bre_000055 common_voice_br_17969321.mp3 Abalamour dezhañ e kouezh an avaloù war an douar !
+cv_bre_000056 common_voice_br_17970235.mp3 Penaos dont da vezañ ezel eus ar bodadoù ?
+cv_bre_000057 common_voice_br_17970236.mp3 Skuizh on.
+cv_bre_000058 common_voice_br_17970237.mp3 Pegoulz eo bet amañ ?
+cv_bre_000059 common_voice_br_17970238.mp3 daou ha daou-ugent.
+cv_bre_000060 common_voice_br_17962676.mp3 pevar olifant ha tregont.
+cv_bre_000061 common_voice_br_17962677.mp3 Feurmiñ ur film a fell deoc'h ?
+cv_bre_000062 common_voice_br_17962678.mp3 Ha kavet az peus anezho ?
+cv_bre_000063 common_voice_br_17962679.mp3 Gallout a ra ho skoazellañ ?
+cv_bre_000064 common_voice_br_18143084.mp3 hemañ eo da hini.
+cv_bre_000065 common_voice_br_18143091.mp3 beuzet eo bet er mor.
+cv_bre_000066 common_voice_br_18143094.mp3 Ne fell ket din direnkañ ac'hanoc'h.
+cv_bre_000067 common_voice_br_18143095.mp3 c'hoant am bije da gaout un emgav ganit evit meur a raktres.
+cv_bre_000068 common_voice_br_17967351.mp3 Ur plac'h oc'h ?
+cv_bre_000069 common_voice_br_17967353.mp3 Gwelet em eus pemp anezho.
+cv_bre_000070 common_voice_br_17967354.mp3 Yen eo bet e miz Genver.
+cv_bre_000071 common_voice_br_17967355.mp3 e benn.
+cv_bre_000072 common_voice_br_17451968.mp3 re vrav eo ar plac'h-mañ.
+cv_bre_000073 common_voice_br_17451969.mp3 ar re zu.
+cv_bre_000074 common_voice_br_17451970.mp3 amzer domm zo.
+cv_bre_000075 common_voice_br_17451971.mp3 Un tamm dihet on.
+cv_bre_000076 common_voice_br_17878606.mp3 un tamm arc'hant.
+cv_bre_000077 common_voice_br_17878607.mp3 Kompren a ran.
+cv_bre_000078 common_voice_br_17878609.mp3 Poan en deus bet en e c'har.
+cv_bre_000079 common_voice_br_17878610.mp3 Gallout a rit treiñ an dra-mañ din ?
+cv_bre_000080 common_voice_br_17970495.mp3 Pevar mil litrad dour.
+cv_bre_000081 common_voice_br_17970496.mp3 peder c'hador vras.
+cv_bre_000082 common_voice_br_17970498.mp3 War an diwezhañ pajenn eo skrivet.
+cv_bre_000083 common_voice_br_17970499.mp3 ur re loeroù.
+cv_bre_000084 common_voice_br_17961838.mp3 Bloavezh mat dezho !
+cv_bre_000085 common_voice_br_17961839.mp3 lenn a rit-c'hwi.
+cv_bre_000086 common_voice_br_17961840.mp3 kerzh.
+cv_bre_000087 common_voice_br_17961841.mp3 lenn a ra-eñ.
+cv_bre_000088 common_voice_br_17799555.mp3 Piv a sikouro ac'hanoc'h ?
+cv_bre_000089 common_voice_br_17799556.mp3 da win.
+cv_bre_000090 common_voice_br_17799557.mp3 bras a-walc'h.
+cv_bre_000091 common_voice_br_17799558.mp3 Gwener : un ifern !
+cv_bre_000092 common_voice_br_17799559.mp3 An dud-se ne zebront tamm frouezh ebet.
+cv_bre_000093 common_voice_br_17962731.mp3 Deocʼh-cʼhwi da cʼhoari !
+cv_bre_000094 common_voice_br_17962732.mp3 daou di gwenn ha tregont.
+cv_bre_000095 common_voice_br_17962733.mp3 E-leizh n'o deus ti ebet zoken.
+cv_bre_000096 common_voice_br_17962734.mp3 derc'hent-dec'h edo o walc'hiñ gwer ar prenestroù.
+cv_bre_000097 common_voice_br_17962735.mp3 sur on e karfent.
+cv_bre_000098 common_voice_br_17801010.mp3 ar bleiz hag an tri femoc'h bihan.
+cv_bre_000099 common_voice_br_17801011.mp3 Fentus eo.
+cv_bre_000100 common_voice_br_17801012.mp3 evit ma pesketfed.
+cv_bre_000101 common_voice_br_17801013.mp3 karet a raio ma mamm.
+cv_bre_000102 common_voice_br_17801014.mp3 Kit war-eeun ! Goude troit a-gleiz/ a-zehoù !
+cv_bre_000103 common_voice_br_17972574.mp3 Gwir eo ?
+cv_bre_000104 common_voice_br_17972575.mp3 ker eo koustet deomp.
+cv_bre_000105 common_voice_br_17972576.mp3 Alvokad eo ma zad.
+cv_bre_000106 common_voice_br_17972577.mp3 teir flac'h.
+cv_bre_000107 common_voice_br_17972578.mp3 Gwall vrav eo.
+cv_bre_000108 common_voice_br_17961887.mp3 Trugarez evt ho skoazell.
+cv_bre_000109 common_voice_br_17961888.mp3 Ouzhpenn div verc'h he deus.
+cv_bre_000110 common_voice_br_17961889.mp3 Perak emaoc'h o c'hoarzhin ?
+cv_bre_000111 common_voice_br_17961890.mp3 pevar warn-ugent.
+cv_bre_000112 common_voice_br_17961891.mp3 mar plij.
+cv_bre_000113 common_voice_br_21485157.mp3 N'eus kreion melen ebet ganin.
+cv_bre_000114 common_voice_br_21485252.mp3 Kit kuit !
+cv_bre_000115 common_voice_br_21496449.mp3 Trugarez.
+cv_bre_000116 common_voice_br_23822167.mp3 lenn ar rubrikenn deskadurezh/stummadurezh.
+cv_bre_000117 common_voice_br_23872503.mp3 pemp
+cv_bre_000118 common_voice_br_19308075.mp3 em c'hambr.
+cv_bre_000119 common_voice_br_19308077.mp3 Debret o deus leizh o c'hof.
+cv_bre_000120 common_voice_br_19308078.mp3 Skoet eo bet ma c'harr gant ur c'harr all.
+cv_bre_000121 common_voice_br_19308099.mp3 An nevesañ anezhe.
+cv_bre_000122 common_voice_br_19308100.mp3 karet on bet.
+cv_bre_000123 common_voice_br_19308101.mp3 Tregeriz zo goaperien.
+cv_bre_000124 common_voice_br_22809452.mp3 Plac'h-er-gêr on.
+cv_bre_000125 common_voice_br_22809690.mp3 Trugarez en a-raok !
+cv_bre_000126 common_voice_br_22809990.mp3 Trugarez vras.
+cv_bre_000127 common_voice_br_22810082.mp3 Pegoulz eo bet digoret an nor ganeoc'h ?
+cv_bre_000128 common_voice_br_22810136.mp3 Brav 'vo an amzer ? - Bezañ a-walc'h.
+cv_bre_000129 common_voice_br_22810259.mp3 Petra eo raktresoù ar Cʼhuzul-rannvro evit kas al lenn war-raok ?
+cv_bre_000130 common_voice_br_17766803.mp3 Cheñchamantoù bras zo bet.
+cv_bre_000131 common_voice_br_17766805.mp3 Ur gador all.
+cv_bre_000132 common_voice_br_17766807.mp3 Un tregont den bennak.
+cv_bre_000133 common_voice_br_17766843.mp3 arabat dont amañ.
+cv_bre_000134 common_voice_br_17766845.mp3 ar pal a oa mont d’ar Merc’her beure pa vez un tamm muioc’h a amzer gant familhoù zo sañset.
+cv_bre_000135 common_voice_br_17766847.mp3 An trede diwezhañ.
+cv_bre_000136 common_voice_br_18646704.mp3 Bet e oa a llaer en ti hep na vijen bet dihunet.
+cv_bre_000137 common_voice_br_18646705.mp3 ya.
+cv_bre_000138 common_voice_br_18646706.mp3 Krediñ a ran ac'hanoc'h.
+cv_bre_000139 common_voice_br_18646707.mp3 Digeriñ a ra an nor ?
+cv_bre_000140 common_voice_br_18646711.mp3 unan hag hanter-kant.
+cv_bre_000141 common_voice_br_18646712.mp3 Den ebet.
+cv_bre_000142 common_voice_br_18169586.mp3 N'haller ket dont a-benn eus netra pa vezer nec'het evel-se.
+cv_bre_000143 common_voice_br_18169587.mp3 pevar c'hoari dedennus warn-ugent.
+cv_bre_000144 common_voice_br_18169593.mp3 En armel.
+cv_bre_000145 common_voice_br_18169600.mp3 Krecʼhin lapin !
+cv_bre_000146 common_voice_br_18169601.mp3 Emañ Ravi o kanañ ur ganaouenn ?
+cv_bre_000147 common_voice_br_18169602.mp3 sec'hed az peus.
+cv_bre_000148 common_voice_br_18169604.mp3 Gallout a rit kavout ac'hanomp.
+cv_bre_000149 common_voice_br_19446746.mp3 n'eus ket bet anv e lezfe e blas dezhi gwech ebet.
+cv_bre_000150 common_voice_br_19446748.mp3 ne ra nemet klemm a-hed an deiz.
+cv_bre_000151 common_voice_br_19446749.mp3 Graet eo ar gwestell gant bleud ha vioù.
+cv_bre_000152 common_voice_br_19446750.mp3 Eñ a vleino.
+cv_bre_000153 common_voice_br_19446751.mp3 Ul loaiad hanter.
+cv_bre_000154 common_voice_br_19446752.mp3 Hon digarezit, ne zegemeromp ket ar c'hartennoù-kred.
+cv_bre_000155 common_voice_br_19446755.mp3 En-dro d'ar brasenn.
+cv_bre_000156 common_voice_br_18081133.mp3 re vras eo.
+cv_bre_000157 common_voice_br_18081134.mp3 mont a raimp d'ar sinema mar bez amzer.
+cv_bre_000158 common_voice_br_18081135.mp3 Eus Boston eo ho kwaz ivez ?
+cv_bre_000159 common_voice_br_18081143.mp3 ankeniet-bras eo Youenn anat deoc'h.
+cv_bre_000160 common_voice_br_18081144.mp3 Aesaet-kaer eo bet an traoù.
+cv_bre_000161 common_voice_br_18081146.mp3 int eo.
+cv_bre_000162 common_voice_br_18081147.mp3 skol Montroulez.
+cv_bre_000163 common_voice_br_32547003.mp3 Met peseurt diforcʼh zo etre ur steredenn hag ur blanedenn ?
+cv_bre_000164 common_voice_br_32547086.mp3 A wir galon.
+cv_bre_000165 common_voice_br_32547102.mp3 Da biv e roi da brof ?
+cv_bre_000166 common_voice_br_32547131.mp3 Ha degas a raio cheñchamantoù ?
+cv_bre_000167 common_voice_br_32547140.mp3 Dont a ran en-dro diouzhtu.
+cv_bre_000168 common_voice_br_32547155.mp3 trugarez evit da respontoù.
+cv_bre_000169 common_voice_br_32547271.mp3 eno 'zo tud.

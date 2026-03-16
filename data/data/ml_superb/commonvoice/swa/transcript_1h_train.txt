@@ -1,0 +1,589 @@
+cv_swa_000000 common_voice_sw_31428161.mp3 wachambuzi wa soka wanamtaja Messi kama nyota hatari zaidi duniani
+cv_swa_000001 common_voice_sw_30317714.mp3 romario aliingia kwenye orodha ya wachezaji waliyofanya vizuri kwenye michuano
+cv_swa_000002 common_voice_sw_32116997.mp3 Sote twesangaa twelipomuona mwalimu Ali apika
+cv_swa_000003 common_voice_sw_29002392.mp3 Inajulikana kama shina la Warangi.
+cv_swa_000004 common_voice_sw_32436603.mp3 Mwidhi aliyejepa simu amekatiwa kifungo cha mwaka mmoya
+cv_swa_000005 common_voice_sw_31292870.mp3 Serikali za Tanzania na Kenya hutunza idadi kadhaa ya maeneo yaliyotengwa
+cv_swa_000006 common_voice_sw_28581699.mp3 Hasa aliandika riwaya na mashairi.
+cv_swa_000007 common_voice_sw_32436632.mp3 Hachufungi idirisha la mwisho.
+cv_swa_000008 common_voice_sw_30644965.mp3 hayati baba wa taifa alituachia misingi ya demokrasia
+cv_swa_000009 common_voice_sw_30621409.mp3 Ukianza kutumia baada ya wiki mbili huonesha mabadiliko
+cv_swa_000010 common_voice_sw_31290838.mp3 Tanzanite na kobal bila kusahau Nikeli na madini mengine yanayopatikana katika ardhi ya Afrika
+cv_swa_000011 common_voice_sw_31695441.mp3 Serikali ilipatana na upande mmoja na upande mwingine
+cv_swa_000012 common_voice_sw_31292410.mp3 La hasha karume alikuwa ni kiongozi mwenye maono ubunifu na mapenzi na wananchi wake
+cv_swa_000013 common_voice_sw_32304696.mp3 Fatuma halidumba kuolegwa.
+cv_swa_000014 common_voice_sw_32252201.mp3 Yaa husuliwa chaka dha mai a isi.
+cv_swa_000015 common_voice_sw_28266617.mp3 Alipenda kuimba na daima alitaka kuimba.
+cv_swa_000016 common_voice_sw_31408794.mp3 kumtambua blob ni kazi kubwa sana
+cv_swa_000017 common_voice_sw_31275515.mp3 Maradona atakumbukwa kwa bao lake la mkono
+cv_swa_000018 common_voice_sw_28261304.mp3 Watalii wanapenda sehemu hii kwa sababu hakuna baridi.
+cv_swa_000019 common_voice_sw_30341871.mp3 Baada ya kuwashauri wenzake Abeid Karume alipata watu sita
+cv_swa_000020 common_voice_sw_30691151.mp3 Akawaambia wananchi wake kwamba wakoloni wakirusha silaha waseme maji
+cv_swa_000021 common_voice_sw_31440451.mp3 Kuwa ni kitovu cha harakati za ukombozi wa Afrika kusini
+cv_swa_000022 common_voice_sw_31855772.mp3 "Imani ni kuamini, huruma ni huruma"
+cv_swa_000023 common_voice_sw_31346562.mp3 Baada ya wapelelezi kupeleka tarifa na ramani
+cv_swa_000024 common_voice_sw_31360119.mp3 jakaya Kikwete alimteua kuwa waziri wa muungano
+cv_swa_000025 common_voice_sw_33443618.mp3 la Urusi Tuvans Khakass Altai Chuvash wana jimbo
+cv_swa_000026 common_voice_sw_30605562.mp3 chama cha mapinduzi kilikuwa kinapewa nafasi kubwa sana ya kushinda
+cv_swa_000027 common_voice_sw_31442996.mp3 Hali ya hewa ya Jiji la Tanga ni kama ile ya maeneo ya Pwani
+cv_swa_000028 common_voice_sw_28765289.mp3 Nchi mbalimbali zina kanuni za ulinzi wa mazingira.
+cv_swa_000029 common_voice_sw_31855728.mp3 Mwana kilizi ka nini /kamani/kama nini
+cv_swa_000030 common_voice_sw_31292892.mp3 Wabilikimo Wa kwanza wanaendelezwa na wajukuu wao
+cv_swa_000031 common_voice_sw_29159151.mp3 Alifanya hivyo ingawa alipenda zaidi maisha ya ndani ya monasteri.
+cv_swa_000032 common_voice_sw_29162779.mp3 Mac-Auley alihitimu na shahada ya Kiingereza katika Delta State university.
+cv_swa_000033 common_voice_sw_28660506.mp3 Ni kati ya miji ya kwanza iliyoundwa na Wahispania katika Amerika Kusini.
+cv_swa_000034 common_voice_sw_32436586.mp3 Vadhee va dhamani valichwambia sungura ni n'janja
+cv_swa_000035 common_voice_sw_31932362.mp3 Wataarifu wezi wenzako waliopo kule watoke
+cv_swa_000036 common_voice_sw_31932371.mp3 Yule mama adondoa mtele
+cv_swa_000037 common_voice_sw_30644447.mp3 Kridinal Adam Stefan Sapieah alikuwa askofu mkuu wa kanisa katoriki
+cv_swa_000038 common_voice_sw_30644453.mp3 Anasema baada ya hapo ulikuja utawala wa Mahdali na ujenzi uliimarishwa zaidi
+cv_swa_000039 common_voice_sw_32366364.mp3 Kingiyacho mjini si haramu
+cv_swa_000040 common_voice_sw_32366407.mp3 Watoto watukutu wamfuja mimeangwa
+cv_swa_000041 common_voice_sw_30642034.mp3 Wajerumani wakaifanya Bagamoyo kuwa makao yao makuu ya utawala katika Afrika ya Mashariki
+cv_swa_000042 common_voice_sw_30642035.mp3 wamasai wameishi ngorongoro kwa zaidi ya miaka mia moja na hamsini
+cv_swa_000043 common_voice_sw_31365653.mp3 Natamani kulificha mtu asiweze kuliona wala kulidhihaki ua langu la thamani
+cv_swa_000044 common_voice_sw_31365654.mp3 Warsha hizi zilikuwa zinafanyika Chuo Kikuu cha Kilimo na Teknolojia cha Jomo Kenyatta.
+cv_swa_000045 common_voice_sw_28929603.mp3 Mgawanyo wa madaraka si jambo jipya katika historia.
+cv_swa_000046 common_voice_sw_28929768.mp3 Anachezea timu ya taifa ya Kenya.
+cv_swa_000047 common_voice_sw_31504487.mp3 maporomoko ya kimani yanapatikana ndani ya pori la akiba la mpanga kipengere
+cv_swa_000048 common_voice_sw_31504488.mp3 Maradona hakuwa kocha aliyefanya vizuri
+cv_swa_000049 common_voice_sw_31071421.mp3 Natumai kwamba nitawatia moyo watu wengine kujitokeza na kuikwea milima yao
+cv_swa_000050 common_voice_sw_31071423.mp3 sababu ulikuwa mwaka ambao ilifanya maamuzi nyeti
+cv_swa_000051 common_voice_sw_31358180.mp3 Biashara hiyo ikabadilisha muonekano wa mji wa Zanzibar
+cv_swa_000052 common_voice_sw_31358181.mp3 bunge ni moja kati ya mihimili mikuu ya taifa la tanzania
+cv_swa_000053 common_voice_sw_30658356.mp3 Huonekana kama pazia kubwa jeupe nyakati za mchana
+cv_swa_000054 common_voice_sw_30658359.mp3 Katika karne ya kumi na sita Wareno walikuwa mstari wa mbele katika biashara hii
+cv_swa_000055 common_voice_sw_34815430.mp3 kunalo pia kabila la mwere kutoka juu ya mto nile
+cv_swa_000056 common_voice_sw_34815428.mp3 ulienea haraka toka Yerusalemu hata Lida Yafa Kaisaria Samaria Damasko
+cv_swa_000057 common_voice_sw_32100185.mp3 Chia saini uipeke kadi kwa chifu.
+cv_swa_000058 common_voice_sw_32100186.mp3 Kuku wanga kanaata mayai maili
+cv_swa_000059 common_voice_sw_28581273.mp3 Kuna kiasi kidogo cha mvua.
+cv_swa_000060 common_voice_sw_28581276.mp3 Maamoun pia ni mwanachama wa "The Academy of the Arts of the World".
+cv_swa_000061 common_voice_sw_30711826.mp3 Na kuanza kuwa na hamu ya kujua zaidi kuhusu uwanja huu wa kitaaluma.
+cv_swa_000062 common_voice_sw_30711829.mp3 Usitumie glavu tena.
+cv_swa_000063 common_voice_sw_30585666.mp3 Rungwe unazidiwa urefu wa mita moja tu na Mlima Mtorwi
+cv_swa_000064 common_voice_sw_30585667.mp3 Yatupasa vijana kufuata malezi na maneno ya busara kutoka kwa wazazi wetu
+cv_swa_000065 common_voice_sw_28813912.mp3 Mifugo ilikuwa kazi ya Waafrika.
+cv_swa_000066 common_voice_sw_28813913.mp3 Pia alipata kuwa mmoja wa matajiri duniani kwa muda mfupi.
+cv_swa_000067 common_voice_sw_30574602.mp3 Uchumi wa mkoa unategemea zaidi kilimo ambacho huchangia kiasi cha asilimia sitini
+cv_swa_000068 common_voice_sw_30574617.mp3 Patrice Lumumba alijiunga na klabu ambazo zilikuwa za waafrika wenye elimu ya kibelgiji
+cv_swa_000069 common_voice_sw_31139631.mp3 kuingia fainali ya ulaya mara mbili mfululizo siyo rahisi
+cv_swa_000070 common_voice_sw_31139633.mp3 wanasayansi wengi walishindwa kubaini jinsia yake
+cv_swa_000071 common_voice_sw_28245620.mp3 Walikuwa na binti mmoja, Kelli, na baadaye talaka.
+cv_swa_000072 common_voice_sw_28245622.mp3 Makao makuu yalikuwa Ar-Raqqah, Syria.
+cv_swa_000073 common_voice_sw_31228883.mp3 Laki tisa arobaini na tano elfu na themanini na saba
+cv_swa_000074 common_voice_sw_31229049.mp3 Kinywa ni jumba la maneno
+cv_swa_000075 common_voice_sw_28259061.mp3 Mboga huwa sehemu za uzazi, kike na kiume katika mmea mmoja.
+cv_swa_000076 common_voice_sw_28259063.mp3 Polio ni ugonjwa wa mfumo mkuu wa neva.
+cv_swa_000077 common_voice_sw_30563097.mp3 Aliamka mapema sana jana
+cv_swa_000078 common_voice_sw_30563098.mp3 Twende tukatembee mjini usiku
+cv_swa_000079 common_voice_sw_31855759.mp3 Sogeza gari mbele.
+cv_swa_000080 common_voice_sw_31855760.mp3 "Imani ni kuamini, huruma ni huruma"
+cv_swa_000081 common_voice_sw_30585846.mp3 Huwa hawajui kupika samaki na ni wasiri sana
+cv_swa_000082 common_voice_sw_30585847.mp3 Ambapo kongosho hushindwa kuzalisha insulini kwa kiwango kinachohitajika mwilini
+cv_swa_000083 common_voice_sw_30621176.mp3 Wakati unatembelea familia:
+cv_swa_000084 common_voice_sw_30621182.mp3 Mtoto wa kwanza Joseph wa Ngao alitawazwa kuwa Chifu wa kizazi hicho
+cv_swa_000085 common_voice_sw_30623625.mp3 mazao ya biashara ni pamoja na korosho
+cv_swa_000086 common_voice_sw_30623626.mp3 Mwanangu anafanya kazi bandarini
+cv_swa_000087 common_voice_sw_31855574.mp3 Mwana ndhuri ni ule apendae kuridhiya vadhadhi vake.
+cv_swa_000088 common_voice_sw_31855895.mp3 "Mke wangu ambadilika sana, tabia zimebadilika, yaweza kuwa hata mavazi yake yamebadilika"
+cv_swa_000089 common_voice_sw_31855572.mp3 Huyu anzoea kupeleka watu atakavyo yeye
+cv_swa_000090 common_voice_sw_31855575.mp3 Wenda kuswali saa ngapi?
+cv_swa_000091 common_voice_sw_30604507.mp3 Simba alimfunga Yanga magoli matano
+cv_swa_000092 common_voice_sw_30604511.mp3 viongozi waliyopita walielewa umuhimu raisi mwinyi
+cv_swa_000093 common_voice_sw_31431320.mp3 lakini jina lake lilikuwa juu zaidi wakati Ufaransa inatwaa kombe la dunia
+cv_swa_000094 common_voice_sw_31431323.mp3 Pep alionekana kushindwa kuwapa kombe hilo
+cv_swa_000095 common_voice_sw_32304882.mp3 Mwenechu ndio mwenye mamlaka chuvoni
+cv_swa_000096 common_voice_sw_32304884.mp3 "Ni kipande, chochote"
+cv_swa_000097 common_voice_sw_31148899.mp3 Nimewapa maelezo yangu binafsi ya Kiswahili.
+cv_swa_000098 common_voice_sw_31148905.mp3 Watu waliamua kupaita eneo hilo kwa Mdigo
+cv_swa_000099 common_voice_sw_31375972.mp3 Hata hivyo bado fursa hii ipo na mahali pa kuanzia pia papo
+cv_swa_000100 common_voice_sw_31375973.mp3 Mwenye lake hawachi
+cv_swa_000101 common_voice_sw_30644690.mp3 Hubadilisha rangi kutoka Samawati hadi nyeusi
+cv_swa_000102 common_voice_sw_30644691.mp3 Kutokana na utafiti wa kiuchumi wa mwaka elfu mbili na tano
+cv_swa_000103 common_voice_sw_31896220.mp3 Nchu akipekwa kochini ruhu huva na kicho nno.
+cv_swa_000104 common_voice_sw_31896224.mp3 Kaka kalipa bili ya maji ya mwaka nzima
+cv_swa_000105 common_voice_sw_30644748.mp3 Aina mbalimbali za Samaki Mamba na viboko hupatikana katika mto huu
+cv_swa_000106 common_voice_sw_30644750.mp3 Alikataza mila za kilio kwa sababu alitaka kuficha idadi ya askari waliokufa
+cv_swa_000107 common_voice_sw_29381857.mp3 Miguu ya nyuma ina vidole vitano vyenye ngozi katikati.
+cv_swa_000108 common_voice_sw_29382045.mp3 Hawa ni hatari sana kwa sababu sumu yao ni kali sana.
+cv_swa_000109 common_voice_sw_28246195.mp3 Tatizo hilo la kimataifa ni kubwa zaidi katika nchi nyingi za Afrika.
+cv_swa_000110 common_voice_sw_28246197.mp3 Mikoa mitatu kati yake iko katika kisiwa cha Unguja.
+cv_swa_000111 common_voice_sw_28246199.mp3 Ugonjwa wa kisukari husababishwa na mwili kushindwa kuongoza kiwango cha sukari katika damu.
+cv_swa_000112 common_voice_sw_30712093.mp3 Pia anakuwa ni Rais wa kwanza mwanamke Mara tu baada ya taifa kutangaziwa kifo
+cv_swa_000113 common_voice_sw_30712094.mp3 Kwani ingawa lugha hii inasemekana kuwa na wazungumzaji.
+cv_swa_000114 common_voice_sw_30712096.mp3 ambazo zimeundwa ili kukinga na kupunguza
+cv_swa_000115 common_voice_sw_28246346.mp3 Kaisari aliamua pia kuhamisha mji mkuu kurudi tena Beijing.
+cv_swa_000116 common_voice_sw_28246365.mp3 Huu ni mji wa pili kwa ukubwa katika orodha ya miji ya Uturuki.
+cv_swa_000117 common_voice_sw_28246384.mp3 Magonjwa ya aina hiyo ni muhimu sana katika tiba ya binadamu na mifugo.
+cv_swa_000118 common_voice_sw_30637662.mp3 kwenye ziwa lenye maji yanayotiririka toka nyanda za juu za milima
+cv_swa_000119 common_voice_sw_30637663.mp3 Hakutokea kwenye picha za mchezo huo wala jina lake halikua kwenye orodha
+cv_swa_000120 common_voice_sw_30637664.mp3 Uhuru wa kila mmiliki wa mali miongoni mwa watu wazima
+cv_swa_000121 common_voice_sw_31893104.mp3 "Mimi nimemkatia huyu kipande katika ardhi yangu, katikati, nusu kwa nusu"
+cv_swa_000122 common_voice_sw_31893105.mp3 Kapata shilingi ngapi
+cv_swa_000123 common_voice_sw_31893176.mp3 Usidharau nkoko ndio uvao nlinga.
+cv_swa_000124 common_voice_sw_30574252.mp3 Tatizo hili limekuwa likiwasumbua hususani kipindi cha kukaribia mitihani
+cv_swa_000125 common_voice_sw_30574254.mp3 Jumuiya ya wachukuzi na umoja wa watumishi wa majumba ya wazungu
+cv_swa_000126 common_voice_sw_30574255.mp3 Jando na Unyago mamboleo inaweza ikaleta mapinduzi makubwa katika malezi kwa vijana
+cv_swa_000127 common_voice_sw_31292826.mp3 Kama jina la kiingereza linavyodokeza, inahusisha jinsi ya kufundisha mashine.
+cv_swa_000128 common_voice_sw_31292827.mp3 Wapo wachezaji ambao sasa watakuwa ndio wenyeji wa wale wapya wanaokuja kuchukua nafasi zetu
+cv_swa_000129 common_voice_sw_31292830.mp3 Akatembelea Ujerumani na kutazama mafuvu ya makumbusho ya Bremen
+cv_swa_000130 common_voice_sw_33402383.mp3 anaeleza Mrisho Mpoto Clouds mia tatu sitini kuwa Kuna kipindi nilifanya kazi
+cv_swa_000131 common_voice_sw_33402386.mp3 Mwaka elfu moja mia tisa kumi na tisa
+cv_swa_000132 common_voice_sw_33402388.mp3 huyo ni rais wa shirika la msalaba mwekundu duniani icrc
+cv_swa_000133 common_voice_sw_30644782.mp3 Vyakula vya asili vinavyopendelewa kuliwa na Wazigua ni ugali
+cv_swa_000134 common_voice_sw_30644783.mp3 Baadhi ya wasanii huwa hawamfuati Aristotle katika kufululiza kuelekea kileleni.
+cv_swa_000135 common_voice_sw_30644787.mp3 Hata mtoto akukosee kiasi gani kamwe huwezi kuruhusu kosa kukutawala
+cv_swa_000136 common_voice_sw_31895962.mp3 Kumbuka kuchukua kalamu yako
+cv_swa_000137 common_voice_sw_31896072.mp3 Ukitamba sana huondoka na mavi
+cv_swa_000138 common_voice_sw_31896079.mp3 Dalili ya mvuwa ni mawingu
+cv_swa_000139 common_voice_sw_33335792.mp3 watu wa Uturuki ya kisasa inaundwa na Waturuki
+cv_swa_000140 common_voice_sw_33335791.mp3 ya kufariki kwa rais wa awamu ya tano makamu wake akaaimu nafasi ya rais
+cv_swa_000141 common_voice_sw_33335789.mp3 umati katika umati wa watu mitaani maduka sinema
+cv_swa_000142 common_voice_sw_30574203.mp3 Wakurya wana sherehe maalumu ambazo husherehekewa baada ya mavuno
+cv_swa_000143 common_voice_sw_30574205.mp3 Njoo unipeleke hospitalini
+cv_swa_000144 common_voice_sw_30574294.mp3 Kipindi cha likizo alivyokuwa akirudi likizo aliendelea na maisha yake ya kuchunga nâgombe
+cv_swa_000145 common_voice_sw_31893309.mp3 Mama anafagia uwanjani kwetu
+cv_swa_000146 common_voice_sw_31893311.mp3 Watu wa posta wamefikisha mizigo ya wateja
+cv_swa_000147 common_voice_sw_31893319.mp3 Mwivi kantoweka hazarani
+cv_swa_000148 common_voice_sw_27729868.mp3 Wanatokea katika Afrika kusini kwa Sahara tu, mara nyingi milimani.
+cv_swa_000149 common_voice_sw_27729935.mp3 Uzito una uwiano sawa na masi.
+cv_swa_000150 common_voice_sw_27729937.mp3 Magharibi kawaida huwa upande wa kushoto kwenye ramani.
+cv_swa_000151 common_voice_sw_31290176.mp3 Tazama
+cv_swa_000152 common_voice_sw_31290180.mp3 Johann Ludwig Krapf aliandika mnamo mwaka elfu moja mia tisa sitini
+cv_swa_000153 common_voice_sw_31290181.mp3 Pia mgonjwa anapewa mfumo wa maisha ambao anatakiwa autumie
+cv_swa_000154 common_voice_sw_30644792.mp3 umoja na mshikamano ni nyenzo bora ya kujenga taifa
+cv_swa_000155 common_voice_sw_30644793.mp3 Bandari ya Djbouti katika taifa la Djibouti
+cv_swa_000156 common_voice_sw_30644796.mp3 Halmashauri ya wilaya ya Nzega na Halmashauri ya Nzega mjini
+cv_swa_000157 common_voice_sw_32210284.mp3 Mito ote haina foronya
+cv_swa_000158 common_voice_sw_32210413.mp3 Msichana mzuri sana
+cv_swa_000159 common_voice_sw_32210417.mp3 Veleka mzigo kwa bibi yako.
+cv_swa_000160 common_voice_sw_30574363.mp3 pamoja na ufadhili kutoka kampuni ya nguo ya Tommy Hilfiger Monster Energy na Puma
+cv_swa_000161 common_voice_sw_30574365.mp3 barcelona ilihitaji ushindi wa mabao mawili kwa sifuri isonge mbele
+cv_swa_000162 common_voice_sw_30574367.mp3 Kiaustria alilaumu kutofaulu kwa sera za ushauri wa kiuchumi
+cv_swa_000163 common_voice_sw_30574400.mp3 Ruaha Mkuu ni mto muhimu nchini Tanzania na tawi la mto la Rufiji
+cv_swa_000164 common_voice_sw_30574402.mp3 walipokuwa wakiaabudia mizimu yao milimani kisha kurudi ziwani na kujitumbukiza kwenye maji baridi
+cv_swa_000165 common_voice_sw_30574404.mp3 kuhusiana na zoezi la shughuli betala kutoka
+cv_swa_000166 common_voice_sw_28704686.mp3 Zamani ilijulikana kwa jina la "Wilaya ya Mara Kaskazini".
+cv_swa_000167 common_voice_sw_28704687.mp3 Kihistoria "Shamu" ilikuwa jina la nchi yote upande wa mashariki wa bahari ya Mediteranea.
+cv_swa_000168 common_voice_sw_28704688.mp3 Watu wachache hupata athari ya mzio.
+cv_swa_000169 common_voice_sw_30574458.mp3 Waingereza waliipa uhuru Zanzibar chini ya Jumuiya ya Madola
+cv_swa_000170 common_voice_sw_30574459.mp3 nanenane ni tukio la kitaifa linaloadhimishwa kila mwaka nchini tanzania
+cv_swa_000171 common_voice_sw_30574460.mp3 Lakini unapokuwa na kisukari aina ya kwanza unaweza kula vyakula vyovyote vyenye afya
+cv_swa_000172 common_voice_sw_30644807.mp3 Mji huo ni tajiri na mashuhuri katika Pwani ya Afrika Mashariki ulivamiwa na kuharibiwa
+cv_swa_000173 common_voice_sw_30644808.mp3 Mtoto wa pili wa hayati Karume ni Amani Abeid Karume
+cv_swa_000174 common_voice_sw_30644809.mp3 Ukali wa utetezi wa Warusi ulichosha nguvu za Wajerumani kwani walikuwa wameshindwa
+cv_swa_000175 common_voice_sw_31189470.mp3 Jokate Mwegelo ni mwanamke mwenye umri wa miaka thelathini na nne
+cv_swa_000176 common_voice_sw_31189471.mp3 katika mashindano ya kuvumbua vifaa vinavyoweza kutatua matatizo ya Pwani.
+cv_swa_000177 common_voice_sw_31189472.mp3 Kwa muda wa miaka ishirini na sita usultani ulikuwa na fedha yake ya pekee
+cv_swa_000178 common_voice_sw_31853601.mp3 Yana chulipika kiadhi tamu
+cv_swa_000179 common_voice_sw_31853602.mp3 Tabia si sura ni tabia
+cv_swa_000180 common_voice_sw_31853603.mp3 Anatazama mpira uwanjani
+cv_swa_000181 common_voice_sw_31080927.mp3 Katika Mkoa wa Mara nchini Tanzania na imani zao baadhi zinafanana
+cv_swa_000182 common_voice_sw_31080940.mp3 Katika dunia hii kila kabila lina tamaduni na desturi zake
+cv_swa_000183 common_voice_sw_31080941.mp3 kuangalia ndege na maua wakati wa masika ni Januari hadi April
+cv_swa_000184 common_voice_sw_30622793.mp3 Kila juhudi ziliwekwa na rasilimali nyingi kutengwa
+cv_swa_000185 common_voice_sw_30622800.mp3 Kifo mara nyingi husababishwa na maudhi au uchovu
+cv_swa_000186 common_voice_sw_30622851.mp3 Watu saba mashuhuri kutoka Newyork kwa tiketi ya umoja wa mataifa walikutana na Mandela
+cv_swa_000187 common_voice_sw_31389817.mp3 Kuanzia mwaka huo wa elfu moja na mia saba
+cv_swa_000188 common_voice_sw_31389819.mp3 Nisubiri
+cv_swa_000189 common_voice_sw_31389822.mp3 chumbe ni eneo zuri kwa utalii wa ekolojia
+cv_swa_000190 common_voice_sw_31291655.mp3 Jitihadi haiondoi kudura
+cv_swa_000191 common_voice_sw_31292586.mp3 Chuoni, nilianzisha kikundi cha ufundishaji teknolojia.
+cv_swa_000192 common_voice_sw_31292662.mp3 Jino la pembe si dawa ya pengo
+cv_swa_000193 common_voice_sw_32411362.mp3 Epiga mbio tangu skuli hadi nyumbani
+cv_swa_000194 common_voice_sw_32411363.mp3 "Huyu ndugu yangu, huyu n"
+cv_swa_000195 common_voice_sw_32411364.mp3 Juma chachu tasafiri kwenda Amu.
+cv_swa_000196 common_voice_sw_31466132.mp3 Ni ule unaoendelea kujengwa nchini Ethiopia kwa kutumia maji ya mto Nile
+cv_swa_000197 common_voice_sw_31466134.mp3 Lakini zinatofautiana kwa jinsi ya kutajwa majina yake
+cv_swa_000198 common_voice_sw_31466135.mp3 Wanazidi kushiriki katika biashara ya mifugo kuliko awali
+cv_swa_000199 common_voice_sw_30719961.mp3 papa huyo alipambana na utawala wa ujamaa ulioitesa nchi yake
+cv_swa_000200 common_voice_sw_30719968.mp3 Ni muhimu kufanya hivi kila mahali, ndani na nje ya nyumba.
+cv_swa_000201 common_voice_sw_30719969.mp3 Wilson Mukama aliwahi kuwa Katibu Mkuu wa Chama cha mapinduzi
+cv_swa_000202 common_voice_sw_30646004.mp3 Waliopata habari wanalia
+cv_swa_000203 common_voice_sw_30646005.mp3 Wazazi wao walihimizwa sana kuwapeleka kusoma huko
+cv_swa_000204 common_voice_sw_30646006.mp3 Baadhi ya nchi hujaribu kuwakuza wanyama ambao hawapo nchini mwao
+cv_swa_000205 common_voice_sw_27805599.mp3 Katika baadhi ya makabila ana nafasi muhimu katika maamuzi ya ukoo.
+cv_swa_000206 common_voice_sw_27805603.mp3 Jina ni tafsiri ya jina la kisayansi.
+cv_swa_000207 common_voice_sw_27805604.mp3 Nyama yao ni nzuri sana.
+cv_swa_000208 common_voice_sw_30385128.mp3 Sera ya utawala wa mwalimu Julius Kambarage Nyerere
+cv_swa_000209 common_voice_sw_30385130.mp3 Ili kuwapa wageni wake ujuzi wakati wa mafunzo ya baada ya chakula cha jioni
+cv_swa_000210 common_voice_sw_30385131.mp3 michael platin alifunga mabao tisa kwenye michuano hiyo
+cv_swa_000211 common_voice_sw_30397115.mp3 Alisema kuwa hatutaokolewa na tamko bali na nafsi hai
+cv_swa_000212 common_voice_sw_30397116.mp3 Idadi ya silaha hizo ilitosha kuharibu uhai wote duniani mara kadhaa
+cv_swa_000213 common_voice_sw_30397117.mp3 Ni kati ya mikoa yenye maambukizi machache zaidi ya Ukimwi
+cv_swa_000214 common_voice_sw_30397119.mp3 Kujipenyeza kwa Wamasai na Wataturu katika jamii za wakulima wa kibantu
+cv_swa_000215 common_voice_sw_30027105.mp3 Inabakia kuwa maambukizi kati ya wanaume na wanawake kwa kuwa ndio ngono ya kawaida
+cv_swa_000216 common_voice_sw_30027110.mp3 Harusi inaanza na baraka kutoka kwa mzee
+cv_swa_000217 common_voice_sw_30027111.mp3 Zinazoendelea katika taifa hilo la Afrika ya Magharibi
+cv_swa_000218 common_voice_sw_30027113.mp3 Mtoto wa nyoka ni nyoka Mwigulu akiwa na umri mdogo
+cv_swa_000219 common_voice_sw_30731087.mp3 Msemo maarufu wa kimasai unasema ushauri unaotolewa kwa mtoto wa kiume
+cv_swa_000220 common_voice_sw_30731088.mp3 uhifadhi wa aina yake unawafanya watalii kuvutiwa
+cv_swa_000221 common_voice_sw_30731089.mp3 Kutokana na hali hiyo mara nyingi ukiwa porini unashauriwa kumpiga picha tembo bila flash
+cv_swa_000222 common_voice_sw_30731090.mp3 Wakiongozwa na aliyekuwa kiogozi wa chama cha ukombozi wa Kenya Jommo Kenyatta
+cv_swa_000223 common_voice_sw_30599853.mp3 raisi kikwete alipostaafu uraisi alikuwa mshauri wa serikali
+cv_swa_000224 common_voice_sw_30599854.mp3 Kwa wapenzi wake wa muziki alikuwa anajulikana
+cv_swa_000225 common_voice_sw_30599855.mp3 Aliona vijana wa kiume watano walioshiriki katika mapenzi ya jinsia moja
+cv_swa_000226 common_voice_sw_30599856.mp3 Elfu moja mia nane na sabini alipostaafu
+cv_swa_000227 common_voice_sw_30649674.mp3 Na kulipunguzia Gharama za uzalishaji wa mafuta taifa hilo
+cv_swa_000228 common_voice_sw_30649675.mp3 Uwindaji haramu wa wanyamapori na ukosefu wa moto
+cv_swa_000229 common_voice_sw_30649676.mp3 wahenga walisema kuwa wazee ni dawa
+cv_swa_000230 common_voice_sw_30649677.mp3 Siku hizi hutumia gurudumu au plastiki kuyatengeneza
+cv_swa_000231 common_voice_sw_30644764.mp3 Utafiti wa awali wa viumbe hawa unahusishwa na Mary Leakey na Louis Leakey
+cv_swa_000232 common_voice_sw_30644766.mp3 Ikumbukwe pia kuwa Wajerumani wakaifanya Bagamoyo kuwa makao yao makuu ya utawala katika Afrika
+cv_swa_000233 common_voice_sw_30644767.mp3 Huomba ruhusa toka kwa wakwe zake ili akaanzishe maisha yake na mkewe
+cv_swa_000234 common_voice_sw_30644768.mp3 Ijumaa lazima tule pilau au biryani
+cv_swa_000235 common_voice_sw_31855644.mp3 Iye hupenda kuya wakati yuva lindoanguka.
+cv_swa_000236 common_voice_sw_31856003.mp3 Juzi nilinunua vikombe vya sini
+cv_swa_000237 common_voice_sw_31856006.mp3 Yule mtu katili sana
+cv_swa_000238 common_voice_sw_31856007.mp3 Hana awezalo
+cv_swa_000239 common_voice_sw_31855544.mp3 Wanafunzi wampanga meza vizuri
+cv_swa_000240 common_voice_sw_31855545.mp3 Kichwa kinaungana na singo
+cv_swa_000241 common_voice_sw_31855548.mp3 Leo tumealika wageni rasmi.
+cv_swa_000242 common_voice_sw_31855552.mp3 Ni kama hapa ukimwambia mtu twenda kubaua hatajua kwenda kubauwa ni nini
+cv_swa_000243 common_voice_sw_28677367.mp3 Eneo lake ni sehemu za kaskazini za jiji.
+cv_swa_000244 common_voice_sw_28677368.mp3 Kuenea kunaweza kutokea pia kupitia mawasiliano ya moja kwa moja baina ya watu.
+cv_swa_000245 common_voice_sw_28677369.mp3 Yuko kwenye hewa na mwanga badala ya kuogelea katika majimaji.
+cv_swa_000246 common_voice_sw_28677371.mp3 Lugha rasmi na ya kawaida ni Kiarabu.
+cv_swa_000247 common_voice_sw_31105181.mp3 Pia kichwa huelekezwa nyuma kwa ajili ya kuvuta pumzi
+cv_swa_000248 common_voice_sw_31105183.mp3 Corona imeleta madahara mengi mno uliwenguni.
+cv_swa_000249 common_voice_sw_31105184.mp3 Pia alikuwepo Amilcar Cabral huyu alikuwa ni mpigania Uhuru wao
+cv_swa_000250 common_voice_sw_31105185.mp3 Mwaka mzima kwenye msitu ni kijani tupu kama vile mtu anamwagili
+cv_swa_000251 common_voice_sw_29935488.mp3 Hakumbuki habari ya kwanza aliyoiandika alipoingia Mwananchi
+cv_swa_000252 common_voice_sw_29935541.mp3 Kuna thamani kubwa na heshima katika jamii
+cv_swa_000253 common_voice_sw_29935734.mp3 samaki na viumbe wengine wa baharini na bahari yenyewe
+cv_swa_000254 common_voice_sw_29935859.mp3 Ukweli na Uwazi hatunaye tena Yaani sipati picha Baba Mkapa Nenda kapumzike salama
+cv_swa_000255 common_voice_sw_30644553.mp3 Mabadiliko haya yalikuja baada ya uchaguzi wa kwanza wa vyama vingi nchini Tanzania
+cv_swa_000256 common_voice_sw_30644559.mp3 Wazaramo wametapakaa katika Wilaya za Kisarawe Bagamoyo Kibaha Mkuranga na Mafia
+cv_swa_000257 common_voice_sw_30644564.mp3 Ina tarafa tano Kata thelathini Vijiji mia moja kumi na tisa
+cv_swa_000258 common_voice_sw_30644566.mp3 katika jamii za Afrika tunayoishi kutokana na watu kuiga tabia zilizo kinyume na taratibu
+cv_swa_000259 common_voice_sw_30644505.mp3 Baadhi ya mito hiyo inayopatikana sehemu mbalimbali za Tanzania ni
+cv_swa_000260 common_voice_sw_30644506.mp3 Mvulana ambaye ngombe wake mchanga atachinjwa kwa niaba ya kikundi
+cv_swa_000261 common_voice_sw_30644507.mp3 kwa mujibu wa Sensa iliyofanywa na Wajerumani mwaka elfu moja na nne
+cv_swa_000262 common_voice_sw_30644508.mp3 chelsea ilikubali kichapo kutoka kwa united
+cv_swa_000263 common_voice_sw_31855539.mp3 Unatakiwa kumaliza kazi katika muda uliopangiwa.
+cv_swa_000264 common_voice_sw_31855624.mp3 Shahidi alimsonda mwizi mahakani
+cv_swa_000265 common_voice_sw_31855628.mp3 Chumia thedho kunolea nsumari
+cv_swa_000266 common_voice_sw_31855630.mp3 Soma kwa sauti ujibu maswali yote
+cv_swa_000267 common_voice_sw_32624071.mp3 Ya Mngu mmengi/ni mengi
+cv_swa_000268 common_voice_sw_32624081.mp3 Ali ameumwa na mbuvo mpaka amepekwa sipichali
+cv_swa_000269 common_voice_sw_32624409.mp3 Samaki mkundhe angali mbiti
+cv_swa_000270 common_voice_sw_32624419.mp3 Takula pakaa dha sukari.
+cv_swa_000271 common_voice_sw_31855506.mp3 Kwenza Nazi mbili na ndimu moja
+cv_swa_000272 common_voice_sw_31855508.mp3 Yapo maneno ambayo mmeyaswahilisha wenyewe.
+cv_swa_000273 common_voice_sw_31855679.mp3 Hautakiwi kupandisha sauti yako juu.
+cv_swa_000274 common_voice_sw_31855683.mp3 Ndio mwanzo mkoko waalika mauwa
+cv_swa_000275 common_voice_sw_31080983.mp3 Pia imerahisisha upatikanaji wa kitoweo kama samaki nchini humo
+cv_swa_000276 common_voice_sw_31080985.mp3 Na kupata matokeo mazuri ya dawa hizo
+cv_swa_000277 common_voice_sw_31080986.mp3 brazil ilikuwa na kikosi bora sana
+cv_swa_000278 common_voice_sw_31080987.mp3 Kilwa ilipata mafanikio na kuwa maarufu kutokana na kumiliki biashara ya dhahabu
+cv_swa_000279 common_voice_sw_30605581.mp3 Ilitumika kwa kiasi kikubwa na timu ya taifa ya Austrian Czech na Hungari
+cv_swa_000280 common_voice_sw_30605582.mp3 Dar es salaam hadi mkoani Mtwara kusini mwa Tanzania
+cv_swa_000281 common_voice_sw_30605583.mp3 Chifu Mwene Kiatu hakujaliwa kupata watoto
+cv_swa_000282 common_voice_sw_30605584.mp3 atakufa Ukiangalia jinsi binadamu
+cv_swa_000283 common_voice_sw_31101259.mp3 Ambazo jumla yake ni mia tisa arobaini na tisa
+cv_swa_000284 common_voice_sw_31101261.mp3 Sijasoma Leo.
+cv_swa_000285 common_voice_sw_31101262.mp3 Mlima Meru unapatikana ndani ya Hifadhi ya Arusha
+cv_swa_000286 common_voice_sw_31101263.mp3 Iliyotuma silaha na vifaa vingine kwa jeshi lake
+cv_swa_000287 common_voice_sw_28258737.mp3 Treni hiyo hutumiwa kuunganisha Uwanja wa ndege wa Vienna na jiji la Vienna.
+cv_swa_000288 common_voice_sw_28258739.mp3 Mwaka mmoja baadaye, aliitwa mshauri wa kwanza wa ubalozi wa Ivory Coast huko Brazil.
+cv_swa_000289 common_voice_sw_28258743.mp3 Sehemu za angahewa zina baridi au joto zaidi kutegemeana na kimo.
+cv_swa_000290 common_voice_sw_28260501.mp3 Mlango wa aina hii mara nyingi ni njia muhimu ya mawasiliano, usafiri na biashara.
+cv_swa_000291 common_voice_sw_30577671.mp3 Historia ya ukoloni ya Kenya ilianza wakati milki ya Ujerumani
+cv_swa_000292 common_voice_sw_30577672.mp3 watalii wanapomuona mioyo yao inapata furaha
+cv_swa_000293 common_voice_sw_30577673.mp3 Kabila la wabena ni miongoni mwa kabila linalopatikana nchini Tanzania
+cv_swa_000294 common_voice_sw_30577674.mp3 Washambuliaji Wamasai wakatisha Mombasa eneo lilopo pwani ya Kenya
+cv_swa_000295 common_voice_sw_28820723.mp3 Neva zinaweza kuathiriwa na maradhi.
+cv_swa_000296 common_voice_sw_28820724.mp3 ni chuo kikubwa cha masomo kwa njia ya barua.
+cv_swa_000297 common_voice_sw_28820725.mp3 Asili ya farasi wote ni aina za farasi mwitu wa porini.
+cv_swa_000298 common_voice_sw_28820727.mp3 Mlima Kenya ni pili mlima wa juu katika Afrika.
+cv_swa_000299 common_voice_sw_31443718.mp3 Taratibu mbalimbali zilifanyika hiyo ilikuwa mwaka elfu moja mia tisa sabini na nne
+cv_swa_000300 common_voice_sw_31443720.mp3 Pwani Teknowgalz ni kikundi cha akina dada niliosoma nao chuo kikuu
+cv_swa_000301 common_voice_sw_31443721.mp3 Hata ivyo wananchi wa pande zote mbili ndio wanao teseka
+cv_swa_000302 common_voice_sw_31443723.mp3 Kwa upande wa baba yake yeye ni wa asili ya Italia na Hispania
+cv_swa_000303 common_voice_sw_31892903.mp3 Tunza mazingira yakutunze
+cv_swa_000304 common_voice_sw_31892905.mp3 Anaonesha upendo kwa mke wake
+cv_swa_000305 common_voice_sw_31892906.mp3 Kusikili tangazo?
+cv_swa_000306 common_voice_sw_31892988.mp3 Sio wachu wa kwechu waloichwa
+cv_swa_000307 common_voice_sw_30574431.mp3 kwa sababu kuongezeka kwa uchumi wa Uganda ni faida kubwa kwa majirani pia
+cv_swa_000308 common_voice_sw_30574432.mp3 Watanzania wanatakiwa kuacha mazoea ya kutumia dawa bila kufuata ushauri wa daktari
+cv_swa_000309 common_voice_sw_30574433.mp3 Punja Kara Haji alidai mahakamani kuwa yeye na Karume walikubaliana
+cv_swa_000310 common_voice_sw_30574435.mp3 Vita ya uchumih uibua migogoro ya kidiplomasia haswa pale unapogusa maslahi ya Taifa husika
+cv_swa_000311 common_voice_sw_32366338.mp3 Mara ningii vatonyi vakenda ago hutukua alivandi.
+cv_swa_000312 common_voice_sw_32366387.mp3 Kuvalya nguo mpya ni faradhi
+cv_swa_000313 common_voice_sw_32366415.mp3 Vukaga upande unoku.
+cv_swa_000314 common_voice_sw_32366419.mp3 Kuzu samaki woti?
+cv_swa_000315 common_voice_sw_30561962.mp3 Mhando Nkondo Mchome aliyewahi kuwa Meneja wa Shamba la Themi huko Arusha
+cv_swa_000316 common_voice_sw_30561963.mp3 kuwa yalijengwa kwa msaada wa Marekani enzi zile
+cv_swa_000317 common_voice_sw_30561964.mp3 Kiasi cha kupendwa na hatimaye akapewa binti wa mtawala au mfalme
+cv_swa_000318 common_voice_sw_30561965.mp3 Mara zote yanaongea kitu kuhusu mwenendo afya ya mtu husika
+cv_swa_000319 common_voice_sw_32312025.mp3 Dhamani chulikua chukipadha kwenye nchambo wa fulani.
+cv_swa_000320 common_voice_sw_32312027.mp3 Wika mipaka katika shamba
+cv_swa_000321 common_voice_sw_32312029.mp3 Kunamdiriki uyo tu mie hunanyona.
+cv_swa_000322 common_voice_sw_32312030.mp3 Havule wakati ataka kuvakwa lazima litoke idhini kwa ishe.
+cv_swa_000323 common_voice_sw_32366371.mp3 Alichumia makasi kukacha kitambaa
+cv_swa_000324 common_voice_sw_32366390.mp3 Usichomboe ito langu.
+cv_swa_000325 common_voice_sw_32366397.mp3 Kavata nafasi ya kwenda kusoma.
+cv_swa_000326 common_voice_sw_32366439.mp3 Yana chulipika kiadhi tamu
+cv_swa_000327 common_voice_sw_28257970.mp3 Lugha ni Kiingereza.
+cv_swa_000328 common_voice_sw_28257972.mp3 Ni jambo la busara kutumia dawa za wadudu ambazo hutengenezwa katika hali ya unga.
+cv_swa_000329 common_voice_sw_28257974.mp3 Vyote kwa pamoja?
+cv_swa_000330 common_voice_sw_28257977.mp3 Hakuna uhakika kama kisiwa hiki ni Pemba au Mafia.
+cv_swa_000331 common_voice_sw_31292777.mp3 Na kuimarika kwa soko la dhahabu nchini humo
+cv_swa_000332 common_voice_sw_31292789.mp3 Nafasi hii niliyo nayo hapa Mozilla itaniwezesha kuhakikisha teknolojia itaweza kuelewa jinsi sisi tunavyoongea
+cv_swa_000333 common_voice_sw_31293047.mp3 Joto limezidi, sasa December itakuaje?
+cv_swa_000334 common_voice_sw_31293055.mp3 Idi Amin akibebwa kifalme na wafanyabiashara Waingereza huko Kampala
+cv_swa_000335 common_voice_sw_31152265.mp3 Mugabe alijaribu kutunisha misuli kilichomkuta wazimbabwe hawakuchoka kumuona hafai
+cv_swa_000336 common_voice_sw_31152266.mp3 Hata hivyo kazi nyingi zinahitajika kufanywa ili kuiwezesha nchi hii
+cv_swa_000337 common_voice_sw_31152268.mp3 jose mourinho anaweza kutangulia kwenda china
+cv_swa_000338 common_voice_sw_31152269.mp3 fainali za michuano ya ulaya zilifanyika uwanjani wembley
+cv_swa_000339 common_voice_sw_31270596.mp3 Onyesho hili lilikuwa fursa ya Kenya na kila mtu kuweza kushuhudia
+cv_swa_000340 common_voice_sw_31270598.mp3 Akakataa pia mazungumzo zaidi ya kikatiba kwa hofu ya Zanzibar kupoteza hadhi na mamlaka
+cv_swa_000341 common_voice_sw_31270599.mp3 Ali Hassan Mwinyi alijiunga na chama cha Zanzibar
+cv_swa_000342 common_voice_sw_31270601.mp3 uwanja wa mkapa ulibarikiwa kutumiwa na nyota wa kutisha
+cv_swa_000343 common_voice_sw_31255558.mp3 Bilioni ishirini na tano nukta tatu zimetumika kuboresha barabara na mitaa
+cv_swa_000344 common_voice_sw_31255559.mp3 Tulikula saa tisa baada ya kumaliza kazi
+cv_swa_000345 common_voice_sw_31255560.mp3 Kuishi kwingi ni kuona mengi
+cv_swa_000346 common_voice_sw_31255561.mp3 Kitanda usicho kilala hujui kunguni wake
+cv_swa_000347 common_voice_sw_28580960.mp3 Hadi kifo chake aliishi chini ya ulinzi wa Polisi.
+cv_swa_000348 common_voice_sw_28580961.mp3 Kwa sasa anafanya kazi kama kocha huko Manchester United.
+cv_swa_000349 common_voice_sw_28580962.mp3 Sehemu ya vitabu vyake alitoa kwa Kiswahili na Kijerumani vilevile.
+cv_swa_000350 common_voice_sw_28580963.mp3 Hakuna uhakika kuhusu utamaduni na lugha yao.
+cv_swa_000351 common_voice_sw_31148881.mp3 Wanajamii wengi wa kabila la Wamasai walidhani kuwa sio jambo la kawaida
+cv_swa_000352 common_voice_sw_31148885.mp3 tanzania imebarikiwa kuwa na maziwa Kama victoria nyasa tanganyika na mengine mengi
+cv_swa_000353 common_voice_sw_31148886.mp3 Kondomu huvaliwa kwenye uume au kwenye uke
+cv_swa_000354 common_voice_sw_31148887.mp3 Waniloti kutoka kaskazini walizidi kuingia tanzania
+cv_swa_000355 common_voice_sw_28258805.mp3 Rangi hiyo hutumika hasa kwa kutia rangi nguo.
+cv_swa_000356 common_voice_sw_28258806.mp3 Yeye ni wakili kwa taaluma.
+cv_swa_000357 common_voice_sw_28259638.mp3 Ni nchi ambayo ina historia ya pekee Afrika na hata duniani kwa ujumla.
+cv_swa_000358 common_voice_sw_28260306.mp3 Makao makuu yapo Arusha mjini.
+cv_swa_000359 common_voice_sw_30644728.mp3 tanzania imebarikiwa kuwa na vivutio vizuri vya utalii
+cv_swa_000360 common_voice_sw_30644729.mp3 masuala ya usawa wa kijinsia itabaki kuwa ndoto
+cv_swa_000361 common_voice_sw_30644730.mp3 Kutokana na ripoti hiyo iliyotolewa na shirika la kuwahudumia wakimbizi duniani
+cv_swa_000362 common_voice_sw_30644731.mp3 Wapolandi wengi walikutana na Wanafunzi wa Biblia kwa mara ya kwanza mikoani
+cv_swa_000363 common_voice_sw_31895921.mp3 Ukaja chai yako tayari.
+cv_swa_000364 common_voice_sw_31895971.mp3 Kunakumbuka tuyosoma chuoni.
+cv_swa_000365 common_voice_sw_31895973.mp3 Wapika lini katlesi
+cv_swa_000366 common_voice_sw_31895974.mp3 Mwalimu enioteza kidole nsimame
+cv_swa_000367 common_voice_sw_28762914.mp3 Pande nyingine ni pwani.
+cv_swa_000368 common_voice_sw_28762915.mp3 Labda hula mayai pia.
+cv_swa_000369 common_voice_sw_28762972.mp3 Ni mtoto wa Julius Nyerere, rais wa kwanza wa Tanzania na "baba wa Taifa".
+cv_swa_000370 common_voice_sw_28762976.mp3 Hoja wasiwasi kuhusu madhara kwenye uchumi wa Uingereza.
+cv_swa_000371 common_voice_sw_32116970.mp3 Chakula kilicholala kimeganda
+cv_swa_000372 common_voice_sw_32116972.mp3 Simu yangu imeisha chaja
+cv_swa_000373 common_voice_sw_32117008.mp3 Lazima tufanye kama tulivyoambiwa.
+cv_swa_000374 common_voice_sw_32117009.mp3 Ishadha hukacha.
+cv_swa_000375 common_voice_sw_30645953.mp3 Zinaunganishwa na jumuiya ya maendeleo ya kusini mwa Afrika
+cv_swa_000376 common_voice_sw_30645954.mp3 Mto huu Tarangire ni mto unaopita kati kati ya hifadhi hii
+cv_swa_000377 common_voice_sw_30645958.mp3 Ilifikia kipindi ilibidi watu hao wajitofautishe na watu wengine
+cv_swa_000378 common_voice_sw_30645960.mp3 sheria ya serikali za mitaa zilirejeshwa tena
+cv_swa_000379 common_voice_sw_31962937.mp3 Kasha hili limerithiwa vizazi vitatu sasa
+cv_swa_000380 common_voice_sw_31962939.mp3 Ondosha takataka zilizopo hapa.
+cv_swa_000381 common_voice_sw_31962940.mp3 Karangiza mchuzi wa nyama
+cv_swa_000382 common_voice_sw_31962942.mp3 Jaza taarifa ili upate namba ya utambulisho.
+cv_swa_000383 common_voice_sw_31413407.mp3 Mwaka elfu moja mia tisa tisini na saba hadi elfu mbili na moja
+cv_swa_000384 common_voice_sw_31413412.mp3 Castro alikuwa mmoja wa wafungwa kadhaa waliofikishwa mahakamani
+cv_swa_000385 common_voice_sw_31413414.mp3 Nafasi hii niliyo nayo hapa Mozilla itaniwezesha kuhakikisha teknolojia itaweza kuelewa jinsi sisi tunavyoongea
+cv_swa_000386 common_voice_sw_31413417.mp3 Mafunzo yafanyike wakati wa vijana kubalehe na kabla hawajaingia katika ndoa
+cv_swa_000387 common_voice_sw_31255358.mp3 Pia yapo makundi makubwa ya nyumbu wanaosafiri umbali mrefu
+cv_swa_000388 common_voice_sw_31255366.mp3 Fuata nyuki ule asali
+cv_swa_000389 common_voice_sw_31255726.mp3 Kula kutamu,kulima mavune
+cv_swa_000390 common_voice_sw_31255727.mp3 Profesa Amoni Chaligha Profesa wa Siasa Uchumi Chuo Kikuu Dar es Salaam
+cv_swa_000391 common_voice_sw_30593493.mp3 ya moyo wako Sasa yako ni pande gani
+cv_swa_000392 common_voice_sw_30593494.mp3 Tarafa ishirini na saba Kata mia mia moja tisini na mbili
+cv_swa_000393 common_voice_sw_30593495.mp3 aldof hitler alianzisha makambi ya mauaji
+cv_swa_000394 common_voice_sw_30593497.mp3 timu zote za afika hazikufanya vizuri nchini brazil
+cv_swa_000395 common_voice_sw_30632052.mp3 Juhudi zake za dhati Wakati akizindua Kituo
+cv_swa_000396 common_voice_sw_30632053.mp3 Madini hayo ambayo ni ya kipekee kwa Tanzania hayapatikani sehemu yeyote duniani
+cv_swa_000397 common_voice_sw_30632054.mp3 Nataka kusema hivi vita ya kawaida inatumia sana vifaa vigumu
+cv_swa_000398 common_voice_sw_30632055.mp3 Hao ni nje ya wale wanaotumia usafiri wa miguu ambao ni wengi zaidi
+cv_swa_000399 common_voice_sw_30632056.mp3 Akasisitiza Wakristo wote wapewe mafundisho juu ya imani akatunga Katekisimu
+cv_swa_000400 common_voice_sw_31161360.mp3 Angetarajiwa kusimama mbele ya umati wote wa shule na kusoma insha iliyomtunuku tuzo hilo.
+cv_swa_000401 common_voice_sw_31161361.mp3 watoto hao hukaa katika jengo hilo kwa kipindi kisichozidi mwezi mmoja
+cv_swa_000402 common_voice_sw_31161364.mp3 hiyo takatifu yenye majiji ya Makka na Madina
+cv_swa_000403 common_voice_sw_31161370.mp3 flaviana matata ni mwanamitindo maarufu sana
+cv_swa_000404 common_voice_sw_31161374.mp3 ujerumani ilifungwa bao moja kwa sifuri
+cv_swa_000405 common_voice_sw_27788616.mp3 Pia alitunga nyimbo nyingi.
+cv_swa_000406 common_voice_sw_27788617.mp3 Jenerali huwa kiongozi wa ngazi ya juu katika jeshi.
+cv_swa_000407 common_voice_sw_27788618.mp3 Hivyo kwa muda mrefu Ukraine ilikuwa sehemu ya Dola la Urusi.
+cv_swa_000408 common_voice_sw_27788619.mp3 Kiko upande wa kusini-magharibi wa kisiwa cha Timor.
+cv_swa_000409 common_voice_sw_27788620.mp3 Ni maarufu sana kwa nchini humo na nje ya nchi ya Uturuki.
+cv_swa_000410 common_voice_sw_30644737.mp3 staili za kujilinda zilimpa makombe na heshima huko zamani
+cv_swa_000411 common_voice_sw_30644738.mp3 utawala wa ubaguzi uliojulikana kama apartheid
+cv_swa_000412 common_voice_sw_30644739.mp3 bara la afrika ni moja ya mabara yaliyowahi kutoa nyota wengi waliocheza soka kimataifa
+cv_swa_000413 common_voice_sw_30644740.mp3 Hii ilikuwa koloni la kwanza kupata uhuru katika Afrika ya Magharibi
+cv_swa_000414 common_voice_sw_30644741.mp3 kwa sababu ya amani iliyoko katika mkoa wetu anatembea peke yake
+cv_swa_000415 common_voice_sw_30713071.mp3 Kuhusisha kutaniana pia wavulana hupiga folimbi na kuimba
+cv_swa_000416 common_voice_sw_30713072.mp3 Kwa maelezo zaid
+cv_swa_000417 common_voice_sw_30713073.mp3 mbalimbali wanapenda kuadhimisha ibada zao kwenye maeneo
+cv_swa_000418 common_voice_sw_30713074.mp3 Twende kwetu kisumu
+cv_swa_000419 common_voice_sw_30713075.mp3 Hii ni kutokana katika ziwa hili kuna joto
+cv_swa_000420 common_voice_sw_30167734.mp3 Tanzania ilijibu kwa njia ya vita na jeshi lake
+cv_swa_000421 common_voice_sw_30167735.mp3 kwa sababu wageni wengi wanaokuja kufanya biashara na kuondoka
+cv_swa_000422 common_voice_sw_30167742.mp3 Mheshimiwa Rais ameridhia ombi letu la kupandisha hadhi Mapori ya Akiba ya Burigi
+cv_swa_000423 common_voice_sw_30167789.mp3 Wakwaya na Wakwere pia Wanghwele na Wakwifa
+cv_swa_000424 common_voice_sw_30167790.mp3 Wakomeshe kwa kila namna uzushi aliouanzisha katika mafundisho yake
+cv_swa_000425 common_voice_sw_31463609.mp3 Wabena na Wakinga ni wachapa kazi sana
+cv_swa_000426 common_voice_sw_31463610.mp3 Kinachotoa maamuzi ya kisera katika muundo wa Benki Kuu
+cv_swa_000427 common_voice_sw_31463611.mp3 Aina ya mamalia wakubwa pia ni nyumbani kwa vifaru weusi
+cv_swa_000428 common_voice_sw_31463624.mp3 Usiku vikundi vidogo vya nyota hujulikana kama jembe Nkokua
+cv_swa_000429 common_voice_sw_31463627.mp3 mbuni mkubwa ana uzito wa kilogram sitini na tano
+cv_swa_000430 common_voice_sw_31762238.mp3 Hapo alianza kupinga mafundisho ya kanisa katoliki
+cv_swa_000431 common_voice_sw_31762239.mp3 Chuki ilileta vita baina yao
+cv_swa_000432 common_voice_sw_31762241.mp3 Kisokula mlimwengu,sera nale
+cv_swa_000433 common_voice_sw_31762243.mp3 wananchi wengi walikipenda sana chama cha lipumba
+cv_swa_000434 common_voice_sw_31762251.mp3 katika baraza la wawakilishi Zanzibari kupitia viti maalum kwa tiketi ya chama cha mapinduzi
+cv_swa_000435 common_voice_sw_30644560.mp3 Ama kwa hakika hakuna kinachofanana na upendo wa mama
+cv_swa_000436 common_voice_sw_30644561.mp3 Hii ni misingi ya uandishi wa habari
+cv_swa_000437 common_voice_sw_30644563.mp3 Leo hii machinga wameanza kufukuzwa maeneo waliyokuwa wakifanya biashara zao
+cv_swa_000438 common_voice_sw_30644565.mp3 Ujamaa uliojengwa katika mfumo wa ujima Katika eneo hili
+cv_swa_000439 common_voice_sw_30644567.mp3 msafara wa waziri mkuu unakuwa na magari yasiyopugua sita
+cv_swa_000440 common_voice_sw_31291241.mp3 Chanda chema huvikwa pete
+cv_swa_000441 common_voice_sw_31291247.mp3 mazoezi hatari yanayoweza kusababisha majeraha
+cv_swa_000442 common_voice_sw_31291248.mp3 maisha yangu yalikosa furaha kabisa siku hiyo
+cv_swa_000443 common_voice_sw_31291289.mp3 Subhaanahu wa Taala Hiyo pia ni kuonyesha
+cv_swa_000444 common_voice_sw_31291326.mp3 Sio kila mtu mwenye uwezo wa kusoma na kuelewa Kiingereza
+cv_swa_000445 common_voice_sw_28451275.mp3 Pengine akili yake ni kubwa sana.
+cv_swa_000446 common_voice_sw_28451276.mp3 Anajulikana sana kwa kasi yake na uwezo wa kiufundi.
+cv_swa_000447 common_voice_sw_28451277.mp3 Anachezea timu ya taifa ya Indonesia.
+cv_swa_000448 common_voice_sw_28451278.mp3 Kuna njia nyingi za kufanya hivi, lakini mchakato kamili kwa kawaida huitwa "kushikilia uchaguzi".
+cv_swa_000449 common_voice_sw_28451279.mp3 Theluthi mbili kati ya hawa ni wasichana.
+cv_swa_000450 common_voice_sw_28691920.mp3 Baadhi ya biashara ziko chini ya sheria zinazoendelea kuundwa.
+cv_swa_000451 common_voice_sw_28691927.mp3 Uchumi wa Mongolia hutegemea hasa migodi na ufugaji.
+cv_swa_000452 common_voice_sw_28691931.mp3 Hifadhi za wanyama huhitaji taratibu hizi kama mkataba wa kuchukua.
+cv_swa_000453 common_voice_sw_28691935.mp3 Kuna shule ya sekondari.
+cv_swa_000454 common_voice_sw_28691939.mp3 Katika historia yake, jiji hilo lilikuwa sehemu ya milki na nchi mbalimbali.
+cv_swa_000455 common_voice_sw_31382557.mp3 Kiswahili kama Mnyaa inayopatika kwa wingi maeneo hayo
+cv_swa_000456 common_voice_sw_31382558.mp3 Jina lake ambalo linatokana mto Tsavo ambao unatiririka kutoka magharibi
+cv_swa_000457 common_voice_sw_31382559.mp3 Taarifa ya kwanza ya kimaandishi inapatikana katika kitabu cha Periplus ya Bahari ya Eritrea
+cv_swa_000458 common_voice_sw_31382560.mp3 Mbuga ya wanyama ya Selous na Ruaha kwa barabara kutoka Dar es Salaam
+cv_swa_000459 common_voice_sw_31382561.mp3 Makamba alisema kuwa mtu akiwa mdogo anakuwa na ndoto mbalimbali hasa kuwa mwalimu
+cv_swa_000460 common_voice_sw_31909901.mp3 Dalili a mvua ni mawingu.
+cv_swa_000461 common_voice_sw_31909902.mp3 Kuwa makini
+cv_swa_000462 common_voice_sw_31909904.mp3 Jamaa amfiwa na mkewe bwana ampata pigo kubwa sana
+cv_swa_000463 common_voice_sw_31910067.mp3 Unaalikwa harusi?
+cv_swa_000464 common_voice_sw_31910069.mp3 "Zaidi ni makubaliano, tumekubaliana"
+cv_swa_000465 common_voice_sw_28394022.mp3 Alijitahidi kujenga upya monasteri na makanisa.
+cv_swa_000466 common_voice_sw_28394026.mp3 Babu yake alikuwa waziri mkuu wa Misri.
+cv_swa_000467 common_voice_sw_28394029.mp3 Iko katika kusini ya Marekani bara.
+cv_swa_000468 common_voice_sw_28394030.mp3 Hii ni kwa sababu ya tofauti inayopatikana katika kuhesabu silabi.
+cv_swa_000469 common_voice_sw_28394031.mp3 Anafahamika sana kwa kucheza filamu na tamthilia za Kimarekani.
+cv_swa_000470 common_voice_sw_31255359.mp3 Kufa kufaana
+cv_swa_000471 common_voice_sw_31255371.mp3 Ziwa Edward liko katika mwinuko wa mita mia tisa na ishirini
+cv_swa_000472 common_voice_sw_31255630.mp3 Habari hizo na nyinginezo za ushirika wa Idi Amin zilimfanya Mwalimu Nyerere kwenda Beira
+cv_swa_000473 common_voice_sw_31255631.mp3 Hapa ndipo nilipoanza kuwa na hamu ya kufanya kazi na jamii za teknolojia.
+cv_swa_000474 common_voice_sw_31255632.mp3 Wema hauozi
+cv_swa_000475 common_voice_sw_33388865.mp3 yenye kuwatumikia wananchi na sio ya kuwatawalaserikali itakayowahamasisha na sio kuwaghadhabisha na serikali
+cv_swa_000476 common_voice_sw_33388867.mp3 Fikra zilishahamia katika ushindani dhidi yake
+cv_swa_000477 common_voice_sw_33388869.mp3 Kijana yuko vizuri sana nadhani amechukua kipawa cha mama yake na baba yake
+cv_swa_000478 common_voice_sw_33388871.mp3 zote zinajaribu kuiga mifano ya ushirika wa kwanza inayopatikana
+cv_swa_000479 common_voice_sw_33388870.mp3 na waziri mkuu ni kiongozi wa serikali Shirikisho la Urusi linafuata muundo wa
+cv_swa_000480 common_voice_sw_30720342.mp3 Fanya hivi mara mbili kwa wiki kwa matokeo ya haraka
+cv_swa_000481 common_voice_sw_30720343.mp3 Mjerumani Karl Peters alifaulu kupata mkataba wa ushirikiano na Kabaka
+cv_swa_000482 common_voice_sw_30720344.mp3 Msomaji wa kazi ya fasihi ni kama mlaji wa chakula ambacho kimaendaliwa na mpishi.
+cv_swa_000483 common_voice_sw_30720345.mp3 unawezaje kumfikiria Yakub anayecheza eneo la Mbagala
+cv_swa_000484 common_voice_sw_30720346.mp3 Walipoanza kuitwa Wanyiramba na Wanyisanzu wakaishi hapo Kisiriri kwa muda mrefu
+cv_swa_000485 common_voice_sw_31414746.mp3 Ukiangalia msimu uliomalizika ni kama hakuna mafanikio kwa klabu lakini hata kwa wachezaji mmojammoja
+cv_swa_000486 common_voice_sw_31414747.mp3 Maradhi ya zinaa ni magonjwa yanayosambazwa kwa njia ya vitendo vya kijinsia
+cv_swa_000487 common_voice_sw_31414748.mp3 hifadhi ni maarufu kwa wanyama jamii ya tumbili wajulikanao kama mbega weusi na weupe
+cv_swa_000488 common_voice_sw_31414749.mp3 hifadhi ya taifa ya mlima kilimanjaro inapatikana mkoani killimanjaro
+cv_swa_000489 common_voice_sw_31414750.mp3 Haikuwa rahisi kwa Siwa kushughulikia kazi za hapa na pale za nyumbani kwao.
+cv_swa_000490 common_voice_sw_28758879.mp3 Aliwahi kucheza timu ya taifa ya Romania.
+cv_swa_000491 common_voice_sw_28758900.mp3 Ni moja kati ya majimbo nane katika Kaunti ya Machakos.
+cv_swa_000492 common_voice_sw_28758903.mp3 Jiwe ni kipande cha mwamba.
+cv_swa_000493 common_voice_sw_28758905.mp3 Msimu huo umegawanyika katika sehemu mbili.
+cv_swa_000494 common_voice_sw_28758906.mp3 Alizaliwa wa tisa kati ya wana.
+cv_swa_000495 common_voice_sw_29944761.mp3 Akatujibu kwamba ni kwa ajili ya kuendesha shule
+cv_swa_000496 common_voice_sw_29944762.mp3 Aliteuliwa na rais John Magufuli kuwa mkuu wa wilaya ya Kisarawe
+cv_swa_000497 common_voice_sw_29944764.mp3 Leo hii Oprah sasa ni kati ya wanawake matajiri duniani
+cv_swa_000498 common_voice_sw_29944765.mp3 mapadri walimsaidia nyerere kusoma ualimu katika chuo cha makelele
+cv_swa_000499 common_voice_sw_29944767.mp3 Wajulishe watu wa nyumbani kuwa mtu mwenye dalili hafifu nyumbani anaweza:
+cv_swa_000500 common_voice_sw_27804057.mp3 Hakuna uhakika kama ulikuwa mji kamili au zaidi tu jumba kubwa la kifalme.
+cv_swa_000501 common_voice_sw_27804061.mp3 Mjomba wake, Tim Mugerwa pia ni mwanamazingira mashuhuri nchini Uganda.
+cv_swa_000502 common_voice_sw_27804062.mp3 Ni chuo kikuu pekee cha kilimo nchini.
+cv_swa_000503 common_voice_sw_27804064.mp3 Ni mwanachama wa Kikundi cha Maendeleo ya Umoja wa Mataifa na kamati kuu yake.
+cv_swa_000504 common_voice_sw_27804066.mp3 Ndani ya kila kanda muda wa saa ni uleule.
+cv_swa_000505 common_voice_sw_28259111.mp3 Pia amewahi kufundisha na kufanya kazi katika vyuo vikuu mbalimbali duniani kote.
+cv_swa_000506 common_voice_sw_28259112.mp3 Baadaye, maji yanakwenda kuchangia mto Kongo na hatimaye Bahari ya Atlantiki.
+cv_swa_000507 common_voice_sw_28259113.mp3 Chombo hicho hutengenezwa kwa mti laini.
+cv_swa_000508 common_voice_sw_28259115.mp3 Kulikuwa hakuna mtu wa kutoa msaada.
+cv_swa_000509 common_voice_sw_28259116.mp3 Sisi na viumbehai vyote huishi juu ya ganda la dunia.
+cv_swa_000510 common_voice_sw_27787640.mp3 Kaizari ni cheo cha mfalme aliye juu ya wafalme wengine.
+cv_swa_000511 common_voice_sw_27787641.mp3 Baada ya kustaafu kabisa alitunga vitabu kadhaa kuhusu maisha yake.
+cv_swa_000512 common_voice_sw_27787643.mp3 Lengo lake lilikuwa kuendeleza matengenezo ya Kiprotestanti, lakini pia kudumisha umoja huo.
+cv_swa_000513 common_voice_sw_27787644.mp3 Barcelona ipo katika pwani ya Bahari ya Mediteranea.
+cv_swa_000514 common_voice_sw_27787645.mp3 Spishi zote zinapatikana katika Afrika.
+cv_swa_000515 common_voice_sw_30575182.mp3 kwa mfano hachikungigwa kudya mbara unadya au unagonela umkota wa mbara wabambuka
+cv_swa_000516 common_voice_sw_30575183.mp3 Jarida la Africa Research Bulletin likaripoti kuwa Sithole amepokea idadi kubwa ya wapiganaji
+cv_swa_000517 common_voice_sw_30575184.mp3 Pia Waha ni wavuvi wa samaki katika ziwa Tanganyika
+cv_swa_000518 common_voice_sw_30575185.mp3 Lava au ujiuji ule unapolipuka hutoka kwa hewa
+cv_swa_000519 common_voice_sw_30577134.mp3 mourinho aliwahi kusema anapenda ligi yenye ushindani
+cv_swa_000520 common_voice_sw_30562246.mp3 jina la kenyatta lilitokana na mkanda aliopenda kuuvaa
+cv_swa_000521 common_voice_sw_30562250.mp3 sasa yako haitaonekana na matokeo yake jana
+cv_swa_000522 common_voice_sw_30562267.mp3 asidi ya maziwa mtindi ni kinga ya ngozi
+cv_swa_000523 common_voice_sw_30562268.mp3 Leo Ulimwengu unapoadhimisha siku ya Ukimwi duniani
+cv_swa_000524 common_voice_sw_30562357.mp3 Kilichoikuta Libya ni sawa na kisa cha kukimbiza mwizi mlango ukiwa wazi
+cv_swa_000525 common_voice_sw_28539764.mp3 Ni nchi ndogo kati ya nchi za Skandinavia.
+cv_swa_000526 common_voice_sw_28539765.mp3 Kwa siasa ya Tanzania, ambayo tangu imeanza mabadiliko yake ni machache sana.
+cv_swa_000527 common_voice_sw_28539766.mp3 Hula mbegu hasa lakini wadudu pia.
+cv_swa_000528 common_voice_sw_28539767.mp3 Inatokea Uhindi ya kaskazini pia.
+cv_swa_000529 common_voice_sw_28539768.mp3 Matukio haya yanaweza kuwa ya kweli au ya kubuni.
+cv_swa_000530 common_voice_sw_28667630.mp3 Katika kuendeleza sheria ya kawaida na usawa, waandishi wa kitaaluma wamekuwa na jukumu muhimu.
+cv_swa_000531 common_voice_sw_28667631.mp3 Uso huo wa nchi ni msingi wa utalii ulio muhimu sana Austria.
+cv_swa_000532 common_voice_sw_28667632.mp3 Pia kuna wasemaji nchi za Botswana, Jamhuri ya Kidemokrasia ya Kongo na Malawi.
+cv_swa_000533 common_voice_sw_28667633.mp3 Kati ya majimbo ya Marekani ni jimbo lenye mapato ya juu kwa kila raia.
+cv_swa_000534 common_voice_sw_28667634.mp3 Uso wao ni kijivu zaidi kuliko mweusi.
+cv_swa_000535 common_voice_sw_29987948.mp3 Pumzika kwa amani tutakukumbuka daima
+cv_swa_000536 common_voice_sw_29987950.mp3 East African Protectorate tarehe moja Julai mwaka elfumoja mianane tisini na tano
+cv_swa_000537 common_voice_sw_29987951.mp3 Aliyekuwa na jumla ya wanawake wanne uku mama yake Nelson
+cv_swa_000538 common_voice_sw_29987953.mp3 Inasemekana kwamba Nono aliondolewa kwa ujanja bila ya misukosuko wala mapigano
+cv_swa_000539 common_voice_sw_29987955.mp3 mazao yanayolimwa nchini kwa wingi ni mahindi na mpunga
+cv_swa_000540 common_voice_sw_27791959.mp3 Makundi hayo matatu pia hupatikana kwenye hifadhi ya mbuga ya Mara.
+cv_swa_000541 common_voice_sw_27791960.mp3 Athira nyingine zilikuwa dansi za wahamiaji kutoka nchi za Ulaya.
+cv_swa_000542 common_voice_sw_27791961.mp3 Hasa aliandika riwaya, hadithi fupi na mashairi.
+cv_swa_000543 common_voice_sw_27791962.mp3 Wanatokea Afrika, Asia, Ulaya na Amerika ya Kaskazini katika maeneo yenye miti.
+cv_swa_000544 common_voice_sw_27791963.mp3 ni migogoro ya kikabila na kisiasa.
+cv_swa_000545 common_voice_sw_31854802.mp3 Shughuli hii sasa imeiva
+cv_swa_000546 common_voice_sw_31854803.mp3 Ana jito kaa glopu
+cv_swa_000547 common_voice_sw_31854804.mp3 seti
+cv_swa_000548 common_voice_sw_31854821.mp3 Sana twatumia ndugu
+cv_swa_000549 common_voice_sw_31854837.mp3 Kanacheka kweli.
+cv_swa_000550 common_voice_sw_30557184.mp3 Ni lazima uwe na mavazi sahihi kama hutaki kuganda au kupata ugonjwa wa mwinuko
+cv_swa_000551 common_voice_sw_30557185.mp3 Walisamehewa dhambi zao kwa kulipia vyeti vya rehema
+cv_swa_000552 common_voice_sw_30557186.mp3 Kutekeleza majukumu ya itifaki na sherehe za Kimkoa au na Kitaifa
+cv_swa_000553 common_voice_sw_30557187.mp3 buganda na busoga walibaki na maeneo yao
+cv_swa_000554 common_voice_sw_30557198.mp3 maraisi wote wa tanzania wametokana na chama kimoja
+cv_swa_000555 common_voice_sw_30600325.mp3 Huyo mama mwenyewe naye hali yake ilikuwa taabani ilikuwa inasikitisha sana
+cv_swa_000556 common_voice_sw_30600326.mp3 Kiwanda cha muda cha kutengeneza sarafu kilianzishwa Tabora
+cv_swa_000557 common_voice_sw_30600327.mp3 Linaendelea kutunzwa kwa manufaa ya vizazi vijavyo
+cv_swa_000558 common_voice_sw_30600328.mp3 Kwani ilikuwa rasmi sasa kukaa na kufanya chochote walichokitaka
+cv_swa_000559 common_voice_sw_30600329.mp3 Mwezi uliofuatia Castro alitoa hotuba yake ya kwanza katika bunge la taifa
+cv_swa_000560 common_voice_sw_30176086.mp3 Kondomu huvaliwa kwenye uume au kwenye uke
+cv_swa_000561 common_voice_sw_30176089.mp3 Aliamua kujenga boma imara lenye kuta za mawe kwenye makao yake makuu Kalenga Iringa
+cv_swa_000562 common_voice_sw_30176090.mp3 Kwa sababu alipendwa sana na mashabiki wa mziki wa aina hii
+cv_swa_000563 common_voice_sw_30176091.mp3 Miaka hiyo ya sabini na themanini kurudi chini liliitwa Mkanyawageni
+cv_swa_000564 common_voice_sw_30176092.mp3 Ukoo wa Mugumbe ulibadili jina ukaitwa abalenchoka au wala nyoka
+cv_swa_000565 common_voice_sw_31087701.mp3 Wapo pia fisi na wengineo wengi wa kuvutia machoni
+cv_swa_000566 common_voice_sw_31087702.mp3 Walikuta Watu wa Pwani wakiwa na mahusiano ya kibiahsra na Wadigo
+cv_swa_000567 common_voice_sw_31087703.mp3 yako na zaidi kesho yako itakuwa ni giza
+cv_swa_000568 common_voice_sw_31087704.mp3 Maji haya pia yanaweza kutumika katika kilimo cha umwagiliaji na ufugaji wa samaki
+cv_swa_000569 common_voice_sw_31087705.mp3 upande wa mashitaka ulishindwa kuthibitisha mashitaka yao
+cv_swa_000570 common_voice_sw_28531078.mp3 Kazi yake ni kutafsiri, kuandaa na kutoa maelezo ya Biblia kwa Kiswahili.
+cv_swa_000571 common_voice_sw_28531080.mp3 Alikuwa maarufu kama mwigizaji na mwandishi wa tamthiliya.
+cv_swa_000572 common_voice_sw_28531082.mp3 Kila kiti kuna simu na runinga.
+cv_swa_000573 common_voice_sw_28531083.mp3 Tazama orodha hii kwa habari kamili.
+cv_swa_000574 common_voice_sw_28531084.mp3 Iko kwenye pwani la Pasifiki.
+cv_swa_000575 common_voice_sw_28245554.mp3 Aliwahi kucheza timu ya taifa ya Kanada.
+cv_swa_000576 common_voice_sw_28245557.mp3 Pili alikulia katika familia kubwa.
+cv_swa_000577 common_voice_sw_28245830.mp3 na Mwongozo wa Wasichana.
+cv_swa_000578 common_voice_sw_28245832.mp3 Lakini zina upungufu mkubwa wa walimu.
+cv_swa_000579 common_voice_sw_28245833.mp3 Wakazi wengi ni wakulima na wafugaji wa wanyama kama vile ng'ombe, mbuzi na kondoo.
+cv_swa_000580 common_voice_sw_28581345.mp3 Baadaye alihamia Uingereza.
+cv_swa_000581 common_voice_sw_28581346.mp3 Pia kuna wasemaji wachache nchini Uchina.
+cv_swa_000582 common_voice_sw_28581347.mp3 Walikuwa na shabaha ya kuvunja roho ya upinzani kati ya wazalendo.
+cv_swa_000583 common_voice_sw_28581348.mp3 Sikukuu yake huadhimishwa tarehe ya kifodini chake.
+cv_swa_000584 common_voice_sw_28581349.mp3 Mkia ni mfupi hadi mfupi sana na hujumuisha manyoya kumi na mawili.
+cv_swa_000585 common_voice_sw_30667025.mp3 kijiji cha mto wa mbu kinapatikana mkoani arusha
+cv_swa_000586 common_voice_sw_30667026.mp3 Na sindano ya tatu baada ya miezi sita
+cv_swa_000587 common_voice_sw_30667027.mp3 Lugha ya Kiswahili imeanza kutumika kiasi cha karne ya kumi na tatu
+cv_swa_000588 common_voice_sw_30667028.mp3 serengeti inapakana na hifadhi ya masai mara ya nchini kenya

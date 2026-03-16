@@ -1,0 +1,550 @@
+M-AILABS_spa_000273	eneida_14_virgilio_f000160	Viene también, enviado por el rey Archipo, el fortísimo Umbro, sacerdote de la nación Marruvia, ceñido el yelmo de ramos de feliz oliva,
+M-AILABS_spa_000274	arapiles_14_perezgaldos_f000027	-No, tonto, no me ahorcaron.
+M-AILABS_spa_000275	el19demarzoyel2demayo_12_perezgaldos_f000107	¡Ah! ¡Cuánto me quería!
+M-AILABS_spa_000276	corte_de_carlos_iv_04_perezgaldos_f000059	limpiar las cornucopias;
+M-AILABS_spa_000277	eneida_20_virgilio_f000106	Turno entonces, creyendo que realmente va Eneas fugitivo, revuelve en su hinchado pecho una vana esperanza y exclama: ¿A do huyes Eneas?
+M-AILABS_spa_000278	angelina_50_delgado_f000015	pasa cerca de mí y no se digna saludarme;
+M-AILABS_spa_000279	bailen_16_perezgaldos_f000012	-dijo Santorcaz, atrayendo en su alrededor un círculo de soldados-.
+M-AILABS_spa_000280	eneida_09_virgilio_f000180	Empínase de pronto Entelo y levanta la diestra; veloz el otro prevé el golpe que le amenaza por alto y lo esquiva ladeando rápidamente el cuerpo; piérdese en el aire el esfuerzo de Entelo,
+M-AILABS_spa_000281	trafalgar_09_perezgaldos_f000069	me pregunté si aquella operación no era la menos a propósito dentro de un buque,
+M-AILABS_spa_000282	trafalgar_08_perezgaldos_f000144	El almirante francés--dijo Churruca--, no sabiendo qué resolución tomar, y deseando hacer algo que ponga en olvido sus errores,
+M-AILABS_spa_000283	corte_de_carlos_iv_16_perezgaldos_f000023	Aquella noche fue para mí muy interesante porque presencié la prisión de Pedro Collado
+M-AILABS_spa_000284	cuentosclasicosprimera_02_poe_f000184	-¿Que cómo sé? Poque habla de eso cuando duerme. Po eso toy seguro.
+M-AILABS_spa_000285	bailen_28_perezgaldos_f000005	-¿Qué estás diciendo?
+M-AILABS_spa_000286	cuentosclasicosprimera_05_poe_f000348	ciertos ruidos sordos e indistintos que venían a largos intervalos, yo no sé de dónde, entre las pausas de la tempestad.
+M-AILABS_spa_000287	cuentosclasicosprimera_04_poe_f000108	y es inútil proseguir relatando los detalles de la solución.
+M-AILABS_spa_000288	angelina_15_delgado_f000008	Oyóme de buena voluntad lo cual me pareció de buen agueero y me prometió ocuparse en el asunto a la mayor brevedad.
+M-AILABS_spa_000289	trafalgar_07_perezgaldos_f000018	A mí se me ensanchaba el pecho con la vista del paisaje, con la alegría y frescura de la mañana y, sobre todo, con la idea de ver pronto a Cádiz y su incomparable bahía poblada de naves;
+M-AILABS_spa_000290	angelina_57_delgado_f000040	agradezco infinito la bondad con que usted me trata, la amabilidad con que me distingue...
+M-AILABS_spa_000291	bailen_31_perezgaldos_f000134	En tanto doña María, no pudiendo resistir más salió del cuarto con sus niñas.
+M-AILABS_spa_000292	eneida_19_virgilio_f000150	ni el ser hijos de Melampo, compañero de Alcides, todo el tiempo que por la tierra se ejercitó en duros trabajos.
+M-AILABS_spa_000293	eneida_22_virgilio_f000077	siempre se opone por blanco a las armas enemigas.
+M-AILABS_spa_000294	angelina_02_delgado_f000094	¡peor que si los tuviera! Aquí me tienes, clavada en el butaque, sin poder dar un paso;
+M-AILABS_spa_000295	angelina_62_delgado_f000064	y me parecía que las alegres memorias de la infancia alejaban de mí pesares y dolores.
+M-AILABS_spa_000296	damadelascamelias_11_dumas_f000152	-Hé aquí otra, prosiguió Margarita quitándose el vestido y poniéndose un peinador blanco;
+M-AILABS_spa_000297	eneida_20_virgilio_f000093	y entiendes que así debo resolverlo, llévate del campo a Turno por medio de la fuga, y sustráele de esa suerte a los hados, que le acosan: es cuanto mi bondad puede otorgarte;
+M-AILABS_spa_000298	corte_de_carlos_iv_21_perezgaldos_f000171	Aquí vamos a ver cosas gordas y es preciso que estemos preparados
+M-AILABS_spa_000299	arapiles_33_perezgaldos_f000089	¡Viva Inglaterra! -¡Viva el emperador!
+M-AILABS_spa_000300	arapiles_35_perezgaldos_f000041	Sostenernos aquí, atraer el mayor número posible de tropas enemigas, para que Cole y Bradford no hallen gran resistencia en el centro.
+M-AILABS_spa_000301	el19demarzoyel2demayo_05_perezgaldos_f000139	-¡Ay, Gabriel!
+M-AILABS_spa_000302	napoleonenchamartin_08_perezgaldos_f000208	-En esta casa no se consiente gente perdida, porque juro y rejuro que los que hablan así de la batalla de Espinosa de los Monteros son espías de los franceses, y no digo más.
+M-AILABS_spa_000303	angelina_60_delgado_f000046	Cásate. Yo no me casé porque cuando pude hacerlo ya era viejo, y además no necesitaba de familia.
+M-AILABS_spa_000304	angelina_21_delgado_f000020	Desde la entrada del pueblo principian los puestos,-las vendimias, como dicen en Villaverde-las fondas y los figones,
+M-AILABS_spa_000305	arapiles_19_perezgaldos_f000054	En la oscuridad, servíanme de guía su forma blanca que se deslizaba entre las dos negras paredes, y el ruido de su vestido al rozar contra una y otra en la precipitada marcha.
+M-AILABS_spa_000306	napoleonenchamartin_05_perezgaldos_f000127	¡Oh, infeliz de mí! Era el mes de Noviembre y no tenía más traje decente que uno de verano, sutilísimo, a quien cuidaba más que si fuera las telas de mi corazón, y me lo puse, con peligro de perecer helado.
+M-AILABS_spa_000307	napoleonenchamartin_19_perezgaldos_f000090	¿Y qué es la muerte?
+M-AILABS_spa_000308	bailen_02_perezgaldos_f000031	¿Y ustedes quiénes son?
+M-AILABS_spa_000309	damadelascamelias_10_dumas_f000020	! En seguida se levantó, y tomando una luz púsola sobre la chimenea y se miró al espejo.
+M-AILABS_spa_000310	arapiles_35_perezgaldos_f000043	¡Arriba, siempre arriba!
+M-AILABS_spa_000311	trafalgar_15_perezgaldos_f000146	se meten por donde quieren, hacen astillas con el empuje de su afilada proa a los barcos contrarios, y con un par de cañonazos...
+M-AILABS_spa_000312	cuentosclasicosprimera_05_poe_f000193	trataría en vano de expresar algo más que una pequeñísima parte capaz de encerrarse en el compás de la palabra escrita.
+M-AILABS_spa_000313	napoleonenchamartin_04_perezgaldos_f000012	-Sí que vendrá -añadió la mayor-, pues quedé en pegarle dos botones en el cuello, y él dijo que traería la cinta azul.
+M-AILABS_spa_000314	napoleonenchamartin_21_perezgaldos_f000019	Pero a otra, y díganme de una vez en qué términos se ha hecho esa maldita capitulación.
+M-AILABS_spa_000315	el19demarzoyel2demayo_02_perezgaldos_f000053	Ya saben Godoy y Bonaparte lo que se hacen.
+M-AILABS_spa_000316	el19demarzoyel2demayo_27_perezgaldos_f000032	después el ardor de la refriega, el odio contra los franceses que se comunicaba de corazón a corazón de un modo pasmoso, me indujeron a obrar enérgicamente en prode los míos.
+M-AILABS_spa_000317	napoleonenchamartin_27_perezgaldos_f000022	-¿Pero dónde estabas tú? -me dijo.
+M-AILABS_spa_000318	napoleonenchamartin_26_perezgaldos_f000100	-Dale con la condesa. Que no, que no está. La esperábamos esta tarde;
+M-AILABS_spa_000319	angelina_27_delgado_f000053	Acaso debí contártela antes de dar oídos a tu amor, antes de confesarte mi cariño.
+M-AILABS_spa_000320	el19demarzoyel2demayo_28_perezgaldos_f000043	¡Ah! ¿Ya estás aquí, Tripita? -gritó al verme-.
+M-AILABS_spa_000321	angelina_00_delgado_f000070	En esos países donde hay siempre margaritas que deshojar, versos ingenuos en los abanicos,
+M-AILABS_spa_000322	eneida_03_virgilio_f000059	¿Cuál es la víctima que reclama Apolo?
+M-AILABS_spa_000323	cuentosclasicosprimera_07_poe_f000023	Había bufones, trovadores, bailarines de ballet, músicos, vino y belleza.
+M-AILABS_spa_000324	eneida_10_virgilio_f000146	y el Janto no podía abrirse camino para correr al mar, yo arrebaté en una hueca nave a Eneas, empeñado en lid con el fuerte hijo de Peleo, protegido por su mayor pujanza y por el favor de los dioses,
+M-AILABS_spa_000325	eneida_10_virgilio_f000129	Ya las mismas matronas, ya aun los mismos a quienes antes amedrentaba el aspecto del mar, y hasta sólo su nombre se hacía intolerable, quieren partir también y arrostrar todos los trabajos de la fuga.
+M-AILABS_spa_000326	eneida_06_virgilio_f000058	ni iluminaba el firmamento la menor claridad, antes todo era nieblas en el oscuro cielo, y una borrascosa noche envolvía en sus sombras a la luna.
+M-AILABS_spa_000327	corte_de_carlos_iv_17_perezgaldos_f000145	Pero así lo hemos encontrado, y puesto que no está en nuestra mano reformarlo, siga como hasta aquí.
+M-AILABS_spa_000328	el19demarzoyel2demayo_09_perezgaldos_f000084	y puesta en una berlina fue llevada en ca el palacio de los reyes, como decía Pujitos, quien sin que nadie se lo ordenara, se encargó de tan caballeresca comisión.
+M-AILABS_spa_000329	cuentosclasicosprimera_03_poe_f000121	-¡Y todo eto po la cucaracha de oro! ¡la linda cucaracha de oro! ¡la pobre cucarachita de oro que yo maltrataba como un bestia!
+M-AILABS_spa_000330	angelina_13_delgado_f000096	-¡Si es tan buena! ¡Si te quiere tanto!
+M-AILABS_spa_000331	arapiles_11_perezgaldos_f000107	En el tiempo marcado puede hacerse lo que encargo.
+M-AILABS_spa_000332	cuentosclasicosprimera_05_poe_f000029	pero habían transcurrido muchos años desde nuestra última entrevista.
+M-AILABS_spa_000333	cuentosclasicosprimera_05_poe_f000118	y sobre todo, me deslumbraba el brillo maravilloso de sus ojos, produciéndome casi una especie de pavor.
+M-AILABS_spa_000334	napoleonenchamartin_22_perezgaldos_f000121	-Es verdad -afirmó el dominico-, porque esos señores han estado jugando a dos juegos, y con todo el mundo quieren comer.
+M-AILABS_spa_000335	angelina_22_delgado_f000142	asida con el pulgar y el índice de la mano derecha, una cosita, roja como fresa estival, la lengua sanguinolenta, acabadita de cortar.
+M-AILABS_spa_000336	el19demarzoyel2demayo_14_perezgaldos_f000031	Con la tienda y la casa de préstamos, se han puesto las botas.
+M-AILABS_spa_000337	damadelascamelias_11_dumas_f000115	Algunos instantes Después llamaron de nuevo.
+M-AILABS_spa_000338	corte_de_carlos_iv_28_perezgaldos_f000043	-¿Pues qué? Usted.
+M-AILABS_spa_000339	angelina_28_delgado_f000009	algunas veces pedía yo pan y no había pan para mí.
+M-AILABS_spa_000340	corte_de_carlos_iv_13_perezgaldos_f000015	Esto me pareció algo misterioso e incomprensible;
+M-AILABS_spa_000341	angelina_04_delgado_f000133	Oyóse el repicar de una campanilla.
+M-AILABS_spa_000342	napoleonenchamartin_27_perezgaldos_f000019	Sus manos, sus brazos temblaban entre los míos de un modo alarmante;
+M-AILABS_spa_000343	arapiles_37_perezgaldos_f000088	Vuestra cara es otra.
+M-AILABS_spa_000344	damadelascamelias_06_dumas_f000126	Comprendí lo que iba á suceder cuando el dolor disminuyese por la ausencia del espectáculo y en consecuencia ya no le sostuviese.
+M-AILABS_spa_000345	napoleonenchamartin_04_perezgaldos_f000056	Yo me encargo de catequizarte.
+M-AILABS_spa_000346	el19demarzoyel2demayo_23_perezgaldos_f000032	Los Requejos macho y hembra se miraron con espanto.
+M-AILABS_spa_000347	arapiles_33_perezgaldos_f000063	Esperarla, darle respiro, es decir, aparentar siquiera fuese por un momento que se la temía, habría sido renunciar de antemano a toda ventaja.
+M-AILABS_spa_000348	angelina_52_delgado_f000069	Ahora no es tiempo de pensar en el novio, señor mió;
+M-AILABS_spa_000349	eneida_15_virgilio_f000026	En cuanto las primeras estrellas desaparezcan bajo el horizonte, ofrece a Juno las debidas preces y aplaca a fuerza de suplicantes votos su ira y sus amenazas.
+M-AILABS_spa_000350	bailen_23_perezgaldos_f000019	todos ponemos atento el oído, y al fin nos reconocemos, sin vernos, porque el corazón a unos y otros nos dice: Ahí están.
+M-AILABS_spa_000351	arapiles_30_perezgaldos_f000037	Allí la hija parecía más que una hija una tierna madre, que se finge enojada con el precioso niño porque no quiere tomar las medicinas.
+M-AILABS_spa_000352	corte_de_carlos_iv_11_perezgaldos_f000011	dignos de hacer fijar la atención.
+M-AILABS_spa_000353	bailen_13_perezgaldos_f000088	pero siempre me he negado a ceder a sus ruegos para salir.
+M-AILABS_spa_000354	el19demarzoyel2demayo_12_perezgaldos_f000083	Desde anteanoche hasta esta mañana estuvo en un desván, envuelto en un saco de esteras, muerto de hambre y de sed.
+M-AILABS_spa_000355	damadelascamelias_05_dumas_f000078	-¿Y quién os ha dado esa órden?
+M-AILABS_spa_000356	bailen_04_perezgaldos_f000055	-decía aquel curioso servidor-, se llevó consigo a la jovenzuela.
+M-AILABS_spa_000357	corte_de_carlos_iv_19_perezgaldos_f000039	-Dígame usted lo que tengo que hacer -dije deseando ardientemente que la posesión del doblón que brillaba ante mis ojos fuera compatible con la dignidad de un hombre como yo.
+M-AILABS_spa_000358	corte_de_carlos_iv_21_perezgaldos_f000083	Mientras desempeñaba yo por Madrid tantas y tan diferentes comisiones, iba recitando de memoria los versos de la parte de Pésaro;
+M-AILABS_spa_000359	corte_de_carlos_iv_21_perezgaldos_f000160	-Pues los tenderos, los frailes, los currutacos, los usías, los abates, y los covachuelistas y toda esa gente que anda por ahí
+M-AILABS_spa_000360	corte_de_carlos_iv_15_perezgaldos_f000030	porque con la leche en los labios empezó a disfrutar las rentas de la mitra de Sevilla, y no cumplidos aún los veintitres,
+M-AILABS_spa_000361	damadelascamelias_11_dumas_f000213	-¿Permitís que me acueste?
+M-AILABS_spa_000362	cuentosclasicosprimera_05_poe_f000006	No sé por qué, pero a la primera ojeada al edificio, un sentimiento de tristeza intolerable se apoderó de mi espíritu.
+M-AILABS_spa_000363	damadelascamelias_20_dumas_f000113	Os separareis de esa mujer.
+M-AILABS_spa_000364	damadelascamelias_22_dumas_f000127	- ¿ Estais seguro de ello?
+M-AILABS_spa_000365	corte_de_carlos_iv_24_perezgaldos_f000118	Pero dime, chiquilla, dime quién es ese hombre.
+M-AILABS_spa_000366	angelina_20_delgado_f000100	Sin embargo, la noche fué penosa.
+M-AILABS_spa_000367	arapiles_29_perezgaldos_f000012	Le diré que venga al instante a Salamanca.
+M-AILABS_spa_000368	bailen_20_perezgaldos_f000036	Cuantos componían la cuadrilla estaban presentes, menos Santorcaz, el cual desde nuestra llegada había pedido con mucha prisa a Don Paco recado de escribir, y puéstose a trazar unas cartas en el despacho de este.
+M-AILABS_spa_000369	arapiles_24_perezgaldos_f000147	-Señores -exclamó el oficial francés entrando con Santorcaz- buenas noches... ¿Se trabaja?
+M-AILABS_spa_000370	napoleonenchamartin_07_perezgaldos_f000021	-El señor de Mañara y Don Luis de Santorcaz.
+M-AILABS_spa_000371	arapiles_04_perezgaldos_f000011	a cuyo amparo habíamos resuelto sestear, sentí algazara en los primeros grupos de soldados, que marchaban delante,
+M-AILABS_spa_000372	arapiles_37_perezgaldos_f000164	Si durante mucho tiempo he disimulado y aparentado huir de vos,
+M-AILABS_spa_000373	angelina_48_delgado_f000019	-Sí. -Pues... ¡aquí están los caballos! Cuando usted lo disponga...
+M-AILABS_spa_000374	napoleonenchamartin_29_perezgaldos_f000042	pero el Gran Capitán no se rinde,hasta que cesó la voz;
+M-AILABS_spa_000375	cuentosclasicosprimera_01_poe_f000186	Luchaba con su peso, y la había colocado a medias en la posición deseada
+M-AILABS_spa_000376	trafalgar_04_perezgaldos_f000182	--¡Pobre hombre!...
+M-AILABS_spa_000377	napoleonenchamartin_24_perezgaldos_f000096	Cierto es que por desgracias de familia, tan comunes en estos tiempos, viose reducido a la indigencia;
+M-AILABS_spa_000378	cuentosclasicosprimera_07_poe_f000044	La cuarta estaba amueblada y alumbrada en tono anaranjado;
+M-AILABS_spa_000379	angelina_11_delgado_f000064	alejaban de mi ánimo toda idea mezquina y todo pensamiento humillante.
+M-AILABS_spa_000380	cuentosclasicosprimera_08_poe_f000205	pero os vi entonces erguiros en toda vuestra altura,
+M-AILABS_spa_000381	eneida_21_virgilio_f000178	¡No hay para nosotros salvación posible en la guerra! ¡Insensato!
+M-AILABS_spa_000382	cuentosclasicosprimera_02_poe_f000088	-esto es un escarabajo muy extraño, he de confesarlo;
+M-AILABS_spa_000383	corte_de_carlos_iv_17_perezgaldos_f000186	su poderío está sostenido por hebras de seda, que las tijeras de una mujer pueden cortar.
+M-AILABS_spa_000384	angelina_06_delgado_f000011	Después las brumas entristecen los paisajes, y con ellas, puntuales mensajeras del plañidero noviembre,
+M-AILABS_spa_000385	angelina_18_delgado_f000084	Ya sabes que para esas cosas tengo yo buenos ojos.
+M-AILABS_spa_000386	arapiles_34_perezgaldos_f000072	-En efecto, mi general -dije-.
+M-AILABS_spa_000387	angelina_51_delgado_f000022	educada con esmero;
+M-AILABS_spa_000388	damadelascamelias_09_dumas_f000110	En fin, sea naturaleza, sea consecuencia de su doliente estado,
+M-AILABS_spa_000389	arapiles_29_perezgaldos_f000214	¡Esta mañana creímos morir aquí!
+M-AILABS_spa_000390	damadelascamelias_13_dumas_f000188	Sobre las doce, un carruaje que yo conocia mucho se detuvo delante del número nueve.
+M-AILABS_spa_000391	angelina_18_delgado_f000154	Angelina seguía cosiendo.
+M-AILABS_spa_000392	napoleonenchamartin_25_perezgaldos_f000204	Cuando Santorcaz y sus amigos me manifestaron su plan, sentí aquí dentro cierta repugnancia y no la oculté.
+M-AILABS_spa_000393	eneida_20_virgilio_f000150	Cedico mata a Alcatos, Sacrator a Hispades, Rapo a Partenio y al forzudo Orses; Mesapo a Clonio y a Ericetes de Licaonia; aquel yacía en tierra caído de su caballo desbocado, y este peleaba a pie.
+M-AILABS_spa_000394	eneida_07_virgilio_f000032	¡Oh hermana!
+M-AILABS_spa_000395	corte_de_carlos_iv_09_perezgaldos_f000182	-¡Ah, Gabriel! -contestó-, ¿y Pepita y doña Dominga?
+M-AILABS_spa_000396	angelina_27_delgado_f000020	Entonces Angelina hacía otro ramillete, un ramilletín muy cuco, para que alegrara mi recámara,
+M-AILABS_spa_000397	eneida_04_virgilio_f000114	¿Cuál trance más cruel había visto en la asolada ciudad?
+M-AILABS_spa_000398	trafalgar_13_perezgaldos_f000099	¡Pobre amita mía! ¡Cuán grande había de ser su angustia en aquellos momentos! Mi corazón concluía siempre por llenarse de bondad;
+M-AILABS_spa_000399	angelina_01_delgado_f000071	y apiladas en torno de mi taza, las místicas y caducas balsaminas,-los chinos de castor,-que de ordinario engalanaban la humilde lamparilla de la Dolorosa,
+M-AILABS_spa_000400	corte_de_carlos_iv_24_perezgaldos_f000136	Yo no soy así: amo el secreto; y si triunfara, gustaría de tener oculta mi felicidad:
+M-AILABS_spa_000401	angelina_52_delgado_f000057	¡tan rica! -No, tía. Mi corazón tiene dueño. -¿Y quién es?
+M-AILABS_spa_000402	eneida_10_virgilio_f000069	Esta noche, se me ha aparecido en sueños la profetisa Casandra, dándome unas teas encendidas y diciéndome: Buscad aquí a Troya; aquí está vuestra morada.
+M-AILABS_spa_000403	corte_de_carlos_iv_05_perezgaldos_f000040	Siempre que se daba alguna función extraordinaria en cualquiera de las principales casas de la corte, ella hacía la mejor parte
+M-AILABS_spa_000404	angelina_60_delgado_f000064	A las nueve y media llegué a la casa de Gabriela.
+M-AILABS_spa_000405	angelina_54_delgado_f000086	Andrés vino a cenar conmigo.
+M-AILABS_spa_000406	bailen_29_perezgaldos_f000099	¡Quién sabe si cogerían prisionero al niño!
+M-AILABS_spa_000407	damadelascamelias_12_dumas_f000121	Madama Duvernoy está en el secreto.
+M-AILABS_spa_000408	damadelascamelias_21_dumas_f000052	- casí estoy tentado de esperar que me mande llamar.
+M-AILABS_spa_000409	trafalgar_04_perezgaldos_f000185	los ingleses, sabiendo que yo no era bailarín, creyeron que tenía bastante con una.
+M-AILABS_spa_000410	damadelascamelias_08_dumas_f000087	pero Margarita no puede verle ni en pintura, y hace mal, porque es un mozo muy rico.
+M-AILABS_spa_000411	cuentosclasicosprimera_10_poe_f000116	y lo que causaba mi mayor sorpresa era la circunstancia de no haber advertido antes el objeto en cuestión.
+M-AILABS_spa_000412	cuentosclasicosprimera_05_poe_f000290	antes de proceder a su definitiva inhumación.
+M-AILABS_spa_000413	damadelascamelias_03_dumas_f000025	Como yo había ido para observar, mas que para comprar, contemplaba la figura de los subastadores, cuyas facciones se regocijaban cada vez que el objeto llegaba á un precio que no se habían atrevido á esperar.
+M-AILABS_spa_000414	angelina_18_delgado_f000016	Andrés tomaba asiento lejos de nosotros, en la otra cabecera, siempre distante de sus amos,
+M-AILABS_spa_000415	angelina_58_delgado_f000002	Oí que preguntaban por mí, dejé la pluma, me restregué los ojos y salí al corredor.
+M-AILABS_spa_000416	damadelascamelias_18_dumas_f000054	sin que yo supiera que pensar de aquella correspondencia.
+M-AILABS_spa_000417	eneida_01_virgilio_f000039	Deyopea, a fin de que, en recompensa de tales favores, more perpetuamente contigo y te haga padre de hermosa prole.
+M-AILABS_spa_000418	bailen_06_perezgaldos_f000038	Mira, ahora tenemos enfrente los pantanos de Satzchan y a nuestra izquierda la colina de Pratzen.
+M-AILABS_spa_000419	arapiles_23_perezgaldos_f000125	Creí sentir el ruido de las maderas de una ventanilla que se abría en lo alto, y grité: -¡Ah de la casa!
+M-AILABS_spa_000420	el19demarzoyel2demayo_01_perezgaldos_f000022	y después, cuando el molde había hecho su papel mecánico, mis dedos lo descomponían, distribuyendo las letras: cada cual se iba a su casilla, como los simples que el químico guarda después de separados;
+M-AILABS_spa_000421	napoleonenchamartin_26_perezgaldos_f000126	Yo no quería faltar al solemne compromiso contraído con ella, cuando le prometí no presentarme jamás a su hija;
+M-AILABS_spa_000422	angelina_35_delgado_f000058	el huele de noche no tenía aromas, y el agua corría silenciosa por el sumidero del pilón.
+M-AILABS_spa_000423	arapiles_07_perezgaldos_f000089	lo cual es cómodo y de gran provecho en la vida.
+M-AILABS_spa_000424	trafalgar_04_perezgaldos_f000049	Corneta tenga bien provistos los pañoles de la pólvora--contestó Marcial señalando al corazón--, ya se van a reír esos señores casacones.
+M-AILABS_spa_000425	arapiles_09_perezgaldos_f000135	-Estad tranquilo, pues los aliados entrarán en Salamanca, y entonces fácilmente... -Cuando entren los aliados, mi enemigo y su víctima habrán huido corriendo hacia Francia.
+M-AILABS_spa_000426	eneida_11_virgilio_f000191	En frente, tendido en su cueva, el enorme Cerbero atruena aquellos sitios con los ladridos de su trifauce boca.
+M-AILABS_spa_000427	eneida_18_virgilio_f000040	Y al mismo tiempo ase de él mientras pendía del muro, y con parte de este lo arranca, trayéndolo hacia sí, no de otra suerte que cuando el águila armígera de Júpiter levanta en sus garras a una liebre o a un cándido cisne,
+M-AILABS_spa_000428	angelina_24_delgado_f000134	En el oratorio había misa, pero muy silenciosa y triste.
+M-AILABS_spa_000429	arapiles_19_perezgaldos_f000128	infinito, de este desgraciado... Inés, dame la mano, ¿por qué lloras... vamos, vamos, basta de gazmoñerías... Las mujeres son mimosas y antojadizas... Vamos, hijita, ya sabes que no quiero lágrimas.
+M-AILABS_spa_000430	trafalgar_12_perezgaldos_f000044	Apuesto a que no ha sido apresado el Nepomuceno.
+M-AILABS_spa_000431	angelina_07_delgado_f000073	Dejó el libro en la mesa, un horacio antiquísimo, y vino paso a paso a recibirme.
+M-AILABS_spa_000432	arapiles_34_perezgaldos_f000036	El brigadier Pack me llamó, diciéndome: -Corred al cuartel general y decid al lord lo que pasa.
+M-AILABS_spa_000433	angelina_30_delgado_f000068	Y agregaba-Dios pagará a ustedes este buen rato...
+M-AILABS_spa_000434	damadelascamelias_09_dumas_f000202	Yo sufria á la idea del mal que debían causar á su frágil organizacion aquellos escesos de todos los dias.
+M-AILABS_spa_000435	angelina_39_delgado_f000032	Discutimos largamente el punto;
+M-AILABS_spa_000436	bailen_06_perezgaldos_f000009	y sombrío, la tierra húmeda, a consecuencia del fuerte temporal de agua que descargara el día anterior.
+M-AILABS_spa_000437	corte_de_carlos_iv_06_perezgaldos_f000051	-Pepa, Usted me electriza -dijo el marqués clavando en ella con amor sus turbios y amortiguados ojos-.
+M-AILABS_spa_000438	cuentosclasicosprimera_12_poe_f000131	y tercera que, entre dos cuerpos de igual tamaño
+M-AILABS_spa_000439	el19demarzoyel2demayo_20_perezgaldos_f000059	Cuando la veo tan dulce, tan modesta, tan guapa, me da lástima que... Aquí la tratan de un modo que da compasión... -Pero los amos son muy buenos con ella; la han comprado un vestido, y Don Mauro quiere que sea su mujer.
+M-AILABS_spa_000440	napoleonenchamartin_27_perezgaldos_f000050	Para mí valiera más no haber nacido.
+M-AILABS_spa_000441	arapiles_19_perezgaldos_f000094	Todos mis esfuerzos para complacerte, mi empeño en hacerte agradable esta vida, el bienestar tranquilo que te he proporcionado,
+M-AILABS_spa_000442	corte_de_carlos_iv_18_perezgaldos_f000261	Veo que eres demasiado listo, y el exceso de celo puede costarte caro.
+M-AILABS_spa_000443	damadelascamelias_08_dumas_f000008	Estaba demudada, como tengo dicho, y en su boca ya no vi su indiferente sonrisa.
+M-AILABS_spa_000444	napoleonenchamartin_21_perezgaldos_f000098	Pues sí, eso está muy bonito.
+M-AILABS_spa_000445	arapiles_27_perezgaldos_f000077	De grado o por fuerza arrancaremos a Inés de su lado y la enviaremos bien custodiada a Madrid.
+M-AILABS_spa_000446	arapiles_39_perezgaldos_f000068	la tan aborrecida como adorada, que es el terror de   mis noches y el espanto de mis días, y el abismo que se traga mi alma.
+M-AILABS_spa_000447	arapiles_01_perezgaldos_f000028	es fácil que perdamos el litigio dentro de algunos meses, pues para perder no es preciso esperar siglos.
+M-AILABS_spa_000448	trafalgar_06_perezgaldos_f000146	Nuestra marina quedó al arbitrio del Primer Cónsul, ya Emperador, quien, aspirando a vencer por el engaño a los ingleses,
+M-AILABS_spa_000449	napoleonenchamartin_07_perezgaldos_f000157	Huiré para ir a donde no me vuelva a ver;
+M-AILABS_spa_000450	angelina_04_delgado_f000111	A veces,-agregó, haciendo un mohín risueño,-está insufrible.
+M-AILABS_spa_000451	eneida_18_virgilio_f000035	así militaba sin gloria, con una espada desnuda y una rodela sin ningún trofeo.
+M-AILABS_spa_000452	angelina_61_delgado_f000028	Estaba muy contenta, contentísima.
+M-AILABS_spa_000453	el19demarzoyel2demayo_07_perezgaldos_f000061	-Pero en resumen -dijo al fin- ¿qué es lo que mi señor sacristán espera?
+M-AILABS_spa_000454	angelina_14_delgado_f000009	el doctor don Crisanto Sarmiento, retrógrado por los cuatro costados, que vivía suspirando por el régimen colonial,
+M-AILABS_spa_000455	napoleonenchamartin_22_perezgaldos_f000179	Durante la lectura de este decreto, no se oyó en la celda de Ximénez otro rumor que el producido por el vuelo de una mosca, que andaba a vueltas tras los restos del chocolate prioral, como Bonaparte tras los reinos de España.
+M-AILABS_spa_000456	trafalgar_06_perezgaldos_f000006	los tres caminábamos lentamente, conforme al flojo andar de Don Alonso y a la poca destreza de la pierna postiza del marinero.
+M-AILABS_spa_000457	damadelascamelias_26_dumas_f000206	Tosí y arrojé sangre toda la noche.
+M-AILABS_spa_000458	angelina_32_delgado_f000091	que ésta de los actuales tiempos, tan alegre al parecer, y en realidad tan triste y desconsoladora, precozmente envejecida y prematuramente codiciosa.
+M-AILABS_spa_000459	el19demarzoyel2demayo_24_perezgaldos_f000043	¿Cuento contigo?
+M-AILABS_spa_000460	arapiles_07_perezgaldos_f000017	Los jinetes rojos llegaron hasta nosotros, y su jefe, que hablaba español como Dios quería, cumplimentó a nuestro brigadier,
+M-AILABS_spa_000461	corte_de_carlos_iv_23_perezgaldos_f000154	-¿Lo ves... Y con motivo fundado.
+M-AILABS_spa_000462	damadelascamelias_22_dumas_f000023	que todo, hasta la misma clemencia paternal, la confirmó.
+M-AILABS_spa_000463	angelina_55_delgado_f000089	como escapado, a vagar por la llanura o a tenderme en la hierba, bajo los árboles del río.
+M-AILABS_spa_000464	napoleonenchamartin_27_perezgaldos_f000171	Yo no me llevo nada.
+M-AILABS_spa_000465	corte_de_carlos_iv_25_perezgaldos_f000115	Otelo debía aparecer, y en el breve momento en que estuvo la escena muda, profundísimo silencio reinaba en la sala.
+M-AILABS_spa_000466	damadelascamelias_13_dumas_f000164	A las seis de la mañana sali, pero antes de irme la dije.
+M-AILABS_spa_000467	bailen_20_perezgaldos_f000115	Salimos a toda prisa, y montando en nuestras cabalgaduras, ocupamos las filas.
+M-AILABS_spa_000468	cuentosclasicosprimera_09_poe_f000214	Pasando la mano por detrás, descubrí pronto y oprimí el resorte que
+M-AILABS_spa_000469	cuentosclasicosprimera_10_poe_f000144	o clavando en mis vestidos sus largas y afiladas garras, se encaramaba de este modo hasta mi pecho.
+M-AILABS_spa_000470	cuentosclasicosprimera_08_poe_f000187	pavimentada por vía de ensayo con zoquetes sobrepuestos y remachados.
+M-AILABS_spa_000471	arapiles_05_perezgaldos_f000048	-No podía hablar.
+M-AILABS_spa_000472	arapiles_26_perezgaldos_f000087	Estábamos como a doscientos pasos de las primeras casas de la infortunada aldea, cuando una figura extraña, hermosa, una verdadera y agraciada obra de la fantasía, una gentil persona,
+M-AILABS_spa_000473	arapiles_19_perezgaldos_f000013	Resonaba tan sólo en mi alma.
+M-AILABS_spa_000474	corte_de_carlos_iv_17_perezgaldos_f000207	-Señora -dije-, me ha entrado de repente un vivísimo dolor de cabeza;
+M-AILABS_spa_000475	corte_de_carlos_iv_22_perezgaldos_f000126	Verdad es que el poeta vivió y medró bastante a la sombra de aquél cuando estaba en pie, y podía cubrir a muchos con sus frondosas ramas.
+M-AILABS_spa_000476	corte_de_carlos_iv_14_perezgaldos_f000216	-Ahora no -repuso mi ama-; pero mañana, tal vez sí. Lesbia rió a carcajadas.
+M-AILABS_spa_000477	napoleonenchamartin_07_perezgaldos_f000027	-Si he de decir verdad, aún ignoro qué clase de hombre es.
+M-AILABS_spa_000478	corte_de_carlos_iv_10_perezgaldos_f000042	Nosotros, los que no sabemos leer ni escribir, acertamos a veces mejor que ellos;
+M-AILABS_spa_000479	napoleonenchamartin_21_perezgaldos_f000104	¡Bonita invención! Esas son lastan decantadas novedades de los filósofos y de todos esos masones a la francesa que hay ahora.
+M-AILABS_spa_000480	angelina_44_delgado_f000112	Pues sin cariño no puede vivir.
+M-AILABS_spa_000481	arapiles_38_perezgaldos_f000035	He creído escuchar tan pronto una música del cielo, tan pronto el fragor de cien tempestades que bramaban dentro de un corazón... Nada puedo precisar... al fin he visto claramente a usted,
+M-AILABS_spa_000482	cuentosclasicosprimera_11_poe_f000135	porque me parecía, en verdad, la cosa más evidente
+M-AILABS_spa_000483	angelina_05_delgado_f000004	Contábase en la familia, que en su primera juventud se distinguía de mi madre y de mi tía Pepa en lo festivo de su conversación, en lo dulce de su trato.
+M-AILABS_spa_000484	napoleonenchamartin_21_perezgaldos_f000014	-dijo un frailito joven, barbilindo, ancho de cuello, pulcro de rostro, arrebolado de nariz, nimio de cerquillo y con cierto aire galán, el cual de improviso se unió a nuestro grupo.
+M-AILABS_spa_000485	angelina_53_delgado_f000117	pero no solos, como usted dice, Luisa.
+M-AILABS_spa_000486	corte_de_carlos_iv_04_perezgaldos_f000095	pero en él infringirlas era lo mismo que modificarlas o crearlas de nuevo.
+M-AILABS_spa_000487	trafalgar_17_perezgaldos_f000119	Se casaron, y el mismo día en que partieron para Medinasidonia, Doña Francisca me ordenó que fuera yo también allá para ponerme al servicio de los desposados.
+M-AILABS_spa_000488	arapiles_30_perezgaldos_f000102	-No he dicho nada; pero este Araceli... a quien estimo... nos aborrece, querida mía, quiere separarnos, es agente y servidor de una persona... -A quien estimas también, padre.
+M-AILABS_spa_000489	trafalgar_14_perezgaldos_f000009	En estas y otras cosas pensaba yo, cuando al fin mi cuerpo se rindió a la fatiga, y me quedé dormido al amanecer del veintitrés, habiendo vencido mi naturaleza juvenil a mi curiosidad.
+M-AILABS_spa_000490	corte_de_carlos_iv_14_perezgaldos_f000002	Al día siguiente se reunieron a comer en casa de Amaranta, Lesbia, el diplomático y su digna hermana.
+M-AILABS_spa_000491	angelina_40_delgado_f000040	-¿Oyes, Tere? ¡De... casa! -Pues de allá salí hace una hora.
+M-AILABS_spa_000492	corte_de_carlos_iv_09_perezgaldos_f000019	¡Oh, divina Amaranta! ¿Qué haré para merecerte?
+M-AILABS_spa_000493	angelina_40_delgado_f000067	-¡No la digas;
+M-AILABS_spa_000494	arapiles_24_perezgaldos_f000133	Mientras Inés y miss Fly desaparecieron por una puerta excusada, dejeme conducir por mi antiguo amigo,
+M-AILABS_spa_000495	el19demarzoyel2demayo_01_perezgaldos_f000056	La casa está a espalda de la iglesia, y entramos en ella cogidos de las manos.
+M-AILABS_spa_000496	arapiles_10_perezgaldos_f000031	-Es la primera vez -dijo- que la rubita tiene tales familiaridades con un oficial español o portugués,
+M-AILABS_spa_000497	bailen_32_perezgaldos_f000038	¿Te acuerdas de las grandes bolas que nos contaba cuando veníamos por la Mancha y nos refería las batallas ganadas por estos contra todo el mundo?
+M-AILABS_spa_000498	corte_de_carlos_iv_22_perezgaldos_f000073	La orquesta, comenzando de improviso la sonata que había de preceder a la representación
+M-AILABS_spa_000499	eneida_08_virgilio_f000117	Y vosotros, ¡oh Tirios! cebad vuestros odios en su hijo y en todo su futuro linaje; ofreced ese tributo a mis cenizas.
+M-AILABS_spa_000500	napoleonenchamartin_01_perezgaldos_f000059	Y como no faltaban tampoco ni la Narcisa, ni Menegilda, ni Alifonsa, todas tres estrellas esplendorosas del firmamento manolesco, la una vendedora de castañas, la otra de callos y caracoles y la postrera de sal;
+M-AILABS_spa_000501	napoleonenchamartin_04_perezgaldos_f000027	¿Con que se os murió la gallina?
+M-AILABS_spa_000502	el19demarzoyel2demayo_04_perezgaldos_f000074	-Lo que es por mí -interrumpió Requejo-, con cualquier cosa me sustento.
+M-AILABS_spa_000503	damadelascamelias_26_dumas_f000040	Hé aquí el pasado hasta ayer.
+M-AILABS_spa_000504	damadelascamelias_14_dumas_f000165	-¿Sola? -Con el conde de G... según  creo.
+M-AILABS_spa_000505	arapiles_25_perezgaldos_f000046	Allí la encontré y después... Nos separamos al salir de la ciudad, porque me era preciso estar en Bernuy antes de las doce.
+M-AILABS_spa_000506	arapiles_01_perezgaldos_f000071	Azanza, ministro de Su Majestad Bonaparciana, me dijo que así levantarían un altar frente a otro altar.
+M-AILABS_spa_000507	arapiles_35_perezgaldos_f000105	Era imposible, de todo punto imposible, seguir subiendo.
+M-AILABS_spa_000508	angelina_36_delgado_f000013	sobre las cuales desplegaba el cielo de invierno sus incomparables constelacionesOrión, el Can, y el Navío entre cuyos mástiles centelleaba el soberbio Canopo.
+M-AILABS_spa_000509	arapiles_09_perezgaldos_f000115	-Impaciente estáis... Quiero saber otra cosa.
+M-AILABS_spa_000510	damadelascamelias_08_dumas_f000131	-¿Cómo se llaman?
+M-AILABS_spa_000511	el19demarzoyel2demayo_06_perezgaldos_f000028	-Su Alteza -dijo el clérigo muy turbado- tuvo el honor de señalarme... digo... yo tuve el honor de que él señalara el día de hoy y la presente hora para recibirme.
+M-AILABS_spa_000512	corte_de_carlos_iv_26_perezgaldos_f000106	-La aborrezco porque... la aborrezco.
+M-AILABS_spa_000513	napoleonenchamartin_28_perezgaldos_f000023	Yo confieso mi pequeñez, yo reconozco que al lado de la grandeza de vuecencia soy como un grano de arena comparado con el tamaño de todo el mundo;
+M-AILABS_spa_000514	corte_de_carlos_iv_03_perezgaldos_f000091	lo que conviene es tener desvergueenza para meterse en todas partes, buscar la amistad de personas poderosas;
+M-AILABS_spa_000515	damadelascamelias_17_dumas_f000084	¿Quereis que hable á Armando?
+M-AILABS_spa_000516	trafalgar_09_perezgaldos_f000110	Al mismo tiempo se dirigía la vista en derredor, y ¡qué espectáculo, Dios mío!, treinta y dos navíos, cinco fragatas y dos bergantines,
+M-AILABS_spa_000517	damadelascamelias_14_dumas_f000023	Os envio vuestra llave, que nunca me ha servido, y podrá seros útil si estais siempre enferma como ayer.
+M-AILABS_spa_000518	corte_de_carlos_iv_21_perezgaldos_f000129	-dijo don Anatolio, dejando la Gaceta sobre el mostrador.
+M-AILABS_spa_000519	damadelascamelias_09_dumas_f000152	Margarita hizo un gesto que queria decir:
+M-AILABS_spa_000520	trafalgar_12_perezgaldos_f000005	Hasta entonces los ánimos no se habían ocupado más que de la defensa;
+M-AILABS_spa_000521	el19demarzoyel2demayo_16_perezgaldos_f000104	¿Ni cómo quieres que la niña lave la ropa ni cosa las camisas, cuando le dicen que va a ser, como si dijéramos, princesa?
+M-AILABS_spa_000522	angelina_04_delgado_f000049	Eran de China, y muy bonitos;
+M-AILABS_spa_000523	el19demarzoyel2demayo_16_perezgaldos_f000105	-Nada, nada... yo la quiero y la estimo -afirmó Requejo-.
+M-AILABS_spa_000524	eneida_18_virgilio_f000025	¡Oh Musas! ¡Oh Calíope! Dad, os ruego, aliento a mi voz para que cante los estragos y matanza que hizo en aquella ocasión la espada de Turno, y a cuantos guerreros lanzó cada uno de ellos al Orco!
+M-AILABS_spa_000525	arapiles_07_perezgaldos_f000023	y al fin entre los más brillantes soldados escoceses, ingleses y españoles, apareció una silla de postas, recibida con aclamaciones y vítores por las tropas situadas a un lado y otro del camino.
+M-AILABS_spa_000526	cuentosclasicosprimera_00_poe_f000103	-Cuando se combina más estrechamente con la belleza;
+M-AILABS_spa_000527	cuentosclasicosprimera_05_poe_f000224	Todo esto ocurría en remoto pasado.
+M-AILABS_spa_000528	corte_de_carlos_iv_20_perezgaldos_f000114	Ahora conozco que sin ti no valgo nada, ni sirvo para nada.
+M-AILABS_spa_000529	eneida_19_virgilio_f000121	a los Frigios!
+M-AILABS_spa_000530	eneida_05_virgilio_f000137	Entre tanto el sol iba llegando al término de su larga carrera en derredor del año, y el frío invierno con sus aquilones encrespaba las olas.
+M-AILABS_spa_000531	bailen_30_perezgaldos_f000099	No puedo olvidar aquella escena que presencié desde la puerta con otros criados, y voy a referirla.
+M-AILABS_spa_000532	arapiles_02_perezgaldos_f000023	Yo había recibido el empleo de comandante en Febrero de aquel mismo año.
+M-AILABS_spa_000533	arapiles_19_perezgaldos_f000058	Cuando puse mis pies en la alcoba, ella que iba mucho más a prisa que yo, había pasado a otra pieza contigua por una puerta vidriera, cuya luz cubrían cortinas blancas de indiana con ramos azules.
+M-AILABS_spa_000534	corte_de_carlos_iv_18_perezgaldos_f000138	Lesbia amó a Isidoro por vanidad, por coquetería, y continúa en relaciones con él.
+M-AILABS_spa_000535	eneida_08_virgilio_f000150	Agua, dadme agua con que lave sus heridas, y si aun vaga en su boca un postrer aliento, le recogeré con la mía.
+M-AILABS_spa_000536	cuentosclasicosprimera_06_poe_f000266	estaban revestidos de arriba abajo en amplios pliegues de una tapicería pesada y casi sólida
+M-AILABS_spa_000537	angelina_34_delgado_f000065	Mis tías ocultaban su tristeza.
+M-AILABS_spa_000538	trafalgar_07_perezgaldos_f000040	La batalla de Masdeu, ¿por qué cree usted que se ganó?
+M-AILABS_spa_000539	angelina_52_delgado_f000109	Porque nací condenada a padecer, y no me conformo con el cariño de mi papá, que es lo único en que debo fiar.
+M-AILABS_spa_000540	el19demarzoyel2demayo_16_perezgaldos_f000143	Cuando tal vi parecio me que se me nublaban los ojos, y sentí saltar mi sangre toda del corazón a la cabeza.
+M-AILABS_spa_000541	el19demarzoyel2demayo_30_perezgaldos_f000129	Acercándose, miró a Inés con interés.
+M-AILABS_spa_000542	napoleonenchamartin_09_perezgaldos_f000112	-¿Ya estamos de secreticos?
+M-AILABS_spa_000543	napoleonenchamartin_24_perezgaldos_f000013	-Vaya, no hay que pensar en que te echen mano -dijo Salmón levantándose-.
+M-AILABS_spa_000544	eneida_16_virgilio_f000150	Dirígense a la alta mar; no parecía sino que descuajadas las Cícladas, iban flotando por las aguas o que se estrellaban unos contra otros los altos montes:
+M-AILABS_spa_000545	corte_de_carlos_iv_11_perezgaldos_f000061	¿No te ha ocurrido que podrías tú subir lo mismo, encontrando una mano que te impulsara?
+M-AILABS_spa_000546	damadelascamelias_11_dumas_f000210	Adiós, Armando.
+M-AILABS_spa_000547	corte_de_carlos_iv_03_perezgaldos_f000116	De hombres se hacen los obispos, como dijo el otro.
+M-AILABS_spa_000548	arapiles_24_perezgaldos_f000277	Arregló Ramoncilla el equipaje de su amo, y no tardaron en atronar las casas los ruidos que caballerías y carros hacían en el patio.
+M-AILABS_spa_000549	eneida_04_virgilio_f000007	allí Hécuba y sus hijas, buscando vanamente un refugio alrededor de los altares, semejantes a una bandada de palomas impelidas por negra tempestad, se apiñaban, abrazadas a las imágenes de los dioses.
+M-AILABS_spa_000550	napoleonenchamartin_22_perezgaldos_f000155	¿Por ventura no son esas las mismas ideas que han hecho célebre en toda la redondez de la tierra a nuestro gran Jovellanos?
+M-AILABS_spa_000551	damadelascamelias_10_dumas_f000049	-Pensais Así esta noche, porque estais triste y os condoleis de mi, pero no tendreis la paciencia de que haceis gala.
+M-AILABS_spa_000552	damadelascamelias_06_dumas_f000137	-¿Habéis visto los ojos?
+M-AILABS_spa_000553	el19demarzoyel2demayo_06_perezgaldos_f000072	Pongamos por caso que vengan con mala intención.
+M-AILABS_spa_000554	corte_de_carlos_iv_04_perezgaldos_f000064	-¿No te dijo si venía esta noche?
+M-AILABS_spa_000555	angelina_46_delgado_f000007	¿Víctor Hugo?
+M-AILABS_spa_000556	corte_de_carlos_iv_02_perezgaldos_f000167	Fácil era comprender que la comedia gustaba al público imparcial y que su buen éxito era seguro
+M-AILABS_spa_000557	napoleonenchamartin_26_perezgaldos_f000272	No dudes que vendrá la condesa mañana temprano.
+M-AILABS_spa_000558	cuentosclasicosprimera_03_poe_f000240	porque aquellas circunstancias me impresionaron con fuerza singular.
+M-AILABS_spa_000559	angelina_31_delgado_f000053	-No, Linilla; yo te lo agradezco, ganas mucho en mi cariño, pero antes que yo y que mis tías está tu protector,
+M-AILABS_spa_000560	corte_de_carlos_iv_04_perezgaldos_f000030	Recuerdo haber visto por aquel tiempo en la fábrica de Santa Bárbara un hermoso tapiz en que estaban representadas dos lindas pastoras.
+M-AILABS_spa_000561	trafalgar_01_perezgaldos_f000086	la idea de hallarme solo y abandonado en el mundo, idea que embargó mi pobre espíritu por algún tiempo.
+M-AILABS_spa_000562	angelina_46_delgado_f000074	disípense como la niebla los proyectos del perverso;
+M-AILABS_spa_000563	eneida_22_virgilio_f000142	Oyole Febo y otorgole en su mente que lograse una parte de su voto; mas dispersó la otra por las leves auras: concedió a sus preces que postrase con súbita muerte a la desprevenida Camila, mas no que tornase a ver su noble patria:
+M-AILABS_spa_000564	napoleonenchamartin_28_perezgaldos_f000021	mándeme matar si gusta, pero no me pida, no, de ningún modo me pida que deje de amar a Inés, porque es pedirme lo imposible y lo que no está en mi mano prometer.
+M-AILABS_spa_000565	cuentosclasicosprimera_04_poe_f000081	Así hemos avanzado un gran paso.
+M-AILABS_spa_000566	eneida_12_virgilio_f000051	¿Qué tormentos son estos? ¿Quién exhala esos gritos tan lastimeros?
+M-AILABS_spa_000567	damadelascamelias_16_dumas_f000112	Mas hácia al fondo, Paris, rodeado de niebla! Conforme nos había dicho Prudencia, aquello era un verdadero campo, y debo añadir que el almuerzo no fué menos verdadero.
+M-AILABS_spa_000568	arapiles_04_perezgaldos_f000075	-Ate usted su burro en el tronco de un árbol -dije a mi antiguo amigo- y acomódese sobre este césped junto a mí, para que demos al cuerpo alguna cosa, que todo no ha de ser para el alma.
+M-AILABS_spa_000569	eneida_17_virgilio_f000087	y no sin grave sobresalto, registran las puertas y enlazan entre sí con puentes sus baluartes.
+M-AILABS_spa_000570	el19demarzoyel2demayo_23_perezgaldos_f000069	¡Mil pares de demonios!
+M-AILABS_spa_000571	angelina_35_delgado_f000006	El mismo, en cierto modo, participaba de nuestra tristeza.
+M-AILABS_spa_000572	arapiles_38_perezgaldos_f000042	-¿Y esto os disgusta?
+M-AILABS_spa_000573	napoleonenchamartin_15_perezgaldos_f000013	Pues dicen que hay traidores, ¡abajo los traidores!
+M-AILABS_spa_000574	corte_de_carlos_iv_20_perezgaldos_f000189	sin menoscabo de su dignidad, el doblón que me dio Mañara, y diciendo entre mí a cada paso:
+M-AILABS_spa_000575	trafalgar_16_perezgaldos_f000147	El Santa Ana llegó felizmente a Cádiz en la misma noche en que le abandonamos.
+M-AILABS_spa_000576	corte_de_carlos_iv_14_perezgaldos_f000083	También aquí abundan las frases soeces, y por último, el Don Agustín parece que se niega redondamente a casarse con Doña Petra
+M-AILABS_spa_000577	angelina_59_delgado_f000086	Pensando en estas cosas pasé dos o tres horas, en lucha conmigo mismo.
+M-AILABS_spa_000578	trafalgar_15_perezgaldos_f000109	No parece sino que nos vamos a estrellar contra la costa...
+M-AILABS_spa_000579	corte_de_carlos_iv_14_perezgaldos_f000085	-También eso está bien pensado -dijo la marquesa-;
+M-AILABS_spa_000580	trafalgar_08_perezgaldos_f000073	En todas las ciudades populosas, y especialmente en Cádiz, que era entonces la más culta,
+M-AILABS_spa_000581	el19demarzoyel2demayo_30_perezgaldos_f000138	Inés no quería separarse de nosotros, y abrazándonos, se aferraba a la muerte con sus manos ya libres.
+M-AILABS_spa_000582	bailen_04_perezgaldos_f000008	consideraba a mi amigo en su verdadero lugar, y no tan lejos de nosotros que pudiera desampararnos si le invocábamos.
+M-AILABS_spa_000583	arapiles_29_perezgaldos_f000243	-Más grandes que esta casa.
+M-AILABS_spa_000584	corte_de_carlos_iv_26_perezgaldos_f000115	El aviso no distrajo a los dos actores.
+M-AILABS_spa_000585	el19demarzoyel2demayo_16_perezgaldos_f000063	Verdad que no le faltan luces y harto conoce lo que nos debe, pues ha encontrado en nosotros su santo Ángel de la guarda.
+M-AILABS_spa_000586	angelina_63_delgado_f000049	¿Verdad, Rodolfo, que no me guardarás rencor?
+M-AILABS_spa_000587	eneida_22_virgilio_f000061	erízase el llano a lo lejos de ferradas lanzas, y todo él centellea con las puntas de las armas.
+M-AILABS_spa_000588	corte_de_carlos_iv_07_perezgaldos_f000011	Ignoro el número de fuentes que rompí aquella noche, pues las manos me temblaban
+M-AILABS_spa_000589	angelina_01_delgado_f000145	Era un antiguo criado nuestro que cuando la familia vino a menos dejó la casa y se dedicó al comercio.
+M-AILABS_spa_000590	damadelascamelias_05_dumas_f000010	pero había resonado tanto su nombre en mis oidos desde aquella venta y hallábase este nombre mezclado con un dolor tan profundo,
+M-AILABS_spa_000591	arapiles_37_perezgaldos_f000028	Un objeto extraño rozaba mi frente cayéndome sobre los ojos.
+M-AILABS_spa_000592	damadelascamelias_06_dumas_f000109	Entonces uno de los dos hombres alargó la mano, púsose á descoser el sudario, y agarrándolo por la punta descubrió bruscamente el rostro de Margarita.
+M-AILABS_spa_000593	angelina_49_delgado_f000123	En ella, más que en la riqueza, cifraba su dicha, y solía decir muy sinceramente-No temo el juicio de los demás.
+M-AILABS_spa_000594	el19demarzoyel2demayo_02_perezgaldos_f000075	Sin duda alguna de esas vulgarísimas aberraciones propias de entendimientos romos.
+M-AILABS_spa_000595	napoleonenchamartin_06_perezgaldos_f000032	exhalados por triste desahogo en el seno de su estimado maestro y confesor Don Juan Escóiquiz, quien por estrecho encargo de Su Majestad lo comunica a la nación en un discurso.
+M-AILABS_spa_000596	cuentosclasicosprimera_01_poe_f000058	todos habían salido a divertirse en obsequio a la ocasión.
+M-AILABS_spa_000597	el19demarzoyel2demayo_20_perezgaldos_f000110	Cuando llegó Inés aquí, me pareció que no era como las mujeres que yo he visto siempre; quedeme asombrado contemplándola, y hasta se me figuró que la había visto en alguna parte; ¿dónde?
+M-AILABS_spa_000598	bailen_17_perezgaldos_f000004	sino también refiriendo cuanto cada uno hizo y cuanto dejó de hacer para que la batalla fuese completamente ganada.
+M-AILABS_spa_000599	trafalgar_07_perezgaldos_f000010	Cargué la maleta, y en un santiamén Don Alonso, Marcial y yo salimos por la puerta del corral para no ser vistos;
+M-AILABS_spa_000600	angelina_36_delgado_f000067	le darás esta tarjeta... y... ¡listo! Ahora¡al comedor!...
+M-AILABS_spa_000601	cuentosclasicosprimera_03_poe_f000274	entró Wolf, el terranova, y se lanzó sobre vuestros hombros.
+M-AILABS_spa_000602	arapiles_28_perezgaldos_f000091	-Tenga usted calma, que el estado de ese cuerpo no es a propósito para reformar el linaje humano.
+M-AILABS_spa_000603	bailen_13_perezgaldos_f000016	¿Lo olvidarás?
+M-AILABS_spa_000604	el19demarzoyel2demayo_26_perezgaldos_f000086	¿Se han acabado?
+M-AILABS_spa_000605	napoleonenchamartin_26_perezgaldos_f000115	Pero ven... quiero que conozcas a mi hija.
+M-AILABS_spa_000606	angelina_56_delgado_f000039	A mí me agrada eso, porque así no estoy tan sola, y si se ofrece algo hay quien vaya a la botica o a llamar al médico;
+M-AILABS_spa_000607	corte_de_carlos_iv_07_perezgaldos_f000101	Tanto favor dispensado a un hombre nulo y que en los más indignos hechos buscaba ocasión de medro
+M-AILABS_spa_000608	trafalgar_11_perezgaldos_f000093	Algunos segundos después de la explosión, ya no pensábamos más que en nosotros mismos.
+M-AILABS_spa_000609	cuentosclasicosprimera_06_poe_f000290	Gozaba con las reminiscencias de su pureza, su erudición, su elevación de espíritu, su naturaleza etérea, su apasionado e idolátrico amor.
+M-AILABS_spa_000610	arapiles_35_perezgaldos_f000028	Sostúvole la caballería portuguesa de d'Urban; pero sus progresos no fueron grandes, porque los franceses,
+M-AILABS_spa_000611	corte_de_carlos_iv_05_perezgaldos_f000124	Tampoco ponía reparos en ser su pareja en las orgías celebradas en casa de la González o la Prado
+M-AILABS_spa_000612	corte_de_carlos_iv_14_perezgaldos_f000005	La marquesa era una dama de avanzada edad, mujer orgullosa, de modestas costumbres, española rancia por los cuatro costados,
+M-AILABS_spa_000613	corte_de_carlos_iv_11_perezgaldos_f000145	Si te ríes me callo.
+M-AILABS_spa_000614	damadelascamelias_11_dumas_f000084	Miré mi reló. Yo había creido andar despacio, pero solo me habían bastado cinco minutos para ir de la calle de Provence á casa de Margarita.
+M-AILABS_spa_000615	angelina_34_delgado_f000092	-Angelina, ¡no hables así!...
+M-AILABS_spa_000616	eneida_11_virgilio_f000071	Además, tu ignoras ¡Ay!
+M-AILABS_spa_000617	eneida_05_virgilio_f000196	Mas cuando los vientos te impelan hacia las playas sicilianas y se ensanchen a tu vista las angostas bocas de Peloro, dirígete por un largo circuito a las tierras y a los mares que verás a tu izquierda;
+M-AILABS_spa_000618	napoleonenchamartin_16_perezgaldos_f000044	-¿Qué es eso de retirarse?
+M-AILABS_spa_000619	arapiles_34_perezgaldos_f000004	Si yo hubiera mandado toda la fuerza del brigadier Pack, habría intentado jugar el todo por el todo y desconcertar al enemigo antes que embistiera;
+M-AILABS_spa_000620	napoleonenchamartin_17_perezgaldos_f000132	y aquel divino estro de la guerra, que varias veces mostró no comprender en paisanos y menos en mujeres.
+M-AILABS_spa_000621	corte_de_carlos_iv_18_perezgaldos_f000203	-Y mucho más cuando estos nombramientos contribuyen a fortificar nuestro partido.
+M-AILABS_spa_000622	bailen_23_perezgaldos_f000003	Corrieron por las filas opiniones contradictorias respecto a la causa del hecho.
+M-AILABS_spa_000623	angelina_48_delgado_f000003	Ya señora Juana andaba por la cocina disponiéndome el desayuno.
+M-AILABS_spa_000624	angelina_11_delgado_f000025	Al irse, domingo por la tarde o lunes muy tempranito, no dejaba de poner en el comedor cuatro o cinco duros;
+M-AILABS_spa_000625	corte_de_carlos_iv_17_perezgaldos_f000108	según dicen, debe tener todo aquel que aspira a ocupar en el mundo una posición honrosa?
+M-AILABS_spa_000626	trafalgar_01_perezgaldos_f000001	TRAFALGAR por BENITO PÉREZ GALDÓS.
+M-AILABS_spa_000627	napoleonenchamartin_15_perezgaldos_f000003	nos fuimos a presenciar el tumulto, que no era flojo, según el rumor de voces que desde lejos se oía.
+M-AILABS_spa_000628	bailen_30_perezgaldos_f000034	¿Era pura bondad, era puro interés por la vida del semejante, aunque fuese enemigo, o era un sentimiento mixto de benevolencia y orgullo, en virtud del cual yo, convencido de que Inés no amaba sino a mí,
+M-AILABS_spa_000629	napoleonenchamartin_04_perezgaldos_f000080	-¿Y resistiremos, si como dicen, se nos viene encima ese monstruo, ese troglodita, ese antropófago, señores, que no se sacia nunca de devorar carne humana?
+M-AILABS_spa_000630	damadelascamelias_18_dumas_f000141	solo que lo que en aquella época no pasaba de un simple consejo , hoy es casí una necesidad.
+M-AILABS_spa_000631	cuentosclasicosprimera_05_poe_f000464	¡INSENSATO! OS DIGO QUE ELLA SE ENCUENTRA EN ESTE INSTANTE DELANTE DE LA PUERTA!
+M-AILABS_spa_000632	angelina_24_delgado_f000002	Mi entrada en el despacho de Castro Pérez fué para mi tía Pepa el colmo de la dicha, no sólo porque allí ganaría algunos duros su pobre sobrino,
+M-AILABS_spa_000633	el19demarzoyel2demayo_21_perezgaldos_f000127	Vaya, acuéstense todos, que mañana le leeré yo la cartilla a la señorita.
+M-AILABS_spa_000634	damadelascamelias_23_dumas_f000141	Desgraciadamente la pAsíon mala dominaba en mi y yo no buscaba mas que un medio para atormentar á aquella pobre criatura.
+M-AILABS_spa_000635	napoleonenchamartin_26_perezgaldos_f000062	-Siento mucho -manifesté con la mayor zozobra- que no esté aquí la señora condesa.
+M-AILABS_spa_000636	eneida_20_virgilio_f000010	Dicho esto, avánzase a la mitad del campo; hiélase a los Árcades la sangre en las venas.
+M-AILABS_spa_000637	trafalgar_13_perezgaldos_f000081	Hallábame ocupado en poner a Don Alonso una venda en el brazo, cuando sentí que apoyaban una mano en mi hombro;
+M-AILABS_spa_000638	cuentosclasicosprimera_00_poe_f000076	Aunque se refiere a sus versos, la explicación es exacta también con respecto a su prosa.
+M-AILABS_spa_000639	damadelascamelias_08_dumas_f000082	-¿Por qué? -Porque está enferma del pecho y casí siempre tiene fiebre.
+M-AILABS_spa_000640	napoleonenchamartin_25_perezgaldos_f000243	Las mulas partieron a escape, llevándome camino del real sitio.
+M-AILABS_spa_000641	eneida_07_virgilio_f000132	¿Con que esperanzas pierdes el tiempo en las tierras de la Libia?
+M-AILABS_spa_000642	cuentosclasicosprimera_09_poe_f000135	pero, no conociendo este idioma, deduce por el acento, lo mismo que el español.
+M-AILABS_spa_000643	angelina_01_delgado_f000015	Las enredaderas, que trepaban por la torrecilla hasta prender sus tallos en la cruz de hierro, hacían gala de sus festones floridos,
+M-AILABS_spa_000644	arapiles_37_perezgaldos_f000027	Entonces experimenté una molestia material.
+M-AILABS_spa_000645	cuentosclasicosprimera_02_poe_f000096	-Tal vez sea así,-dije;
+M-AILABS_spa_000646	arapiles_20_perezgaldos_f000015	-Te esperaba... -gritó-.
+M-AILABS_spa_000647	angelina_11_delgado_f000053	Confiaba yo en la bondad de mis paisanos, en la benevolencia de nuestros amigos,
+M-AILABS_spa_000648	eneida_22_virgilio_f000036	se encamina a una guerra cruel, y vanamente ciñe nuestras armas.
+M-AILABS_spa_000649	corte_de_carlos_iv_17_perezgaldos_f000057	Pepa me ha encomiado mucho tu facultad de observación.
+M-AILABS_spa_000650	eneida_12_virgilio_f000026	dejaste por hacer; todos tus deberes cumpliste con Deífobo y sus tristes manes; mi destino fatal y el funesto crimen de la Lacedemonia me precipitaron en este abismo de males: ¡Estas pruebas me dejó de su amor!
+M-AILABS_spa_000651	arapiles_33_perezgaldos_f000015	que con el rom abundante devolvieron el alma a aquellos desmadejados cuerpos.
+M-AILABS_spa_000652	arapiles_37_perezgaldos_f000003	Yo no recobré el sentido en un momento, sino que fui entrando poco a poco en la misteriosa claridad del conocer;
+M-AILABS_spa_000653	arapiles_22_perezgaldos_f000080	Su inflamado semblante, sus brillantes ojos, el timbre de su patética voz, ejercían extraño poder sobre mí,
+M-AILABS_spa_000654	napoleonenchamartin_18_perezgaldos_f000101	-Gracias, mil gracias, señores míos.
+M-AILABS_spa_000655	eneida_17_virgilio_f000210	Furioso Volscente de no ver quién causa aquel estrago, y no sabiendo cómo cebar su rabia, Pues tú, exclama, tú me pagarás con tu caliente sangre la muerte de esos dos, mientras no parece el verdadero asesino;
+M-AILABS_spa_000656	eneida_06_virgilio_f000063	En cuanto vio de lejos nuestros atavíos dardanios y nuestras armas troyanas, parose un momento, despavorido, sin poder dar un paso; en seguida se precipitó hacia la playa, llorando y dirigiéndonos estas súplicas:
+M-AILABS_spa_000657	arapiles_16_perezgaldos_f000044	-Esto en que estamos es el fuerte de San Vicente, y aquí había un convento de benedictinos, que se derribó.
+M-AILABS_spa_000658	eneida_07_virgilio_f000013	si no me inspirasen un invencible hastío el tálamo y las teas nupciales, acaso sucumbiría a esta sola flaqueza.
+M-AILABS_spa_000659	eneida_04_virgilio_f000091	Pronto, pronto exclama; no haya detención; ya os sigo y voy adonde queráis llevarme.
+M-AILABS_spa_000660	bailen_29_perezgaldos_f000040	Ya avanzada la noche regresé a Bailén, donde me causó sorpresa ver una triste procesión compuesta de tres mujeres vestidas de negro, a las cuales seguían hasta media docena de hombres,
+M-AILABS_spa_000661	cuentosclasicosprimera_11_poe_f000112	prolongándose alrededor de un cuarto de hora,
+M-AILABS_spa_000662	damadelascamelias_22_dumas_f000153	Eché á correr como un loco , como un ladron, hasta la fonda de Paris;
+M-AILABS_spa_000663	arapiles_23_perezgaldos_f000137	-Sin duda no hay aquí rastro de gente.
+M-AILABS_spa_000664	bailen_10_perezgaldos_f000032	En nada de lo que vieron mis ojos encontré la huella indefinible que debía tener todo aquello en que Inés pusiera los suyos.
+M-AILABS_spa_000665	angelina_24_delgado_f000101	¿no lee usted en mis ojos más de lo que mis labios pudieran decirle?
+M-AILABS_spa_000666	angelina_24_delgado_f000090	-¡Ay, Angelina!-exclamé poniéndome en pie.
+M-AILABS_spa_000667	eneida_01_virgilio_f000040	Éolo respondió: A ti corresponde ¡oh Reina! Ver lo que deseas; a mi tan sólo obedecer tus mandatos.
+M-AILABS_spa_000668	eneida_05_virgilio_f000175	¿Qué peligros son los que debo evitar primero?
+M-AILABS_spa_000669	corte_de_carlos_iv_14_perezgaldos_f000098	La verdad es que no se te escapa nada, y bien puedes afirmar que eres de los que ven los mosquitos en el horizonte.
+M-AILABS_spa_000670	arapiles_18_perezgaldos_f000069	hizo señas, apareció por un ventanillo una hermosísima figura, que alargó la mano... Subime a un tonel... no era bastante y puse sobre el tonel una silla... ¡Oh, señor marqués!
+M-AILABS_spa_000671	bailen_31_perezgaldos_f000052	¡Ah! Mientras allí la juzgaban indiferente al peligroso diálogo, ¡qué admirables observaciones, qué exactos juicios haría en aquellos momentos ante semejante escena!
+M-AILABS_spa_000672	eneida_11_virgilio_f000197	Dan aquellos puestos jueces designados por la suerte; el presidente Minos agita la urna, él convoca ante su tribunal a las calladas sombras, y se entera de sus vidas y crímenes.
+M-AILABS_spa_000673	cuentosclasicosprimera_09_poe_f000255	pero de ser así, no advirtió la gran anchura de las persianas, o no le prestó por lo menos la debida consideración.
+M-AILABS_spa_000674	angelina_64_delgado_f000014	El Padre Herrera nunca me dio las mías.
+M-AILABS_spa_000675	damadelascamelias_25_dumas_f000071	si con la edad las ideas de ambicion sucedieran á los sueños de amor?
+M-AILABS_spa_000676	napoleonenchamartin_09_perezgaldos_f000048	De modo que nadie me disputa a mi Zainita de mi alma.
+M-AILABS_spa_000677	napoleonenchamartin_28_perezgaldos_f000071	-Deje usía -le dije- que la maten los demás;
+M-AILABS_spa_000678	trafalgar_15_perezgaldos_f000310	Más vale morirse a tu edad que vivir en este emperrado mundo...
+M-AILABS_spa_000679	el19demarzoyel2demayo_21_perezgaldos_f000051	Don Juan de Escóiquiz, que es amigo mío, y el primer diplomático de toda la Europa, me dijo antes de irse, que son unos bobos los que creen que Napoleón intenta destronar al rey de acá.
+M-AILABS_spa_000680	trafalgar_13_perezgaldos_f000166	Corrimos a sostenerlo, y el héroe cayó en mis brazos.
+M-AILABS_spa_000681	cuentosclasicosprimera_01_poe_f000192	-¡Por el amor de Dios, Montresor!
+M-AILABS_spa_000682	el19demarzoyel2demayo_10_perezgaldos_f000006	humedeciendo los secos paladares, y alegrando los ánimos que un trabajo tan penoso como patriótico, había comenzado a abatir.
+M-AILABS_spa_000683	arapiles_03_perezgaldos_f000074	Yo conocía aquella voz.
+M-AILABS_spa_000684	damadelascamelias_13_dumas_f000058	¡Oh! hallais vergonzosos todos estos detalles, ¿no es verdad? pues son verdaderos.
+M-AILABS_spa_000685	napoleonenchamartin_04_perezgaldos_f000151	Ayer le contaba a mi compañero en la portería de Cuenta y Razón las extravagancias de mi vecino Don Roque, y me dijo que esto se llamaba el democratismo.
+M-AILABS_spa_000686	angelina_19_delgado_f000094	Entregado a tales fantasías, no advertí que los devotos se habían ido, hasta que el sacristán pasó cerca de mí, sacudiendo un manojo de llaves.
+M-AILABS_spa_000687	corte_de_carlos_iv_23_perezgaldos_f000042	me oculté bajo la percha y tras los vestidos, cuyas faldas me ofrecían el más seguro escondite.
+M-AILABS_spa_000688	bailen_31_perezgaldos_f000126	¡Cómo me quería!
+M-AILABS_spa_000689	cuentosclasicosprimera_09_poe_f000080	han sido suficientes para paralizar la potencia policiaca
+M-AILABS_spa_000690	angelina_01_delgado_f000158	Andrés no dejaba de verme ni de acariciarme.
+M-AILABS_spa_000691	corte_de_carlos_iv_05_perezgaldos_f000112	el marqués se esforzaba en conseguir que su persona fuese espejo fiel de sus elevados pensamientos,
+M-AILABS_spa_000692	arapiles_32_perezgaldos_f000077	¡Oh! Si a Inés se le dijera lo que a Usted han dicho, no lo creería.
+M-AILABS_spa_000693	eneida_03_virgilio_f000063	Todos asintieron, viendo con gusto convertirse en la perdición de un infeliz la desgracia que cada cual temía para sí.
+M-AILABS_spa_000694	el19demarzoyel2demayo_07_perezgaldos_f000087	Como a cada instante llegaba gente de la corte traté de encontrar alguna persona conocida; pero no hallé ningún amigo.
+M-AILABS_spa_000695	el19demarzoyel2demayo_04_perezgaldos_f000011	y se caía en la cuenta de que era preciso tratarla por mucho tiempo para poder hacer presa con dedos muy diestros en la piel húmeda de su carácter,
+M-AILABS_spa_000696	trafalgar_04_perezgaldos_f000031	La acción de embriagarse la denominaba de mil maneras distintas, y entre éstas la más común era ponerse la casaca,
+M-AILABS_spa_000697	napoleonenchamartin_16_perezgaldos_f000118	Escuadrones enteros se estrellaban contra nuestra batería y centenares de jinetes caían despeñados a los abismos que costean el camino;
+M-AILABS_spa_000698	arapiles_40_perezgaldos_f000036	Tomando un manojo de llaves y repiqueteando con él, no sin cierta intención zumbona, Inés salió de la estancia seguida de   Amaranta, que nada comprendía de aquella tragicomedia.
+M-AILABS_spa_000699	arapiles_23_perezgaldos_f000041	más hermoso cuanto más contrariado, para todas la galantería, los grandes afectos, los sacrificios sublimes,
+M-AILABS_spa_000700	bailen_04_perezgaldos_f000004	pues la vivienda del Gran Capitán tenía como único desahogo el largo pasillo, en cuya pared se abrían hasta veinte puertas numeradas, albergues de otras tantas familias.
+M-AILABS_spa_000701	corte_de_carlos_iv_10_perezgaldos_f000060	-Mira, chiquillo -contestó con aplomo, probando con el dedo el filo de las tijeras-;
+M-AILABS_spa_000702	napoleonenchamartin_24_perezgaldos_f000099	Tuve que hacer un esfuerzo para contener la risa que asomaba a mis labios.
+M-AILABS_spa_000703	trafalgar_08_perezgaldos_f000197	que consistía en ir a visitar por cuenta propia uno de los navíos, llevado por algún marinero conocido, que esperaba encontrar en el muelle.
+M-AILABS_spa_000704	napoleonenchamartin_11_perezgaldos_f000055	Yo conozco muchísimos hombres valientes que no tienen sino chuzos, pedreñales y espadas llenas de orín.
+M-AILABS_spa_000705	corte_de_carlos_iv_24_perezgaldos_f000208	¡Eres tonta sin duda!
+M-AILABS_spa_000706	corte_de_carlos_iv_28_perezgaldos_f000044	-Sí, hijo mío; poco antes de su muerte recibí este papel en que se me nombra ecónomo de la iglesia parroquial de Aranjuez.
+M-AILABS_spa_000707	trafalgar_11_perezgaldos_f000095	El entusiasmo de los primeros momentos se había apagado en mí, y mi corazón se llenó de un terror que me paralizaba, ahogando todas las funciones de mi espíritu, excepto la curiosidad.
+M-AILABS_spa_000708	cuentosclasicosprimera_05_poe_f000078	desde el techado hasta perderse en las lóbregas aguas del estanque.
+M-AILABS_spa_000709	angelina_23_delgado_f000077	El tío era el abogado.
+M-AILABS_spa_000710	bailen_17_perezgaldos_f000082	De todos modos, Señor Don Diego, la educación que Usted ha recibido no puede ser más deplorable en un joven mayorazgo, que por lo mismo que ha de sobresalir entre los demás en la sociedad, debe cultivar su entendimiento.
+M-AILABS_spa_000711	cuentosclasicosprimera_12_poe_f000171	Un bote me recogió exhausto de fatiga y, entonces que el peligro había ya pasado, mudo por el recuerdo de su horror.
+M-AILABS_spa_000712	arapiles_08_perezgaldos_f000094	El dolor y la desesperación tuviéronme por algunos días enferma y en peligro de muerte; pero me reanimó la conciencia de los deberes que en aquel trance tenía que cumplir,
+M-AILABS_spa_000713	el19demarzoyel2demayo_09_perezgaldos_f000068	las patas, las garras, las uñas y los dientes, repartiendo puñetazos, patadas, coces, rasguños, dentelladas, testarazos y mordiscos.
+M-AILABS_spa_000714	damadelascamelias_25_dumas_f000103	el único verdaderamente casto que habré recibido, me hará fuerte contra mi amor, y que antes de ocho dias vuestro hijo estará junto á vos, quizá desgraciado por algun tiempo, pero curado para siempre.
+M-AILABS_spa_000715	el19demarzoyel2demayo_28_perezgaldos_f000039	-Mi general -decía a Daoíz-.
+M-AILABS_spa_000716	eneida_12_virgilio_f000028	Ella, con fingidas danzas, conducía en derredor a las Troyanas; celebrando orgías y colocada en el centro, llevando en la mano una gran tea encendida, daba con ella la señal a los Griegos desde lo alto de la fortaleza.
+M-AILABS_spa_000717	eneida_21_virgilio_f000139	Ahora pues voy a deciros en cuál parecer se fija mi mente incierta; escuchadme; pocas palabras me bastarán para enteraros de él.
+M-AILABS_spa_000718	cuentosclasicosprimera_06_poe_f000057	a la par que incomparablemente radiante y embriagadora entre todas las sonrisas.
+M-AILABS_spa_000719	bailen_08_perezgaldos_f000036	y vestía constantemente de negro, con traje que a las mil maravillas convenía a su cara y figura.
+M-AILABS_spa_000720	damadelascamelias_03_dumas_f000073	¿No compadecemos al ciego que nunca ha visto la luz del sol,
+M-AILABS_spa_000721	eneida_17_virgilio_f000027	y cubierta la cabeza con un yelmo de oro coronado de rojo penacho.
+M-AILABS_spa_000722	corte_de_carlos_iv_03_perezgaldos_f000109	-No echaré en saco roto la advertencia -repuse- pues todos sabemos a qué debe su encumbramiento el hombre más poderoso que hay hoy en España después del Rey.
+M-AILABS_spa_000723	cuentosclasicosprimera_11_poe_f000221	pero a la primera ráfaga del vendaval, ambos mástiles cayeron por la borda como cortados de un golpe
+M-AILABS_spa_000724	angelina_03_delgado_f000068	en la bóveda azul las noches consteladas, trazándole con el pensamiento, como sobre una pauta,
+M-AILABS_spa_000725	el19demarzoyel2demayo_08_perezgaldos_f000018	Él se empeñó en llevarme a la taberna, y a la taberna fuimos.
+M-AILABS_spa_000726	arapiles_16_perezgaldos_f000100	De pronto entró en mi alma un rayo de esperanza al oír pronunciar a Jean-Jean las siguientes palabras en mal castellano: -Sois unos bestias.
+M-AILABS_spa_000727	eneida_14_virgilio_f000055	al campamento de los Teucros, e ideando nuevas trazas, explora los sitios en que el hermoso Iulo se entretenía en acosar las fieras con lazos y a la carrera.
+M-AILABS_spa_000728	angelina_22_delgado_f000054	Es verdad que dictaba sin tropiezos ni vacilaciones, sin que fuera preciso repetirle la frase anterior,
+M-AILABS_spa_000729	corte_de_carlos_iv_21_perezgaldos_f000140	-Ojalá tenga usted boca de ángel, señor Don Anatolio -añadió la tendera-
+M-AILABS_spa_000730	arapiles_08_perezgaldos_f000114	-Pues no me casaría... Permítame usted que me retire.
+M-AILABS_spa_000731	damadelascamelias_26_dumas_f000002	Lo que siguió á aquella noche fatal lo sabeis tan bien como yo;
+M-AILABS_spa_000732	arapiles_21_perezgaldos_f000105	-Todo eso que os parece raro, es lo más natural del mundo.
+M-AILABS_spa_000733	el19demarzoyel2demayo_18_perezgaldos_f000178	Estábamos solos.
+M-AILABS_spa_000734	el19demarzoyel2demayo_27_perezgaldos_f000113	Yo me quedé azorado y mudo de espanto cuando la vi.
+M-AILABS_spa_000735	cuentosclasicosprimera_01_poe_f000201	Forcé la última piedra hasta colocarla en posición, luego la aseguré con argamasa.
+M-AILABS_spa_000736	angelina_62_delgado_f000030	Corrí a leerlas.
+M-AILABS_spa_000737	angelina_40_delgado_f000056	¿y qué? -¡Vaya! ¡Vaya! Confiesa usted... -exclamó Luisa, abanicándose.
+M-AILABS_spa_000738	angelina_47_delgado_f000139	chaquetilla gentil;
+M-AILABS_spa_000739	cuentosclasicosprimera_06_poe_f000140	Y aquellos ojos brillaban cada vez menos y con menor frecuencia sobre las páginas que yo leía.
+M-AILABS_spa_000740	arapiles_11_perezgaldos_f000117	y con una grave cortesanía y cordialidad, que inundó mi alma de orgullo y. alegría, diome la mano, que estreché con gratitud entre las mías.
+M-AILABS_spa_000741	napoleonenchamartin_22_perezgaldos_f000120	-Pues digo -exclamó Ximénez-, que eso está muy lindísimamente hecho.
+M-AILABS_spa_000742	angelina_26_delgado_f000018	campando por sus respetos, desdeñando compás y disciplina, huyendo los unos de los otros,
+M-AILABS_spa_000743	corte_de_carlos_iv_13_perezgaldos_f000104	-¡Qué infame ingratitud! -exclamé sin poder contener mi indignación-.
+M-AILABS_spa_000744	bailen_10_perezgaldos_f000088	convirtieron en lupanar la iglesia de Fuensanta, y por tres días Córdoba no fue una ciudad, fue un infierno, porque todos los demonios, todas las maldades y abominaciones cayeron sobre ella.
+M-AILABS_spa_000745	trafalgar_02_perezgaldos_f000031	Mi amo movió el brazo izquierdo con un gesto académico y guerrero, para probar que lo tenía expedito.
+M-AILABS_spa_000746	angelina_47_delgado_f000063	Ya sabes cuánto te quiero, y cuánto te estimo, y los buenos ratos que pasamos aquí, charlando de mis cosas y de las tuyas;
+M-AILABS_spa_000747	angelina_61_delgado_f000083	que si por mí fuera... no me iría yo!...
+M-AILABS_spa_000748	cuentosclasicosprimera_11_poe_f000083	cuyo interior, hasta donde la mirada podía sondear, era un muro de agua, liso, negro y brillante,
+M-AILABS_spa_000749	bailen_08_perezgaldos_f000009	También advertimos gran abandono en los primeros campos de pan que se ofrecieron a nuestra vista; y en algunos sitios las mujeres se ocupaban en segar a toda prisa los trigos todavía lejos de sazón.
+M-AILABS_spa_000750	angelina_42_delgado_f000045	muy bonita, y aunque de cuando en cuando se le escapan algunas faltas de ortografía, escribe bien, ¡muy bien!
+M-AILABS_spa_000751	bailen_10_perezgaldos_f000086	En otras partes los horrores no pueden contarse.
+M-AILABS_spa_000752	napoleonenchamartin_14_perezgaldos_f000141	Los que más chillan son los piores:
+M-AILABS_spa_000753	angelina_49_delgado_f000039	Su rostro era el rostro de un polichinelanaricilla de poeta satírico, boca grande y sarcástica, sonrisa burlona.
+M-AILABS_spa_000754	arapiles_23_perezgaldos_f000093	Yo no pensaba en esto,
+M-AILABS_spa_000755	trafalgar_15_perezgaldos_f000074	es preciso hacer algo por la patria;
+M-AILABS_spa_000756	damadelascamelias_10_dumas_f000041	Lo que me sostiene es la vida febril que observo.
+M-AILABS_spa_000757	arapiles_37_perezgaldos_f000001	Capitulo Trigésimo Séptimo de La batalla de los Arapiles de Benito Pérez Galdós.
+M-AILABS_spa_000758	cuentosclasicosprimera_10_poe_f000172	Un día me acompañaba ella en algún recorrido casero por los sótanos del viejo edificio que nuestra pobreza nos compelía a habitar.
+M-AILABS_spa_000759	corte_de_carlos_iv_06_perezgaldos_f000127	¡Bonito tema! -¿Pues de qué quiere Usted que se hable, desgraciada?
+M-AILABS_spa_000760	trafalgar_06_perezgaldos_f000021	también dijo terribles cosas a su marido;
+M-AILABS_spa_000761	angelina_40_delgado_f000061	Fuimos a pagar la visita.
+M-AILABS_spa_000762	angelina_53_delgado_f000071	-Chico-repetían-¡lograste lo que deseabas! Estás en la arena y junto al rio...
+M-AILABS_spa_000763	napoleonenchamartin_04_perezgaldos_f000123	A ver otra. -Pues allá va la que está de moda:
+M-AILABS_spa_000764	corte_de_carlos_iv_03_perezgaldos_f000141	¿Qué es eso de sacrificar desgraciados?
+M-AILABS_spa_000765	bailen_14_perezgaldos_f000035	Aquellos oficiales y soldados al romper la disciplina literal quelos sujetaba a la Francia invasora para acudir al llamamiento de la disciplina moral de su patria oprimida,
+M-AILABS_spa_000766	corte_de_carlos_iv_03_perezgaldos_f000232	Hablemos, pues, de teatros.
+M-AILABS_spa_000767	angelina_44_delgado_f000001	CAPITULO CUARENTA y CUATRO.
+M-AILABS_spa_000768	arapiles_17_perezgaldos_f000150	Sois espía -exclamó con acento brutal-.
+M-AILABS_spa_000769	angelina_37_delgado_f000010	¡Y de flores, ni se diga! He visto unas en los troncos de los árboles, y otras, enredaderas, que son para alabar a Dios.
+M-AILABS_spa_000770	corte_de_carlos_iv_04_perezgaldos_f000108	Esta tarde todos los amigos se han quejado de ti y te han llamado fría, torpe...
+M-AILABS_spa_000771	eneida_01_virgilio_f000068	Huid de aquí, y decid a vuestro rey que no a él, sino a mí, dio la suerte el imperio del mar y el fiero tridente.
+M-AILABS_spa_000772	cuentosclasicosprimera_12_poe_f000087	apenas tenía mayor dificultad para mantenerme en pie y caminar en esta posición que si hubiéramos estado en un plano horizontal;
+M-AILABS_spa_000773	damadelascamelias_13_dumas_f000027	La idea de que ese hombreas su amante, me está crucificando.
+M-AILABS_spa_000774	eneida_15_virgilio_f000155	fatídica profetisa que la primera vaticinó la futura grandeza de los hijos de Eneas y las glorias del monte Palatino.
+M-AILABS_spa_000775	angelina_49_delgado_f000130	y las canas que brillaban entre sus rubios cabellos, como hebras de plata, lo decían muy claro.
+M-AILABS_spa_000776	corte_de_carlos_iv_14_perezgaldos_f000090	-¿Cómo se atreven ustedes a juzgar cosas tan graves?
+M-AILABS_spa_000777	trafalgar_06_perezgaldos_f000032	llegó por detrás, y abriendo los brazos exclamó:
+M-AILABS_spa_000778	arapiles_13_perezgaldos_f000029	Iremos a Salamanca... Sospecho que allí tendréis que hacer además de la comisión de lord Wellington... Pero no me importan vuestros asuntos.
+M-AILABS_spa_000779	angelina_27_delgado_f000041	Registrando un estante arrumbado me encontré varios documentos, cartas del abuelito y una copia de su testamento.
+M-AILABS_spa_000780	napoleonenchamartin_10_perezgaldos_f000048	que si está en el cajón de verduras, es porque quiere;
+M-AILABS_spa_000781	damadelascamelias_19_dumas_f000050	Tampoco quiero que en un momento de estrechez ó de fastidio puedas hacerte la reflexion de que viviendo con otro hombre tales momentos no existirian,
+M-AILABS_spa_000782	angelina_24_delgado_f000116	Me parece que soy muchacha.
+M-AILABS_spa_000783	angelina_54_delgado_f000073	Sin embargo, repito, haz lo que te parezca mejor.
+M-AILABS_spa_000784	angelina_39_delgado_f000050	que no te impidamos lo que vas a hacer.
+M-AILABS_spa_000785	cuentosclasicosprimera_00_poe_f000022	En Rip Van Winkle maneja lo sobrenatural en tono festivo y ligero
+M-AILABS_spa_000786	angelina_58_delgado_f000059	-Gabriela,-dijo don Carlos-¡siéntate al piano y tócanos algo!
+M-AILABS_spa_000787	angelina_52_delgado_f000118	Hice mal, muy mal, así lo comprendo, y acaso esta pena que oprime mi corazón es un castigo para mí.
+M-AILABS_spa_000788	cuentosclasicosprimera_05_poe_f000045	muy respetada en todo tiempo, jamás habían dado vida a ninguna rama lateral vigorosa;
+M-AILABS_spa_000789	corte_de_carlos_iv_06_perezgaldos_f000002	Lesbia, dando golpecitos con su abanico en el hombro de Isidoro, decía:
+M-AILABS_spa_000790	cuentosclasicosprimera_03_poe_f000133	regresando inmediatamente a las colinas armados de tres sólidos sacos que por suerte encontramos en la casa.
+M-AILABS_spa_000791	eneida_24_virgilio_f000021	su padre cultivaba una heredad arrendada.
+M-AILABS_spa_000792	corte_de_carlos_iv_16_perezgaldos_f000093	sentía no sé si fue engañoso efecto del sueño unos golpecitos en mi pecho, producidos por vivas y dolorosas palpitaciones
+M-AILABS_spa_000793	eneida_03_virgilio_f000075	Dijo; y Sinón, amaestrado en los engaños y artificios de los Griegos, exclamó levantando al cielo las manos, libres ya de sus prisiones: ¡Oh eternos fuegos y oh númenes inviolables a que están consagrados!
+M-AILABS_spa_000794	bailen_16_perezgaldos_f000048	Nosotros teníamos sobre ellos la ventaja de lo desconocido, que es el genio tutelar de las batallas, de eso que no se ve y que en el momento apurado y crítico sale inopinadamente de lo hondo de un camino, del respaldo de una loma, de la espesura de un bosque;
+M-AILABS_spa_000795	angelina_07_delgado_f000026	las hileras de sauces melancólicos; la ciudad lejana, túrrida, envuelta en pesados vapores;
+M-AILABS_spa_000796	trafalgar_06_perezgaldos_f000114	El Trinidad ciento cuarenta cañones:
+M-AILABS_spa_000797	napoleonenchamartin_06_perezgaldos_f000172	No parece mal escrito, y apunta con timidez la idea que creo desarrolla atrevidamente este cuaderno que se intitula Política popular acomodada a las circunstancias del día:
+M-AILABS_spa_000798	el19demarzoyel2demayo_05_perezgaldos_f000023	Como yo me inclino siempre a creer lo bueno, no dudo de la sinceridad de Don Mauro, hasta que los hechos me prueben lo contrario.
+M-AILABS_spa_000799	eneida_24_virgilio_f000031	¡Tú, a quien no pudieron postrar ni las falanges argivas, ni Aquiles, el destructor del reino de Príamo, sucumbes aquí;
+M-AILABS_spa_000800	corte_de_carlos_iv_22_perezgaldos_f000054	llevando sobre el pecho una banda de rosas que la moda designaba con el nombre de croissures á la victime.
+M-AILABS_spa_000801	eneida_15_virgilio_f000029	Aquí tengo mi gran palacio, mi fuente nace entre nobilísimas ciudades.
+M-AILABS_spa_000802	arapiles_42_perezgaldos_f000060	-exclamó Santorcaz con un desconsuelo tan profundo que por largo rato quedó estupefacto.
+M-AILABS_spa_000803	napoleonenchamartin_28_perezgaldos_f000064	No, no puede ser... Vete de aquí;
+M-AILABS_spa_000804	arapiles_42_perezgaldos_f000144	-Y yo -dijo Santorcaz con voz apacible y ademán sereno-.
+M-AILABS_spa_000805	napoleonenchamartin_09_perezgaldos_f000223	y si llego a ser regidor, ya nos veremos las caras, señores afrancesados.
+M-AILABS_spa_000806	el19demarzoyel2demayo_12_perezgaldos_f000016	Vamos, chiquillos, aquí no servís más que de estorbo.
+M-AILABS_spa_000807	eneida_17_virgilio_f000014	Y dicho esto, llegose al río, cogió en las palmas un poco del agua pura que corre por la superficie, y dirigiendo numerosas preces a los dioses, llenó el aire con sus votos.
+M-AILABS_spa_000808	angelina_31_delgado_f000052	-Razón de más para que no me separe de ellas...
+M-AILABS_spa_000809	arapiles_31_perezgaldos_f000019	El general Leith, a quien indiqué que España me había mandado proseguir, cuando llegaron los ingleses me ordenó que esperase hasta la noche.
+M-AILABS_spa_000810	damadelascamelias_20_dumas_f000049	Inútil seria que el mundo envejeciera, si no había de corregirse.
+M-AILABS_spa_000811	cuentosclasicosprimera_08_poe_f000010	el analizador se gloria en la actividad mental que desembrolla.
+M-AILABS_spa_000812	corte_de_carlos_iv_12_perezgaldos_f000116	Seguí la dirección de los demás sin reparar si debía aventurar mis pasos por aquellos sitios
+M-AILABS_spa_000813	el19demarzoyel2demayo_21_perezgaldos_f000111	-Tiene amores con algún mozalbete de las calles.
+M-AILABS_spa_000814	napoleonenchamartin_28_perezgaldos_f000097	-¡Oh! sí: mi hija es muy desgraciada, y yo no puedo hacerla feliz.
+M-AILABS_spa_000815	el19demarzoyel2demayo_30_perezgaldos_f000022	Las mujeres allí reunidas daban cuenta de los desgraciados que habían visto penetrar para no salir más.
+M-AILABS_spa_000816	el19demarzoyel2demayo_10_perezgaldos_f000046	plan, plin, plan... ¡Si hubieras visto a los cuatro condenados muchachos, con qué alegría, con qué frenesí tiraban de las cuerdas!
+M-AILABS_spa_000817	angelina_14_delgado_f000068	Sarmiento se componía la chistera y tomaba el portante, y Venegas se marchaba diciendo pestes de frailes y retrógrados.
+M-AILABS_spa_000818	cuentosclasicosprimera_08_poe_f000191	y entonces, rememorando que no ha mucho discutíamos sobre este tema,
+M-AILABS_spa_000819	arapiles_41_perezgaldos_f000036	y os ocupáis en hacer guisotes y platos diversos para darme de comer: yo no como, señora; en la región donde yo habito no se come... De veras sois tonta:
+M-AILABS_spa_000820	angelina_28_delgado_f000128	-¿Cuándo y cómo?
+M-AILABS_spa_000821	el19demarzoyel2demayo_21_perezgaldos_f000048	Parece que se quieren comer los niños crudos... por supuesto que ya les verá Usted correr el día en que el español diga: por ahí me pica, y me quiero rascar.
+M-AILABS_spa_000822	angelina_11_delgado_f000096	Ella, escuchándome cariñosa;

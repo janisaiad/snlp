@@ -12,6 +12,14 @@ echo "ML-SUPERB data directory: ${DATA_DIR}"
 mkdir -p "${DATA_DIR}"
 cd "${DATA_DIR}"
 
+# Prefer venv's huggingface-cli when we're in a uv/snlp repo
+if [ -z "${HUGGINGFACE_CLI:-}" ] && [ -f "${REPO_ROOT}/.venv/bin/huggingface-cli" ]; then
+  HUGGINGFACE_CLI="${REPO_ROOT}/.venv/bin/huggingface-cli"
+fi
+if [ -n "${HUGGINGFACE_CLI:-}" ]; then
+  export PATH="$(dirname "${HUGGINGFACE_CLI}"):${PATH}"
+fi
+
 # Option 1: try Huggingface Hub (repo has eighth_version.zip; we download then extract)
 if command -v huggingface-cli &>/dev/null; then
   echo "Download start: $(date -Iseconds 2>/dev/null || date)"

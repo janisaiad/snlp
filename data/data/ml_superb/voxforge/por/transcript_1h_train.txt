@@ -1,0 +1,934 @@
+voxforge_por_000000 anonymous-20130619-ezp-193-pt_voxforge.wav QUANTO TEMPO FAZ QUE VOCÊ ESTÁ ESPERANDO AQUI
+voxforge_por_000001 pedro_loures-20140626-ima-213-pt_voxforge.wav SEXTA FEIRA
+voxforge_por_000002 anonymous-20111205-ahe-143-pt_voxforge.wav MARGARIDA PASSOU EM CASA ONTEM
+voxforge_por_000003 coelhosandro-20130511-kuz-183-pt_voxforge.wav ESTAMOS NO QUARTO SETECENTOS E VINTE
+voxforge_por_000004 justinodaniel-20120404-wwq-122-pt_voxforge.wav ONDE FICA O BANHEIRO
+voxforge_por_000005 mamarco-20100510-tmm-130-pt_voxforge.wav ALUGAMOS UM APARTAMENTO NA CIDADE
+voxforge_por_000006 anonymous-20111005-dfp-096-pt_voxforge.wav QUE HORAS SÃO
+voxforge_por_000007 anonymous-20150307-wwe-144-pt_voxforge.wav SIGA EM FRENTE PARA PEGAR O ÔNIBUS
+voxforge_por_000008 goularta-20120724-wak-123-pt_voxforge.wav QUANDO VOCÊ SOUBE DISSO
+voxforge_por_000009 leojoker-20141230-xuu-112-pt_voxforge.wav A SENHORA SABE FALAR A LÍNGUA JAPONESA
+voxforge_por_000010 rubbermaiden-20160714-hbd-158-pt_voxforge.wav ESTAMOS COM SONO
+voxforge_por_000011 anonymous-20180223-mgo-150-pt_voxforge.wav ELE NÃO QUIS DIZER NADA
+voxforge_por_000012 rubbermaiden-20160714-prp-202-pt_voxforge.wav O JOVEM ATACANTE CONVENCEU FÁCIL NA PARTIDA CONTRA O MÉXICO
+voxforge_por_000013 anonymous-20101204-yqj-102-pt_voxforge.wav EU MOREI NA BAHIA HÁ MUITO TEMPO
+voxforge_por_000014 anonymous-20100920-nsv-008-pt_voxforge.wav ELE GANHOU MUITOS MILHÕES NA LOTERIA
+voxforge_por_000015 rubbermaiden-20160714-yek-022-pt_voxforge.wav VOU CUMPRIR
+voxforge_por_000016 DorivalBiudes-20181013-hxn-127-pt_voxforge.wav VOCÊ SE SENTE MAL
+voxforge_por_000017 anonymous-20130907-hbk-035-pt_voxforge.wav OLHA SÓ
+voxforge_por_000019 goularta-20120724-mes-173-pt_voxforge.wav FALE MAIS DEVAGAR POR FAVOR
+voxforge_por_000020 DorivalBiudes-20181013-spn-078-pt_voxforge.wav QUAL É A DATA DE HOJE
+voxforge_por_000021 JordelsonSantiago-20150102-ypn-154-pt_voxforge.wav ERAM OITO HORAS DA NOITE
+voxforge_por_000022 sol-20100923-lfo-116-pt_voxforge.wav ESTOU COM FRIO
+voxforge_por_000023 anonymous-20181017-qhf-087-pt_voxforge.wav ESTE ABACAXI É GOSTOSO
+voxforge_por_000024 anonymous-20151026-lep-135-pt_voxforge.wav PAULO NUNCA FAZ TODA A TAREFA
+voxforge_por_000025 anonymous-20100628-zlh-043-pt_voxforge.wav FECHEM OS LIVROS
+voxforge_por_000027 anonymous-20120608-ijr-008-pt_voxforge.wav ELE GANHOU MUITOS MILHÕES NA LOTERIA
+voxforge_por_000028 insinfo-20120622-lio-014-pt_voxforge.wav TEM MUITOS PINGÜINS NO ZOOLÓGICO
+voxforge_por_000029 goularta-20120724-roz-056-pt_voxforge.wav NOSSA CASA TEM TRÊS DORMITÓRIOS CONFORTÁVEIS
+voxforge_por_000030 anonymous-20100722-ubh-172-pt_voxforge.wav AONDE VOCÊ VAI
+voxforge_por_000031 mpena-20150724-iki-118-pt_voxforge.wav QUANDO VOCÊ CHEGOU
+voxforge_por_000032 vchoi-20091024-fms-062-pt_voxforge.wav EU NÃO SABIA QUE VOCÊ TOCAVA VIOLÃO
+voxforge_por_000033 xiru-20080903-idu-160-pt_voxforge.wav ELE FREQUENTA O BARZINHO
+voxforge_por_000034 anonymous-20130526-bnc-074-pt_voxforge.wav QUANDO EU ERA CRIANÇA NÃO GOSTAVA DE MORANGOS
+voxforge_por_000035 coelhosandro-20130511-xyp-098-pt_voxforge.wav CABRAL CHEGOU AO BRASIL EM MIL E QUINHENTOS
+voxforge_por_000036 anonymous-20150201-wor-188-pt_voxforge.wav É IMPORTANTE TER MAIS TEMPO
+voxforge_por_000037 vchoi-20091024-fms-064-pt_voxforge.wav DE QUEM É A CANETA
+voxforge_por_000038 raulfragoso-20100330-nss-038-pt_voxforge.wav EU JOGAVA FUTEBOL MELHOR DO QUE MEUS AMIGOS
+voxforge_por_000039 anonymous-20121216-spb-189-pt_voxforge.wav VÁ COM PRESSA
+voxforge_por_000040 anonymous-20120221-qzl-118-pt_voxforge.wav QUANDO VOCÊ CHEGOU
+voxforge_por_000041 leojoker-20141231-xqy-103-pt_voxforge.wav ESCREVI UMA CARTA PARA ELES NA SEMANA PASSADA
+voxforge_por_000042 coelhosandro-20130511-zpm-118-pt_voxforge.wav QUANDO VOCÊ CHEGOU
+voxforge_por_000043 rubbermaiden-20160714-jef-130-pt_voxforge.wav ALUGAMOS UM APARTAMENTO NA CIDADE
+voxforge_por_000044 pedro_loures-20140626-sho-152-pt_voxforge.wav VOCÊ SABE ONDE FICA UM BOM RESTAURANTE
+voxforge_por_000045 coelhosandro-20130511-vsb-160-pt_voxforge.wav ELE FREQÜENTA O BARZINHO
+voxforge_por_000046 anonymous-20140619-wcy-ar-03-pt_voxforge.wav HE WOULD ONLY ANSWER I DON'T KNOW HE WOULDN'T SAY YES OR NO EITHER
+voxforge_por_000047 thiagorider-20150425-xde-007-pt_voxforge.wav NÃO AGÜENTO ESTA UMIDADE
+voxforge_por_000048 LuanaRosa-20100905-ohp-196-pt_voxforge.wav QUAL É O SEU NOME
+voxforge_por_000049 hellmarques-20100911-lns-143-pt_voxforge.wav MARGARIDA PASSOU EM CASA ONTEM
+voxforge_por_000050 anonymous-20150201-lqn-143-pt_voxforge.wav MARGARIDA PASSOU EM CASA ONTEM
+voxforge_por_000051 anonymous-20181017-gsd-014-pt_voxforge.wav TEM MUITOS PINGÜINS NO ZOOLÓGICO
+voxforge_por_000052 thiagorider-20150425-wjo-166-pt_voxforge.wav A AULA É ÀS NOVE E VINTE E CINCO
+voxforge_por_000053 ANTONIOOLIVEIRA-20110312-wfy-092-pt_voxforge.wav NÃO GOSTO DISSO
+voxforge_por_000054 pablobsantiago-20151029-qpy-197-pt_voxforge.wav ELES MORAM AQUI DESDE OS ANOS SETENTA
+voxforge_por_000055 Shuryon-20110130-tws-032-pt_voxforge.wav ELE TRABALHOU LÁ POR TRÊS ANOS E MEIO
+voxforge_por_000056 tiago-20090319-zas-127-pt_voxforge.wav VOCÊ SE SENTE MAL
+voxforge_por_000057 pedro_loures-20140626-ima-209-pt_voxforge.wav SEGUNDA FEIRA
+voxforge_por_000058 anonymous-20101212-jdp-094-pt_voxforge.wav VOU TOMAR UM POUQUINHO D'ÁGUA
+voxforge_por_000059 sylviamarsillac-20081007-vpu-218-pt_voxforge.wav ZERO UM DOIS TRES QUATRO CINCO SEIS SETE OITO NOVE DEZ
+voxforge_por_000060 anonymous-20100904-awf-079-pt_voxforge.wav NÃO SE QUEIXE
+voxforge_por_000061 DorivalBiudes-20181013-cka-014-pt_voxforge.wav TEM MUITOS PINGÜINS NO ZOOLÓGICO
+voxforge_por_000062 anonymous-20160123-nfu-054-pt_voxforge.wav O RAPAZ FICOU SENDO O NAMORADO DELA
+voxforge_por_000063 rubbermaiden-20160714-rpt-178-pt_voxforge.wav O TREM VAI CHEGAR ADIANTADO
+voxforge_por_000064 anonymous-20100628-zlh-042-pt_voxforge.wav ABRA A JANELA
+voxforge_por_000065 thiagorider-20150425-zea-148-pt_voxforge.wav ELA ESTEVE QUATRO VEZES EM LISBOA
+voxforge_por_000066 rubbermaiden-20160714-aqw-044-pt_voxforge.wav TEMOS QUATRO TIAS
+voxforge_por_000067 DanielG-20180223-vhl-211-pt_voxforge.wav QUARTA FEIRA
+voxforge_por_000068 pedro_loures-20140626-ima-215-pt_voxforge.wav DOMINGO
+voxforge_por_000070 pedro_loures-20140626-tza-171-pt_voxforge.wav ESTOU BEM OBRIGADO
+voxforge_por_000071 JordelsonSantiago-20150102-olo-081-pt_voxforge.wav ANA MARIA É UMA MOÇA DE SORTE
+voxforge_por_000072 sylviamarsillac-20081007-vpu-003-pt_voxforge.wav MEU AVÔ É MUITO VELHO
+voxforge_por_000073 scnunes-20091119-eio-136-pt_voxforge.wav FAZ UM ANO QUE SAÍ DE SÃO PAULO
+voxforge_por_000074 RaphaelMarquesPalmeira-20150301-hvw-172-pt_voxforge.wav AONDE VOCÊ VAI
+voxforge_por_000075 persona-20090228-ner-095-pt_voxforge.wav PARA ONDE A SENHORA QUER IR
+voxforge_por_000076 Shuryon-20110130-jxl-043-pt_voxforge.wav FECHEM OS LIVROS
+voxforge_por_000077 FernandoCardoso-20171125-zmi-034-pt_voxforge.wav NÃO COMPREENDO
+voxforge_por_000078 HygorAraujo-20130515-vyd-116-pt_voxforge.wav ESTOU COM FRIO
+voxforge_por_000079 xiru-20080903-crk-206-pt_voxforge.wav EU PREFIRO SER ESSA METAMORFOSE AMBULANTE
+voxforge_por_000080 anonymous-20121216-spb-186-pt_voxforge.wav SE EU TIVESSE DINHEIRO EU VIAJARIA PELO MUNDO INTEIRO
+voxforge_por_000081 rubbermaiden-20160714-gpa-180-pt_voxforge.wav ESTE HOTEL É BARATO
+voxforge_por_000082 ANTONIOOLIVEIRA-20110312-wfy-100-pt_voxforge.wav O QUE VOCÊ FEZ ONTEM
+voxforge_por_000083 insinfo-20120622-pax-139-pt_voxforge.wav VENDE SE PÃO NA ESQUINA
+voxforge_por_000084 GustavoMarucci-20130729-kzy-136-pt_voxforge.wav FAZ UM ANO QUE SAÍ DE SÃO PAULO
+voxforge_por_000085 tiago-20090319-dbr-211-pt_voxforge.wav QUARTA FEIRA
+voxforge_por_000086 anonymous-20120221-tjk-153-pt_voxforge.wav GERALMENTE NÃO BEBEMOS MUITA CERVEJA
+voxforge_por_000087 marcostimm-20100722-deq-090-pt_voxforge.wav EU TENHO TRINTA ANOS
+voxforge_por_000088 JordelsonSantiago-20150102-zim-118-pt_voxforge.wav QUANDO VOCÊ CHEGOU
+voxforge_por_000089 anonymous-20180223-mgo-156-pt_voxforge.wav ESTOU TRISTE
+voxforge_por_000090 DorivalBiudes-20181013-nld-001-pt_voxforge.wav ESTE INDIVÍDUO ASSISTE TELEVISÃO DEMAIS
+voxforge_por_000091 pedro_loures-20140626-rss-075-pt_voxforge.wav ONDE É O AEROPORTO
+voxforge_por_000092 JordelsonSantiago-20150102-gwl-010-pt_voxforge.wav FAÇA O TELEFONEMA DAQUELE ORELHÃO
+voxforge_por_000093 anonymous-20100310-odu-055-pt_voxforge.wav O IRMÃO DELA TEM MUITA INVEJA
+voxforge_por_000094 anonymous-20100722-ubh-169-pt_voxforge.wav ÓTIMO
+voxforge_por_000095 anonymous-20130406-zxl-182-pt_voxforge.wav NÃO ACEITAM CARTÕES DE CRÉDITO
+voxforge_por_000096 JordelsonSantiago-20150102-qpg-069-pt_voxforge.wav ESTÁ CHOVENDO E EU ESQUECI O MEU GUARDA CHUVA
+voxforge_por_000097 anonymous-20170512-ygp-203-pt_voxforge.wav O ZORRO É OUTRO DOS FILMES MUITO PROCURADOS NAS LOCADORAS ATUALMENTE
+voxforge_por_000098 anonymous-20110802-txz-030-pt_voxforge.wav MINHA FILHA QUER SER ATRIZ
+voxforge_por_000099 Xicao-20181022-zuq-094-pt_voxforge.wav VOU TOMAR UM POUQUINHO D'ÁGUA
+voxforge_por_000100 rubbermaiden-20160714-rpt-174-pt_voxforge.wav PODE ME AJUDAR
+voxforge_por_000101 coelhosandro-20130511-iij-211-pt_voxforge.wav QUARTA FEIRA
+voxforge_por_000102 rubbermaiden-20160714-myd-175-pt_voxforge.wav QUANTO CUSTA
+voxforge_por_000103 DirceuRodriguesdosSantos-20100329-ben-215-pt_voxforge.wav DOMINGO
+voxforge_por_000104 DorivalBiudes-20181013-spn-070-pt_voxforge.wav EU PAGO A CONTA E VOCÊS DEIXAM A GORJETA
+voxforge_por_000105 sylviamarsillac-20081007-yda-154-pt_voxforge.wav ERAM OITO HORAS DA NOITE
+voxforge_por_000106 anonymous-20151027-lrb-199-pt_voxforge.wav PASSAMOS PELO PARQUE PARA CHEGAR EM CASA
+voxforge_por_000107 anonymous-20130619-ezp-198-pt_voxforge.wav POR QUE VOCÊ ESTÁ SORRINDO
+voxforge_por_000108 insinfo-20120622-lvh-201-pt_voxforge.wav O PRESIDENTE DA REPÚBLICA FAZ ADVERTÊNCIA AO MINISTRO DA JUSTIÇA
+voxforge_por_000109 marcostimm-20100722-fvz-071-pt_voxforge.wav EU E PEDRO ANDAMOS A CAVALO NOS SÁBADOS
+voxforge_por_000110 AntonsioPrcoliMartins-20110107-adt-209-pt_voxforge.wav SEGUNDA FEIRA
+voxforge_por_000111 pedro_loures-20140625-oxq-011-pt_voxforge.wav QUAL É A SUA FUNÇÃO
+voxforge_por_000112 anonymous-20150201-lqn-142-pt_voxforge.wav VAMOS PARA SALVADOR AMANHÃ
+voxforge_por_000113 JordelsonSantiago-20150102-fcp-062-pt_voxforge.wav EU NÃO SABIA QUE VOCÊ TOCAVA VIOLÃO
+voxforge_por_000114 GustavoMarucci-20130729-xcv-006-pt_voxforge.wav TEM CERVEJA GRATUITA VINHO E CAIPIRINHAS
+voxforge_por_000115 anonymous-20121010-dvw-127-pt_voxforge.wav VOCÊ SE SENTE MAL
+voxforge_por_000116 FernandoCardoso-20171202-oaq-189-pt_voxforge.wav VÁ COM PRESSA
+voxforge_por_000117 anonymous-20150125-vid-204-pt_voxforge.wav A PRIMEIRA MAIOR GUERRA DE TODAS FOI ENTRE O BEM E O MAL O CEU E A TERRA
+voxforge_por_000118 pedro_loures-20140626-nxi-144-pt_voxforge.wav SIGA EM FRENTE PARA PEGAR O ÔNIBUS
+voxforge_por_000119 rubbermaiden-20160714-rtt-041-pt_voxforge.wav EU QUERO VIAJAR AO CANADÁ
+voxforge_por_000120 anonymous-20130315-tjh-013-pt_voxforge.wav ESTA COMIDA É RUIM MAS AQUELA É PIOR
+voxforge_por_000121 anonymous-20150828-nmu-004-pt_voxforge.wav ONDE MORA O SEU CUNHADO
+voxforge_por_000122 ldutra-20141001-cuu-194-pt_voxforge.wav ELE FOI PRESIDENTE DO PAÍS DURANTE QUATRO ANOS
+voxforge_por_000123 Brendon-20100823-fvg-103-pt_voxforge.wav ESCREVI UMA CARTA PARA ELES NA SEMANA PASSADA
+voxforge_por_000124 mpena-20150724-iki-121-pt_voxforge.wav EU PREFIRO ARROZ
+voxforge_por_000125 JordelsonSantiago-20150102-olo-086-pt_voxforge.wav QUANTOS PASTÉIS VOCÊ COMPROU
+voxforge_por_000126 FranciscodeSouzaJunior-20100111-irr-115-pt_voxforge.wav POSSO PAGAR COM CHEQUE
+voxforge_por_000127 gorgotron-20100302-fcl-170-pt_voxforge.wav ACHO QUE SIM
+voxforge_por_000128 JordelsonSantiago-20150102-zim-119-pt_voxforge.wav QUAL É O NÚMERO DO SEU TELEFONE
+voxforge_por_000129 leojoker-20141230-xuu-118-pt_voxforge.wav QUANDO VOCÊ CHEGOU
+voxforge_por_000130 marcostimm-20100722-ils-027-pt_voxforge.wav A PERNA DÓI
+voxforge_por_000131 pedro_loures-20140626-ima-211-pt_voxforge.wav QUARTA FEIRA
+voxforge_por_000132 gorgotron-20100302-fcl-166-pt_voxforge.wav A AULA É ÀS NOVE E VINTE E CINCO
+voxforge_por_000133 DanielG-20180223-afz-164-pt_voxforge.wav FICA LONGE DAQUI
+voxforge_por_000134 mpena-20150724-qby-025-pt_voxforge.wav O CÉU ESTÁ AZUL
+voxforge_por_000135 leojoker-20141230-xuu-119-pt_voxforge.wav QUAL É O NÚMERO DO SEU TELEFONE
+voxforge_por_000136 rubbermaiden-20160714-uqv-070-pt_voxforge.wav EU PAGO A CONTA E VOCÊS DEIXAM A GORJETA
+voxforge_por_000137 pablobsantiago-20151124-fxm-159-pt_voxforge.wav ELA É ALTA E BONITA
+voxforge_por_000138 aglehg-20130430-cdx-004-pt_voxforge.wav ONDE MORA O SEU CUNHADO
+voxforge_por_000139 JordelsonSantiago-20150102-xda-119-pt_voxforge.wav QUAL É O NÚMERO DO SEU TELEFONE
+voxforge_por_000140 pedro_loures-20140626-wno-213-pt_voxforge.wav SEXTA FEIRA
+voxforge_por_000141 tiago-20090319-dbr-208-pt_voxforge.wav PRIMEIRO DE ABRIL DE MIL NOVECENTOS E DEZ
+voxforge_por_000142 anonymous-20130406-zxl-181-pt_voxforge.wav PODEMOS FICAR EM CASA
+voxforge_por_000143 Fabiano-20110905-gpk-137-pt_voxforge.wav QUERO QUE VOCÊS ME VISITEM
+voxforge_por_000144 persona-20090228-ner-100-pt_voxforge.wav O QUE VOCÊ FEZ ONTEM
+voxforge_por_000145 JordelsonSantiago-20150102-xda-123-pt_voxforge.wav QUANDO VOCÊ SOUBE DISSO
+voxforge_por_000146 leojoker-20141231-wga-165-pt_voxforge.wav O QUE VOCÊS QUEREM FAZER
+voxforge_por_000147 rubbermaiden-20160714-hnb-056-pt_voxforge.wav NOSSA CASA TEM TRÊS DORMITÓRIOS CONFORTÁVEIS
+voxforge_por_000148 anonymous-20130526-yzb-055-pt_voxforge.wav O IRMÃO DELA TEM MUITA INVEJA
+voxforge_por_000149 coelhosandro-20130511-puq-020-pt_voxforge.wav O SENHOR TEM QUE TRABALHAR HOJE
+voxforge_por_000150 goularta-20120724-roz-052-pt_voxforge.wav OS BRASILEIROS COMEM ARROZ COM FEIJÃO
+voxforge_por_000151 GabrielFreitas-20150119-zhe-125-pt_voxforge.wav MINHA IRMÃ TEM QUINZE ANOS
+voxforge_por_000152 anonymous-20120523-oiu-217-pt_voxforge.wav SIM
+voxforge_por_000153 Anderson-20170727-qmu-137-pt_voxforge.wav QUERO QUE VOCÊS ME VISITEM
+voxforge_por_000154 mamarco-20100511-ood-155-pt_voxforge.wav JORGE FOI EMBORA
+voxforge_por_000155 Brendon-20100823-fvg-112-pt_voxforge.wav A SENHORA SABE FALAR A LÍNGUA JAPONESA
+voxforge_por_000157 gorgotron-20100302-qfm-074-pt_voxforge.wav QUANDO EU ERA CRIANÇA NÃO GOSTAVA DE MORANGOS
+voxforge_por_000158 pedro_loures-20140625-oxq-017-pt_voxforge.wav SOMOS PORTUGUESES ORGULHOSOS
+voxforge_por_000159 Shuryon-20110130-udn-093-pt_voxforge.wav EU GOSTARIA DE COMER UM ACARAJÉ
+voxforge_por_000160 pablobsantiago-20160906-det-213-pt_voxforge.wav SEXTA FEIRA
+voxforge_por_000161 marcostimm-20100722-jru-033-pt_voxforge.wav VOCÊ ESTÁ EM QUE SÉRIE
+voxforge_por_000162 leojoker-20141231-fba-123-pt_voxforge.wav QUANDO VOCÊ SOUBE DISSO
+voxforge_por_000163 anonymous-20120608-ijr-218-pt_voxforge.wav ZERO UM DOIS TRES QUATRO CINCO SEIS SETE OITO NOVE DEZ
+voxforge_por_000164 JordelsonSantiago-20150102-enh-027-pt_voxforge.wav A PERNA DÓI
+voxforge_por_000165 anonymous-20140712-jwa-133-pt_voxforge.wav O QUE VOCÊ ESTÁ FAZENDO
+voxforge_por_000166 rubbermaiden-20160714-wfz-025-pt_voxforge.wav O CÉU ESTÁ AZUL
+voxforge_por_000167 anonymous-20130423-wgi-066-pt_voxforge.wav PODE ME DAR O SEU ENDEREÇO
+voxforge_por_000168 thiagorider-20150425-xrg-013-pt_voxforge.wav ESTA COMIDA É RUIM MAS AQUELA É PIOR
+voxforge_por_000169 anonymous-20100723-xmr-111-pt_voxforge.wav VAI CHOVER NO FIM DE SEMANA
+voxforge_por_000170 anonymous-20181026-yxg-080-pt_voxforge.wav COMO VAI
+voxforge_por_000171 anonymous-20181017-kuh-058-pt_voxforge.wav BOA SORTE
+voxforge_por_000172 Tulio-20101221-sgn-026-pt_voxforge.wav NÃO ESTOU ACOSTUMADO
+voxforge_por_000173 leojoker-20141231-xqy-099-pt_voxforge.wav NÃO POSSO É IMPOSSÍVEL
+voxforge_por_000174 rubbermaiden-20160714-yek-023-pt_voxforge.wav VAMOS COMPRAR UM CARRO QUE FUNCIONA
+voxforge_por_000175 fsilveir-20110917-amb-161-pt_voxforge.wav EU SOU DO BRASIL
+voxforge_por_000176 rubbermaiden-20160714-bxb-195-pt_voxforge.wav ALGUÉM SABE A QUE HORAS COMEÇA O JANTAR
+voxforge_por_000177 marcostimm-20100722-ils-032-pt_voxforge.wav ELE TRABALHOU LÁ POR TRÊS ANOS E MEIO
+voxforge_por_000178 vchoi-20091024-fms-060-pt_voxforge.wav ESTA CIDADE TEM MUITOS ALEMÃES
+voxforge_por_000179 anonymous-20130423-wgi-067-pt_voxforge.wav NÓS NÃO MENTIMOS NUNCA
+voxforge_por_000180 DorivalBiudes-20181013-nld-217-pt_voxforge.wav SIM
+voxforge_por_000181 sylviamarsillac-20081007-yml-194-pt_voxforge.wav ELE FOI PRESIDENTE DO PAÍS DURANTE QUATRO ANOS
+voxforge_por_000182 anonymous-20110407-sny-126-pt_voxforge.wav NAS FÉRIAS SEMPRE ÍAMOS À PRAIA
+voxforge_por_000184 jotidusa-20111030-mjs-035-pt_voxforge.wav OLHA SÓ
+voxforge_por_000185 anonymous-20181230-bpi-070-pt_voxforge.wav EU PAGO A CONTA E VOCÊS DEIXAM A GORJETA
+voxforge_por_000186 DanielG-20180223-mcm-162-pt_voxforge.wav TCHAUZINHO
+voxforge_por_000187 Leandro-20141007-fmw-198-pt_voxforge.wav POR QUE VOCÊ ESTÁ SORRINDO
+voxforge_por_000189 DanielG-20180223-mcm-156-pt_voxforge.wav ESTOU TRISTE
+voxforge_por_000190 DorivalBiudes-20181013-hxn-130-pt_voxforge.wav ALUGAMOS UM APARTAMENTO NA CIDADE
+voxforge_por_000191 anonymous-20100920-nsv-006-pt_voxforge.wav TEM CERVEJA GRATUITA VINHO E CAIPIRINHAS
+voxforge_por_000192 insinfo-20120622-orb-205-pt_voxforge.wav E MELHOR NUNCA ENGOMAR OS LENÇÓIS AZUIS DEBAIXO DE SOL
+voxforge_por_000193 anonymous-20130609-afs-164-pt_voxforge.wav FICA LONGE DAQUI
+voxforge_por_000194 anonymous-20120221-tjk-152-pt_voxforge.wav VOCÊ SABE ONDE FICA UM BOM RESTAURANTE
+voxforge_por_000195 anonymous-20150125-hrj-142-pt_voxforge.wav VAMOS PARA SALVADOR AMANHÃ
+voxforge_por_000196 anonymous-20150125-hrj-139-pt_voxforge.wav VENDE SE PÃO NA ESQUINA
+voxforge_por_000197 anonymous-20150307-wwe-139-pt_voxforge.wav VENDE SE PÃO NA ESQUINA
+voxforge_por_000198 anonymous-20121216-nzw-079-pt_voxforge.wav NÃO SE QUEIXE
+voxforge_por_000199 anonymous-20150201-bkk-091-pt_voxforge.wav TUDO BEM
+voxforge_por_000200 Tainaraaf-20140811-egy-184-pt_voxforge.wav ELA MORA NO QUINTO ANDAR
+voxforge_por_000201 pedro_loures-20140626-ima-214-pt_voxforge.wav SÁBADO
+voxforge_por_000202 anonymous-20100920-nsv-005-pt_voxforge.wav QUAIS ESPORTES VOCÊ PRATICA
+voxforge_por_000203 LeonardodeJesus-20141003-kyn-137-pt_voxforge.wav QUERO QUE VOCÊS ME VISITEM
+voxforge_por_000204 kok-20110515-kns-091-pt_voxforge.wav TUDO BEM
+voxforge_por_000205 pedro_loures-20140626-sho-154-pt_voxforge.wav ERAM OITO HORAS DA NOITE
+voxforge_por_000206 ErivanCerqueira-20100222-mwm-122-pt_voxforge.wav ONDE FICA O BANHEIRO
+voxforge_por_000207 pedro_loures-20140626-xde-123-pt_voxforge.wav QUANDO VOCÊ SOUBE DISSO
+voxforge_por_000208 leojoker-20141230-xuu-111-pt_voxforge.wav VAI CHOVER NO FIM DE SEMANA
+voxforge_por_000209 thiagorider-20150425-zea-149-pt_voxforge.wav NÃO PUDE ESTAR NA AULA QUINTA FEIRA
+voxforge_por_000210 mpena-20150724-ikf-011-pt_voxforge.wav QUAL É A SUA FUNÇÃO
+voxforge_por_000211 rodrigocelsius-20111231-yrm-023-pt_voxforge.wav VAMOS COMPRAR UM CARRO QUE FUNCIONA
+voxforge_por_000212 marcostimm-20100722-jru-039-pt_voxforge.wav POR QUE ELE RECEBEU UMA PUNIÇÃO TÃO FORTE
+voxforge_por_000213 LuanaRosa-20100905-ohp-192-pt_voxforge.wav EU SEI FALAR PORTUGUÊS E INGLÊS
+voxforge_por_000214 LeonardodeJesus-20141003-kyn-142-pt_voxforge.wav VAMOS PARA SALVADOR AMANHÃ
+voxforge_por_000215 anonymous-20100219-sar-081-pt_voxforge.wav ANA MARIA É UMA MOÇA DE SORTE
+voxforge_por_000216 rubbermaiden-20160714-bxb-197-pt_voxforge.wav ELES MORAM AQUI DESDE OS ANOS SETENTA
+voxforge_por_000217 pablobsantiago-20151029-lci-034-pt_voxforge.wav NÃO COMPREENDO
+voxforge_por_000218 pedro_loures-20140626-lgt-016-pt_voxforge.wav MEU FILHO É ADVOGADO
+voxforge_por_000219 DanielG-20160121-mle-179-pt_voxforge.wav A QUE HORAS SAI O AVIÃO
+voxforge_por_000220 anonymous-20140806-lkn-129-pt_voxforge.wav ESTÁ COM FEBRE
+voxforge_por_000221 insinfo-20120622-bti-034-pt_voxforge.wav NÃO COMPREENDO
+voxforge_por_000222 KNSetting-20100813-tbz-106-pt_voxforge.wav FOMOS PARA A PRAIA
+voxforge_por_000223 leojoker-20141231-rpm-026-pt_voxforge.wav NÃO ESTOU ACOSTUMADO
+voxforge_por_000224 marcostimm-20100722-fvz-069-pt_voxforge.wav ESTÁ CHOVENDO E EU ESQUECI O MEU GUARDA CHUVA
+voxforge_por_000225 marcostimm-20100722-tnm-193-pt_voxforge.wav QUANTO TEMPO FAZ QUE VOCÊ ESTÁ ESPERANDO AQUI
+voxforge_por_000226 anonymous-20121216-spb-184-pt_voxforge.wav ELA MORA NO QUINTO ANDAR
+voxforge_por_000227 pedro_loures-20140626-sho-150-pt_voxforge.wav ELE NÃO QUIS DIZER NADA
+voxforge_por_000228 anonymous-20160212-qfl-155-pt_voxforge.wav JORGE FOI EMBORA
+voxforge_por_000229 anonymous-20150309-bhi-049-pt_voxforge.wav EU MORO NUMA RUA TRANQÜILA
+voxforge_por_000230 NicolasBacic-20100428-udw-121-pt_voxforge.wav EU PREFIRO ARROZ
+voxforge_por_000231 anonymous-20170512-ygp-210-pt_voxforge.wav TERÇA FEIRA
+voxforge_por_000232 pablobsantiago-20151029-qpy-198-pt_voxforge.wav POR QUE VOCÊ ESTÁ SORRINDO
+voxforge_por_000233 Xicao-20181022-ylr-153-pt_voxforge.wav GERALMENTE NÃO BEBEMOS MUITA CERVEJA
+voxforge_por_000234 vchoi-20091024-zmx-182-pt_voxforge.wav NÃO ACEITAM CARTÕES DE CRÉDITO
+voxforge_por_000235 anonymous-20130406-dlp-179-pt_voxforge.wav A QUE HORAS SAI O AVIÃO
+voxforge_por_000236 JordelsonSantiago-20150102-ufr-211-pt_voxforge.wav QUARTA FEIRA
+voxforge_por_000237 anonymous-20111205-ahe-141-pt_voxforge.wav MUITO OBRIGADO
+voxforge_por_000238 anonymous-20120523-oiu-218-pt_voxforge.wav ZERO UM DOIS TRES QUATRO CINCO SEIS SETE OITO NOVE DEZ
+voxforge_por_000239 kok-20110515-kns-090-pt_voxforge.wav EU TENHO TRINTA ANOS
+voxforge_por_000240 Wisleyv-20150123-pfs-064-pt_voxforge.wav DE QUEM É A CANETA
+voxforge_por_000241 pablobsantiago-20151124-eoi-071-pt_voxforge.wav EU E PEDRO ANDAMOS A CAVALO NOS SÁBADOS
+voxforge_por_000244 Anderson-20170727-qmu-136-pt_voxforge.wav FAZ UM ANO QUE SAÍ DE SÃO PAULO
+voxforge_por_000245 insinfo-20120622-ptx-161-pt_voxforge.wav EU SOU DO BRASIL
+voxforge_por_000246 coelhosandro-20130511-iij-217-pt_voxforge.wav SIM
+voxforge_por_000247 sylviamarsillac-20081007-cbn-093-pt_voxforge.wav EU GOSTARIA DE COMER UM ACARAJÉ
+voxforge_por_000248 rubbermaiden-20160714-zdb-009-pt_voxforge.wav A QUE HORAS É A NOVA NOVELA VENEZUELANA
+voxforge_por_000249 Hellowar-20151006-vtu-039-pt_voxforge.wav POR QUE ELE RECEBEU UMA PUNIÇÃO TÃO FORTE
+voxforge_por_000250 anonymous-20181017-mfd-125-pt_voxforge.wav MINHA IRMÃ TEM QUINZE ANOS
+voxforge_por_000251 anonymous-20121216-nzw-077-pt_voxforge.wav HOJE É SEGUNDA FEIRA
+voxforge_por_000252 anonymous-20130423-wgi-074-pt_voxforge.wav QUANDO EU ERA CRIANÇA NÃO GOSTAVA DE MORANGOS
+voxforge_por_000253 LeonardodeJesus-20141003-dfh-070-pt_voxforge.wav EU PAGO A CONTA E VOCÊS DEIXAM A GORJETA
+voxforge_por_000254 anonymous-20150125-hrj-145-pt_voxforge.wav A PADARIA FICA AO LADO DO MUSEU
+voxforge_por_000255 NAF-20141215-lst-174-pt_voxforge.wav PODE ME AJUDAR
+voxforge_por_000256 Leandro-20141007-fmw-195-pt_voxforge.wav ALGUÉM SABE A QUE HORAS COMEÇA O JANTAR
+voxforge_por_000257 JordelsonSantiago-20150102-dea-156-pt_voxforge.wav ESTOU TRISTE
+voxforge_por_000258 sol-20100923-lfo-124-pt_voxforge.wav ELAS SÃO MUITO SIMPÁTICAS
+voxforge_por_000259 goularta-20120724-wak-120-pt_voxforge.wav ROBERTO NÃO CANTA MAL
+voxforge_por_000260 anonymous-20120221-qzl-117-pt_voxforge.wav OS COMPUTADORES NÃO ME INTERESSAM
+voxforge_por_000262 KNSetting-20101203-tdn-139-pt_voxforge.wav VENDE SE PÃO NA ESQUINA
+voxforge_por_000263 Tulio-20101221-sgn-030-pt_voxforge.wav MINHA FILHA QUER SER ATRIZ
+voxforge_por_000264 xiru-20080903-jde-012-pt_voxforge.wav NOS DESEJAMOS UM QUARTO COM AR CONDICIONADO
+voxforge_por_000265 GustavoMarucci-20130729-kzy-132-pt_voxforge.wav A CONTA POR FAVOR
+voxforge_por_000266 KNSetting-20101203-tdn-144-pt_voxforge.wav SIGA EM FRENTE PARA PEGAR O ÔNIBUS
+voxforge_por_000267 anonymous-20181017-mfd-130-pt_voxforge.wav ALUGAMOS UM APARTAMENTO NA CIDADE
+voxforge_por_000268 thiagorider-20150425-jcu-181-pt_voxforge.wav PODEMOS FICAR EM CASA
+voxforge_por_000269 Shuryon-20110130-tws-034-pt_voxforge.wav NÃO COMPREENDO
+voxforge_por_000270 pedro_loures-20140626-nxi-146-pt_voxforge.wav MORAMOS PERTO DO HOSPITAL
+voxforge_por_000271 DorivalBiudes-20181013-nfj-045-pt_voxforge.wav QUEM ESTÁ AÍ
+voxforge_por_000272 pablobsantiago-20151124-eoi-070-pt_voxforge.wav EU PAGO A CONTA E VOCÊS DEIXAM A GORJETA
+voxforge_por_000273 tiagot-20120914-ivz-121-pt_voxforge.wav EU PREFIRO ARROZ
+voxforge_por_000274 anonymous-20100904-awf-088-pt_voxforge.wav ONDE FICA A ESTAÇÃO DO TREM
+voxforge_por_000275 Xicao-20181022-hbx-168-pt_voxforge.wav ESTÁ CHOVENDO
+voxforge_por_000276 thiagorider-20150425-izc-141-pt_voxforge.wav MUITO OBRIGADO
+voxforge_por_000277 coelhosandro-20130511-iij-212-pt_voxforge.wav QUINTA FEIRA
+voxforge_por_000278 marcostimm-20100722-deq-092-pt_voxforge.wav NÃO GOSTO DISSO
+voxforge_por_000279 goularta-20120724-mes-167-pt_voxforge.wav PARA ONDE VOCÊ FOI NAS FÉRIAS
+voxforge_por_000280 KNSetting-20101208-axn-214-pt_voxforge.wav SÁBADO
+voxforge_por_000281 vchoi-20091024-bif-087-pt_voxforge.wav ESTE ABACAXI É GOSTOSO
+voxforge_por_000282 leojoker-20141231-geu-083-pt_voxforge.wav JOÃOZINHO VAI DAR UMA FESTA EM AGOSTO
+voxforge_por_000283 AntonsioPrcoliMartins-20110107-adt-215-pt_voxforge.wav DOMINGO
+voxforge_por_000284 marcostimm-20100722-tnm-194-pt_voxforge.wav ELE FOI PRESIDENTE DO PAÍS DURANTE QUATRO ANOS
+voxforge_por_000285 jotidusa-20111030-mjs-042-pt_voxforge.wav ABRA A JANELA
+voxforge_por_000286 anonymous-20111130-dig-049-pt_voxforge.wav EU MORO NUMA RUA TRANQÜILA
+voxforge_por_000287 pedro_loures-20140626-tza-180-pt_voxforge.wav ESTE HOTEL É BARATO
+voxforge_por_000288 pedro_loures-20140626-bjy-161-pt_voxforge.wav EU SOU DO BRASIL
+voxforge_por_000289 anonymous-20110215-tmh-140-pt_voxforge.wav FALA SE PORTUGUÊS EM MOÇAMBIQUE
+voxforge_por_000290 rodrigocelsius-20111231-yrm-024-pt_voxforge.wav OS FUNCIONÁRIOS CHEGAM TARDE TODOS OS DIAS
+voxforge_por_000291 anonymous-20100415-yzx-097-pt_voxforge.wav AMANHÃ É SEXTA
+voxforge_por_000292 pedro_loures-20140626-nxi-141-pt_voxforge.wav MUITO OBRIGADO
+voxforge_por_000293 anonymous-20150828-nmu-003-pt_voxforge.wav MEU AVÔ É MUITO VELHO
+voxforge_por_000294 BrenoCarvalho-20130322-uat-098-pt_voxforge.wav CABRAL CHEGOU AO BRASIL EM MIL E QUINHENTOS
+voxforge_por_000295 tiago-20090319-axn-032-pt_voxforge.wav ELE TRABALHOU LÁ POR TRÊS ANOS E MEIO
+voxforge_por_000296 anonymous-20120608-suv-099-pt_voxforge.wav NÃO POSSO É IMPOSSÍVEL
+voxforge_por_000297 sylviamarsillac-20081007-yml-197-pt_voxforge.wav ELES MORAM AQUI DESDE OS ANOS SETENTA
+voxforge_por_000298 GustavoMarucci-20130729-kzy-140-pt_voxforge.wav FALA SE PORTUGUÊS EM MOÇAMBIQUE
+voxforge_por_000299 diego-20141020-agv-214-pt_voxforge.wav SÁBADO
+voxforge_por_000300 skydives-20141002-adj-110-pt_voxforge.wav QUE TEMPO ESTÁ FAZENDO
+voxforge_por_000301 marcostimm-20100722-lar-053-pt_voxforge.wav VOCÊS ALUGARAM UM CARRO OU FORAM DE ÔNIBUS
+voxforge_por_000302 tiago-20090319-dbr-212-pt_voxforge.wav QUINTA FEIRA
+voxforge_por_000303 rubbermaiden-20160714-lub-161-pt_voxforge.wav EU SOU DO BRASIL
+voxforge_por_000304 anonymous-20130725-qqr-109-pt_voxforge.wav DIGA ME A VERDADE
+voxforge_por_000305 rubbermaiden-20160714-dsf-048-pt_voxforge.wav AS CRIANÇAS SÃO BONITINHAS
+voxforge_por_000306 pedro_loures-20140626-xde-132-pt_voxforge.wav A CONTA POR FAVOR
+voxforge_por_000307 ldutra-20141001-cuu-202-pt_voxforge.wav O JOVEM ATACANTE CONVENCEU FÁCIL NA PARTIDA CONTRA O MÉXICO
+voxforge_por_000308 rubbermaiden-20160714-yek-024-pt_voxforge.wav OS FUNCIONÁRIOS CHEGAM TARDE TODOS OS DIAS
+voxforge_por_000309 Joarley-20101208-pcn-053-pt_voxforge.wav VOCÊS ALUGARAM UM CARRO OU FORAM DE ÔNIBUS
+voxforge_por_000310 anonymous-20151027-lrb-206-pt_voxforge.wav EU PREFIRO SER ESSA METAMORFOSE AMBULANTE
+voxforge_por_000311 isanches-20100723-pku-140-pt_voxforge.wav FALA SE PORTUGUÊS EM MOÇAMBIQUE
+voxforge_por_000312 JordelsonSantiago-20150102-pnt-121-pt_voxforge.wav EU PREFIRO ARROZ
+voxforge_por_000313 feaneron-20160903-hvm-110-pt_voxforge.wav QUE TEMPO ESTÁ FAZENDO
+voxforge_por_000314 DorivalBiudes-20181013-vlx-136-pt_voxforge.wav FAZ UM ANO QUE SAÍ DE SÃO PAULO
+voxforge_por_000315 anonymous-20141215-lrx-076-pt_voxforge.wav SÃO DUAS E MEIA DA TARDE
+voxforge_por_000316 pedro_loures-20140626-cqi-091-pt_voxforge.wav TUDO BEM
+voxforge_por_000317 mitsant-20141228-ukr-084-pt_voxforge.wav POR QUE VOCÊS ME DERAM O BOLO ONTEM À NOITE
+voxforge_por_000318 Xicao-20181022-hbx-174-pt_voxforge.wav PODE ME AJUDAR
+voxforge_por_000319 rubbermaiden-20160714-zhr-145-pt_voxforge.wav A PADARIA FICA AO LADO DO MUSEU
+voxforge_por_000320 rubbermaiden-20160714-wfz-028-pt_voxforge.wav SEMPRE QUIS TER UM BOM TRABALHO
+voxforge_por_000321 thiagorider-20150425-apu-065-pt_voxforge.wav NO CASAMENTO HAVIA MUITAS FLORES
+voxforge_por_000322 anonymous-20121216-nzw-083-pt_voxforge.wav JOÃOZINHO VAI DAR UMA FESTA EM AGOSTO
+voxforge_por_000323 anonymous-20150326-zlx-135-pt_voxforge.wav PAULO NUNCA FAZ TODA A TAREFA
+voxforge_por_000324 DorivalBiudes-20181013-vlx-135-pt_voxforge.wav PAULO NUNCA FAZ TODA A TAREFA
+voxforge_por_000325 JordelsonSantiago-20150102-ufr-215-pt_voxforge.wav DOMINGO
+voxforge_por_000326 rubbermaiden-20160714-wfc-197-pt_voxforge.wav ELES MORAM AQUI DESDE OS ANOS SETENTA
+voxforge_por_000327 Antonsio-20110108-lsh-054-pt_voxforge.wav O RAPAZ FICOU SENDO O NAMORADO DELA
+voxforge_por_000328 brunox-20110225-wqa-209-pt_voxforge.wav SEGUNDA FEIRA
+voxforge_por_000329 insinfo-20120622-jiy-194-pt_voxforge.wav ELE FOI PRESIDENTE DO PAÍS DURANTE QUATRO ANOS
+voxforge_por_000330 RaphaelMarquesPalmeira-20150301-hvw-176-pt_voxforge.wav PRECISO DE UMA PASSAGEM DE IDA E VOLTA
+voxforge_por_000331 thiagorider-20150425-xrg-018-pt_voxforge.wav PODE ME ENSINAR A TOCAR UM INSTRUMENTO
+voxforge_por_000332 tiago-20090318-pfk-162-pt_voxforge.wav TCHAUZINHO
+voxforge_por_000333 anonymous-20120608-suv-096-pt_voxforge.wav QUE HORAS SÃO
+voxforge_por_000334 anonymous-20110215-tmh-133-pt_voxforge.wav O QUE VOCÊ ESTÁ FAZENDO
+voxforge_por_000335 anonymous-20130526-gog-022-pt_voxforge.wav VOU CUMPRIR
+voxforge_por_000336 mpena-20150724-bck-039-pt_voxforge.wav POR QUE ELE RECEBEU UMA PUNIÇÃO TÃO FORTE
+voxforge_por_000337 persona-20090228-ner-097-pt_voxforge.wav AMANHÃ É SEXTA
+voxforge_por_000338 anonymous-20150307-upl-142-pt_voxforge.wav VAMOS PARA SALVADOR AMANHÃ
+voxforge_por_000339 pedro_loures-20140626-rss-083-pt_voxforge.wav JOÃOZINHO VAI DAR UMA FESTA EM AGOSTO
+voxforge_por_000341 anonymous-20150307-wwe-145-pt_voxforge.wav A PADARIA FICA AO LADO DO MUSEU
+voxforge_por_000342 Anderson-20170727-rge-018-pt_voxforge.wav PODE ME ENSINAR A TOCAR UM INSTRUMENTO
+voxforge_por_000343 pablobsantiago-20160906-vcf-196-pt_voxforge.wav QUAL É O SEU NOME
+voxforge_por_000344 scnunes-20091119-eio-132-pt_voxforge.wav A CONTA POR FAVOR
+voxforge_por_000345 anonymous-20101212-jdp-097-pt_voxforge.wav AMANHÃ É SEXTA
+voxforge_por_000346 rubbermaiden-20160714-uqv-068-pt_voxforge.wav POR QUE VOCÊ COMPROU ESSA REVISTA
+voxforge_por_000347 sylviamarsillac-20081007-yda-155-pt_voxforge.wav JORGE FOI EMBORA
+voxforge_por_000348 tony-20090724-hty-067-pt_voxforge.wav NÓS NÃO MENTIMOS NUNCA
+voxforge_por_000349 anonymous-20120221-ted-069-pt_voxforge.wav ESTÁ CHOVENDO E EU ESQUECI O MEU GUARDA CHUVA
+voxforge_por_000350 pablobsantiago-20151124-eoi-066-pt_voxforge.wav PODE ME DAR O SEU ENDEREÇO
+voxforge_por_000351 rubbermaiden-20160714-jef-121-pt_voxforge.wav EU PREFIRO ARROZ
+voxforge_por_000352 leojoker-20141231-fba-125-pt_voxforge.wav MINHA IRMÃ TEM QUINZE ANOS
+voxforge_por_000353 pedro_loures-20140625-lki-014-pt_voxforge.wav TEM MUITOS PINGÜINS NO ZOOLÓGICO
+voxforge_por_000354 LeonardodeJesus-20141003-kyn-138-pt_voxforge.wav NÃO SE PREOCUPE
+voxforge_por_000355 mamarco-20100511-vdc-033-pt_voxforge.wav VOCÊ ESTÁ EM QUE SÉRIE
+voxforge_por_000356 leojoker-20141231-fba-117-pt_voxforge.wav OS COMPUTADORES NÃO ME INTERESSAM
+voxforge_por_000357 marcostimm-20100722-dwb-163-pt_voxforge.wav QUANTOS ANOS VOCÊ TEM
+voxforge_por_000358 insinfo-20120622-orb-211-pt_voxforge.wav QUARTA FEIRA
+voxforge_por_000359 sylviamarsillac-20081007-oje-111-pt_voxforge.wav VAI CHOVER NO FIM DE SEMANA
+voxforge_por_000360 pedro_loures-20140626-nxi-139-pt_voxforge.wav VENDE SE PÃO NA ESQUINA
+voxforge_por_000361 LeonardodeJesus-20141003-dfh-072-pt_voxforge.wav NA FESTA TODO MUNDO ESTAVA MUITO CONTENTE
+voxforge_por_000362 anonymous-20120211-pxz-181-pt_voxforge.wav PODEMOS FICAR EM CASA
+voxforge_por_000363 marcostimm-20100722-tnm-198-pt_voxforge.wav POR QUE VOCÊ ESTÁ SORRINDO
+voxforge_por_000364 pedro_loures-20140626-rss-080-pt_voxforge.wav COMO VAI
+voxforge_por_000365 anonymous-20130725-qqr-113-pt_voxforge.wav PRECISO TOMAR ALGUMA BEBIDA
+voxforge_por_000366 marcostimm-20100722-ils-026-pt_voxforge.wav NÃO ESTOU ACOSTUMADO
+voxforge_por_000367 mitsant-20141228-ukr-083-pt_voxforge.wav JOÃOZINHO VAI DAR UMA FESTA EM AGOSTO
+voxforge_por_000368 pablobsantiago-20151124-eoi-069-pt_voxforge.wav ESTÁ CHOVENDO E EU ESQUECI O MEU GUARDA CHUVA
+voxforge_por_000369 pedro_loures-20140626-bjy-156-pt_voxforge.wav ESTOU TRISTE
+voxforge_por_000370 mpena-20150724-igx-102-pt_voxforge.wav EU MOREI NA BAHIA HÁ MUITO TEMPO
+voxforge_por_000371 diego-20141020-agv-218-pt_voxforge.wav ZERO UM DOIS TRES QUATRO CINCO SEIS SETE OITO NOVE DEZ
+voxforge_por_000372 gorgotron-20100302-qpx-174-pt_voxforge.wav PODE ME AJUDAR
+voxforge_por_000373 anonymous-20181017-mfd-129-pt_voxforge.wav ESTÁ COM FEBRE
+voxforge_por_000374 insinfo-20120622-bti-031-pt_voxforge.wav COMPREI UM PRESENTINHO PARA A MINHA MÃE
+voxforge_por_000375 JordelsonSantiago-20150102-enh-023-pt_voxforge.wav VAMOS COMPRAR UM CARRO QUE FUNCIONA
+voxforge_por_000376 rubbermaiden-20160714-rtt-048-pt_voxforge.wav AS CRIANÇAS SÃO BONITINHAS
+voxforge_por_000377 anonymous-20181017-bhm-038-pt_voxforge.wav EU JOGAVA FUTEBOL MELHOR DO QUE MEUS AMIGOS
+voxforge_por_000378 marcostimm-20100722-lar-055-pt_voxforge.wav O IRMÃO DELA TEM MUITA INVEJA
+voxforge_por_000379 sylviamarsillac-20081007-jxf-171-pt_voxforge.wav ESTOU BEM OBRIGADO
+voxforge_por_000380 adriano-20101204-fwl-025-pt_voxforge.wav O CÉU ESTÁ AZUL
+voxforge_por_000381 anonymous-20111005-dfp-097-pt_voxforge.wav AMANHÃ É SEXTA
+voxforge_por_000382 anonymous-20130725-ijl-217-pt_voxforge.wav SIM
+voxforge_por_000383 pablobsantiago-20151029-qpy-196-pt_voxforge.wav QUAL É O SEU NOME
+voxforge_por_000384 Shuryon-20110130-jxl-039-pt_voxforge.wav POR QUE ELE RECEBEU UMA PUNIÇÃO TÃO FORTE
+voxforge_por_000385 scnunes-20091119-nfb-198-pt_voxforge.wav POR QUE VOCÊ ESTÁ SORRINDO
+voxforge_por_000386 DanielG-20160121-mfe-217-pt_voxforge.wav SIM
+voxforge_por_000387 anonymous-20110802-txz-027-pt_voxforge.wav A PERNA DÓI
+voxforge_por_000388 Daniel-20141230-yrm-009-pt_voxforge.wav A QUE HORAS É A NOVA NOVELA VENEZUELANA
+voxforge_por_000389 KNSetting-20101203-kru-132-pt_voxforge.wav A CONTA POR FAVOR
+voxforge_por_000390 mpena-20150724-osv-173-pt_voxforge.wav FALE MAIS DEVAGAR POR FAVOR
+voxforge_por_000391 anonymous-20150125-hrj-140-pt_voxforge.wav FALA SE PORTUGUÊS EM MOÇAMBIQUE
+voxforge_por_000392 sol-20100923-lfo-117-pt_voxforge.wav OS COMPUTADORES NÃO ME INTERESSAM
+voxforge_por_000393 tony-20090724-ymk-214-pt_voxforge.wav SÁBADO
+voxforge_por_000394 tiago-20090319-zas-128-pt_voxforge.wav TENHO DOR DE CABEÇA
+voxforge_por_000395 Anderson-20170727-tha-166-pt_voxforge.wav A AULA É ÀS NOVE E VINTE E CINCO
+voxforge_por_000396 Brendon-20100823-fvg-108-pt_voxforge.wav OS SENHORES ACORDARAM CEDO
+voxforge_por_000397 DanielM-20121123-pxg-188-pt_voxforge.wav É IMPORTANTE TER MAIS TEMPO
+voxforge_por_000398 anonymous-20120221-ted-072-pt_voxforge.wav NA FESTA TODO MUNDO ESTAVA MUITO CONTENTE
+voxforge_por_000399 insinfo-20120622-lvh-193-pt_voxforge.wav QUANTO TEMPO FAZ QUE VOCÊ ESTÁ ESPERANDO AQUI
+voxforge_por_000400 anonymous-20120221-hyp-107-pt_voxforge.wav ANTEONTEM EU FUI AO CINEMA
+voxforge_por_000401 brunox-20110225-wqa-218-pt_voxforge.wav ZERO UM DOIS TRES QUATRO CINCO SEIS SETE OITO NOVE DEZ
+voxforge_por_000402 insinfo-20120622-ezu-182-pt_voxforge.wav NÃO ACEITAM CARTÕES DE CRÉDITO
+voxforge_por_000404 rubbermaiden-20160714-nhj-156-pt_voxforge.wav ESTOU TRISTE
+voxforge_por_000405 anonymous-20120608-atc-067-pt_voxforge.wav NÓS NÃO MENTIMOS NUNCA
+voxforge_por_000406 hellmarques-20100905-rcq-005-pt_voxforge.wav QUAIS ESPORTES VOCÊ PRATICA
+voxforge_por_000407 mamarco-20100511-vdc-039-pt_voxforge.wav POR QUE ELE RECEBEU UMA PUNIÇÃO TÃO FORTE
+voxforge_por_000408 leojoker-20141231-wga-163-pt_voxforge.wav QUANTOS ANOS VOCÊ TEM
+voxforge_por_000409 coelhosandro-20130511-qcv-072-pt_voxforge.wav NA FESTA TODO MUNDO ESTAVA MUITO CONTENTE
+voxforge_por_000410 LeonardodeJesus-20141003-hob-205-pt_voxforge.wav E MELHOR NUNCA ENGOMAR OS LENÇÓIS AZUIS DEBAIXO DE SOL
+voxforge_por_000411 mpena-20150724-bck-042-pt_voxforge.wav ABRA A JANELA
+voxforge_por_000412 tiagot-20120914-ivz-123-pt_voxforge.wav QUANDO VOCÊ SOUBE DISSO
+voxforge_por_000413 anonymous-20100628-zlh-044-pt_voxforge.wav TEMOS QUATRO TIAS
+voxforge_por_000414 coelhosandro-20130511-zpm-121-pt_voxforge.wav EU PREFIRO ARROZ
+voxforge_por_000415 marcostimm-20100722-tnm-199-pt_voxforge.wav PASSAMOS PELO PARQUE PARA CHEGAR EM CASA
+voxforge_por_000416 anonymous-20160123-nfu-055-pt_voxforge.wav O IRMÃO DELA TEM MUITA INVEJA
+voxforge_por_000417 rubbermaiden-20160714-fty-125-pt_voxforge.wav MINHA IRMÃ TEM QUINZE ANOS
+voxforge_por_000418 coelhosandro-20130511-kuz-188-pt_voxforge.wav É IMPORTANTE TER MAIS TEMPO
+voxforge_por_000419 pedro_loures-20140626-rss-077-pt_voxforge.wav HOJE É SEGUNDA FEIRA
+voxforge_por_000420 anonymous-20121228-ccp-163-pt_voxforge.wav QUANTOS ANOS VOCÊ TEM
+voxforge_por_000421 anonymous-20121216-nzw-076-pt_voxforge.wav SÃO DUAS E MEIA DA TARDE
+voxforge_por_000422 anonymous-20170512-ygp-205-pt_voxforge.wav E MELHOR NUNCA ENGOMAR OS LENÇÓIS AZUIS DEBAIXO DE SOL
+voxforge_por_000423 thiagorider-20150425-izc-149-pt_voxforge.wav NÃO PUDE ESTAR NA AULA QUINTA FEIRA
+voxforge_por_000424 raulfragoso-20100330-iyi-024-pt_voxforge.wav OS FUNCIONÁRIOS CHEGAM TARDE TODOS OS DIAS
+voxforge_por_000425 anonymous-20110614-cao-044-pt_voxforge.wav TEMOS QUATRO TIAS
+voxforge_por_000426 orlophe-20111012-vcr-131-pt_voxforge.wav VOU TOMAR BANHO
+voxforge_por_000427 rubbermaiden-20160714-uqv-066-pt_voxforge.wav PODE ME DAR O SEU ENDEREÇO
+voxforge_por_000428 rubbermaiden-20160714-wfc-201-pt_voxforge.wav O PRESIDENTE DA REPÚBLICA FAZ ADVERTÊNCIA AO MINISTRO DA JUSTIÇA
+voxforge_por_000429 coelhosandro-20130511-xyp-097-pt_voxforge.wav AMANHÃ É SEXTA
+voxforge_por_000430 anonymous-20100219-sar-083-pt_voxforge.wav JOÃOZINHO VAI DAR UMA FESTA EM AGOSTO
+voxforge_por_000431 JordelsonSantiago-20150102-olo-080-pt_voxforge.wav COMO VAI
+voxforge_por_000432 JordelsonSantiago-20150102-enh-029-pt_voxforge.wav FERNANDO DEIXOU DE FUMAR
+voxforge_por_000433 anonymous-20180223-mgo-157-pt_voxforge.wav ELES SÃO MUITO INTELIGENTES
+voxforge_por_000434 anonymous-20150822-ems-184-pt_voxforge.wav ELA MORA NO QUINTO ANDAR
+voxforge_por_000435 DirceuRodriguesdosSantos-20100329-ben-213-pt_voxforge.wav SEXTA FEIRA
+voxforge_por_000436 anonymous-20160123-nfu-058-pt_voxforge.wav BOA SORTE
+voxforge_por_000437 rubbermaiden-20160714-wfz-029-pt_voxforge.wav FERNANDO DEIXOU DE FUMAR
+voxforge_por_000438 rubbermaiden-20160714-hnb-064-pt_voxforge.wav DE QUEM É A CANETA
+voxforge_por_000439 xiru-20080903-jde-009-pt_voxforge.wav A QUE HORAS E A NOVA NOVELA VENEZUELANA
+voxforge_por_000440 anonymous-20130423-wgi-069-pt_voxforge.wav ESTÁ CHOVENDO E EU ESQUECI O MEU GUARDA CHUVA
+voxforge_por_000441 sol-20100923-lfo-118-pt_voxforge.wav QUANDO VOCÊ CHEGOU
+voxforge_por_000442 rubbermaiden-20160714-wfc-199-pt_voxforge.wav PASSAMOS PELO PARQUE PARA CHEGAR EM CASA
+voxforge_por_000443 KNSetting-20100813-tbz-112-pt_voxforge.wav A SENHORA SABE FALAR A LÍNGUA JAPONESA
+voxforge_por_000445 insinfo-20120622-bti-030-pt_voxforge.wav MINHA FILHA QUER SER ATRIZ
+voxforge_por_000446 anonymous-20120608-ijr-217-pt_voxforge.wav SIM
+voxforge_por_000447 Tainaraaf-20140811-egy-189-pt_voxforge.wav VÁ COM PRESSA
+voxforge_por_000448 anonymous-20150307-upl-147-pt_voxforge.wav SINTO MUITO NÃO TENHO MAIS DINHEIRO
+voxforge_por_000449 tiago-20090318-pfk-163-pt_voxforge.wav QUANTOS ANOS VOCÊ TEM
+voxforge_por_000450 pedro_loures-20140626-cqi-087-pt_voxforge.wav ESTE ABACAXI É GOSTOSO
+voxforge_por_000451 pedro_loures-20140626-uqv-041-pt_voxforge.wav EU QUERO VIAJAR AO CANADÁ
+voxforge_por_000452 rubbermaiden-20160714-nhj-147-pt_voxforge.wav SINTO MUITO NÃO TENHO MAIS DINHEIRO
+voxforge_por_000453 anonymous-20100920-nsv-004-pt_voxforge.wav ONDE MORA O SEU CUNHADO
+voxforge_por_000454 ANTONIOOLIVEIRA-20110312-wfy-091-pt_voxforge.wav TUDO BEM
+voxforge_por_000455 anonymous-20130406-dsp-044-pt_voxforge.wav TEMOS QUATRO TIAS
+voxforge_por_000456 anonymous-20120628-ssi-022-pt_voxforge.wav VOU CUMPRIR
+voxforge_por_000457 pablobsantiago-20151124-eoi-068-pt_voxforge.wav POR QUE VOCÊ COMPROU ESSA REVISTA
+voxforge_por_000458 skydives-20141002-adj-117-pt_voxforge.wav OS COMPUTADORES NÃO ME INTERESSAM
+voxforge_por_000459 anonymous-20120221-hyp-103-pt_voxforge.wav ESCREVI UMA CARTA PARA ELES NA SEMANA PASSADA
+voxforge_por_000460 pedro_loures-20140626-nxi-147-pt_voxforge.wav SINTO MUITO NÃO TENHO MAIS DINHEIRO
+voxforge_por_000461 insinfo-20120622-jiy-189-pt_voxforge.wav VÁ COM PRESSA
+voxforge_por_000462 rubbermaiden-20160714-rpt-179-pt_voxforge.wav A QUE HORAS SAI O AVIÃO
+voxforge_por_000463 rubbermaiden-20160714-bxb-194-pt_voxforge.wav ELE FOI PRESIDENTE DO PAÍS DURANTE QUATRO ANOS
+voxforge_por_000464 JordelsonSantiago-20150102-fcp-059-pt_voxforge.wav LAVE AS MÃOS ANTES DE ALMOÇAR
+voxforge_por_000465 anonymous-20100519-anc-164-pt_voxforge.wav FICA LONGE DAQUI
+voxforge_por_000466 BrenoCarvalho-20130322-eyp-132-pt_voxforge.wav A CONTA POR FAVOR
+voxforge_por_000467 justinodaniel-20120404-wwq-129-pt_voxforge.wav ESTÁ COM FEBRE
+voxforge_por_000468 anonymous-20101212-jdp-096-pt_voxforge.wav QUE HORAS SÃO
+voxforge_por_000469 sylviamarsillac-20081007-vpu-213-pt_voxforge.wav SEXTA FEIRA
+voxforge_por_000470 FernandoCardoso-20171202-oaq-190-pt_voxforge.wav O QUE VOCÊ QUER FAZER NO FUTURO
+voxforge_por_000471 anonymous-20111206-vji-028-pt_voxforge.wav SEMPRE QUIS TER UM BOM TRABALHO
+voxforge_por_000472 anonymous-20120628-ssi-023-pt_voxforge.wav VAMOS COMPRAR UM CARRO QUE FUNCIONA
+voxforge_por_000473 pedro_loures-20140626-plb-206-pt_voxforge.wav EU PREFIRO SER ESSA METAMORFOSE AMBULANTE
+voxforge_por_000474 rubbermaiden-20160714-fpg-121-pt_voxforge.wav EU PREFIRO ARROZ
+voxforge_por_000475 rubbermaiden-20160714-wfc-203-pt_voxforge.wav O ZORRO É OUTRO DOS FILMES MUITO PROCURADOS NAS LOCADORAS ATUALMENTE
+voxforge_por_000476 LeonardodeJesus-20141003-hob-206-pt_voxforge.wav EU PREFIRO SER ESSA METAMORFOSE AMBULANTE
+voxforge_por_000477 HygorArajo-20130515-byc-116-pt_voxforge.wav ESTOU COM FRIO
+voxforge_por_000478 anonymous-20120221-hyp-102-pt_voxforge.wav EU MOREI NA BAHIA HÁ MUITO TEMPO
+voxforge_por_000479 DanielG-20160121-fau-127-pt_voxforge.wav VOCÊ SE SENTE MAL
+voxforge_por_000480 anonymous-20130526-yzb-057-pt_voxforge.wav O SENHOR QUER CAMA DE CASAL OU DE SOLTEIRO
+voxforge_por_000481 anonymous-20121216-xhy-088-pt_voxforge.wav ONDE FICA A ESTAÇÃO DO TREM
+voxforge_por_000482 anonymous-20130828-nnx-103-pt_voxforge.wav ESCREVI UMA CARTA PARA ELES NA SEMANA PASSADA
+voxforge_por_000483 scnunes-20091119-nfb-194-pt_voxforge.wav ELE FOI PRESIDENTE DO PAÍS DURANTE QUATRO ANOS
+voxforge_por_000484 DorivalBiudes-20181013-nfj-038-pt_voxforge.wav EU JOGAVA FUTEBOL MELHOR DO QUE MEUS AMIGOS
+voxforge_por_000485 rubbermaiden-20160714-zty-173-pt_voxforge.wav FALE MAIS DEVAGAR POR FAVOR
+voxforge_por_000486 anonymous-20130725-qzc-033-pt_voxforge.wav VOCÊ ESTÁ EM QUE SÉRIE
+voxforge_por_000487 anonymous-20151027-lrb-205-pt_voxforge.wav E MELHOR NUNCA ENGOMAR OS LENÇÓIS AZUIS DEBAIXO DE SOL
+voxforge_por_000488 DanielM-20121123-pxg-183-pt_voxforge.wav ESTAMOS NO QUARTO SETECENTOS E VINTE
+voxforge_por_000489 isanches-20100723-pku-144-pt_voxforge.wav SIGA EM FRENTE PARA PEGAR O ÔNIBUS
+voxforge_por_000490 rubbermaiden-20160714-wfc-204-pt_voxforge.wav A PRIMEIRA MAIOR GUERRA DE TODAS FOI ENTRE O BEM E O MAL O CEU E A TERRA
+voxforge_por_000491 DanielM-20121123-pxg-190-pt_voxforge.wav O QUE VOCÊ QUER FAZER NO FUTURO
+voxforge_por_000492 anonymous-20181017-qdy-212-pt_voxforge.wav QUINTA FEIRA
+voxforge_por_000493 anonymous-20150125-vid-209-pt_voxforge.wav SEGUNDA FEIRA
+voxforge_por_000494 anonymous-20151003-zqn-032-pt_voxforge.wav ELE TRABALHOU LÁ POR TRÊS ANOS E MEIO
+voxforge_por_000495 Wisleyv-20150123-pfs-060-pt_voxforge.wav ESTA CIDADE TEM MUITOS ALEMÃES
+voxforge_por_000496 JordelsonSantiago-20150102-gwl-017-pt_voxforge.wav SOMOS PORTUGUESES ORGULHOSOS
+voxforge_por_000497 anonymous-20121228-ccp-165-pt_voxforge.wav O QUE VOCÊS QUEREM FAZER
+voxforge_por_000499 rubbermaiden-20160714-cer-168-pt_voxforge.wav ESTÁ CHOVENDO
+voxforge_por_000500 Josberto-20130303-pbs-060-pt_voxforge.wav ESTA CIDADE TEM MUITOS ALEMÃES
+voxforge_por_000501 skydives-20141002-xjm-209-pt_voxforge.wav SEGUNDA FEIRA
+voxforge_por_000502 pedro_loures-20140626-lgt-013-pt_voxforge.wav ESTA COMIDA É RUIM MAS AQUELA É PIOR
+voxforge_por_000503 rubbermaiden-20160714-spt-068-pt_voxforge.wav POR QUE VOCÊ COMPROU ESSA REVISTA
+voxforge_por_000504 rubbermaiden-20160714-aqw-043-pt_voxforge.wav FECHEM OS LIVROS
+voxforge_por_000505 marcostimm-20100722-gpb-138-pt_voxforge.wav NÃO SE PREOCUPE
+voxforge_por_000506 anonymous-20120720-nyq-098-pt_voxforge.wav CABRAL CHEGOU AO BRASIL EM MIL E QUINHENTOS
+voxforge_por_000507 skydives-20141002-adj-119-pt_voxforge.wav QUAL É O NÚMERO DO SEU TELEFONE
+voxforge_por_000508 anonymous-20100415-yzx-096-pt_voxforge.wav QUE HORAS SÃO
+voxforge_por_000509 anonymous-20120523-oiu-214-pt_voxforge.wav SÁBADO
+voxforge_por_000510 anonymous-20181017-ljk-169-pt_voxforge.wav ÓTIMO
+voxforge_por_000511 anonymous-20150307-wwe-146-pt_voxforge.wav MORAMOS PERTO DO HOSPITAL
+voxforge_por_000512 vchoi-20091024-fms-067-pt_voxforge.wav NÓS NÃO MENTIMOS NUNCA
+voxforge_por_000513 justinodaniel-20120404-ngq-112-pt_voxforge.wav A SENHORA SABE FALAR A LÍNGUA JAPONESA
+voxforge_por_000514 anonymous-20151003-zqn-039-pt_voxforge.wav POR QUE ELE RECEBEU UMA PUNIÇÃO TÃO FORTE
+voxforge_por_000515 insinfo-20120622-orb-213-pt_voxforge.wav SEXTA FEIRA
+voxforge_por_000516 DorivalBiudes-20181013-hxn-128-pt_voxforge.wav TENHO DOR DE CABEÇA
+voxforge_por_000517 rubbermaiden-20160714-zdb-008-pt_voxforge.wav ELE GANHOU MUITOS MILHÕES NA LOTERIA
+voxforge_por_000518 justinodaniel-20120404-wwq-123-pt_voxforge.wav QUANDO VOCÊ SOUBE DISSO
+voxforge_por_000519 rubbermaiden-20160714-hnb-059-pt_voxforge.wav LAVE AS MÃOS ANTES DE ALMOÇAR
+voxforge_por_000520 anonymous-20100628-ona-135-pt_voxforge.wav PAULO NUNCA FAZ TODA A TAREFA
+voxforge_por_000521 berlotto-20160429-exq-139-pt_voxforge.wav VENDE SE PÃO NA ESQUINA
+voxforge_por_000522 anonymous-20121216-xhy-092-pt_voxforge.wav NÃO GOSTO DISSO
+voxforge_por_000523 pablobsantiago-20151029-qpy-191-pt_voxforge.wav JOÃO SABE ESCREVER À MÁQUINA
+voxforge_por_000524 Deivid-20130409-wyg-052-pt_voxforge.wav OS BRASILEIROS COMEM ARROZ COM FEIJÃO
+voxforge_por_000525 fsilveir-20110917-amb-165-pt_voxforge.wav O QUE VOCÊS QUEREM FAZER
+voxforge_por_000526 anonymous-20130528-qxb-116-pt_voxforge.wav ESTOU COM FRIO
+voxforge_por_000527 vchoi-20091024-bif-089-pt_voxforge.wav ATÉ LOGO
+voxforge_por_000528 leojoker-20141231-geu-080-pt_voxforge.wav COMO VAI
+voxforge_por_000529 kok-20110515-kns-089-pt_voxforge.wav ATÉ LOGO
+voxforge_por_000530 rubbermaiden-20160714-wfz-026-pt_voxforge.wav NÃO ESTOU ACOSTUMADO
+voxforge_por_000531 orlophe-20111012-duo-153-pt_voxforge.wav GERALMENTE NÃO BEBEMOS MUITA CERVEJA
+voxforge_por_000532 anonymous-20130828-eqr-095-pt_voxforge.wav PARA ONDE A SENHORA QUER IR
+voxforge_por_000533 anonymous-20151026-lep-136-pt_voxforge.wav FAZ UM ANO QUE SAÍ DE SÃO PAULO
+voxforge_por_000534 anonymous-20130424-vgx-197-pt_voxforge.wav ELES MORAM AQUI DESDE OS ANOS SETENTA
+voxforge_por_000536 anonymous-20151026-lep-137-pt_voxforge.wav QUERO QUE VOCÊS ME VISITEM
+voxforge_por_000537 thiagorider-20150425-xde-001-pt_voxforge.wav ESTE INDIVÍDUO ASSISTE TELEVISÃO DEMAIS
+voxforge_por_000538 HygorAraujo-20130515-vyd-115-pt_voxforge.wav POSSO PAGAR COM CHEQUE
+voxforge_por_000539 mpena-20150724-igx-094-pt_voxforge.wav VOU TOMAR UM POUQUINHO D'ÁGUA
+voxforge_por_000540 GustavoMarucci-20130729-kzy-141-pt_voxforge.wav MUITO OBRIGADO
+voxforge_por_000541 leojoker-20141231-wga-164-pt_voxforge.wav FICA LONGE DAQUI
+voxforge_por_000542 anonymous-20121014-wwb-126-pt_voxforge.wav NAS FÉRIAS SEMPRE ÍAMOS À PRAIA
+voxforge_por_000543 anonymous-20150828-nmu-005-pt_voxforge.wav QUAIS ESPORTES VOCÊ PRATICA
+voxforge_por_000544 FernandoCardoso-20171202-oaq-185-pt_voxforge.wav PROCURO UM APARTAMENTO COM MÓVEIS
+voxforge_por_000545 justinodaniel-20120404-ngq-118-pt_voxforge.wav QUANDO VOCÊ CHEGOU
+voxforge_por_000546 anonymous-20120608-suv-102-pt_voxforge.wav EU MOREI NA BAHIA HÁ MUITO TEMPO
+voxforge_por_000547 anonymous-20130528-qxb-110-pt_voxforge.wav QUE TEMPO ESTÁ FAZENDO
+voxforge_por_000548 insinfo-20120622-lio-020-pt_voxforge.wav O SENHOR TEM QUE TRABALHAR HOJE
+voxforge_por_000549 rubbermaiden-20160714-jmg-013-pt_voxforge.wav ESTA COMIDA É RUIM MAS AQUELA É PIOR
+voxforge_por_000550 anonymous-20110614-cao-050-pt_voxforge.wav VOCÊ GOSTA DE MÚSICA
+voxforge_por_000551 anonymous-20140712-jwa-127-pt_voxforge.wav VOCÊ SE SENTE MAL
+voxforge_por_000552 JordelsonSantiago-20150102-pnt-118-pt_voxforge.wav QUANDO VOCÊ CHEGOU
+voxforge_por_000553 pablobsantiago-20151124-eoi-067-pt_voxforge.wav NÓS NÃO MENTIMOS NUNCA
+voxforge_por_000554 sylviamarsillac-20081007-bws-122-pt_voxforge.wav ONDE FICA O BANHEIRO
+voxforge_por_000555 Shuryon-20110130-tws-025-pt_voxforge.wav O CÉU ESTÁ AZUL
+voxforge_por_000556 insinfo-20120622-jiy-192-pt_voxforge.wav EU SEI FALAR PORTUGUÊS E INGLÊS
+voxforge_por_000557 pedro_loures-20140626-sho-156-pt_voxforge.wav ESTOU TRISTE
+voxforge_por_000558 anonymous-20150201-wor-185-pt_voxforge.wav PROCURO UM APARTAMENTO COM MÓVEIS
+voxforge_por_000560 rubbermaiden-20160714-nhj-151-pt_voxforge.wav MARIA NÃO ME CONHECE
+voxforge_por_000561 sylviamarsillac-20081007-bws-123-pt_voxforge.wav QUANDO VOCÊ SOUBE DISSO
+voxforge_por_000562 anonymous-20120628-ztd-095-pt_voxforge.wav PARA ONDE A SENHORA QUER IR
+voxforge_por_000563 JordelsonSantiago-20150102-pnt-114-pt_voxforge.wav VOCÊ TEM QUE PASSAR PELA ALFÂNDEGA
+voxforge_por_000564 anonymous-20181017-bhm-042-pt_voxforge.wav ABRA A JANELA
+voxforge_por_000565 thiagorider-20150425-zea-155-pt_voxforge.wav JORGE FOI EMBORA
+voxforge_por_000566 aglehg-20130430-mfm-090-pt_voxforge.wav EU TENHO TRINTA ANOS
+voxforge_por_000567 rubbermaiden-20160714-myd-178-pt_voxforge.wav O TREM VAI CHEGAR ADIANTADO
+voxforge_por_000568 anonymous-20130828-eqr-098-pt_voxforge.wav CABRAL CHEGOU AO BRASIL EM MIL E QUINHENTOS
+voxforge_por_000569 rubbermaiden-20160714-bpv-167-pt_voxforge.wav PARA ONDE VOCÊ FOI NAS FÉRIAS
+voxforge_por_000570 anonymous-20181017-gze-023-pt_voxforge.wav VAMOS COMPRAR UM CARRO QUE FUNCIONA
+voxforge_por_000571 anonymous-20120608-ijr-004-pt_voxforge.wav ONDE MORA O SEU CUNHADO
+voxforge_por_000573 waldyrious-20140912-pwp-167-pt_voxforge.wav PARA ONDE VOCÊ FOI NAS FÉRIAS
+voxforge_por_000574 rubbermaiden-20160714-ael-024-pt_voxforge.wav OS FUNCIONÁRIOS CHEGAM TARDE TODOS OS DIAS
+voxforge_por_000575 anonymous-20101212-eaa-075-pt_voxforge.wav ONDE É O AEROPORTO
+voxforge_por_000576 Brendon-20100823-fvg-107-pt_voxforge.wav ANTEONTEM EU FUI AO CINEMA
+voxforge_por_000577 anonymous-20181017-gsd-009-pt_voxforge.wav A QUE HORAS É A NOVA NOVELA VENEZUELANA
+voxforge_por_000578 anonymous-20170820-qrp-068-pt_voxforge.wav POR QUE VOCÊ COMPROU ESSA REVISTA
+voxforge_por_000579 Deivid-20130409-wyg-055-pt_voxforge.wav O IRMÃO DELA TEM MUITA INVEJA
+voxforge_por_000580 anonymous-20120221-ted-075-pt_voxforge.wav ONDE É O AEROPORTO
+voxforge_por_000581 jotidusa-20111030-mjs-038-pt_voxforge.wav EU JOGAVA FUTEBOL MELHOR DO QUE MEUS AMIGOS
+voxforge_por_000582 anonymous-20160123-nfu-056-pt_voxforge.wav NOSSA CASA TEM TRÊS DORMITÓRIOS CONFORTÁVEIS
+voxforge_por_000583 pablobsantiago-20151124-fxm-155-pt_voxforge.wav JORGE FOI EMBORA
+voxforge_por_000584 gorgotron-20100302-fcl-174-pt_voxforge.wav PODE ME AJUDAR
+voxforge_por_000585 anonymous-20151026-jke-188-pt_voxforge.wav É IMPORTANTE TER MAIS TEMPO
+voxforge_por_000586 thiagorider-20150425-xrg-012-pt_voxforge.wav NÓS DESEJAMOS UM QUARTO COM AR CONDICIONADO
+voxforge_por_000587 aglehg-20130430-cdx-009-pt_voxforge.wav A QUE HORAS É A NOVA NOVELA VENEZUELANA
+voxforge_por_000588 coelhosandro-20130511-amm-057-pt_voxforge.wav O SENHOR QUER CAMA DE CASAL OU DE SOLTEIRO
+voxforge_por_000589 anonymous-20120221-hyp-105-pt_voxforge.wav ELE ESTAVA CAMINHANDO PARA A LIVRARIA QUANDO A CONHECEU
+voxforge_por_000590 rubbermaiden-20160714-myd-169-pt_voxforge.wav ÓTIMO
+voxforge_por_000591 rubbermaiden-20160714-zhr-146-pt_voxforge.wav MORAMOS PERTO DO HOSPITAL
+voxforge_por_000592 Joarley-20101208-pcn-052-pt_voxforge.wav OS BRASILEIROS COMEM ARROZ COM FEIJÃO
+voxforge_por_000593 rafaromenel-20130201-xbt-188-pt_voxforge.wav É IMPORTANTE TER MAIS TEMPO
+voxforge_por_000594 AntonsioPrcoliMartins-20110107-adt-214-pt_voxforge.wav SÁBADO
+voxforge_por_000595 coelhosandro-20130511-dce-161-pt_voxforge.wav EU SOU DO BRASIL
+voxforge_por_000596 sylviamarsillac-20081007-jxf-172-pt_voxforge.wav AONDE VOCÊ VAI
+voxforge_por_000597 anonymous-20150326-zlx-140-pt_voxforge.wav FALA SE PORTUGUÊS EM MOÇAMBIQUE
+voxforge_por_000598 ldutra-20141001-cuu-197-pt_voxforge.wav ELES MORAM AQUI DESDE OS ANOS SETENTA
+voxforge_por_000599 orlophe-20111012-qqw-201-pt_voxforge.wav O PRESIDENTE DA REPÚBLICA FAZ ADVERTÊNCIA AO MINISTRO DA JUSTIÇA
+voxforge_por_000600 Deivid-20130409-wyg-054-pt_voxforge.wav O RAPAZ FICOU SENDO O NAMORADO DELA
+voxforge_por_000601 JordelsonSantiago-20150102-xkh-111-pt_voxforge.wav VAI CHOVER NO FIM DE SEMANA
+voxforge_por_000602 marcostimm-20100722-ucl-017-pt_voxforge.wav SOMOS PORTUGUESES ORGULHOSOS
+voxforge_por_000604 anonymous-20130828-nnx-100-pt_voxforge.wav O QUE VOCÊ FEZ ONTEM
+voxforge_por_000605 pablobsantiago-20160906-vcf-189-pt_voxforge.wav VÁ COM PRESSA
+voxforge_por_000606 brunox-20110225-wqa-214-pt_voxforge.wav SÁBADO
+voxforge_por_000607 thiagorider-20150425-zea-152-pt_voxforge.wav VOCÊ SABE ONDE FICA UM BOM RESTAURANTE
+voxforge_por_000608 anonymous-20100318-eut-131-pt_voxforge.wav VOU TOMAR BANHO
+voxforge_por_000609 GabrielFreitas-20150119-zhe-121-pt_voxforge.wav EU PREFIRO ARROZ
+voxforge_por_000610 JordelsonSantiago-20150102-olo-085-pt_voxforge.wav O RELÓGIO NA PAREDE ESTÁ ADIANTADO
+voxforge_por_000612 leojoker-20141231-xqy-102-pt_voxforge.wav EU MOREI NA BAHIA HÁ MUITO TEMPO
+voxforge_por_000613 DorivalBiudes-20181013-vlx-132-pt_voxforge.wav A CONTA POR FAVOR
+voxforge_por_000614 rubbermaiden-20160714-zty-175-pt_voxforge.wav QUANTO CUSTA
+voxforge_por_000615 sylviamarsillac-20081007-vpu-002-pt_voxforge.wav HOJE É ONZE DE JULHO
+voxforge_por_000616 pedro_loures-20140626-plb-202-pt_voxforge.wav O JOVEM ATACANTE CONVENCEU FÁCIL NA PARTIDA CONTRA O MÉXICO
+voxforge_por_000617 coelhosandro-20130511-kuz-189-pt_voxforge.wav VÁ COM PRESSA
+voxforge_por_000618 pedro_loures-20140626-lgt-012-pt_voxforge.wav NÓS DESEJAMOS UM QUARTO COM AR CONDICIONADO
+voxforge_por_000619 pedro_loures-20140626-cqi-092-pt_voxforge.wav NÃO GOSTO DISSO
+voxforge_por_000620 JordelsonSantiago-20150102-qpg-074-pt_voxforge.wav QUANDO EU ERA CRIANÇA NÃO GOSTAVA DE MORANGOS
+voxforge_por_000621 anonymous-20130526-gog-030-pt_voxforge.wav MINHA FILHA QUER SER ATRIZ
+voxforge_por_000622 pedro_loures-20140626-sho-153-pt_voxforge.wav GERALMENTE NÃO BEBEMOS MUITA CERVEJA
+voxforge_por_000623 anonymous-20130330-xqj-034-pt_voxforge.wav NÃO COMPREENDO
+voxforge_por_000624 Fabiano-20110905-gpk-136-pt_voxforge.wav FAZ UM ANO QUE SAÍ DE SÃO PAULO
+voxforge_por_000625 insinfo-20120622-pax-142-pt_voxforge.wav VAMOS PARA SALVADOR AMANHÃ
+voxforge_por_000626 pablobsantiago-20160906-det-215-pt_voxforge.wav DOMINGO
+voxforge_por_000627 anonymous-20110407-sny-127-pt_voxforge.wav VOCÊ SE SENTE MAL
+voxforge_por_000628 Tainaraaf-20140811-egy-186-pt_voxforge.wav SE EU TIVESSE DINHEIRO EU VIAJARIA PELO MUNDO INTEIRO
+voxforge_por_000629 anonymous-20110407-sny-130-pt_voxforge.wav ALUGAMOS UM APARTAMENTO NA CIDADE
+voxforge_por_000630 DanielM-20121123-pxg-186-pt_voxforge.wav SE EU TIVESSE DINHEIRO EU VIAJARIA PELO MUNDO INTEIRO
+voxforge_por_000631 sylviamarsillac-20081007-jxf-173-pt_voxforge.wav FALE MAIS DEVAGAR POR FAVOR
+voxforge_por_000632 anonymous-20120221-hyp-110-pt_voxforge.wav QUE TEMPO ESTÁ FAZENDO
+voxforge_por_000633 thiagorider-20150425-apu-063-pt_voxforge.wav QUANDO É O SEU ANIVERSÁRIO
+voxforge_por_000634 xiru-20080903-idu-163-pt_voxforge.wav QUANTOS ANOS VOCE TEM
+voxforge_por_000635 Tulio-20101221-sgn-027-pt_voxforge.wav A PERNA DÓI
+voxforge_por_000636 FelipeSilveira-20110917-bgb-140-pt_voxforge.wav FALA SE PORTUGUÊS EM MOÇAMBIQUE
+voxforge_por_000637 anonymous-20150307-wwe-147-pt_voxforge.wav SINTO MUITO NÃO TENHO MAIS DINHEIRO
+voxforge_por_000638 tony-20090724-ymk-215-pt_voxforge.wav DOMINGO
+voxforge_por_000639 anonymous-20140712-jwa-132-pt_voxforge.wav A CONTA POR FAVOR
+voxforge_por_000640 skydives-20141002-xjm-214-pt_voxforge.wav SÁBADO
+voxforge_por_000641 JordelsonSantiago-20150102-ufr-216-pt_voxforge.wav NÃO
+voxforge_por_000642 anonymous-20110407-sny-129-pt_voxforge.wav ESTÁ COM FEBRE
+voxforge_por_000643 anonymous-20111130-dig-057-pt_voxforge.wav O SENHOR QUER CAMA DE CASAL OU DE SOLTEIRO
+voxforge_por_000644 DanielG-20160121-mfe-002-pt_voxforge.wav HOJE É ONZE DE JULHO
+voxforge_por_000645 scnunes-20091119-nrh-102-pt_voxforge.wav EU MOREI NA BAHIA HÁ MUITO TEMPO
+voxforge_por_000646 HygorAraujo-20130515-vyd-118-pt_voxforge.wav QUANDO VOCÊ CHEGOU
+voxforge_por_000647 pedro_loures-20140625-oxq-014-pt_voxforge.wav TEM MUITOS PINGÜINS NO ZOOLÓGICO
+voxforge_por_000648 anonymous-20150307-upl-146-pt_voxforge.wav MORAMOS PERTO DO HOSPITAL
+voxforge_por_000649 marcostimm-20100722-tnm-191-pt_voxforge.wav JOÃO SABE ESCREVER À MÁQUINA
+voxforge_por_000650 gorgotron-20100302-fcl-168-pt_voxforge.wav ESTÁ CHOVENDO
+voxforge_por_000651 Leandro-20141007-fmw-202-pt_voxforge.wav O JOVEM ATACANTE CONVENCEU FÁCIL NA PARTIDA CONTRA O MÉXICO
+voxforge_por_000652 anonymous-20130725-qqr-117-pt_voxforge.wav OS COMPUTADORES NÃO ME INTERESSAM
+voxforge_por_000653 thiagorider-20150425-apu-071-pt_voxforge.wav EU E PEDRO ANDAMOS A CAVALO NOS SÁBADOS
+voxforge_por_000654 anonymous-20100318-eut-126-pt_voxforge.wav NAS FÉRIAS SEMPRE ÍAMOS À PRAIA
+voxforge_por_000655 anonymous-20100321-fmd-100-pt_voxforge.wav O QUE VOCÊ FEZ ONTEM
+voxforge_por_000656 anonymous-20130907-hbk-034-pt_voxforge.wav NÃO COMPREENDO
+voxforge_por_000657 mpena-20150724-ikf-014-pt_voxforge.wav TEM MUITOS PINGÜINS NO ZOOLÓGICO
+voxforge_por_000658 Anderson-20170727-rge-023-pt_voxforge.wav VAMOS COMPRAR UM CARRO QUE FUNCIONA
+voxforge_por_000660 anonymous-20130526-yux-172-pt_voxforge.wav AONDE VOCÊ VAI
+voxforge_por_000661 NicolasBacic-20100428-udw-124-pt_voxforge.wav ELAS SÃO MUITO SIMPÁTICAS
+voxforge_por_000662 skydives-20141002-mjr-121-pt_voxforge.wav EU PREFIRO ARROZ
+voxforge_por_000663 anonymous-20130526-bnc-083-pt_voxforge.wav JOÃOZINHO VAI DAR UMA FESTA EM AGOSTO
+voxforge_por_000664 Tainaraaf-20140811-egy-191-pt_voxforge.wav JOÃO SABE ESCREVER À MÁQUINA
+voxforge_por_000666 xiru-20080903-crk-209-pt_voxforge.wav SEGUNDA FEIRA
+voxforge_por_000667 coelhosandro-20130511-qcv-065-pt_voxforge.wav CASAMENTO HAVIA MUITAS FLORES
+voxforge_por_000668 anonymous-20130406-zxl-179-pt_voxforge.wav A QUE HORAS SAI O AVIÃO
+voxforge_por_000670 anonymous-20120221-qzl-125-pt_voxforge.wav MINHA IRMÃ TEM QUINZE ANOS
+voxforge_por_000671 rodrigocelsius-20111231-yrm-020-pt_voxforge.wav O SENHOR TEM QUE TRABALHAR HOJE
+voxforge_por_000672 anonymous-20170820-qrp-064-pt_voxforge.wav DE QUEM É A CANETA
+voxforge_por_000673 NicolasBacic-20100428-udw-126-pt_voxforge.wav NAS FÉRIAS SEMPRE ÍAMOS À PRAIA
+voxforge_por_000674 marcostimm-20100722-sqd-122-pt_voxforge.wav ONDE FICA O BANHEIRO
+voxforge_por_000675 LeandroAlvesCanelo-20110702-exr-032-pt_voxforge.wav ELE TRABALHOU LÁ POR TRÊS ANOS E MEIO
+voxforge_por_000676 rubbermaiden-20160714-gpa-179-pt_voxforge.wav A QUE HORAS SAI O AVIÃO
+voxforge_por_000677 GustavoMarucci-20130729-oxm-040-pt_voxforge.wav QUEM VAI GANHAR O MUNDIAL
+voxforge_por_000678 rubbermaiden-20160714-uqv-072-pt_voxforge.wav NA FESTA TODO MUNDO ESTAVA MUITO CONTENTE
+voxforge_por_000679 anonymous-20130907-hbk-031-pt_voxforge.wav COMPREI UM PRESENTINHO PARA A MINHA MÃE
+voxforge_por_000680 sylviamarsillac-20081007-jxf-176-pt_voxforge.wav PRECISO DE UMA PASSAGEM DE IDA E VOLTA
+voxforge_por_000681 Euzebio-20141031-ibk-104-pt_voxforge.wav EU TE DISSE
+voxforge_por_000682 rubbermaiden-20160714-qgs-157-pt_voxforge.wav ELES SÃO MUITO INTELIGENTES
+voxforge_por_000683 sylviamarsillac-20081007-oje-109-pt_voxforge.wav DIGA ME A VERDADE
+voxforge_por_000685 DorivalBiudes-20181013-cka-013-pt_voxforge.wav ESTA COMIDA É RUIM MAS AQUELA É PIOR
+voxforge_por_000686 anonymous-20120608-atc-065-pt_voxforge.wav NO CASAMENTO HAVIA MUITAS FLORES
+voxforge_por_000687 anonymous-20150828-nmu-216-pt_voxforge.wav NÃO
+voxforge_por_000688 anonymous-20160212-qfl-151-pt_voxforge.wav MARIA NÃO ME CONHECE
+voxforge_por_000689 GabrielFreitas-20150119-zhe-122-pt_voxforge.wav ONDE FICA O BANHEIRO
+voxforge_por_000690 Antonsio-20110108-lsh-053-pt_voxforge.wav VOCÊS ALUGARAM UM CARRO OU FORAM DE ÔNIBUS
+voxforge_por_000691 coelhosandro-20130511-iij-218-pt_voxforge.wav ZERO UM DOIS TRES QUATRO CINCO SEIS SETE OITO NOVE DEZ
+voxforge_por_000692 JordelsonSantiago-20150102-dea-155-pt_voxforge.wav JORGE FOI EMBORA
+voxforge_por_000693 DanielG-20180223-afz-166-pt_voxforge.wav A AULA É ÀS NOVE E VINTE E CINCO
+voxforge_por_000694 anonymous-20130907-hbk-032-pt_voxforge.wav ELE TRABALHOU LÁ POR TRÊS ANOS E MEIO
+voxforge_por_000695 BrunoChagas-20140807-rum-106-pt_voxforge.wav FOMOS PARA A PRAIA
+voxforge_por_000696 anonymous-20130725-ijl-001-pt_voxforge.wav ESTE INDIVÍDUO ASSISTE TELEVISÃO DEMAIS
+voxforge_por_000697 anonymous-20120608-psf-164-pt_voxforge.wav FICA LONGE DAQUI
+voxforge_por_000698 thiagorider-20150425-apu-066-pt_voxforge.wav PODE ME DAR O SEU ENDEREÇO
+voxforge_por_000699 anonymous-20140712-jwa-125-pt_voxforge.wav MINHA IRMÃ TEM QUINZE ANOS
+voxforge_por_000700 hellmarques-20100905-rcq-001-pt_voxforge.wav ESTE INDIVÍDUO ASSISTE TELEVISÃO DEMAIS
+voxforge_por_000702 anonymous-20101204-yqj-094-pt_voxforge.wav VOU TOMAR UM POUQUINHO D'ÁGUA
+voxforge_por_000703 marcostimm-20100722-kvm-085-pt_voxforge.wav O RELÓGIO NA PAREDE ESTÁ ADIANTADO
+voxforge_por_000704 anonymous-20120608-suv-103-pt_voxforge.wav ESCREVI UMA CARTA PARA ELES NA SEMANA PASSADA
+voxforge_por_000705 anonymous-20121014-wwb-127-pt_voxforge.wav VOCÊ SE SENTE MAL
+voxforge_por_000706 orlophe-20111012-qqw-199-pt_voxforge.wav PASSAMOS PELO PARQUE PARA CHEGAR EM CASA
+voxforge_por_000707 anonymous-20141215-lrx-074-pt_voxforge.wav QUANDO EU ERA CRIANÇA NÃO GOSTAVA DE MORANGOS
+voxforge_por_000708 anonymous-20120221-qzl-126-pt_voxforge.wav NAS FÉRIAS SEMPRE ÍAMOS À PRAIA
+voxforge_por_000709 DanielM-20121123-pxg-181-pt_voxforge.wav PODEMOS FICAR EM CASA
+voxforge_por_000710 JordelsonSantiago-20150102-fcp-060-pt_voxforge.wav ESTA CIDADE TEM MUITOS ALEMÃES
+voxforge_por_000711 insinfo-20120622-pax-140-pt_voxforge.wav FALA SE PORTUGUÊS EM MOÇAMBIQUE
+voxforge_por_000712 anonymous-20120608-atc-071-pt_voxforge.wav EU E PEDRO ANDAMOS A CAVALO NOS SÁBADOS
+voxforge_por_000713 mpena-20150724-ikf-013-pt_voxforge.wav ESTA COMIDA É RUIM MAS AQUELA É PIOR
+voxforge_por_000714 NicolasBacic-20100428-udw-119-pt_voxforge.wav QUAL É O NÚMERO DO SEU TELEFONE
+voxforge_por_000715 Xicao-20181022-zuq-100-pt_voxforge.wav O QUE VOCÊ FEZ ONTEM
+voxforge_por_000716 rubbermaiden-20160714-uqv-063-pt_voxforge.wav QUANDO É O SEU ANIVERSÁRIO
+voxforge_por_000717 FelipeSilveira-20110917-bgb-132-pt_voxforge.wav A CONTA POR FAVOR
+voxforge_por_000718 NicolasBacic-20100428-udw-123-pt_voxforge.wav QUANDO VOCÊ SOUBE DISSO
+voxforge_por_000719 Shuryon-20110130-jxl-040-pt_voxforge.wav QUEM VAI GANHAR O MUNDIAL
+voxforge_por_000720 marcostimm-20100722-jru-031-pt_voxforge.wav COMPREI UM PRESENTINHO PARA A MINHA MÃE
+voxforge_por_000721 KNSetting-20101203-kru-136-pt_voxforge.wav FAZ UM ANO QUE SAÍ DE SÃO PAULO
+voxforge_por_000722 anonymous-20160212-qfl-154-pt_voxforge.wav ERAM OITO HORAS DA NOITE
+voxforge_por_000723 pablobsantiago-20160906-det-216-pt_voxforge.wav NÃO
+voxforge_por_000724 anonymous-20150125-vid-203-pt_voxforge.wav O ZORRO É OUTRO DOS FILMES MUITO PROCURADOS NAS LOCADORAS ATUALMENTE
+voxforge_por_000725 JordelsonSantiago-20150102-pnt-115-pt_voxforge.wav POSSO PAGAR COM CHEQUE
+voxforge_por_000726 mpena-20150724-osv-175-pt_voxforge.wav QUANTO CUSTA
+voxforge_por_000727 anonymous-20100904-awf-082-pt_voxforge.wav ELA DEU O FORA NO NAMORADO
+voxforge_por_000728 scnunes-20091119-eio-137-pt_voxforge.wav QUERO QUE VOCÊS ME VISITEM
+voxforge_por_000729 pedro_loures-20140625-oxq-012-pt_voxforge.wav NÓS DESEJAMOS UM QUARTO COM AR CONDICIONADO
+voxforge_por_000730 anonymous-20150201-lqn-138-pt_voxforge.wav NÃO SE PREOCUPE
+voxforge_por_000731 anonymous-20121216-xhy-094-pt_voxforge.wav VOU TOMAR UM POUQUINHO D'ÁGUA
+voxforge_por_000732 sylviamarsillac-20081007-jxf-178-pt_voxforge.wav O TREM VAI CHEGAR ADIANTADO
+voxforge_por_000733 anonymous-20100519-anc-160-pt_voxforge.wav ELE FREQÜENTA O BARZINHO
+voxforge_por_000734 anonymous-20181017-kuh-061-pt_voxforge.wav ELAS TÊM MUITA SAUDADE DO BRASIL
+voxforge_por_000735 rubbermaiden-20160714-zhr-143-pt_voxforge.wav MARGARIDA PASSOU EM CASA ONTEM
+voxforge_por_000736 anonymous-20101204-yqj-097-pt_voxforge.wav AMANHÃ É SEXTA
+voxforge_por_000737 anonymous-20130424-vgx-198-pt_voxforge.wav POR QUE VOCÊ ESTÁ SORRINDO
+voxforge_por_000738 Leandro-20141007-fmw-197-pt_voxforge.wav ELES MORAM AQUI DESDE OS ANOS SETENTA
+voxforge_por_000739 anonymous-20181017-ryu-088-pt_voxforge.wav ONDE FICA A ESTAÇÃO DO TREM
+voxforge_por_000740 ANTONIOOLIVEIRA-20110312-wfy-096-pt_voxforge.wav QUE HORAS SÃO
+voxforge_por_000741 goularta-20120724-mes-175-pt_voxforge.wav QUANTO CUSTA
+voxforge_por_000742 rubbermaiden-20160714-jef-124-pt_voxforge.wav ELAS SÃO MUITO SIMPÁTICAS
+voxforge_por_000743 pedro_loures-20140626-wno-001-pt_voxforge.wav ESTE INDIVÍDUO ASSISTE TELEVISÃO DEMAIS
+voxforge_por_000744 marcostimm-20100722-sqd-123-pt_voxforge.wav QUANDO VOCÊ SOUBE DISSO
+voxforge_por_000745 DanielG-20180223-vhl-205-pt_voxforge.wav E MELHOR NUNCA ENGOMAR OS LENÇÓIS AZUIS DEBAIXO DE SOL
+voxforge_por_000746 anonymous-20130907-hbk-037-pt_voxforge.wav É PRECISO CONFIRMAR O VÔO
+voxforge_por_000747 marcostimm-20100722-ils-034-pt_voxforge.wav NÃO COMPREENDO
+voxforge_por_000748 orlophe-20111012-qqw-200-pt_voxforge.wav QUE DIA É O EXAME
+voxforge_por_000749 anonymous-20170512-ygp-202-pt_voxforge.wav O JOVEM ATACANTE CONVENCEU FÁCIL NA PARTIDA CONTRA O MÉXICO
+voxforge_por_000750 anonymous-20110610-zds-149-pt_voxforge.wav NÃO PUDE ESTAR NA AULA QUINTA FEIRA
+voxforge_por_000751 thiagorider-20150425-izc-148-pt_voxforge.wav ELA ESTEVE QUATRO VEZES EM LISBOA
+voxforge_por_000752 Euzebio-20141031-ibk-110-pt_voxforge.wav QUE TEMPO ESTÁ FAZENDO
+voxforge_por_000753 rubbermaiden-20160714-rtt-042-pt_voxforge.wav ABRA A JANELA
+voxforge_por_000754 anonymous-20110614-cao-042-pt_voxforge.wav ABRA A JANELA
+voxforge_por_000755 thiagorider-20150425-jcu-184-pt_voxforge.wav ELA MORA NO QUINTO ANDAR
+voxforge_por_000756 marcostimm-20100722-ejp-148-pt_voxforge.wav ELA ESTEVE QUATRO VEZES EM LISBOA
+voxforge_por_000757 mamarco-20100511-ood-150-pt_voxforge.wav ELE NÃO QUIS DIZER NADA
+voxforge_por_000758 marcostimm-20100722-sqd-116-pt_voxforge.wav ESTOU COM FRIO
+voxforge_por_000759 mpena-20150724-bck-040-pt_voxforge.wav QUEM VAI GANHAR O MUNDIAL
+voxforge_por_000760 anonymous-20130609-afs-166-pt_voxforge.wav A AULA É ÀS NOVE E VINTE E CINCO
+voxforge_por_000761 anonymous-20101212-kyy-087-pt_voxforge.wav ESTE ABACAXI É GOSTOSO
+voxforge_por_000762 DanielG-20160121-mfe-215-pt_voxforge.wav DOMINGO
+voxforge_por_000763 anonymous-20150201-wor-191-pt_voxforge.wav JOÃO SABE ESCREVER À MÁQUINA
+voxforge_por_000764 insinfo-20120622-lvh-194-pt_voxforge.wav ELE FOI PRESIDENTE DO PAÍS DURANTE QUATRO ANOS
+voxforge_por_000765 anonymous-20121216-xhy-097-pt_voxforge.wav AMANHÃ É SEXTA
+voxforge_por_000766 kok-20110515-kns-096-pt_voxforge.wav QUE HORAS SÃO
+voxforge_por_000767 pedro_loures-20140626-xde-130-pt_voxforge.wav ALUGAMOS UM APARTAMENTO NA CIDADE
+voxforge_por_000768 HygorArajo-20130515-byc-122-pt_voxforge.wav ONDE FICA O BANHEIRO
+voxforge_por_000769 rubbermaiden-20160714-hnb-060-pt_voxforge.wav ESTA CIDADE TEM MUITOS ALEMÃES
+voxforge_por_000770 marcostimm-20100722-ils-028-pt_voxforge.wav SEMPRE QUIS TER UM BOM TRABALHO
+voxforge_por_000771 hellmarques-20100905-rcq-218-pt_voxforge.wav ZERO UM DOIS TRES QUATRO CINCO SEIS SETE OITO NOVE DEZ
+voxforge_por_000772 rubbermaiden-20160714-ael-025-pt_voxforge.wav O CÉU ESTÁ AZUL
+voxforge_por_000773 tony-20090724-ymk-213-pt_voxforge.wav SEXTA FEIRA
+voxforge_por_000774 anonymous-20181017-ryu-089-pt_voxforge.wav ATÉ LOGO
+voxforge_por_000775 Tainaraaf-20140811-egy-187-pt_voxforge.wav HOUVE UM ACIDENTE GRAVE NA RODOVIA
+voxforge_por_000776 anonymous-20120608-psf-162-pt_voxforge.wav TCHAUZINHO
+voxforge_por_000777 DorivalBiudes-20181013-yat-174-pt_voxforge.wav PODE ME AJUDAR
+voxforge_por_000778 skydives-20141002-xjm-211-pt_voxforge.wav QUARTA FEIRA
+voxforge_por_000779 rubbermaiden-20160714-hnb-062-pt_voxforge.wav EU NÃO SABIA QUE VOCÊ TOCAVA VIOLÃO
+voxforge_por_000780 justinodaniel-20120404-ngq-111-pt_voxforge.wav VAI CHOVER NO FIM DE SEMANA
+voxforge_por_000781 anonymous-20100318-eut-123-pt_voxforge.wav QUANDO VOCÊ SOUBE DISSO
+voxforge_por_000782 skydives-20141002-xjm-217-pt_voxforge.wav SIM
+voxforge_por_000783 DanielG-20160121-mfe-216-pt_voxforge.wav NÃO
+voxforge_por_000784 rubbermaiden-20160714-wfc-205-pt_voxforge.wav E MELHOR NUNCA ENGOMAR OS LENÇÓIS AZUIS DEBAIXO DE SOL
+voxforge_por_000785 DanielG-20160121-mfe-004-pt_voxforge.wav ONDE MORA O SEU CUNHADO
+voxforge_por_000786 aglehg-20130430-cdx-006-pt_voxforge.wav TEM CERVEJA GRATUITA VINHO E CAIPIRINHAS
+voxforge_por_000787 coelhosandro-20130511-amm-052-pt_voxforge.wav OS BRASILEIROS COMEM ARROZ COM FEIJÃO
+voxforge_por_000788 tiago-20090319-zas-125-pt_voxforge.wav MINHA IRMÃ TEM QUINZE ANOS
+voxforge_por_000789 anonymous-20120221-ted-076-pt_voxforge.wav SÃO DUAS E MEIA DA TARDE
+voxforge_por_000790 anonymous-20130424-snj-081-pt_voxforge.wav ANA MARIA É UMA MOÇA DE SORTE
+voxforge_por_000791 rubbermaiden-20160714-bxb-190-pt_voxforge.wav O QUE VOCÊ QUER FAZER NO FUTURO
+voxforge_por_000792 xiru-20080903-jde-015-pt_voxforge.wav QUANDO FOI FUNDADA A ACADEMIA MILITAR
+voxforge_por_000793 sylviamarsillac-20081007-vpu-001-pt_voxforge.wav ESTE INDIVÍDUO ASSISTE TELEVISÃO DEMAIS
+voxforge_por_000794 rubbermaiden-20160714-rtt-047-pt_voxforge.wav ELIZABETE DANÇOU A NOITE TODA
+voxforge_por_000795 thiagorider-20150425-jcu-186-pt_voxforge.wav SE EU TIVESSE DINHEIRO EU VIAJARIA PELO MUNDO INTEIRO
+voxforge_por_000796 rafaromenel-20130201-xbt-184-pt_voxforge.wav ELA MORA NO QUINTO ANDAR
+voxforge_por_000797 anonymous-20121228-ccp-162-pt_voxforge.wav TCHAUZINHO
+voxforge_por_000798 JordelsonSantiago-20150102-cyg-122-pt_voxforge.wav ONDE FICA O BANHEIRO
+voxforge_por_000799 coelhosandro-20130511-zpm-116-pt_voxforge.wav ESTOU COM FRIO
+voxforge_por_000800 waldyrious-20140912-dbi-079-pt_voxforge.wav NÃO SE QUEIXE
+voxforge_por_000801 JordelsonSantiago-20150102-enh-026-pt_voxforge.wav NÃO ESTOU ACOSTUMADO
+voxforge_por_000802 anonymous-20120608-ijr-005-pt_voxforge.wav QUAIS ESPORTES VOCÊ PRATICA
+voxforge_por_000803 insinfo-20120622-wup-209-pt_voxforge.wav SEGUNDA FEIRA
+voxforge_por_000804 thiagorider-20150425-apu-072-pt_voxforge.wav NA FESTA TODO MUNDO ESTAVA MUITO CONTENTE
+voxforge_por_000805 DanielG-20160121-mle-183-pt_voxforge.wav ESTAMOS NO QUARTO SETECENTOS E VINTE
+voxforge_por_000806 rubbermaiden-20160714-ael-027-pt_voxforge.wav A PERNA DÓI
+voxforge_por_000807 Tulio-20101221-sgn-032-pt_voxforge.wav ELE TRABALHOU LÁ POR TRÊS ANOS E MEIO
+voxforge_por_000808 gorgotron-20100302-fcl-173-pt_voxforge.wav FALE MAIS DEVAGAR POR FAVOR
+voxforge_por_000809 rubbermaiden-20160714-prp-206-pt_voxforge.wav EU PREFIRO SER ESSA METAMORFOSE AMBULANTE
+voxforge_por_000811 leojoker-20141231-geu-085-pt_voxforge.wav O RELÓGIO NA PAREDE ESTÁ ADIANTADO
+voxforge_por_000812 thiagorider-20150425-wjo-163-pt_voxforge.wav QUANTOS ANOS VOCÊ TEM
+voxforge_por_000813 DanielG-20160121-suz-095-pt_voxforge.wav PARA ONDE A SENHORA QUER IR
+voxforge_por_000814 anonymous-20150822-ems-183-pt_voxforge.wav ESTAMOS NO QUARTO SETECENTOS E VINTE
+voxforge_por_000815 marcostimm-20100722-tnm-200-pt_voxforge.wav QUE DIA É O EXAME
+voxforge_por_000816 Euzebio-20141031-ibk-113-pt_voxforge.wav PRECISO TOMAR ALGUMA BEBIDA
+voxforge_por_000817 ANTONIOOLIVEIRA-20110312-wfy-095-pt_voxforge.wav PARA ONDE A SENHORA QUER IR
+voxforge_por_000818 GabrielFreitas-20150119-zhe-126-pt_voxforge.wav NAS FÉRIAS SEMPRE ÍAMOS À PRAIA
+voxforge_por_000819 Wisleyv-20150123-pfs-057-pt_voxforge.wav O SENHOR QUER CAMA DE CASAL OU DE SOLTEIRO
+voxforge_por_000820 thiagorider-20150425-izc-144-pt_voxforge.wav SIGA EM FRENTE PARA PEGAR O ÔNIBUS
+voxforge_por_000821 anonymous-20110610-zds-145-pt_voxforge.wav A PADARIA FICA AO LADO DO MUSEU
+voxforge_por_000822 insinfo-20120622-lio-017-pt_voxforge.wav SOMOS PORTUGUESES ORGULHOSOS
+voxforge_por_000823 anonymous-20150307-wwe-142-pt_voxforge.wav VAMOS PARA SALVADOR AMANHÃ
+voxforge_por_000824 anonymous-20120608-suv-104-pt_voxforge.wav EU TE DISSE
+voxforge_por_000825 JordelsonSantiago-20150102-xda-125-pt_voxforge.wav MINHA IRMÃ TEM QUINZE ANOS
+voxforge_por_000826 Brendon-20100823-fvg-110-pt_voxforge.wav QUE TEMPO ESTÁ FAZENDO
+voxforge_por_000827 pablobsantiago-20160906-vcf-195-pt_voxforge.wav ALGUÉM SABE A QUE HORAS COMEÇA O JANTAR
+voxforge_por_000828 insinfo-20120622-xwb-045-pt_voxforge.wav QUEM ESTÁ AÍ
+voxforge_por_000829 JordelsonSantiago-20150102-xkh-108-pt_voxforge.wav OS SENHORES ACORDARAM CEDO
+voxforge_por_000831 anonymous-20130424-snj-083-pt_voxforge.wav JOÃOZINHO VAI DAR UMA FESTA EM AGOSTO
+voxforge_por_000832 anonymous-20130423-wgi-071-pt_voxforge.wav EU E PEDRO ANDAMOS A CAVALO NOS SÁBADOS
+voxforge_por_000833 anonymous-20181230-bpi-072-pt_voxforge.wav NA FESTA TODO MUNDO ESTAVA MUITO CONTENTE
+voxforge_por_000834 Josberto-20130303-pbs-058-pt_voxforge.wav BOA SORTE
+voxforge_por_000835 rubbermaiden-20160714-zdb-010-pt_voxforge.wav FAÇA O TELEFONEMA DAQUELE ORELHÃO
+voxforge_por_000836 xiru-20080903-crk-207-pt_voxforge.wav DO QUE TER AQUELA VELHA OPINIÃO FORMADA SOBRE TUDO
+voxforge_por_000837 anonymous-20120628-ssi-021-pt_voxforge.wav AQUELA MULHER É PORTUGUESA
+voxforge_por_000839 rubbermaiden-20160714-dsf-050-pt_voxforge.wav VOCÊ GOSTA DE MÚSICA
+voxforge_por_000840 hellmarques-20100905-rcq-002-pt_voxforge.wav HOJE É ONZE DE JULHO
+voxforge_por_000841 isanches-20100723-pku-147-pt_voxforge.wav SINTO MUITO NÃO TENHO MAIS DINHEIRO
+voxforge_por_000842 sylviamarsillac-20081007-oje-116-pt_voxforge.wav ESTOU COM FRIO
+voxforge_por_000843 leojoker-20141231-fba-118-pt_voxforge.wav QUANDO VOCÊ CHEGOU
+voxforge_por_000844 persona-20090228-ner-104-pt_voxforge.wav EU TE DISSE
+voxforge_por_000845 DorivalBiudes-20181013-sep-062-pt_voxforge.wav EU NÃO SABIA QUE VOCÊ TOCAVA VIOLÃO
+voxforge_por_000846 mpena-20150724-osv-174-pt_voxforge.wav PODE ME AJUDAR
+voxforge_por_000847 tony-20090724-ymk-210-pt_voxforge.wav TERÇA FEIRA
+voxforge_por_000848 waldyrious-20140912-vkr-022-pt_voxforge.wav VOU CUMPRIR
+voxforge_por_000849 raulfragoso-20100330-nss-037-pt_voxforge.wav É PRECISO CONFIRMAR O VÔO
+voxforge_por_000850 anonymous-20160123-nfu-057-pt_voxforge.wav O SENHOR QUER CAMA DE CASAL OU DE SOLTEIRO
+voxforge_por_000851 JordelsonSantiago-20150102-ufr-214-pt_voxforge.wav SÁBADO
+voxforge_por_000852 rubbermaiden-20160714-hbd-159-pt_voxforge.wav ELA É ALTA E BONITA
+voxforge_por_000853 insinfo-20120622-wup-211-pt_voxforge.wav QUARTA FEIRA
+voxforge_por_000854 Euzebio-20141031-ibk-106-pt_voxforge.wav FOMOS PARA A PRAIA
+voxforge_por_000855 anonymous-20121216-spb-185-pt_voxforge.wav PROCURO UM APARTAMENTO COM MÓVEIS
+voxforge_por_000856 FranciscodeSouzaJunior-20100111-irr-108-pt_voxforge.wav OS SENHORES ACORDARAM CEDO
+voxforge_por_000857 hellmarques-20100911-lns-142-pt_voxforge.wav VAMOS PARA SALVADOR AMANHÃ
+voxforge_por_000858 rubbermaiden-20160714-bxb-193-pt_voxforge.wav QUANTO TEMPO FAZ QUE VOCÊ ESTÁ ESPERANDO AQUI
+voxforge_por_000859 rubbermaiden-20160714-lub-158-pt_voxforge.wav ESTAMOS COM SONO
+voxforge_por_000860 anonymous-20110702-fah-146-pt_voxforge.wav MORAMOS PERTO DO HOSPITAL
+voxforge_por_000861 DorivalBiudes-20181013-yat-178-pt_voxforge.wav O TREM VAI CHEGAR ADIANTADO
+voxforge_por_000862 pablobsantiago-20160906-vcf-197-pt_voxforge.wav ELES MORAM AQUI DESDE OS ANOS SETENTA
+voxforge_por_000863 AntonsioPrcoliMartins-20110107-adt-210-pt_voxforge.wav TERÇA FEIRA
+voxforge_por_000864 DorivalBiudes-20181013-hxn-125-pt_voxforge.wav MINHA IRMÃ TEM QUINZE ANOS
+voxforge_por_000865 anonymous-20130423-wgi-070-pt_voxforge.wav EU PAGO A CONTA E VOCÊS DEIXAM A GORJETA
+voxforge_por_000866 gorgotron-20100302-qpx-170-pt_voxforge.wav ACHO QUE SIM
+voxforge_por_000867 anonymous-20120628-ssi-024-pt_voxforge.wav OS FUNCIONÁRIOS CHEGAM TARDE TODOS OS DIAS
+voxforge_por_000868 tiago-20090318-pfk-157-pt_voxforge.wav ELES SÃO MUITO INTELIGENTES
+voxforge_por_000869 goularta-20120724-roz-055-pt_voxforge.wav O IRMÃO DELA TEM MUITA INVEJA
+voxforge_por_000870 Deivid-20130409-wyg-053-pt_voxforge.wav VOCÊS ALUGARAM UM CARRO OU FORAM DE ÔNIBUS
+voxforge_por_000871 RaphaelMarquesPalmeira-20150301-hvw-171-pt_voxforge.wav ESTOU BEM OBRIGADO
+voxforge_por_000872 RaphaelMarquesPalmeira-20150301-hvw-168-pt_voxforge.wav ESTÁ CHOVENDO
+voxforge_por_000873 pedro_loures-20140626-xde-128-pt_voxforge.wav TENHO DOR DE CABEÇA
+voxforge_por_000874 mpena-20150724-ikf-012-pt_voxforge.wav NÓS DESEJAMOS UM QUARTO COM AR CONDICIONADO
+voxforge_por_000875 Hellowar-20151006-vtu-043-pt_voxforge.wav FECHEM OS LIVROS
+voxforge_por_000876 DorivalBiudes-20181013-zos-009-pt_voxforge.wav A QUE HORAS É A NOVA NOVELA VENEZUELANA
+voxforge_por_000877 rubbermaiden-20160714-spt-071-pt_voxforge.wav EU E PEDRO ANDAMOS A CAVALO NOS SÁBADOS
+voxforge_por_000878 thiagorider-20150425-xde-216-pt_voxforge.wav NÃO
+voxforge_por_000879 pedro_loures-20140625-lki-005-pt_voxforge.wav QUAIS ESPORTES VOCÊ PRATICA
+voxforge_por_000880 JordelsonSantiago-20150102-gwl-015-pt_voxforge.wav QUANDO FOI FUNDADA A ACADEMIA MILITAR
+voxforge_por_000881 coelhosandro-20130511-gmf-114-pt_voxforge.wav VOCÊ TEM QUE PASSAR PELA ALFÂNDEGA
+voxforge_por_000882 anonymous-20181026-fkv-053-pt_voxforge.wav VOCÊS ALUGARAM UM CARRO OU FORAM DE ÔNIBUS
+voxforge_por_000883 LeonardodeJesus-20141003-hob-199-pt_voxforge.wav PASSAMOS PELO PARQUE PARA CHEGAR EM CASA
+voxforge_por_000884 anonymous-20111130-dig-055-pt_voxforge.wav O IRMÃO DELA TEM MUITA INVEJA
+voxforge_por_000885 anonymous-20100723-xmr-110-pt_voxforge.wav QUE TEMPO ESTÁ FAZENDO
+voxforge_por_000886 anonymous-20181017-kuh-059-pt_voxforge.wav LAVE AS MÃOS ANTES DE ALMOÇAR
+voxforge_por_000887 KNSetting-20101203-tdn-141-pt_voxforge.wav MUITO OBRIGADO
+voxforge_por_000888 HygorArajo-20130515-byc-120-pt_voxforge.wav ROBERTO NÃO CANTA MAL
+voxforge_por_000890 DorivalBiudes-20181013-yat-173-pt_voxforge.wav FALE MAIS DEVAGAR POR FAVOR
+voxforge_por_000891 marcostimm-20100722-tnm-195-pt_voxforge.wav ALGUÉM SABE A QUE HORAS COMEÇA O JANTAR
+voxforge_por_000892 anonymous-20130330-xqj-036-pt_voxforge.wav ELE TINHA UM ÁLBUM ENORME
+voxforge_por_000893 anonymous-20120608-atc-068-pt_voxforge.wav POR QUE VOCÊ COMPROU ESSA REVISTA
+voxforge_por_000894 anonymous-20100321-fmd-102-pt_voxforge.wav EU MOREI NA BAHIA HÁ MUITO TEMPO
+voxforge_por_000895 Daniel-20141230-yrm-014-pt_voxforge.wav TEM MUITOS PINGÜINS NO ZOOLÓGICO
+voxforge_por_000896 rubbermaiden-20160714-yek-026-pt_voxforge.wav NÃO ESTOU ACOSTUMADO
+voxforge_por_000897 tony-20090724-hty-066-pt_voxforge.wav PODE ME DAR O SEU ENDEREÇO
+voxforge_por_000898 sylviamarsillac-20081007-cbn-088-pt_voxforge.wav ONDE FICA A ESTAÇÃO DO TREM
+voxforge_por_000899 rafaromenel-20130201-xbt-186-pt_voxforge.wav SE EU TIVESSE DINHEIRO EU VIAJARIA PELO MUNDO INTEIRO
+voxforge_por_000900 HygorArajo-20130515-byc-115-pt_voxforge.wav POSSO PAGAR COM CHEQUE
+voxforge_por_000901 Daniel-20141230-yrm-008-pt_voxforge.wav ELE GANHOU MUITOS MILHÕES NA LOTERIA
+voxforge_por_000902 anonymous-20100920-nsv-007-pt_voxforge.wav NÃO AGÜENTO ESTA UMIDADE
+voxforge_por_000903 coelhosandro-20130511-amm-055-pt_voxforge.wav O IRMÃO DELA TEM MUITA INVEJA
+voxforge_por_000904 NAF-20141215-lst-173-pt_voxforge.wav FALE MAIS DEVAGAR POR FAVOR
+voxforge_por_000905 scnunes-20091119-nss-197-pt_voxforge.wav ELES MORAM AQUI DESDE OS ANOS SETENTA
+voxforge_por_000906 fsilveir-20110917-amb-158-pt_voxforge.wav ESTAMOS COM SONO
+voxforge_por_000907 Shuryon-20110130-jxl-045-pt_voxforge.wav QUEM ESTÁ AÍ
+voxforge_por_000908 anonymous-20110702-fah-154-pt_voxforge.wav ERAM OITO HORAS DA NOITE
+voxforge_por_000909 tiago-20090319-zas-123-pt_voxforge.wav QUANDO VOCÊ SOUBE DISSO
+voxforge_por_000910 anonymous-20181017-kuh-062-pt_voxforge.wav EU NÃO SABIA QUE VOCÊ TOCAVA VIOLÃO
+voxforge_por_000911 anonymous-20181017-kuh-055-pt_voxforge.wav O IRMÃO DELA TEM MUITA INVEJA
+voxforge_por_000912 Xicao-20181022-ylr-147-pt_voxforge.wav SINTO MUITO NÃO TENHO MAIS DINHEIRO
+voxforge_por_000913 DorivalBiudes-20181013-spn-077-pt_voxforge.wav HOJE É SEGUNDA FEIRA
+voxforge_por_000914 rubbermaiden-20160714-rtt-044-pt_voxforge.wav TEMOS QUATRO TIAS
+voxforge_por_000915 pablobsantiago-20151124-fxm-157-pt_voxforge.wav ELES SÃO MUITO INTELIGENTES
+voxforge_por_000916 pablobsantiago-20151124-eoi-075-pt_voxforge.wav ONDE É O AEROPORTO
+voxforge_por_000917 berlotto-20160429-exq-141-pt_voxforge.wav MUITO OBRIGADO
+voxforge_por_000918 pedro_loures-20140625-oxq-018-pt_voxforge.wav PODE ME ENSINAR A TOCAR UM INSTRUMENTO
+voxforge_por_000919 anonymous-20121010-dvw-130-pt_voxforge.wav ALUGAMOS UM APARTAMENTO NA CIDADE
+voxforge_por_000920 DorivalBiudes-20181013-nxe-175-pt_voxforge.wav QUANTO CUSTA
+voxforge_por_000921 anonymous-20110802-txz-022-pt_voxforge.wav VOU CUMPRIR
+voxforge_por_000922 marcostimm-20100722-ucl-015-pt_voxforge.wav QUANDO FOI FUNDADA A ACADEMIA MILITAR
+voxforge_por_000923 FelipeSilveira-20110917-bgb-135-pt_voxforge.wav PAULO NUNCA FAZ TODA A TAREFA
+voxforge_por_000924 skydives-20141002-mjr-120-pt_voxforge.wav ROBERTO NÃO CANTA MAL
+voxforge_por_000925 adriano-20101204-fwl-021-pt_voxforge.wav AQUELA MULHER É PORTUGUESA
+voxforge_por_000926 AntonsioPrcoliMartins-20110107-adt-211-pt_voxforge.wav QUARTA FEIRA
+voxforge_por_000927 rubbermaiden-20160714-qgs-156-pt_voxforge.wav ESTOU TRISTE
+voxforge_por_000928 rubbermaiden-20160714-hbd-164-pt_voxforge.wav FICA LONGE DAQUI
+voxforge_por_000929 anonymous-20100723-xmr-117-pt_voxforge.wav OS COMPUTADORES NÃO ME INTERESSAM
+voxforge_por_000930 anonymous-20100318-eut-128-pt_voxforge.wav TENHO DOR DE CABEÇA
+voxforge_por_000931 DanielG-20160121-suz-098-pt_voxforge.wav CABRAL CHEGOU AO BRASIL EM MIL E QUINHENTOS
+voxforge_por_000932 rubbermaiden-20160714-spt-066-pt_voxforge.wav PODE ME DAR O SEU ENDEREÇO
+voxforge_por_000933 anonymous-20130424-snj-084-pt_voxforge.wav POR QUE VOCÊS ME DERAM O BOLO ONTEM À NOITE
+voxforge_por_000934 leojoker-20141231-vyj-217-pt_voxforge.wav SIM
+voxforge_por_000935 xiru-20080903-idu-167-pt_voxforge.wav PARA ONDE VOCE FOI NAS FERIAS
+voxforge_por_000936 Deivid-20130409-wyg-051-pt_voxforge.wav O QUE VOCÊ PREFERE
+voxforge_por_000937 anonymous-20170820-qrp-062-pt_voxforge.wav EU NÃO SABIA QUE VOCÊ TOCAVA VIOLÃO
+voxforge_por_000939 anonymous-20151003-zqn-034-pt_voxforge.wav NÃO COMPREENDO
+voxforge_por_000940 leojoker-20141231-vyj-005-pt_voxforge.wav QUAIS ESPORTES VOCÊ PRATICA
+voxforge_por_000941 JordelsonSantiago-20150102-xda-124-pt_voxforge.wav ELAS SÃO MUITO SIMPÁTICAS
+voxforge_por_000942 pedro_loures-20140626-uqv-033-pt_voxforge.wav VOCÊ ESTÁ EM QUE SÉRIE
+voxforge_por_000943 insinfo-20120622-ezu-179-pt_voxforge.wav A QUE HORAS SAI O AVIÃO
+voxforge_por_000944 DanielG-20160121-mle-185-pt_voxforge.wav PROCURO UM APARTAMENTO COM MÓVEIS
+voxforge_por_000945 anonymous-20151026-jke-181-pt_voxforge.wav PODEMOS FICAR EM CASA
+voxforge_por_000946 DanielG-20160121-suz-091-pt_voxforge.wav TUDO BEM
+voxforge_por_000947 scnunes-20091119-gao-210-pt_voxforge.wav TERÇA FEIRA
+voxforge_por_000948 Hellowar-20151006-vtu-036-pt_voxforge.wav ELE TINHA UM ÁLBUM ENORME
+voxforge_por_000949 PauloAlexandre-20100130-xff-196-pt_voxforge.wav QUAL É O SEU NOME
+voxforge_por_000950 anonymous-20170820-qrp-071-pt_voxforge.wav EU E PEDRO ANDAMOS A CAVALO NOS SÁBADOS
+voxforge_por_000951 JordelsonSantiago-20150102-xda-127-pt_voxforge.wav VOCÊ SE SENTE MAL
+voxforge_por_000952 anonymous-20100307-qaf-062-pt_voxforge.wav EU NÃO SABIA QUE VOCÊ TOCAVA VIOLÃO
+voxforge_por_000953 anonymous-20100310-odu-063-pt_voxforge.wav QUANDO É O SEU ANIVERSÁRIO
+voxforge_por_000954 xiru-20080903-idu-164-pt_voxforge.wav FICA LONGE DAQUI
+voxforge_por_000955 anonymous-20130725-qzc-038-pt_voxforge.wav EU JOGAVA FUTEBOL MELHOR DO QUE MEUS AMIGOS
+voxforge_por_000956 anonymous-20110407-sny-124-pt_voxforge.wav ELAS SÃO MUITO SIMPÁTICAS
+voxforge_por_000957 anonymous-20120221-hyp-106-pt_voxforge.wav FOMOS PARA A PRAIA
+voxforge_por_000958 anonymous-20100920-nsv-010-pt_voxforge.wav FAÇA O TELEFONEMA DAQUELE ORELHÃO
+voxforge_por_000959 tiago-20090319-axn-033-pt_voxforge.wav VOCÊ ESTÁ EM QUE SÉRIE
+voxforge_por_000960 anonymous-20121010-dvw-125-pt_voxforge.wav MINHA IRMÃ TEM QUINZE ANOS
+voxforge_por_000961 DorivalBiudes-20181013-zos-017-pt_voxforge.wav SOMOS PORTUGUESES ORGULHOSOS

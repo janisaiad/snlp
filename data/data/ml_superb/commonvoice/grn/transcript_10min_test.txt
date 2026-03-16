@@ -1,0 +1,126 @@
+cv_grn_000908 common_voice_gn_26722884.mp3 Peteĩ ára Chavuku og̃uahẽ peteĩ tujami tapỹime.
+cv_grn_000909 common_voice_gn_26722885.mp3 Tenda réra.
+cv_grn_000910 common_voice_gn_26722887.mp3 Upe ára irundyhápe Hilario ndohói omba'apo.
+cv_grn_000911 common_voice_gn_26722896.mp3 Ijapoharekuaa'ỹva.
+cv_grn_000912 common_voice_gn_26722897.mp3 Aháta che hermana rendápe.
+cv_grn_000913 common_voice_gn_26722898.mp3 Salón Parroquial Yvyjaʼu.
+cv_grn_000914 common_voice_gn_26722905.mp3 Imbo'epy imitãme g̃uarã.
+cv_grn_000915 common_voice_gn_26722906.mp3 Upévare ore mbohapymínte roikuaákuri upe mba'e vaiete.
+cv_grn_000916 common_voice_gn_26722908.mp3 Umi mba'éngo ojehu ha rei ndajagueroviaséi.
+cv_grn_000917 common_voice_gn_26722910.mp3 Oĩma Ñandejára pópe
+cv_grn_000918 common_voice_gn_26722922.mp3 Ha katu hapykuéri oipykúi avei karai Cecilio.
+cv_grn_000919 common_voice_gn_26722923.mp3 Uperiremínte peteĩ g̃uaig̃uimi oipe'a upe oga'i rokẽ
+cv_grn_000920 common_voice_gn_26722924.mp3 Ajépango ijetu'u
+cv_grn_000921 common_voice_gn_26722925.mp3 Uperiremínte ohendu hikuái karaja ra'ãha.
+cv_grn_000922 common_voice_gn_26722926.mp3 Ijape hũ ha hovyũngy.
+cv_grn_000923 common_voice_gn_27522064.mp3 Ojapopaitéva, oĩva guive.
+cv_grn_000924 common_voice_gn_27522065.mp3 Korapýpe katu oguereko peteĩ ykua osẽhágui y ro'ysã asyete.
+cv_grn_000925 common_voice_gn_27522067.mp3 Ha'éniko oime amo okápe
+cv_grn_000926 common_voice_gn_27522377.mp3 Ombovu kamisa lómo.
+cv_grn_000927 common_voice_gn_27522378.mp3 Upéi katu oje'ói hikuái ouhague rupi.
+cv_grn_000928 common_voice_gn_27522409.mp3 Haʼe oĩhame katuete oĩ vyʼa ha tetiaʼe.
+cv_grn_000929 common_voice_gn_27522410.mp3 emombareteve uvei ne rembiapo
+cv_grn_000930 common_voice_gn_27522411.mp3 Og̃uahẽma hi'aravo.
+cv_grn_000931 common_voice_gn_27522412.mp3 Iporãiterei.
+cv_grn_000932 common_voice_gn_27522413.mp3 Añemoarandu guaraníme.
+cv_grn_000933 common_voice_gn_27522474.mp3 Oĩ avei ombisóva avati angu'ápe
+cv_grn_000934 common_voice_gn_27522476.mp3 Juky mante ojuhu hóga jerére.
+cv_grn_000935 common_voice_gn_27522478.mp3 Ha oñepyrũ oha'ã Inocencia syva, rova ha hete pukukue.
+cv_grn_000936 common_voice_gn_27522542.mp3 Ijahy'o pu porã asy.
+cv_grn_000937 common_voice_gn_27522543.mp3 Oikéndaje omba'apo peteĩ mbo'ehaópe.
+cv_grn_000938 common_voice_gn_27522580.mp3 Ndaiporivéima pohã umívape g̃uarã.
+cv_grn_000939 common_voice_gn_27522581.mp3 Oñe'ẽ hekove rehe.
+cv_grn_000940 common_voice_gn_27522582.mp3 Ipo'aite javérõ vy'a, sapukái ha turuñe'ẽme ojevy hógape.
+cv_grn_000941 common_voice_gn_27522583.mp3 Guyra reko.
+cv_grn_000942 common_voice_gn_27522653.mp3 Mba'evéma nohenduvéi.
+cv_grn_000943 common_voice_gn_27522655.mp3 Peteĩ g̃uaig̃ui oho pohãnohára rendápe
+cv_grn_000944 common_voice_gn_27522680.mp3 Péinango og̃uahẽ Ára guasuete
+cv_grn_000945 common_voice_gn_27522681.mp3 Osununumbáje iñakã, vaicháku okapútavamba'e ichugui.
+cv_grn_000946 common_voice_gn_27522682.mp3 Hembiapo porã.
+cv_grn_000947 common_voice_gn_27522684.mp3 Crispín ha che niko rog̃uahẽ peteĩ ñe'ẽme.
+cv_grn_000948 common_voice_gn_27522695.mp3 Revy'ápiko Paraguáipe.
+cv_grn_000949 common_voice_gn_27522696.mp3 Chopombe jeko ombojerénte chupekuéra karuguápe.
+cv_grn_000950 common_voice_gn_27522698.mp3 Mba'épa pe mba'e nde rejapokuaavéva.
+cv_grn_000951 common_voice_gn_27522703.mp3 Rejavy chera'a.
+cv_grn_000952 common_voice_gn_27522706.mp3 Ka'avo ipiro'y
+cv_grn_000953 common_voice_gn_27522708.mp3 Ijyképe avei oñembopupu mandi'o ojepurútava tembi'u týraramo.
+cv_grn_000954 common_voice_gn_27522709.mp3 Oho ha ka'arupytũ rupi oujey.
+cv_grn_000955 common_voice_gn_27522710.mp3 Ojogua peteĩ aramboha.
+cv_grn_000956 common_voice_gn_27522711.mp3 Hetaitémango oiko asy hikuái
+cv_grn_000957 common_voice_gn_27522712.mp3 Sa'yju ha hũ.
+cv_grn_000958 common_voice_gn_27522713.mp3 Omopẽmi anga ipy.
+cv_grn_000959 common_voice_gn_27522716.mp3 peteĩ ava imba'ekuaáva hérava Karai Octubre osẽta ka'aguýgui.
+cv_grn_000960 common_voice_gn_27522717.mp3 Ikatu iko'ẽ ha ikatu avei naiko'ẽi.
+cv_grn_000961 common_voice_gn_27522718.mp3 Upe mba'e oparei upépe ha upe pyhare.
+cv_grn_000962 common_voice_gn_27522721.mp3 Ha'ekuéra nahániri.
+cv_grn_000963 common_voice_gn_27522722.mp3 oma'ẽ ápe ha pépe ha ndohechái ykua
+cv_grn_000964 common_voice_gn_27522723.mp3 Añetetéko ko'ã mba'e amombe'úva peẽme.
+cv_grn_000965 common_voice_gn_27522725.mp3 Opa mba'e ajapóva osẽporãmbavoi chéve.
+cv_grn_000966 common_voice_gn_27522727.mp3 Hovyũ ha pytãngy.
+cv_grn_000967 common_voice_gn_27522733.mp3 Ñane korasõ vaicha horyvéva.
+cv_grn_000968 common_voice_gn_27531100.mp3 Aipóna og̃uahẽ ne aramboty
+cv_grn_000969 common_voice_gn_27531102.mp3 kuña ha mitã hekorory ha isarakíva apytépe oikova'ekue Rosita
+cv_grn_000970 common_voice_gn_27531103.mp3 Ñañepyrũpy lo mitã.
+cv_grn_000971 common_voice_gn_27531149.mp3 Anive rekyhyjétei che roipytyvõne.
+cv_grn_000972 common_voice_gn_27531150.mp3 Aréma ndajajoechavéi.
+cv_grn_000973 common_voice_gn_27531151.mp3 sevói, tomate, kuratũ ha kesu paraguái.
+cv_grn_000974 common_voice_gn_27531152.mp3 Mba'épa nembopochyve.
+cv_grn_000975 common_voice_gn_27531153.mp3 Isa'yeta ko guyrami
+cv_grn_000976 common_voice_gn_27531226.mp3 Eme'ẽ ejerure'ỹre mba'eve.
+cv_grn_000977 common_voice_gn_27531227.mp3 Che raʼykuéra péina oitypeijoáma óga renonde.
+cv_grn_000978 common_voice_gn_27531230.mp3 Ooh. Héta.
+cv_grn_000979 common_voice_gn_27531267.mp3 Ha ndaikatúi oĩ hendive.
+cv_grn_000980 common_voice_gn_27531269.mp3 Ñañangarekóke ñande rekoháre.
+cv_grn_000981 common_voice_gn_27531303.mp3 Oporombo'e.
+cv_grn_000982 common_voice_gn_27531305.mp3 Eñembojáke ha eñemoarandu Guarani Ñe'ẽme
+cv_grn_000983 common_voice_gn_27531307.mp3 Upépe ohai heta ñe'ẽpoty.
+cv_grn_000984 common_voice_gn_27531329.mp3 Guasu ho'u ka'a.
+cv_grn_000985 common_voice_gn_27531330.mp3 Omonda avei pirapire oguerekóva lekajami.
+cv_grn_000986 common_voice_gn_27531331.mp3 Hatãvéntema oky
+cv_grn_000987 common_voice_gn_27531333.mp3 Péva ojehu vove ani peñeha'ã chemoingovejey tembipurukuéra rupi
+cv_grn_000988 common_voice_gn_27531355.mp3 Imitãme oiko arandukuápe.
+cv_grn_000989 common_voice_gn_27531356.mp3 Sapy'ami oisãmbyhy.
+cv_grn_000990 common_voice_gn_27531359.mp3 Aníke reñeme'ẽ
+cv_grn_000991 common_voice_gn_27531388.mp3 oñepyrũ oipytyvõ hapichápe.
+cv_grn_000992 common_voice_gn_27531390.mp3 Tuicha ndaje upe yvy ha'ekuéra ojoguava'ekue.
+cv_grn_000993 common_voice_gn_27531391.mp3 Ha'éko kuña iporã, imarangatu ha imba'ekuaáva
+cv_grn_000994 common_voice_gn_27531392.mp3 Peteĩ pyhare Peru'i ha Kalo'i omonda peteĩ tuja'ípe.
+cv_grn_000995 common_voice_gn_27531418.mp3 Mitãra'y Maxi oguerohory Paraguay purahéi
+cv_grn_000996 common_voice_gn_27531419.mp3 Oparupirei oñepyrũ oñani ha isarambipa.
+cv_grn_000997 common_voice_gn_27531420.mp3 Uperiremínte og̃uahẽ oúvo Ceferino.
+cv_grn_000998 common_voice_gn_27531433.mp3 Ha'e ñanemboretia'e
+cv_grn_000999 common_voice_gn_27531435.mp3 Oñembogue chehegui
+cv_grn_001000 common_voice_gn_27531455.mp3 Upéicharamo jepe Maria noñeme'ẽikuri
+cv_grn_001001 common_voice_gn_27531456.mp3 Oho itúva rendápe ha oñakãmbovava chupe.
+cv_grn_001002 common_voice_gn_27531457.mp3 Ág̃akatu Pánfila nomombeʼuiete itúvape upe mbaʼe.
+cv_grn_001003 common_voice_gn_27531458.mp3 oikóva tavaguasuháre hasyvéma ojapo upe tembi'u
+cv_grn_001004 common_voice_gn_27531539.mp3 Luchi oumavoíkuri oiko hendive
+cv_grn_001005 common_voice_gn_27531540.mp3 Chéveramo g̃uarã mondaha oike nde rógape.
+cv_grn_001006 common_voice_gn_27531541.mp3 Oĩniko peteĩ tava'i iporãitereíva henyhẽva pajégui.
+cv_grn_001007 common_voice_gn_27531771.mp3 Heta jey ojejerurékuri chupe ova hag̃ua tavaitépe.
+cv_grn_001008 common_voice_gn_27532265.mp3 Che kuãirũ resa
+cv_grn_001009 common_voice_gn_27532267.mp3 Ojejoko hag̃ua.
+cv_grn_001010 common_voice_gn_27532391.mp3 Chepyhareve porã.
+cv_grn_001011 common_voice_gn_27532394.mp3 Ha ndaje oikéta jave hógape ohechásapy'a upéva.
+cv_grn_001012 common_voice_gn_27532398.mp3 Hova'atãve itágui.
+cv_grn_001013 common_voice_gn_27532503.mp3 Kapitã jahápy japirakutu
+cv_grn_001014 common_voice_gn_27532505.mp3 Pohãnohára ojesareko porã g̃uaig̃ui tĩ ha apysáre
+cv_grn_001015 common_voice_gn_27532506.mp3 Ñandejára oñangareko porã orerehe ha orerovasa.
+cv_grn_001016 common_voice_gn_27532507.mp3 Avati, mandi'o, jety, kurapepẽ umíva.
+cv_grn_001017 common_voice_gn_27532509.mp3 Ha nosẽvéima upégui.
+cv_grn_001018 common_voice_gn_27532579.mp3 Ikatúvante omba'apo hóga guive.
+cv_grn_001019 common_voice_gn_27532582.mp3 ha ohasakuévo upe ka'aguy'i ojukahaguépe karai Prudencio-pe
+cv_grn_001020 common_voice_gn_27532585.mp3 Mba'evete nomombe'úikuri itúvape.
+cv_grn_001021 common_voice_gn_27532622.mp3 Na'ápe rojapo ndéve ko chipa kavure haku vevúi asýva.
+cv_grn_001022 common_voice_gn_27532625.mp3 Vaivai.
+cv_grn_001023 common_voice_gn_27532628.mp3 Osẽ ha ojuhu peteĩ kuña oñembo'yvahína ikorapýpe.
+cv_grn_001024 common_voice_gn_27532710.mp3 Irundyve oikejepékuri Itakyry mboʼehaópe.
+cv_grn_001025 common_voice_gn_27532711.mp3 Imitã guive oikosékuri vakapipoporaʼãhárarõ.
+cv_grn_001026 common_voice_gn_27532733.mp3 Vaicha ku terere'ỹre noĩmbaivoi.
+cv_grn_001027 common_voice_gn_27532734.mp3 Che ru oke gueteri.
+cv_grn_001028 common_voice_gn_27532735.mp3 Oporandu oĩpa gueteri ka'a.
+cv_grn_001029 common_voice_gn_27532755.mp3 Moõguápa nde.
+cv_grn_001030 common_voice_gn_27532756.mp3 Omyakãvo tetã.
+cv_grn_001031 common_voice_gn_27532757.mp3 Roikuaaporãgui nde re'useha.
+cv_grn_001032 common_voice_gn_27532758.mp3 Ñemboʼe jeroky ha iñeʼẽnguéra.
+cv_grn_001033 common_voice_gn_26354843.mp3 Eñeha'ãke akói eiko teko potĩme

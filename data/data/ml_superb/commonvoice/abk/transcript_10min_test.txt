@@ -1,0 +1,137 @@
+cv_abk_001161 common_voice_ab_29248015.mp3 Иааиларԥсеит азҵаарақәа.
+cv_abk_001162 common_voice_ab_29248016.mp3 Макьанагьы цқьа еилкааны иҳамам урҭ ашәҟәқәа ианаамҭоу изҭыҵуоу изҭымҵуоу.
+cv_abk_001163 common_voice_ab_29248017.mp3 Урҭгьы ирҭахуп хьҭак рылалаанӡа рҭыԥ ахь ихынҳәыр.
+cv_abk_001164 common_voice_ab_29248018.mp3 Сышьха ӡыхьқәа рхаҵкы ицароуп са сыԥсы.
+cv_abk_001165 common_voice_ab_29248019.mp3 Уаагылышьт-уаагылышьт.
+cv_abk_001166 common_voice_ab_29771384.mp3 Араҟа еилагам аҭоурыхтә иаша, ирҵабыргуп сахьаркыралагьы.
+cv_abk_001167 common_voice_ab_29771386.mp3 Сишь, убрирахь цәык ҟаауеит.
+cv_abk_001168 common_voice_ab_29771387.mp3 Иҩуан апоет ауадаҩра данҭагылаз аамҭазы.
+cv_abk_001169 common_voice_ab_29771705.mp3 Валиа ега дсыргәырӷьап!
+cv_abk_001170 common_voice_ab_29771708.mp3 Иҟазшьа бзиоуп, алаф иҳәоит, дыхәмаруеит, дыччоит.
+cv_abk_001171 common_voice_ab_29771711.mp3 Кан иҭаацәа, ажәлар рыбз хәшәуп, иалацәажәар акы шԥалымҵра рҳәан, иадыргалт.
+cv_abk_001172 common_voice_ab_29771902.mp3 Игылоу реиҳа икажьу еиҳауп, ацәажәара зылшо дгәааны даӷьуеит.
+cv_abk_001173 common_voice_ab_29771989.mp3 Аҷандара сахьҩеиз иаразнак ирҳәеит иҟалаз.
+cv_abk_001174 common_voice_ab_29771995.mp3 Аманшәалареи, аразҟы бзиеи реиԥш, зегьы ирхыҵхырҭоу џьанаҭ иԥеиԥшуп.
+cv_abk_001175 common_voice_ab_29772232.mp3 Аилкаара ицәуадаҩын.
+cv_abk_001176 common_voice_ab_29772336.mp3 Ааԥынразы, харантә ианаалак иеигәыргьоит, аԥсабара аинылара иагәырӷьаҿҳәашан ирыԥхьаӡоит.
+cv_abk_001177 common_voice_ab_29772338.mp3 Саӡ ҩызара ҳзыжәуит.
+cv_abk_001178 common_voice_ab_29772446.mp3 Уахь шәцар ҟалом, ҳара ҳаума гәрамгацәас ишәымоу рҳәан, ахәгьы-аҿгьы иқәырмыжьлеит.
+cv_abk_001179 common_voice_ab_29772451.mp3 Ажара ақыҭсовет ахантәаҩы иҩны афара ҟарҵеит.
+cv_abk_001180 common_voice_ab_29772500.mp3 Мчылаӡа ихы-иҿы иаақәиҵеит хацәгага-ԥышәырччак.
+cv_abk_001181 common_voice_ab_29772504.mp3 Шаҟьароуп сызҿӡоу, ма уаҩ зыӡбахә иҳәаша ак ҟасҵахуандаз!
+cv_abk_001182 common_voice_ab_29772507.mp3 Сыбжьы наиқәсырган, даасырԥшит.
+cv_abk_001183 common_voice_ab_29772668.mp3 Ижәдыруама, арԥарцәа, сызшәыԥхьаз?
+cv_abk_001184 common_voice_ab_29772671.mp3 Аԥсраҿы умнеин, иахьҵәуо, умџьабан.
+cv_abk_001185 common_voice_ab_29772754.mp3 Ахҭыԥқәа днархьысит ахәрақәа реиԥш.
+cv_abk_001186 common_voice_ab_29772757.mp3 Аха иара еснагь дыццакуан, дцар акәын.
+cv_abk_001187 common_voice_ab_29772828.mp3 Уара ухаҭа ушедеврқәа ҭужьуазар, сара стәы зыхурҟьозеи?
+cv_abk_001188 common_voice_ab_29772831.mp3 Хьыфа даақәыԥсычҳаит.
+cv_abk_001189 common_voice_ab_29504094.mp3 хәба
+cv_abk_001190 common_voice_ab_29504096.mp3 акы
+cv_abk_001191 common_voice_ab_29504098.mp3 быжьба
+cv_abk_001192 common_voice_ab_29504101.mp3 ҩба
+cv_abk_001193 common_voice_ab_29504103.mp3 жәба
+cv_abk_001194 common_voice_ab_29504120.mp3 акымзарак
+cv_abk_001195 common_voice_ab_29504122.mp3 хԥа
+cv_abk_001196 common_voice_ab_29504123.mp3 мап
+cv_abk_001197 common_voice_ab_29504125.mp3 ааи
+cv_abk_001198 common_voice_ab_29504127.mp3 ааба
+cv_abk_001199 common_voice_ab_29505657.mp3 фба
+cv_abk_001200 common_voice_ab_29505660.mp3 ԥшьба
+cv_abk_001201 common_voice_ab_29505668.mp3 Усура дцауазшәа лҽыҟаҵаны, дыццакы-ццакуа ақалақь далаланы днеиуан.
+cv_abk_001202 common_voice_ab_29505671.mp3 Иааимеикит егьи.
+cv_abk_001203 common_voice_ab_29555172.mp3 Игәы ҭыԥсаауа дыҟан.
+cv_abk_001204 common_voice_ab_29555173.mp3 Аӡәгьы игәы нирхар иҭахым.
+cv_abk_001205 common_voice_ab_29555174.mp3 Уи далхны дрымоуп.
+cv_abk_001206 common_voice_ab_29555175.mp3 Шьыта дцеит.
+cv_abk_001207 common_voice_ab_29555177.mp3 Сеигәырӷьеит.
+cv_abk_001208 common_voice_ab_29555519.mp3 Ааԥынра аӡиас хыӡсыло ицоит.
+cv_abk_001209 common_voice_ab_29555520.mp3 Ари ауаҩы илымҳаҿы абжьы гоит.
+cv_abk_001210 common_voice_ab_29555521.mp3 Ашкол данҭазгьы ус акәын.
+cv_abk_001211 common_voice_ab_29555522.mp3 Уажәшьҭа дук мырҵыкәа хаз шәҟәны иҭыҵуеит.
+cv_abk_001212 common_voice_ab_29555523.mp3 Дагьырхашҭхьеит.
+cv_abk_001213 common_voice_ab_29503197.mp3 жәба
+cv_abk_001214 common_voice_ab_29503200.mp3 фба
+cv_abk_001215 common_voice_ab_29503203.mp3 акы
+cv_abk_001216 common_voice_ab_29503204.mp3 хәба
+cv_abk_001217 common_voice_ab_29503205.mp3 хԥа
+cv_abk_001218 common_voice_ab_29503263.mp3 акымзарак
+cv_abk_001219 common_voice_ab_29503268.mp3 ԥшьба
+cv_abk_001220 common_voice_ab_29503271.mp3 мап
+cv_abk_001221 common_voice_ab_29503272.mp3 быжьба
+cv_abk_001222 common_voice_ab_29503274.mp3 ҩба
+cv_abk_001223 common_voice_ab_29632113.mp3 ааба
+cv_abk_001224 common_voice_ab_29632115.mp3 Изакәызаалак даҽа аагарҭак ҳамамызт.
+cv_abk_001225 common_voice_ab_29632120.mp3 Акәын уара уҵас!
+cv_abk_001226 common_voice_ab_29632121.mp3 Иҭыхым сахьак мырбааӡакәа.
+cv_abk_001227 common_voice_ab_29632122.mp3 Аа, абар дахьыҟоу, зшьауардын мҵәыжәҩақәа ҳрыҵазкырц ҳаазгаз руаӡәк!
+cv_abk_001228 common_voice_ab_29632301.mp3 Зус аладашь уи, нас, сус злам?!
+cv_abk_001229 common_voice_ab_29632305.mp3 Быччаԥшь сацәажәон мчыбжьык.
+cv_abk_001230 common_voice_ab_29632308.mp3 Убас ҳадгьылқәа ирааӡоит ашәыр, ауҭраҭых уҳәа, абеиара зынӡа икажьӡоуп.
+cv_abk_001231 common_voice_ab_29632309.mp3 Сцәажәара сыркьаҿп.
+cv_abk_001232 common_voice_ab_29632401.mp3 Хыдаран уи ҳәа иҩагылеит, ианкаҳа.
+cv_abk_001233 common_voice_ab_29632403.mp3 Ирыцҳами бзааӡаз?!
+cv_abk_001234 common_voice_ab_29632404.mp3 Дҩагылеит уи.
+cv_abk_001235 common_voice_ab_29632405.mp3 Убас аспраукақәа сыкәыршаны исымоуп.
+cv_abk_001236 common_voice_ab_29632406.mp3 Снагәагәоит.
+cv_abk_001237 common_voice_ab_29375471.mp3 ааи
+cv_abk_001238 common_voice_ab_29375473.mp3 ааба
+cv_abk_001239 common_voice_ab_29375475.mp3 жәба
+cv_abk_001240 common_voice_ab_29375476.mp3 быжьба
+cv_abk_001241 common_voice_ab_29375589.mp3 ԥшьба
+cv_abk_001242 common_voice_ab_29375590.mp3 акымзарак
+cv_abk_001243 common_voice_ab_29375591.mp3 фба
+cv_abk_001244 common_voice_ab_29375592.mp3 хәба
+cv_abk_001245 common_voice_ab_29375593.mp3 Бзиоуп, нас шәамырԥхашьозар, сара сзы зегь дара роуп.
+cv_abk_001246 common_voice_ab_29496912.mp3 Сиазҵаап адиреқтор, сиҳәап.
+cv_abk_001247 common_voice_ab_29496914.mp3 Деигәырӷьеит аԥшқа.
+cv_abk_001248 common_voice_ab_29497022.mp3 Аҩыза акомандир, аҽы кәадыруп!
+cv_abk_001249 common_voice_ab_29497023.mp3 Абас лаҳәшьа длызхәыцуан.
+cv_abk_001250 common_voice_ab_29497024.mp3 Уажә иҿаԥхьа иаатыз апанорама даҽакала иҟан.
+cv_abk_001251 common_voice_ab_29497245.mp3 Кан идыруан.
+cv_abk_001252 common_voice_ab_29497247.mp3 Ирацәаҩымзаргьы, иҟоуп.
+cv_abk_001253 common_voice_ab_29801358.mp3 Уи мариоуп.
+cv_abk_001254 common_voice_ab_29801359.mp3 Снаԥшны, харантә излазбаз ала, еиқәаҵәан.
+cv_abk_001255 common_voice_ab_29801363.mp3 Аха иԥшаара уадаҩхеит, игәы бзиам ҳәа ауп макьана исаҳауа.
+cv_abk_001256 common_voice_ab_29801365.mp3 Зны илымҳа иҭахәыҭхәыҭуеит маӡа.
+cv_abk_001257 common_voice_ab_29801433.mp3 Убри аҟнытә иӡбан.
+cv_abk_001258 common_voice_ab_29801434.mp3 Ишәҭит адәқәа.
+cv_abk_001259 common_voice_ab_29801435.mp3 Иҟан дара ԥшьышә шәындыҟәра.
+cv_abk_001260 common_voice_ab_29801436.mp3 Ирымаз рцәыӡит, иҟам ирырҭо.
+cv_abk_001261 common_voice_ab_29801437.mp3 Амца насыхҟьеит.
+cv_abk_001262 common_voice_ab_27164139.mp3 хԥа
+cv_abk_001263 common_voice_ab_27164140.mp3 быжьба
+cv_abk_001264 common_voice_ab_27164141.mp3 ааба
+cv_abk_001265 common_voice_ab_27164142.mp3 мап
+cv_abk_001266 common_voice_ab_27164144.mp3 акы
+cv_abk_001267 common_voice_ab_27164145.mp3 ҩба
+cv_abk_001268 common_voice_ab_27164146.mp3 хәба
+cv_abk_001269 common_voice_ab_27164218.mp3 ааи
+cv_abk_001270 common_voice_ab_27164219.mp3 жәба
+cv_abk_001271 common_voice_ab_27164220.mp3 Ҳәарада, абри аҟны кырзҵазкуа аҵатәхәқәа ыҟоуп, аха реиҳараҩык азхаҵаҩцәамхеит.
+cv_abk_001272 common_voice_ab_27164221.mp3 Аллаҳ игәаԥхара шәазхәыцны, ирышәҭаз азеқьаҭ акәзар, кырӡа изцылараны иҟоу ауп.
+cv_abk_001273 common_voice_ab_27164222.mp3 Уи ауха амаалықьцәеи аԥси, Анцәа игәаԥхарала аусқәа зегьы рзы ишылбаац илбаауеит.
+cv_abk_001274 common_voice_ab_27164283.mp3 Аллаҳ урҭ зегьы џьара ианеидикыло аҽны акы иҳәоит.
+cv_abk_001275 common_voice_ab_27164284.mp3 Рынцәа иҟынтә ирзааиз амҩа иаша иануп, ахеиқәырхара иахьӡазгьы дара роуп.
+cv_abk_001276 common_voice_ab_27164285.mp3 Уа, Ҳанцәа! Урҭ рмазара ицҟьа иқәҵаны, ргәы хьаала ирҭәы.
+cv_abk_001277 common_voice_ab_27164286.mp3 Ари аӡбара зыҟоу, уара уадаҩрак уақәымшәарц азоуп.
+cv_abk_001278 common_voice_ab_27164287.mp3 Ҳәарада, аԥсцәа зыргылаша ҳара ҳауп.
+cv_abk_001279 common_voice_ab_27164403.mp3 Уи аразҟы узҭо зегьы дреиӷьуп.
+cv_abk_001280 common_voice_ab_27164404.mp3 Рыбжьара абзиара ҟаҵаны, Аллаҳ иҿагылара зҽацәызыхьчаз рзы аҳамҭа ду ыҟоуп.
+cv_abk_001281 common_voice_ab_27164405.mp3 Хымԥада, уара унцәа зегьы иҟарҵаз амыцхәра иагмыжькәа ириҭараны дыҟоуп.
+cv_abk_001282 common_voice_ab_27164406.mp3 Уажәшьҭа уаҳа ҳаԥсӡом, ус ауми?
+cv_abk_001283 common_voice_ab_27164407.mp3 Аԥааимбарцәа анрызнеилак, урҭ иаразнак аҵәы рылырхуа иалагон.
+cv_abk_001284 common_voice_ab_27164710.mp3 Абас ала, Аллаҳ дааныжьны, даҽа нцәахәқәак шәрышьҭаланы зхы-зыԥсы зыргәаҟуа шәакәхеит.
+cv_abk_001285 common_voice_ab_27164711.mp3 Шәарҭ шәазхаҵаҩцәазар, Аллаҳ мацара шәиқәгәыӷ!- рҳәашт.
+cv_abk_001286 common_voice_ab_27164712.mp3 Иаргьы, иашьагьы ҳамҭакы иаанкыланы, ақалақьқәа рышҟа алаԥшхырԥаҩцәа реизгаразы ауаа дәықәҵа
+cv_abk_001287 common_voice_ab_29443023.mp3 акы
+cv_abk_001288 common_voice_ab_29443025.mp3 ааба
+cv_abk_001289 common_voice_ab_29443026.mp3 быжьба
+cv_abk_001290 common_voice_ab_29443027.mp3 ԥшьба
+cv_abk_001291 common_voice_ab_29443072.mp3 хәба
+cv_abk_001292 common_voice_ab_29443073.mp3 хԥа
+cv_abk_001293 common_voice_ab_29443074.mp3 ааи
+cv_abk_001294 common_voice_ab_29443075.mp3 мап
+cv_abk_001295 common_voice_ab_29443076.mp3 акымзарак
+cv_abk_001296 common_voice_ab_29443088.mp3 фба
+cv_abk_001297 common_voice_ab_29443089.mp3 ҩба

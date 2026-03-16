@@ -1,0 +1,180 @@
+cv_srp_000000 common_voice_sr_27607049.mp3 Реци и мени!
+cv_srp_000001 common_voice_sr_27607050.mp3 Хајде, хајде тамо.
+cv_srp_000002 common_voice_sr_27655213.mp3 Црно на бело.
+cv_srp_000003 common_voice_sr_27655216.mp3 Хапшење оптужених је формално дужност локалне полиције.
+cv_srp_000004 common_voice_sr_26969264.mp3 А, ено га.
+cv_srp_000005 common_voice_sr_26969265.mp3 То тако изгледа.
+cv_srp_000006 common_voice_sr_26969266.mp3 А треба ли?
+cv_srp_000007 common_voice_sr_26937939.mp3 Али, није могао.
+cv_srp_000008 common_voice_sr_26937944.mp3 Друго полувреме донео је нова узбуђења.
+cv_srp_000009 common_voice_sr_26937945.mp3 Идемо корак по корак.
+cv_srp_000010 common_voice_sr_29083702.mp3 Ти си мој?
+cv_srp_000011 common_voice_sr_29083703.mp3 Пред нама је дуг пут.
+cv_srp_000012 common_voice_sr_29083704.mp3 Као лава из вулкана.
+cv_srp_000013 common_voice_sr_27646361.mp3 Да је жив?
+cv_srp_000014 common_voice_sr_27646363.mp3 То ћу ја.
+cv_srp_000015 common_voice_sr_27646365.mp3 Међутим, овом одлуком се истворемено продужава агонија...
+cv_srp_000016 common_voice_sr_27646366.mp3 Тражио га је.
+cv_srp_000017 common_voice_sr_27655587.mp3 То се носи!
+cv_srp_000018 common_voice_sr_27655588.mp3 Добар дан, госп.
+cv_srp_000019 common_voice_sr_27655589.mp3 Они то нису учинили.
+cv_srp_000020 common_voice_sr_27655590.mp3 А зашто не?
+cv_srp_000021 common_voice_sr_27658338.mp3 Тада се све променило.
+cv_srp_000022 common_voice_sr_27658339.mp3 Филм је бољи него што мислиш.
+cv_srp_000023 common_voice_sr_27658341.mp3 А ми не.
+cv_srp_000024 common_voice_sr_27658343.mp3 То је сасвим друго.
+cv_srp_000025 common_voice_sr_27635163.mp3 И одакле су?
+cv_srp_000026 common_voice_sr_27635166.mp3 Е, па нема.
+cv_srp_000027 common_voice_sr_27635168.mp3 Тако не иде!
+cv_srp_000028 common_voice_sr_27635169.mp3 Одговор ће дати време.
+cv_srp_000029 common_voice_sr_27635172.mp3 Ко је ко?
+cv_srp_000030 common_voice_sr_27655834.mp3 Желите помфрит?
+cv_srp_000031 common_voice_sr_27655835.mp3 Не зна се!
+cv_srp_000032 common_voice_sr_27655836.mp3 Има још много!
+cv_srp_000033 common_voice_sr_27655837.mp3 И ништа више.
+cv_srp_000034 common_voice_sr_27655838.mp3 И више пута.
+cv_srp_000035 common_voice_sr_27677166.mp3 У основној школи.
+cv_srp_000036 common_voice_sr_27677167.mp3 И за мене.
+cv_srp_000037 common_voice_sr_27677168.mp3 Галичка свадба је комбинација хришћанских и паганских обичаја.
+cv_srp_000038 common_voice_sr_27677169.mp3 Па шта да радим.
+cv_srp_000039 common_voice_sr_27677170.mp3 Не, само њега.
+cv_srp_000040 common_voice_sr_27655814.mp3 Шта си урадио?
+cv_srp_000041 common_voice_sr_27655815.mp3 Е, ја нисам.
+cv_srp_000042 common_voice_sr_27655816.mp3 Или не би.
+cv_srp_000043 common_voice_sr_27655817.mp3 Како ти то мислиш?
+cv_srp_000044 common_voice_sr_27655818.mp3 Не кажем да је.
+cv_srp_000045 common_voice_sr_27664087.mp3 Разуме се, душо.
+cv_srp_000046 common_voice_sr_27664088.mp3 Ко си ти?
+cv_srp_000047 common_voice_sr_27664089.mp3 Алергична сам на кикирики.
+cv_srp_000048 common_voice_sr_27664090.mp3 Сама од себе?
+cv_srp_000049 common_voice_sr_27664091.mp3 Не може ни тако.
+cv_srp_000050 common_voice_sr_27634832.mp3 Као што је?
+cv_srp_000051 common_voice_sr_27634834.mp3 Где си брате!
+cv_srp_000052 common_voice_sr_27634850.mp3 Како да нисам?
+cv_srp_000053 common_voice_sr_27634866.mp3 То сте ви.
+cv_srp_000054 common_voice_sr_27634867.mp3 Знате како је?
+cv_srp_000055 common_voice_sr_27664438.mp3 О, господе боже.
+cv_srp_000056 common_voice_sr_27664439.mp3 Бобетко је одбио да се преда.
+cv_srp_000057 common_voice_sr_27664440.mp3 Време је највећи господар.
+cv_srp_000058 common_voice_sr_27664441.mp3 Ја не разумем?
+cv_srp_000059 common_voice_sr_27664442.mp3 Шта се ово догађа?
+cv_srp_000060 common_voice_sr_27661018.mp3 Имаш нешто да ми кажеш.
+cv_srp_000061 common_voice_sr_27661019.mp3 А што би?
+cv_srp_000062 common_voice_sr_27661021.mp3 Како сте, ви?
+cv_srp_000063 common_voice_sr_27661023.mp3 О, као нешто.
+cv_srp_000064 common_voice_sr_27661025.mp3 Погледајте само.
+cv_srp_000065 common_voice_sr_27786021.mp3 Нашао сам те.
+cv_srp_000066 common_voice_sr_27786022.mp3 Господе, смилуј ми се!
+cv_srp_000067 common_voice_sr_27786023.mp3 Е, ја знам.
+cv_srp_000068 common_voice_sr_27786024.mp3 Што ти је!
+cv_srp_000069 common_voice_sr_27786025.mp3 Баш и јесте.
+cv_srp_000070 common_voice_sr_32069098.mp3 Два, три пута.
+cv_srp_000071 common_voice_sr_32072359.mp3 Што си ти урадио!
+cv_srp_000072 common_voice_sr_32072360.mp3 А наш новац?
+cv_srp_000073 common_voice_sr_32072361.mp3 Ни у сну!
+cv_srp_000074 common_voice_sr_32072362.mp3 Не знам зашто!
+cv_srp_000075 common_voice_sr_27656429.mp3 Ко их има?
+cv_srp_000076 common_voice_sr_27656430.mp3 Што не мене?
+cv_srp_000077 common_voice_sr_27656431.mp3 Све је то јако важно.
+cv_srp_000078 common_voice_sr_27656432.mp3 Пре неки дан.
+cv_srp_000079 common_voice_sr_27656433.mp3 Па, не знамо.
+cv_srp_000080 common_voice_sr_27660231.mp3 С леве стране!
+cv_srp_000081 common_voice_sr_27660232.mp3 Шта има ново.
+cv_srp_000082 common_voice_sr_27660233.mp3 О да, знаш.
+cv_srp_000083 common_voice_sr_27660234.mp3 Ни у ста.
+cv_srp_000084 common_voice_sr_27660235.mp3 које красе текст књиге
+cv_srp_000085 common_voice_sr_26943586.mp3 За сада је све добро.
+cv_srp_000086 common_voice_sr_26943587.mp3 Па,шта је то?
+cv_srp_000087 common_voice_sr_26943591.mp3 Па, то је он?
+cv_srp_000088 common_voice_sr_26943597.mp3 У њој је.
+cv_srp_000089 common_voice_sr_26943603.mp3 То што кажем.
+cv_srp_000090 common_voice_sr_30649699.mp3 А ја не знам?
+cv_srp_000091 common_voice_sr_30649700.mp3 На столу су.
+cv_srp_000092 common_voice_sr_30649701.mp3 О, ви сте.
+cv_srp_000093 common_voice_sr_30649702.mp3 Да ли је могуће доказати било шта?
+cv_srp_000094 common_voice_sr_30649703.mp3 Далеко од мене!
+cv_srp_000095 common_voice_sr_29138969.mp3 Гледај, молим те
+cv_srp_000096 common_voice_sr_29138970.mp3 Тако је то?
+cv_srp_000097 common_voice_sr_29138971.mp3 Добар дан, пријатељу.
+cv_srp_000098 common_voice_sr_29138972.mp3 Шта мислите да радите!
+cv_srp_000099 common_voice_sr_29138990.mp3 И, је ли?
+cv_srp_000100 common_voice_sr_29138992.mp3 Ко је др.
+cv_srp_000101 common_voice_sr_29138994.mp3 И то све због мене.
+cv_srp_000102 common_voice_sr_27685957.mp3 Далеко од света.
+cv_srp_000103 common_voice_sr_27685958.mp3 Како ћете ви радити?
+cv_srp_000104 common_voice_sr_27685959.mp3 Мора да је то!
+cv_srp_000105 common_voice_sr_27685960.mp3 И ту другу!
+cv_srp_000106 common_voice_sr_27685961.mp3 Да видим како је.
+cv_srp_000107 common_voice_sr_27685972.mp3 Какав је ваш став?
+cv_srp_000108 common_voice_sr_27685973.mp3 А код вас?
+cv_srp_000109 common_voice_sr_27685975.mp3 То би било све за ову недељу.
+cv_srp_000110 common_voice_sr_27685976.mp3 Ви то мени!
+cv_srp_000111 common_voice_sr_27636059.mp3 И мени је!
+cv_srp_000112 common_voice_sr_27636060.mp3 И истина је.
+cv_srp_000113 common_voice_sr_27636061.mp3 Црно на белом.
+cv_srp_000114 common_voice_sr_27636062.mp3 Што је била?
+cv_srp_000115 common_voice_sr_27636063.mp3 Ја ово више не могу.
+cv_srp_000116 common_voice_sr_27636074.mp3 Могу да поднесем!
+cv_srp_000117 common_voice_sr_27636075.mp3 Ви како сте?
+cv_srp_000118 common_voice_sr_27636076.mp3 То би била грешка.
+cv_srp_000119 common_voice_sr_27636077.mp3 Да видим како ти стоји.
+cv_srp_000120 common_voice_sr_27636078.mp3 Ја мислим да.
+cv_srp_000121 common_voice_sr_27654146.mp3 Да је добро.
+cv_srp_000122 common_voice_sr_27654147.mp3 Донеси ми је.
+cv_srp_000123 common_voice_sr_27654148.mp3 У својој соби?
+cv_srp_000124 common_voice_sr_27654149.mp3 Шта је решење?
+cv_srp_000125 common_voice_sr_27654150.mp3 Посадили смо пасуљ и боранију у башти.
+cv_srp_000126 common_voice_sr_27654226.mp3 Је ли тако.
+cv_srp_000127 common_voice_sr_27654227.mp3 А то је твој.
+cv_srp_000128 common_voice_sr_27654228.mp3 Цитирање оригиналног извора информација је добродошло.
+cv_srp_000129 common_voice_sr_27654229.mp3 Али не још!
+cv_srp_000130 common_voice_sr_27654230.mp3 Како сам издржао?
+cv_srp_000131 common_voice_sr_27634888.mp3 Ако треба, да.
+cv_srp_000132 common_voice_sr_27634889.mp3 Ма тако је.
+cv_srp_000133 common_voice_sr_27634892.mp3 О, о, о!
+cv_srp_000134 common_voice_sr_27634902.mp3 Ти, мали враже.
+cv_srp_000135 common_voice_sr_27634920.mp3 Ма, молим те!
+cv_srp_000136 common_voice_sr_27635057.mp3 Ипак не могу.
+cv_srp_000137 common_voice_sr_27635058.mp3 Јесте ли спремни?
+cv_srp_000138 common_voice_sr_27635059.mp3 Истанбулски међународни музички фестивал.
+cv_srp_000139 common_voice_sr_27635060.mp3 Врло су занимљиве.
+cv_srp_000140 common_voice_sr_27635062.mp3 Па онда, да.
+cv_srp_000141 common_voice_sr_27660531.mp3 Па не знамо баш.
+cv_srp_000142 common_voice_sr_27660533.mp3 То је све за ову недељу.
+cv_srp_000143 common_voice_sr_27660536.mp3 Зашто не можеш.
+cv_srp_000144 common_voice_sr_27660537.mp3 Чим будете боље познавали све оно
+cv_srp_000145 common_voice_sr_27660539.mp3 А где су?
+cv_srp_000146 common_voice_sr_27660566.mp3 Моја је жена.
+cv_srp_000147 common_voice_sr_27660567.mp3 Могу без тебе.
+cv_srp_000148 common_voice_sr_27660568.mp3 Не говори ми!
+cv_srp_000149 common_voice_sr_27660569.mp3 Да видиш само.
+cv_srp_000150 common_voice_sr_27660570.mp3 У оба образа?
+cv_srp_000151 common_voice_sr_27701669.mp3 Бавио сам се.
+cv_srp_000152 common_voice_sr_27701671.mp3 У кревет, да.
+cv_srp_000153 common_voice_sr_27701672.mp3 Ко је данас?
+cv_srp_000154 common_voice_sr_27701674.mp3 Не знате ви.
+cv_srp_000155 common_voice_sr_27701675.mp3 Био је разочаран.
+cv_srp_000156 common_voice_sr_27701677.mp3 И ја то кажем!
+cv_srp_000157 common_voice_sr_27701678.mp3 А он није!
+cv_srp_000158 common_voice_sr_27701679.mp3 То сам хтела да вам кажем.
+cv_srp_000159 common_voice_sr_27701680.mp3 Како не би?
+cv_srp_000160 common_voice_sr_27701681.mp3 То је било друго.
+cv_srp_000161 common_voice_sr_26943975.mp3 Двадесет и пет?
+cv_srp_000162 common_voice_sr_26943976.mp3 Као и он.
+cv_srp_000163 common_voice_sr_26943978.mp3 Јеси ли за?
+cv_srp_000164 common_voice_sr_26943980.mp3 Овако више не иде.
+cv_srp_000165 common_voice_sr_26943983.mp3 Шта нам фали?
+cv_srp_000166 common_voice_sr_26944218.mp3 Твој посао је.
+cv_srp_000167 common_voice_sr_26944219.mp3 Међутим, борба је још увек занимљива.
+cv_srp_000168 common_voice_sr_26944220.mp3 Наравно, нису они искључиво криви за то.
+cv_srp_000169 common_voice_sr_26944222.mp3 Не, које је?
+cv_srp_000170 common_voice_sr_26944225.mp3 Ко је стар?
+cv_srp_000171 common_voice_sr_27655344.mp3 У непосредној близини.
+cv_srp_000172 common_voice_sr_27655345.mp3 Иди и ти!
+cv_srp_000173 common_voice_sr_27655347.mp3 Зар је то?
+cv_srp_000174 common_voice_sr_27655348.mp3 Ниједна институција потребна за њихово спровођење, није формирана.
+cv_srp_000175 common_voice_sr_27655350.mp3 Ти си мој.
+cv_srp_000176 common_voice_sr_27655632.mp3 Знам и то.
+cv_srp_000177 common_voice_sr_27655633.mp3 Ма, дај ми!
+cv_srp_000178 common_voice_sr_27655634.mp3 Било је три.
+cv_srp_000179 common_voice_sr_27655635.mp3 Увредио си ме!

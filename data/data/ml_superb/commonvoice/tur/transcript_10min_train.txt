@@ -1,0 +1,126 @@
+cv_tur_000000 common_voice_tr_31400937.mp3 Bir şeyler yapmalıyız.
+cv_tur_000001 common_voice_tr_23660893.mp3 Hayatta küçük şeyleri kovalıyor ve yine küçük şeyler için birbirimizi incitiyoruz.
+cv_tur_000002 common_voice_tr_17343923.mp3 Seydiu şimdi iki mevkiyi de kaybetti.
+cv_tur_000003 common_voice_tr_26078972.mp3 Ancak üç sezon sonra ligden ayrıldılar.
+cv_tur_000004 common_voice_tr_23388477.mp3 Katilin basitçe “Canavar” olarak bilinen büyük bir hayvan olduğu düşünülüyordu.
+cv_tur_000005 common_voice_tr_23650401.mp3 Fakat öte yandan, hayatta gelişim sağlayabilmek için kendimi ne kadar çok strese soktuğumu farkediyorum.
+cv_tur_000006 common_voice_tr_25887910.mp3 Bahse girerim uzaklara gönderilen bir hediye.
+cv_tur_000007 common_voice_tr_19942053.mp3 Siyasette temiz insanlara ihtiyacımız var.
+cv_tur_000008 common_voice_tr_29039679.mp3 Bana bir şey olmaz.
+cv_tur_000009 common_voice_tr_17354593.mp3 Broz, büyükbabasının başarılarını gururla anıyor.
+cv_tur_000010 common_voice_tr_19942151.mp3 Calasan yetenekli çocuk bursu da aldı.
+cv_tur_000011 common_voice_tr_30714931.mp3 Evet, aslında.
+cv_tur_000012 common_voice_tr_19821495.mp3 Referandum tarihi henüz belirlenmedi.
+cv_tur_000013 common_voice_tr_28846858.mp3 Silahlar…
+cv_tur_000014 common_voice_tr_18369567.mp3 Her yaştan takasçı geliyor.
+cv_tur_000015 common_voice_tr_22734584.mp3 Seferler Haziran ayında başlıyor.
+cv_tur_000016 common_voice_tr_23345591.mp3 Ancak, yaratığın adı basit kalırken, itibarı kısa sürede oldukça karmaşık hale geldi.
+cv_tur_000017 common_voice_tr_29639449.mp3 Benim bir işim var.
+cv_tur_000018 common_voice_tr_29073835.mp3 Üstesinden geleceksin.
+cv_tur_000019 common_voice_tr_18880422.mp3 Atık yönetimi bir ülkenin yaşam tarzını yansıtır.
+cv_tur_000020 common_voice_tr_17360354.mp3 Hükümetin değişmesi halinde müzakereler ve katılım süreci ne yönde etkilenir?
+cv_tur_000021 common_voice_tr_18177773.mp3 Etkinlik yirmi iki Mayıs'a kadar açık kalacak.
+cv_tur_000022 common_voice_tr_23676677.mp3 İnsan doğasının kusurundan doğan bir durum.
+cv_tur_000023 common_voice_tr_26948172.mp3 Hatırlamıyor musun?
+cv_tur_000024 common_voice_tr_24606484.mp3 Fona başvuru için son tarih otuz Mart iki bin üç.
+cv_tur_000025 common_voice_tr_18275502.mp3 Kasedin etkisi büyük oldu.
+cv_tur_000026 common_voice_tr_22720098.mp3 Seferler Haziran ayında başlıyor.
+cv_tur_000027 common_voice_tr_17527931.mp3 Bunun değişmesini beklemiyorum.
+cv_tur_000028 common_voice_tr_19285259.mp3 Aralarında pek çok mülteci var.
+cv_tur_000029 common_voice_tr_28892007.mp3 Hemen köşeyi dönünce.
+cv_tur_000030 common_voice_tr_18507612.mp3 Bir sonraki ay bir anayasa kabul edildi.
+cv_tur_000031 common_voice_tr_17826129.mp3 Biz realiteyi dikkate alıyoruz.
+cv_tur_000032 common_voice_tr_29035088.mp3 Bunu zaten biliyorsun.
+cv_tur_000033 common_voice_tr_32858790.mp3 Sallanarak uzaklaştım.
+cv_tur_000034 common_voice_tr_19565041.mp3 Barış müzakereleri hiçbir zaman kolay olmaz.
+cv_tur_000035 common_voice_tr_17862344.mp3 Yaşanan gelişmeler pek çok kimseyi şaşırtıyor.
+cv_tur_000036 common_voice_tr_28316620.mp3 İçimde yarı kalmış bir konuşmanın üzüntüsü vardı.
+cv_tur_000037 common_voice_tr_25249779.mp3 Bu mesaj da anayasa taslağına eklendi.
+cv_tur_000038 common_voice_tr_18312517.mp3 Dört yıl sonra dava gün ışığına çıktı.
+cv_tur_000039 common_voice_tr_17527464.mp3 Bağış önerileri açık rekabetle seçiliyor.
+cv_tur_000040 common_voice_tr_29613681.mp3 Bu senin araban mı?
+cv_tur_000041 common_voice_tr_20557646.mp3 Saldırının sorumluluğunu henüz üstlenen olmadı.
+cv_tur_000042 common_voice_tr_18407439.mp3 Proje Mart ayında başlatıldı.
+cv_tur_000043 common_voice_tr_19018457.mp3 Erdoğan eleştirileri reddetti.
+cv_tur_000044 common_voice_tr_18373810.mp3 Anlaşma bir Ocak'ta yürürlüğe girecek.
+cv_tur_000045 common_voice_tr_17960725.mp3 Projeler altı bilimsel alanı kapsıyorlar.
+cv_tur_000046 common_voice_tr_23747110.mp3 Fakat yine de kavrayabiliyormuş gibi kararlar alıyor, toplantılara katılıyor, geçmişle övünüyoruz.
+cv_tur_000047 common_voice_tr_23385755.mp3 Katilin basitçe “Canavar” olarak bilinen büyük bir hayvan olduğu düşünülüyordu.
+cv_tur_000048 common_voice_tr_18395538.mp3 On milletvekili çekimser kaldı.
+cv_tur_000049 common_voice_tr_18395540.mp3 Bundan cumhurbaşkanı bile etkilendi.
+cv_tur_000050 common_voice_tr_30768642.mp3 Gitmek zorundayız.
+cv_tur_000051 common_voice_tr_30768645.mp3 Kaşığı herkes yapar ama sapını ortaya getiremez.
+cv_tur_000052 common_voice_tr_23868570.mp3 Hey
+cv_tur_000053 common_voice_tr_23868571.mp3 iki
+cv_tur_000054 common_voice_tr_28895633.mp3 Ne yapabileceğime bakarım.
+cv_tur_000055 common_voice_tr_28895657.mp3 İşte, gördün mü?
+cv_tur_000056 common_voice_tr_23004601.mp3 Denemeler başarılı geçti.
+cv_tur_000057 common_voice_tr_23004605.mp3 Ancak, yaratığın adı basit kalırken, itibarı kısa sürede oldukça karmaşık hale geldi.
+cv_tur_000058 common_voice_tr_17409471.mp3 Ve bir yıl sonra, bu ay, bu iki kitap basıldı.
+cv_tur_000059 common_voice_tr_17409473.mp3 Ortak bölgesel çıkarlarımız da bunu gerektiriyor.
+cv_tur_000060 common_voice_tr_22709153.mp3 Seferler Haziran ayında başlıyor.
+cv_tur_000061 common_voice_tr_22709154.mp3 Hatta sürdürmeye mecburlar.
+cv_tur_000062 common_voice_tr_22477339.mp3 dokuz
+cv_tur_000063 common_voice_tr_22477340.mp3 hayır
+cv_tur_000064 common_voice_tr_17384928.mp3 Bu hızlı çözüme rağmen sorunlar hâlâ karışık.
+cv_tur_000065 common_voice_tr_17384930.mp3 AB projesi en az iki açıdan değerlendirilebilir.
+cv_tur_000066 common_voice_tr_25325801.mp3 Bu, neredeyse her yüz erkekten ikisi demek.
+cv_tur_000067 common_voice_tr_25325809.mp3 Üretimin yüzde sekseni ihraç edilecek.
+cv_tur_000068 common_voice_tr_17414891.mp3 Portekiz Salı günü bunu yapan kırk sekizinci ülke oldu.
+cv_tur_000069 common_voice_tr_17414895.mp3 Priştineli bir esnaf dükkan açmaya hazırlanıyor.
+cv_tur_000070 common_voice_tr_17881823.mp3 Kendimi kötü hissediyorum, ama ne yapabilirsiniz ki?
+cv_tur_000071 common_voice_tr_17881824.mp3 Sorunu çözer mi? Hayır.
+cv_tur_000072 common_voice_tr_32410756.mp3 Üzüm üzüme baka baka kararır.
+cv_tur_000073 common_voice_tr_32410762.mp3 Hey, ne yapıyorsunuz?
+cv_tur_000074 common_voice_tr_20417544.mp3 Racan liderliği sakince devretti.
+cv_tur_000075 common_voice_tr_20417545.mp3 Dağıtımcı firmalar fiyatları haksız yere mi yükseltiyor?
+cv_tur_000076 common_voice_tr_30137743.mp3 Alacakla verecek ödenmez.
+cv_tur_000077 common_voice_tr_30137744.mp3 Kapatıyoruz.
+cv_tur_000078 common_voice_tr_18967997.mp3 Balkanlar'da hukuk devleti ilkesi nihayet pekişiyor mu?
+cv_tur_000079 common_voice_tr_18967999.mp3 Bakarciev daha sonra olaydaki rolünü itiraf etti.
+cv_tur_000080 common_voice_tr_18282858.mp3 Ancak bütün haberler de karamsar değil.
+cv_tur_000081 common_voice_tr_18282860.mp3 Sadece Bükreş'te bin iki yüz polis memuru açığı var.
+cv_tur_000082 common_voice_tr_25269062.mp3 Geri dönüşüm makinesi çok amaçlı.
+cv_tur_000083 common_voice_tr_25269063.mp3 Bir sürü gazete kapatılıyor.
+cv_tur_000084 common_voice_tr_17344944.mp3 Bölgede yenilenen işbirliği çözüme katkıda bulunaabilir mi?
+cv_tur_000085 common_voice_tr_17344946.mp3 Kuruluşun geleceği ile ilgili öngörüleriniz neler?
+cv_tur_000086 common_voice_tr_17355891.mp3 Mesajı ileten Hasan'ın gözleri yaşla doldu.
+cv_tur_000087 common_voice_tr_17355892.mp3 SC yetkilileri yanıt vermekte gecikmediler.
+cv_tur_000088 common_voice_tr_24734788.mp3 Başka bir kanaldan da adli işlemler başlatıldı.
+cv_tur_000089 common_voice_tr_24734789.mp3 Bazı Sırp vatandaşları yeni programı destekliyor.
+cv_tur_000090 common_voice_tr_20150100.mp3 Bulgar takımı Kıbrıs'ı üç-sıfır yenerek birinci oldu.
+cv_tur_000091 common_voice_tr_20150101.mp3 Ödül iki milyon avro olacak.
+cv_tur_000092 common_voice_tr_20180147.mp3 Turnuvaya on üç ülkeden doksan sporcu katıldı.
+cv_tur_000093 common_voice_tr_20180150.mp3 Milletvekili sayısı yüz yirmiden yüz otuz üçe çıkacak.
+cv_tur_000094 common_voice_tr_17350737.mp3 Eyalet senatosuna da bir ziyaret düzenlendi.
+cv_tur_000095 common_voice_tr_17350744.mp3 Bunun olmasını istemiyoruz.
+cv_tur_000096 common_voice_tr_28910344.mp3 Her inişin bir yokuşu vardır.
+cv_tur_000097 common_voice_tr_28910347.mp3 Yağmurda düşmanın koyunu, dostun atı satılsın.
+cv_tur_000098 common_voice_tr_18497983.mp3 Bu herşeyi açıklıyor.
+cv_tur_000099 common_voice_tr_18497984.mp3 Konuttan sonraki öncelik eğitim.
+cv_tur_000100 common_voice_tr_20654543.mp3 Fakat bunların çoğu gezilerini iptal ettiler.
+cv_tur_000101 common_voice_tr_20654544.mp3 Kardeşi Muhamed liseye gidiyordu.
+cv_tur_000102 common_voice_tr_17341269.mp3 Pek çoğu da Roman toplumundan geliyor.
+cv_tur_000103 common_voice_tr_17341271.mp3 Geçiş ülkelerinde yaşananlar ise karışık.
+cv_tur_000104 common_voice_tr_19156876.mp3 İranlılar da talebe uydular.
+cv_tur_000105 common_voice_tr_19156877.mp3 Katılanların yaklaşık yüzde kırkı otuz beş yaş altında.
+cv_tur_000106 common_voice_tr_26985922.mp3 Ne yaptınız?
+cv_tur_000107 common_voice_tr_26985924.mp3 Ne yapmamı istiyorsun?
+cv_tur_000108 common_voice_tr_18564068.mp3 Sergiye on dört ülkeden yüz kırk beş sanatçı katıldı.
+cv_tur_000109 common_voice_tr_18564070.mp3 Romanya erkekler dalında ikinci oldu.
+cv_tur_000110 common_voice_tr_25857546.mp3 Hemen çekmeceyi kapatmıştı.
+cv_tur_000111 common_voice_tr_25857547.mp3 Bunu tespit edince memnun oldum.
+cv_tur_000112 common_voice_tr_18380001.mp3 Hızlı ve doğru şekilde hareket etmek zorundaydık.
+cv_tur_000113 common_voice_tr_18380003.mp3 Merkez bankasının başlıca amacı düşük enflasyon.
+cv_tur_000114 common_voice_tr_26125502.mp3 Yerleşimin adı Portekizce "Tuz Kralı" anlamına geliyor.
+cv_tur_000115 common_voice_tr_26125503.mp3 Lloyd, müzik salonu için ilk verimli ve başarılı şarkıcı-söz yazarıdır.
+cv_tur_000116 common_voice_tr_17525617.mp3 Böl. bin bir ve bin otuz uyarınca cezalandırılabilir.
+cv_tur_000117 common_voice_tr_17525621.mp3 Peki sonuç ne oldu?
+cv_tur_000118 common_voice_tr_17528880.mp3 Ancak bu hareketi eleştirenler de var.
+cv_tur_000119 common_voice_tr_17528882.mp3 Kosteliç efsanesi çok büyük bir efsane.
+cv_tur_000120 common_voice_tr_17579998.mp3 Diğer altı adayın her biri yüzde birin altında oy aldı.
+cv_tur_000121 common_voice_tr_17580000.mp3 Moskova da olaya karıştı.
+cv_tur_000122 common_voice_tr_17344912.mp3 Gayet iddialıyız.
+cv_tur_000123 common_voice_tr_17344913.mp3 Beş göstericinin silah taşıdığı iddia ediliyor.
+cv_tur_000124 common_voice_tr_18369910.mp3 Kitaptaki kişi ben olabilirdim.
+cv_tur_000125 common_voice_tr_18369911.mp3 Bakanlar Kosova konusunda da konuştular.

@@ -1,0 +1,39 @@
+fleurs_yor_000036	yo_ng/audio/train/14127273130624881278.wav	WON A WA FUN NI NI AKOSILE GBOGBO AWON AGBALEJO TO WA NILE O LE JE LOJU IWE TABI LOJU INTANEETI NIGBAMIIN WON MA N FI ERO AWON ONIRINAJO MIIN
+fleurs_yor_000037	yo_ng/audio/train/3923114348275920072.wav	NíBí ó SE SE é SE Kí O Má NíLò ìWé ìRìNNà FúN àBẹ̀Wò RáńPẹ́ Sí àWọN ORíLèèDè KAN Gẹ́Gẹ́ Bí I ONíRìN AFẹ́ TàBI OLóKOòWò LíLọ SíBẹ̀ Gẹ́Gẹ́ Bí AKẹ́ẹ̀Kọ́ Pè FúN à TI DúRó FúNGBà PíPẹ́ Jú Bí èèYàN Bá ń Lọ FúN ìRìN AFẹ́ NìKAN
+fleurs_yor_000038	yo_ng/audio/train/15103302549456254657.wav	NíBàáMU Pẹ̀Lú FRAY BARTOLOMé DE LAS CASAS TRATADO DE LAS INDIAS LáàRIN ọDúN 1492 àTI 1498 àWọN Aṣẹ́GUN ILẹ̀ SPAIN SEKúPA àWọN TAíNO TíYE Wọ́N Tó ọGọ́RùN úN ẹGBẹ̀RúN
+fleurs_yor_000039	yo_ng/audio/train/13229810942828593330.wav	àWọN IGUN MéJèèJì NI Yíó PàDé NíKẹYìN àSEKáGBá Ní IBI Tí NOOSA TI JáWé OLúBORí Pẹ̀Lú àMì Mọ́KàNLá
+fleurs_yor_000040	yo_ng/audio/train/686530291730521780.wav	ìRàNWọ́ ALẹ́ àKọ́Kọ́ OVECHKIN NíNú ìBORí ẹRẹ́ IBI-AFẹ́Dẹ́ NíPASẹ̀ ROOKIE NICKLAS BACKSTROM
+fleurs_yor_000041	yo_ng/audio/train/11100068925793789069.wav	AGBON TI SERENGETI SE AKOPO SERENGETI NATIONAL PARK NGOROMGORO CONSERVATIVE AREA ATI MASWA GAME RESERVE NI ORILE'DE TANZANIA ATI MAASAI MARA NATIONAL RESERVE TI KENYA
+fleurs_yor_000042	yo_ng/audio/train/16139845439550197015.wav	àLàYé Náà Ní ìYàTọ̀ AGBèGBè NIBITí ọJọ́ ORí LE KéRé LáWọN AGBèGBè Bí I àRíWá AMẹ́RíKà Jú TI YúRòPù Lọ
+fleurs_yor_000043	yo_ng/audio/train/16908767229301908735.wav	WọN ò JéSì ìPALáRA TàBí ìJàMBA PúPọ̀Jù Ní TONGA ṣùGBọ́N INá ṣẹ́Jú FúN ìGBà KAN Tó Mú Kí àWọN ALáṣẹ TONGA Má Rí ìKILọ̀ ìJì SúNáMì Tí PWC GBéJáDE
+fleurs_yor_000044	yo_ng/audio/train/157756586754755210.wav	àWọN EWé Yí Jọ IGI ọ̀Pẹ́ KéKERé Pẹ̀Lú EWé Tó GùN JáDE Tó Mú
+fleurs_yor_000045	yo_ng/audio/train/18197013789957587041.wav	NìGBàTí Wọ́N PADà Sí àRíWá NíPASẹ̀ ìWọ OòRùN Lẹ́ẹ̀KAN SI NíGBàTí Wọ́N GBA ODò MARA KọJá Lẹ́YìN àKóKò òJò Ní Oṣù KẹRIN
+fleurs_yor_000046	yo_ng/audio/train/16039888898611020305.wav	AGARA LáTàRí ìGBìYàNJú LáTI LúWẹ̀ PADA ṣẹ́YìN Ní ẹ̀Yí Tó ṣE é́ ṣE Kó SE OKùNFà ọ̀Pọ̀ àWọN IKú
+fleurs_yor_000047	yo_ng/audio/train/6227267512706950859.wav	FI COFFEE TO ó DáRA ṣE ọ̀ṣọ́ ILé Rẹ̀ Ní òWúRọ̀ àTI Tíì CHAMOMILE Ní àṣáLẹ́
+fleurs_yor_000048	yo_ng/audio/train/15947642136311336175.wav	FúN ẹGBẹGBẹ̀RùN ọDúN Sẹ́YìN ẹ̀Sì KRìSTíẹ́Nì Tí SO àWọN ORíLẹ̀ èDè EUROPE PAPọ̀ Pẹ̀Lú èDè àTI àṣA WọN Tó YàTọ̀
+fleurs_yor_000049	yo_ng/audio/train/9476358365622245734.wav	Lẹ́YìN ọDúN Mẹ́RIN Wọ́N FàṣE Sí ẹ̀Tọ́ Náà ó Jẹ́ ẹ̀Tọ́ àKọ́Kọ́ Tí Wọ́N MA Fàṣę Sí NíNú ẹ̀Kọ MRI
+fleurs_yor_000050	yo_ng/audio/train/3122692710875003039.wav	àLàYé Náà Wá FìDí àBá Náà MúLẹ̀ Pé àWọN èNìYàN MAORI KúRò LáTI POLYNESIA Pẹ̀Lú ọKọ̀ Tó DáRA Wọ́N Sì Lọ Sí NEW ZEALAND LáTI MAORI Tí Wọ́N Sì Dá ẹGBẹ́ ǹKAN ọ̀GBìN SíLẹ̀
+fleurs_yor_000051	yo_ng/audio/train/10675234541617853297.wav	Bí àSìKò Yìí ṣE Rí NìYẹN KIRBY MUXLOE CASTLE Jọ ILé Tí Wọ́N Tò DáADáA JU ILé ìṣọ́ L
+fleurs_yor_000052	yo_ng/audio/train/8482623615065881193.wav	àGBéKALẹ̀ ìBáRAẹNISọ̀Rọ̀ Pè Fú Kí àWọN ẹKA àKàNṣE Iṣẹ́ Lọ́Pọ̀ Mọ́RA WọN SùGBọ́N ó TúN Mọ́PọLọ Lọ́Wọ́ Bí Wọ́N Bá Wà Lẹ́YọKọ̀ọ̀KAN
+fleurs_yor_000053	yo_ng/audio/train/9470259911908855113.wav	ó KọJá èYAN MILIONU Mẹ́RIN Tó LọSí ROMU FúN ìSìNKú Náà
+fleurs_yor_000054	yo_ng/audio/train/17640908403679443200.wav	àṣìṣE Tí O WáYé ṣE àFIKúN àTI ìYíPADà Sí ìMọ̀ ORíRùN NíGBàTí ìYàSọ́Tọ̀ Sì Yọ ọ́ KúRò NíNú AGBAMI ìYíPADà
+fleurs_yor_000055	yo_ng/audio/train/15192088044072677332.wav	àWọN ẹ̀Mí Tó LòDì Sí FIN LE NI AWON IDOOTI TI O MA N FA IJAMBA PUPO NINU DIE NINU WON NI METHANOL èYí Tí ò LE FA OJú FíFọ́ Díẹ Díẹ̀
+fleurs_yor_000056	yo_ng/audio/train/10756540997777393022.wav	TọKọ Tí ìYàWó TI ṣE ìYàWó Ní TEGSAASI ọDúN KAN Sẹ́YìN Wọ́N Wá LáTI Bá àWọN ọ̀Rẹ́ àTI Mọ̀Lẹ́Bí WON Yọ
+fleurs_yor_000057	yo_ng/audio/train/5018941169051669919.wav	àWọN OMI Tí Kò DáRA Tí ATẹ́GùN àTI ìJì TI GBé Lọ SíNU AFẹ́Fẹ́ Lè ṣE ìPALáRA FéNìYàN Tí ó Bá Fà á SíMú
+fleurs_yor_000058	yo_ng/audio/train/4601101498032683195.wav	GLACIER Kì í DúRó Sí OJú KAN NíṣE Ló MáA ń SàN LáTI ORí òKè. èYí Yóò FA SíSáN YíYA Tí ó LE è FA Kí AFáRá YìNYíN BOLẹ̀
+fleurs_yor_000059	yo_ng/audio/train/15348722312844801842.wav	Wọ́N BI Ní ìPíNLẹ̀ CROATIAN ZAGREB BOBEK Jẹ́ ìLúMọ̀ọ́Lá NíGBàTí ò ń GBá Bọ́ọ̀Lù FúN PARTIZAN BELGRADE
+fleurs_yor_000060	yo_ng/audio/train/7705293313578653715.wav	GóMíNà MASSACHUSETTS Ní ìGBà KAN Rí MITT ROMNEY GBé IGBá ORóKè NíNú èTò ìDìBò ẹGBẹ REPUBLICAN TI ILẹ̀ FLORIDA LáTI DíJE FúN IPò ààRẹ Ní ọJọ́ ìṣẹ́GUN Pẹ̀Lú ìWọN ìDá Mẹ́RìNDíNLáàDọ́TA ìBO
+fleurs_yor_000061	yo_ng/audio/train/10252853421710066251.wav	èTò ìJíRòRò àGBáYé TàWọN Tó Ní NǹKAN SE Pẹ̀Lú ọ̀GBìN òDòDó Jẹ́ èYí Tó Má ń SE àFIHàN àWọN ORíSìíRíSìí NǹKAN MìíRàN Tó Níí SE Pẹ̀Lú OHUN ọ̀GBìN
+fleurs_yor_000062	yo_ng/audio/train/5780541485141103536.wav	Kò Sí àLéKúN OWó ìRìNNà àWọN ọKọ̀ OJú IRIN ABẹ́ ILẹ̀ Kò Ní DúRó Ní WEMBLEY àWọN IBI ìGBọ́Kọ̀Sí Kò Sí NíLẹ̀ LáBẹ́ ILẹ̀
+fleurs_yor_000063	yo_ng/audio/train/691364609536596107.wav	HERSHEY àTI CHASE LOKòKòRò TàBI àTIRú KòKòRò MíRàN LáTI FI ìDí DNA WọN MúLẹ̀̀ SíNU BACTERIUM
+fleurs_yor_000064	yo_ng/audio/train/5859548168433373152.wav	ṣùGBọ́N ṣé ìWOṣàKUN WA Dá LóRí ìṣẹ̀Lẹ̀ OJú AYé BI? Kí Ló Dé Tí Wọ́N ń Kọ ILé ìṣọ́ GAN AN? BáWO NI Wọ́N ṣE Yà Wọ́N Tí Wọ́ Sì Kọ́ WọN?
+fleurs_yor_000065	yo_ng/audio/train/8030449834992609086.wav	CHARLES Ní ẹBí ọBA ìLú òYìNBó àKọ́Kọ́ Tí Yóò GBA ìDáLọ́Lá ìWé èRí DèGíRì
+fleurs_yor_000066	yo_ng/audio/train/9409602437203069482.wav	EGBE AGBABOOLU ILU ITILI PELU TI JAMANI NI EGBE AGBABOOLU KEJI TO SE ASEYORI JU LAYE AWON DE LO GBE IGBA OROKE NI ERE IDIJE FIFA KOOPU AGBAYE NI 2006
+fleurs_yor_000067	yo_ng/audio/train/529599577642651540.wav	ó Má ń DáRA LáTI LO ASOJú Tó Má ń GBA ààYè ìRìN àJò Tó FARA Pẹ́ TìRẹ
+fleurs_yor_000068	yo_ng/audio/train/512984027575597458.wav	Ní GBOGBOGBò WíWà Ní ILẹ̀ òKèRè TóWù Kó Jẹ́ TAYọ àKóKò Tí ó Yẹ Yíò NíLò Kí èNìYàN TI GBA ìWé ìRìNNà SíLẹ̀
+fleurs_yor_000069	yo_ng/audio/train/8849052851556706488.wav	ẹNI Tí ó WọN 200 POUNDS 90KG Ní AYé MA WọN 36 POUNDS 16KG. NíTORíNà AGBáRA YẹN MA Fà ọ́
+fleurs_yor_000070	yo_ng/audio/train/3396507025793868084.wav	LóòóTọ́ àWọN ETí òKUN ARCHIPELAGOS àTI OMI ADáGúN Tó TóBI JùLọ TóBI LóòóTọ́ FúN ọKọ̀ ìGBAFẹ́ OJú OMI àWọN ọKọ̀ OJú OMI KééKèKé TàBí Pé ó ń PèSè ìRíRí ọ̀Tọ̀
+fleurs_yor_000071	yo_ng/audio/train/3358167478115988493.wav	WON GBAGBO PE EYE APAJE YI TO NI IYE NIGBOGBO ARA TO SI JE ALARA GBIGBONA MA N RI LORI ESE MEJEJE PELU EEKANA BII TI FELOSIRAPITO
+fleurs_yor_000072	yo_ng/audio/train/15999003321190082345.wav	FúN ìDí èYí,Wọ́N TI SE àGBéGA ìBANILóRúKọJẹ́ ńLá Tó WáYé LáàRIN ìLú GREEK LáTARA ìLàLóJú SáWọN ìWà Tí Kò BóFIN MUN TáWọN ADáJọ́ AGBẹ́Jọ́Rò ALáGBàWí àTàWọN AMòFIN TI Hù LáWọN ọDúN Tó TI KọJá Sẹ́YìN
+fleurs_yor_000073	yo_ng/audio/train/742154812223736670.wav	PUPọ NINU AWọN TI BIBE ILU Wọ TI MO LARA NI IRIN AJO SI AWọN ILU TO SI N DAGBASOKE TI YALẹNU TORI ọPọLọPọ ISUNKI TORI AṣA LE MA A ṣẹLẹ LERA
+fleurs_yor_000074	yo_ng/audio/train/9765372174768870451.wav	Wọ́N SE àYẹ̀Wò MéJì Tó SàFIHàN BóYá DNA Tó Wà NíNú KòKòRò Pẹ̀Lú RADIOACTIVE PHOSPHORUS TàBí AMáRADàGBà INú KòKòRò ARA Pẹ̀Lú RADIOACTIVE SULFUR

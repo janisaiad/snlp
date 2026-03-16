@@ -1,0 +1,143 @@
+cv_ron_000000 common_voice_ro_26251799.mp3 Ne aşteaptă o muncă foarte importantă anul viitor.
+cv_ron_000001 common_voice_ro_20821552.mp3 Cred că pentru noi este o poziţie onorabilă.
+cv_ron_000002 common_voice_ro_23862620.mp3 Cât suntem dispuşi să punem pe masă?
+cv_ron_000003 common_voice_ro_27636338.mp3 Schimbul de bune practici este deosebit de important.
+cv_ron_000004 common_voice_ro_30768893.mp3 Acum, din cauza acestei directive, au pierdut totul.
+cv_ron_000005 common_voice_ro_33933446.mp3 Este vorba exclusiv de un europenism exagerat.
+cv_ron_000006 common_voice_ro_29756357.mp3 Acest fapt va fi facilitat de directivă.
+cv_ron_000007 common_voice_ro_28752465.mp3 Iti promit ca nu-i voi spune.
+cv_ron_000008 common_voice_ro_26248508.mp3 Două minute şi jumătate, dnă preşedintă.
+cv_ron_000009 common_voice_ro_29410280.mp3 Iti multumesc mult.
+cv_ron_000010 common_voice_ro_26248154.mp3 Vă mulțumesc pentru răspunsul dvs., dnă comisar.
+cv_ron_000011 common_voice_ro_27950152.mp3 Să luăm exemplul cercetării și infrastructurii.
+cv_ron_000012 common_voice_ro_31364281.mp3 Sprijinirea celor bogați în detrimentul celor săraci.
+cv_ron_000013 common_voice_ro_26250097.mp3 Poate că nu europeană, doar maghiară?
+cv_ron_000014 common_voice_ro_33048083.mp3 Pentru moment, nu avem informaţii de această calitate.
+cv_ron_000015 common_voice_ro_26244000.mp3 Totuşi, ce aveţi de fapt de spus?
+cv_ron_000016 common_voice_ro_27848329.mp3 Iată ceea ce am încercat să facem.
+cv_ron_000017 common_voice_ro_30420998.mp3 Raportul este clar, concis şi la obiect.
+cv_ron_000018 common_voice_ro_26243774.mp3 Trebuie să protejăm sănătatea cetăţenilor noştri.
+cv_ron_000019 common_voice_ro_25216227.mp3 Acest lucru este criticabil şi inacceptabil.
+cv_ron_000020 common_voice_ro_26233630.mp3 Ieri am dezbătut acest nou instrument.
+cv_ron_000021 common_voice_ro_26247777.mp3 Cartea albă este doar o pierdere de timp.
+cv_ron_000022 common_voice_ro_26247843.mp3 Niciuna dintre aceste opinii nu este corectă.
+cv_ron_000023 common_voice_ro_31940680.mp3 Iar responsabilitatea umană este foarte importantă.
+cv_ron_000024 common_voice_ro_31940681.mp3 Aceste probleme sunt de o importanţă majoră.
+cv_ron_000025 common_voice_ro_34853372.mp3 Solicităm eliberarea sa imediată şi necondiţionată.
+cv_ron_000026 common_voice_ro_34908171.mp3 Aţi afirmat că le veţi realiza.
+cv_ron_000027 common_voice_ro_27603607.mp3 Unul care până în ultima clipă a vieții sale a fost altruist.
+cv_ron_000028 common_voice_ro_27603644.mp3 Cu siguranţă, este un rezultat pozitiv.
+cv_ron_000029 common_voice_ro_26229431.mp3 Aici vorbim despre cooperarea forţelor de securitate.
+cv_ron_000030 common_voice_ro_26229432.mp3 Cred că acest răspuns vă va aduce sprijin.
+cv_ron_000031 common_voice_ro_26231300.mp3 Dumneavoastră vi l-aţi luat, şi eu, de asemenea.
+cv_ron_000032 common_voice_ro_26231356.mp3 Cât va da fiecare stat dezvoltat?
+cv_ron_000033 common_voice_ro_26260896.mp3 Mi-ar fi plăcut să lucrez în domeniul arhitecturii, însă nu am reușit.
+cv_ron_000034 common_voice_ro_26261009.mp3 Până atunci mi-e teamă că trebuie să așteptăm.
+cv_ron_000035 common_voice_ro_26260384.mp3 Nu suntem de acord cu această idee.
+cv_ron_000036 common_voice_ro_26260465.mp3 Astfel, statutul său juridic a fost practic evaluat.
+cv_ron_000037 common_voice_ro_25343017.mp3 Traseul de urmat este unul lung şi dificil.
+cv_ron_000038 common_voice_ro_25343018.mp3 Ceea ce se întâmplă acum este supărător.
+cv_ron_000039 common_voice_ro_26242696.mp3 Am efectuat o evaluare a impactului.
+cv_ron_000040 common_voice_ro_26242880.mp3 De aceea, am votat în favoarea raportului.
+cv_ron_000041 common_voice_ro_26019710.mp3 Noile vremuri au, însă, nevoie de noi răspunsuri.
+cv_ron_000042 common_voice_ro_26019743.mp3 Aştept cu nerăbdare să ne continuăm colaborarea.
+cv_ron_000043 common_voice_ro_22251104.mp3 Toți au un rol de jucat.
+cv_ron_000044 common_voice_ro_22251105.mp3 Chiar şi aşa, incendiile continuă să apară.
+cv_ron_000045 common_voice_ro_27516406.mp3 Prin urmare, solicit o schimbare de strategie.
+cv_ron_000046 common_voice_ro_27516456.mp3 Ce vreți să spuneți prin acest lucru?
+cv_ron_000047 common_voice_ro_27516465.mp3 Aceasta este o discuție în curs.
+cv_ron_000048 common_voice_ro_26257057.mp3 Acestea sunt ţelurile spre care am tins.
+cv_ron_000049 common_voice_ro_26257058.mp3 Nu s-a dat atenţie acestui fapt.
+cv_ron_000050 common_voice_ro_26257153.mp3 Mediul din această zonă este extrem de important.
+cv_ron_000051 common_voice_ro_26145877.mp3 Cea de-a doua problemă o reprezintă costurile.
+cv_ron_000052 common_voice_ro_26407361.mp3 Acesta este un lucru foarte bun.
+cv_ron_000053 common_voice_ro_26407381.mp3 Consiliul guvernatorilor este cel care contează.
+cv_ron_000054 common_voice_ro_26267208.mp3 Rolul esenţial al acestui fond este clar.
+cv_ron_000055 common_voice_ro_26267276.mp3 Nu dorim să se întâmple acest lucru.
+cv_ron_000056 common_voice_ro_26267308.mp3 Sper că se va profita de această oportunitate.
+cv_ron_000057 common_voice_ro_23722771.mp3 Totuși, rămâne o propunere foarte precaută.
+cv_ron_000058 common_voice_ro_23722773.mp3 Ce măsuri s-au luat deja în acest domeniu?
+cv_ron_000059 common_voice_ro_23722774.mp3 Comisia nu s-a implicat în selecţia priorităţilor.
+cv_ron_000060 common_voice_ro_26232252.mp3 Nu îmi pot asuma această responsabilitate.
+cv_ron_000061 common_voice_ro_26232439.mp3 Prin urmare ele vor deveni nerezonabil de mari.
+cv_ron_000062 common_voice_ro_26232501.mp3 Dar viața naște viață.
+cv_ron_000063 common_voice_ro_22539493.mp3 Sprijinul dvs. a fost apreciat foarte mult.
+cv_ron_000064 common_voice_ro_22539512.mp3 Aceste comisioane nu ar trebui desfiinţate.
+cv_ron_000065 common_voice_ro_22539526.mp3 Nici nu avem vreo definiţie clară.
+cv_ron_000066 common_voice_ro_26279383.mp3 Ar însemna un precedent foarte periculos.
+cv_ron_000067 common_voice_ro_26279394.mp3 Primesc cu încântare rezultatul acestei rezoluţii.
+cv_ron_000068 common_voice_ro_26279911.mp3 Totuși, am inclus și un număr de recomandări.
+cv_ron_000069 common_voice_ro_25460522.mp3 Coordonarea trebuie să existe la nivel internaţional.
+cv_ron_000070 common_voice_ro_25460524.mp3 Vă prezentăm informații la zi.
+cv_ron_000071 common_voice_ro_25460526.mp3 Situaţia este gravă, după cum ştiţi.
+cv_ron_000072 common_voice_ro_26266890.mp3 Planeta ne transmite un semnal de alarmă.
+cv_ron_000073 common_voice_ro_26267021.mp3 Pe de o parte, suntem îngrijoraţi.
+cv_ron_000074 common_voice_ro_26267269.mp3 Iubirea ar putea face din mine totul, chiar şi un geniu.
+cv_ron_000075 common_voice_ro_23916877.mp3 De ce trebuie făcut acest lucru?
+cv_ron_000076 common_voice_ro_23916879.mp3 Acest lucru este doar parţial adevărat.
+cv_ron_000077 common_voice_ro_23916880.mp3 Suntem de acord cu aceste rezultate.
+cv_ron_000078 common_voice_ro_23916881.mp3 Să fii responsabil înseamnă să îți continui drumul.
+cv_ron_000079 common_voice_ro_25474315.mp3 N-are nicio legătură unul cu altul.
+cv_ron_000080 common_voice_ro_25474316.mp3 Parlamentul se confruntă cu o sarcină majoră.
+cv_ron_000081 common_voice_ro_25474317.mp3 Acest ajutor poate îmbrăca mai multe forme.
+cv_ron_000082 common_voice_ro_25474319.mp3 Consider că aceste măsuri sunt absolut necesare.
+cv_ron_000083 common_voice_ro_21033435.mp3 O să vă dau doar două motive.
+cv_ron_000084 common_voice_ro_21033436.mp3 Conducătorul cel bun e cel care nu se vede.
+cv_ron_000085 common_voice_ro_21033437.mp3 Desigur, până acum nimic nu este nou.
+cv_ron_000086 common_voice_ro_21033438.mp3 Am văzut și meciurile Stelei în Liga Campionilor.
+cv_ron_000087 common_voice_ro_24759960.mp3 Dar nu este vorba despre numere.
+cv_ron_000088 common_voice_ro_24759961.mp3 Există multe motive în acest sens.
+cv_ron_000089 common_voice_ro_24759963.mp3 Propun așadar să respectăm și noi drepturile femeilor.
+cv_ron_000090 common_voice_ro_24759964.mp3 Problema nu va dispărea în viitorul apropiat.
+cv_ron_000091 common_voice_ro_22261161.mp3 Trebuie realizate mai multe în acest domeniu.
+cv_ron_000092 common_voice_ro_22261163.mp3 Să lucrăm împreună în acest sens.
+cv_ron_000093 common_voice_ro_22261164.mp3 Trebuie să luptăm pentru această linie progresistă.
+cv_ron_000094 common_voice_ro_22261166.mp3 Ce mai aşteptăm pentru a-l aplica?
+cv_ron_000095 common_voice_ro_29051884.mp3 Iti voi aduce calul.
+cv_ron_000096 common_voice_ro_29052079.mp3 Vom permite toate acestea fără să spunem nimic?
+cv_ron_000097 common_voice_ro_29082395.mp3 Iubirea pe care eu si tu am impartasit-o in acea noapte.
+cv_ron_000098 common_voice_ro_29082440.mp3 Acesta mi se pare un progres.
+cv_ron_000099 common_voice_ro_31012425.mp3 Raportul este comprehensibil, concis și la obiect.
+cv_ron_000100 common_voice_ro_31012681.mp3 Să sperăm că acest lucru va fi adevărat.
+cv_ron_000101 common_voice_ro_31012815.mp3 Prezintă un punct de plecare excelent.
+cv_ron_000102 common_voice_ro_31012819.mp3 Este, deci, o problemă foarte gravă.
+cv_ron_000103 common_voice_ro_25140648.mp3 Nu era obligatoriu să facă asta.
+cv_ron_000104 common_voice_ro_25140649.mp3 Nu l-am putea accepta în aceste circumstanţe.
+cv_ron_000105 common_voice_ro_25140651.mp3 Trebuie să existe un echilibru perfect.
+cv_ron_000106 common_voice_ro_25140652.mp3 Dle președinte, voi fi foarte succint.
+cv_ron_000107 common_voice_ro_21961988.mp3 Totuși, alte aspecte m-au determinat să mă abțin.
+cv_ron_000108 common_voice_ro_21961989.mp3 Au dreptul să facă acest lucru?
+cv_ron_000109 common_voice_ro_21961990.mp3 E un om deosebit.
+cv_ron_000110 common_voice_ro_21961992.mp3 Sunt de acord cu principiul acestui motto.
+cv_ron_000111 common_voice_ro_27057649.mp3 Domnule preşedinte, a venit momentul să vorbim clar.
+cv_ron_000112 common_voice_ro_27057735.mp3 Nu suntem foarte siguri ce înseamnă acest lucru.
+cv_ron_000113 common_voice_ro_27058448.mp3 După părerea mea, acest lucru este evident.
+cv_ron_000114 common_voice_ro_27089487.mp3 Cred că am respectat aceste reguli cu scrupulozitate.
+cv_ron_000115 common_voice_ro_24540533.mp3 Parlamentul urma să îşi exprime opinia astăzi.
+cv_ron_000116 common_voice_ro_24540534.mp3 Croaţia este şi ţara lor natală.
+cv_ron_000117 common_voice_ro_24540535.mp3 Partea dificilă este că nu dispunem de fonduri.
+cv_ron_000118 common_voice_ro_24540536.mp3 Este şi momentul să schiţăm drumul în viitor.
+cv_ron_000119 common_voice_ro_31830547.mp3 Cert este că nu există voinţă politică.
+cv_ron_000120 common_voice_ro_31830548.mp3 Dar acum nu vorbim doar despre sărăcie.
+cv_ron_000121 common_voice_ro_31830567.mp3 Această situaţie este aproape fără precedent.
+cv_ron_000122 common_voice_ro_31830570.mp3 Mi se spune că toți suspecții sunt monitorizați.
+cv_ron_000123 common_voice_ro_25109301.mp3 Nu a trecut decât o săptămână.
+cv_ron_000124 common_voice_ro_25109302.mp3 Acest lucru este evident și ușor de recunoscut.
+cv_ron_000125 common_voice_ro_25109303.mp3 Acestea sunt motivele pentru care am votat împotrivă.
+cv_ron_000126 common_voice_ro_25109304.mp3 Vom reuși să facem acest lucru sau nu?
+cv_ron_000127 common_voice_ro_30433710.mp3 Ce mai aşteptăm pentru a-l aplica?
+cv_ron_000128 common_voice_ro_30433873.mp3 Iti multumesc si tie.
+cv_ron_000129 common_voice_ro_30433875.mp3 Dle comisar, este o direcţie total greşită.
+cv_ron_000130 common_voice_ro_30433909.mp3 Substanțele electrice ba sunt, ba nu sunt periculoase.
+cv_ron_000131 common_voice_ro_23818771.mp3 Toate acestea sunt elemente foarte importante.
+cv_ron_000132 common_voice_ro_23818773.mp3 Facem un pas înainte și doi înapoi.
+cv_ron_000133 common_voice_ro_23818776.mp3 Suntem pregătiţi pentru a face acest lucru.
+cv_ron_000134 common_voice_ro_23818778.mp3 Am făcut un efort mare de compromis.
+cv_ron_000135 common_voice_ro_25857932.mp3 Nu aţi luat în considerare rapoartele partenerilor.
+cv_ron_000136 common_voice_ro_25857933.mp3 Va ajuta comerțul online și transfrontalier.
+cv_ron_000137 common_voice_ro_25857936.mp3 Totuși, termenul este folosit prea restrictiv.
+cv_ron_000138 common_voice_ro_25857937.mp3 Mai sunt foarte multe de făcut.
+cv_ron_000139 common_voice_ro_20964750.mp3 Când oare am decis să facem acest lucru?
+cv_ron_000140 common_voice_ro_20964751.mp3 Voi reveni imediat la acest aspect.
+cv_ron_000141 common_voice_ro_20964752.mp3 Regret că acest lucru nu a fost posibil.
+cv_ron_000142 common_voice_ro_20964753.mp3 Nu a avut loc nicio negociere.

@@ -1,0 +1,117 @@
+cv_kin_000767 common_voice_rw_22461505.mp3 Inshuti zanjye zose
+cv_kin_000768 common_voice_rw_22461506.mp3 yavuze ko urwo rukiko ari urwa politiki
+cv_kin_000769 common_voice_rw_22461507.mp3 ibyo nitubigeraho
+cv_kin_000770 common_voice_rw_22461509.mp3 Kenya yabaye iya mbere
+cv_kin_000771 common_voice_rw_22461599.mp3 Hari nko kuvuga ngo yitwa Murundi
+cv_kin_000772 common_voice_rw_22461616.mp3 Icyo kibazo cyagiye kivugwa cyane
+cv_kin_000773 common_voice_rw_22461646.mp3 arinda iminkanyari
+cv_kin_000774 common_voice_rw_22461648.mp3 narabyirengagije nkomeza amasomo
+cv_kin_000775 common_voice_rw_22461861.mp3 aho gutegeza rubanda ikimero cyabo
+cv_kin_000776 common_voice_rw_22461862.mp3 iyo ushaka kugira ngo ukore project (umushinga) nini
+cv_kin_000777 common_voice_rw_22461864.mp3 Iyo mpanuka y’inkongi nta muntu yahitanye
+cv_kin_000778 common_voice_rw_22461865.mp3 zihabwa amafaranga aho guhabwa ibyo kurya
+cv_kin_000779 common_voice_rw_22461902.mp3 kurya
+cv_kin_000780 common_voice_rw_22461903.mp3 Andrew Krammer n’abandi batandukanye
+cv_kin_000781 common_voice_rw_21703865.mp3 Iyi ndirimbo nshaka kuzashyira hanze yararangiye igisigaye ni ukuyishyira hanze gusa.
+cv_kin_000782 common_voice_rw_21704907.mp3 Lazaros Christodoulopoulos, umukinnyi w’umupira w’amaguru w’umugereki nibwo yavutse.
+cv_kin_000783 common_voice_rw_21704908.mp3 Nta gice cy'umubiri wanjye cyagiriwe impuhwe.
+cv_kin_000784 common_voice_rw_21704914.mp3 Isukari ya Kabuye ntihabwa buri wese ugiye kuyirangura.
+cv_kin_000785 common_voice_rw_21705628.mp3 Uyu muhanzi akunda kwiyambika ubusa hejuru kandi abayisilamu bo ntibabikunda.
+cv_kin_000786 common_voice_rw_21705629.mp3 Marburg ni icyorezo gikomeye kiri mu bwoko bumwe n’ubwa Ebola.
+cv_kin_000787 common_voice_rw_21705630.mp3 Ahubwo icyo nkwizeza gusa nuko ibivugwa bitazaba, kandi n’ababikoze bazamenyekana mukabibona.
+cv_kin_000788 common_voice_rw_21705631.mp3 Nyuma yo kumenya ko byagaragaye ko mu Rwanda iyi ndwara yafashe indi ntera, Inyarwanda.
+cv_kin_000789 common_voice_rw_21705632.mp3 Wishaka ko mutera akabariro itara rijimije:.
+cv_kin_000790 common_voice_rw_21705638.mp3 n’inyungu ku mwaka ya miliyari.
+cv_kin_000791 common_voice_rw_21705639.mp3 Nyina wa Meddy ari mu baje kumwakira i Kanombe
+cv_kin_000792 common_voice_rw_21705640.mp3 Nsoro ati "Ayo ni amahirwe, nibongere!".
+cv_kin_000793 common_voice_rw_21705641.mp3 Nyuma nashoboye kujyana na Cikuru ajya kumpa attestation yanjye aliko agenda antuka ngo “naramureze”.
+cv_kin_000794 common_voice_rw_21705766.mp3 French Montana waririmbanye na Sitya Loss Kids abana bo muri Uganda.
+cv_kin_000795 common_voice_rw_18689876.mp3 aya masaha si meaza ku myigire.
+cv_kin_000796 common_voice_rw_18689885.mp3 nk’uko Iyakaremye Marcela wo mu Kagali ka Nyarugano yabitangaje.
+cv_kin_000797 common_voice_rw_18689888.mp3 cyangwa ruciriritse, gushyashyana cyangwa
+cv_kin_000798 common_voice_rw_18689889.mp3 Kwihesha agaciro bituma abandi bakubaha.
+cv_kin_000799 common_voice_rw_18689890.mp3 ‘mube muretse gato’. Nta kindi cyari gukorwa kuko kwari kwatangiye
+cv_kin_000800 common_voice_rw_18690749.mp3 Twese tubyuka tujya gushakisha
+cv_kin_000801 common_voice_rw_18690750.mp3 Nzi ibyiza byo kwitwararika
+cv_kin_000802 common_voice_rw_18690751.mp3 gahunda dufite y’Itorero rihuza urubyiruko rw’abanyeshuri b’Abanyarwanda
+cv_kin_000803 common_voice_rw_18690752.mp3 Twahisemo gushyira ingufu mu kwiyubaka no
+cv_kin_000804 common_voice_rw_18690753.mp3 atatu barimo gukurikira amasomo ya sipiyeyi.
+cv_kin_000805 common_voice_rw_18690846.mp3 Rwanda. Ni ibihe bihamya mubifitiye?
+cv_kin_000806 common_voice_rw_18690847.mp3 Ntago nzajyayo nabihinduye.
+cv_kin_000807 common_voice_rw_18690848.mp3 Umukene yicara avugango azabaho gute.
+cv_kin_000808 common_voice_rw_18690850.mp3 Ducuruza ibigori byumye
+cv_kin_000809 common_voice_rw_23949256.mp3 umunani
+cv_kin_000810 common_voice_rw_23949257.mp3 rimwe
+cv_kin_000811 common_voice_rw_23949258.mp3 gatatu
+cv_kin_000812 common_voice_rw_23949259.mp3 kane
+cv_kin_000813 common_voice_rw_23949260.mp3 karindwi
+cv_kin_000814 common_voice_rw_23949261.mp3 gatanu
+cv_kin_000815 common_voice_rw_23949262.mp3 kabiri
+cv_kin_000816 common_voice_rw_23949263.mp3 yego
+cv_kin_000817 common_voice_rw_23949264.mp3 gatandatu
+cv_kin_000818 common_voice_rw_23949265.mp3 icyenda
+cv_kin_000819 common_voice_rw_23949266.mp3 zeru
+cv_kin_000820 common_voice_rw_23949267.mp3 oya
+cv_kin_000821 common_voice_rw_23949268.mp3 Abantu bamwe batekereza ko perezida amara igihe kinini akora ingendo
+cv_kin_000822 common_voice_rw_23949269.mp3 intego yumwanzuro ni ugukusanya muri make ingingo zingenzi zanditse
+cv_kin_000823 common_voice_rw_23949270.mp3 ba scrub mu kibaya - ariko ube
+cv_kin_000824 common_voice_rw_22461485.mp3 Mouvement
+cv_kin_000825 common_voice_rw_22461486.mp3 amazina ye yiswe n’ababyeyi ni Albino Luciani
+cv_kin_000826 common_voice_rw_22461488.mp3 aramusohora
+cv_kin_000827 common_voice_rw_22461525.mp3 nyuma yo gukorwa bashingiye ku bibazo bibuza Abanyarwanda gufata amazi yose y’imvura
+cv_kin_000828 common_voice_rw_22461526.mp3 kugira ibibazo by’imikurire n’ibindi
+cv_kin_000829 common_voice_rw_22461527.mp3 …Umukobwa ugunda by’ukuri agukundira uko uri
+cv_kin_000830 common_voice_rw_22461594.mp3 Mbere yo guhaguruka yari yatangaje ko we na bagenzi be batiteguye gukoresha imbaraga nyinshi uyu munsi
+cv_kin_000831 common_voice_rw_22461595.mp3 Icyashobokaga cyonyine ni ukujya muri komini aho Papa yavukaga
+cv_kin_000832 common_voice_rw_22461596.mp3 inzoga n’ibindi
+cv_kin_000833 common_voice_rw_22461597.mp3 Icyo gihe yafashe icyemezo cyo kuva mu ishuri
+cv_kin_000834 common_voice_rw_22461598.mp3 imenya ibyifuzo by’abantu ndetse n’ibyo bibaza
+cv_kin_000835 common_voice_rw_22461666.mp3 rikaba rinafite inshingano zo kuzamura ubunyamwuga n’ubushobozi bw’abanyamakuru
+cv_kin_000836 common_voice_rw_22461846.mp3 Abakinnyi Rayon Sports yabanje mu kibuga
+cv_kin_000837 common_voice_rw_22461847.mp3 bijyanye na politiki y’ubufatanye dufitanye n’uyu mugabane
+cv_kin_000838 common_voice_rw_22461849.mp3 byose bifasha mu iterambere ry’igihugu
+cv_kin_000839 common_voice_rw_21025362.mp3 Leta yaduhaye amahirwe yo kwiga, twiteguye kwigira no guteza imbere igihugu cyacu.
+cv_kin_000840 common_voice_rw_21025363.mp3 Mu gahunda yitwa Tubarere Baratureze, uru rubyiruko rufasha abagizwe Incike na Jenoside yakorewe Abatutsi.
+cv_kin_000841 common_voice_rw_21025364.mp3 Junior yakoze ubukwe bwatashywe n’abantu basanzwe bari muri uyu mwuga wo gusobanura filimi.
+cv_kin_000842 common_voice_rw_21025365.mp3 Yagize ati “Uru ruzinduko rurazamura umubano wacu, by’umwihariko mu bucuruzi n’ishoramari.
+cv_kin_000843 common_voice_rw_21025517.mp3 N’ubwo atabashije kwegukana ikamba ariko yubahirije amategeko y’irushanwa.
+cv_kin_000844 common_voice_rw_21025519.mp3 ku ndirimbo ‘ Urugendo’, ‘Urukundo’, ‘Mukobwa ingendo yawe’, “Amasozi y’urukundo’
+cv_kin_000845 common_voice_rw_21025524.mp3 Ati “Hari abapadiri bashatse kunyitwaraho cyane cyane abakuze ariko ngerageza kubasobanurira.
+cv_kin_000846 common_voice_rw_21026117.mp3 Amasaha yo kwiga yoroheye buri wese.
+cv_kin_000847 common_voice_rw_21026123.mp3 Al Khelaifi yongeye ati: "Neymar yaje ngaha ku gukunda umugambi turimwo kandi yemera.
+cv_kin_000848 common_voice_rw_21026611.mp3 Jyewe nkunda ukuri cyane ukuvugu wese nzamugwa inyuma.
+cv_kin_000849 common_voice_rw_21026612.mp3 Yagize ati “ u Burundi ntacyo buri gukora ngo bugarure umutekano n’amahoro”.
+cv_kin_000850 common_voice_rw_21026613.mp3 Lady Gaga nyuma yo kwakira ibihembo bye, imyambarire ye ntiba isanzwe mu birori!.
+cv_kin_000851 common_voice_rw_21027094.mp3 Ati “ Abanyarwanda nanjye twifatanyije n’igihugu cyanyu.
+cv_kin_000852 common_voice_rw_21027097.mp3 Rwamukwaya avuga ko hari ubundi buryo umwarimu yahana umunyeshuri adakoresheje inkoni.
+cv_kin_000853 common_voice_rw_21027848.mp3 Ibyayivuyemo byerekanye ko bashaka ko iyo ntara yigenga.
+cv_kin_000854 common_voice_rw_20914244.mp3 Abandi babyina we yari yiryamiye mu kibuga rwagati :.
+cv_kin_000855 common_voice_rw_20914245.mp3 Itangazo rituruka mu muryango wa Nyakwigendera riragira riti:
+cv_kin_000856 common_voice_rw_20914249.mp3 Nigeria iri mu bihugu bikunze kwibasirwa n’ubujura bwifashishije ikoranabuhanga muri Afurika.
+cv_kin_000857 common_voice_rw_20914432.mp3 Hari abagera mu Nteko ukabonako bireba ku giti cyabo.
+cv_kin_000858 common_voice_rw_20914433.mp3 Ejo bundi Minisitiri yaraje ati imvugo niyo ngiro!”
+cv_kin_000859 common_voice_rw_20914436.mp3 y’abantu uko amajwi akoreshwa hirya no
+cv_kin_000860 common_voice_rw_20914787.mp3 Iyo dushaka ibijumba turambuka tukajya kubicamo incuro hariya hakurya mu Karere ka Nyaruguru.
+cv_kin_000861 common_voice_rw_20914788.mp3 Ubu tuvugana buri wese afite ubwoba.
+cv_kin_000862 common_voice_rw_20914981.mp3 Umugabo yaraye adasinziriye kubera gutekereza wa mukobwa.
+cv_kin_000863 common_voice_rw_20914986.mp3 Yanyise iryo zina avuga ko navuye mu bitangaza.
+cv_kin_000864 common_voice_rw_20915102.mp3 Ni umushoferi wari uri guteza kashe ngo yambuke ajyane ibyo yari atwaye.
+cv_kin_000865 common_voice_rw_20915115.mp3 Bidatinze, Diamond yahise akundana na Zari babyarana abana babiri gusa baje gutandukana.
+cv_kin_000866 common_voice_rw_20915293.mp3 Kugira isereri bishamikira ku zindi ndwara
+cv_kin_000867 common_voice_rw_20915298.mp3 Umunyamakuru Patrick Kanyamibwa nawe yari muri uyu muhango.
+cv_kin_000868 common_voice_rw_20915421.mp3 Abitabiriye inama biyemeje gukora cyane ngo abakwepa imisoro nabo basoreshwe.
+cv_kin_000869 common_voice_rw_19834252.mp3 Abwira umugabo we ko batazabana kereka abanje kwica uwo mwana.
+cv_kin_000870 common_voice_rw_19834458.mp3 Umuvugizi wa Minisiteri y’Ubuzima, yavuze
+cv_kin_000871 common_voice_rw_19834564.mp3 Bimwe mu bimenyetso umuntu uyirwaye agaragaza harimo guta.
+cv_kin_000872 common_voice_rw_19834610.mp3 Mfitanye gahunda na mukuru wanjye saa munani z’amanywa.
+cv_kin_000873 common_voice_rw_19834760.mp3 ugusanga abakiriya mu ngo zabo aho
+cv_kin_000874 common_voice_rw_19834855.mp3 Undi ati: mba nkuroga! Bizirakwezi ati : nta mwana ugira?
+cv_kin_000875 common_voice_rw_19835032.mp3 Kinatanga abakozi bashinzwe isuku
+cv_kin_000876 common_voice_rw_19835075.mp3 Twagize ikibazo gikomeye
+cv_kin_000877 common_voice_rw_19835131.mp3 tirananiwe nibareke dutahe.
+cv_kin_000878 common_voice_rw_19835269.mp3 kwirengagiza ingufu za Kiliziya Gatolika, kuko kuyisuzugura.
+cv_kin_000879 common_voice_rw_19835277.mp3 Imibare y’abandura igenda izamuka
+cv_kin_000880 common_voice_rw_19835282.mp3 Mucyo akunda kwiga cyane.
+cv_kin_000881 common_voice_rw_19835305.mp3 Bamaze kumenyekana kubera sirivisi nziza
+cv_kin_000882 common_voice_rw_19835717.mp3 Nahoze nkunda kwiga.
+cv_kin_000883 common_voice_rw_19835726.mp3 managana cyenda na mirongo icyenda na kane.

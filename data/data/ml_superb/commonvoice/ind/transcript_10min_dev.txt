@@ -1,0 +1,156 @@
+cv_ind_000799 common_voice_id_22276816.mp3 sembilan
+cv_ind_000800 common_voice_id_22276817.mp3 dua
+cv_ind_000801 common_voice_id_22276819.mp3 iya
+cv_ind_000802 common_voice_id_22276821.mp3 lima
+cv_ind_000803 common_voice_id_22276823.mp3 enam
+cv_ind_000804 common_voice_id_22277013.mp3 empat
+cv_ind_000805 common_voice_id_22277015.mp3 delapan
+cv_ind_000806 common_voice_id_22277016.mp3 tiga
+cv_ind_000807 common_voice_id_22277018.mp3 tidak
+cv_ind_000808 common_voice_id_22277020.mp3 tujuh
+cv_ind_000809 common_voice_id_25209904.mp3 Jalan yang jauh dari dari sini hingga ke sekolah.
+cv_ind_000810 common_voice_id_25209960.mp3 Di atas meja ada kertas dan pensil.
+cv_ind_000811 common_voice_id_25209962.mp3 hari ini Aku mendapat pelajaran berharga
+cv_ind_000812 common_voice_id_25221442.mp3 Apakah Anda siap?
+cv_ind_000813 common_voice_id_25221468.mp3 Bill membawakan saya buku ini.
+cv_ind_000814 common_voice_id_25221495.mp3 Aku mengerti!
+cv_ind_000815 common_voice_id_25221497.mp3 Saya yakin saya akan dapat menemukannya.
+cv_ind_000816 common_voice_id_25221508.mp3 Tom meletakkan sendoknya.
+cv_ind_000817 common_voice_id_25221509.mp3 Kita tidak bisa pergi karena badai.
+cv_ind_000818 common_voice_id_25221522.mp3 Semestinya tidak ada koma pada kalimat ini.
+cv_ind_000819 common_voice_id_25221534.mp3 Pulau itu pernah diperintah Prancis.
+cv_ind_000820 common_voice_id_25221714.mp3 Perhatian!
+cv_ind_000821 common_voice_id_23554747.mp3 Kamu di mana?
+cv_ind_000822 common_voice_id_23554748.mp3 Pernah ke Amerika?
+cv_ind_000823 common_voice_id_23554749.mp3 Kamu membuat kesalahan dengan sengaja, kan?
+cv_ind_000824 common_voice_id_23554750.mp3 Aku bisa hidup tanpa air.
+cv_ind_000825 common_voice_id_23554801.mp3 Apakah kamu pernah mendaki Gunung Fuji?
+cv_ind_000826 common_voice_id_23554802.mp3 Apakah kamu siswa dari Jepang?
+cv_ind_000827 common_voice_id_23554804.mp3 Aku tidak bermaksud menyakitimu.
+cv_ind_000828 common_voice_id_23554805.mp3 Aku ingin menginap semalam.
+cv_ind_000829 common_voice_id_23554806.mp3 Apa yang kamu inginkan?
+cv_ind_000830 common_voice_id_23554807.mp3 Pernahkah kamu ke Amerika?
+cv_ind_000831 common_voice_id_23554808.mp3 Aku kelaparan!
+cv_ind_000832 common_voice_id_23554809.mp3 Kamu tidak harus datang besok.
+cv_ind_000833 common_voice_id_20857486.mp3 Mulai bulan Juli hawanya akan semakin panas.
+cv_ind_000834 common_voice_id_20857487.mp3 Anak laki-laki itu melompat.
+cv_ind_000835 common_voice_id_20857488.mp3 Saya memesan empat masakan di restoran.
+cv_ind_000836 common_voice_id_20857489.mp3 Kali ini, aku beserta keluargaku pergi berekreasi di pulau Belitung.
+cv_ind_000837 common_voice_id_20857490.mp3 Jendela sudah ditutup.
+cv_ind_000838 common_voice_id_20857496.mp3 Bagaimana jalannya kencanmu dengan Tom?
+cv_ind_000839 common_voice_id_20857497.mp3 Nama saya Hashimoto.
+cv_ind_000840 common_voice_id_20857498.mp3 Apakah saya boleh keluar.
+cv_ind_000841 common_voice_id_20857499.mp3 Kamu lebih memilih pergi ke kebun binatang atau bioskop?
+cv_ind_000842 common_voice_id_20857500.mp3 Saya tidak bisa pergi ke sekolah karena demam tinggi.
+cv_ind_000843 common_voice_id_20893328.mp3 Datanya sering tidak akurat.
+cv_ind_000844 common_voice_id_20893329.mp3 Saya keluar rumah pukul tujuh.
+cv_ind_000845 common_voice_id_25018409.mp3 Saya membatalkan pesanan hotelnya.
+cv_ind_000846 common_voice_id_25018410.mp3 Tom tidak pernah datang tepat waktu.
+cv_ind_000847 common_voice_id_25018415.mp3 Apakah kamu tahu kabuki?
+cv_ind_000848 common_voice_id_25018448.mp3 Pengelolaan perusahaan itu masih belum terstruktur.
+cv_ind_000849 common_voice_id_25018449.mp3 Kabar beritaku tak begitu penting bagi orang yang tidak ingin tahu.
+cv_ind_000850 common_voice_id_25018451.mp3 Apakah ini anak laki-lakimu, Betty?
+cv_ind_000851 common_voice_id_25018452.mp3 Saya punya anjing yang dapat berlari dengan cepat.
+cv_ind_000852 common_voice_id_25018464.mp3 Tidak ada orang yang cukup memperhatikan Tom.
+cv_ind_000853 common_voice_id_25018465.mp3 Data ini sama sekali tidak akurat.
+cv_ind_000854 common_voice_id_25018466.mp3 tolong rumahnya di kunci kalau keluar
+cv_ind_000855 common_voice_id_25018467.mp3 Jepang dikelilingi laut.
+cv_ind_000856 common_voice_id_25018468.mp3 Di dalam kulkas tidak ada apa pun.
+cv_ind_000857 common_voice_id_25263687.mp3 Pak guru mengkhawatirkan Tom yang sering tidak hadir.
+cv_ind_000858 common_voice_id_25263705.mp3 Bisakah kamu memberikan solusi lain?
+cv_ind_000859 common_voice_id_25263953.mp3 Dia berlari secepatnya.
+cv_ind_000860 common_voice_id_25263988.mp3 Saya suka makan rendang
+cv_ind_000861 common_voice_id_25263990.mp3 Saya menangis ketika menonton film.
+cv_ind_000862 common_voice_id_25264019.mp3 Ada seorang pandai besi yang bisa membuat clurit.
+cv_ind_000863 common_voice_id_25264044.mp3 Kuncinya ada di dalam lemari.
+cv_ind_000864 common_voice_id_25264077.mp3 Jadi kata dokter perlu dirawat berapa lama?
+cv_ind_000865 common_voice_id_25264132.mp3 Kakak perempuanku masih hafal lagu-lagu Avril.
+cv_ind_000866 common_voice_id_25264163.mp3 Kalau saja aku bertanya padanya, dia akan memberitahuku yang sebenarnya.
+cv_ind_000867 common_voice_id_25264206.mp3 Semoga hari anda menyenangkan!
+cv_ind_000868 common_voice_id_25264276.mp3 Karena malam hari dingin, saya keluar membawa mantel.
+cv_ind_000869 common_voice_id_25264345.mp3 Saya sakit gigi.
+cv_ind_000870 common_voice_id_26549825.mp3 Saya sakit gigi.
+cv_ind_000871 common_voice_id_26550130.mp3 Bumi adalah salah satu planet.
+cv_ind_000872 common_voice_id_26550173.mp3 Dia memaksanya untuk duduk.
+cv_ind_000873 common_voice_id_26553941.mp3 Ah, senang sekali rasanya bertemu kau kawan lamaku.
+cv_ind_000874 common_voice_id_26553953.mp3 Pak Kimura memberikan kue kepada saya.
+cv_ind_000875 common_voice_id_26576223.mp3 Hari ulang tahun ayah saya tanggal lima Juni.
+cv_ind_000876 common_voice_id_26599732.mp3 Jangan buat aku tertawa!
+cv_ind_000877 common_voice_id_27180025.mp3 Adik perempuan Pak Yamada badannya pendek dan imut.
+cv_ind_000878 common_voice_id_27180028.mp3 Coba saya lihat.
+cv_ind_000879 common_voice_id_27180033.mp3 Dapatkah kamu menunggu sebentar?
+cv_ind_000880 common_voice_id_27222973.mp3 Mary, bisakah kamu lebih pelan?
+cv_ind_000881 common_voice_id_27299865.mp3 Ibu, saya juga ingin menikah.
+cv_ind_000882 common_voice_id_28172855.mp3 Apakah kalian jalan-jalan selama liburan musim panas?
+cv_ind_000883 common_voice_id_20260506.mp3 Kamu bodoh.
+cv_ind_000884 common_voice_id_20260508.mp3 Apakah Anda pernah ke Amerika?
+cv_ind_000885 common_voice_id_20260509.mp3 Terima kasih atas kedatangan anda pada interview.
+cv_ind_000886 common_voice_id_20260510.mp3 Kabar beritaku tak begitu penting bagi orang yang tidak ingin tahu.
+cv_ind_000887 common_voice_id_20260516.mp3 Gerbang pintu sebelah timur sudah ditutup.
+cv_ind_000888 common_voice_id_20260517.mp3 Itu bukan suatu jawaban.
+cv_ind_000889 common_voice_id_20260518.mp3 Penyair sering membandingkan kematian dengan tidur.
+cv_ind_000890 common_voice_id_20260519.mp3 Di depan stasiun ada toko bagus.
+cv_ind_000891 common_voice_id_20260520.mp3 Saya ingat malam ketika melihat Bima Sakti untuk pertama kalinya.
+cv_ind_000892 common_voice_id_20261555.mp3 Harga saham anjlok ke titik terendah.
+cv_ind_000893 common_voice_id_20261556.mp3 Pagi ini, temanku memakan buah yang dibeli adikku.
+cv_ind_000894 common_voice_id_20261557.mp3 Apa yang Jack bilang tentang kamu adalah sebuah kebohongan. Aku tidak mempercayainya.
+cv_ind_000895 common_voice_id_20261558.mp3 Lepas jasmu dan silakan bersantai.
+cv_ind_000896 common_voice_id_23404102.mp3 Aku berjalan-jalan di taman.
+cv_ind_000897 common_voice_id_23404104.mp3 Aku tidak bermaksud menyakitimu.
+cv_ind_000898 common_voice_id_23404107.mp3 Kamu pasti lelah setelah perjalanan jauh.
+cv_ind_000899 common_voice_id_23404109.mp3 Kamu di mana?
+cv_ind_000900 common_voice_id_23404110.mp3 Seharusnya kamu datang lebih awal.
+cv_ind_000901 common_voice_id_23404111.mp3 Tadi kamu di mana?
+cv_ind_000902 common_voice_id_23404223.mp3 Apakah kamu pernah mendaki Gunung Fuji?
+cv_ind_000903 common_voice_id_23404225.mp3 Aku bukan orang yang harus menjawab.
+cv_ind_000904 common_voice_id_23404226.mp3 Apakah kamu siswa dari Jepang?
+cv_ind_000905 common_voice_id_23404311.mp3 Apa yang sedang kamu cari?
+cv_ind_000906 common_voice_id_23404312.mp3 Aku kelaparan!
+cv_ind_000907 common_voice_id_23404313.mp3 Kamu membuat kesalahan dengan sengaja, kan?
+cv_ind_000908 common_voice_id_23404314.mp3 Aku ingin menginap semalam.
+cv_ind_000909 common_voice_id_22146040.mp3 Jangan lupa membalas suratnya.
+cv_ind_000910 common_voice_id_22146042.mp3 Kamu lebih cepat tiga puluh menit.
+cv_ind_000911 common_voice_id_22146044.mp3 Adik perempuan saya membuat bekal untuk ayah.
+cv_ind_000912 common_voice_id_22146048.mp3 Macam apapun permainan yang aku dan kau mainkan, kau tidak pernah menang.
+cv_ind_000913 common_voice_id_22146288.mp3 Apakah Anda pernah ke Amerika?
+cv_ind_000914 common_voice_id_22146294.mp3 Beberapa temanku bisa bahasa Inggris dengan baik.
+cv_ind_000915 common_voice_id_22146296.mp3 Saya mau yang itu.
+cv_ind_000916 common_voice_id_22146298.mp3 Salju turun saat musim dingin di Jepang.
+cv_ind_000917 common_voice_id_22146299.mp3 Saya bukan idiot.
+cv_ind_000918 common_voice_id_22146340.mp3 Aku hanya berbicara bahasa Prancis.
+cv_ind_000919 common_voice_id_22146341.mp3 Siapa anak itu?
+cv_ind_000920 common_voice_id_22146342.mp3 Apakah jawaban saya tepat?
+cv_ind_000921 common_voice_id_22146343.mp3 Beberapa orang tidak pernah menjadi dewasa.
+cv_ind_000922 common_voice_id_22146344.mp3 Kamu sudah makan nasi?
+cv_ind_000923 common_voice_id_20248266.mp3 Saya belanja untuk makan malam di supermarket.
+cv_ind_000924 common_voice_id_20248267.mp3 Dia menyuruh sekretaris untuk menterjemahkan surat itu ke dalam bahasa Inggris.
+cv_ind_000925 common_voice_id_20248268.mp3 Tom tidak perlu pergi ke sana sendirian.
+cv_ind_000926 common_voice_id_20248269.mp3 Pulau itu terletak satu mil dari pantai.
+cv_ind_000927 common_voice_id_20248270.mp3 Tolong matikan AC!
+cv_ind_000928 common_voice_id_20248271.mp3 Saya pikir dia akan berhasil.
+cv_ind_000929 common_voice_id_20248272.mp3 Tidak ada bukti.
+cv_ind_000930 common_voice_id_20248273.mp3 Ini makanan yang sangat disukai Pak Kobayashi.
+cv_ind_000931 common_voice_id_20248274.mp3 Saya bertanggung jawab atas perbuatan saya sendiri.
+cv_ind_000932 common_voice_id_20248275.mp3 Kebanyakan film Hollywood berakhir dengan bahagia.
+cv_ind_000933 common_voice_id_20248276.mp3 Foto ini mengingatkanku pada masa kecilku
+cv_ind_000934 common_voice_id_20248278.mp3 Apakah saya boleh meminjam kamus Anda?
+cv_ind_000935 common_voice_id_20248279.mp3 Ibu Pak Kobayashi tinggal di Tokyo.
+cv_ind_000936 common_voice_id_20248280.mp3 Mulai besok saya akan belajar huruf kanji tiap hari.
+cv_ind_000937 common_voice_id_20406074.mp3 Lampu lalu-lintas digunakan untuk mengatur lalu lintas.
+cv_ind_000938 common_voice_id_20406075.mp3 Rumahku di sebelah utara kota.
+cv_ind_000939 common_voice_id_20406076.mp3 Ya, suka.
+cv_ind_000940 common_voice_id_20406077.mp3 Terimakasih sudah membantuku!
+cv_ind_000941 common_voice_id_20406079.mp3 Jalur Tokaido berhenti di Tokyo
+cv_ind_000942 common_voice_id_20406081.mp3 Orang tua biasanya sangat bijaksana.
+cv_ind_000943 common_voice_id_20406082.mp3 Apakah yang dipelajari Sovietolog?
+cv_ind_000944 common_voice_id_20406083.mp3 Kedutaan besar menolak suaka politik untuk pengungsi asing.
+cv_ind_000945 common_voice_id_20406084.mp3 Saya sedikit tersentuh.
+cv_ind_000946 common_voice_id_20406086.mp3 Mahal sekali.
+cv_ind_000947 common_voice_id_20406087.mp3 Datanglah pada waktu yang tepat.
+cv_ind_000948 common_voice_id_20406088.mp3 Penemuan ini akan tercatat dalam sejarah.
+cv_ind_000949 common_voice_id_20406092.mp3 Pulau Belitung juga terkenal dengan hidangan lautnya.
+cv_ind_000950 common_voice_id_20406093.mp3 Tom menyadari mobil Mary yang diparkir di depan perpustakaan.
+cv_ind_000951 common_voice_id_24123337.mp3 Kita ditugaskan untuk membentuk kelompok yang terdiri dari tiga orang.
+cv_ind_000952 common_voice_id_24123338.mp3 Masalah ini tidak akan selesai.
+cv_ind_000953 common_voice_id_24123339.mp3 Berbagai bahasa daerah dan bahasa asing menjadi bahasa serapan dan kemudian menjadi bahasa Indonesia.
+cv_ind_000954 common_voice_id_24123340.mp3 jalanan saat ini sangat sepi untuk malam ini.

@@ -1,0 +1,76 @@
+M-AILABS_fra_000000	le_pays_des_fourrures_1_10_f000112	Il se demandait si ces territoires n'avaient pas été abandonnés comme ceux du sud par la population, trop vivement pourchassée, des carnassiers et des rongeurs.
+M-AILABS_fra_000001	les_mysteres_de_paris_4_19_f000019	--Je sais beaucoup de choses sur M. de Saint-Remy.
+M-AILABS_fra_000002	les_tribulations_dun_chinoise_07_f000147	Eh! quoi! dit-il, pas même une émotion, au moment de m'endormir pour ne plus me réveiller! Il hésita un instant.
+M-AILABS_fra_000003	l_ile_mysterieuse_1_21_f000100	Les uns pensent qu'il proviendra de l'abaissement de température que le soleil éprouvera après des millions d'années; les autres, de l'extinction graduelle des feux intérieurs de notre globe, qui ont sur lui une influence plus prononcée qu'on ne le suppose généralement.
+M-AILABS_fra_000004	lupin_contre_holmes_16_f000052	- Ce qui signifie?
+M-AILABS_fra_000005	la_fabrique_de_crimes_09_f000002	Ceci est une courte réflexion de l'auteur.
+M-AILABS_fra_000006	les_mysteres_de_paris_2_08_f000108	--Je ne le dis plus, madame Pipelet!
+M-AILABS_fra_000007	la_vampire_16_f000031	Petite parole! il y a des gens pour qui on ne saurait trop faire.
+M-AILABS_fra_000008	l_ile_mysterieuse_3_12_f000055	Trois heures se passèrent ainsi. Le vent était tombé, et un silence absolu régnait sous les grands arbres.
+M-AILABS_fra_000009	le_dernier_des_mohicans_chapitre_25_f000189	et les deux prétendus sorciers saisirent cemoment favorable pour s'éloigner.
+M-AILABS_fra_000010	la_vampire_10_f000167	Soit que René se fût trompé réellement, soit qu'il eût affecté de se méprendre, il avait abordé une femme qui ne l'attendait point,
+M-AILABS_fra_000011	madame_bovary_1_03_f000023	D'autre part, la mort de sa femme ne l'avait pas mal servi dans son métier, car on avait répété durant un mois: Ce pauvre jeune homme! quel malheur! Son nom s'était répandu, sa clientèle s'était accrue; et puis il allait aux Bertaux tout à son aise.
+M-AILABS_fra_000012	l_ile_mysterieuse_1_02_f000071	Cet intrépide était un nègre, né sur le domaine de l'ingénieur, d'un père et d'une mère esclaves, mais que, depuis longtemps, Cyrus Smith, abolitionniste de raison et de coeur, avait affranchi.
+M-AILABS_fra_000013	le_pays_des_fourrures_2_19_f000026	Mrs. Paulina Barnett avait à peu près compris ce qui s'était passé.
+M-AILABS_fra_000014	monsieur_lecoq_2_13_f000130	C'était la discussion de l'Adresse au roi, qui s'agitait furieusement dans le cabinet de M. de Courtomieu. Mlle Blanche s'arrêta.
+M-AILABS_fra_000015	l_ile_mysterieuse_1_10_f000130	C'était l'égueulement du cratère supérieur, le goulot, si l'on veut, par lequel s'échappaient les matières éruptives liquides, à l'époque où le volcan était encore en activité.
+M-AILABS_fra_000016	keraban_le_tetu_2_11_f000105	Quant à Van Mitten, le fiancé de son choix, toujours un peu affaissé depuis le départ de Trébizonde, il dut marcher au doigt et à la baguette.
+M-AILABS_fra_000017	la_fabrique_de_crimes_07_f000147	Aussitôt s'élancèrent du trou le jeune et vaillant Mustapha, mon cousin par alliance, qui dissimule ses ancêtres sous la profession de cocher de fiacre, Simon le joueur d'orgues, Mandina de Hachecor, vêtue d'un domino noir, le véritable Silvio Pellico et d'autres.
+M-AILABS_fra_000018	les_miserables_tome_5_65_f000045	Le lendemain les nippes étaient fidèlement rapportées, et le Changeur, qui confiait tout aux voleurs, n'était jamais volé. Ces vêtements avaient un inconvénient, ils n'allaient pas
+M-AILABS_fra_000019	l_ile_mysterieuse_1_18_f000052	-- Pourquoi inhabitable? demanda le marin.
+M-AILABS_fra_000020	les_mysteres_de_paris_4_18_f000094	Cette plaisanterie-là me coûte au moins mille écus. Il est vrai que les meubles me restent...
+M-AILABS_fra_000021	la_vampire_12_f000119	Ma soeur aussi avait visé. La balle de son pistolet, en fracassant le crâne de son mari, préservait les jours du général Bonaparte.
+M-AILABS_fra_000022	monsieur_lecoq_2_13_f000128	Elle avait tenté une épreuve, elle n'avait pas réussi: tant pis! Elle se leva, et accepta le bras de Martial pour rentrer.
+M-AILABS_fra_000023	monsieur_lecoq_2_31_f000240	Lacheneur lui prit la main qu'il serra avec un attendrissement dont il ne cherchait ni à se cacher ni à se défendre.
+M-AILABS_fra_000024	monsieur_lecoq_2_39_f000121	Enfin elle rompit le cachet et lut: Madame la marquise, Entre vous et moi, tout est fini, et il n'est pas de rapprochement possible...
+M-AILABS_fra_000025	l_ile_mysterieuse_2_13_f000073	Aussi, ni Gédéon Spilett, ni Harbert, ni Pencroff ne dormirent pendant cette nuit du 12 au 13 octobre.
+M-AILABS_fra_000026	l_ile_mysterieuse_2_16_f000166	Cyrus Smith alla vers l'inconnu, dont les sourcils se froncèrent, lorsqu'il le vit s'approcher.
+M-AILABS_fra_000027	la_fabrique_de_crimes_06_f000121	et si nous allions en justice, mon savant docteur, lequel serait cru le plus aisément: d'un charlatan comme vous ou d'un gentilhomme comme moi!
+M-AILABS_fra_000028	le_dernier_des_mohicans_chapitre_20_f000168	Au lieu de côtoyer la rive occidentale, sur laquelle il fallait qu'ils descendissent, le prudent Mohican dirigea sa course vers ces montagnes, derrière lesquelles on savait que Montcalm avait conduit son armée dans la forteresse redoutable de Ticonderoga.
+M-AILABS_fra_000029	lupin_contre_holmes_13_f000008	- Les temps sont calmes. Pas une affaire à nous mettre sous la dent.
+M-AILABS_fra_000030	les_mysteres_de_paris_1_02_f000032	Ces trois derniers personnages jouent un rôle trop important dans ce récit, leurs figures sont trop caractérisées, pour que nous ne les mettions pas en relief.
+M-AILABS_fra_000031	keraban_le_tetu_2_02_f000068	Toutefois, il était à craindre que la mer Noire ne continuât pas à justifier longtemps son nom grec de Pontus Euxinus, le bien hospitalier,
+M-AILABS_fra_000032	monsieur_lecoq_2_31_f000060	Blotti derrière un gros chêne, à moins de quinze pas de la route, Lacheneur reconnut, aux premières clartés du jour, quelques-uns de ces prisonniers...
+M-AILABS_fra_000033	les_mysteres_de_paris_4_09_f000005	Morel, assis sur le bord de son établi, la tête baissée, les mains pendantes, le regard fixe, farouche, ne quittait pas des yeux le matelas où étaient déposés les restes de la petite Adèle.
+M-AILABS_fra_000034	les_mysteres_de_paris_2_17_f000188	--Si vous êtes revenu d'Orient pour recommencer vos absurdes plaisanteries, qu'on vous passe parce que vous êtes à moitié fou, dit la grosse femme irritée,
+M-AILABS_fra_000035	monsieur_lecoq_2_03_f000010	Cependant ce ménage ne fut pas heureux. Le compagnon des plaisirs trop faciles de M.
+M-AILABS_fra_000036	monsieur_lecoq_2_27_f000301	Sa résignation devait le faire croire; quelques-uns le crurent.
+M-AILABS_fra_000037	keraban_le_tetu_1_13_f000075	surtout si un bon souper nous prépare à bien dormir!
+M-AILABS_fra_000038	les_tribulations_dun_chinoise_08_f000044	Il faut qu'à chacune des quatre-vingt mille minutes dont se composera ma vie pendant cinquante-cinq jours encore, j'aie la pensée, et, je l'espère, la crainte, que mon existence va brusquement finir!
+M-AILABS_fra_000039	monsieur_lecoq_2_31_f000024	en attendant les brèves formalités de l'extradition.
+M-AILABS_fra_000040	monsieur_lecoq_2_16_f000050	--Quoi!... Vous aurez l'affreux courage de rester inflexible, car c'est un père qui vous prie à genoux, un père qui vous dit:
+M-AILABS_fra_000041	le_dernier_des_mohicans_chapitre_33_f000102	Les sons en étaient si incertains qu'à peine on les saisissait et qu'il était difficile de dire précisément d'où ils sortaient.
+M-AILABS_fra_000042	madame_bovary_2_06_f000222	-- À cause du changement de régime, continua le pharmacien, et de la perturbation qui en résulte dans l'économie générale.
+M-AILABS_fra_000043	les_tribulations_dun_chinoise_09_f000034	Kin-Fo avait-il à sa disposition quelque arme destructive?
+M-AILABS_fra_000044	le_dernier_des_mohicans_chapitre_33_f000057	elles firent allusion à la jeune étrangère ravie à la terre en même temps que le jeune héros, le grand Esprit montrant par là que sa volonté était qu'ils fussent à jamais réunis.
+M-AILABS_fra_000045	l_ile_mysterieuse_2_13_f000044	Pencroff, le reporter et Harbert firent un dernier signe d'adieu, et Granite-House disparut bientôt derrière les hautes roches du cap.
+M-AILABS_fra_000046	la_vampire_15_f000111	La question ainsi posée déplut manifestement au secrétaire général, qui reprit son couteau à papier et l'aiguisa sur son genou.
+M-AILABS_fra_000047	lupin_contre_holmes_15_f000051	- Sholmès Sholmès
+M-AILABS_fra_000048	keraban_le_tetu_2_06_f000155	C'est bien le moins que j'aille au-devant d'eux leur offrir mes services! Et il sortit.
+M-AILABS_fra_000049	madame_bovary_3_09_f000059	Charles entra, et, s'avançant vers le lit, il tira lentement les rideaux.
+M-AILABS_fra_000050	monsieur_lecoq_1_04_f000219	--Bast!... répondit-il d'un ton modeste, vous êtes trop indulgent, papa. En somme, qu'ai-je fait de si fort? Je vous ai dit que l'homme avait un certain âge.
+M-AILABS_fra_000051	l_epouvante_08_f000185	-- Ça ne fait rien... Une enveloppe?
+M-AILABS_fra_000052	keraban_le_tetu_2_16_f000087	--Quel homme! dit Van Mitten! On ne trouverait pas son pareil dans toute la Hollande!
+M-AILABS_fra_000053	l_ile_mysterieuse_3_18_f000061	-- Et cependant, puisqu'il n'y a aucun avantage à retirer d'une éruption, mieux vaudrait que celle-ci n'eût pas lieu, dit le reporter.
+M-AILABS_fra_000054	lupin_contre_holmes_01_f000176	La situation est nette: je possède un billet que je nai pas, moi, le droit de toucher, et vous avez, vous, le droit de toucher un billet que vous ne possédez pas.
+M-AILABS_fra_000055	le_dernier_des_mohicans_chapitre_12_f000228	le chasseur marchait en avant, suivant son usage, et les deux Mohicans fermaient la marche.
+M-AILABS_fra_000056	madame_bovary_1_07_f000077	Elle appelait Djali, la prenait entre ses genoux, passait ses doigts sur sa longue tête fine et lui disait: -- Allons, baisez maîtresse, vous qui n'avez pas de chagrins.
+M-AILABS_fra_000057	les_mysteres_de_paris_3_15_f000079	Un de ces pressentiments qui trompent rarement les coeurs aimants lui disait que le hasard seul n'avait pas amené le prince si à point pour la sauver et qu'en cessant depuis quelques mois de la voir il avait cédé à un sentiment tout autre que celui de l'aversion.
+M-AILABS_fra_000058	monsieur_lecoq_1_06_f000036	Qui sera penaud alors?... Le père Absinthe et Lecoq. Sans compter que Gévrol ne se fera pas faute de déclarer que nous mentons pour nous faire valoir et pour l'humilier...
+M-AILABS_fra_000059	les_mysteres_de_paris_3_06_f000064	Oh! elle ne t'abandonnera pas comme ça, vois-tu! Elle serait plutôt capable de venir te réclamer ici avec notre cousin M. Barbillon.
+M-AILABS_fra_000060	keraban_le_tetu_1_07_f000025	--Personne, ami Kéraban.
+M-AILABS_fra_000061	la_vampire_28_f000119	On ne saurait dire d'où étaient venus les coussins soyeux et les tapis magnifiques qui ornaient, cette nuit, la seigneuriale demeure, abandonnée et déserte depuis des siècles.
+M-AILABS_fra_000062	monsieur_lecoq_1_27_f000042	--C'est votre femme que nous venons de voir? demanda M. Segmuller.
+M-AILABS_fra_000063	le_dernier_des_mohicans_chapitre_17_f000038	mais avant que le sauvage eût eu le temps de lâcher son coup, la main de l'officier était déjà sur le chien de l'arme meurtrière.
+M-AILABS_fra_000064	monsieur_lecoq_1_11_f000005	Dès qu'il reconnut le jeune policier, son front se dérida, et il suspendit sa promenade.
+M-AILABS_fra_000065	les_miserables_tome_5_63_f000033	--Qu'est-ce qu'il a?
+M-AILABS_fra_000066	les_tribulations_dun_chinoise_11_f000099	De là, en quelques heures, il pouvait revenir à Shang-Haï, prêt à frapper...
+M-AILABS_fra_000067	les_mysteres_de_paris_2_02_f000007	Je sens maintenant que j'ai fait une impolitesse; mais enfin, vous ne m'en voudrez pas, n'est-ce pas?
+M-AILABS_fra_000068	l_ile_mysterieuse_3_17_f000129	Cyrus Smith, élevant la main au-dessus de la tête du mort: Que Dieu ait son âme! dit-il, et, se retournant vers ses amis, il ajouta: Prions pour celui que nous avons perdu!
+M-AILABS_fra_000069	monsieur_lecoq_1_42_f000034	--En doutes-tu? s'écria-t-il. En douterais-tu véritablement!
+M-AILABS_fra_000070	les_miserables_tome_5_63_f000030	Le médecin vit Jean Valjean et lui parla.
+M-AILABS_fra_000071	le_pays_des_fourrures_1_11_f000049	qu'il sait adroitement déterrer sous la neige, et qui constitue son unique alimentation pendant l'hiver.
+M-AILABS_fra_000072	les_mysteres_de_paris_3_02_f000067	--Je le sais, mon père, j'avais tort, sans doute; mais je ne pouvais surmonter ma honte et ma crainte... Ce n'est pas tout... il me faut du courage pour achever...
+M-AILABS_fra_000073	la_mare_au_diable_19_f000098	Alors commença le chant des livrées sur un air solennel comme un chant déglise.
+M-AILABS_fra_000074	le_dernier_des_mohicans_chapitre_24_f000061	C'est un mensonge! Je n'avais pas de fils. Celui qui en portait le nom est oublié.
+M-AILABS_fra_000075	madame_bovary_1_01_f000102	En promenade, il causait avec le domestique, qui était de la campagne comme lui.

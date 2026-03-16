@@ -1,0 +1,924 @@
+cv_lav_000000 common_voice_lv_25031970.mp3 Piedod, ka aizsvilos.
+cv_lav_000001 common_voice_lv_26966348.mp3 Mīlētu viņu, ja viņš būtu sētnieks.
+cv_lav_000002 common_voice_lv_23580813.mp3 Kur te ir pirmais stāvs?
+cv_lav_000003 common_voice_lv_23896565.mp3 Trīs mājas trīs dažādās valstīs.
+cv_lav_000004 common_voice_lv_24142895.mp3 Ļauj man viņu glābt.
+cv_lav_000005 common_voice_lv_28810356.mp3 Paklau, neklausies viņā. Viņam ir galvas trauma.
+cv_lav_000006 common_voice_lv_25682894.mp3 Mans tētis arī bija lielisks.
+cv_lav_000007 common_voice_lv_25682901.mp3 Es tevi aizvedīšu. Es jūtos labi.
+cv_lav_000008 common_voice_lv_19380826.mp3 Vai ne?
+cv_lav_000009 common_voice_lv_19380829.mp3 Man vēl kaut kas jāizdara.
+cv_lav_000010 common_voice_lv_23856821.mp3 Jā, laikam.
+cv_lav_000011 common_voice_lv_23856824.mp3 Es noteikti būšu slims. Droši vien divdesmit četru stundu audzējs. Tas ir lipīgs.
+cv_lav_000012 common_voice_lv_21809270.mp3 Tiks izpildīts, mans pavēlniek.
+cv_lav_000013 common_voice_lv_21809274.mp3 Nē, tas ir no "Piezīmju grāmatiņas".
+cv_lav_000014 common_voice_lv_19409368.mp3 Tu ej tur.
+cv_lav_000015 common_voice_lv_19409371.mp3 Piedod, piedod. Vai sāp?
+cv_lav_000016 common_voice_lv_19409372.mp3 It kā es nebūtu ievērojis, ka šie tur reklamē alu.
+cv_lav_000017 common_voice_lv_33281133.mp3 Saprati?
+cv_lav_000018 common_voice_lv_33281134.mp3 Dīvānu tur. Uzkodas gar visu sienu.
+cv_lav_000019 common_voice_lv_33281136.mp3 Labi. Tagad es.
+cv_lav_000020 common_voice_lv_20063439.mp3 Galvenais - dziedāt no sirds.
+cv_lav_000021 common_voice_lv_20063441.mp3 Mēs iebrūkam, izvietojam spridzekļus, izkļūstam pirms sprādziena.
+cv_lav_000022 common_voice_lv_20063442.mp3 Jo mēs esam cilvēki.
+cv_lav_000023 common_voice_lv_20492974.mp3 No šejienes var redzēt dūmus!
+cv_lav_000024 common_voice_lv_20492976.mp3 Pirmā nakts vienatnē.
+cv_lav_000025 common_voice_lv_20492977.mp3 Lēnām, nesasteidz.
+cv_lav_000026 common_voice_lv_22047614.mp3 Ja man būtu nauda, es dotos pats savā ceļojumā.
+cv_lav_000027 common_voice_lv_22047615.mp3 Kungs, vai jūs varētu...
+cv_lav_000028 common_voice_lv_22047616.mp3 Zinu, tas ir dīvaini, bet, lūdzu.
+cv_lav_000029 common_voice_lv_22714041.mp3 Pietiekami bīstams, ja saucāt mani.
+cv_lav_000030 common_voice_lv_22714042.mp3 Pavasarī adīti cimdi, rudenī silti.
+cv_lav_000031 common_voice_lv_22714043.mp3 Bija prieks redzēt tevi, Ērika.
+cv_lav_000032 common_voice_lv_22714045.mp3 Labi, tad pateikšu pats.
+cv_lav_000033 common_voice_lv_19411143.mp3 Viņi cērt nost kokus.
+cv_lav_000034 common_voice_lv_19411144.mp3 Sakod mēli zobos.
+cv_lav_000035 common_voice_lv_19411145.mp3 Bet es tevi ienīstu, Harij.
+cv_lav_000036 common_voice_lv_19411146.mp3 Vienīgi to jūs protat.
+cv_lav_000037 common_voice_lv_25263432.mp3 Kāpēc lai es sūtītu tevi un nevis viņus?
+cv_lav_000038 common_voice_lv_25263460.mp3 Tas ir neiespējami!
+cv_lav_000039 common_voice_lv_25263691.mp3 Es tevi tik ļoti mīlu…
+cv_lav_000040 common_voice_lv_25397763.mp3 Vai viņi arī ir maskuballes tērpos?
+cv_lav_000041 common_voice_lv_20065909.mp3 Un papildu zināšanas apgaismos mums ceļu.
+cv_lav_000042 common_voice_lv_20065913.mp3 Protams, ka esmu.
+cv_lav_000043 common_voice_lv_20065914.mp3 Dod man minūti.
+cv_lav_000044 common_voice_lv_20065915.mp3 Jā, tā gan.
+cv_lav_000045 common_voice_lv_20073513.mp3 Ko tu gribi?
+cv_lav_000046 common_voice_lv_20073514.mp3 Beidz. Tu ej vidusskolā.
+cv_lav_000047 common_voice_lv_20073515.mp3 Tomēr tā piedāvā ļoti savlaicīgu un unikālu iespēju.
+cv_lav_000048 common_voice_lv_20073516.mp3 Kareivis. Es arī.
+cv_lav_000049 common_voice_lv_24820027.mp3 Un bērniņš?
+cv_lav_000050 common_voice_lv_24820031.mp3 Nekas tik labi nenomierina kā klasiska drošības instruktāža.
+cv_lav_000051 common_voice_lv_24820035.mp3 Raugies, lai nesavaino!
+cv_lav_000052 common_voice_lv_24820097.mp3 Ballīte atcelta.
+cv_lav_000053 common_voice_lv_20186441.mp3 Ei, mums jāiet.
+cv_lav_000054 common_voice_lv_20186442.mp3 Kura daļa "nogalina cilvēkus" tev nav skaidra?
+cv_lav_000055 common_voice_lv_20186443.mp3 Jā? Ar citu meiteni?
+cv_lav_000056 common_voice_lv_20186446.mp3 Tavs īstais vīrietis ir tur ārā, un ja tu viņu nenogrābsi, to izdarīs cita.
+cv_lav_000057 common_voice_lv_20147790.mp3 Nezināju, ka tu te strādā.
+cv_lav_000058 common_voice_lv_20147791.mp3 Tur ir sievietes!
+cv_lav_000059 common_voice_lv_20147792.mp3 Tu neesi bērns.
+cv_lav_000060 common_voice_lv_20147793.mp3 Skaisti, vai ne?
+cv_lav_000061 common_voice_lv_20066971.mp3 Ja viņa ir tik lieliska, kāpēc tu ar viņu nesatiecies?
+cv_lav_000062 common_voice_lv_20066972.mp3 Vai zināt, ka tā nav parasta grīda?
+cv_lav_000063 common_voice_lv_20066975.mp3 Nevainojams vēders.
+cv_lav_000064 common_voice_lv_20066978.mp3 Taupība labāka par bagātību.
+cv_lav_000065 common_voice_lv_25237841.mp3 Jo mēs pavadījām tik daudz laika kopā.
+cv_lav_000066 common_voice_lv_25237910.mp3 Es bieži slimoju, un mamma domā, ka labāk palikt mājās.
+cv_lav_000067 common_voice_lv_25237913.mp3 Es zinu, ka tu negribi to dzirdēt.
+cv_lav_000068 common_voice_lv_32163655.mp3 Tu taču joko?
+cv_lav_000069 common_voice_lv_19435235.mp3 Labi, tad atdod.
+cv_lav_000070 common_voice_lv_19435237.mp3 Viņas tur vairs nebūs.
+cv_lav_000071 common_voice_lv_19435238.mp3 Kas tad vainas?
+cv_lav_000072 common_voice_lv_19435239.mp3 Kurš nāks ar mani?
+cv_lav_000073 common_voice_lv_19412855.mp3 Tu taču neko neproti.
+cv_lav_000074 common_voice_lv_19454044.mp3 Tajā viesnīcā arī nekā nav.
+cv_lav_000075 common_voice_lv_19454045.mp3 Kas tas?
+cv_lav_000076 common_voice_lv_19454046.mp3 Jā, ciet klusu!
+cv_lav_000077 common_voice_lv_21063079.mp3 Tu mani saproti?
+cv_lav_000078 common_voice_lv_21063080.mp3 Esmu neredzams!
+cv_lav_000079 common_voice_lv_21063081.mp3 Palīdzi man. Esmu šeit.
+cv_lav_000080 common_voice_lv_21063083.mp3 Sveiks, Kail, priecājos iepazīties.
+cv_lav_000081 common_voice_lv_19277853.mp3 Domāju, ka viņam viss labi.
+cv_lav_000082 common_voice_lv_19277854.mp3 Kārlis ļoti mīl tevi, vairāk par visu pasaulē, un bez tevis viņš iet postā.
+cv_lav_000083 common_voice_lv_19277855.mp3 Pat tad, kad es teikšu, kas es esmu, viņa man neticēs.
+cv_lav_000084 common_voice_lv_19277856.mp3 Lielisks puisis.
+cv_lav_000085 common_voice_lv_19277857.mp3 Tā ir nodevība.
+cv_lav_000086 common_voice_lv_19397800.mp3 Diemžēl es nepārdodu savu lāci.
+cv_lav_000087 common_voice_lv_19397802.mp3 Piesedz to stūri!
+cv_lav_000088 common_voice_lv_19397804.mp3 Viņš ir īsts.
+cv_lav_000089 common_voice_lv_19397805.mp3 Kas pirmais brauc, tas pirmais maļ.
+cv_lav_000090 common_voice_lv_19397806.mp3 Es to izdarīju pats.
+cv_lav_000091 common_voice_lv_25179299.mp3 Pēc vakardienas pat es.
+cv_lav_000092 common_voice_lv_25179346.mp3 Tūlīt. Pamazītiņām.
+cv_lav_000093 common_voice_lv_25179368.mp3 Tu celsies un brauksi man visur līdzi.
+cv_lav_000094 common_voice_lv_25179370.mp3 Vai daudz cilvēku mēdz ierasties bez drēbēm?
+cv_lav_000095 common_voice_lv_25179389.mp3 Nevajadzēja tā darīt.
+cv_lav_000096 common_voice_lv_19386852.mp3 Kas visu runā, ko dzirdējis, tas drīz dzirdēs, ko negribēs.
+cv_lav_000097 common_voice_lv_19386853.mp3 Lielākais, ko esat zaudējis monētas mešanā?
+cv_lav_000098 common_voice_lv_19386854.mp3 Dežūrēsit visu nakti?
+cv_lav_000099 common_voice_lv_19386855.mp3 Es neesmu vergs.
+cv_lav_000100 common_voice_lv_19386856.mp3 Jūs samalāt pasakas par ķīnieti.
+cv_lav_000101 common_voice_lv_19411449.mp3 Ja tu mani segsi, es visu piecietīšu.
+cv_lav_000102 common_voice_lv_19411450.mp3 Es negribu strādāt veikalā.
+cv_lav_000103 common_voice_lv_19411451.mp3 Nesen atveda vienu ūsainu, pārsistu seju, dabūjis ar strāvu.
+cv_lav_000104 common_voice_lv_19411452.mp3 Man ir perfekts puisis.
+cv_lav_000105 common_voice_lv_19411453.mp3 Vai es gribu?
+cv_lav_000106 common_voice_lv_19424218.mp3 Tu novirzies no galvenā. Es tev stāstu, ko es atradu.
+cv_lav_000107 common_voice_lv_19424219.mp3 Tā mēs līdz slimnīcai netiksim.
+cv_lav_000108 common_voice_lv_19424220.mp3 Es vienmēr izvēlēšos darbinieku.
+cv_lav_000109 common_voice_lv_19424221.mp3 Vai tu esi viens?
+cv_lav_000110 common_voice_lv_19424222.mp3 Kas tā par ātro palīdzību?
+cv_lav_000111 common_voice_lv_19385700.mp3 Aizvediet mani prom no šejienes!
+cv_lav_000112 common_voice_lv_19385701.mp3 Ko otram nevēl, tas pašam netiek.
+cv_lav_000113 common_voice_lv_19385702.mp3 Kā tas ir iespējams?
+cv_lav_000114 common_voice_lv_19385703.mp3 Rādās, ka bijusi pamatīga saķeršanās.
+cv_lav_000115 common_voice_lv_19385704.mp3 Kas stiprāks, tam taisnība.
+cv_lav_000116 common_voice_lv_20066425.mp3 Vai jūs bijāt kāpņutelpā?
+cv_lav_000117 common_voice_lv_20066427.mp3 Šoreiz rīkosimies kopā.
+cv_lav_000118 common_voice_lv_20066429.mp3 Pag, pag.
+cv_lav_000119 common_voice_lv_20066430.mp3 Tas ir viens no noslēpumiem, ko neviens neizpauž.
+cv_lav_000120 common_voice_lv_20066433.mp3 Kārlis nu bija laimīgākais zēns pasaulē un alka to ātrāk visiem izstāstīt.
+cv_lav_000121 common_voice_lv_19417596.mp3 Taču tu esi man dārgāka par dzīvību.
+cv_lav_000122 common_voice_lv_19417597.mp3 Jā, tev taisnība.
+cv_lav_000123 common_voice_lv_19417598.mp3 Labi.
+cv_lav_000124 common_voice_lv_19417599.mp3 Nē, tu skatījies monitorā.
+cv_lav_000125 common_voice_lv_19417600.mp3 Kaut es to zinātu.
+cv_lav_000126 common_voice_lv_32149369.mp3 Viņš nevar.
+cv_lav_000127 common_voice_lv_32149371.mp3 Īsti aktieri!
+cv_lav_000128 common_voice_lv_32149407.mp3 Allaž paturēšu prātā viņa pēdējos vārdus: "Es lepojos ar tevi, Alan. Nemainies."
+cv_lav_000129 common_voice_lv_32149411.mp3 Šis ir čalis, par kuru stāstīju.
+cv_lav_000130 common_voice_lv_32149416.mp3 Tā ir mājā, aiz televizora.
+cv_lav_000131 common_voice_lv_19411779.mp3 Viss labi, draudziņ?
+cv_lav_000132 common_voice_lv_19411780.mp3 Kas to palaidis?
+cv_lav_000133 common_voice_lv_19411781.mp3 Uz kuru tieši?
+cv_lav_000134 common_voice_lv_19411782.mp3 Pēc mēneša varēsi dzīvot, kā es dzīvoju.
+cv_lav_000135 common_voice_lv_19411783.mp3 Skudras skrien pa kauliem.
+cv_lav_000136 common_voice_lv_19549620.mp3 Jā, viņa ir dīvaina.
+cv_lav_000137 common_voice_lv_19549622.mp3 Vēlreiz.
+cv_lav_000138 common_voice_lv_19549623.mp3 Taču tad man pielēca.
+cv_lav_000139 common_voice_lv_19549625.mp3 Ja mēģināsi izbēgt no pagraba.
+cv_lav_000140 common_voice_lv_19549626.mp3 Varbūt.
+cv_lav_000141 common_voice_lv_19381041.mp3 Nāks laiks, nāks padoms.
+cv_lav_000142 common_voice_lv_19381044.mp3 Es domāju, ka tev tas patīk.
+cv_lav_000143 common_voice_lv_19381045.mp3 Jāmācās gatavot ar kreiso.
+cv_lav_000144 common_voice_lv_19381050.mp3 Mājās iedzersim šņabi ar zemeņu pieniņu.
+cv_lav_000145 common_voice_lv_19381051.mp3 Sacīts – darīts.
+cv_lav_000146 common_voice_lv_20062067.mp3 Es domāju, ka viņas labi pavada laiku.
+cv_lav_000147 common_voice_lv_20062068.mp3 Man tev arī ir miljons jautājumu, ko jautāt.
+cv_lav_000148 common_voice_lv_20062069.mp3 Viņai patīk mani joki.
+cv_lav_000149 common_voice_lv_20062070.mp3 Es nekad dzīvē nebiju neko citējusi no žurnāla. Tas ir apbrīnojami.
+cv_lav_000150 common_voice_lv_20062071.mp3 Nē, tas ir lieliski.
+cv_lav_000151 common_voice_lv_20061591.mp3 Tev pat nav ķermeņa.
+cv_lav_000152 common_voice_lv_20061593.mp3 Mums jādodas prom! Ejam!
+cv_lav_000153 common_voice_lv_20061594.mp3 Pēc piecpadsmit minūtēm tev jādzied korporatīvajā pasākumā.
+cv_lav_000154 common_voice_lv_20061595.mp3 Uz kuru tu īsti skaties?
+cv_lav_000155 common_voice_lv_20061596.mp3 Atkal bija atvests pašdzītais spirts.
+cv_lav_000156 common_voice_lv_20066040.mp3 Agri vai vēlu tomēr jāpamostas.
+cv_lav_000157 common_voice_lv_20066042.mp3 Man tīru viskiju. Un tev?
+cv_lav_000158 common_voice_lv_20066044.mp3 Es to gribu.
+cv_lav_000159 common_voice_lv_20066045.mp3 Aliņš. Lūk, kas nāk!
+cv_lav_000160 common_voice_lv_20066048.mp3 Tiksimies ārpus pilsētas.
+cv_lav_000161 common_voice_lv_20367361.mp3 Uz mani jau skatās. Negribu zaudēt darbu.
+cv_lav_000162 common_voice_lv_20367362.mp3 Jā, es domāju, ka tagad ir īstais brīdis par to runāt.
+cv_lav_000163 common_voice_lv_20367363.mp3 Superforši.
+cv_lav_000164 common_voice_lv_20367364.mp3 Būs jautri.
+cv_lav_000165 common_voice_lv_20367365.mp3 Te nu es esmu.
+cv_lav_000166 common_voice_lv_22456631.mp3 Kā viņš izskatījās?
+cv_lav_000167 common_voice_lv_22456632.mp3 Paldies, mīļā.
+cv_lav_000168 common_voice_lv_22456635.mp3 Kādai statujai? Kādā rokā?
+cv_lav_000169 common_voice_lv_22456641.mp3 Bet tu domā, ka varēsi palikt augšā tik ilgi?
+cv_lav_000170 common_voice_lv_22456642.mp3 Es varētu tādu kā tevi izmantot.
+cv_lav_000171 common_voice_lv_19517599.mp3 Es cenšos kaut kā paturēt jūs abus.
+cv_lav_000172 common_voice_lv_19517600.mp3 Es mīlu tevi.
+cv_lav_000173 common_voice_lv_19517601.mp3 Es domāju: Viņš ir tik skaists, ka patīkami satikt viņa vāverīti.
+cv_lav_000174 common_voice_lv_19517602.mp3 Nezinu, kurp imperators viņu nosūtījis.
+cv_lav_000175 common_voice_lv_19517603.mp3 Mani sabiedrības pīlāra gēni un tavs... tumšais, dūmakainais skaistums...
+cv_lav_000176 common_voice_lv_20060428.mp3 Tu nerunā nopietni.
+cv_lav_000177 common_voice_lv_20060429.mp3 Varat zvanīt dienā un naktī.
+cv_lav_000178 common_voice_lv_20060430.mp3 Saki viņai paldies.
+cv_lav_000179 common_voice_lv_20060431.mp3 Trāpīts.
+cv_lav_000180 common_voice_lv_20060432.mp3 Viņai bija Stefanijas aproce. Redzēji?
+cv_lav_000181 common_voice_lv_19420973.mp3 Tiksimies sapulcē.
+cv_lav_000182 common_voice_lv_19420974.mp3 Uzmauc to manā spalvainajā pirkstā!
+cv_lav_000183 common_voice_lv_19420975.mp3 Ja nu es to pazaudēšu?
+cv_lav_000184 common_voice_lv_19420976.mp3 Glums kā zutis.
+cv_lav_000185 common_voice_lv_19420977.mp3 Bet pirms tas notiek...
+cv_lav_000186 common_voice_lv_20062271.mp3 Šī mazā pilsēta ir tikai sākums.
+cv_lav_000187 common_voice_lv_20062272.mp3 Mans tēvs veda mani šeit, kad biju maza.
+cv_lav_000188 common_voice_lv_20062273.mp3 Ja padomā, nav godīgi, ka viņš tevi tā samulsināja.
+cv_lav_000189 common_voice_lv_20062274.mp3 Tiešām? Paldies.
+cv_lav_000190 common_voice_lv_20062275.mp3 Varbūt tas ir pēdējais šampūns uz planētas.
+cv_lav_000191 common_voice_lv_20068253.mp3 Kā to saprast?
+cv_lav_000192 common_voice_lv_20068254.mp3 Ne vējam pūst aizliegsi, ne ļaudīm runāt.
+cv_lav_000193 common_voice_lv_20068255.mp3 Kaut kas nav kārtībā.
+cv_lav_000194 common_voice_lv_20068256.mp3 Tieši šeit. Tajā mājā. Šajā vietā.
+cv_lav_000195 common_voice_lv_20068257.mp3 Ko gan lai vēl pasaku, nepieminot tavu māti?
+cv_lav_000196 common_voice_lv_19499841.mp3 Viņi tā saka.
+cv_lav_000197 common_voice_lv_19499861.mp3 Pirms esi iegājis, domā par izeju.
+cv_lav_000198 common_voice_lv_19499862.mp3 Kas viegli sapelnīts, to viegli iztērē.
+cv_lav_000199 common_voice_lv_19499863.mp3 Es tiešām priecājos, ka mēs to izdarījām.
+cv_lav_000200 common_voice_lv_19499864.mp3 Tā jau ir labāk.
+cv_lav_000201 common_voice_lv_19499865.mp3 Kā tu domā, vai viņa no manis to gaida?
+cv_lav_000202 common_voice_lv_23580847.mp3 Pilnu jaudu, gatavojies bremzēt.
+cv_lav_000203 common_voice_lv_23580849.mp3 Mēs neļausim cilvēkam kāpt uz jumta.
+cv_lav_000204 common_voice_lv_25010861.mp3 Īsts itāliešu restorāns.
+cv_lav_000205 common_voice_lv_25010869.mp3 Alan, ko tu izdarīji?
+cv_lav_000206 common_voice_lv_25010878.mp3 Tici man, es to varu.
+cv_lav_000207 common_voice_lv_25010894.mp3 Viss. Autiņš ir zaudēts.
+cv_lav_000208 common_voice_lv_25179889.mp3 Tu esi auksts kā ledus.
+cv_lav_000209 common_voice_lv_25179891.mp3 Dakteri to vēl nesaprot.
+cv_lav_000210 common_voice_lv_25179938.mp3 Kāpēc lai viņš brauktu uz Odesu?
+cv_lav_000211 common_voice_lv_25179954.mp3 Labi, es pārbaudīšu.
+cv_lav_000212 common_voice_lv_25179994.mp3 Mana ģimene ievācās Sarkandaugavā, kad man bija desmit gadi.
+cv_lav_000213 common_voice_lv_25180024.mp3 Laimīgu ceļu.
+cv_lav_000214 common_voice_lv_26294022.mp3 Tu to esi redzējis.
+cv_lav_000215 common_voice_lv_26294072.mp3 Laikam būšu saaukstējusies.
+cv_lav_000216 common_voice_lv_26294122.mp3 Lidojums bija lielisks.
+cv_lav_000217 common_voice_lv_26294180.mp3 Es viņu aizvedīšu un uzmanīšu.
+cv_lav_000218 common_voice_lv_26294181.mp3 Apskaut šaujamo?
+cv_lav_000219 common_voice_lv_26294262.mp3 Paskatieties uz sevi!
+cv_lav_000220 common_voice_lv_27664572.mp3 Mēs esam Maskavā.
+cv_lav_000221 common_voice_lv_27664580.mp3 Tu nudien nesaproti.
+cv_lav_000222 common_voice_lv_27664583.mp3 Vai nu piekritīs, vai piespiedīsi.
+cv_lav_000223 common_voice_lv_27664688.mp3 Vajadzēja ierīkot dušas viesu spārnā.
+cv_lav_000224 common_voice_lv_27664697.mp3 Rakstīja, ka tu aizejot no darba.
+cv_lav_000225 common_voice_lv_27664708.mp3 Man uzmetās zosāda!
+cv_lav_000226 common_voice_lv_27664744.mp3 Pieci tūkstoši.
+cv_lav_000227 common_voice_lv_19544806.mp3 Neej ar aizsietām acīm.
+cv_lav_000228 common_voice_lv_19544807.mp3 Paldies, tā ir tēta.
+cv_lav_000229 common_voice_lv_19544809.mp3 Cepums viņam.
+cv_lav_000230 common_voice_lv_19544810.mp3 Lēnāk taču.
+cv_lav_000231 common_voice_lv_19544811.mp3 Kas tev tas par kreklu?
+cv_lav_000232 common_voice_lv_19544813.mp3 Viņš pat nezina, kā to darīt.
+cv_lav_000233 common_voice_lv_19544814.mp3 Es zinu, vēl jāpiestrādā.
+cv_lav_000234 common_voice_lv_19544815.mp3 Apcietināšanai vajadzēs manu palīdzību.
+cv_lav_000235 common_voice_lv_19402422.mp3 Atsprādzēt stiprinājumus! Viena minūte!
+cv_lav_000236 common_voice_lv_19402424.mp3 Priecīgu spēļu laiku.
+cv_lav_000237 common_voice_lv_19402425.mp3 Es domāju, ka man ir tiesības nedaudz izrādīt tev savas dusmas.
+cv_lav_000238 common_voice_lv_19402426.mp3 Mēs varētu būt perfektais pāris.
+cv_lav_000239 common_voice_lv_19402437.mp3 Ber kā caurā maisā.
+cv_lav_000240 common_voice_lv_19402439.mp3 Nāc iekšā.
+cv_lav_000241 common_voice_lv_19402440.mp3 Uz drīzu redzēšanos. Bučas no tava muļķīgā tēta.
+cv_lav_000242 common_voice_lv_19402441.mp3 Vai pietiks?
+cv_lav_000243 common_voice_lv_20061263.mp3 Vai drīkstu apsēsties?
+cv_lav_000244 common_voice_lv_20061265.mp3 Tā gan, ser.
+cv_lav_000245 common_voice_lv_20061267.mp3 Tev nepadodas tādi triki.
+cv_lav_000246 common_voice_lv_20061268.mp3 Cik skaisti!
+cv_lav_000247 common_voice_lv_20061269.mp3 Labi, labi. Redzēsim.
+cv_lav_000248 common_voice_lv_20061282.mp3 Viņiem bez pūlēm dotas šīs lieliskās īpašības.
+cv_lav_000249 common_voice_lv_20061283.mp3 Redzēsim.
+cv_lav_000250 common_voice_lv_20061284.mp3 Varoņi cīnās abās pusēs, ļaunums visur.
+cv_lav_000251 common_voice_lv_20061285.mp3 Viena slikta aita visu baru maitā.
+cv_lav_000252 common_voice_lv_20068244.mp3 Divi līdzinieki esam, arvien mums saskan.
+cv_lav_000253 common_voice_lv_20068245.mp3 Ne mani lauki, ne mani lopi.
+cv_lav_000254 common_voice_lv_20068246.mp3 Es atgriezīšos pēc desmit minūtēm.
+cv_lav_000255 common_voice_lv_20068247.mp3 Briesmīga iedoma. Pasaulē ir krīze.
+cv_lav_000256 common_voice_lv_20068278.mp3 Pārāk izmisis.
+cv_lav_000257 common_voice_lv_20068279.mp3 Varbūt tur projektoru, gaismas.
+cv_lav_000258 common_voice_lv_20068280.mp3 Tad es pie visa esmu vainīgs?
+cv_lav_000259 common_voice_lv_20068281.mp3 Zināt, ko es domāju?
+cv_lav_000260 common_voice_lv_20068282.mp3 Ko lai saku mammai?
+cv_lav_000261 common_voice_lv_19417278.mp3 Pirmoreiz vari izvēlēties tādu dzīvi, kādu gribi.
+cv_lav_000262 common_voice_lv_19417279.mp3 Mēs visu laiku strīdamies.
+cv_lav_000263 common_voice_lv_19417281.mp3 Pērkons mums netiks klāt, vai ne?
+cv_lav_000264 common_voice_lv_19417282.mp3 Labi. Pagaidiet mani.
+cv_lav_000265 common_voice_lv_19417288.mp3 Tu brīnies?
+cv_lav_000266 common_voice_lv_19417289.mp3 Viņa ir slima.
+cv_lav_000267 common_voice_lv_19417290.mp3 Lieliska dziesma.
+cv_lav_000268 common_voice_lv_19417291.mp3 Lieliski. Kur viņš ir?
+cv_lav_000269 common_voice_lv_19417292.mp3 Es būšu.
+cv_lav_000270 common_voice_lv_19411047.mp3 Tu zini, kas.
+cv_lav_000271 common_voice_lv_19411049.mp3 Visi būtu apmierināti.
+cv_lav_000272 common_voice_lv_19411050.mp3 Kuģis jūs gaida.
+cv_lav_000273 common_voice_lv_19411051.mp3 Klūpi tā, ka vari piecelties.
+cv_lav_000274 common_voice_lv_19413691.mp3 Redz tavu nākotni un apzinās, ka tavas spējas būs grūti savaldīt.
+cv_lav_000275 common_voice_lv_19413692.mp3 Kāpēc lai tu to darītu?
+cv_lav_000276 common_voice_lv_19413693.mp3 Bet varu saderēt, ka viņš redz mūs.
+cv_lav_000277 common_voice_lv_19413694.mp3 Vai būs vēl kaut kas?
+cv_lav_000278 common_voice_lv_19413695.mp3 Valdi, tas ir jauki, bet es no tevis to negaidu.
+cv_lav_000279 common_voice_lv_20068171.mp3 Vai gribi kaut ko paskatīties?
+cv_lav_000280 common_voice_lv_20068172.mp3 Beidz, esmu lietpratējs.
+cv_lav_000281 common_voice_lv_20068173.mp3 Tas nav šampānietis.
+cv_lav_000282 common_voice_lv_20068174.mp3 Serjoga, atveda vēl vienu.
+cv_lav_000283 common_voice_lv_20080574.mp3 Tā ir labi.
+cv_lav_000284 common_voice_lv_20080575.mp3 Šī ir mana dzīve.
+cv_lav_000285 common_voice_lv_20080576.mp3 Ko lai saku mammai?
+cv_lav_000286 common_voice_lv_20080577.mp3 Es nestāstīju par šo vietu nevienam, izņemot Tēvoci.
+cv_lav_000287 common_voice_lv_20080578.mp3 Vai es drīkstu iet?
+cv_lav_000288 common_voice_lv_20068166.mp3 Nē. Man jātiek vaļā no tiem vadiem.
+cv_lav_000289 common_voice_lv_20068167.mp3 Ser, man nav tiesību sniegt informāciju par iemītniekiem.
+cv_lav_000290 common_voice_lv_20068168.mp3 Viņu maldināja. Tāpat kā mūs visus.
+cv_lav_000291 common_voice_lv_20068169.mp3 Maza apkalpošana, arī, kompliments no viesnīcas.
+cv_lav_000292 common_voice_lv_20068170.mp3 Iesim, puika.
+cv_lav_000293 common_voice_lv_20068208.mp3 Cik noprotams, tie čaļi paņēmuši guvumu.
+cv_lav_000294 common_voice_lv_20068209.mp3 Un kāds par to samaksās.
+cv_lav_000295 common_voice_lv_20068211.mp3 Stulbs paskats.
+cv_lav_000296 common_voice_lv_20068212.mp3 Vīrieši ir īsti suņi.
+cv_lav_000297 common_voice_lv_19413419.mp3 Nē, es neesmu pensijā.
+cv_lav_000298 common_voice_lv_19413421.mp3 Otram smej, pašam tiek.
+cv_lav_000299 common_voice_lv_19413422.mp3 Ko tu gribi no manis?
+cv_lav_000300 common_voice_lv_19413423.mp3 Tas ir viņš. Tam jābūt viņam.
+cv_lav_000301 common_voice_lv_19413425.mp3 Pēdējā laikā neesmu par tevi pietiekami parūpējies.
+cv_lav_000302 common_voice_lv_19413432.mp3 Par daudz čupojos ar draugiem.
+cv_lav_000303 common_voice_lv_19413433.mp3 Es redzu, ka tu šovakar labi nejūties.
+cv_lav_000304 common_voice_lv_19413435.mp3 Apskausimies. Nu taču.
+cv_lav_000305 common_voice_lv_19413436.mp3 Lieliski izskaties.
+cv_lav_000306 common_voice_lv_19413438.mp3 It kā pats būtu to piedzīvojis.
+cv_lav_000307 common_voice_lv_19547319.mp3 Man gribas zināt.
+cv_lav_000308 common_voice_lv_19547320.mp3 Un es nezinu, kas ir sliktāk.
+cv_lav_000309 common_voice_lv_19547321.mp3 Kas tā tāda?
+cv_lav_000310 common_voice_lv_19547322.mp3 Tā es to nedomāju.
+cv_lav_000311 common_voice_lv_19547323.mp3 Un dabūsim tavu grāmatu.
+cv_lav_000312 common_voice_lv_19547334.mp3 Es esmu pārāk sakārtota, es esmu noslēgta, bet labā nozīmē.
+cv_lav_000313 common_voice_lv_19547335.mp3 Kāda jēga no maka, ja tajā nav naudas.
+cv_lav_000314 common_voice_lv_19547336.mp3 Pilnīgs juceklis. Kas ir šīs meitenes?
+cv_lav_000315 common_voice_lv_19547337.mp3 Es drīz vien aizrakšos līdz patiesībai.
+cv_lav_000316 common_voice_lv_19547338.mp3 Es biju prom, pirms viņa pamodās.
+cv_lav_000317 common_voice_lv_20090818.mp3 Lai ko izdarīju, atvainojos.
+cv_lav_000318 common_voice_lv_20090819.mp3 Tu lasi?
+cv_lav_000319 common_voice_lv_20090820.mp3 Jā, iesaiņojiet man.
+cv_lav_000320 common_voice_lv_20090821.mp3 Bļāviens, viņus reāli varēja piečakarēt.
+cv_lav_000321 common_voice_lv_20090822.mp3 Bet es gribu, lai tu zini, es darīšu visu, lai tu būtu drošībā.
+cv_lav_000322 common_voice_lv_20090853.mp3 Nāc, laiks doties.
+cv_lav_000323 common_voice_lv_20090854.mp3 Kaut tu pa īstam prastu runāt, tad mēs mūžam būtu labākie draugi.
+cv_lav_000324 common_voice_lv_20090855.mp3 Ar ļaunu nekā laba nepadarīsi.
+cv_lav_000325 common_voice_lv_20090856.mp3 Tu domā, ka viņš ir miris, vai ne?
+cv_lav_000326 common_voice_lv_20090857.mp3 Kas vienreiz nozog, vienmēr tiek par zagli turēts.
+cv_lav_000327 common_voice_lv_20062853.mp3 Jēziņ. Tu runā kā mana mamma.
+cv_lav_000328 common_voice_lv_20062854.mp3 Es skaitīšu, saki stop.
+cv_lav_000329 common_voice_lv_20062855.mp3 Viņu vienīgais pareizais lēmums.
+cv_lav_000330 common_voice_lv_20062856.mp3 Nē. Pagaidi.
+cv_lav_000331 common_voice_lv_20062857.mp3 Man ir rīta svārki.
+cv_lav_000332 common_voice_lv_20062868.mp3 Vairāk nekas mani neuztrauc.
+cv_lav_000333 common_voice_lv_20062869.mp3 Viss kārtībā, mīļā?
+cv_lav_000334 common_voice_lv_20062870.mp3 Esmu tik laimīga.
+cv_lav_000335 common_voice_lv_20062871.mp3 Jā, bet kāpēc ir jāpērk žirafe?
+cv_lav_000336 common_voice_lv_20062872.mp3 Viesi gaida jau vairāk nekā divas stundas.
+cv_lav_000337 common_voice_lv_20063443.mp3 Es teicu, man nav ūdens.
+cv_lav_000338 common_voice_lv_20063444.mp3 Tā ir mazāka.
+cv_lav_000339 common_voice_lv_20063445.mp3 Vēlāk tev piezvanīšu.
+cv_lav_000340 common_voice_lv_20063446.mp3 Neliec nost! Es esmu ķezā.
+cv_lav_000341 common_voice_lv_20063447.mp3 Neviens neēd tik daudz zefīru!
+cv_lav_000342 common_voice_lv_20063453.mp3 Viņa drīz būs šeit.
+cv_lav_000343 common_voice_lv_20063454.mp3 Es nevarēšu tev palīdzēt tajā, kas tevi sagaida.
+cv_lav_000344 common_voice_lv_20063455.mp3 Balta ķēve jāmazgā, skaista sieva jāsargā.
+cv_lav_000345 common_voice_lv_20063456.mp3 Bija jauki iepazīties.
+cv_lav_000346 common_voice_lv_20063457.mp3 Mēs nezinājām citu, kam zvanīt.
+cv_lav_000347 common_voice_lv_19411471.mp3 Jūs man to jau vaicājāt.
+cv_lav_000348 common_voice_lv_19411472.mp3 Neesmu nevienu pazaudējis, šerif.
+cv_lav_000349 common_voice_lv_19411473.mp3 Mums ir problēma.
+cv_lav_000350 common_voice_lv_19411474.mp3 Slinkums ir bada vēstnesis.
+cv_lav_000351 common_voice_lv_19411475.mp3 Otram sit, sev trāpa.
+cv_lav_000352 common_voice_lv_19411476.mp3 Nu taču. Paceliet klausuli, nolādēts.
+cv_lav_000353 common_voice_lv_19411477.mp3 Esat drošs?
+cv_lav_000354 common_voice_lv_19411478.mp3 Kas nebaro suni, baro zagli.
+cv_lav_000355 common_voice_lv_19411479.mp3 Ļauj, es tev palīdzēšu izlīgt ar Daigu.
+cv_lav_000356 common_voice_lv_19411480.mp3 Viņa ir pilnīgi cits cilvēks.
+cv_lav_000357 common_voice_lv_19619155.mp3 Šurp. Aizver durvis.
+cv_lav_000358 common_voice_lv_19619157.mp3 Domāju ka viņš varētu pabraukt vēl nedaudz, varbūt.
+cv_lav_000359 common_voice_lv_19619158.mp3 Šeit sauc mani par Martu.
+cv_lav_000360 common_voice_lv_19619160.mp3 Met prom!
+cv_lav_000361 common_voice_lv_19619162.mp3 Tie nekad nav labi stāsti kā filmās.
+cv_lav_000362 common_voice_lv_19619195.mp3 Nav iemesla man ko nodarīt.
+cv_lav_000363 common_voice_lv_19619196.mp3 Laba sieva ir dārga manta.
+cv_lav_000364 common_voice_lv_19619197.mp3 Labi, iesim nu.
+cv_lav_000365 common_voice_lv_19619198.mp3 Nost no ceļa!
+cv_lav_000366 common_voice_lv_19619199.mp3 Tev palīdzēt?
+cv_lav_000367 common_voice_lv_19411516.mp3 Atnācu apraudzīt tevi un mazo.
+cv_lav_000368 common_voice_lv_19411517.mp3 Nekādā gadījumā.
+cv_lav_000369 common_voice_lv_19411518.mp3 Darbam sūras saknes, bet saldi augļi.
+cv_lav_000370 common_voice_lv_19411519.mp3 Vairāk, nekā tu spēj iedomāties.
+cv_lav_000371 common_voice_lv_19411520.mp3 Vēlu tev laimi. Tu esi to pelnījusi.
+cv_lav_000372 common_voice_lv_19411526.mp3 Viņš teica, vēl kaut kas esot tuksnesī.
+cv_lav_000373 common_voice_lv_19411527.mp3 Ei! Mana kārta. Ei, ei!
+cv_lav_000374 common_voice_lv_19411528.mp3 Es biju brīvs.
+cv_lav_000375 common_voice_lv_19411529.mp3 Nekad neesmu uzticējies japāņiem.
+cv_lav_000376 common_voice_lv_19411530.mp3 Kā tu zini, ka pēc tam nepaliek vēl sliktāk?
+cv_lav_000377 common_voice_lv_19869504.mp3 Dārgumiņ.
+cv_lav_000378 common_voice_lv_19869505.mp3 Tu zini, tev būs jānāk pakaļ.
+cv_lav_000379 common_voice_lv_19869506.mp3 Labi, ejam!
+cv_lav_000380 common_voice_lv_19869507.mp3 Aprunāsimies? Kā tevi sauc?
+cv_lav_000381 common_voice_lv_19869508.mp3 Skaidrs? Nevar zināt, uz ko viņš ir spējīgs.
+cv_lav_000382 common_voice_lv_19869510.mp3 "Tu to vari", viņš teica.
+cv_lav_000383 common_voice_lv_19869511.mp3 Jābūt vaļā trim kasēm.
+cv_lav_000384 common_voice_lv_19869512.mp3 Bet tāds ir konkursa rezultāts.
+cv_lav_000385 common_voice_lv_19869513.mp3 Kaut ko piemirsu izdarīt drīz atgriezīšos.
+cv_lav_000386 common_voice_lv_19869514.mp3 Ko lai dara.
+cv_lav_000387 common_voice_lv_20063253.mp3 Jau esmu ceļā.
+cv_lav_000388 common_voice_lv_20063254.mp3 Laikam Jūs.
+cv_lav_000389 common_voice_lv_20063255.mp3 Es zinu.
+cv_lav_000390 common_voice_lv_20063256.mp3 Tikai mieru!
+cv_lav_000391 common_voice_lv_20063257.mp3 Tagad jums man jātic.
+cv_lav_000392 common_voice_lv_20063285.mp3 Turi līmenī.
+cv_lav_000393 common_voice_lv_20063287.mp3 Vienmēr esmu zinājusi, ka tas izvērtīsies šādi.
+cv_lav_000394 common_voice_lv_20063289.mp3 Tu esi pārāk slima.
+cv_lav_000395 common_voice_lv_20063290.mp3 Tas ir somā, mam.
+cv_lav_000396 common_voice_lv_20063292.mp3 Nu gan esmu iekritis!
+cv_lav_000397 common_voice_lv_20063293.mp3 Esmu jauniņā, un mums vajag naudu, tāpēc...
+cv_lav_000398 common_voice_lv_20063294.mp3 Jūs esat mūsu zelta cilvēks.
+cv_lav_000399 common_voice_lv_19548413.mp3 Jūs vairs neesat Kanzasā.
+cv_lav_000400 common_voice_lv_19548415.mp3 Neesmu no tiem, kas tevi meklē.
+cv_lav_000401 common_voice_lv_19548416.mp3 Lai viss būtu pa pirmo!
+cv_lav_000402 common_voice_lv_19548417.mp3 Iznesīšu ārā aukstumkasti.
+cv_lav_000403 common_voice_lv_19548423.mp3 Policisti, vai varu uz mirkli lūgt jūsu palīdzību?
+cv_lav_000404 common_voice_lv_19548424.mp3 Tas ir tikai šampūns, bet paldies.
+cv_lav_000405 common_voice_lv_19548425.mp3 Un tad?
+cv_lav_000406 common_voice_lv_19548426.mp3 Nevienā mūsu datubāzē nav jūsu pirkstu nospiedumu.
+cv_lav_000407 common_voice_lv_19548427.mp3 Mums vajag vēl vienu robotu.
+cv_lav_000408 common_voice_lv_19548443.mp3 Jā, dzīvoju.
+cv_lav_000409 common_voice_lv_19548445.mp3 Vislabākais.
+cv_lav_000410 common_voice_lv_19548446.mp3 Taupi maizi, netaupi darbu!
+cv_lav_000411 common_voice_lv_19548447.mp3 Tu droši zini?
+cv_lav_000412 common_voice_lv_19412691.mp3 Mācīju tevi kopš zēna gadiem.
+cv_lav_000413 common_voice_lv_19412692.mp3 Kāpēc Jūs man to stāstāt, šerif?
+cv_lav_000414 common_voice_lv_19412693.mp3 Viņa ieteica.
+cv_lav_000415 common_voice_lv_19412694.mp3 Viņa būs nobijusies un vāja.
+cv_lav_000416 common_voice_lv_19412695.mp3 Es iestāšos žurnālistos, lai kļūtu par reportieri.
+cv_lav_000417 common_voice_lv_19412696.mp3 Piezvani man, un es būšu klāt
+cv_lav_000418 common_voice_lv_19412697.mp3 Mūsu rīcībā vairs nav stundas.
+cv_lav_000419 common_voice_lv_19412698.mp3 Ja nu viņš būtu iznācis un redzējis, ka tu rakājies pa viņa portfeli?
+cv_lav_000420 common_voice_lv_19412699.mp3 Tu visu saproti.
+cv_lav_000421 common_voice_lv_19412700.mp3 Sveiks, mister čempion!
+cv_lav_000422 common_voice_lv_19412701.mp3 Tu esi stulbs?
+cv_lav_000423 common_voice_lv_19412702.mp3 Vai tu redzi nākotni?
+cv_lav_000424 common_voice_lv_19412703.mp3 Kas centu netaupa, pie eiro netiek.
+cv_lav_000425 common_voice_lv_19412704.mp3 Nevēlos liekuļot par to, kas bez šaubām svarīgs.
+cv_lav_000426 common_voice_lv_19412705.mp3 Ļauj man ievilk elpu.
+cv_lav_000427 common_voice_lv_24984778.mp3 Vai ieliet vēl?
+cv_lav_000428 common_voice_lv_24984779.mp3 Tu smejies par mani.
+cv_lav_000429 common_voice_lv_24984780.mp3 Ej gulēt, mums agri jādodas ceļā.
+cv_lav_000430 common_voice_lv_24984807.mp3 Parunāsim rīt no rīta.
+cv_lav_000431 common_voice_lv_24984846.mp3 Kurš gan grib pavadīt svētkus tropu klimatā?
+cv_lav_000432 common_voice_lv_25050093.mp3 Ne mana cūka, ne mana druva.
+cv_lav_000433 common_voice_lv_25050108.mp3 Ko tu tagad darīsi?
+cv_lav_000434 common_voice_lv_25050118.mp3 Sāc no sākuma un izstāsti mums, kas notika.
+cv_lav_000435 common_voice_lv_25050397.mp3 Es zinu. Man tā nevajadzēja darīt.
+cv_lav_000436 common_voice_lv_25050398.mp3 Rises ļoti labi saredzamas.
+cv_lav_000437 common_voice_lv_25050399.mp3 Mums ar Daigu jāpadzīvo divatā.
+cv_lav_000438 common_voice_lv_25050411.mp3 Es krāpjos.
+cv_lav_000439 common_voice_lv_25050429.mp3 Iet kā aita bez galvas.
+cv_lav_000440 common_voice_lv_25050431.mp3 Tagad pagaidi.
+cv_lav_000441 common_voice_lv_25050436.mp3 Tētis mani sodīja.
+cv_lav_000442 common_voice_lv_19389078.mp3 Galvenais ir neapskādēt grīdu.
+cv_lav_000443 common_voice_lv_19389080.mp3 Tagad arī tu?
+cv_lav_000444 common_voice_lv_19389081.mp3 Tas bija mans sapnis.
+cv_lav_000445 common_voice_lv_19389082.mp3 Turpini strādāt. Tas nekas nav.
+cv_lav_000446 common_voice_lv_19389084.mp3 Jā. Viņam ir bieza āda.
+cv_lav_000447 common_voice_lv_19389107.mp3 Es esmu laimīgs.
+cv_lav_000448 common_voice_lv_19389108.mp3 Jūsuprāt, tā ir spēle?
+cv_lav_000449 common_voice_lv_19389109.mp3 Nezināju, ka tādi ir.
+cv_lav_000450 common_voice_lv_19389110.mp3 Māra, viņš melo.
+cv_lav_000451 common_voice_lv_19389111.mp3 Piezvani man, kad varēsi.
+cv_lav_000452 common_voice_lv_19389122.mp3 Tad vari te palikt visu nakti.
+cv_lav_000453 common_voice_lv_19389126.mp3 Vai ņemsit vēl kaut ko?
+cv_lav_000454 common_voice_lv_19389129.mp3 Es gribu viņu atpakaļ.
+cv_lav_000455 common_voice_lv_19389130.mp3 Mēs tikko izšķīrāmies.
+cv_lav_000456 common_voice_lv_19389131.mp3 Šis muļķīgais izpārdošanā nopirktais kafijas galdiņš ar ratu!
+cv_lav_000457 common_voice_lv_19413738.mp3 Kas tev kaiš?
+cv_lav_000458 common_voice_lv_19413739.mp3 Kas tas ir? Izklausās nelāgi.
+cv_lav_000459 common_voice_lv_19413741.mp3 Labi, lai būtu, kā tu saki.
+cv_lav_000460 common_voice_lv_19413742.mp3 Taču viņa ir mana sirdsdāma.
+cv_lav_000461 common_voice_lv_19413744.mp3 Visu savu mūžu?
+cv_lav_000462 common_voice_lv_19413753.mp3 Viss bija salikts pa plauktiņiem.
+cv_lav_000463 common_voice_lv_19413754.mp3 Es teicu, Jūs neapjēdzat, ko runājat.
+cv_lav_000464 common_voice_lv_19413756.mp3 Liela brēka, maza vilna.
+cv_lav_000465 common_voice_lv_19413757.mp3 Es tikai gribēju būt laba.
+cv_lav_000466 common_voice_lv_19413759.mp3 Kas vainas šai bildei?
+cv_lav_000467 common_voice_lv_19413771.mp3 Varbūt gribi pastāstīt, kā šādu sarunu uzsākt?
+cv_lav_000468 common_voice_lv_19413772.mp3 Negaidīju, ka atsauksieties šai maskuballes tematikai.
+cv_lav_000469 common_voice_lv_19413773.mp3 Tikko uzzināju ko šausmīgu.
+cv_lav_000470 common_voice_lv_19413774.mp3 Tas nebija tā.
+cv_lav_000471 common_voice_lv_19413775.mp3 Kad mēs ar Gati sākām satikties, mēs abi gribējām vienu un to pašu.
+cv_lav_000472 common_voice_lv_19614208.mp3 Uz redzi. Ejam, Robert.
+cv_lav_000473 common_voice_lv_19614209.mp3 Protams.
+cv_lav_000474 common_voice_lv_19614210.mp3 Mīļumiņ, ne tagad. Bet drīz, pavisam drīz.
+cv_lav_000475 common_voice_lv_19614211.mp3 Atlikums. Neesmu maita.
+cv_lav_000476 common_voice_lv_19614217.mp3 Ķeriet viņu!
+cv_lav_000477 common_voice_lv_19614218.mp3 Nezinu, ko tu no manis sagaidi, Ben.
+cv_lav_000478 common_voice_lv_19614221.mp3 Zini, ko protu?
+cv_lav_000479 common_voice_lv_19614227.mp3 Kur ņēmusi mūsu numurus?
+cv_lav_000480 common_voice_lv_19614228.mp3 Tagad iesim ēst olu rullīšus.
+cv_lav_000481 common_voice_lv_19614229.mp3 Atbildi uz sasodīto...
+cv_lav_000482 common_voice_lv_19614230.mp3 Vienmēr dzirdu.
+cv_lav_000483 common_voice_lv_19614231.mp3 Kāp ārā no krēsla un palīdzi ievilkt mājā!
+cv_lav_000484 common_voice_lv_19614359.mp3 Vai tu re! Kas tas?
+cv_lav_000485 common_voice_lv_19614361.mp3 Pat mūsu roboti tur nestrādās.
+cv_lav_000486 common_voice_lv_19614366.mp3 Soļo iekšā!
+cv_lav_000487 common_voice_lv_19614369.mp3 Dzirdēji? Tu nevienam nepatīc!
+cv_lav_000488 common_voice_lv_19543050.mp3 Kā tas jāsaprot?
+cv_lav_000489 common_voice_lv_19543051.mp3 Lauka izjaukšana var iedzīt viņu slazdā.
+cv_lav_000490 common_voice_lv_19543052.mp3 Viņš nevēlas liekas raizes.
+cv_lav_000491 common_voice_lv_19543053.mp3 Uz mani iedarbojas.
+cv_lav_000492 common_voice_lv_19543054.mp3 Satraucas vecāki, es sodu. Nežēlīgi sodu.
+cv_lav_000493 common_voice_lv_19543055.mp3 Mums bija tikšanās kaut kur pilsētā.
+cv_lav_000494 common_voice_lv_19543056.mp3 Kā tas īsti nākas?
+cv_lav_000495 common_voice_lv_19543057.mp3 Vai tev kas kaiš? Tu trīci.
+cv_lav_000496 common_voice_lv_19543058.mp3 Viņam ir šoks.
+cv_lav_000497 common_voice_lv_19543060.mp3 Tu, man iemācīji visu.
+cv_lav_000498 common_voice_lv_19543075.mp3 Labi, labi. Es atvainojos.
+cv_lav_000499 common_voice_lv_19543076.mp3 Vēl vienu glāzi, lūdzu.
+cv_lav_000500 common_voice_lv_19543077.mp3 Nometnē ir paslēpts angārs.
+cv_lav_000501 common_voice_lv_19543078.mp3 Tev vajag nomazgāties. Vai ne?
+cv_lav_000502 common_voice_lv_19543079.mp3 Otra neņem, pats sava nedod.
+cv_lav_000503 common_voice_lv_19543082.mp3 Es mīlu viņas smieklu skaņu.
+cv_lav_000504 common_voice_lv_19543083.mp3 Visiem, paldies par pacietību.
+cv_lav_000505 common_voice_lv_19543085.mp3 Ātrāk, draugs!
+cv_lav_000506 common_voice_lv_19543086.mp3 Saģērbieties silti, ārā ir auksts.
+cv_lav_000507 common_voice_lv_19543087.mp3 Upes dziļumu neizmēģina ar abām kājām reizē.
+cv_lav_000508 common_voice_lv_19410962.mp3 No visas sirds lūdzos.
+cv_lav_000509 common_voice_lv_19410963.mp3 Nē, tu negribi.
+cv_lav_000510 common_voice_lv_19410964.mp3 To es zinu.
+cv_lav_000511 common_voice_lv_19410965.mp3 Viņam taisnība.
+cv_lav_000512 common_voice_lv_19410966.mp3 Es jūtu slazdu.
+cv_lav_000513 common_voice_lv_19410999.mp3 Tu ēdīsi?
+cv_lav_000514 common_voice_lv_19411001.mp3 Atrodi darbu, svinēsim pēc tam.
+cv_lav_000515 common_voice_lv_19411002.mp3 Domā, viņš ir narkokurjers?
+cv_lav_000516 common_voice_lv_19411003.mp3 Uzklausi mani!
+cv_lav_000517 common_voice_lv_19411004.mp3 Tev bija taisnība.
+cv_lav_000518 common_voice_lv_19411012.mp3 Sveiki visiem, mēs pārcelsimies uz dzīvojamo istabu
+cv_lav_000519 common_voice_lv_19411013.mp3 Šķiet, šie tipi bijuši augstākās raudzes.
+cv_lav_000520 common_voice_lv_19411014.mp3 Zaglim zagļa alga.
+cv_lav_000521 common_voice_lv_19411015.mp3 Vecs, bet ne novecojis.
+cv_lav_000522 common_voice_lv_19411016.mp3 Jūs tik ļoti esat dzīvojusi ārpus rāmjiem, ka jūs pat neeksistējat.
+cv_lav_000523 common_voice_lv_19411019.mp3 Redzi, es neesmu robots.
+cv_lav_000524 common_voice_lv_19411021.mp3 Es pašlaik nekam nederu.
+cv_lav_000525 common_voice_lv_19411022.mp3 Es nezinu ko...
+cv_lav_000526 common_voice_lv_19411024.mp3 Pēc divdesmit minūtēm.
+cv_lav_000527 common_voice_lv_19411025.mp3 Zini, cik tur ir pudeļu?
+cv_lav_000528 common_voice_lv_19411082.mp3 Kas ar viņu notika?
+cv_lav_000529 common_voice_lv_19411083.mp3 Nekam nederīgais znots.
+cv_lav_000530 common_voice_lv_19411084.mp3 Kur ir mans riņķis?
+cv_lav_000531 common_voice_lv_19411085.mp3 Es domāju ka vajag vēl.
+cv_lav_000532 common_voice_lv_19411086.mp3 Kam spēks, tam vara.
+cv_lav_000533 common_voice_lv_19411087.mp3 Aktivizē ģeneratoru.
+cv_lav_000534 common_voice_lv_19411088.mp3 Jāaizbrauc samaksāt par restorānu.
+cv_lav_000535 common_voice_lv_19411089.mp3 Mēs ar puišiem gribam paplosīties.
+cv_lav_000536 common_voice_lv_19411090.mp3 Dainis nereti piekāpj pie manis darbā.
+cv_lav_000537 common_voice_lv_19411091.mp3 Mums tevis pietrūka.
+cv_lav_000538 common_voice_lv_19453371.mp3 Lien nost!
+cv_lav_000539 common_voice_lv_19453372.mp3 Un tagad viņš apstājas. Vēl pusotrs metrs ko pabraukt.
+cv_lav_000540 common_voice_lv_19453373.mp3 Kas tāda arī ir.
+cv_lav_000541 common_voice_lv_19453374.mp3 Viņa vecāki pārbijās, uztaisīja traci, lika noņemt pirkstu nospiedumus, lika viņu ieslodzīt...
+cv_lav_000542 common_voice_lv_19453375.mp3 Sameklēsim aptieku.
+cv_lav_000543 common_voice_lv_19453381.mp3 Jebkur, izņemot kabatu.
+cv_lav_000544 common_voice_lv_19453382.mp3 Kas tie par Ziemassvētkiem bez eglītes?
+cv_lav_000545 common_voice_lv_19453383.mp3 Viens suns ilgi nerej.
+cv_lav_000546 common_voice_lv_19453384.mp3 Pēc pāris stundām atjēgsies.
+cv_lav_000547 common_voice_lv_19453385.mp3 Kur tu esi? Tev jābrauc šurp.
+cv_lav_000548 common_voice_lv_19421337.mp3 Domājat, ka pareizie jautājumi palīdzēs jums atklāt patiesību?
+cv_lav_000549 common_voice_lv_19421338.mp3 Viņš saka, tā ir drošāk.
+cv_lav_000550 common_voice_lv_19421339.mp3 Drusku par vēlu ir daudz par vēlu.
+cv_lav_000551 common_voice_lv_19421340.mp3 Protams, ka nē. Tu pārāk ātri aizej.
+cv_lav_000552 common_voice_lv_19421341.mp3 Nezinu. Manuprāt, tas ir par traku.
+cv_lav_000553 common_voice_lv_19449050.mp3 Tev jāizvēlas, Kārli.
+cv_lav_000554 common_voice_lv_19449051.mp3 Tev vajag vannu.
+cv_lav_000555 common_voice_lv_19449052.mp3 Tik slikti nav.
+cv_lav_000556 common_voice_lv_19449053.mp3 Es izdarīju kā teici.
+cv_lav_000557 common_voice_lv_19449054.mp3 To esmu tev parādā.
+cv_lav_000558 common_voice_lv_19449055.mp3 Tas ir brīnišķīgi, Daini.
+cv_lav_000559 common_voice_lv_19449056.mp3 Ko es redzu Antīkās mākslas šedevrs.
+cv_lav_000560 common_voice_lv_19449057.mp3 Tu runā kā separātiste.
+cv_lav_000561 common_voice_lv_19449058.mp3 Vai esam klāt?
+cv_lav_000562 common_voice_lv_19449059.mp3 Zvērēju nekad šeit neatgriezties.
+cv_lav_000563 common_voice_lv_19452192.mp3 Kādi ir kaimiņi?
+cv_lav_000564 common_voice_lv_19452193.mp3 Man bija jātiek projām.
+cv_lav_000565 common_voice_lv_19452194.mp3 Pacietīgam pieder pasaule.
+cv_lav_000566 common_voice_lv_19452195.mp3 Ko tu no manis gribi?
+cv_lav_000567 common_voice_lv_19452196.mp3 Kāds mani meklē. Ne jau policija.
+cv_lav_000568 common_voice_lv_19457062.mp3 Es došos tev līdzi.
+cv_lav_000569 common_voice_lv_19457063.mp3 Jā, ciet klusu!
+cv_lav_000570 common_voice_lv_19457065.mp3 Vai tev viss kārtībā?
+cv_lav_000571 common_voice_lv_19457066.mp3 Lai būtu vienkāršāk, varētu publicēt nekrologus kopā ar nekustamo īpašumu sludinājumiem.
+cv_lav_000572 common_voice_lv_27006193.mp3 Ja tu esi Rodrigo, pierādi to.
+cv_lav_000573 common_voice_lv_27006195.mp3 Ar vienu roku dod, ar otru ņem.
+cv_lav_000574 common_voice_lv_27600877.mp3 Labi! Man viņi ir vajadzīgi!
+cv_lav_000575 common_voice_lv_19400461.mp3 Nelaime nenāk brēkdama.
+cv_lav_000576 common_voice_lv_19400462.mp3 Paldies, nāciet atkal. Preču ir daudz.
+cv_lav_000577 common_voice_lv_19400463.mp3 Mans tēva tēvs bija likumsargs. Arī tēvs.
+cv_lav_000578 common_voice_lv_19400464.mp3 Viņš ir zaglis, bet jūs līdzzinātāji.
+cv_lav_000579 common_voice_lv_19400465.mp3 Tu esi mans čoms.
+cv_lav_000580 common_voice_lv_19400471.mp3 Vai ne, Kārli? Tā es teicu.
+cv_lav_000581 common_voice_lv_19400472.mp3 Ļaunākais, kas var notikt, tev būs jautrs randiņš.
+cv_lav_000582 common_voice_lv_19400473.mp3 Cīnīsies par visām varītēm.
+cv_lav_000583 common_voice_lv_19400474.mp3 Es jūtu tevī lielu apjukumu.
+cv_lav_000584 common_voice_lv_19400475.mp3 Tiešām? Baigi labi.
+cv_lav_000585 common_voice_lv_19400476.mp3 Man ir nospļauties!
+cv_lav_000586 common_voice_lv_19400478.mp3 Viņš ir savādāks nekā citi.
+cv_lav_000587 common_voice_lv_19400479.mp3 Gribam, lai tu apsver iespēju pārņemt viņa līgumu.
+cv_lav_000588 common_voice_lv_19400480.mp3 Varbūt kaut ko aizmirsis.
+cv_lav_000589 common_voice_lv_19400481.mp3 Labi iesākts darbs ir pa pusei padarīts.
+cv_lav_000590 common_voice_lv_19400482.mp3 Maikls tagad ir mans vīrs.
+cv_lav_000591 common_voice_lv_19400483.mp3 Par to jāpateicas tavai apmācībai.
+cv_lav_000592 common_voice_lv_19400484.mp3 Es viņu redzu!
+cv_lav_000593 common_voice_lv_19400486.mp3 Martai bija taisnība.
+cv_lav_000594 common_voice_lv_19400487.mp3 Zini, ko es ar viņu darītu?
+cv_lav_000595 common_voice_lv_19400488.mp3 Kas, pie joda, notiek?
+cv_lav_000596 common_voice_lv_19400489.mp3 Jā, domāju ka ir labi, ja?
+cv_lav_000597 common_voice_lv_19400490.mp3 Starp citu, tu pārbaudījies?
+cv_lav_000598 common_voice_lv_19400496.mp3 Tā ir ļoti draudzīga!
+cv_lav_000599 common_voice_lv_19400497.mp3 Draudzenes dēļ cenšos kļūt pieaudzis.
+cv_lav_000600 common_voice_lv_19400498.mp3 Tas ir šampūns.
+cv_lav_000601 common_voice_lv_19400499.mp3 Kas ar jums notika?
+cv_lav_000602 common_voice_lv_19400500.mp3 Labāk paēdīsim un parunāsim par to vēlāk.
+cv_lav_000603 common_voice_lv_20067432.mp3 Šķiet, nupat jau esmu iemanījies lidot.
+cv_lav_000604 common_voice_lv_20067433.mp3 Tu gan esi pārdrošs.
+cv_lav_000605 common_voice_lv_20067434.mp3 Nāc atpakaļ! Iedod buču!
+cv_lav_000606 common_voice_lv_20067435.mp3 Tā bija neveiklākā nakts manā mūžā.
+cv_lav_000607 common_voice_lv_20067436.mp3 Gan jau neatteiktu.
+cv_lav_000608 common_voice_lv_20067462.mp3 Man vienmēr paticis dzirdēt stāstus par vecajiem.
+cv_lav_000609 common_voice_lv_20067463.mp3 Es mums piedāvāju nākotni.
+cv_lav_000610 common_voice_lv_20067464.mp3 Nelepojies ar vārdiem, bet ar darbiem.
+cv_lav_000611 common_voice_lv_20067465.mp3 Es nesaku, ka vakar nebija labi.
+cv_lav_000612 common_voice_lv_20067466.mp3 Vienkārši sievietes un vīrieši nevar būt draugi, jo vienmēr pa vidu ir seksuālā puse.
+cv_lav_000613 common_voice_lv_20067467.mp3 Viņš neuzskata, ka viņam tā nepieciešama.
+cv_lav_000614 common_voice_lv_20067468.mp3 Mēs dodamies izjādē.
+cv_lav_000615 common_voice_lv_20067470.mp3 Meitene, turi muti.
+cv_lav_000616 common_voice_lv_20067472.mp3 Tu apturēji to?
+cv_lav_000617 common_voice_lv_20067474.mp3 Cik žēl. Man tiešām žēl.
+cv_lav_000618 common_voice_lv_20067477.mp3 Diētisko kolu, lūdzu.
+cv_lav_000619 common_voice_lv_20067478.mp3 Manas kājas joprojām sāp.
+cv_lav_000620 common_voice_lv_20067479.mp3 Nez vai vajag sūdzēties.
+cv_lav_000621 common_voice_lv_20067480.mp3 Jums nav ne pasu, ne darba atļaujas.
+cv_lav_000622 common_voice_lv_20067482.mp3 Velc savu pakaļu sūda treilerā.
+cv_lav_000623 common_voice_lv_20067502.mp3 Jums tā nepatiks.
+cv_lav_000624 common_voice_lv_20067503.mp3 Citi bērni tevi izsmies.
+cv_lav_000625 common_voice_lv_20067504.mp3 Kā? Kas tā ir? Kur tu par to dzirdēji?
+cv_lav_000626 common_voice_lv_20067505.mp3 Piedod, nav laika. Paliec sveiks.
+cv_lav_000627 common_voice_lv_20067506.mp3 Nepriecājies par cita bēdām, savas bēdas priekšā.
+cv_lav_000628 common_voice_lv_20067513.mp3 Uzlikt skābekļa maskas! Uz priekšu!
+cv_lav_000629 common_voice_lv_20067514.mp3 Es mīlu to, kā dzirdu šo dziesmu katru reizi, kad iedomājos par viņu.
+cv_lav_000630 common_voice_lv_20067515.mp3 Viņš atkal tēlo diska metēju.
+cv_lav_000631 common_voice_lv_20067516.mp3 Ja nu es izgāzīšos?
+cv_lav_000632 common_voice_lv_20068763.mp3 Priekšā ceļ, aiz muguras peļ.
+cv_lav_000633 common_voice_lv_20068764.mp3 Esmu daudz laba par tevi dzirdējusi.
+cv_lav_000634 common_voice_lv_20068765.mp3 Tas, kuru meklējām.
+cv_lav_000635 common_voice_lv_20068766.mp3 Jā, laikam.
+cv_lav_000636 common_voice_lv_20068767.mp3 Tu gribi teikt, ka Kārlis ir brīvs?
+cv_lav_000637 common_voice_lv_20038178.mp3 Varbūt kinoteātrī?
+cv_lav_000638 common_voice_lv_20038179.mp3 Domāju gan.
+cv_lav_000639 common_voice_lv_20038180.mp3 Nē. Nedrīkst kāpt augšā.
+cv_lav_000640 common_voice_lv_20038181.mp3 Esmu par. Drausmīgi gribas čurāt.
+cv_lav_000641 common_voice_lv_20038182.mp3 Un uz ko man jāskatās?
+cv_lav_000642 common_voice_lv_20038218.mp3 Viņi tur bija.
+cv_lav_000643 common_voice_lv_20038219.mp3 Ļoti gruntīgs pāris.
+cv_lav_000644 common_voice_lv_20038220.mp3 Tu nāksi?
+cv_lav_000645 common_voice_lv_20038223.mp3 Mums ir laika limits. Trīsdesmit minūtes.
+cv_lav_000646 common_voice_lv_20038230.mp3 Te es nāku
+cv_lav_000647 common_voice_lv_20038231.mp3 Dumiķīt, mamma ir desmit štatus tālāk.
+cv_lav_000648 common_voice_lv_20038232.mp3 Pagaidi, atvaino.
+cv_lav_000649 common_voice_lv_20038233.mp3 Tu nezini, ko viņš domā.
+cv_lav_000650 common_voice_lv_20038234.mp3 Gribēju pajautāt.
+cv_lav_000651 common_voice_lv_20038250.mp3 Bija prieks tikties.
+cv_lav_000652 common_voice_lv_20038251.mp3 Es satiekos ar cilvēkiem!
+cv_lav_000653 common_voice_lv_20038252.mp3 Protams, ka tik labam darbam, par tik labu samaksu, ir kāds āķis…
+cv_lav_000654 common_voice_lv_20038253.mp3 Mīļais.
+cv_lav_000655 common_voice_lv_20038254.mp3 Jums abiem daudz kas jāpaskaidro.
+cv_lav_000656 common_voice_lv_20038266.mp3 Tu tiec arestēts par to, ka esi tik mīlīgs.
+cv_lav_000657 common_voice_lv_20038268.mp3 Tev ir plāns, vai ne?
+cv_lav_000658 common_voice_lv_20038269.mp3 Varbūt viņa jums līdzēs kļūt laimīgam.
+cv_lav_000659 common_voice_lv_20038285.mp3 Velns. Šodien man otrā maiņa.
+cv_lav_000660 common_voice_lv_20038286.mp3 Es bieži slimoju, un mamma domā, ka labāk palikt mājās.
+cv_lav_000661 common_voice_lv_20038287.mp3 Es saku - pacietību.
+cv_lav_000662 common_voice_lv_20038288.mp3 Jā, tu arī.
+cv_lav_000663 common_voice_lv_20038300.mp3 Velns, dzimšanas diena.
+cv_lav_000664 common_voice_lv_20038301.mp3 Viņš mūs nobildēja!
+cv_lav_000665 common_voice_lv_20038302.mp3 Nē, es gribu.
+cv_lav_000666 common_voice_lv_20038303.mp3 Tādā gadījumā izlaidīšu.
+cv_lav_000667 common_voice_lv_20045574.mp3 Tūristiem ir daudz skaidras naudas.
+cv_lav_000668 common_voice_lv_20045575.mp3 Tu mani pārsteidz.
+cv_lav_000669 common_voice_lv_20045576.mp3 Mazulīt, no kuras pasakas esi?
+cv_lav_000670 common_voice_lv_20045578.mp3 Atnesīšu jums uzkodas.
+cv_lav_000671 common_voice_lv_20045580.mp3 Atlaidīsim!
+cv_lav_000672 common_voice_lv_19763334.mp3 Ak kungs. Pilnīgs vājprāts.
+cv_lav_000673 common_voice_lv_19763335.mp3 Nu un tad?
+cv_lav_000674 common_voice_lv_19763336.mp3 Nebija cita pilnpiedziņas auto.
+cv_lav_000675 common_voice_lv_19763338.mp3 Nevienam nepatīk gudrinieki, dēls.
+cv_lav_000676 common_voice_lv_19763340.mp3 Esat precējusies?
+cv_lav_000677 common_voice_lv_19763384.mp3 Viņa pieklājība nav mainījusies.
+cv_lav_000678 common_voice_lv_19763385.mp3 Pagaidi, pagaidi.
+cv_lav_000679 common_voice_lv_19763386.mp3 Tiekamies pusdienās, bērneļi.
+cv_lav_000680 common_voice_lv_19763387.mp3 Man nebija izvēles. Tu dusmotos!
+cv_lav_000681 common_voice_lv_19763388.mp3 Varbūt nākamnedēļ.
+cv_lav_000682 common_voice_lv_19763747.mp3 Bērni dzied svētku dziesmas.
+cv_lav_000683 common_voice_lv_19763748.mp3 Nē, ne tāpēc.
+cv_lav_000684 common_voice_lv_19763750.mp3 Vīrs un vārds.
+cv_lav_000685 common_voice_lv_19763754.mp3 Gribēju rakstīt, bet tad izdomāju pajautāt kā vecos laikos.
+cv_lav_000686 common_voice_lv_19764112.mp3 Uz ledusskapja ir manas viesnīcas numurs.
+cv_lav_000687 common_voice_lv_19764113.mp3 Kolosāli. Vai ne?
+cv_lav_000688 common_voice_lv_19764114.mp3 Es neesmu tevi pelnījis.
+cv_lav_000689 common_voice_lv_19764115.mp3 Vispirms atnesīsi man pusdienas?
+cv_lav_000690 common_voice_lv_19764116.mp3 Ilze domā, ka strādāsim par krupjē pēc pāris mēnešiem.
+cv_lav_000691 common_voice_lv_19764175.mp3 Es tikai nesaprotu.
+cv_lav_000692 common_voice_lv_19764176.mp3 Stulbais vecais ledus automāts.
+cv_lav_000693 common_voice_lv_19764177.mp3 Es tev teicu.
+cv_lav_000694 common_voice_lv_19764178.mp3 Mūsu dēls?
+cv_lav_000695 common_voice_lv_19764179.mp3 Mīļā, neaiztiec.
+cv_lav_000696 common_voice_lv_19764254.mp3 Nāc šurp. Celies. Nu taču.
+cv_lav_000697 common_voice_lv_19764257.mp3 Ir noticis kas brīnišķīgs.
+cv_lav_000698 common_voice_lv_19764258.mp3 Es vienmēr zināju, ka vienu dienu viņa mani nodos.
+cv_lav_000699 common_voice_lv_19764259.mp3 Turies tālāk.
+cv_lav_000700 common_voice_lv_20968967.mp3 Bagāts nabagam nav brālis.
+cv_lav_000701 common_voice_lv_20968968.mp3 Tāpat kā es vienmēr izdzīvoju, tu vienmēr mirsti.
+cv_lav_000702 common_voice_lv_20968969.mp3 Viņš man ir vajadzīgs!
+cv_lav_000703 common_voice_lv_20968970.mp3 Nav par ko. Sen nav bijis tik jautri.
+cv_lav_000704 common_voice_lv_20968971.mp3 Viņš teiks, ka man nekā nav.
+cv_lav_000705 common_voice_lv_20968972.mp3 Vai esi gatavs?
+cv_lav_000706 common_voice_lv_20968975.mp3 Nav par ko.
+cv_lav_000707 common_voice_lv_20968976.mp3 Tu zini, kāpēc.
+cv_lav_000708 common_voice_lv_19382787.mp3 Es esmu nenovēršams.
+cv_lav_000709 common_voice_lv_19382788.mp3 Viņš tuvojas!
+cv_lav_000710 common_voice_lv_19382789.mp3 Pirms sešiem gadiem.
+cv_lav_000711 common_voice_lv_19382790.mp3 Tēvoci Vaņa!
+cv_lav_000712 common_voice_lv_19382791.mp3 Nekustēties!
+cv_lav_000713 common_voice_lv_19382797.mp3 Nevajag daudz piepūlēties.
+cv_lav_000714 common_voice_lv_19382798.mp3 Nē, tas viss ir šķērsām, vai ne?
+cv_lav_000715 common_voice_lv_19382799.mp3 Jauki, Marta, jauki.
+cv_lav_000716 common_voice_lv_19382800.mp3 Uzbrukuma vienība uzvarēja, un roboti tika sakauti.
+cv_lav_000717 common_voice_lv_19382801.mp3 Teicu zāles čalim, lai uzlabo mantu.
+cv_lav_000718 common_voice_lv_19382827.mp3 Grūti noticēt.
+cv_lav_000719 common_voice_lv_19382828.mp3 Paldies par palīdzību.
+cv_lav_000720 common_voice_lv_19382829.mp3 Kur lieli dūmi, tur maz siltuma.
+cv_lav_000721 common_voice_lv_19382830.mp3 Nevajadzēja tā darīt.
+cv_lav_000722 common_voice_lv_19382831.mp3 Viņš atbrīvoja cietumniekus.
+cv_lav_000723 common_voice_lv_19382832.mp3 Kas neiet uz priekšu, iet atpakaļ.
+cv_lav_000724 common_voice_lv_19382833.mp3 Pārbaudīsim, vai esmu tev dārga.
+cv_lav_000725 common_voice_lv_19382834.mp3 Kad esmu ar tevi, citiem jācieš.
+cv_lav_000726 common_voice_lv_19382835.mp3 Šonakt, mēs savu pasauli dabūsim atpakaļ!
+cv_lav_000727 common_voice_lv_19382836.mp3 Diagnostika ir pabeigta, esam gatavi ieslēgt motoru.
+cv_lav_000728 common_voice_lv_19382837.mp3 Neesmu apprecējis īsto un to nožēloju.
+cv_lav_000729 common_voice_lv_19382838.mp3 Pabāz pirkstiņu man zem birkas.
+cv_lav_000730 common_voice_lv_19382839.mp3 Tas bija ļoti pārliecinoši.
+cv_lav_000731 common_voice_lv_19382840.mp3 Pagaidi. Nemet!
+cv_lav_000732 common_voice_lv_19382842.mp3 Es nepieļaušu, ka tas piepildās.
+cv_lav_000733 common_voice_lv_19382843.mp3 Tu tikai atnāc.
+cv_lav_000734 common_voice_lv_19382844.mp3 Ielej vēl vīnu.
+cv_lav_000735 common_voice_lv_19382846.mp3 Ko lai saku Artūram?
+cv_lav_000736 common_voice_lv_22712826.mp3 Ej pārbaudi televizoru!
+cv_lav_000737 common_voice_lv_22712838.mp3 Es ar savu draugu Artūru sēdēju restorānā.
+cv_lav_000738 common_voice_lv_22712839.mp3 Nolādētā tehnika!
+cv_lav_000739 common_voice_lv_22712841.mp3 Es zinu. Es nebiju vainīgs.
+cv_lav_000740 common_voice_lv_22712847.mp3 Dabūja ko pelnījis.
+cv_lav_000741 common_voice_lv_22712848.mp3 Poga priekšā.
+cv_lav_000742 common_voice_lv_22712851.mp3 Uzliec modinātāju uz vienpadsmitiem.
+cv_lav_000743 common_voice_lv_22712867.mp3 Beidzot esat klāt.
+cv_lav_000744 common_voice_lv_22712885.mp3 Tātad nolēmi ierasties šeit, pilnīgi bez nekādām iemaņām, lai redzētu, kas sanāks?
+cv_lav_000745 common_voice_lv_22712890.mp3 Dārgumiņ.
+cv_lav_000746 common_voice_lv_22712917.mp3 Ja vien uzzinās.
+cv_lav_000747 common_voice_lv_20065921.mp3 Noliec uz pakaļējā sēdekļa.
+cv_lav_000748 common_voice_lv_20065922.mp3 Mums jārīkojas ātri.
+cv_lav_000749 common_voice_lv_20065923.mp3 Jūs nezināt.
+cv_lav_000750 common_voice_lv_20065924.mp3 Izskatās pēc viņa.
+cv_lav_000751 common_voice_lv_20065925.mp3 Jā, forši.
+cv_lav_000752 common_voice_lv_20065948.mp3 Teica - viens un tas pats.
+cv_lav_000753 common_voice_lv_20065949.mp3 Tevis dēļ es darītu visu.
+cv_lav_000754 common_voice_lv_20065950.mp3 Atstāji manu somiņu uz galda.
+cv_lav_000755 common_voice_lv_20065953.mp3 Tavs tēvatēvs mani ne reizi nelūdza kļūt par kārtībsargu.
+cv_lav_000756 common_voice_lv_20065981.mp3 Ieradāties agrāk, nekā biju gaidījis.
+cv_lav_000757 common_voice_lv_20065985.mp3 Būs visu dienu jākopj.
+cv_lav_000758 common_voice_lv_20065986.mp3 Atlaižam!
+cv_lav_000759 common_voice_lv_20065987.mp3 Tā gan.
+cv_lav_000760 common_voice_lv_20065994.mp3 Kas smejas pēdējais, smejas visgardāk.
+cv_lav_000761 common_voice_lv_20065995.mp3 Vai drīkstu paskaidrot?
+cv_lav_000762 common_voice_lv_20065996.mp3 Nē, nē.
+cv_lav_000763 common_voice_lv_20065997.mp3 Papriekšu tavu, pēc tam katrs savu.
+cv_lav_000764 common_voice_lv_20065998.mp3 Es meklēju sarkanas zamša kurpes.
+cv_lav_000765 common_voice_lv_20066003.mp3 Nemāci kaķi peles ķert.
+cv_lav_000766 common_voice_lv_20066004.mp3 Uz kuru pusi vējš pūš, tur jāliecas.
+cv_lav_000767 common_voice_lv_20066005.mp3 Visi vienmēr tā saka.
+cv_lav_000768 common_voice_lv_20066006.mp3 Tu mani izglābi.
+cv_lav_000769 common_voice_lv_20066007.mp3 Tev tie patika.
+cv_lav_000770 common_voice_lv_20066021.mp3 Labi, es ņemšu telti.
+cv_lav_000771 common_voice_lv_20066023.mp3 Kļūdīties ir cilvēcīgi.
+cv_lav_000772 common_voice_lv_20066026.mp3 Ja tu tā uztraucies, aizej pie ārsta.
+cv_lav_000773 common_voice_lv_20066028.mp3 Man šķiet, ka bāžat savu degunu, kur nevajag.
+cv_lav_000774 common_voice_lv_20066029.mp3 Nopietni?
+cv_lav_000775 common_voice_lv_20066030.mp3 Tad jau laikam labi.
+cv_lav_000776 common_voice_lv_20066031.mp3 Man neliekas, ka tas tev palīdz nedomāt par Anitu.
+cv_lav_000777 common_voice_lv_20066032.mp3 Vismaz paldies varējāt pateikt.
+cv_lav_000778 common_voice_lv_20066033.mp3 Paskaties, kas te. Ei!
+cv_lav_000779 common_voice_lv_20066035.mp3 Atver muti.
+cv_lav_000780 common_voice_lv_20066041.mp3 Veicīgi braucam prom!
+cv_lav_000781 common_voice_lv_20066046.mp3 Ser, jūs mani dzirdat?
+cv_lav_000782 common_voice_lv_20066047.mp3 Jums tur kāda lietus lāse tiek?
+cv_lav_000783 common_voice_lv_20066049.mp3 Es tev teicu, ka tas notiks.
+cv_lav_000784 common_voice_lv_20066051.mp3 Forši, Daniel. Paldies.
+cv_lav_000785 common_voice_lv_20066052.mp3 Nepazaudē viņu!
+cv_lav_000786 common_voice_lv_20066053.mp3 Vēl strādā?
+cv_lav_000787 common_voice_lv_20066054.mp3 Tad viņa man teica, ka kāds no viņas biroja brauc uz Dienvidameriku.
+cv_lav_000788 common_voice_lv_19412811.mp3 Tu vari izskatīties pēc veca kofera, ja gribi.
+cv_lav_000789 common_voice_lv_19412812.mp3 Kas man tagad jāsaka?
+cv_lav_000790 common_voice_lv_19412813.mp3 Viņam bija arī kaut kāda caurulīte piedurknē.
+cv_lav_000791 common_voice_lv_19412814.mp3 Labi, ir tik agrs, bet, ja gribi, piezvani man vēlāk.
+cv_lav_000792 common_voice_lv_19412815.mp3 Man vajag tavu palīdzību, dēls.
+cv_lav_000793 common_voice_lv_19412816.mp3 Ej. Pastāstīsi, kā viņa jūtas.
+cv_lav_000794 common_voice_lv_19412817.mp3 Izraudāsies. Rīt parunāsiet.
+cv_lav_000795 common_voice_lv_19412818.mp3 Telefons kaut kur iekritis.
+cv_lav_000796 common_voice_lv_19412819.mp3 Mums neko neteiks.
+cv_lav_000797 common_voice_lv_19412820.mp3 Tas nevar būt!
+cv_lav_000798 common_voice_lv_19412826.mp3 Es esmu tik nogurusi.
+cv_lav_000799 common_voice_lv_19412827.mp3 Ej nu ej? Interesanti.
+cv_lav_000800 common_voice_lv_19412828.mp3 Mīļais! Zelta zvaigzne.
+cv_lav_000801 common_voice_lv_19412829.mp3 Iespējams.
+cv_lav_000802 common_voice_lv_19412830.mp3 Neviens no mums to nezināja.
+cv_lav_000803 common_voice_lv_19412831.mp3 Kāp atpakaļ!
+cv_lav_000804 common_voice_lv_19412832.mp3 Kad uz tās parukāsi, tad sapratīsi, kas ir kuģis.
+cv_lav_000805 common_voice_lv_19412833.mp3 To varēs augšupielādēt daudz ātrāk.
+cv_lav_000806 common_voice_lv_19412834.mp3 Es teicu - nometiet!
+cv_lav_000807 common_voice_lv_19412835.mp3 Tas ir augšējā stāvā ar skatu uz parku.
+cv_lav_000808 common_voice_lv_19412846.mp3 Es gribu atvainoties arī savam brālim.
+cv_lav_000809 common_voice_lv_19412847.mp3 Ar grūtībām varu normāli pastaigāt.
+cv_lav_000810 common_voice_lv_19412848.mp3 Es to uzrakstīju.
+cv_lav_000811 common_voice_lv_19412849.mp3 Lūdzu pagriezieties pa labi.
+cv_lav_000812 common_voice_lv_19412850.mp3 Jāstrādā, lai nopelnītu īres naudu.
+cv_lav_000813 common_voice_lv_19412856.mp3 Pareizi.
+cv_lav_000814 common_voice_lv_19412857.mp3 Nedomāju, ka tā ir laba ideja.
+cv_lav_000815 common_voice_lv_19412858.mp3 Tomēr mana dzirdes sistēma nav bojāta.
+cv_lav_000816 common_voice_lv_19412859.mp3 Nesabojā visu.
+cv_lav_000817 common_voice_lv_19412860.mp3 Skatīsimies patiesībai acīs.
+cv_lav_000818 common_voice_lv_19412876.mp3 Medicīnisko kapsulu!
+cv_lav_000819 common_voice_lv_19412877.mp3 Vai to var sarunāt?
+cv_lav_000820 common_voice_lv_19412878.mp3 Viss būs kārtībā.
+cv_lav_000821 common_voice_lv_19412879.mp3 Jā, tagad.
+cv_lav_000822 common_voice_lv_19412880.mp3 Tas ir labi.
+cv_lav_000823 common_voice_lv_19412891.mp3 Solīts makā nekrīt.
+cv_lav_000824 common_voice_lv_19412892.mp3 Bez cīņas nav uzvaras.
+cv_lav_000825 common_voice_lv_19412893.mp3 Mutē medus, sirdī ledus.
+cv_lav_000826 common_voice_lv_19412894.mp3 Bet protams.
+cv_lav_000827 common_voice_lv_19412895.mp3 Atver durvis!
+cv_lav_000828 common_voice_lv_19412906.mp3 Kāpēc mēs vienmēr lidojam koferos?
+cv_lav_000829 common_voice_lv_19412907.mp3 Neuztraucies!
+cv_lav_000830 common_voice_lv_19412908.mp3 Uz ko tu īsti cerēji?
+cv_lav_000831 common_voice_lv_19412909.mp3 Ejam iekšā?
+cv_lav_000832 common_voice_lv_19412910.mp3 Tātad palaidiet mani.
+cv_lav_000833 common_voice_lv_20060992.mp3 Katrai ziemai sava vasara.
+cv_lav_000834 common_voice_lv_20060993.mp3 Atlikt uguni! Tas nelīdz.
+cv_lav_000835 common_voice_lv_20060994.mp3 Kur medus, tur mušas.
+cv_lav_000836 common_voice_lv_20060995.mp3 Tu esi ļoti gudrs.
+cv_lav_000837 common_voice_lv_20060996.mp3 Uzmanību visam medicīnas personālam.
+cv_lav_000838 common_voice_lv_20060999.mp3 Tu esi lempis.
+cv_lav_000839 common_voice_lv_20061001.mp3 Es Jums teicu, nezinu, kur viņš ir.
+cv_lav_000840 common_voice_lv_20061003.mp3 Slepena kravas nodošana?
+cv_lav_000841 common_voice_lv_20061005.mp3 Brauksim uz tās kuces māju.
+cv_lav_000842 common_voice_lv_20061006.mp3 Esmu pārāk vārgs.
+cv_lav_000843 common_voice_lv_20061007.mp3 Daudz darāmā.
+cv_lav_000844 common_voice_lv_20061008.mp3 Mēs tiešām esam pareizajā istabā?
+cv_lav_000845 common_voice_lv_20061009.mp3 Labāk sekojiet man, tad samaksāsiet un visu saņemsiet.
+cv_lav_000846 common_voice_lv_20061010.mp3 Skrien uz lidmašīnu?
+cv_lav_000847 common_voice_lv_20061011.mp3 Kādam taču jāmaksā rēķini.
+cv_lav_000848 common_voice_lv_20061022.mp3 Mēs centāmies tev palīdzēt.
+cv_lav_000849 common_voice_lv_20061023.mp3 Es tev piekrītu.
+cv_lav_000850 common_voice_lv_20061024.mp3 Vaino mani par to, par ko jāvaino sevi.
+cv_lav_000851 common_voice_lv_20061025.mp3 Bet es atceros.
+cv_lav_000852 common_voice_lv_20061026.mp3 Pats redzi.
+cv_lav_000853 common_voice_lv_20061042.mp3 Tu esi laimīgs?
+cv_lav_000854 common_voice_lv_20061043.mp3 Man ir nedaudz bail.
+cv_lav_000855 common_voice_lv_20061044.mp3 Kā teiksi, dok.
+cv_lav_000856 common_voice_lv_20061045.mp3 Tagad ir citādāk.
+cv_lav_000857 common_voice_lv_20061046.mp3 Viena aita brēc, visas dabūn.
+cv_lav_000858 common_voice_lv_20061052.mp3 Viņi mēģināja izveidot robotu, kas domātu kā cilvēks?
+cv_lav_000859 common_voice_lv_20061053.mp3 Mēs to atradām, ser, tieši tur, kur jūs teicāt.
+cv_lav_000860 common_voice_lv_20061055.mp3 Zivs meklē, kur dziļāks, cilvēks – kur labāk.
+cv_lav_000861 common_voice_lv_20061056.mp3 Malace, mīļā.
+cv_lav_000862 common_voice_lv_20061058.mp3 Nedari to pašu arī tu.
+cv_lav_000863 common_voice_lv_20061064.mp3 Nē, tu nevari.
+cv_lav_000864 common_voice_lv_20061065.mp3 Jāatzīst, mana uzticība viņiem ir iedragāta.
+cv_lav_000865 common_voice_lv_20061067.mp3 Aparāts uzsprāga, un mums nosvila uzacis.
+cv_lav_000866 common_voice_lv_20061069.mp3 Taisnība ir rūgta, bet nes augļus.
+cv_lav_000867 common_voice_lv_20061071.mp3 Nedomāju, ka jauneklis tiks galā.
+cv_lav_000868 common_voice_lv_20061077.mp3 Viņš jau sen ir prom.
+cv_lav_000869 common_voice_lv_20061081.mp3 Vājprāts.
+cv_lav_000870 common_voice_lv_20061085.mp3 Es iesākumā ņemšu grilētu vistu.
+cv_lav_000871 common_voice_lv_20061089.mp3 Nē, tas ir kas cits...
+cv_lav_000872 common_voice_lv_20061097.mp3 Ar tevi?
+cv_lav_000873 common_voice_lv_20061098.mp3 Brauc man pakaļ.
+cv_lav_000874 common_voice_lv_20061099.mp3 Es atnesīšu...
+cv_lav_000875 common_voice_lv_20061100.mp3 Kas darbu strādā, par to darbs gādā.
+cv_lav_000876 common_voice_lv_20061101.mp3 Mamma nomira pirms pieciem gadiem.
+cv_lav_000877 common_voice_lv_20061102.mp3 Tu mums visiem melo.
+cv_lav_000878 common_voice_lv_20061103.mp3 Es eju, mīļā.
+cv_lav_000879 common_voice_lv_20061104.mp3 Apskaties kartē.
+cv_lav_000880 common_voice_lv_20061107.mp3 Mamma nositīs, ja mani ieliks cietumā.
+cv_lav_000881 common_voice_lv_19413591.mp3 Pēc kāzām visi gudri.
+cv_lav_000882 common_voice_lv_19413592.mp3 Tas ir viņš. Tam jābūt viņam.
+cv_lav_000883 common_voice_lv_19413593.mp3 Kas vecu netaupa, pie jauna netiek.
+cv_lav_000884 common_voice_lv_19413594.mp3 Vai mans uznāciens būs drīz?
+cv_lav_000885 common_voice_lv_19413595.mp3 Kāda Jums darīšana no kurienes esmu, čalīt?
+cv_lav_000886 common_voice_lv_19413706.mp3 Tie ir noziedznieki! Viņi jāaptur.
+cv_lav_000887 common_voice_lv_19413707.mp3 Ķeram viņu ciet.
+cv_lav_000888 common_voice_lv_19413708.mp3 Vai dzirdi mani?
+cv_lav_000889 common_voice_lv_19413709.mp3 Vai zeķes ir?
+cv_lav_000890 common_voice_lv_19413710.mp3 Redz tavu nākotni un apzinās, ka tavas spējas būs grūti savaldīt.
+cv_lav_000891 common_voice_lv_19420577.mp3 Jā, kundze.
+cv_lav_000892 common_voice_lv_19420578.mp3 Labākais no visiem priekšniekiem.
+cv_lav_000893 common_voice_lv_19420579.mp3 Taču uzklausi mani acumirkli.
+cv_lav_000894 common_voice_lv_19420580.mp3 Tu biji izredzētais!
+cv_lav_000895 common_voice_lv_19420581.mp3 Salodēšana neder.
+cv_lav_000896 common_voice_lv_19420643.mp3 Kam nav kauna, tam nav goda.
+cv_lav_000897 common_voice_lv_19420644.mp3 Tu man iespēri.
+cv_lav_000898 common_voice_lv_19420645.mp3 Satiksimies ar viņu un saņemsim ciet.
+cv_lav_000899 common_voice_lv_19420646.mp3 Jauka nakts pastaigai.
+cv_lav_000900 common_voice_lv_19420647.mp3 Tik daudz šņabja, cik vēlies, un vēl tūkstotis rubļu.
+cv_lav_000901 common_voice_lv_19420678.mp3 Tu taču atgriezīsies, vai ne?
+cv_lav_000902 common_voice_lv_19420679.mp3 Sliņķim pat mirt ir grūti.
+cv_lav_000903 common_voice_lv_19420680.mp3 Tu zini, cik veca es esmu?
+cv_lav_000904 common_voice_lv_19420681.mp3 Viņš pat nav cilvēks. Mēs nezinām, kas viņš, ellē, ir.
+cv_lav_000905 common_voice_lv_19420682.mp3 Vai jūs varat man palīdzēt?
+cv_lav_000906 common_voice_lv_19420698.mp3 Es tos neesmu redzējis kopš deviņdesmitajiem.
+cv_lav_000907 common_voice_lv_19420699.mp3 Tā riņķoja divdesmit divus gadus līdz nokļuva šeit.
+cv_lav_000908 common_voice_lv_19420700.mp3 Nevajag. Es pats.
+cv_lav_000909 common_voice_lv_19420701.mp3 Un kas ir mērķis?
+cv_lav_000910 common_voice_lv_19420702.mp3 Man tāpat ir labi. Es gribu mājās.
+cv_lav_000911 common_voice_lv_19420733.mp3 Sveiki. Kā sviežas?
+cv_lav_000912 common_voice_lv_19420734.mp3 Vēl ne, vēl neesam. Nāc līdzi!
+cv_lav_000913 common_voice_lv_19420735.mp3 Nu ko, dāmas.
+cv_lav_000914 common_voice_lv_19420736.mp3 Vairs viņš mani neatradīs.
+cv_lav_000915 common_voice_lv_19420737.mp3 Tas viss ir zinātnes interesēs.
+cv_lav_000916 common_voice_lv_19420768.mp3 Vajadzīga palīdzība.
+cv_lav_000917 common_voice_lv_19420769.mp3 Labi, es negribu nepatikšanas.
+cv_lav_000918 common_voice_lv_19420770.mp3 Aiziešu pēc saldējuma. Tev paņemt?
+cv_lav_000919 common_voice_lv_19420771.mp3 Kā tad to atceries?
+cv_lav_000920 common_voice_lv_19420772.mp3 Lai gan zinu, ka to nevajadzētu.
+cv_lav_000921 common_voice_lv_19420823.mp3 Tu noteikti jūti, kādas man ir aizdomas.
+cv_lav_000922 common_voice_lv_19420824.mp3 Vairāk nekā tu.
+cv_lav_000923 common_voice_lv_19420825.mp3 Tās lodes viņu nogalinās!

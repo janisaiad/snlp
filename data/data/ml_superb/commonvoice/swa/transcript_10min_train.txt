@@ -1,0 +1,92 @@
+cv_swa_000000 common_voice_sw_31428161.mp3 wachambuzi wa soka wanamtaja Messi kama nyota hatari zaidi duniani
+cv_swa_000001 common_voice_sw_30317714.mp3 romario aliingia kwenye orodha ya wachezaji waliyofanya vizuri kwenye michuano
+cv_swa_000002 common_voice_sw_32116997.mp3 Sote twesangaa twelipomuona mwalimu Ali apika
+cv_swa_000003 common_voice_sw_29002392.mp3 Inajulikana kama shina la Warangi.
+cv_swa_000004 common_voice_sw_32436603.mp3 Mwidhi aliyejepa simu amekatiwa kifungo cha mwaka mmoya
+cv_swa_000005 common_voice_sw_31292870.mp3 Serikali za Tanzania na Kenya hutunza idadi kadhaa ya maeneo yaliyotengwa
+cv_swa_000006 common_voice_sw_28581699.mp3 Hasa aliandika riwaya na mashairi.
+cv_swa_000007 common_voice_sw_32436632.mp3 Hachufungi idirisha la mwisho.
+cv_swa_000008 common_voice_sw_30644965.mp3 hayati baba wa taifa alituachia misingi ya demokrasia
+cv_swa_000009 common_voice_sw_30621409.mp3 Ukianza kutumia baada ya wiki mbili huonesha mabadiliko
+cv_swa_000010 common_voice_sw_31290838.mp3 Tanzanite na kobal bila kusahau Nikeli na madini mengine yanayopatikana katika ardhi ya Afrika
+cv_swa_000011 common_voice_sw_31695441.mp3 Serikali ilipatana na upande mmoja na upande mwingine
+cv_swa_000012 common_voice_sw_31292410.mp3 La hasha karume alikuwa ni kiongozi mwenye maono ubunifu na mapenzi na wananchi wake
+cv_swa_000013 common_voice_sw_32304696.mp3 Fatuma halidumba kuolegwa.
+cv_swa_000014 common_voice_sw_32252201.mp3 Yaa husuliwa chaka dha mai a isi.
+cv_swa_000015 common_voice_sw_28266617.mp3 Alipenda kuimba na daima alitaka kuimba.
+cv_swa_000016 common_voice_sw_31408794.mp3 kumtambua blob ni kazi kubwa sana
+cv_swa_000017 common_voice_sw_31275515.mp3 Maradona atakumbukwa kwa bao lake la mkono
+cv_swa_000018 common_voice_sw_28261304.mp3 Watalii wanapenda sehemu hii kwa sababu hakuna baridi.
+cv_swa_000019 common_voice_sw_30341871.mp3 Baada ya kuwashauri wenzake Abeid Karume alipata watu sita
+cv_swa_000020 common_voice_sw_30691151.mp3 Akawaambia wananchi wake kwamba wakoloni wakirusha silaha waseme maji
+cv_swa_000021 common_voice_sw_31440451.mp3 Kuwa ni kitovu cha harakati za ukombozi wa Afrika kusini
+cv_swa_000022 common_voice_sw_31855772.mp3 "Imani ni kuamini, huruma ni huruma"
+cv_swa_000023 common_voice_sw_31346562.mp3 Baada ya wapelelezi kupeleka tarifa na ramani
+cv_swa_000024 common_voice_sw_31360119.mp3 jakaya Kikwete alimteua kuwa waziri wa muungano
+cv_swa_000025 common_voice_sw_33443618.mp3 la Urusi Tuvans Khakass Altai Chuvash wana jimbo
+cv_swa_000026 common_voice_sw_30605562.mp3 chama cha mapinduzi kilikuwa kinapewa nafasi kubwa sana ya kushinda
+cv_swa_000027 common_voice_sw_31442996.mp3 Hali ya hewa ya Jiji la Tanga ni kama ile ya maeneo ya Pwani
+cv_swa_000028 common_voice_sw_28765289.mp3 Nchi mbalimbali zina kanuni za ulinzi wa mazingira.
+cv_swa_000029 common_voice_sw_31855728.mp3 Mwana kilizi ka nini /kamani/kama nini
+cv_swa_000030 common_voice_sw_31292892.mp3 Wabilikimo Wa kwanza wanaendelezwa na wajukuu wao
+cv_swa_000031 common_voice_sw_29159151.mp3 Alifanya hivyo ingawa alipenda zaidi maisha ya ndani ya monasteri.
+cv_swa_000032 common_voice_sw_29162779.mp3 Mac-Auley alihitimu na shahada ya Kiingereza katika Delta State university.
+cv_swa_000033 common_voice_sw_28660506.mp3 Ni kati ya miji ya kwanza iliyoundwa na Wahispania katika Amerika Kusini.
+cv_swa_000034 common_voice_sw_32436586.mp3 Vadhee va dhamani valichwambia sungura ni n'janja
+cv_swa_000035 common_voice_sw_31932362.mp3 Wataarifu wezi wenzako waliopo kule watoke
+cv_swa_000036 common_voice_sw_31932371.mp3 Yule mama adondoa mtele
+cv_swa_000037 common_voice_sw_30644447.mp3 Kridinal Adam Stefan Sapieah alikuwa askofu mkuu wa kanisa katoriki
+cv_swa_000038 common_voice_sw_30644453.mp3 Anasema baada ya hapo ulikuja utawala wa Mahdali na ujenzi uliimarishwa zaidi
+cv_swa_000039 common_voice_sw_32366364.mp3 Kingiyacho mjini si haramu
+cv_swa_000040 common_voice_sw_32366407.mp3 Watoto watukutu wamfuja mimeangwa
+cv_swa_000041 common_voice_sw_30642034.mp3 Wajerumani wakaifanya Bagamoyo kuwa makao yao makuu ya utawala katika Afrika ya Mashariki
+cv_swa_000042 common_voice_sw_30642035.mp3 wamasai wameishi ngorongoro kwa zaidi ya miaka mia moja na hamsini
+cv_swa_000043 common_voice_sw_31365653.mp3 Natamani kulificha mtu asiweze kuliona wala kulidhihaki ua langu la thamani
+cv_swa_000044 common_voice_sw_31365654.mp3 Warsha hizi zilikuwa zinafanyika Chuo Kikuu cha Kilimo na Teknolojia cha Jomo Kenyatta.
+cv_swa_000045 common_voice_sw_28929603.mp3 Mgawanyo wa madaraka si jambo jipya katika historia.
+cv_swa_000046 common_voice_sw_28929768.mp3 Anachezea timu ya taifa ya Kenya.
+cv_swa_000047 common_voice_sw_31504487.mp3 maporomoko ya kimani yanapatikana ndani ya pori la akiba la mpanga kipengere
+cv_swa_000048 common_voice_sw_31504488.mp3 Maradona hakuwa kocha aliyefanya vizuri
+cv_swa_000049 common_voice_sw_31071421.mp3 Natumai kwamba nitawatia moyo watu wengine kujitokeza na kuikwea milima yao
+cv_swa_000050 common_voice_sw_31071423.mp3 sababu ulikuwa mwaka ambao ilifanya maamuzi nyeti
+cv_swa_000051 common_voice_sw_31358180.mp3 Biashara hiyo ikabadilisha muonekano wa mji wa Zanzibar
+cv_swa_000052 common_voice_sw_31358181.mp3 bunge ni moja kati ya mihimili mikuu ya taifa la tanzania
+cv_swa_000053 common_voice_sw_30658356.mp3 Huonekana kama pazia kubwa jeupe nyakati za mchana
+cv_swa_000054 common_voice_sw_30658359.mp3 Katika karne ya kumi na sita Wareno walikuwa mstari wa mbele katika biashara hii
+cv_swa_000055 common_voice_sw_34815430.mp3 kunalo pia kabila la mwere kutoka juu ya mto nile
+cv_swa_000056 common_voice_sw_34815428.mp3 ulienea haraka toka Yerusalemu hata Lida Yafa Kaisaria Samaria Damasko
+cv_swa_000057 common_voice_sw_32100185.mp3 Chia saini uipeke kadi kwa chifu.
+cv_swa_000058 common_voice_sw_32100186.mp3 Kuku wanga kanaata mayai maili
+cv_swa_000059 common_voice_sw_28581273.mp3 Kuna kiasi kidogo cha mvua.
+cv_swa_000060 common_voice_sw_28581276.mp3 Maamoun pia ni mwanachama wa "The Academy of the Arts of the World".
+cv_swa_000061 common_voice_sw_30711826.mp3 Na kuanza kuwa na hamu ya kujua zaidi kuhusu uwanja huu wa kitaaluma.
+cv_swa_000062 common_voice_sw_30711829.mp3 Usitumie glavu tena.
+cv_swa_000063 common_voice_sw_30585666.mp3 Rungwe unazidiwa urefu wa mita moja tu na Mlima Mtorwi
+cv_swa_000064 common_voice_sw_30585667.mp3 Yatupasa vijana kufuata malezi na maneno ya busara kutoka kwa wazazi wetu
+cv_swa_000065 common_voice_sw_28813912.mp3 Mifugo ilikuwa kazi ya Waafrika.
+cv_swa_000066 common_voice_sw_28813913.mp3 Pia alipata kuwa mmoja wa matajiri duniani kwa muda mfupi.
+cv_swa_000067 common_voice_sw_30574602.mp3 Uchumi wa mkoa unategemea zaidi kilimo ambacho huchangia kiasi cha asilimia sitini
+cv_swa_000068 common_voice_sw_30574617.mp3 Patrice Lumumba alijiunga na klabu ambazo zilikuwa za waafrika wenye elimu ya kibelgiji
+cv_swa_000069 common_voice_sw_31139631.mp3 kuingia fainali ya ulaya mara mbili mfululizo siyo rahisi
+cv_swa_000070 common_voice_sw_31139633.mp3 wanasayansi wengi walishindwa kubaini jinsia yake
+cv_swa_000071 common_voice_sw_28245620.mp3 Walikuwa na binti mmoja, Kelli, na baadaye talaka.
+cv_swa_000072 common_voice_sw_28245622.mp3 Makao makuu yalikuwa Ar-Raqqah, Syria.
+cv_swa_000073 common_voice_sw_31228883.mp3 Laki tisa arobaini na tano elfu na themanini na saba
+cv_swa_000074 common_voice_sw_31229049.mp3 Kinywa ni jumba la maneno
+cv_swa_000075 common_voice_sw_28259061.mp3 Mboga huwa sehemu za uzazi, kike na kiume katika mmea mmoja.
+cv_swa_000076 common_voice_sw_28259063.mp3 Polio ni ugonjwa wa mfumo mkuu wa neva.
+cv_swa_000077 common_voice_sw_30563097.mp3 Aliamka mapema sana jana
+cv_swa_000078 common_voice_sw_30563098.mp3 Twende tukatembee mjini usiku
+cv_swa_000079 common_voice_sw_31855759.mp3 Sogeza gari mbele.
+cv_swa_000080 common_voice_sw_31855760.mp3 "Imani ni kuamini, huruma ni huruma"
+cv_swa_000081 common_voice_sw_30585846.mp3 Huwa hawajui kupika samaki na ni wasiri sana
+cv_swa_000082 common_voice_sw_30585847.mp3 Ambapo kongosho hushindwa kuzalisha insulini kwa kiwango kinachohitajika mwilini
+cv_swa_000083 common_voice_sw_30621176.mp3 Wakati unatembelea familia:
+cv_swa_000084 common_voice_sw_30621182.mp3 Mtoto wa kwanza Joseph wa Ngao alitawazwa kuwa Chifu wa kizazi hicho
+cv_swa_000085 common_voice_sw_30623625.mp3 mazao ya biashara ni pamoja na korosho
+cv_swa_000086 common_voice_sw_30623626.mp3 Mwanangu anafanya kazi bandarini
+cv_swa_000087 common_voice_sw_31855574.mp3 Mwana ndhuri ni ule apendae kuridhiya vadhadhi vake.
+cv_swa_000088 common_voice_sw_31855895.mp3 "Mke wangu ambadilika sana, tabia zimebadilika, yaweza kuwa hata mavazi yake yamebadilika"
+cv_swa_000089 common_voice_sw_31855572.mp3 Huyu anzoea kupeleka watu atakavyo yeye
+cv_swa_000090 common_voice_sw_31855575.mp3 Wenda kuswali saa ngapi?
+cv_swa_000091 common_voice_sw_30604507.mp3 Simba alimfunga Yanga magoli matano

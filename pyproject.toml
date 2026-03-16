@@ -7,6 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     "accelerate>=1.11.0",
     "espnet",
+    "huggingface_hub>=0.20.0",
     "resampy>=0.4.0",
     "jupyter>=1.1.1",
     "jupytext>=1.18.1",
@@ -18,14 +19,17 @@ dependencies = [
     "ruff>=0.8.2",
     "scipy>=1.11.0,<1.15.0",
     "tach>=0.16.3",
+    "transformers>=4.45.0,<5",
+    "editdistance>=0.8.1",
 ]
 
 [project.optional-dependencies]
 # espnet from PyPI (no s2st on published pkg). For clone + s3prl: uv add -e /path/to/espnet
 espnet = [
     "espnet",
+    "soxr",
+    "tensorboard",
 ]
-
 [build-system]
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
@@ -41,7 +45,8 @@ packages = ["snlp"] # same, smth like ["Model1", "Model2"]
 
 [tool.uv]
 # force sentencepiece wheel so espnet's deps don't pull 0.1.97 (source build fails)
-override-dependencies = ["sentencepiece>=0.2.0"]
+# setuptools 82+ removes pkg_resources; librosa/s3prl need it (pin <82)
+override-dependencies = ["sentencepiece>=0.2.0", "setuptools>=69,<82"]
 
 [tool.uv.workspace]
 members = [

@@ -1,0 +1,812 @@
+cv_hau_000246 common_voice_ha_28648990.mp3 Ina ganin ya kamata ka kai kanka ga hukuma.
+cv_hau_000247 common_voice_ha_28649605.mp3 Na san ya kamata Yusuf ya yi tun jiya.
+cv_hau_000248 common_voice_ha_28649624.mp3 Ganin teku daga hanya ya kasance abin kallo ne.
+cv_hau_000249 common_voice_ha_28649625.mp3 Houston, muna da matsala.
+cv_hau_000250 common_voice_ha_28649641.mp3 Babu wani dalilin da zai hana mu gayyaci Jami.
+cv_hau_000251 common_voice_ha_28649642.mp3 Fatin zai iya zama mara dadi.
+cv_hau_000252 common_voice_ha_28649643.mp3 Yana da kyau ka tambaya.
+cv_hau_000253 common_voice_ha_28649645.mp3 Ya kamata na gayyaci Musa, amma ban yi hakan ba.
+cv_hau_000254 common_voice_ha_28649651.mp3 Ana kiran mahaifin Tijjani Jean.
+cv_hau_000255 common_voice_ha_28649701.mp3 Ina rera wakokin Gypsy.
+cv_hau_000256 common_voice_ha_28650186.mp3 Ina so in so.
+cv_hau_000257 common_voice_ha_28650189.mp3 Kada ka yi amfani da haƙurin mutum, dole wata rana zai gaji.
+cv_hau_000258 common_voice_ha_28650505.mp3 Babangida ya ce da ni ba zai iya yin hakan da kansa ba.
+cv_hau_000259 common_voice_ha_28650541.mp3 Bitrus mugu kuma ana kiransa Yusuf mai Adalci.
+cv_hau_000260 common_voice_ha_28650587.mp3 Yar uwata ta maƙale kan smack.
+cv_hau_000261 common_voice_ha_28650606.mp3 An bullo da matakan aiki da yawa a yankuna da yawa na kasar Sin.
+cv_hau_000262 common_voice_ha_28650666.mp3 Wane irin kiɗa kuke saurara mafi yawan lokuta?
+cv_hau_000263 common_voice_ha_28650667.mp3 Sun samar da kwamfuta ta musamman wadda za a haɗa da kujerarsa ta guragu.
+cv_hau_000264 common_voice_ha_28650668.mp3 Amma gaskiya nuna kyautar zai iya sanya baƙon da bai bayar ba jin kunya.
+cv_hau_000265 common_voice_ha_28650674.mp3 Asalin kogin na daga cikin tsaunikan Rockey.
+cv_hau_000266 common_voice_ha_28650677.mp3 Zai yiwu Ishaku ya firgita.
+cv_hau_000267 common_voice_ha_28650725.mp3 Zan iya magana da ke kadai?
+cv_hau_000268 common_voice_ha_28650749.mp3 Ya kamata Ishaku ya baiwa Aisha kyauta saboda zagayowar ranar haihuwarta.
+cv_hau_000269 common_voice_ha_28650755.mp3 Ba zato kawai sai ya taka burki.
+cv_hau_000270 common_voice_ha_28650760.mp3 Wane yaro ne ya taka rawa a wani ɓangare na Abdullahi Pan?
+cv_hau_000271 common_voice_ha_28650783.mp3 Suka ce sun shiga zumuɗi.
+cv_hau_000272 common_voice_ha_28650810.mp3 Har yanzu Aliko na son barin gidan iyayensa.
+cv_hau_000273 common_voice_ha_28650852.mp3 Habibu ya ce Lami na da kunya.
+cv_hau_000274 common_voice_ha_28650853.mp3 Jika hannaye da ruwan ɗumi ko ruwan tsanyi wanda ke gudu.
+cv_hau_000275 common_voice_ha_28650871.mp3 yana cikin kirji na
+cv_hau_000276 common_voice_ha_28650917.mp3 Kana tsammanin Aliyua ya iya faransanci?
+cv_hau_000277 common_voice_ha_28651106.mp3 Idan kana son kara kira, shikenan.
+cv_hau_000278 common_voice_ha_28656766.mp3 Ka bar komai a yadda da ka Same shi.
+cv_hau_000279 common_voice_ha_28656769.mp3 Ku zauna ta la'akari da lambobinku.
+cv_hau_000280 common_voice_ha_28656775.mp3 Ya zo yana tsalle-tsalle da ihu.
+cv_hau_000281 common_voice_ha_28656791.mp3 Albarka ta tabbata ga waɗanda suka san talaucinsu na ruhu, dan akwai lahira.
+cv_hau_000282 common_voice_ha_28656830.mp3 Mun sanya wa karen suna Tim.
+cv_hau_000283 common_voice_ha_28656835.mp3 Yaushe ka ke tunanin Mustapha zai iso?
+cv_hau_000284 common_voice_ha_28656836.mp3 Alkalin ya nemi masu yanke hukunci su yanke hukunci.
+cv_hau_000285 common_voice_ha_28688098.mp3 Ibrahim da Ladi ba zasu bar Hassan ya yi hakan ba.
+cv_hau_000286 common_voice_ha_28688173.mp3 Cafe ɗin na can ƙasa, hawa biyu a ƙasa.
+cv_hau_000287 common_voice_ha_28688204.mp3 Sabida takaicinmu ƙungiyar mu ta faɗi wasan.
+cv_hau_000288 common_voice_ha_28688224.mp3 Nayi rawa.
+cv_hau_000289 common_voice_ha_28688267.mp3 A wane matsayi Babangida yake?
+cv_hau_000290 common_voice_ha_28688306.mp3 Dole ne hankalin Mustapha ya tashi.
+cv_hau_000291 common_voice_ha_28688459.mp3 Akwai kokwanto da yawa ga yaron.
+cv_hau_000292 common_voice_ha_28688481.mp3 Mu na buƙatar sabuwar dadduma.
+cv_hau_000293 common_voice_ha_28688486.mp3 Jalal yace Falmata tana yin haka kawai da safe.
+cv_hau_000294 common_voice_ha_28688622.mp3 A hannunna na dama ina riƙe da wata halitta da ta canza gabaɗaya.
+cv_hau_000295 common_voice_ha_28688642.mp3 Ba wani killataccen waje ne mai zafi ba, waje ne na ninƙaya.
+cv_hau_000296 common_voice_ha_28688643.mp3 Har yanzu ban san me Habibu ke son yi ba.
+cv_hau_000297 common_voice_ha_28688656.mp3 Rashin ladabi shine mafi mahimmancin rabo.
+cv_hau_000298 common_voice_ha_28688739.mp3 Ishaku na son wasan ninkaya shima.
+cv_hau_000299 common_voice_ha_28688986.mp3 Sun yi ƙoƙari a banza na bawa shaidar cin hanci.
+cv_hau_000300 common_voice_ha_28688992.mp3 Na ga hasken wutar daga nesa.
+cv_hau_000301 common_voice_ha_28689012.mp3 Jalal ya manta wayarsa a gida.
+cv_hau_000302 common_voice_ha_28689109.mp3 Akwai taswirar idan an nema.
+cv_hau_000303 common_voice_ha_28689110.mp3 Guda nawa kuka samu?
+cv_hau_000304 common_voice_ha_28689126.mp3 Ina son mutane su soni.
+cv_hau_000305 common_voice_ha_28689128.mp3 Na cire takalmana sabida ƙafata ta bushe.
+cv_hau_000306 common_voice_ha_28689192.mp3 Waɗanne irin alamune da aka kasa gano su har yanzu.
+cv_hau_000307 common_voice_ha_28689193.mp3 Ba za ki gujewa horon ba wannan lokacin.
+cv_hau_000308 common_voice_ha_28689194.mp3 Ya karya doka.
+cv_hau_000309 common_voice_ha_28689229.mp3 Babu wani bayani tukuna game da lokacin daukar ciki.
+cv_hau_000310 common_voice_ha_28689233.mp3 Dakata! Tsaya inda ka ke ko na yi harbi!
+cv_hau_000311 common_voice_ha_28689241.mp3 Jami ya ce ba ya son yin gaddama.
+cv_hau_000312 common_voice_ha_28689245.mp3 An anfani dani aci abinci kamar alade.
+cv_hau_000313 common_voice_ha_28689475.mp3 Na ɗauka kina son yin wasan.
+cv_hau_000314 common_voice_ha_28689481.mp3 Wasu mutane suna zargin ƙaruwar aikata ta'addanci a talabijin.
+cv_hau_000315 common_voice_ha_28690921.mp3 Ta fi ni kyau sosai.
+cv_hau_000316 common_voice_ha_28760109.mp3 Na san Jauro mugu ne.
+cv_hau_000317 common_voice_ha_28760152.mp3 Dole a shirya miyar ta amfani da hanyar kimiyya.
+cv_hau_000318 common_voice_ha_28760341.mp3 Shin ko Ishaku da Hamsatu sun faɗi lokacin da za su sauka?
+cv_hau_000319 common_voice_ha_28760371.mp3 Jami ya je sshagon sayar da giya ya sayi kwalbar rum.
+cv_hau_000320 common_voice_ha_28760378.mp3 Na gaji kuma ina jin yinwa, kuma haka kowa yake ji.
+cv_hau_000321 common_voice_ha_28760379.mp3 Ba ita ce farkon da ta ƙarfafa ni ba.
+cv_hau_000322 common_voice_ha_28760484.mp3 Yaushe ne ranar haifuwar ka?
+cv_hau_000323 common_voice_ha_28760489.mp3 Ba na jin za ka yarda da haka.
+cv_hau_000324 common_voice_ha_28822143.mp3 Bashi da dalilin yin wadannan halayen marasa kyau.
+cv_hau_000325 common_voice_ha_28822209.mp3 Arziƙin mutumin na da girma, sai dai kuma faɗansa ya yi yawa.
+cv_hau_000326 common_voice_ha_28865479.mp3 Suna ganin bai kamata su yi haka ba.
+cv_hau_000327 common_voice_ha_30330801.mp3 Wutar daji na afkuwa ne daga Allah.
+cv_hau_000328 common_voice_ha_30330805.mp3 Tijjani ya mayar da kirtani zuwa ƙwallo.
+cv_hau_000329 common_voice_ha_30330824.mp3 Tsarin sharia a Amurka shine mafi kyau a fadin duniya.
+cv_hau_000330 common_voice_ha_30330828.mp3 Er? Me ya kawo ni ɗakin nan yi?
+cv_hau_000331 common_voice_ha_30330860.mp3 An dakile zirga-zirgar wasu ta hanyar kulle wurare da dama.
+cv_hau_000332 common_voice_ha_30330861.mp3 Giwar Afirka na da babban kunne fiye da giwar Asiya.
+cv_hau_000333 common_voice_ha_30330899.mp3 Me yasa ba ka da wasa ne Abokina? Kamar bansanka ba kuma.
+cv_hau_000334 common_voice_ha_30330903.mp3 Ina mamaki ko da gaske za mu yi hakan.
+cv_hau_000335 common_voice_ha_30330908.mp3 Na san hakan ba gaskiya bane.
+cv_hau_000336 common_voice_ha_30331272.mp3 Cikakken yaɗuwar ba ta da tabbas, saboda karanci wani sashi na gwaji.
+cv_hau_000337 common_voice_ha_30358203.mp3 Muna aiki kan batun nan.
+cv_hau_000338 common_voice_ha_30358227.mp3 Wanda na kaɗawa ƙuri'a aka zaɓa.
+cv_hau_000339 common_voice_ha_30358229.mp3 Caleb ya gano baki ɗaya.
+cv_hau_000340 common_voice_ha_30358240.mp3 Aikin kafafen yada labarai shine samarwa mutane labarin gaskiya.
+cv_hau_000341 common_voice_ha_30358241.mp3 Bana son tsayawa kan layi.
+cv_hau_000342 common_voice_ha_30358311.mp3 Amsa na jin tsoron duhu, ko ba haka ba?
+cv_hau_000343 common_voice_ha_30358381.mp3 Kina da zare da allura?
+cv_hau_000344 common_voice_ha_30358391.mp3 Wasu ayyukan suna da muhimmanci.
+cv_hau_000345 common_voice_ha_30358424.mp3 Shirya lokacin haɗuwar.
+cv_hau_000346 common_voice_ha_30358432.mp3 Ba ta taɓa shan komai da ɗalibanta ba.
+cv_hau_000347 common_voice_ha_30358463.mp3 Ta zauna kusa da mu.
+cv_hau_000348 common_voice_ha_30358466.mp3 Gaskiya Ishaku na da ƙwarin gwiwa.
+cv_hau_000349 common_voice_ha_30358484.mp3 Sannunku, ko nan ne sashin ma'aikata?
+cv_hau_000350 common_voice_ha_28477356.mp3 Shin sun san wani abu game da juna kuwa?
+cv_hau_000351 common_voice_ha_28477358.mp3 A mafi yawan lokuta, haɗarin mota yana faruwa ne sakamakon rashin bacci.
+cv_hau_000352 common_voice_ha_28477360.mp3 Menene kake buƙata a waje na?
+cv_hau_000353 common_voice_ha_28477369.mp3 Ina ta jira tun tuni.
+cv_hau_000354 common_voice_ha_28477370.mp3 Hafsat na jin kamar ta tashi sama.
+cv_hau_000355 common_voice_ha_28477388.mp3 Yana da muhimmanci na yi hakan.
+cv_hau_000356 common_voice_ha_28477391.mp3 Shin ka iya magana da harshen Greek? - Tukunna, wannan shine koyo na farko!
+cv_hau_000357 common_voice_ha_28477392.mp3 Jalal bai da gida.
+cv_hau_000358 common_voice_ha_28477394.mp3 ina kuke jin ciwo a kirjin
+cv_hau_000359 common_voice_ha_28477395.mp3 Zan iya amsa wannan tambayar.
+cv_hau_000360 common_voice_ha_28477401.mp3 A shekarar da ta gabata muka zo Phoenix.
+cv_hau_000361 common_voice_ha_28477402.mp3 Yawancin labarai masu ban dariya suna dogara ne akan yanayin mai ban dariya.
+cv_hau_000362 common_voice_ha_28477403.mp3 Bana tunanin Tijjani ya san wane irin shiri Amsa ke yi.
+cv_hau_000363 common_voice_ha_28477404.mp3 Nora ta kalli babarta.
+cv_hau_000364 common_voice_ha_28477405.mp3 Ka yi wasa.
+cv_hau_000365 common_voice_ha_28477409.mp3 Ma'aikacin ya ce na jira na ɗan lokaci.
+cv_hau_000366 common_voice_ha_28477411.mp3 Kamar ko wane lokaci ƙungiyar kwallon ƙafa ta Spain ta nuna ƙwarewa a wasan.
+cv_hau_000367 common_voice_ha_28477511.mp3 Haduwa ta jiki kai tsaye tare da mai yiwuwa ko tabbataccen cutar;
+cv_hau_000368 common_voice_ha_28477512.mp3 Hassan ya ce ba wani abu da yake ɓoyewa.
+cv_hau_000369 common_voice_ha_28477513.mp3 Yusuf na da saurin kuka.
+cv_hau_000370 common_voice_ha_28486352.mp3 Mun ga Mac ya yi wani kyakkyawan hoto.
+cv_hau_000371 common_voice_ha_28486353.mp3 A ƙasan garun muka san adon duwatsu.
+cv_hau_000372 common_voice_ha_28486355.mp3 An ɗauki mai gabatar da ƙara na musamman.
+cv_hau_000373 common_voice_ha_28486376.mp3 Kuma gasu nan.
+cv_hau_000374 common_voice_ha_28486378.mp3 Kullewa da sauran ƙuntatawa na kasa da kasa
+cv_hau_000375 common_voice_ha_28486379.mp3 Mikiya ita ce sarkin sararin samaniya.
+cv_hau_000376 common_voice_ha_28486380.mp3 Abinda muka fi damuwa da shi shine lafiyar wadanda aka yi garkuwa da su.
+cv_hau_000377 common_voice_ha_28486394.mp3 Ina da zazzaɓi mai zafi ma
+cv_hau_000378 common_voice_ha_28486396.mp3 Sun yarda da cewar kasar su na da kariya daga makiyansu na kasashe.
+cv_hau_000379 common_voice_ha_28486397.mp3 Ba zan iya taimaka muku ba sai zuwa Litinin.
+cv_hau_000380 common_voice_ha_28486398.mp3 Kina da kyau sosai.
+cv_hau_000381 common_voice_ha_28486413.mp3 Ina jin cewa Jami ba za ta bukaci yin hakan ba.
+cv_hau_000382 common_voice_ha_28486414.mp3 Jami na tuƙa wata yaluwar mota.
+cv_hau_000383 common_voice_ha_28486415.mp3 Ba wanda zai iya kamar yadda Hassan zai yi.
+cv_hau_000384 common_voice_ha_28486416.mp3 Na yi tsammanin kaina zai tarwatse.
+cv_hau_000385 common_voice_ha_28486417.mp3 Mutanen da ke wasan taɓo hannuwansu za su yi dauɗa.
+cv_hau_000386 common_voice_ha_28486445.mp3 Kafa Faɗaɗa Tsarin samfurin barologi
+cv_hau_000387 common_voice_ha_28496977.mp3 Muna da damar haɓakar hakar bayanan zuwa mako biyu idan an buƙata.
+cv_hau_000388 common_voice_ha_28496980.mp3 Wai ma waye Aliyu?
+cv_hau_000389 common_voice_ha_28496981.mp3 Shin akwai wani banbanci?
+cv_hau_000390 common_voice_ha_28496982.mp3 Wasu Kashashen a Africa sun Ga Karin Kabilanci akan yan China.
+cv_hau_000391 common_voice_ha_28496983.mp3 Aliko ya faɗi a ƙanƙara lokacin hunturun da ya wuce har ya karya kwankwaso.
+cv_hau_000392 common_voice_ha_28496987.mp3 Elaine na asibiti.
+cv_hau_000393 common_voice_ha_28496988.mp3 Aliko baya yawan magana.
+cv_hau_000394 common_voice_ha_28496991.mp3 Jauro ya nuna min yadda zan yi.
+cv_hau_000395 common_voice_ha_28496996.mp3 Me zai hana mu ga ko Hassan yana so ya tafi tare da mu?
+cv_hau_000396 common_voice_ha_28496998.mp3 amman na san mutane da yawa wanda suke min tari
+cv_hau_000397 common_voice_ha_28497000.mp3 Ka saba da komai da komai.
+cv_hau_000398 common_voice_ha_28497003.mp3 Karkanda ya yi bacci kan ganyaye.
+cv_hau_000399 common_voice_ha_28497015.mp3 Ka da ku yi wannan maganar a gabansa.
+cv_hau_000400 common_voice_ha_28497017.mp3 Na san cewa Hassan bai san cewar bai kamata ya yi hakan ba.
+cv_hau_000401 common_voice_ha_28497020.mp3 Dole ta sa na kashe dokina don yana cikin tsananin ciwo.
+cv_hau_000402 common_voice_ha_28497021.mp3 Zai fi idan ya zo gobe.
+cv_hau_000403 common_voice_ha_28497023.mp3 Asibiti shine wurin da ake karɓan magani idan mutum bashi da lafiya.
+cv_hau_000404 common_voice_ha_28497025.mp3 kuma ina fama da mummunan ciwon kirji a yau
+cv_hau_000405 common_voice_ha_28497032.mp3 Gaskiya baka da lokaci.
+cv_hau_000406 common_voice_ha_28497033.mp3 Yusufa yana turawa Jummai alamu masu bambanci.
+cv_hau_000407 common_voice_ha_28497037.mp3 Sun shiga tashin hankali.
+cv_hau_000408 common_voice_ha_28497042.mp3 Yaushe ne za ka koma Austaraliya?
+cv_hau_000409 common_voice_ha_28497044.mp3 Ko muna da sauran giya?
+cv_hau_000410 common_voice_ha_28497045.mp3 Rubutu abu ne mai matuƙar muhimmanci.
+cv_hau_000411 common_voice_ha_28497050.mp3 Zan sa su farka.
+cv_hau_000412 common_voice_ha_28497051.mp3 Me ya sa ba za ki raba alawarku da Bitrus ba?
+cv_hau_000413 common_voice_ha_28497052.mp3 Sun shiga nesa cikin yankin maƙiya.
+cv_hau_000414 common_voice_ha_28497053.mp3 Hakanan an sami nasarar aiwatar da shi a Indonesia.
+cv_hau_000415 common_voice_ha_28497060.mp3 A kwanakin nan buƙatar waɗannan kayan na ƙaruwa cikin sauri fiye da wadatarsu.
+cv_hau_000416 common_voice_ha_28497063.mp3 Ban jin zan so.
+cv_hau_000417 common_voice_ha_28497065.mp3 Na san Abdullahi mutum ne wandaa yake da muhimmanci a ƙungiyarmu.
+cv_hau_000418 common_voice_ha_28497066.mp3 Jarida, talabijin, da radiyo ana kiransu kafar sadarwa.
+cv_hau_000419 common_voice_ha_28497067.mp3 Bana tunanin akwai wani ƙarin bayani game da abinda ya faru.
+cv_hau_000420 common_voice_ha_28497069.mp3 Wajen siyayyar a ƙarƙashin ƙasa ya ke.
+cv_hau_000421 common_voice_ha_28497070.mp3 Habibu ya ce ba a shirye yake ya koma gida ba tukuna.
+cv_hau_000422 common_voice_ha_28497072.mp3 Duk suka juyo suka kalle su.
+cv_hau_000423 common_voice_ha_28497075.mp3 Ha ha ha, abin dariya.
+cv_hau_000424 common_voice_ha_28497079.mp3 Da sunans Agnes.
+cv_hau_000425 common_voice_ha_28497082.mp3 Ina za ku je wannan karshen mako?
+cv_hau_000426 common_voice_ha_28497084.mp3 Bitrus ya ce yana son ziyartar Santa Claus dake Arewacin Pole.
+cv_hau_000427 common_voice_ha_28498909.mp3 Ka yi nazarin Faransanci sosai.
+cv_hau_000428 common_voice_ha_28498911.mp3 Za ku rasa jirgin kasan idan ba ku yi sauri ba.
+cv_hau_000429 common_voice_ha_28498934.mp3 Kungiyar mu su ma za su sabunta jagorar mu domin bayar da taimako.
+cv_hau_000430 common_voice_ha_28498946.mp3 Yusuf ya gano tarin kaya masu dauɗa a bayan ɗakin Linda.
+cv_hau_000431 common_voice_ha_28498948.mp3 Na san Musa zai iya gano mafitar da yadda za'a yi haka.
+cv_hau_000432 common_voice_ha_28498964.mp3 tunda kana da zazzabi
+cv_hau_000433 common_voice_ha_28498965.mp3 Don haka, p shi ne matsalar, idan kuma q ne matsalar.
+cv_hau_000434 common_voice_ha_28498978.mp3 Zan buɗe akwatin na ga abinda ke ciki.
+cv_hau_000435 common_voice_ha_28498986.mp3 Har yanzu ban saba da aikin ba.
+cv_hau_000436 common_voice_ha_28498989.mp3 Babangida ya na matuƙar kama da mahaifinsa.
+cv_hau_000437 common_voice_ha_28498992.mp3 Ba na tunanin cewa Habibu mai arziki ne.
+cv_hau_000438 common_voice_ha_28498993.mp3 Babban yayana ya samu babban matsayi a kasuwanci.
+cv_hau_000439 common_voice_ha_28499217.mp3 Menene ma'anar hakan a harshen larabci?
+cv_hau_000440 common_voice_ha_28499230.mp3 Akwai wasu madannai uku a kasan bayan robot din.
+cv_hau_000441 common_voice_ha_28499232.mp3 Yanzu zai gaji.
+cv_hau_000442 common_voice_ha_28499233.mp3 Na san abin da kuke so ke nan.
+cv_hau_000443 common_voice_ha_28499253.mp3 Ya, mutumi na!
+cv_hau_000444 common_voice_ha_28499257.mp3 Makashin na amfani da muradinsa.
+cv_hau_000445 common_voice_ha_28499275.mp3 Ɗabi'a ta ce karanta litattafai.
+cv_hau_000446 common_voice_ha_28499276.mp3 Mun yi matukar mamakin da aka nada Mr. Brown a matsayin darakta.
+cv_hau_000447 common_voice_ha_28499298.mp3 Zai iya dai daita ƙwallon a fuskarsa.
+cv_hau_000448 common_voice_ha_28499301.mp3 Dong ɗan kasar Koriya ne.
+cv_hau_000449 common_voice_ha_28499311.mp3 Ko zan iya fara canka.
+cv_hau_000450 common_voice_ha_28499356.mp3 Mun ji daɗin tafiya a jirgin ruwa.
+cv_hau_000451 common_voice_ha_28507258.mp3 Ina da buƙatar allura kafin na fara ɗinkin?
+cv_hau_000452 common_voice_ha_28526855.mp3 Ya zo da misalin ƙarfe huɗu.
+cv_hau_000453 common_voice_ha_28526857.mp3 Ta ƙagu ta ciyar da tsuntsayen.
+cv_hau_000454 common_voice_ha_28526859.mp3 Baba na yawan karanta labaran bincike a lokutan hutunsa.
+cv_hau_000455 common_voice_ha_28526861.mp3 A'a, A gaskiya bana son hakan sosai.
+cv_hau_000456 common_voice_ha_28526868.mp3 Bitrus zai iya komai domin janyo hankalin Hauwa.
+cv_hau_000457 common_voice_ha_28526870.mp3 Aliko da Rifkatu basu fadawa Habibu abun da suke buƙatar siya ba.
+cv_hau_000458 common_voice_ha_28526871.mp3 Rifkatu bata da tabbacin abinda za ta yi.
+cv_hau_000459 common_voice_ha_28526873.mp3 Ibrahim ya yarda.
+cv_hau_000460 common_voice_ha_28526878.mp3 Ya zo nan wancan lokacin?
+cv_hau_000461 common_voice_ha_28526880.mp3 Ba shi da tabbacin yana bukatar yin haka.
+cv_hau_000462 common_voice_ha_28526881.mp3 Zan aureta ta ko wacce hanya.
+cv_hau_000463 common_voice_ha_28526884.mp3 Dole akwai wata alaka tsakanin kasan nan biyu.
+cv_hau_000464 common_voice_ha_28526895.mp3 Shin ku biyu kuna gardama akai?
+cv_hau_000465 common_voice_ha_28526902.mp3 Zan iya ɗaukar yanayin girmanku, madam?
+cv_hau_000466 common_voice_ha_28526903.mp3 Wannan abin kunya ne.
+cv_hau_000467 common_voice_ha_28526904.mp3 Ina son riga mai kwala me kyau.
+cv_hau_000468 common_voice_ha_28526905.mp3 Ya cancanci hakan?
+cv_hau_000469 common_voice_ha_28526907.mp3 Waɗanne yankunan da abin ya shafa?
+cv_hau_000470 common_voice_ha_28526908.mp3 Bitrus ya ce ya koyi darussa da dama a shekaru uku da suka gabata.
+cv_hau_000471 common_voice_ha_28526910.mp3 Yi sauri, kuma zaka iya isowa makaranta da wuri.
+cv_hau_000472 common_voice_ha_28526911.mp3 Kara zafi don mayar da wainar masarar ruwan ƙasa a kowane ɓangare.
+cv_hau_000473 common_voice_ha_28526913.mp3 Musa ba zai iya haka shi kadai ba. Ina fatan Lare ta taimaka masa.
+cv_hau_000474 common_voice_ha_28526916.mp3 ko idan kuna da hawan jini
+cv_hau_000475 common_voice_ha_28526917.mp3 Zuma ba ta lalacewa.
+cv_hau_000476 common_voice_ha_28526919.mp3 Ya rubuta wa matarsa cek ɗin kuɗi yen dubu ashirin.
+cv_hau_000477 common_voice_ha_28526920.mp3 Ina son yadda kuke magana.
+cv_hau_000478 common_voice_ha_28526925.mp3 Na nemi aiki a makarantar a matsayin mataimaki a ɗakin gwaje-gwaje.
+cv_hau_000479 common_voice_ha_28526927.mp3 Malamar ta jaddada muhimmancin gwaji ko wane lokaci.
+cv_hau_000480 common_voice_ha_28526930.mp3 Na yi fatan yin hakan.
+cv_hau_000481 common_voice_ha_28526933.mp3 Idan muna tafiya ya kamata mu rika kallon hagu da dama.
+cv_hau_000482 common_voice_ha_28526935.mp3 Ka yi ƙoƙari Yusuf!
+cv_hau_000483 common_voice_ha_28526936.mp3 Na amshi wata wuƙa mai amfani da lantarki a matsayin kyauta.
+cv_hau_000484 common_voice_ha_28526938.mp3 Menene ka ke yi a can?
+cv_hau_000485 common_voice_ha_28526939.mp3 Ina so in nemi afuwa akan abin da nayi.
+cv_hau_000486 common_voice_ha_28526940.mp3 Ka samo amsar wannan tambayar?
+cv_hau_000487 common_voice_ha_28526941.mp3 Wanene ya kula da yaron nan har ya girma, Mattew, kai, ko ni?
+cv_hau_000488 common_voice_ha_28526942.mp3 Duniya ta yi rashin ɗaya daga cikin masu ban dariya da rasuwar Joan Rivers.
+cv_hau_000489 common_voice_ha_28526944.mp3 Hukumomin lafiya na Koriya da China sun ba da shawarar yin amfani da chloroquine.
+cv_hau_000490 common_voice_ha_28526945.mp3 Ya tsallaka hanya da kafa bayan jar danja ta bada hannu.
+cv_hau_000491 common_voice_ha_28526947.mp3 Ɓangaren jijiyoyin ba su warke ba.
+cv_hau_000492 common_voice_ha_28526948.mp3 Na haɗu da mazaje mara kyau da yawa.
+cv_hau_000493 common_voice_ha_28526951.mp3 Mun zauna kan benci a wajen hutawa.
+cv_hau_000494 common_voice_ha_28526952.mp3 A ina ta buge ki?
+cv_hau_000495 common_voice_ha_28526953.mp3 Akwai haɗarin durƙusarwa.
+cv_hau_000496 common_voice_ha_28526957.mp3 Wannan sabon samfurin namu babban rashi ne ga kamfanin adawarmu.
+cv_hau_000497 common_voice_ha_28526960.mp3 Ina jin tsoron kayan za su ƙare.
+cv_hau_000498 common_voice_ha_28526961.mp3 Iyayensa na zama ne a babban birnin garin.
+cv_hau_000499 common_voice_ha_28526962.mp3 Laifi ne kona tutar Amurka a cikin Amurka?
+cv_hau_000500 common_voice_ha_28526965.mp3 Bayin sun sami ƙarfin addini.
+cv_hau_000501 common_voice_ha_28526968.mp3 Sun shirya tafiya da kansu.
+cv_hau_000502 common_voice_ha_28526972.mp3 Bayan hura hanci, tari ko atishawa.
+cv_hau_000503 common_voice_ha_28526973.mp3 Abdullahi da Amsa sun ce laifinsu ne.
+cv_hau_000504 common_voice_ha_28526983.mp3 Samar da wutar lantarki ta hasken rana hanya ce mai kyau.
+cv_hau_000505 common_voice_ha_28526984.mp3 Ba za muyi aiki a ware ba a kan wannan binciken.
+cv_hau_000506 common_voice_ha_28526989.mp3 Sheɗani ke yin ayyuka irin na shaiɗanu.
+cv_hau_000507 common_voice_ha_28526991.mp3 Yana jan ƙafarsa.
+cv_hau_000508 common_voice_ha_28526992.mp3 Gaskiya akwai abin da ke damun Musa.
+cv_hau_000509 common_voice_ha_28534331.mp3 Yana da haɗari ka gaya wa Chris sirrinka saboda yana gaya wa kowa.
+cv_hau_000510 common_voice_ha_28534333.mp3 Na riga na yi.
+cv_hau_000511 common_voice_ha_28534347.mp3 Kamar Yusuf da alama shi ya aikata laifin.
+cv_hau_000512 common_voice_ha_28534349.mp3 Gaskiya ba sa son sharuɗan.
+cv_hau_000513 common_voice_ha_28534373.mp3 Za su taimaka muku ku ji dimi.
+cv_hau_000514 common_voice_ha_28534374.mp3 Jiya na ziyarci abokaina Jalal da Aishatu.
+cv_hau_000515 common_voice_ha_28534413.mp3 Aliko ya yi mana alƙawarin cewa da ya jira mu.
+cv_hau_000516 common_voice_ha_28534444.mp3 Gara kada na yi waka da daddare.
+cv_hau_000517 common_voice_ha_28534469.mp3 Shark suna cin kifi.
+cv_hau_000518 common_voice_ha_28534484.mp3 Yau muna nan.
+cv_hau_000519 common_voice_ha_28534508.mp3 Shugaban ya ci bashin albashin watanni da yawa ga ma'aikatan ginin.
+cv_hau_000520 common_voice_ha_28534509.mp3 Mene ne banbancin samurai da ninja?
+cv_hau_000521 common_voice_ha_28534510.mp3 Marie ce ƙaɗai yarinyar da na san tana sanya siket.
+cv_hau_000522 common_voice_ha_28534532.mp3 Jauro ya fahimci cewa Hamsatu bata so yin haka ba.
+cv_hau_000523 common_voice_ha_28534533.mp3 idan kunci gaba da yawan zazzabi mai zafi
+cv_hau_000524 common_voice_ha_28534551.mp3 A wani rana ne baka zuwa aiki, yawanci?
+cv_hau_000525 common_voice_ha_28534552.mp3 Ina tsammanin na gano.
+cv_hau_000526 common_voice_ha_28534553.mp3 Aliko bai gane waye wannan ba.
+cv_hau_000527 common_voice_ha_28534569.mp3 Tabbas har yanzu Abdullahi bai san zai yi wannan ba a yau.
+cv_hau_000528 common_voice_ha_28534571.mp3 Na hadu da Naomi kan hanyar zuwa gida kuma mun yi hira.
+cv_hau_000529 common_voice_ha_28534585.mp3 Tsahona ya kai ƙafa shida, da inci biyu.
+cv_hau_000530 common_voice_ha_28534586.mp3 Trump ya dau hukunci ne karkashin hunkuncin gaggawa na kasa da wasu hukumomin gwamantin.
+cv_hau_000531 common_voice_ha_28534587.mp3 Marc na ɗakin bacci.
+cv_hau_000532 common_voice_ha_28534618.mp3 Kina tunanin kina da ƙarfi?
+cv_hau_000533 common_voice_ha_28534622.mp3 Habibu da karensa na jira a waje.
+cv_hau_000534 common_voice_ha_28534654.mp3 Shin Babangida ya fadi dalilin shi na zuwa Australia?
+cv_hau_000535 common_voice_ha_28570362.mp3 Mun kama har na tsawon wata akan Broadway.
+cv_hau_000536 common_voice_ha_28570392.mp3 Mugun mutumin nan ya daki ya daki karen da bulala.
+cv_hau_000537 common_voice_ha_28570393.mp3 Dokoki da ƙa'idojin za su iya sauyawa ko wane lokaci.
+cv_hau_000538 common_voice_ha_28570717.mp3 Ba na tsammanin Bitrus ya taɓa yin wannan.
+cv_hau_000539 common_voice_ha_29695643.mp3 Jalal da Jummai sun ce sun san ba mamaki su bukaci yin hakan.
+cv_hau_000540 common_voice_ha_29695646.mp3 Ban san cikakken abinda ya faru ba.
+cv_hau_000541 common_voice_ha_29695674.mp3 Hassan ba ya son tsayawa cikin layi.
+cv_hau_000542 common_voice_ha_29695690.mp3 Wasu mazan ba sa iya sarrafa matan da suke da matsayi.
+cv_hau_000543 common_voice_ha_29695740.mp3 Ishaku ya kawo salad.
+cv_hau_000544 common_voice_ha_26709373.mp3 Abokina na son ya amsa laifi.
+cv_hau_000545 common_voice_ha_26709376.mp3 Ka san banbanci tsakanin silba da gwangwani?
+cv_hau_000546 common_voice_ha_26709379.mp3 Rana tana bayar da zafi da haske da yawa.
+cv_hau_000547 common_voice_ha_26709382.mp3 Yusuf ya fadawa Lare yadda suka hadu da Hassan.
+cv_hau_000548 common_voice_ha_26709383.mp3 Wasu lokutan gudun tsira da rai ya kan bar mutum ba komai.
+cv_hau_000549 common_voice_ha_26709487.mp3 Aliyu ya daɗe yana yin wannan aiki.
+cv_hau_000550 common_voice_ha_26709490.mp3 Akwai mamaki, a ce bai san labarin ba.
+cv_hau_000551 common_voice_ha_26709493.mp3 Kina ta ɗaukar waje guda. Mun riga mun tattauna kan haka.
+cv_hau_000552 common_voice_ha_26709497.mp3 Linda ta gano Ishaku ne mutumin da ya yi mata fyaɗe.
+cv_hau_000553 common_voice_ha_26709499.mp3 yau ina fama da ciwon kirji
+cv_hau_000554 common_voice_ha_26709891.mp3 Tana karatun wasan kwaikwayo game da tallafin karatu na musamman.
+cv_hau_000555 common_voice_ha_26709895.mp3 Ana buƙatar ɗalibai su yi aikin sa'a ɗaya ga alʻumma a kowane sati.
+cv_hau_000556 common_voice_ha_26709896.mp3 Ya ji ruwan saman ya a fuskarsa.
+cv_hau_000557 common_voice_ha_26709897.mp3 zazzabin ya fara kwanaki biyu da suka wuce
+cv_hau_000558 common_voice_ha_27006822.mp3 Aliyu ya yankewa Khalifat hukuncin cewar ta rabu da Abdullahi.
+cv_hau_000559 common_voice_ha_27006823.mp3 Ibrahim ba zai zo gobe ba.
+cv_hau_000560 common_voice_ha_27006824.mp3 An sami alamun shan ƙwaya a gwajin da aka yiwa Babangida.
+cv_hau_000561 common_voice_ha_27006825.mp3 Wutar daji na afkuwa ne daga Allah.
+cv_hau_000562 common_voice_ha_27006853.mp3 Bugun zuciyar shi ya kasance dai-dai ne.
+cv_hau_000563 common_voice_ha_27006854.mp3 Shin kun aikata hakan da kanku?
+cv_hau_000564 common_voice_ha_27006855.mp3 Ni na fi ko kasa da shekaru ɗaya kamar ku.
+cv_hau_000565 common_voice_ha_27006856.mp3 Ya yanka kanshi da reza.
+cv_hau_000566 common_voice_ha_27006882.mp3 Kuna da tarho a gidan ku.
+cv_hau_000567 common_voice_ha_27006883.mp3 Sanya jama'a yin zaɓe ta hanya mai kyau, ba laifi bane.
+cv_hau_000568 common_voice_ha_27006884.mp3 Rediyo bata yi bayani akan hatsarin ba.
+cv_hau_000569 common_voice_ha_27006886.mp3 Bangarorin biyu sun cimma yarjejeniyar manufa nan da karshen watan Yuni.
+cv_hau_000570 common_voice_ha_27006919.mp3 Idan zaku yii aiki, zamu tallafa maka.
+cv_hau_000571 common_voice_ha_27006920.mp3 Diana ta fasa ƙwan ni kuma na hada kek.
+cv_hau_000572 common_voice_ha_27006921.mp3 Ba ka iya bada horo ba.
+cv_hau_000573 common_voice_ha_27006972.mp3 Sun ce da wuri.
+cv_hau_000574 common_voice_ha_27006974.mp3 Abdullahi na da kariya.
+cv_hau_000575 common_voice_ha_27006975.mp3 Na san Aliko bai san Hauwa ba za ta iya hakan ba.
+cv_hau_000576 common_voice_ha_27007004.mp3 Wasu marasa lafiya suna da alamu masu laushi, masu kama da mura.
+cv_hau_000577 common_voice_ha_27007005.mp3 Har yanzu Hassan bai san me yasa Zainab ta yi haka ba.
+cv_hau_000578 common_voice_ha_27007006.mp3 Ya na lafiya?
+cv_hau_000579 common_voice_ha_27007023.mp3 Bitrus yayi matukar murna, ko ba haka bane?
+cv_hau_000580 common_voice_ha_27007026.mp3 Tijjani ya kasance a farkon wannan yammacin.
+cv_hau_000581 common_voice_ha_27007028.mp3 Aliyu ke da mafi girman filin kiwo a yankin nan.
+cv_hau_000582 common_voice_ha_27007029.mp3 Akwai haɗin kai mai muhimmaci tsakanin ƙasashen nan biyu.
+cv_hau_000583 common_voice_ha_27007052.mp3 Ban san me yasa za ka yi haka ba.
+cv_hau_000584 common_voice_ha_27007053.mp3 Akwai maki hudu masu mahimmanci: Gabas, kudu, yamma da arewa.
+cv_hau_000585 common_voice_ha_27007054.mp3 kuma yana jin zafin kirji
+cv_hau_000586 common_voice_ha_27007055.mp3 Na yi tunanin ku biyun nan kun san juna.
+cv_hau_000587 common_voice_ha_27007056.mp3 Kashi ɗaya daga cikin ginin da girgizar ƙasar ta lalata.
+cv_hau_000588 common_voice_ha_27007121.mp3 Kasar Ingila ta ƙwace tudun Breed.
+cv_hau_000589 common_voice_ha_27007123.mp3 Har yanzu baza mu iya haka ba.
+cv_hau_000590 common_voice_ha_27007124.mp3 Ladi ba ta damu da yin haka ba.
+cv_hau_000591 common_voice_ha_27007229.mp3 Babangida ya saamu lokuta rashin jin dadi sosai a rayuwan shi.
+cv_hau_000592 common_voice_ha_27007230.mp3 kuma ita ma kamar tana da alamomin cutar
+cv_hau_000593 common_voice_ha_27007257.mp3 Ba wanda ya tsira.
+cv_hau_000594 common_voice_ha_27007258.mp3 Ba zan iya ba wannan lokacin.
+cv_hau_000595 common_voice_ha_27007259.mp3 Jirgin ruwa ne mai kyan tsari.
+cv_hau_000596 common_voice_ha_27007260.mp3 Ishaku na da son kai.
+cv_hau_000597 common_voice_ha_27007261.mp3 Wannan akwatin na da banbancin kala da waccan.
+cv_hau_000598 common_voice_ha_27007273.mp3 A gidan wasan kwaikwayo, Kathy ta canza wuraren zama tare da mahaifiyarta.
+cv_hau_000599 common_voice_ha_27007274.mp3 Ginin gidaje ya yi aure da ma’aikatan soji da iyayensu
+cv_hau_000600 common_voice_ha_27007278.mp3 Ta ji yadda aka karɓeta a matsayin baƙuwa.
+cv_hau_000601 common_voice_ha_27007502.mp3 Ina tabbatar ma cewar na gamsu da tunanina.
+cv_hau_000602 common_voice_ha_27007515.mp3 Yaushe kuka sayi wayar?
+cv_hau_000603 common_voice_ha_27007516.mp3 Habibu baya sha'awar baseball.
+cv_hau_000604 common_voice_ha_27007573.mp3 Kakana ɗan fashin teku ne, ɗan farauta ne.
+cv_hau_000605 common_voice_ha_27007574.mp3 Habibu ya tsokani kowa a wajen.
+cv_hau_000606 common_voice_ha_27007576.mp3 kuma kana fama da ciwon kirji
+cv_hau_000607 common_voice_ha_27007797.mp3 Ainihin numbobin na bada asalin misalin fili.
+cv_hau_000608 common_voice_ha_27007802.mp3 Kamar na san wannan muryar.
+cv_hau_000609 common_voice_ha_27007803.mp3 Sun zargi shugaban kasar da rashin kulawa da mutumin.
+cv_hau_000610 common_voice_ha_27007949.mp3 Ya kamata na ga wani kan kasuwancin.
+cv_hau_000611 common_voice_ha_27007950.mp3 Ciyayi sun fara girma a hanya da ake bi zuwa majami'a da.
+cv_hau_000612 common_voice_ha_27007951.mp3 Kina da zare da allura?
+cv_hau_000613 common_voice_ha_27007952.mp3 Gaya min, gaya min.
+cv_hau_000614 common_voice_ha_27008027.mp3 Mustapha ya ce mu jira anan.
+cv_hau_000615 common_voice_ha_27008032.mp3 Akwai wasu tsoffin biranen Italiya, Rome da Venice misali.
+cv_hau_000616 common_voice_ha_27008248.mp3 Me yasa iyaye Amurkawa ke yabawa yayansu?
+cv_hau_000617 common_voice_ha_27008257.mp3 Menene dalilin hakan?
+cv_hau_000618 common_voice_ha_27008259.mp3 Da fatan za a karɓi taya murna ta ga nasarar ku a yau.
+cv_hau_000619 common_voice_ha_27008292.mp3 Akwai teburi gefe ɗaya cikin ɗakin.
+cv_hau_000620 common_voice_ha_27008293.mp3 Idan ka sami lokaci, dan Allah ka yi hakan.
+cv_hau_000621 common_voice_ha_27008294.mp3 Bitrus ya ce zai yi hakan a yau.
+cv_hau_000622 common_voice_ha_27008295.mp3 Asabe bata faɗa mun dalilin dayasa zata je Boston ba.
+cv_hau_000623 common_voice_ha_27008345.mp3 Na san Musa ɗalibin jami'a ne.
+cv_hau_000624 common_voice_ha_27008346.mp3 Hassan bai taɓa faɗa wa kowa abin da ya faru a wannan ranar ba.
+cv_hau_000625 common_voice_ha_27008347.mp3 Me ya sa ki ke tunanin cewa Aliko ba ya son ki?
+cv_hau_000626 common_voice_ha_27008348.mp3 Ban san Abdullahi na da buƙatar yin hakan ba.
+cv_hau_000627 common_voice_ha_27008370.mp3 Ina bukatar samun bacci sosai.
+cv_hau_000628 common_voice_ha_27008371.mp3 Ibrahim da Lare sun dan girme ni.
+cv_hau_000629 common_voice_ha_27008372.mp3 Za a bar filin jirgin a bude.
+cv_hau_000630 common_voice_ha_27008395.mp3 Mustapha bai buƙatar zuwa da kansa.
+cv_hau_000631 common_voice_ha_27008396.mp3 Kowanne ɓangare na hanyar bishiyoyin cherry ne.
+cv_hau_000632 common_voice_ha_27008397.mp3 Shirin bai yi dai-dai da masu shekarunki ba.
+cv_hau_000633 common_voice_ha_27008398.mp3 Fadar na da nisan kilo mita uku daga cikin gari.
+cv_hau_000634 common_voice_ha_27008399.mp3 Na sa mai zane ya zana hotona a tsaye.
+cv_hau_000635 common_voice_ha_27008479.mp3 Ina gidan abokina.
+cv_hau_000636 common_voice_ha_27008480.mp3 Na yi tunanin Jami bai sake yin hakan ba.
+cv_hau_000637 common_voice_ha_27008481.mp3 Mai kirki ne fiye da komai.
+cv_hau_000638 common_voice_ha_27008482.mp3 Ina mamakin ina a duniya Jami zai iya kasancewa a yanzu.
+cv_hau_000639 common_voice_ha_27008483.mp3 Ban faɗawa Musa ya tsaya ba.
+cv_hau_000640 common_voice_ha_27008523.mp3 Tun wane lokaci Bitrus ke aiki a Boston?
+cv_hau_000641 common_voice_ha_27008526.mp3 Wannan ya burge ni.
+cv_hau_000642 common_voice_ha_27008529.mp3 Kin iya dafa abinci sosai.
+cv_hau_000643 common_voice_ha_27008564.mp3 An gudanar da fatin bankwana jiya sabida Mr. Smith.
+cv_hau_000644 common_voice_ha_27008566.mp3 Yin hakan ba wani mummunan abu bane.
+cv_hau_000645 common_voice_ha_27008567.mp3 Ba bu damuwa idan na rufe taga? Ina jin sanyi kaɗan.
+cv_hau_000646 common_voice_ha_27008980.mp3 Waɗannan tambayoyi ne da ba zan iya amsawa ba.
+cv_hau_000647 common_voice_ha_27008982.mp3 Kamar Ishaku da Aisha ba sa son kasancewa a nan.
+cv_hau_000648 common_voice_ha_27008983.mp3 Na gode da jagorar ku.
+cv_hau_000649 common_voice_ha_27008984.mp3 Masu magana kan ce, wahala kan haifar da hawan jini.
+cv_hau_000650 common_voice_ha_27009021.mp3 Idan abubuwa suka faɗa cikin ramin nan, za su yi zafi sosai.
+cv_hau_000651 common_voice_ha_27009023.mp3 Ta saka jaket wanda bai da matsi.
+cv_hau_000652 common_voice_ha_27009025.mp3 Yaronan bai da jiki.
+cv_hau_000653 common_voice_ha_27009026.mp3 Matsalarmu ba za ta ƙare ba.
+cv_hau_000654 common_voice_ha_27009294.mp3 Koyar da ni yadda ake wasan bututun mai kaya.
+cv_hau_000655 common_voice_ha_27009295.mp3 Cire shi daga baya, yar da shi, kuma wanke hannun ku.
+cv_hau_000656 common_voice_ha_27009297.mp3 Yaya yawan motsa jiki da ya kamata kayi?
+cv_hau_000657 common_voice_ha_27009298.mp3 Shin baban ka likita ne?
+cv_hau_000658 common_voice_ha_27009319.mp3 Falmata ta biya kudadenta.
+cv_hau_000659 common_voice_ha_27009320.mp3 Kana son 'ya'yan itatuwa?
+cv_hau_000660 common_voice_ha_27009321.mp3 Ina tsoron zai iya latti ya rasa jirgin.
+cv_hau_000661 common_voice_ha_27009323.mp3 A cikin Isra’ila, an amince da bincika hanyoyin sadarwa.
+cv_hau_000662 common_voice_ha_27009409.mp3 Mota na tashar jirgin na tashi da karfe shida.
+cv_hau_000663 common_voice_ha_27009410.mp3 Sakamakon gwaji yana samuwa tsakanin awa biyu zuwa kwana biyu.
+cv_hau_000664 common_voice_ha_27009412.mp3 Ni mutum ne mai son motoci.
+cv_hau_000665 common_voice_ha_27009414.mp3 Na gano cewa otal ɗin da na fi so ya daina kasuwanci.
+cv_hau_000666 common_voice_ha_27009415.mp3 Babu wani magani ko allurar da aka yarda da shi don magance wannan cutar.
+cv_hau_000667 common_voice_ha_27009451.mp3 Dole Japan ta dogara cinikayyar ƙasashen ƙetare domin kawo ƙarshen ganawar.
+cv_hau_000668 common_voice_ha_27009452.mp3 Kada ka tsallaka titin idan kararrawa yana kara.
+cv_hau_000669 common_voice_ha_27009453.mp3 Hamsatu ta ce ta gaji da yin wannan.
+cv_hau_000670 common_voice_ha_27010050.mp3 Sun tsaya cikin gosulo na tsahon rabin awa.
+cv_hau_000671 common_voice_ha_27010053.mp3 Ba ta taɓa shan komai da ɗalibanta ba.
+cv_hau_000672 common_voice_ha_27010054.mp3 Allah Ya saka wani a gefen kowane mutum da zai lura da shi.
+cv_hau_000673 common_voice_ha_27010095.mp3 Kawu na ya ba da bashin.
+cv_hau_000674 common_voice_ha_27010096.mp3 Gaskiya cikin harkar addini ita ce hanyar tsira.
+cv_hau_000675 common_voice_ha_27010097.mp3 Aliko na son taimakawa wasu.
+cv_hau_000676 common_voice_ha_27010098.mp3 Jam’iyyar ku ta siyasa gaba ɗaya ta lalata.
+cv_hau_000677 common_voice_ha_27010099.mp3 Likita ya ɗauki matsayin da ya saba, ya fuskanci Grace.
+cv_hau_000678 common_voice_ha_27010115.mp3 Dole ne mu dakatar da wannan annoba mai hatsari.
+cv_hau_000679 common_voice_ha_27010116.mp3 Mene ne ainihin abinda ke zuciyar ka?
+cv_hau_000680 common_voice_ha_27010118.mp3 A madadin gwamnati, kafofin yaɗa labaran ba su kyauta ba.
+cv_hau_000681 common_voice_ha_27010119.mp3 ina fama da busashen tari da sanyi da majina amai da gudawa
+cv_hau_000682 common_voice_ha_27010190.mp3 Barka dai, mister! Kayi duk abinda zaka yi!
+cv_hau_000683 common_voice_ha_27010191.mp3 Shirya lokacin haɗuwar.
+cv_hau_000684 common_voice_ha_27010192.mp3 Na si siyawa matata abin hannun zinare.
+cv_hau_000685 common_voice_ha_27010193.mp3 bukatar sanya kariyar fuska a cikin jama’a’
+cv_hau_000686 common_voice_ha_27010208.mp3 Ba na so in ci gaba da zama a Boston.
+cv_hau_000687 common_voice_ha_27010214.mp3 Ban tabbatar abun da Abdullahi yake yi na samun kuɗi.
+cv_hau_000688 common_voice_ha_27010215.mp3 Sun share hawayensu.
+cv_hau_000689 common_voice_ha_27010241.mp3 Na yi tunanin ku biyun kun san juna.
+cv_hau_000690 common_voice_ha_27010242.mp3 Wanene kake tunani ne wannan mutumin?
+cv_hau_000691 common_voice_ha_27010244.mp3 Aliyu na jiran ɗansa ya komo gida.
+cv_hau_000692 common_voice_ha_27010271.mp3 Zan iya cutar da shi.
+cv_hau_000693 common_voice_ha_27010277.mp3 Harbin igwa ne ya rusa wannan cocin.
+cv_hau_000694 common_voice_ha_27010283.mp3 Za a iya cimma buri ko a kasa a Las Begas.
+cv_hau_000695 common_voice_ha_27010284.mp3 Ta ce ta ji sauki sosai.
+cv_hau_000696 common_voice_ha_27010299.mp3 Kuma ka san yadda yake ji kirjina kamar zai murkushe
+cv_hau_000697 common_voice_ha_27010301.mp3 Me yasa ku ke kwashe-kwashen maza?
+cv_hau_000698 common_voice_ha_27010305.mp3 Superman za a haska wajen nuna fina-finai wannan watan.
+cv_hau_000699 common_voice_ha_27010310.mp3 Ina ganin Aliko na da zaɓi uku.
+cv_hau_000700 common_voice_ha_27010315.mp3 Duk da mun tabbatar da gaskiyar: ko wane lokaci yaƙi bai da amfani.
+cv_hau_000701 common_voice_ha_27010326.mp3 Wasannin kwaikwayo wasanni ne da ɗan adam ke yinsu da kansa.
+cv_hau_000702 common_voice_ha_27010327.mp3 Ban cika yin abu haka kawai ba.
+cv_hau_000703 common_voice_ha_27010329.mp3 Mustapha bai saya mini abin da nake so ba.
+cv_hau_000704 common_voice_ha_27010332.mp3 Ga abubuwan abun sha nan ka sha.
+cv_hau_000705 common_voice_ha_27010382.mp3 Yanzu an saba da sadarwa ta talabijin da rediyo.
+cv_hau_000706 common_voice_ha_27010386.mp3 Bai kamata ka zama kwararre kan haka ba.
+cv_hau_000707 common_voice_ha_27010388.mp3 wane irin ciwo kake ji a kirjin ka?
+cv_hau_000708 common_voice_ha_27010389.mp3 Ba na tunanin Hassan zai kyale ni in yi hakan.
+cv_hau_000709 common_voice_ha_27010390.mp3 Zata yiwu Aliyu yana yin wani abu.
+cv_hau_000710 common_voice_ha_27010406.mp3 Bangarorin biyu sun yarda su sasanta.
+cv_hau_000711 common_voice_ha_27010407.mp3 An faɗa mani za ku yarda ku taimaka.
+cv_hau_000712 common_voice_ha_27010411.mp3 Jirgin ƙasan ya tsaya dai-dai rabin tsakanin tasoshin biyu.
+cv_hau_000713 common_voice_ha_27010415.mp3 Ya sare bishiyar cikin gidansa.
+cv_hau_000714 common_voice_ha_27010438.mp3 Bana son zama manaja.
+cv_hau_000715 common_voice_ha_27010439.mp3 kuma tare da tarihin ciwon sukari
+cv_hau_000716 common_voice_ha_27010440.mp3 Wannan ruwa ƙasar dilan mai sauri ne ya faɗawa ragon karen nan ruwan ƙasa.
+cv_hau_000717 common_voice_ha_27010470.mp3 Kar a goge allo.
+cv_hau_000718 common_voice_ha_27010473.mp3 Matafiyan sun dakatar da jirgin kasa daga daukar wasiku.
+cv_hau_000719 common_voice_ha_27010475.mp3 Kamar tana cikin damuwa da bacin rai.
+cv_hau_000720 common_voice_ha_27010491.mp3 Bana jin Musa da Lare ba su san bai kamata su yi haka.
+cv_hau_000721 common_voice_ha_27010492.mp3 Idan da ni kai ne, ba zan yi irin wannan abin ba.
+cv_hau_000722 common_voice_ha_27010494.mp3 kun san na kamu da cutar sukari da wasu abubuwa
+cv_hau_000723 common_voice_ha_27010495.mp3 Wannan wane irin shirme ne!
+cv_hau_000724 common_voice_ha_27010510.mp3 Menene sunan jakadar?
+cv_hau_000725 common_voice_ha_27010511.mp3 Na fara koyon yaren China satin da ya wuce.
+cv_hau_000726 common_voice_ha_27010512.mp3 Duk sun goyi bayan dan takarar.
+cv_hau_000727 common_voice_ha_27010513.mp3 Jauro zai faɗawa Valantina duk abin da ya sani game da yanayin.
+cv_hau_000728 common_voice_ha_27010514.mp3 Aliko ya nace da tafiya.
+cv_hau_000729 common_voice_ha_27016111.mp3 Sunan malamin Ingilishi na Donald.
+cv_hau_000730 common_voice_ha_27016112.mp3 Tana magana da Turanci.
+cv_hau_000731 common_voice_ha_27016113.mp3 Yin mamaki kawai zaiyi kyau ta hanya yin tafiya.
+cv_hau_000732 common_voice_ha_27016120.mp3 Na san yanayin da sakamakon zai iya haifarwa.
+cv_hau_000733 common_voice_ha_27016121.mp3 Ina son wannan lafazi.
+cv_hau_000734 common_voice_ha_27016122.mp3 Greece tana ɗaukar matakan tsattsauran ra'ayi don hana rushe tsarin kuɗi.
+cv_hau_000735 common_voice_ha_27016123.mp3 Bitrus baya son ka sake yin hakan.
+cv_hau_000736 common_voice_ha_27016140.mp3 Yadda ya ke magana ya ja hankalin mashahurun marubucin.
+cv_hau_000737 common_voice_ha_27016143.mp3 Yawancin macizai a wannan tsibirin ba su da lahani.
+cv_hau_000738 common_voice_ha_27016144.mp3 Ina son allon Hello Kitty.
+cv_hau_000739 common_voice_ha_27016155.mp3 Kina son kammala wannan ko wane lokaci nan kusa?
+cv_hau_000740 common_voice_ha_27016156.mp3 Wannan littafin Sifanish ne.
+cv_hau_000741 common_voice_ha_27016157.mp3 A ganin mutane da yawa, talauci abu ne mai girma: rauni ne.
+cv_hau_000742 common_voice_ha_27016158.mp3 Wannan shine lamba mafi yawa na mutuwa a rana guda saboda kwayar cutan.
+cv_hau_000743 common_voice_ha_27016159.mp3 Hassan bai daukar isasshen lokacin karatu.
+cv_hau_000744 common_voice_ha_27016169.mp3 Ingancin kaya shi ne abu mafi muhimmanci fiye farashi.
+cv_hau_000745 common_voice_ha_27016170.mp3 Haka rayuwa take.
+cv_hau_000746 common_voice_ha_27016171.mp3 Zamu iya gyara wancan.
+cv_hau_000747 common_voice_ha_27016172.mp3 Yanzun nan muka gama magana da ita.
+cv_hau_000748 common_voice_ha_27016199.mp3 Cocin Katolika na adawa da kisan aure.
+cv_hau_000749 common_voice_ha_27016226.mp3 Zainab ta ce ba ta son a tattauna maganar aiki.
+cv_hau_000750 common_voice_ha_27016227.mp3 Daga abinda za ku iya fada, wane darasi kuka fi so?
+cv_hau_000751 common_voice_ha_27016228.mp3 Habibu ya faɗa mini cewa Aisha a shirye take ta yi hakan.
+cv_hau_000752 common_voice_ha_27016244.mp3 Musa ya dawo gida don karshen mako don godiya.
+cv_hau_000753 common_voice_ha_27016246.mp3 Tokyo zagaye take da biranen alfarma.
+cv_hau_000754 common_voice_ha_27016259.mp3 Ta ce bata damu ba dan ta jira.
+cv_hau_000755 common_voice_ha_27016261.mp3 Mun tsaya a Boston kwanaki uku kan hanyarmu ta zuwa Chicago.
+cv_hau_000756 common_voice_ha_27016263.mp3 Wannan yarinyan nan ta shaida hatsarinan da karfe uku na wannan yammacin.
+cv_hau_000757 common_voice_ha_27016295.mp3 Ba ka yi kama da mai jin haushi ba.
+cv_hau_000758 common_voice_ha_27016299.mp3 Na tambaye su abu ɗaya.
+cv_hau_000759 common_voice_ha_27016301.mp3 Zan iya karanta Faransanci, amma ba zan iya magana da shi ba.
+cv_hau_000760 common_voice_ha_27016328.mp3 Da gani Mr David ya gaji.
+cv_hau_000761 common_voice_ha_27016330.mp3 Ba zan iya zuwa yanzu ba.
+cv_hau_000762 common_voice_ha_27016339.mp3 Wace shawara ka yanke?
+cv_hau_000763 common_voice_ha_27016340.mp3 kuma bayan haka kuna samun wahalar yin numfashi
+cv_hau_000764 common_voice_ha_27016341.mp3 Mai nuna wajen shaƙatawar ya dauke min hankali na.
+cv_hau_000765 common_voice_ha_27016342.mp3 Rifkatu ba ta son baiwa Jalal lambar wayarta.
+cv_hau_000766 common_voice_ha_27016358.mp3 Shi ne hotel na biyu a jerin waɗanda su ka fi.
+cv_hau_000767 common_voice_ha_27016359.mp3 Mista Yusufl yanzu haka yana kan aiki.
+cv_hau_000768 common_voice_ha_27016360.mp3 Bai kamata ka bar danka ya dinga abu kamar wani sakarai ba.
+cv_hau_000769 common_voice_ha_27016366.mp3 Ba ki yi bacci ba sosai, ko ba haka ba?
+cv_hau_000770 common_voice_ha_27041356.mp3 Na san Jalal kwararren mawaki ne.
+cv_hau_000771 common_voice_ha_27041363.mp3 Ina cikin wahala kadan.
+cv_hau_000772 common_voice_ha_27041374.mp3 Abdullahi da Maimuna na jiranmu.
+cv_hau_000773 common_voice_ha_27041381.mp3 An samar da kambun sarauniyar daga zinari.
+cv_hau_000774 common_voice_ha_27041385.mp3 Tsakanin su akwai alpha mai suna 'alpaca-CoV.
+cv_hau_000775 common_voice_ha_27332793.mp3 A wannan lokacin banbancin tsakanin mutum da dabba ba daɗi ba ragi illa suttura.
+cv_hau_000776 common_voice_ha_27332794.mp3 Ya yi jinkiri sosai.
+cv_hau_000777 common_voice_ha_27332795.mp3 Bana jin kun fahimce ni.
+cv_hau_000778 common_voice_ha_27468379.mp3 Yin hakan ba shi ne abinda ya kamata a yi ba.
+cv_hau_000779 common_voice_ha_27468382.mp3 Kin tabbatar kina lafiya?
+cv_hau_000780 common_voice_ha_27468384.mp3 Ni banga fatalwa ba.
+cv_hau_000781 common_voice_ha_27468385.mp3 Bitrusa ya harbe Falmata da bindiga.
+cv_hau_000782 common_voice_ha_27785200.mp3 Wa ya tafi tare da kai jiya?
+cv_hau_000783 common_voice_ha_27785201.mp3 Ni nace Yusuf da Hafsat likitoci ne?
+cv_hau_000784 common_voice_ha_27788628.mp3 Mustapha ya dawo a cikin Jeep kuma ya fara injin.
+cv_hau_000785 common_voice_ha_27788629.mp3 Jarirai na son bacci da yawa.
+cv_hau_000786 common_voice_ha_27788734.mp3 Matashiyar na fama da matsanancin ciwo, amma tana fatan samun lafiya.
+cv_hau_000787 common_voice_ha_27788736.mp3 Baza ka zaci haka ba, ko zaka zata?
+cv_hau_000788 common_voice_ha_27788738.mp3 Duk da kokarin gwadawa fa zai yi da wuya ya Sami nasara.
+cv_hau_000789 common_voice_ha_27788753.mp3 Walƙiya na iya faruwa yayin hadari.
+cv_hau_000790 common_voice_ha_27788754.mp3 Jalala da Amsa sun shiga cikin mawuyacin hali a dangantakarsu.
+cv_hau_000791 common_voice_ha_27788755.mp3 Musa ya ce akwai yuwuwar ya yi hakan.
+cv_hau_000792 common_voice_ha_27788910.mp3 Ta kammala abinda ya kamata ta yi.
+cv_hau_000793 common_voice_ha_27788911.mp3 Akalla dai kana iya fadawa Hadiza cewa ba sai tayi hakan kuma.
+cv_hau_000794 common_voice_ha_27788932.mp3 Yana kasar waje.
+cv_hau_000795 common_voice_ha_27788933.mp3 Ina tsammanin Yusuf yana ɓoye wani abu daga gare ni.
+cv_hau_000796 common_voice_ha_27788936.mp3 Yana ta tafiya kan titi.
+cv_hau_000797 common_voice_ha_27789018.mp3 Horar da zakuna yana da matukar hatsari.
+cv_hau_000798 common_voice_ha_27789019.mp3 Kai, nan rufaffe ne.
+cv_hau_000799 common_voice_ha_27789020.mp3 Tijjani ya mayar da kirtani zuwa ƙwallo.
+cv_hau_000800 common_voice_ha_27789021.mp3 Kamar Jauro ba ya son yin haka, amma akwai bukatar ya yi.
+cv_hau_000801 common_voice_ha_27789022.mp3 Bana rabuwa da tafiya ko yaushe tsakanin Italy da Afrika.
+cv_hau_000802 common_voice_ha_27789107.mp3 Yana tsoron manta layinsa fiye da komai.
+cv_hau_000803 common_voice_ha_27789110.mp3 Zainabtu da Ishaku na kaunar su yi wasan golf.
+cv_hau_000804 common_voice_ha_27789394.mp3 Domin tsayawa da ƙafarsa, sai ya haɗa hannun da wasu manyan kamfanunuwa.
+cv_hau_000805 common_voice_ha_27789395.mp3 Bana tsammanin akwai wanda zai zargin kai ba Musa bane.
+cv_hau_000806 common_voice_ha_27789399.mp3 Mutane nawa ne suka tsira?
+cv_hau_000807 common_voice_ha_27789401.mp3 Mun kiyaye maganarmu.
+cv_hau_000808 common_voice_ha_27789420.mp3 An ɗauki hayar Chris domin fentin gidaje, hakan zai sa ya sami kudi.
+cv_hau_000809 common_voice_ha_27789422.mp3 Ta zo da gudu idanunta na haske.
+cv_hau_000810 common_voice_ha_27789423.mp3 Dole ne dai a amsa.
+cv_hau_000811 common_voice_ha_27789425.mp3 kafin ko kuma bayan lura da mara lafiya.
+cv_hau_000812 common_voice_ha_27789426.mp3 Gwiwar Hassan na ciwo idan ya hau matakala ko ya kasa.
+cv_hau_000813 common_voice_ha_27789434.mp3 Babu komai nawa anan.
+cv_hau_000814 common_voice_ha_27789437.mp3 Ƙarfin zuciya na muhimmanci wajen ci gaba.
+cv_hau_000815 common_voice_ha_27790268.mp3 Ilimi shi ne ginshiƙin samar da kyakkyawan rubutu.
+cv_hau_000816 common_voice_ha_27790269.mp3 Babban jami’in ya sayi injin gaske mai matukar karfi.
+cv_hau_000817 common_voice_ha_27790270.mp3 Muna jin daɗin cewa za a shirya ofishin duk lokacin da muka shirya dawowa.
+cv_hau_000818 common_voice_ha_27790272.mp3 Habibu gaskiya bai da wani hanya.
+cv_hau_000819 common_voice_ha_27790290.mp3 Gaba daya abinda ya faru ya lalata dangantaka ta da malamin mu na lissafi.
+cv_hau_000820 common_voice_ha_27790293.mp3 Dole ne ku fuskance tsoronku.
+cv_hau_000821 common_voice_ha_27790343.mp3 An jinkirta mu a Boston.
+cv_hau_000822 common_voice_ha_27790344.mp3 A yabo ya cancanci sumbata.
+cv_hau_000823 common_voice_ha_27790346.mp3 Yanzu, ka bar komai ya wuce.
+cv_hau_000824 common_voice_ha_27790370.mp3 Nasan Tijjani baiyi hakan ba, ko da yace yayi.
+cv_hau_000825 common_voice_ha_27790375.mp3 Ji mana, nawa wannan?
+cv_hau_000826 common_voice_ha_27790464.mp3 Na gano kana shaye-shaye daga ƴanyatsunka.
+cv_hau_000827 common_voice_ha_27790465.mp3 Wannan motar da ta bige ni.
+cv_hau_000828 common_voice_ha_27790472.mp3 Akwai maganganu da yawa game da wannan auren.
+cv_hau_000829 common_voice_ha_27790513.mp3 Fasaha ta canza kusan ko wanne fanni, ciki har da bangaren fashon.
+cv_hau_000830 common_voice_ha_27790514.mp3 bana tunanin ina da hawan jini
+cv_hau_000831 common_voice_ha_27790515.mp3 Ba zai iya taimakawa ba amma yana tunaninta.
+cv_hau_000832 common_voice_ha_27791084.mp3 Mustapha na da kokarin sakin fuska.
+cv_hau_000833 common_voice_ha_27791086.mp3 Yawanci ina aiki da dare.
+cv_hau_000834 common_voice_ha_27791109.mp3 Ba zan ƙara yin irin haka ba.
+cv_hau_000835 common_voice_ha_27791111.mp3 Samantha ya iso.
+cv_hau_000836 common_voice_ha_27791112.mp3 A yanzu haka, an gano dukkanin ayyukan.
+cv_hau_000837 common_voice_ha_27791138.mp3 Na gano wannan a bayan kabet.
+cv_hau_000838 common_voice_ha_27791141.mp3 Aliko ya sha Kofi nan da nan.
+cv_hau_000839 common_voice_ha_27791163.mp3 Ishaku ya ce ba shi da damuwa.
+cv_hau_000840 common_voice_ha_27791165.mp3 Ko wane lokaci akwai abinda ake yi anan.
+cv_hau_000841 common_voice_ha_27791166.mp3 Dole na fara gajiya. Ina jin bacci da zarar na gama cin abincin dare.
+cv_hau_000842 common_voice_ha_27791167.mp3 Zan tafi Austarlia a wannan lokacin na bazara.
+cv_hau_000843 common_voice_ha_27791168.mp3 Duk inda allura ta tafi, zaren ya tafi kuma.
+cv_hau_000844 common_voice_ha_27791185.mp3 Abinda zamu iya baka kenan.
+cv_hau_000845 common_voice_ha_27791186.mp3 Bai iya barin abun shi kadai ba.
+cv_hau_000846 common_voice_ha_27791188.mp3 Na rasa tunani na.
+cv_hau_000847 common_voice_ha_27791189.mp3 Ba wanda ya ga Jalal a kwanakin nan.
+cv_hau_000848 common_voice_ha_27791216.mp3 Jami'in ya yanke hukuncin zuwa ceto ma'aikacin jirgin ruwan.
+cv_hau_000849 common_voice_ha_27791220.mp3 Ina jin zafi a kirji a nan a gaban sashin kirjina
+cv_hau_000850 common_voice_ha_27791235.mp3 Ba ta ji daɗin nasarar da Marilyn Monroe ta samu ba.
+cv_hau_000851 common_voice_ha_27791238.mp3 Na cika damuwa.
+cv_hau_000852 common_voice_ha_27791288.mp3 Hulɗar kasuwanci ta kara bunƙasa tsakanin Amurka da China.
+cv_hau_000853 common_voice_ha_27791289.mp3 Akwai abubuwa guda biyar a kan tire, uku daga ciki sune maƙullan.
+cv_hau_000854 common_voice_ha_27791290.mp3 Bamu bata ba.
+cv_hau_000855 common_voice_ha_27791298.mp3 Sannu, baba! Me ka ke yi!
+cv_hau_000856 common_voice_ha_27791300.mp3 Ta daina shan maganinta.
+cv_hau_000857 common_voice_ha_27797571.mp3 Wannan abun wuya ne da aka yi da kwal.
+cv_hau_000858 common_voice_ha_27797573.mp3 Jirgin ruwan dakon kayan ya iso awanni huɗun da suka huce.
+cv_hau_000859 common_voice_ha_27797574.mp3 Kyakkyawan kocin tamkar uba ne ga 'yan wasan sa.
+cv_hau_000860 common_voice_ha_27797575.mp3 Na sayi kaya da yawa a shagon nan.
+cv_hau_000861 common_voice_ha_27798375.mp3 Zamu yi hayar sanannen mai yin kwalliya don yiwa jariminmu kwalliya.
+cv_hau_000862 common_voice_ha_27798376.mp3 Yusuf yana ƙoƙari sosai.
+cv_hau_000863 common_voice_ha_27798377.mp3 Bani da tabbacin me za mu yi nan gaba.
+cv_hau_000864 common_voice_ha_27798442.mp3 Ya ce shi ba me kuɗi ba ne.
+cv_hau_000865 common_voice_ha_27798444.mp3 Habibu yace bai tabbata Hauwa tana so ta yi hakan.
+cv_hau_000866 common_voice_ha_27798491.mp3 sannan ina jin zafi a gaban jikina anan a kirji
+cv_hau_000867 common_voice_ha_27798829.mp3 fada min yadda ciwon kirjin yake
+cv_hau_000868 common_voice_ha_27798832.mp3 Ina son na tabbatar akwai isasshe.
+cv_hau_000869 common_voice_ha_27798833.mp3 Buga kwallon bayan boncin.
+cv_hau_000870 common_voice_ha_27798857.mp3 Ina bukatan cokali, cokali mai yatsa, da wuka. Nagode.
+cv_hau_000871 common_voice_ha_27798859.mp3 Ba na wani jin daɗin yin hakan.
+cv_hau_000872 common_voice_ha_27798890.mp3 Na kasance ina kokarin lalata hanya ta cikin tsarin.
+cv_hau_000873 common_voice_ha_27798893.mp3 Bamu ƙosa ba tukunna.
+cv_hau_000874 common_voice_ha_27798894.mp3 Idan baka da fil ɗin maƙale kaya, to dogon fil ɗin zai iya amfani.
+cv_hau_000875 common_voice_ha_27798895.mp3 Na tuna lokacin da nake rera waƙar nan lokaci mai tsaho.
+cv_hau_000876 common_voice_ha_27798911.mp3 Tattaunawa ta ginu ne bisa girmama juna.
+cv_hau_000877 common_voice_ha_27798913.mp3 Na yi tunanin kina da sha'awar hakan.
+cv_hau_000878 common_voice_ha_27798915.mp3 Chen malami ne.
+cv_hau_000879 common_voice_ha_27799083.mp3 Ki danna mukunnin har sai kin ji wani ɗan sauti ya fito.
+cv_hau_000880 common_voice_ha_27799095.mp3 Ba ni ma da saurayi.
+cv_hau_000881 common_voice_ha_27799098.mp3 Meyasa kake fushi haka?
+cv_hau_000882 common_voice_ha_27799099.mp3 Da wuya a manta da abinda ya faru.
+cv_hau_000883 common_voice_ha_27799253.mp3 Zan iya gwada magana da Bitrus?
+cv_hau_000884 common_voice_ha_27799254.mp3 Jami ya ce baya son ya yi haka.
+cv_hau_000885 common_voice_ha_27799257.mp3 Koda yaushe Yusuf ya ganni abu daya yake kara tambaya ta.
+cv_hau_000886 common_voice_ha_27799274.mp3 An harbe dan sanda a bugun sa.
+cv_hau_000887 common_voice_ha_27799276.mp3 Ta dakatar da tafiye-tafiye a birane shida na Amurka.
+cv_hau_000888 common_voice_ha_27799277.mp3 Na zaci zaku so shi.
+cv_hau_000889 common_voice_ha_27799294.mp3 Mustapha da Ladi na kallon Hassan.
+cv_hau_000890 common_voice_ha_27799295.mp3 ba bu wani gwajin kawo garkuwa daga cutar.
+cv_hau_000891 common_voice_ha_27799299.mp3 shin har yanzu kana jin ciwo a kirjinka
+cv_hau_000892 common_voice_ha_27799345.mp3 Idan har hakan zai zama damuwa, ka tsaya kai kaɗai.
+cv_hau_000893 common_voice_ha_27817462.mp3 Bitrus ya san ba zai yi nasara ba.
+cv_hau_000894 common_voice_ha_28388287.mp3 Abdullahi da Habiba na ƙaunar juna.
+cv_hau_000895 common_voice_ha_28388289.mp3 Bai kamata Ibrahim ya jefi maguna da dutsuna ba.
+cv_hau_000896 common_voice_ha_28388294.mp3 Bugu da kari, zamu ɗauki karin ayyukan sa ido.
+cv_hau_000897 common_voice_ha_28388296.mp3 Baka taba zuwa Paris ba?
+cv_hau_000898 common_voice_ha_28388297.mp3 Wata kila Aliyu ya fita.
+cv_hau_000899 common_voice_ha_28388333.mp3 Goerge ya sami zaki ni kuma na sami teddy bear.
+cv_hau_000900 common_voice_ha_28388334.mp3 Wata rana zaka yi da na sani.
+cv_hau_000901 common_voice_ha_28388336.mp3 Sai da muka zagaye dukkan kasar.
+cv_hau_000902 common_voice_ha_28388434.mp3 Yanzu zan je na yi magana da su.
+cv_hau_000903 common_voice_ha_28388443.mp3 Mambobin ƙungiyar sun kai talatin.
+cv_hau_000904 common_voice_ha_28391536.mp3 Bazan iya jinkiri ba yau.
+cv_hau_000905 common_voice_ha_28391539.mp3 Ta rabu da ɗanta.
+cv_hau_000906 common_voice_ha_28391540.mp3 Sara 'yar asalin kasar india.
+cv_hau_000907 common_voice_ha_28391541.mp3 Ibrahim ya aikata laifuka, amma ba a taɓa yanke masa hukunci ba.
+cv_hau_000908 common_voice_ha_28391542.mp3 Igiyar tekun ta kaɗa kwale-kwalen da suke ciki.
+cv_hau_000909 common_voice_ha_28391573.mp3 Babangida na ta jiran wannan.
+cv_hau_000910 common_voice_ha_28391575.mp3 Na koma dai-dai da shi.
+cv_hau_000911 common_voice_ha_28391576.mp3 Anne Shirley, me kuka yi wa gashinku? Me yasa, kore ne!
+cv_hau_000912 common_voice_ha_28391578.mp3 Suna yawan son canza abubuwa a kantin nan.
+cv_hau_000913 common_voice_ha_28391598.mp3 Rukunin jinin O positive ya fi yawa.
+cv_hau_000914 common_voice_ha_28391601.mp3 Ya aka yi Ishaku ya san Lami ta mutu?
+cv_hau_000915 common_voice_ha_28391602.mp3 Ba ku sani ba?
+cv_hau_000916 common_voice_ha_28391603.mp3 A wasu hanyoyi, akwai hadarin samun keɓe wani wuri a hanya.
+cv_hau_000917 common_voice_ha_28394367.mp3 Gaskiya halayyarsa ta ban mamaki.
+cv_hau_000918 common_voice_ha_28394375.mp3 An yi amfani da ƙarfe sosai wajen gina ƙasa.
+cv_hau_000919 common_voice_ha_28394481.mp3 Ban fahimci abin da yake so ya faɗa mani ba.
+cv_hau_000920 common_voice_ha_28394483.mp3 Abin gangariya ne, za mu haifi jariri.
+cv_hau_000921 common_voice_ha_28394485.mp3 Jalal ya ji tsoron tsallaka hanyar.
+cv_hau_000922 common_voice_ha_28394525.mp3 Karan aradu ya karya baccin sa.
+cv_hau_000923 common_voice_ha_28394529.mp3 Ba zan iya matse lemon nan ba. Ya bushe.
+cv_hau_000924 common_voice_ha_28394532.mp3 Ya ƙi amincewa da tsarin da bai dace ba.
+cv_hau_000925 common_voice_ha_28394678.mp3 Jalal da Aisha sun sayar da gidan su.
+cv_hau_000926 common_voice_ha_28394765.mp3 Hukumar tallace-tallacen na da lissafi da yawa a asusunta.
+cv_hau_000927 common_voice_ha_28394766.mp3 Babangida ya bar tokar tabarsa ta zuba kan kafet dina mai tsada.
+cv_hau_000928 common_voice_ha_28394768.mp3 Ana gudanar da bincike game da alurar rigakafi ko takamaiman magungunan rigakafi.
+cv_hau_000929 common_voice_ha_28394769.mp3 Ba haka bane. Mu abokaine kawai.
+cv_hau_000930 common_voice_ha_28394800.mp3 Sabulu na taimakawa wajen fitar da dauɗa.
+cv_hau_000931 common_voice_ha_28394801.mp3 Sun yi wasa a kungiyar kwalejinsu.
+cv_hau_000932 common_voice_ha_28394802.mp3 Injin cirar kuɗin ya ƙi karbar kati na.
+cv_hau_000933 common_voice_ha_28394803.mp3 Ba jabu bane.
+cv_hau_000934 common_voice_ha_28394804.mp3 Na nace sai mun canza shirin da muka yi.
+cv_hau_000935 common_voice_ha_28394882.mp3 Na turawa mijina saƙo.
+cv_hau_000936 common_voice_ha_28394883.mp3 Ko bindigar ka da harsashi?
+cv_hau_000937 common_voice_ha_28396046.mp3 Ina tsammanin mun ɓace.
+cv_hau_000938 common_voice_ha_28396048.mp3 zazzabin da ya dame ni a kwanaki biyun da suka gabata
+cv_hau_000939 common_voice_ha_28396050.mp3 Ina son karamar gida kuka.
+cv_hau_000940 common_voice_ha_28396072.mp3 Muryar mutum mutumin ba ta min daɗi ko kadan.
+cv_hau_000941 common_voice_ha_28396074.mp3 Rayuwa tana da wahala ga kowa.
+cv_hau_000942 common_voice_ha_28396083.mp3 Mustapha ya yi kokarin tuntuɓar Hafsat.
+cv_hau_000943 common_voice_ha_28396085.mp3 A zahiri Abdullahi na da matsala akan yanayi.
+cv_hau_000944 common_voice_ha_28396090.mp3 Majalisar United States ta yi dokoki.
+cv_hau_000945 common_voice_ha_28396093.mp3 Bari su ci gaba da ayyukansu.
+cv_hau_000946 common_voice_ha_28396122.mp3 Ni ban ce ina zama a Australia ba.
+cv_hau_000947 common_voice_ha_28396123.mp3 Yana da sauki.
+cv_hau_000948 common_voice_ha_28396124.mp3 Kwallan ya gangaro kasa ta wurina.
+cv_hau_000949 common_voice_ha_28396125.mp3 Ya yi bayanin yadda za a samar da kwale-kwale.
+cv_hau_000950 common_voice_ha_28396139.mp3 Suna cikin kurciya.
+cv_hau_000951 common_voice_ha_28396141.mp3 Ni gwame ne.
+cv_hau_000952 common_voice_ha_28396143.mp3 a ina kake jin ciwo a kirjin?
+cv_hau_000953 common_voice_ha_28396186.mp3 Yusuf ya saka mayafin sa da hula.
+cv_hau_000954 common_voice_ha_28396189.mp3 Jira a nan. Ba zan jima ba ina dawowa.
+cv_hau_000955 common_voice_ha_28410354.mp3 Ina son mu kasance tare.
+cv_hau_000956 common_voice_ha_28410357.mp3 Gaskiya kai mutumin kirki ne.
+cv_hau_000957 common_voice_ha_28410358.mp3 Bitrus ya ci gaba da magana da Faransanci.
+cv_hau_000958 common_voice_ha_28410393.mp3 Aliko ya nunawa Margeret hoton.
+cv_hau_000959 common_voice_ha_28410395.mp3 ʻYar uwata ta sami shiriya a yanzu ta zama malama.
+cv_hau_000960 common_voice_ha_28410396.mp3 Anan Bitrus ya yi bacci.
+cv_hau_000961 common_voice_ha_28410835.mp3 Babu sanannen rigakafi ko wata kulawa domin kawar da ita.
+cv_hau_000962 common_voice_ha_28410864.mp3 Aisha ta ce ta yi tsammanin Abdullahi ya fara gajiya.
+cv_hau_000963 common_voice_ha_28410871.mp3 Na sa fam biyar akan dokin.
+cv_hau_000964 common_voice_ha_28410874.mp3 Nan take mutum ya bayyana, ya hade jakar kayana ya gudu.
+cv_hau_000965 common_voice_ha_28410877.mp3 Zan tafi gida daga nan.
+cv_hau_000966 common_voice_ha_28410907.mp3 Muna da isasshen iskar gas kuwa domin tafiyar?
+cv_hau_000967 common_voice_ha_28410910.mp3 An samar da wata ƙungiyar domin shiga tseren kwale-kwalen.
+cv_hau_000968 common_voice_ha_28410929.mp3 Littafi shaida ne cewa ʻYan-Habibu na iya abubuwan mamaki.
+cv_hau_000969 common_voice_ha_28410932.mp3 Ya kamata mu fante takobin, don canza mata launi.
+cv_hau_000970 common_voice_ha_28410943.mp3 Masanin kimiyyar ya shahara ba wai iya ƙasar Japan ba, har da wasu ƙasashe.
+cv_hau_000971 common_voice_ha_28410947.mp3 Za ta dawo nan a kasa da mintuna goma.
+cv_hau_000972 common_voice_ha_28410952.mp3 Pedro na da babur kuma yana son tuƙawa.
+cv_hau_000973 common_voice_ha_28410966.mp3 Babangida na son kwanciya cikin ciyawa lokacin zafi.
+cv_hau_000974 common_voice_ha_28410970.mp3 Ya kamata ka sanya hular kwano domin kare kan ka daga rauni.
+cv_hau_000975 common_voice_ha_28410971.mp3 Zan kawo abun sha.
+cv_hau_000976 common_voice_ha_28410988.mp3 Abdullahi na buga ƙwallo da ƙafar hagu, amma yana rubutu da hannunsa na dama.
+cv_hau_000977 common_voice_ha_28410993.mp3 Ina da digiri a injiniya na lantarki.
+cv_hau_000978 common_voice_ha_28410997.mp3 Ba komai ne yake da sauki a rayuwa ba.
+cv_hau_000979 common_voice_ha_28411009.mp3 Kuna son a ƙunshe muku kyautar?
+cv_hau_000980 common_voice_ha_28411011.mp3 Ta ce ta gama yin wancan.
+cv_hau_000981 common_voice_ha_28411017.mp3 Ina fatan haka.
+cv_hau_000982 common_voice_ha_28411028.mp3 Mene ne haka game da Ibrahim?
+cv_hau_000983 common_voice_ha_28411034.mp3 Mr. Jordan ya farka katsahan.
+cv_hau_000984 common_voice_ha_28411037.mp3 Wannan shine a matsayin tuna miki.
+cv_hau_000985 common_voice_ha_28411044.mp3 Ƙwayar Ishaku ce.
+cv_hau_000986 common_voice_ha_28411050.mp3 Kyaftin din ya ba da umarni na gaisuwa na kori.
+cv_hau_000987 common_voice_ha_28411069.mp3 Mustapha ya gudu daga wurin aikata laifin.
+cv_hau_000988 common_voice_ha_28411070.mp3 Jirgi mai haɗi na da matsala.
+cv_hau_000989 common_voice_ha_28411073.mp3 Daga gani a wannan hoto, wannan saurayi ne ya balaga.
+cv_hau_000990 common_voice_ha_28411078.mp3 Ni ne wanna, Aunt Wong.
+cv_hau_000991 common_voice_ha_28411079.mp3 Ina ganin shawararsa ta cancanci yin la’akari.
+cv_hau_000992 common_voice_ha_28411097.mp3 Na shirya kasuwanci da tare da Mr. Brown.
+cv_hau_000993 common_voice_ha_28411102.mp3 Wannan littafin zai taimaka maka wajen karatu.
+cv_hau_000994 common_voice_ha_28411134.mp3 Tabbatar da odar.
+cv_hau_000995 common_voice_ha_28411140.mp3 Zaki shi ne sarkin namun dawa.
+cv_hau_000996 common_voice_ha_28480428.mp3 Spain ce ta ke sarrafa Florida.
+cv_hau_000997 common_voice_ha_28480434.mp3 Ya kamata na baiwa Aliyu wannan littafin.
+cv_hau_000998 common_voice_ha_28480436.mp3 Za mu daidaita a kan hanyarmu.
+cv_hau_000999 common_voice_ha_28480440.mp3 A shekaru masu zuwa tunaninki zai mamaye zuciyata yayin da nake cikin kaɗaitaka.
+cv_hau_001000 common_voice_ha_28480441.mp3 Ina zan iya tura wasikun nan?
+cv_hau_001001 common_voice_ha_28480447.mp3 Dukkan wanda ya sami nasara shi zai karbi kyautar.
+cv_hau_001002 common_voice_ha_28480449.mp3 Har yanzu ya kamata Hary ya yi wannan.
+cv_hau_001003 common_voice_ha_28480451.mp3 Ka ji hayaniya a bayan ka.
+cv_hau_001004 common_voice_ha_28480458.mp3 Jauro tamkar kowa ya ke.
+cv_hau_001005 common_voice_ha_28480465.mp3 Bana son zama da talakawa.
+cv_hau_001006 common_voice_ha_28480466.mp3 Ina da keke.
+cv_hau_001007 common_voice_ha_28480471.mp3 Gaba ɗaya ya ƙarar da abinda ya tara a wajen caca.
+cv_hau_001008 common_voice_ha_28480478.mp3 Ba ni ne Almasihu ba, amma an aiko ni gabansa.
+cv_hau_001009 common_voice_ha_28480479.mp3 x baya tare da tarin B saboda yana tare da tarin A.
+cv_hau_001010 common_voice_ha_28480480.mp3 Tijjani na da kirki kwarai.
+cv_hau_001011 common_voice_ha_28480484.mp3 Kwanakin nan ina jin daɗin yadda yanayin yake.
+cv_hau_001012 common_voice_ha_28480485.mp3 Pablo ya koyi karatu lokacin yana ɗan shekara biyar.
+cv_hau_001013 common_voice_ha_28480487.mp3 Mista Smith ya ba da shawarar aure ga Jane.
+cv_hau_001014 common_voice_ha_28480498.mp3 Yawanci kurakuran mu na faruwa saboda rashin hakuri.
+cv_hau_001015 common_voice_ha_28480505.mp3 Yaushe zan zo wajen ku?
+cv_hau_001016 common_voice_ha_28480507.mp3 Wasu jiragan ruwa na zubar da sharan su a cikin teku kai tsaye.
+cv_hau_001017 common_voice_ha_28480510.mp3 Baki ɗaya Habibu ya fita daga hayyacinsa!
+cv_hau_001018 common_voice_ha_28480522.mp3 Ta amince tana shan koken.
+cv_hau_001019 common_voice_ha_28480523.mp3 Ta shirya sakin auransa.
+cv_hau_001020 common_voice_ha_28480524.mp3 Ibrahim ya san wajen da zai same ni.
+cv_hau_001021 common_voice_ha_28480525.mp3 Nan bada jimawa ba za'a dasa bishiyoyi da yawa.
+cv_hau_001022 common_voice_ha_28491084.mp3 Kun yi kan lokaci, ko ba haka ba?
+cv_hau_001023 common_voice_ha_28491085.mp3 Jalal na son ya taimaka.
+cv_hau_001024 common_voice_ha_28491086.mp3 Ba za su karɓi duk wani uzirin ƙin halartar taron ba.
+cv_hau_001025 common_voice_ha_28491088.mp3 Kamar Yusuf na son Austarlia.
+cv_hau_001026 common_voice_ha_28491089.mp3 Kuna tunatar da ni abokina Marina, babban malamin Rashanci.
+cv_hau_001027 common_voice_ha_28491093.mp3 zan tura ma hoto
+cv_hau_001028 common_voice_ha_28491103.mp3 Jalal ya ce bai san wane ne mijin Rifkatu ba.
+cv_hau_001029 common_voice_ha_28491107.mp3 Mustapha ba ya cikin wannan.
+cv_hau_001030 common_voice_ha_28491108.mp3 Ibrahima ya ce yana fatan ya dawo ranar Litinin.
+cv_hau_001031 common_voice_ha_28491115.mp3 Za ka so ka rike hannu na?
+cv_hau_001032 common_voice_ha_28491118.mp3 Ƙofar na rufe daga ciki, ba zai iya shiga cikin gidan ba.
+cv_hau_001033 common_voice_ha_28491135.mp3 Ka san irin alamun da take fama da ita?
+cv_hau_001034 common_voice_ha_28491145.mp3 Ina son ganin abinda ya faru.
+cv_hau_001035 common_voice_ha_28491146.mp3 Ƙasar Amurka ta kusan zama ƙasa ta hudu a duniya mai yawan fursunoni.
+cv_hau_001036 common_voice_ha_28491148.mp3 kusan wani tsawon lokaci ne waɗannan alamun ke gudana?
+cv_hau_001037 common_voice_ha_28491159.mp3 An samu mugun hadari a lokacin zirga-zirga.
+cv_hau_001038 common_voice_ha_28491160.mp3 Hamsatu tace ta shirya zama har zuwa ranan Litinin.
+cv_hau_001039 common_voice_ha_28491162.mp3 Bayan gidana ya ɗan yi ƙasa sosai, fiye da ƙasan.
+cv_hau_001040 common_voice_ha_28491199.mp3 Baba ya yi amfani da wuta wajen gasa kaza.
+cv_hau_001041 common_voice_ha_28491201.mp3 Ina jin tsoron yin haka.
+cv_hau_001042 common_voice_ha_28491209.mp3 Luke na da guntun gashi.
+cv_hau_001043 common_voice_ha_28491211.mp3 Ba a ganin ƙananan tsaunuka daga jirgin sama.
+cv_hau_001044 common_voice_ha_28491212.mp3 Ka tuna ka tura wasikar kan hanyar ka ta zuwa makaranta.
+cv_hau_001045 common_voice_ha_28491219.mp3 Ni fatalwa ne da na mutu ina tsoron mutuwa.
+cv_hau_001046 common_voice_ha_28491222.mp3 Mustapha da Rifkatu sun ce suna shirin zama a Bostom a bazarar badi.
+cv_hau_001047 common_voice_ha_28491223.mp3 Ina cin kifi ko wacce rana.
+cv_hau_001048 common_voice_ha_28491228.mp3 Na ziyarci Tijjani sau da yawa a Ostiraliya.
+cv_hau_001049 common_voice_ha_28491242.mp3 A lokacin rubutu, babu ingantaccen maganin rigakafi da aka tabbatar.
+cv_hau_001050 common_voice_ha_28491244.mp3 Duniya na da fadi inda kowa zai yi abinda yake so.
+cv_hau_001051 common_voice_ha_28491245.mp3 Ƙazamin yaron ashe yarima ne ya canza kama.
+cv_hau_001052 common_voice_ha_28491246.mp3 Ina fatan hakan ba zai wahalar da Tijjani ba.
+cv_hau_001053 common_voice_ha_28491265.mp3 Jauro da Aliko su zama kamar 'yan uwa na jini.
+cv_hau_001054 common_voice_ha_28491267.mp3 Na ji daɗi da kika yafe mini.
+cv_hau_001055 common_voice_ha_28491280.mp3 Menene ba su samu ba?
+cv_hau_001056 common_voice_ha_28491309.mp3 Wayanda da suke siyan littafin bada dariya mafi yawan su daliban sakandari ne.
+cv_hau_001057 common_voice_ha_28491310.mp3 Wani dandano kake so?

@@ -58,13 +58,13 @@ tivity and language models during speech processing. arXiv preprint arXiv:2512.0
 | Component | Weight | Status | Notes |
 |-----------|--------|--------|--------|
 | Literature and design | 20% | Done | refs/idea.md: ML-SUPERB procedure, JEPA rationale, ABX vs ASR, fusion idea |
-| Benchmark environment | 15% | Partial | ESPnet + ml_superb recipe under models/espnet/egs2/ml_superb; no run yet |
-| Data setup (ML-SUPERB 10 min/1 h) | 15% | Not done | MLSUPERB not set; data not downloaded or prepared |
-| Reproduction (paper results) | 25% | Not done | No runs; no HuBERT/wav2vec CER for any language |
-| JEPA integration (Audio-JEPA in pipeline) | 15% | Not done | No S3PRL upstream or config for JEPA |
-| ABX + ASR comparison (JEPA vs HuBERT) | 10% | Not done | Depends on reproduction and JEPA |
+| Benchmark environment | 15% | Done | ESPnet + ml_superb recipe; pipeline runs (run_ml_superb_baseline.sh, SSL scripts) |
+| Data setup (ML-SUPERB 10 min/1 h) | 15% | Done | eng1 data (mls/eng); scripts for download/prep; 1h transcripts (ensure_1h_transcripts.sh) |
+| Reproduction (paper results) | 25% | In progress | eng1 10min SSL done (HuBERT frozen + CTC, CER in RESULTS.md); eng1 1h long training run |
+| JEPA integration (Audio-JEPA in pipeline) | 15% | Done | JEPA frontend in espnet2; config train_asr_jepa_10min.yaml; optional Sony repo (refs/JEPA_INTEGRATION.md) |
+| ABX + ASR comparison (JEPA vs HuBERT) | 10% | Done | Pipeline run (scripts/run_abx_vs_asr.py); HuBERT ABX + ASR CER table; JEPA after integration |
 
-**Overall: ~25–30%.** Strong on design and spec; execution (data, runs, JEPA) not started. Reproduction is the critical path for the rest.
+**Overall: ~85%.** Reproduction, ABX vs ASR, and JEPA integration done; optional: run JEPA training, ABX with JEPA features.
 
 ### What Janis should do right now: reproduce the benchmark first
 
@@ -90,13 +90,45 @@ tivity and language models during speech processing. arXiv preprint arXiv:2512.0
 
 ### What’s done now (update)
 
-- **Benchmark environment:** Done. Pipeline runs (path.sh, run_one_lang.sh, one-liner `./scripts/run_ml_superb_baseline.sh`), scoring without sclite, uv-only.
-- **Data setup:** Done for eng1 (download script, extract, `data/ml_superb/mls/eng/` with transcripts + wav). Full 8th release gives more languages.
-- **One baseline run:** Done — **FBANK** baseline (10 min eng1, 30 epochs, CER/WER in `exp/.../RESULTS.md`). Not SSL yet.
+- **Benchmark environment:** Done. Pipeline runs (path.sh, run_one_lang.sh, `./scripts/run_ml_superb_baseline.sh`, `./scripts/run_ml_superb_ssl_full.sh`), scoring without sclite, uv-only.
+- **Data setup:** Done for eng1 (download script, extract, `data/ml_superb/mls/eng/` with transcripts + wav, 1h transcripts). Full 8th release gives more languages.
+- **Baseline runs:** **FBANK** baseline (10 min eng1) and **SSL (HuBERT frozen + CTC)** for eng1 10min — CER/WER in `exp/.../RESULTS.md`. Long training: full grid (`run_ml_superb_ssl_full.sh`) runs eng1 10min + eng1 1h.
+- **ABX + ASR comparison:** Done. Script `scripts/run_abx_vs_asr.py` extracts HuBERT features, runs ABX (fastabx), reads ASR CER, prints table. Run: `uv run python scripts/run_abx_vs_asr.py --recipe_dir models/espnet/egs2/ml_superb/asr1`. See refs/report.md.
+
+### ASR results (eng1, 10 min, test set)
+
+Evaluation uses the same test split (1 utterance in current data; CER/WER are indicative).
+
+| Frontend        | Config                         | CER (test_10min_eng1) | WER (test_10min_eng1) | Note                    |
+|-----------------|---------------------------------|------------------------|------------------------|-------------------------|
+| HuBERT (frozen) | train_asr_s3prl_10min.yaml     | **33.33%**            | **24.14%**             | 30 ep; baseline         |
+| JEPA minimal    | train_asr_jepa_10min.yaml      | 62.22%                | 44.83%                 | 30 ep; no pretrain      |
+| WavJEPA (HF)    | train_asr_wavjepa_10min.yaml   | (run pending)         | (run pending)           | 30 ep in progress       |
+| WavJEPA 5ep     | train_asr_wavjepa_5ep.yaml     | (run pending)         | (run pending)           | 5 ep quick comparison   |
+
+**Discussion:** HuBERT (pretrained) gives the best CER/WER. JEPA with a small untrained encoder is worse. WavJEPA-Nat (pretrained JEPA from Hugging Face) is expected to sit between the two once 30-ep training finishes; 5-ep and 30-ep runs can be compared to see convergence.
+
+**How to run:** From repo root, with `MLSUPERB` set and data prepared:
+- **Quick debug (1 ep, 2 iters):** `./scripts/run_ml_superb_train_eval_all.sh --debug --skip-data --no-sync` — runs JEPA + WavJEPA (skips HuBERT if S3PRL not installed).
+- **Full 30 ep:** `./scripts/run_ml_superb_wavjepa.sh --skip-data --no-sync` or `run_ml_superb_jepa.sh`; HuBERT: use `train_asr_s3prl_10min.yaml` with S3PRL installed.
+Results: `models/espnet/egs2/ml_superb/asr1/exp/<asr_tag>/RESULTS.md`.
+
+### Encoder pretraining (can it be done so far?)
+
+- **HuBERT:** Yes, in ESPnet (`espnet2/tasks/hubert.py`, `ssl.py`; e.g. egs2/mini_an4/ssl1). This project uses **pretrained** HuBERT via S3PRL; we do not run HuBERT pretraining in the ML-SUPERB recipe.
+- **JEPA:** We use WavJEPA (HF pretrained) or the minimal encoder (no pretrain). To **pretrain** a JEPA encoder: clone the [WavJEPA](https://github.com/labhamlet/wavjepa) repo and run from here: `./scripts/setup_wavjepa.sh` then `./scripts/run_wavjepa_pretrain.sh --num-gpus 10 --data audioset` (e.g. 10× H100). See **refs/RESEARCH_PLAN.md** (section “Using the WavJEPA repo”) and `third_party/README.md`.
+
+### Full research run (one command)
+
+**One-liner (recommended on a big GPU instance):** from repo root run  
+`./scripts/run_full_pipeline.sh`  
+to download ML-SUPERB data, sync deps, run data prep, train all frontends (HuBERT if S3PRL, JEPA, WavJEPA), and eval. Use `--debug` for a quick 1 ep check, `--skip-download` if data is already at `data/ml_superb`, `--skip-data` if data is already prepared. Results in `exp/*/RESULTS.md` and `logs/research_results_*.txt`.
+
+Without download: `./scripts/run_research_full.sh` (set `MLSUPERB` if needed). Plan: **refs/RESEARCH_PLAN.md**.
 
 ### What’s remaining
 
-1. **Reproduction (SSL):** Run **HuBERT** (or wav2vec) with frozen backbone + CTC on 10 min for at least eng1 (e.g. `train_asr_s3prl_10min.yaml`). Then 2–3 languages (eng1, fra1, deu1), 10 min (and optionally 1 h); record CER and compare to ML-SUPERB (2023) tables.
-2. **Document:** Short report or table with commands, data paths, and CER per language/model for Vadim and Bruny.
-3. **JEPA integration:** Add Audio-JEPA to the pipeline (S3PRL upstream or custom frontend), same protocol (frozen + CTC, 10 min/1 h).
-4. **ABX + ASR comparison:** Compare JEPA vs HuBERT (ABX discrimination + ASR CER) after 2 and 3.
+1. **Reproduction (SSL):** Let eng1 1h finish; optionally add fra1/deu1 data and run full 3 lang × 2 dur grid; record CER and compare to ML-SUPERB (2023) tables.
+2. **Document:** Report and table with commands, data paths, CER per language/model (see refs/report.md, refs/SSL_TRAINING_LINKS.md).
+3. **JEPA integration:** Done. Use `frontend: jepa` and `conf/tuning/train_asr_jepa_10min.yaml`; optional Sony repo (see refs/JEPA_INTEGRATION.md). Run training: `run_one_lang.sh --asr_config conf/tuning/train_asr_jepa_10min.yaml ...`. **WavJEPA (pretrained):** `conf/tuning/train_asr_wavjepa_10min.yaml`, `./scripts/run_ml_superb_wavjepa.sh`.
+4. **ABX + ASR with JEPA:** Add JEPA feature extraction to scripts/run_abx_vs_asr.py (or a separate script) and compare JEPA vs HuBERT in the same table.

@@ -1,0 +1,128 @@
+nchlt_nbl_000748	nchlt_nbl/audio/062/nchlt_nbl_062f_0051.wav	umphathi wokuhlolwa komsebenzi
+nchlt_nbl_000749	nchlt_nbl/audio/092/nchlt_nbl_092m_0062.wav	kufuze bona sibe
+nchlt_nbl_000750	nchlt_nbl/audio/118/nchlt_nbl_118f_0350.wav	senemidlalo yendabuko kanye nemidlalo yanje
+nchlt_nbl_000751	nchlt_nbl/audio/082/nchlt_nbl_082m_0147.wav	abantu [s] abanzima abanengi abakholelwa kuzimu ngokuya ngowesintu
+nchlt_nbl_000752	nchlt_nbl/audio/090/nchlt_nbl_090f_0423.wav	amahlangothi wokuhlolwa kwemisebenzi
+nchlt_nbl_000753	nchlt_nbl/audio/118/nchlt_nbl_118f_0271.wav	semthethwenisisekelo komthetho ongekho
+nchlt_nbl_000754	nchlt_nbl/audio/092/nchlt_nbl_092m_0023.wav	inxha yekhethu yaphuma emzombeni wokuthoma
+nchlt_nbl_000755	nchlt_nbl/audio/090/nchlt_nbl_090f_0207.wav	yephrovinsi yokudlulisela phambili
+nchlt_nbl_000756	nchlt_nbl/audio/062/nchlt_nbl_062f_0322.wav	umnyango waragela phambili
+nchlt_nbl_000757	nchlt_nbl/audio/027/nchlt_nbl_027m_0284.wav	kuba yini umzwokhe mbuli alize ibizelo lokuvuma
+nchlt_nbl_000758	nchlt_nbl/audio/090/nchlt_nbl_090f_0466.wav	nayikuthi isinghonghoyilo sakho
+nchlt_nbl_000759	nchlt_nbl/audio/120/nchlt_nbl_120m_0251.wav	enenzuzo nedzimeleleko efaka
+nchlt_nbl_000760	nchlt_nbl/audio/061/nchlt_nbl_061f_0362.wav	ialbum katoni braxton ihlanganisa abatjha nabadala
+nchlt_nbl_000761	nchlt_nbl/audio/061/nchlt_nbl_061f_0347.wav	kokuthola imvumo efaneleko
+nchlt_nbl_000762	nchlt_nbl/audio/027/nchlt_nbl_027m_0045.wav	kutjho ukuthini ukuthi umswenya umdlalina
+nchlt_nbl_000763	nchlt_nbl/audio/118/nchlt_nbl_118f_0396.wav	elinye ipholisa [s] liphula
+nchlt_nbl_000764	nchlt_nbl/audio/120/nchlt_nbl_120m_0485.wav	senze isiqiniseko sokobana
+nchlt_nbl_000765	nchlt_nbl/audio/062/nchlt_nbl_062f_0398.wav	sasungulwa nini isiqhema
+nchlt_nbl_000766	nchlt_nbl/audio/120/nchlt_nbl_120m_0472.wav	zokwelatjhwa kwamazinyo kwangaphandle
+nchlt_nbl_000767	nchlt_nbl/audio/082/nchlt_nbl_082m_0041.wav	ubulelesi bethungelwano hlanganiso bunengi
+nchlt_nbl_000768	nchlt_nbl/audio/061/nchlt_nbl_061f_0642.wav	nje yamaakhawundi wenu
+nchlt_nbl_000769	nchlt_nbl/audio/118/nchlt_nbl_118f_0151.wav	yakasinyikhaba
+nchlt_nbl_000770	nchlt_nbl/audio/090/nchlt_nbl_090f_0341.wav	begodu kufuze sitjho
+nchlt_nbl_000771	nchlt_nbl/audio/090/nchlt_nbl_090f_0085.wav	nakufumaniseka ukuthi isibawo
+nchlt_nbl_000772	nchlt_nbl/audio/082/nchlt_nbl_082m_0175.wav	obhadelwako uzakususelwa [s] emthelweni
+nchlt_nbl_000773	nchlt_nbl/audio/062/nchlt_nbl_062f_0473.wav	umongameli wazamukela zonke iintjhaba
+nchlt_nbl_000774	nchlt_nbl/audio/120/nchlt_nbl_120m_0345.wav	samapholisa esiseduze nalapho
+nchlt_nbl_000775	nchlt_nbl/audio/082/nchlt_nbl_082m_0523.wav	kuwe kanye namkha
+nchlt_nbl_000776	nchlt_nbl/audio/118/nchlt_nbl_118f_0394.wav	ukungenisa abobaba kuqakathekile
+nchlt_nbl_000777	nchlt_nbl/audio/120/nchlt_nbl_120m_0011.wav	uzakuragela phambili ngokuphathwa
+nchlt_nbl_000778	nchlt_nbl/audio/090/nchlt_nbl_090f_0025.wav	kukhona incwadi zabentwana besikolo
+nchlt_nbl_000779	nchlt_nbl/audio/061/nchlt_nbl_061f_0266.wav	benze neqiniso lokuthi
+nchlt_nbl_000780	nchlt_nbl/audio/027/nchlt_nbl_027m_0178.wav	umesi wenza umdlalo webholo ubonakale ngathi ulula
+nchlt_nbl_000781	nchlt_nbl/audio/090/nchlt_nbl_090f_0446.wav	iinhlangano okungasizo zombuso
+nchlt_nbl_000782	nchlt_nbl/audio/120/nchlt_nbl_120m_0446.wav	nakube umphathiimali wesiqhema
+nchlt_nbl_000783	nchlt_nbl/audio/090/nchlt_nbl_090f_0043.wav	isewula afrika ehlathululwa
+nchlt_nbl_000784	nchlt_nbl/audio/090/nchlt_nbl_090f_0302.wav	esitetjhini samapholisa esiseduze
+nchlt_nbl_000785	nchlt_nbl/audio/082/nchlt_nbl_082m_0341.wav	abarholi bendabukwaba benzisa
+nchlt_nbl_000786	nchlt_nbl/audio/027/nchlt_nbl_027m_0431.wav	ijethi siolo esitjhiphileko sezambatho
+nchlt_nbl_000787	nchlt_nbl/audio/090/nchlt_nbl_090f_0143.wav	nekoro yezokuthintana nayo ithembele kuthekhinoloji
+nchlt_nbl_000788	nchlt_nbl/audio/120/nchlt_nbl_120m_0490.wav	emphakathini kufuze bona
+nchlt_nbl_000789	nchlt_nbl/audio/082/nchlt_nbl_082m_0512.wav	ekutjhiseni kwellangakufuneka iimbuko
+nchlt_nbl_000790	nchlt_nbl/audio/092/nchlt_nbl_092m_0135.wav	kwaphela nomgomo wokuphatha
+nchlt_nbl_000791	nchlt_nbl/audio/027/nchlt_nbl_027m_0271.wav	izulu lenziwa mafu
+nchlt_nbl_000792	nchlt_nbl/audio/118/nchlt_nbl_118f_0145.wav	umphakathi uhlale ubathemba
+nchlt_nbl_000793	nchlt_nbl/audio/062/nchlt_nbl_062f_0401.wav	kenye nenye ikhophi
+nchlt_nbl_000794	nchlt_nbl/audio/027/nchlt_nbl_027m_0022.wav	abalingisi bamafilimu ngobunengi bahlala e holly wood
+nchlt_nbl_000795	nchlt_nbl/audio/090/nchlt_nbl_090f_0358.wav	amanothi weentatimende zeemali
+nchlt_nbl_000796	nchlt_nbl/audio/090/nchlt_nbl_090f_0373.wav	incwadi zibalulekile ekuthuthukiseni umphakhathi
+nchlt_nbl_000797	nchlt_nbl/audio/061/nchlt_nbl_061f_0382.wav	lokuzibopha lomlungeleli isigaba
+nchlt_nbl_000798	nchlt_nbl/audio/027/nchlt_nbl_027m_0210.wav	ukutlaragana kwemogomo yokurhwebelana
+nchlt_nbl_000799	nchlt_nbl/audio/092/nchlt_nbl_092m_0333.wav	sihlanza izambatho ngomtjhini
+nchlt_nbl_000800	nchlt_nbl/audio/120/nchlt_nbl_120m_0269.wav	amandebele enza amasiko amanengi
+nchlt_nbl_000801	nchlt_nbl/audio/092/nchlt_nbl_092m_0097.wav	umararhelana udlalwa babantu ababili
+nchlt_nbl_000802	nchlt_nbl/audio/062/nchlt_nbl_062f_0032.wav	yokuthuthukisa nokuvikela amalungelo
+nchlt_nbl_000803	nchlt_nbl/audio/120/nchlt_nbl_120m_0168.wav	abavumi bakwandebele bavuma ngesikhethu boke
+nchlt_nbl_000804	nchlt_nbl/audio/061/nchlt_nbl_061f_0288.wav	ngaphandle kokukhetha ubuzwe
+nchlt_nbl_000805	nchlt_nbl/audio/061/nchlt_nbl_061f_0332.wav	nemitlolo esiphekelelako iliqiniso
+nchlt_nbl_000806	nchlt_nbl/audio/092/nchlt_nbl_092m_0103.wav	bese ulandelwe mdlalo weenketo
+nchlt_nbl_000807	nchlt_nbl/audio/061/nchlt_nbl_061f_0260.wav	esaneleko sokuposa namkha
+nchlt_nbl_000808	nchlt_nbl/audio/062/nchlt_nbl_062f_0309.wav	umrhatjho lo udlala iingoma zakade khulu
+nchlt_nbl_000809	nchlt_nbl/audio/082/nchlt_nbl_082m_0046.wav	kutjho ukuthini ukuthi
+nchlt_nbl_000810	nchlt_nbl/audio/118/nchlt_nbl_118f_0312.wav	iinzipho zomuntu zivikela amaphethelo womuno
+nchlt_nbl_000811	nchlt_nbl/audio/090/nchlt_nbl_090f_0277.wav	igama lephrojekthi oyenzela
+nchlt_nbl_000812	nchlt_nbl/audio/120/nchlt_nbl_120m_0023.wav	umfundalize wesikhathi esizeleko
+nchlt_nbl_000813	nchlt_nbl/audio/082/nchlt_nbl_082m_0460.wav	sakho siphumelele namkha
+nchlt_nbl_000814	nchlt_nbl/audio/082/nchlt_nbl_082m_0304.wav	sikhulu sekhotho ephakemeko
+nchlt_nbl_000815	nchlt_nbl/audio/090/nchlt_nbl_090f_0322.wav	nekghono lokusebenzisa umthetho
+nchlt_nbl_000816	nchlt_nbl/audio/090/nchlt_nbl_090f_0035.wav	iamerika idosa phambili kezomvumo
+nchlt_nbl_000817	nchlt_nbl/audio/120/nchlt_nbl_120m_0327.wav	bona imibandela yomthetho
+nchlt_nbl_000818	nchlt_nbl/audio/082/nchlt_nbl_082m_0270.wav	ukutlhoriswa namkha ukuphathwa
+nchlt_nbl_000819	nchlt_nbl/audio/120/nchlt_nbl_120m_0242.wav	wabantu abanzima ngaphandle
+nchlt_nbl_000820	nchlt_nbl/audio/090/nchlt_nbl_090f_0168.wav	nelinye ilunga lomphakathi
+nchlt_nbl_000821	nchlt_nbl/audio/118/nchlt_nbl_118f_0172.wav	ubakhamuzi ngemva kweminyaka
+nchlt_nbl_000822	nchlt_nbl/audio/062/nchlt_nbl_062f_0287.wav	abafazi bathanda izambatho ze italy
+nchlt_nbl_000823	nchlt_nbl/audio/118/nchlt_nbl_118f_0192.wav	ngaphandle kokutjhigamela ncanye
+nchlt_nbl_000824	nchlt_nbl/audio/062/nchlt_nbl_062f_0419.wav	iindleko zephrojekhthi nawo
+nchlt_nbl_000825	nchlt_nbl/audio/062/nchlt_nbl_062f_0159.wav	ezingeni lesibili lesikhungo
+nchlt_nbl_000826	nchlt_nbl/audio/027/nchlt_nbl_027m_0203.wav	ucarlos ferrerra beku mbonduli wesiqhema senarha
+nchlt_nbl_000827	nchlt_nbl/audio/118/nchlt_nbl_118f_0090.wav	ikusasa lehlelo lepahla
+nchlt_nbl_000828	nchlt_nbl/audio/082/nchlt_nbl_082m_0536.wav	ngomunye wababelethi namkha
+nchlt_nbl_000829	nchlt_nbl/audio/061/nchlt_nbl_061f_0446.wav	iindleko zokusebenza nokuzihlola
+nchlt_nbl_000830	nchlt_nbl/audio/062/nchlt_nbl_062f_0048.wav	sokuphekisa ngeendleko zokwakha
+nchlt_nbl_000831	nchlt_nbl/audio/090/nchlt_nbl_090f_0041.wav	ekukhulumisaneni nekuphunguleni imbangela
+nchlt_nbl_000832	nchlt_nbl/audio/061/nchlt_nbl_061f_0526.wav	namkha othathwa njengewili
+nchlt_nbl_000833	nchlt_nbl/audio/118/nchlt_nbl_118f_0055.wav	begodu nelitjhidiselwe etjingalanga
+nchlt_nbl_000834	nchlt_nbl/audio/082/nchlt_nbl_082m_0062.wav	kumele sinikele abalingani
+nchlt_nbl_000835	nchlt_nbl/audio/090/nchlt_nbl_090f_0208.wav	ukuthuthukiswa kwamabhizinisi amancani
+nchlt_nbl_000836	nchlt_nbl/audio/090/nchlt_nbl_090f_0357.wav	umandla ufake amagondelo amabili
+nchlt_nbl_000837	nchlt_nbl/audio/082/nchlt_nbl_082m_0282.wav	nobufakazi bokubhadelwa kwer
+nchlt_nbl_000838	nchlt_nbl/audio/027/nchlt_nbl_027m_0498.wav	isimanje singenwa mntazana owendako
+nchlt_nbl_000839	nchlt_nbl/audio/092/nchlt_nbl_092m_0420.wav	sokuzitlolisa esentha yefundo
+nchlt_nbl_000840	nchlt_nbl/audio/092/nchlt_nbl_092m_0484.wav	inani lemali ikhotho
+nchlt_nbl_000841	nchlt_nbl/audio/082/nchlt_nbl_082m_0055.wav	njengombana kusitjho umthetho
+nchlt_nbl_000842	nchlt_nbl/audio/061/nchlt_nbl_061f_0662.wav	udadwethu nabangani bakhe baya emavikilina qobe ngepelaveke
+nchlt_nbl_000843	nchlt_nbl/audio/062/nchlt_nbl_062f_0196.wav	ngubani mlisingisi olingisa usteve biko ku cry freedom
+nchlt_nbl_000844	nchlt_nbl/audio/062/nchlt_nbl_062f_0109.wav	imithombo yamandla yemvelo
+nchlt_nbl_000845	nchlt_nbl/audio/027/nchlt_nbl_027m_0031.wav	umbhino wejezi unabalandeli tle
+nchlt_nbl_000846	nchlt_nbl/audio/092/nchlt_nbl_092m_0467.wav	ukwenza umsebenzi wangaphandle
+nchlt_nbl_000847	nchlt_nbl/audio/062/nchlt_nbl_062f_0169.wav	eliqalene nobulelesi kezobulungiswa
+nchlt_nbl_000848	nchlt_nbl/audio/062/nchlt_nbl_062f_0251.wav	sezokwazisa sokwalela isibawo
+nchlt_nbl_000849	nchlt_nbl/audio/090/nchlt_nbl_090f_0173.wav	bangaphambilini namkha esazini
+nchlt_nbl_000850	nchlt_nbl/audio/118/nchlt_nbl_118f_0062.wav	kwafakazelwa amandla webandla
+nchlt_nbl_000851	nchlt_nbl/audio/062/nchlt_nbl_062f_0042.wav	ukutloliswa kwemitjhado yesintu
+nchlt_nbl_000852	nchlt_nbl/audio/062/nchlt_nbl_062f_0115.wav	unazo zoke iimfuneko
+nchlt_nbl_000853	nchlt_nbl/audio/120/nchlt_nbl_120m_0493.wav	phambili aye ekosaneni
+nchlt_nbl_000854	nchlt_nbl/audio/090/nchlt_nbl_090f_0115.wav	ipitori isesifundeni serhawuteni
+nchlt_nbl_000855	nchlt_nbl/audio/027/nchlt_nbl_027m_0234.wav	umvumi omutjha utrey songs ubuye nonomgorwana lebet unyaka ophalileko
+nchlt_nbl_000856	nchlt_nbl/audio/062/nchlt_nbl_062f_0092.wav	kukahleziphi
+nchlt_nbl_000857	nchlt_nbl/audio/092/nchlt_nbl_092m_0236.wav	omalungana nokungabi semthethwenisisekelo
+nchlt_nbl_000858	nchlt_nbl/audio/082/nchlt_nbl_082m_0305.wav	abafisa ukusebenza njengabososayensi
+nchlt_nbl_000859	nchlt_nbl/audio/120/nchlt_nbl_120m_0489.wav	iiqhema ezigidako zesikhethu zigida kamnandi
+nchlt_nbl_000860	nchlt_nbl/audio/120/nchlt_nbl_120m_0015.wav	anawo na amandla
+nchlt_nbl_000861	nchlt_nbl/audio/120/nchlt_nbl_120m_0219.wav	nakube ibona kufanele
+nchlt_nbl_000862	nchlt_nbl/audio/061/nchlt_nbl_061f_0032.wav	bangaphambilini namkha esazini
+nchlt_nbl_000863	nchlt_nbl/audio/082/nchlt_nbl_082m_0434.wav	izambatho ziyathengeka epep
+nchlt_nbl_000864	nchlt_nbl/audio/090/nchlt_nbl_090f_0040.wav	wesivumelwano sehlangano yeentjhaba
+nchlt_nbl_000865	nchlt_nbl/audio/120/nchlt_nbl_120m_0275.wav	nobujamo bezamaphilo kunye
+nchlt_nbl_000866	nchlt_nbl/audio/062/nchlt_nbl_062f_0258.wav	okhethiweko wesikhatheso nabaphumelelisa
+nchlt_nbl_000867	nchlt_nbl/audio/120/nchlt_nbl_120m_0425.wav	usisakhamuzi sesewula afrika
+nchlt_nbl_000868	nchlt_nbl/audio/092/nchlt_nbl_092m_0468.wav	ngaphasi komunye umthetho
+nchlt_nbl_000869	nchlt_nbl/audio/092/nchlt_nbl_092m_0432.wav	nanyana ngubani owanelisa
+nchlt_nbl_000870	nchlt_nbl/audio/090/nchlt_nbl_090f_0510.wav	sokubuyisa imali le
+nchlt_nbl_000871	nchlt_nbl/audio/027/nchlt_nbl_027m_0071.wav	sathalayidisikotlelo esidlalisa umabona kude
+nchlt_nbl_000872	nchlt_nbl/audio/118/nchlt_nbl_118f_0542.wav	kuhle ngaphambi kokwenza
+nchlt_nbl_000873	nchlt_nbl/audio/082/nchlt_nbl_082m_0052.wav	umnqophisi wokutjhutjhiswa komphakathi
+nchlt_nbl_000874	nchlt_nbl/audio/027/nchlt_nbl_027m_0092.wav	umuntu usebenzisa amazinyo ukugaya ukudla
+nchlt_nbl_000875	nchlt_nbl/audio/082/nchlt_nbl_082m_0172.wav	ilwazi elizokusiza ngokwakho

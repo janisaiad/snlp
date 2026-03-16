@@ -1,0 +1,569 @@
+cv_epo_000000 common_voice_eo_17920711.mp3 Ĝi jam staras al mi en la gorĝo.
+cv_epo_000001 common_voice_eo_18297821.mp3 Vi ne devos lin delasi dum la tuta nokto.
+cv_epo_000002 common_voice_eo_33721567.mp3 Ĝi lokiĝas en terenoj de Varmia-Mazuria Provinco.
+cv_epo_000003 common_voice_eo_30233214.mp3 Sed li tion ne rimarkis.
+cv_epo_000004 common_voice_eo_30453921.mp3 ŝanĝis
+cv_epo_000005 common_voice_eo_31638139.mp3 Kelkaj historiistoj dubas ke Karolo iam ekzistis.
+cv_epo_000006 common_voice_eo_27330898.mp3 Ni ne havas pafilojn
+cv_epo_000007 common_voice_eo_25012097.mp3 La pugo estas flava.
+cv_epo_000008 common_voice_eo_27331004.mp3 Tiam, la infano kreskas kaj edukiĝas kaj nur parolas Esperanton.
+cv_epo_000009 common_voice_eo_19395988.mp3 Fremda korpo ne doloras.
+cv_epo_000010 common_voice_eo_27330957.mp3 Kaj li rigardis min iom komfuzite kaj diris:
+cv_epo_000011 common_voice_eo_22438290.mp3 unu
+cv_epo_000012 common_voice_eo_22942419.mp3 Je la fino ŝajnas, ke la vivo eniras en la arto.
+cv_epo_000013 common_voice_eo_28529226.mp3 Ĝi estas evidenta kazo de seksa duformismo.
+cv_epo_000014 common_voice_eo_27383725.mp3 Krom ili hungaroj kaj bulgaroj vivas tie.
+cv_epo_000015 common_voice_eo_30317791.mp3 Lia partio estas Nacia Koalicio.
+cv_epo_000016 common_voice_eo_27754280.mp3 Unu el la aloj aliĝas plia J-forma alo.
+cv_epo_000017 common_voice_eo_20647319.mp3 Plej rimarkinda karaktero estas la tre flava pugo, kiel ĉe multaj kanarioj.
+cv_epo_000018 common_voice_eo_29224314.mp3 Kaj sekve li estas al ŝi iom konata.
+cv_epo_000019 common_voice_eo_22717509.mp3 La cetero perdiĝis.
+cv_epo_000020 common_voice_eo_25214319.mp3 Ĝi estas malbona ideo disvastigita per la klasikaj libroj de la grekoj.
+cv_epo_000021 common_voice_eo_27966466.mp3 Ĉiu metrika spaco estas ankaŭ topologia spaco.
+cv_epo_000022 common_voice_eo_28064444.mp3 La komisiono ne klarigis lian rolon.
+cv_epo_000023 common_voice_eo_33366391.mp3 Ni estas kuntirataj.
+cv_epo_000024 common_voice_eo_25006596.mp3 La Esperanta Civito, kun siaj enaj "partioj" havas proksiman sistemon.
+cv_epo_000025 common_voice_eo_22392105.mp3 Ŝi kapablas flugi kaj fariĝi nevidebla.
+cv_epo_000026 common_voice_eo_30506525.mp3 La insulo funkciis kiel farmo por ŝafoj.
+cv_epo_000027 common_voice_eo_31419583.mp3 Sufiĉe pri tio.
+cv_epo_000028 common_voice_eo_27309148.mp3 Plenkreska Perseo foriris eksterlanden kaj plenumis malfacilan taskon.
+cv_epo_000029 common_voice_eo_30460768.mp3 Pluraj militistaj konstruaĵoj tiam stariĝis.
+cv_epo_000030 common_voice_eo_29759306.mp3 La rifuĝejoj havas nomojn de urboj de Okcidenta Saharo.
+cv_epo_000031 common_voice_eo_17921078.mp3 Inter ili troviĝis kuracisto.
+cv_epo_000032 common_voice_eo_31392960.mp3 Ĝi troviĝas en Belizo, Kolombio, Kostariko, Salvadoro, Gvatemalo, Honduro, Meksiko, Nikaragvo, kaj Panamo.
+cv_epo_000033 common_voice_eo_24976835.mp3 Ĉi tiuj difinas la aron de eblaj solvoj.
+cv_epo_000034 common_voice_eo_26540292.mp3 La urbo situas ĉe la supra parto de la rivero Doubs.
+cv_epo_000035 common_voice_eo_30642121.mp3 Kaj kiu amas fruktobrandon, nu, tiu ankaŭ interesoplene legos la tiurilatajn epizodojn.
+cv_epo_000036 common_voice_eo_26746215.mp3 Kiaj homoj ili estas?
+cv_epo_000037 common_voice_eo_22402140.mp3 La komandoro estis nejuna.
+cv_epo_000038 common_voice_eo_21861462.mp3 De kie oni ekiru?
+cv_epo_000039 common_voice_eo_30485115.mp3 Estis mateno post pluvo.
+cv_epo_000040 common_voice_eo_20921393.mp3 Ĝi estis fortikigita fine de Mezepoko.
+cv_epo_000041 common_voice_eo_28899310.mp3 Ĉe ni!
+cv_epo_000042 common_voice_eo_20917469.mp3 Iom post iom tiu tamen akiris la respekton de la kapitano.
+cv_epo_000043 common_voice_eo_20560866.mp3 Dumtempe li edziĝis kaj iĝis patro.
+cv_epo_000044 common_voice_eo_30159395.mp3 Tro multekosta afero!
+cv_epo_000045 common_voice_eo_28315822.mp3 Akiri ĝin estas komplika, kosta, kaj en multaj landoj tute ne ebla.
+cv_epo_000046 common_voice_eo_27472721.mp3 Kaj tiuokaze la demando simple ĉesos havi sencon.
+cv_epo_000047 common_voice_eo_27330868.mp3 Se estas homo kaj diris "Donu al mi manĝaĵon"
+cv_epo_000048 common_voice_eo_32309668.mp3 Li verkis ankaŭ poemojn en la hungara, latina kaj germana lingvoj.
+cv_epo_000049 common_voice_eo_20260609.mp3 Numero unua: Pipo, tabakujo kaj alumetujo; por la gastiginto.
+cv_epo_000050 common_voice_eo_27376511.mp3 En laboratorio ĝi uzatas kiel kemia reakcianto.
+cv_epo_000051 common_voice_eo_27308961.mp3 La klara aero estas invito por la amatoraj astronomoj.
+cv_epo_000052 common_voice_eo_28943592.mp3 Ne parolu jam pri la kredo je « millenium »!
+cv_epo_000053 common_voice_eo_22427473.mp3 Norde estas la Arkta Oceano, kun Gronlando nordoriente.
+cv_epo_000054 common_voice_eo_28757560.mp3 Intertempe unu folio "perdiĝis".
+cv_epo_000055 common_voice_eo_22452483.mp3 ok
+cv_epo_000056 common_voice_eo_30350109.mp3 Post la socialismo la konstruaĵo estis renovigita.
+cv_epo_000057 common_voice_eo_27600581.mp3 La naturan limon al Svisio sude kaj Francio okcidente konsistigas la rivero Rejno.
+cv_epo_000058 common_voice_eo_24474333.mp3 Li laboris kaj teorie kaj eksperimente.
+cv_epo_000059 common_voice_eo_17911827.mp3 Perdi la kandelon el la kapo.
+cv_epo_000060 common_voice_eo_17911829.mp3 Ridas blindulo pri lamulo.
+cv_epo_000061 common_voice_eo_18304043.mp3 Ni parolis nur Esperante.
+cv_epo_000062 common_voice_eo_18304044.mp3 Kia estas via laboro, tia estas via valoro.
+cv_epo_000063 common_voice_eo_30457905.mp3 Dum la nokto antaŭ ĉi tiu tago okazas, laŭ la kredo de popolamaso, sorĉaĵoj.
+cv_epo_000064 common_voice_eo_30475051.mp3 En sia lasta ekspedicio Hudson serĉis la nordokcidentan pasejon.
+cv_epo_000065 common_voice_eo_30341065.mp3 La ununura alia granda pufino en ties teritorio estas la tute malhela Griza pufino.
+cv_epo_000066 common_voice_eo_30341218.mp3 Ili konkludis, ke, ĉar mankis natura klarigo al la okazaĵo, estis do miraklo.
+cv_epo_000067 common_voice_eo_27363057.mp3 Do mi nun studas.. Aŭ ne, mi ne nun, sed en Februaro
+cv_epo_000068 common_voice_eo_27363058.mp3 Pli komplikaj ekzemploj uzas plurajn liniojn de teksto.
+cv_epo_000069 common_voice_eo_17899644.mp3 Ameno diablon ne forpelas.
+cv_epo_000070 common_voice_eo_17899645.mp3 Li ne toleras eĉ muŝon sur la muro.
+cv_epo_000071 common_voice_eo_20105658.mp3 Li aŭskultas plue, ĝis kiam la muzikistoj ĉesas ludadi.
+cv_epo_000072 common_voice_eo_20105659.mp3 Ĝi estis vaporboato.
+cv_epo_000073 common_voice_eo_28335312.mp3 Sur tiu kabo estas lumturo.
+cv_epo_000074 common_voice_eo_28335315.mp3 Ĝi povas esti sufiĉe dika.
+cv_epo_000075 common_voice_eo_28763976.mp3 Kelkfoje ŝi havis filmajn kaj teatrajn rolojn.
+cv_epo_000076 common_voice_eo_28763977.mp3 Ĝi estas endemio de Jamajko.
+cv_epo_000077 common_voice_eo_27072860.mp3 Hejmenveninta li eklaboris en filio de Scienca Akademio nomata Centra Fizika Esplora Instituto.
+cv_epo_000078 common_voice_eo_27072861.mp3 La kernoj estas helbrunaj.
+cv_epo_000079 common_voice_eo_27301456.mp3 Ties dieto konsistas ĉefe el plantoj, fruktoj kaj malgrandaj animaloj.
+cv_epo_000080 common_voice_eo_27301459.mp3 Belaj ombroj!
+cv_epo_000081 common_voice_eo_33015598.mp3 Kaj mi iom miras.
+cv_epo_000082 common_voice_eo_33049740.mp3 Unuaj esploroj de Alasko kaj renkontiĝoj inter rusoj kaj indiĝenoj.
+cv_epo_000083 common_voice_eo_27330910.mp3 Ĉar mi ne scias, por mi tio estas stranga ideo.
+cv_epo_000084 common_voice_eo_27330913.mp3 Alia pafilo tie.
+cv_epo_000085 common_voice_eo_27743697.mp3 mondo
+cv_epo_000086 common_voice_eo_27743716.mp3 La klubo havas sian sidejon en la samnoma urbo Fukuŝima en la gubernio Fukuŝima.
+cv_epo_000087 common_voice_eo_28976133.mp3 Ĝis la muelejo ni vin akompanos kaj tie ni vin adiaŭos.
+cv_epo_000088 common_voice_eo_28976940.mp3 Jam ses monatojn.
+cv_epo_000089 common_voice_eo_28514097.mp3 Li estas profesoro ĉe la Universitato de Novjorko.
+cv_epo_000090 common_voice_eo_28514099.mp3 Tie estis ŝatata disĉiplo de Hegelo.
+cv_epo_000091 common_voice_eo_27489948.mp3 La temo estis "Al nova internacia lingva ordo".
+cv_epo_000092 common_voice_eo_27489950.mp3 Ties dieto estas komponata el insektoj, fiŝoj, kaj kraboj.
+cv_epo_000093 common_voice_eo_26626467.mp3 Se la ludanto respondas ĝuste, li gajnas pliajn poentojn.
+cv_epo_000094 common_voice_eo_26626468.mp3 Finfine la fortoj integriĝis en la estontaj Militaj Fortoj de Jordanio.
+cv_epo_000095 common_voice_eo_27715088.mp3 Teksaĵoj estis faritaj hejme el la lano de ŝafoj.
+cv_epo_000096 common_voice_eo_27715091.mp3 Senpacience atendis nia migranto la nokton.
+cv_epo_000097 common_voice_eo_23883822.mp3 kvin
+cv_epo_000098 common_voice_eo_23883823.mp3 nul
+cv_epo_000099 common_voice_eo_20856323.mp3 Li ricevis aŭstran premion.
+cv_epo_000100 common_voice_eo_20856327.mp3 Ĝi abundas en fiŝo.
+cv_epo_000101 common_voice_eo_27378760.mp3 La specio estas tre endanĝerita kaj tutmonde minacata.
+cv_epo_000102 common_voice_eo_27378799.mp3 Ĝi estas multe malpli komuna oriente, kie ties teritorio estas malpliiĝanta.
+cv_epo_000103 common_voice_eo_27352009.mp3 Kaj eble naĝi
+cv_epo_000104 common_voice_eo_27352011.mp3 Do, nun ni provas iomete.
+cv_epo_000105 common_voice_eo_22368925.mp3 En tiu nigra kapo rimarkindas la blankaj irisoj.
+cv_epo_000106 common_voice_eo_22368926.mp3 Lia unua komponaĵo estis aŭdebla en Radio de Hago.
+cv_epo_000107 common_voice_eo_27398714.mp3 anglio
+cv_epo_000108 common_voice_eo_27398808.mp3 Al tiu ĉi grupo apartenas plimulto de la insektoj.
+cv_epo_000109 common_voice_eo_21702661.mp3 Donu al mi vian manon!
+cv_epo_000110 common_voice_eo_21702662.mp3 La reproduktaj monatoj dependas de la altitudo.
+cv_epo_000111 common_voice_eo_27330978.mp3 Mojose, do tio estas ĉio
+cv_epo_000112 common_voice_eo_27330980.mp3 Tio estas giganta flago!
+cv_epo_000113 common_voice_eo_17919417.mp3 Tion farinte, la junulino fariĝis embarasita.
+cv_epo_000114 common_voice_eo_17919418.mp3 Ĉu Beatrico?
+cv_epo_000115 common_voice_eo_28354230.mp3 Parto el la parolantoj ekloĝis en urboj, inter alie en Rigo.
+cv_epo_000116 common_voice_eo_28354333.mp3 Ne tuŝu ĝin.
+cv_epo_000117 common_voice_eo_20563071.mp3 Kaj do pruvo ke Dio ekzistas.
+cv_epo_000118 common_voice_eo_20563072.mp3 Ĝi troviĝas en Bangladeŝo, Butano, Ĉinio, Barato, Laoso, Birmo kaj Tajlando.
+cv_epo_000119 common_voice_eo_20563073.mp3 Ĝi havas sep ŝtalajn kordojn en tri kordoĥoroj.
+cv_epo_000120 common_voice_eo_21101780.mp3 La verkaĵo konserviĝis en kvar manuskriptoj.
+cv_epo_000121 common_voice_eo_21101781.mp3 Estas nenio pli.
+cv_epo_000122 common_voice_eo_21101782.mp3 Ni provos aŭskulti la membrojn.
+cv_epo_000123 common_voice_eo_17996767.mp3 Ĉu ili diris siajn nomojn?
+cv_epo_000124 common_voice_eo_17996773.mp3 La infano ploras, ĉar ĝi volas manĝi.
+cv_epo_000125 common_voice_eo_17996774.mp3 Pro tio, se tia estus la vero, mi havus nenian motivon por ĝin kaŝi.
+cv_epo_000126 common_voice_eo_23005716.mp3 Drakoj kaj Galerioj nun ekzistas en la kvina versio.
+cv_epo_000127 common_voice_eo_23005725.mp3 Ties efiko estas multe malpli granda ol tiu de la anoncita ĉina metodo.
+cv_epo_000128 common_voice_eo_23005726.mp3 Li estas profesoro pri lingvistiko ĉe la Universitato de Tartu.
+cv_epo_000129 common_voice_eo_28216612.mp3 Nun ili havas monumenton en Rigo, kiu kaŭzas politikajn disputojn.
+cv_epo_000130 common_voice_eo_28216613.mp3 Ĉe la haveno oni produktas modernajn ŝipojn, tio estas tutmonde signifa.
+cv_epo_000131 common_voice_eo_28216616.mp3 Estas malhela linio tra okuloj kaj blankeca superokula strio kun malhelaj bordoj.
+cv_epo_000132 common_voice_eo_22959295.mp3 La plej granda urbo ĉe rivero Don estas Rostov-na-Donu.
+cv_epo_000133 common_voice_eo_22959299.mp3 Poste la kampoj apartenis al Szeged kaj formiĝis senfina vico da farmoj.
+cv_epo_000134 common_voice_eo_22959305.mp3 La monaĥejo por franciskanoj konstruiĝis kune kun la preĝejo.
+cv_epo_000135 common_voice_eo_27387231.mp3 La erupcio estas la sola en la skribita historio de la vulkano.
+cv_epo_000136 common_voice_eo_27387232.mp3 Ni vere bezonas ion, ekzemple nuksojn aŭ ĉipsojn
+cv_epo_000137 common_voice_eo_27387235.mp3 La iama preĝejo detruiĝis pro fulmo.
+cv_epo_000138 common_voice_eo_21958868.mp3 La beko estas tre svelta kaj nigra, kiel la gamboj kaj piedoj.
+cv_epo_000139 common_voice_eo_21958869.mp3 En la sudo de la provinco dominas tropikaj pluvarbaroj.
+cv_epo_000140 common_voice_eo_21958876.mp3 Aparte en sia supra registro de sia instrumento li ludas treege flue.
+cv_epo_000141 common_voice_eo_27017950.mp3 Kia malbeninda aroganteco, ekkriis la juna oficiro, pro furiozo preskaŭ perdante sinregadon.
+cv_epo_000142 common_voice_eo_27017951.mp3 Ankaŭ alia estrarano, Stefano, ne ĉeestas la kongreson.
+cv_epo_000143 common_voice_eo_27017985.mp3 Certe, ne nur "religiaj" aferoj kaŭzis la Masakron de Lisbono.
+cv_epo_000144 common_voice_eo_27080856.mp3 Li estis prezidanto en multaj ŝtataj organizaĵoj.
+cv_epo_000145 common_voice_eo_27080857.mp3 Nur seniĝas.
+cv_epo_000146 common_voice_eo_27080863.mp3 La kipra pundo tamen ne estis objekto de valuta komerco ekster Kipro.
+cv_epo_000147 common_voice_eo_22773626.mp3 Tiel diurne marŝas nia mondo.
+cv_epo_000148 common_voice_eo_22773627.mp3 Nuntempe la fervojo liveras nur varojn.
+cv_epo_000149 common_voice_eo_22773628.mp3 Oni ne diris kamarado doktoro, sed mirinde sinjoro doktoro.
+cv_epo_000150 common_voice_eo_26251516.mp3 Tiuj birdoj estas agresemaj.
+cv_epo_000151 common_voice_eo_26251518.mp3 De-eksteraj populacioj ofte fontas el kultivataj plantoj.
+cv_epo_000152 common_voice_eo_26251519.mp3 Tiu kolekto mem, kontraste, estas nomita kolektiva substantivo.
+cv_epo_000153 common_voice_eo_22342706.mp3 Distrikta ĉefurbo estas Horn.
+cv_epo_000154 common_voice_eo_22342707.mp3 Dum unu jardeko li estis direktoro de la Muzeo Ernst.
+cv_epo_000155 common_voice_eo_22342708.mp3 La komunumo mem ne disponas pri konekto al la publika transportreto.
+cv_epo_000156 common_voice_eo_27669254.mp3 Speciala formo de rombo estas la kvadrato.
+cv_epo_000157 common_voice_eo_27669256.mp3 Signifan parton de siaj paĝoj la gazeto dediĉis al kulturaj eventoj.
+cv_epo_000158 common_voice_eo_27669258.mp3 En la mezepoko ŝi iĝis urba respubliko.
+cv_epo_000159 common_voice_eo_18598346.mp3 Pli bona estas io, ol nenio.
+cv_epo_000160 common_voice_eo_18598348.mp3 La ludo kandelon ne valoras.
+cv_epo_000161 common_voice_eo_18598349.mp3 Fajro provas la oron, mizero la koron.
+cv_epo_000162 common_voice_eo_21927977.mp3 Serĉu la veron tie.
+cv_epo_000163 common_voice_eo_21927980.mp3 Per ĝi oni celas atingi maksimuman rezulton per haveblaj rimedoj.
+cv_epo_000164 common_voice_eo_21927981.mp3 Ĝi estus pli kiel poemo kun metriko kaj kadenco.
+cv_epo_000165 common_voice_eo_22096145.mp3 Li estis la unua, kiu mezuris temperaturon de la steloj.
+cv_epo_000166 common_voice_eo_22096149.mp3 La batalo markis la finon de la islamaj klopodoj rekuperi teritoriojn en Al Andalus.
+cv_epo_000167 common_voice_eo_22096152.mp3 Ĉefa aktoro estis Glenn Ford.
+cv_epo_000168 common_voice_eo_23963521.mp3 Vintre estas pli silentema birdo.
+cv_epo_000169 common_voice_eo_23963523.mp3 Poste ŝi sola kreskigis siajn du filojn, sed perdis ambaŭ dum la Dua Mondmilito.
+cv_epo_000170 common_voice_eo_23963525.mp3 Konsiderinda nombro de historioj kombinas ambaŭ situacioj.
+cv_epo_000171 common_voice_eo_27500655.mp3 La domoj originas esence el la stato post la detruoj en la Tridekjara Milito.
+cv_epo_000172 common_voice_eo_27500656.mp3 Primoj de Sophie Germain povas esti uzataj en la generado de pseŭdo-stokastoj.
+cv_epo_000173 common_voice_eo_27500657.mp3 Pravda iĝis organo de la konservema, naciisma opozicio.
+cv_epo_000174 common_voice_eo_23931414.mp3 En la templo ŝi ankaŭ ludas vjetnaman bambuan fluton.
+cv_epo_000175 common_voice_eo_23931415.mp3 Orienta bazaro.
+cv_epo_000176 common_voice_eo_23931416.mp3 Post kelkaj jaroj la Habsburgoj reokupis ĝin.
+cv_epo_000177 common_voice_eo_27378924.mp3 Li bone faras.
+cv_epo_000178 common_voice_eo_27378926.mp3 Pro la laboro li do transloĝiĝis al Best.
+cv_epo_000179 common_voice_eo_27378927.mp3 Ankaŭ ekzistas legendo pri la malapero de la vilaĝo kaj iam ekzistanta burgo.
+cv_epo_000180 common_voice_eo_27330880.mp3 "Ho ili estas studentoj de la Universitato de Sidnejo.
+cv_epo_000181 common_voice_eo_27330881.mp3 Iru tien!
+cv_epo_000182 common_voice_eo_27330882.mp3 - Sed vi devas ligi ĝin tie
+cv_epo_000183 common_voice_eo_27922917.mp3 Tamen, la revuo akceptis kaj publikigis ĝin, supozante ke ĝi estis origina kaj altnivela.
+cv_epo_000184 common_voice_eo_27922934.mp3 Li estis konata pro siaj noveloj en la tradicio de socia realismo.
+cv_epo_000185 common_voice_eo_27922937.mp3 La unua gazeto estis "Juna Esperantisto".
+cv_epo_000186 common_voice_eo_27730948.mp3 Do, tio estas ĉio.
+cv_epo_000187 common_voice_eo_27730949.mp3 Kun la peko en mano.
+cv_epo_000188 common_voice_eo_27730952.mp3 Amikumu estas preskaŭ tiel bongusta kiel la Lingvo mem.
+cv_epo_000189 common_voice_eo_25437117.mp3 Nedankinde, kara Mielo!
+cv_epo_000190 common_voice_eo_25437128.mp3 Vekiĝante, li troviĝas en ĉambro sen pordo, sen fenestro.
+cv_epo_000191 common_voice_eo_25437140.mp3 Li okupiĝis precipe pri Orienta Eŭropo.
+cv_epo_000192 common_voice_eo_27363152.mp3 Ili ankaŭ donas al verkisto la eblecon direkti rakonton laŭ sia volo.
+cv_epo_000193 common_voice_eo_27363153.mp3 En Ĉinujo la guŝoj estas maturaj en oktobro.
+cv_epo_000194 common_voice_eo_27363155.mp3 La nestoj estas kovrataj per verdaj folioj el arbo kie oni estas.
+cv_epo_000195 common_voice_eo_23689534.mp3 Post siaj antaŭuloj li havis ĉeĥan-francan-germanan devenon.
+cv_epo_000196 common_voice_eo_23689535.mp3 Krom la grafikaĵoj foje li kreas pentraĵojn, ilustraĵojn kaj skulptaĵojn.
+cv_epo_000197 common_voice_eo_23689536.mp3 Ĉi tiuj triboj loĝas en vasta zono de Alasko ĝis Kalifornio kaj Meksiko.
+cv_epo_000198 common_voice_eo_22107872.mp3 Li estis juĝisto, poste notario.
+cv_epo_000199 common_voice_eo_22107873.mp3 Tie estis ŝatata disĉiplo de Hegelo.
+cv_epo_000200 common_voice_eo_22108073.mp3 Ermitejo kaj kvin kapeloj.
+cv_epo_000201 common_voice_eo_18626567.mp3 Estu ĉapo laŭ la kapo.
+cv_epo_000202 common_voice_eo_18626569.mp3 Al la papero ne mankas tolero.
+cv_epo_000203 common_voice_eo_18626571.mp3 Se vi volas nin akompani, nenio estas pli facila.
+cv_epo_000204 common_voice_eo_28520717.mp3 La nuna areo de Springfield estis iam apartenaĵo de indianoj.
+cv_epo_000205 common_voice_eo_28520721.mp3 Ne plu vin aŭdu!
+cv_epo_000206 common_voice_eo_28520829.mp3 Ĉe la fabriko estas lernejo, tie studas metion ĉiuj vilaĝanoj.
+cv_epo_000207 common_voice_eo_26288249.mp3 La remparoj havis kvar grandajn kaj tri pli malgrandajn turojn.
+cv_epo_000208 common_voice_eo_26288250.mp3 La botelo ne estas komforta.
+cv_epo_000209 common_voice_eo_26288262.mp3 La premiero estis granda sukceso.
+cv_epo_000210 common_voice_eo_20249273.mp3 Ĝi staris nefermita kaj mi eliris la ĝardenon.
+cv_epo_000211 common_voice_eo_20249275.mp3 Kaj la patro?
+cv_epo_000212 common_voice_eo_20249276.mp3 Li sidiĝis sur la pajlolito kaj demandis plue:
+cv_epo_000213 common_voice_eo_27627502.mp3 Dum lia regado Hungarujo atingis sian plej grandan amplekson.
+cv_epo_000214 common_voice_eo_27627504.mp3 Ĉu vi certas, ke ĉi tio estas manĝaĵo?
+cv_epo_000215 common_voice_eo_27627506.mp3 Ŝi laboras ekde tiam en Braŝovo.
+cv_epo_000216 common_voice_eo_18208429.mp3 Post konfeso venas forgeso.
+cv_epo_000217 common_voice_eo_18208430.mp3 Gravega kaj urĝa afero lin devigas nin lasi.
+cv_epo_000218 common_voice_eo_18208431.mp3 Komenco bona — laboro duona.
+cv_epo_000219 common_voice_eo_25265131.mp3 Ambaŭ kreskiĝas, ĝis ili kontaktiĝis.
+cv_epo_000220 common_voice_eo_25265145.mp3 Sed malfacilaĵoj estas supereblaj.
+cv_epo_000221 common_voice_eo_25265168.mp3 Tiu tielnomata "romia saluto" tamen ne estis kutimo en la Romia Imperio.
+cv_epo_000222 common_voice_eo_21364462.mp3 Laŭ la ĉiutaga lingvo ili komune nomiĝas muŝoj.
+cv_epo_000223 common_voice_eo_21364466.mp3 Poste li agadis en gvidantaj pozicioj de sindikatoj.
+cv_epo_000224 common_voice_eo_21364467.mp3 En traduko ĝi nome signifas "Ŝatata lando".
+cv_epo_000225 common_voice_eo_25264175.mp3 La junulinojn estis akompananta Urania.
+cv_epo_000226 common_voice_eo_25264188.mp3 Tiam diris Esperemo.
+cv_epo_000227 common_voice_eo_25264274.mp3 Kavaliro de Ora Merit-Kruco kaj de Partizana Kruco, honorigita per distingilo Merita Kultur-Aganto.
+cv_epo_000228 common_voice_eo_19805528.mp3 La rezultato de tiu penado estis sukcesa kaj rapida.
+cv_epo_000229 common_voice_eo_19805529.mp3 Marta ekrigardis al la tablo, ĉe kiu sidis la laborantoj.
+cv_epo_000230 common_voice_eo_19805531.mp3 "La ĵurintoj konsideru la verdikton," diris la Reĝo, jam la dudekan fojon!
+cv_epo_000231 common_voice_eo_25506856.mp3 Al la sanktulo estas atribuataj multnombraj mirakloj rilate al kiuj naskiĝis ĉiu lia ikonografio.
+cv_epo_000232 common_voice_eo_25506888.mp3 Li restos feliĉa kun la princino.
+cv_epo_000233 common_voice_eo_25506894.mp3 Justa komerca kakao estas aĉetita per justa prezo.
+cv_epo_000234 common_voice_eo_27399022.mp3 Ĝi estas vizitebla kaj muzeo estis instalita apud ĝi.
+cv_epo_000235 common_voice_eo_27399023.mp3 Ĝi estas formata de unu sola samnoma kvartalo.
+cv_epo_000236 common_voice_eo_27399024.mp3 Ĝi estas vidata kutime sola aŭ en paroj sed ariĝas en komunaj ripozejoj vespere.
+cv_epo_000237 common_voice_eo_28282798.mp3 Rozo estas floro, kaj kolombo estas birdo.
+cv_epo_000238 common_voice_eo_28282799.mp3 Post siaj studoj li sukcese koncertis, tamen dum la nazia erao li estis deportita.
+cv_epo_000239 common_voice_eo_28282800.mp3 Mi volas mortigi vian tutan familion
+cv_epo_000240 common_voice_eo_20839639.mp3 Kelkaj birdoj migras norden al Britio vintre, kaj profitas el pli varma oceana klimato.
+cv_epo_000241 common_voice_eo_20839644.mp3 Rapide li konfirmis la kapablecon kiun oni antaŭvidis ĉe li.
+cv_epo_000242 common_voice_eo_20839646.mp3 Ĝi ankaŭ estas la ĉefurbo de Kantono Marion.
+cv_epo_000243 common_voice_eo_25383107.mp3 Ĉion tion li klarigas per taŭgaj bildoj por ambaŭ tipoj.
+cv_epo_000244 common_voice_eo_25383108.mp3 Bonvenon al la nova Esperanto-Plaĝo en Hispanio!
+cv_epo_000245 common_voice_eo_25383123.mp3 Hm, maldekstraj?
+cv_epo_000246 common_voice_eo_25236725.mp3 En Barato, ĝi estas konata kiel la pasandu-arbo.
+cv_epo_000247 common_voice_eo_25236726.mp3 Ĉiuj el la tri plej grandaj reĝlandoj estis influitaj de Ĉinio.
+cv_epo_000248 common_voice_eo_25236727.mp3 Krome mi malkovris, ke kreskas ankaŭ arboforma specio de eriko.
+cv_epo_000249 common_voice_eo_27359439.mp3 La parolanto faris svingan mangeston, kvazaŭ li forŝovas pli materialajn konsiderojn el siaj pensoj.
+cv_epo_000250 common_voice_eo_27359441.mp3 Suĉu
+cv_epo_000251 common_voice_eo_27359445.mp3 Nu, fakte ne, mi jam konektas ĝin
+cv_epo_000252 common_voice_eo_32078731.mp3 Jen kuketoj, biskvitoj!
+cv_epo_000253 common_voice_eo_32078790.mp3 Mi ne volas krokodili, sed mi ne scias kiel diri tion en Esperanto.
+cv_epo_000254 common_voice_eo_32078794.mp3 Granda amaso da publiko plenigis baldaŭ la budon.
+cv_epo_000255 common_voice_eo_20484858.mp3 Ŝi eliras.
+cv_epo_000256 common_voice_eo_20484868.mp3 Mi povas imagi tion.
+cv_epo_000257 common_voice_eo_20484870.mp3 Honora vorto de honesta homo.
+cv_epo_000258 common_voice_eo_20484872.mp3 Ne estu tro aroganta, sinjoro!
+cv_epo_000259 common_voice_eo_20480004.mp3 Ĉu vi do estas tre malfeliĉa?
+cv_epo_000260 common_voice_eo_20480006.mp3 Mi tuj diros al vi.
+cv_epo_000261 common_voice_eo_20480008.mp3 Ŝi do iros.
+cv_epo_000262 common_voice_eo_20480009.mp3 Vi do jam ne studadas?
+cv_epo_000263 common_voice_eo_24299048.mp3 Li daŭris la instruadon en universitato de Sidnejo.
+cv_epo_000264 common_voice_eo_24299050.mp3 Li priskribis kelkajn novajn speciojn de reptilioj.
+cv_epo_000265 common_voice_eo_24299051.mp3 La loknomo signifas: malgranda-blanka-lago.
+cv_epo_000266 common_voice_eo_24299052.mp3 Fine neniu el tiuj verkoj aperas en la listoj de la kanonaj.
+cv_epo_000267 common_voice_eo_25238736.mp3 Tiutempe ekkonis Biblion, kaj la okcidentan filozofion lernis en altlernejo gvidata de misiistoj.
+cv_epo_000268 common_voice_eo_25238737.mp3 La plej grava partnero en Eŭropo estas Francio.
+cv_epo_000269 common_voice_eo_25238738.mp3 La monumento estas el sabloŝtono.
+cv_epo_000270 common_voice_eo_25238739.mp3 Li ankaŭ estis distrikta kontrolisto por la germanlingvaj lernejoj en Itallingva Tirolo.
+cv_epo_000271 common_voice_eo_25218695.mp3 Inter la hindeŭropaj lingvoj estas unu el la plej antikvaj lingvoj.
+cv_epo_000272 common_voice_eo_25218696.mp3 Ĝenerale, ĝi estas juĝo bazita sur aparta sistemo de valoroj.
+cv_epo_000273 common_voice_eo_25218697.mp3 Virginia situas sur altebenaĵo en la meza parto de la lando.
+cv_epo_000274 common_voice_eo_25218698.mp3 Ŝi interesiĝis pri Esperanto tra sia patro, kiu mem estis aktiva esperantisto.
+cv_epo_000275 common_voice_eo_23744216.mp3 La preĝejo situas sola havanta turon super la enirejo.
+cv_epo_000276 common_voice_eo_23744217.mp3 Antaŭ dominado de britoj indianoj havis tie urbeton.
+cv_epo_000277 common_voice_eo_23744219.mp3 Li estis amikema, sprita kaj grandanima.
+cv_epo_000278 common_voice_eo_23744220.mp3 Ĝi troviĝas nur kiel endemio en Filipinoj.
+cv_epo_000279 common_voice_eo_26626599.mp3 Ni povus fari aferojn apud la renkontiĝejo.
+cv_epo_000280 common_voice_eo_26626600.mp3 Al tiuj apartenis memkompreneble ankaŭ la komputila centrejo kun la efektive tute nova komputilego.
+cv_epo_000281 common_voice_eo_26626601.mp3 Li komponis ofte filmajn muzikojn, kelkfoje teatrajn muzikojn.
+cv_epo_000282 common_voice_eo_26626602.mp3 Post la falo de komunismo ŝi elmigris en Usonon.
+cv_epo_000283 common_voice_eo_18533254.mp3 Bedaŭrinde.
+cv_epo_000284 common_voice_eo_18533256.mp3 Li amas Reĝinon, kaj li min forlasas.
+cv_epo_000285 common_voice_eo_18533257.mp3 Donaco nesincera estas donaco infera.
+cv_epo_000286 common_voice_eo_18533259.mp3 Tiu demando ŝajnis al ŝi vere ne utila.
+cv_epo_000287 common_voice_eo_20175820.mp3 Haltu!
+cv_epo_000288 common_voice_eo_20175839.mp3 Bone, virineto.
+cv_epo_000289 common_voice_eo_20175854.mp3 Sed ĉu via patro neniam parolis pri tio?
+cv_epo_000290 common_voice_eo_20175858.mp3 Sed mi tion ŝuldas al vi.
+cv_epo_000291 common_voice_eo_21928483.mp3 Li mortis tri tagojn antaŭ la provoj de la nova maŝino.
+cv_epo_000292 common_voice_eo_21928484.mp3 Ŝi aperis en aĝo de kvin jaroj unuafoje en filmo.
+cv_epo_000293 common_voice_eo_21928485.mp3 La historion de Finnlando grave influis ĝiaj grandaj najbaroj Svedio kaj Rusio.
+cv_epo_000294 common_voice_eo_21928486.mp3 Tiu specio restas listita kiel Malplej Zorgiga ĉe Birdlife International.
+cv_epo_000295 common_voice_eo_27573020.mp3 La maŝino ekruliĝis: flughavenisto ĵetis subraden siajn ŝuojn kaj tiel haltigis la aviadilon.
+cv_epo_000296 common_voice_eo_27573022.mp3 Bat-Ŝeba fariĝis la dua edzino de la reĝo David.
+cv_epo_000297 common_voice_eo_27573023.mp3 Li instruis en Oradea kaj li partoprenis en pluraj ekspozicioj ĉefe en Transilvanio.
+cv_epo_000298 common_voice_eo_27573024.mp3 La koncepto estis enkondukita de la megaherbvorul-teorio.
+cv_epo_000299 common_voice_eo_28300216.mp3 Tiu permesis al la plantoj kaj bestoj migri de unu regiono al la najbara.
+cv_epo_000300 common_voice_eo_28300217.mp3 Ĝi estas deviga parazito.
+cv_epo_000301 common_voice_eo_28300219.mp3 Estas sur ĝi surskribo: ""Al mortintoj por memoro, al vivantoj por averto.
+cv_epo_000302 common_voice_eo_28300220.mp3 En la loĝloko estas fervoja kaj busa stacioj.
+cv_epo_000303 common_voice_eo_19270703.mp3 Beatrico komencis malkvietiĝi.
+cv_epo_000304 common_voice_eo_19270704.mp3 Petro ridetis.
+cv_epo_000305 common_voice_eo_19270706.mp3 Kio min ne tuŝas, kuŝu kiel kuŝas.
+cv_epo_000306 common_voice_eo_19270707.mp3 Nenio certe.
+cv_epo_000307 common_voice_eo_19284145.mp3 Tre bone, li diris; mi iros ŝin retrovi.
+cv_epo_000308 common_voice_eo_19284146.mp3 Vi tre vidas, ke ĝi ne povas stari.
+cv_epo_000309 common_voice_eo_19284147.mp3 Maldolĉa por la lango, sed saniga por la sango.
+cv_epo_000310 common_voice_eo_19284149.mp3 Malsaĝulo ne griziĝas nek senhariĝas.
+cv_epo_000311 common_voice_eo_24953561.mp3 Sekve, la morala malbono estas ankaŭ propreco de la statoj de la aĵoj.
+cv_epo_000312 common_voice_eo_24953562.mp3 Green kontrolis la ritmon en la postaj bandoj kun ne plu fidindaj muzikistoj.
+cv_epo_000313 common_voice_eo_24953563.mp3 Sed lia alteco efektive havas siajn pozitivajn flankojn.
+cv_epo_000314 common_voice_eo_24953564.mp3 Li tiam verkis ankaŭ historiajn dramojn kaj iĝis pioniro pri socia teatro en Hispanio.
+cv_epo_000315 common_voice_eo_20780191.mp3 En la sekva jaro li plulernis en Moskvo.
+cv_epo_000316 common_voice_eo_20780192.mp3 Post lia morto "Kultura" ne estis eldonata plu.
+cv_epo_000317 common_voice_eo_20780194.mp3 Ili kaptas sammaniere kiel ili moviĝas.
+cv_epo_000318 common_voice_eo_20780195.mp3 Dum la kontraŭturkaj bataloj la vilaĝo suferis multe.
+cv_epo_000319 common_voice_eo_25524662.mp3 Li vojaĝis en ĉiuj eŭropaj landoj, al malproksima oriento kaj al Suda Ameriko.
+cv_epo_000320 common_voice_eo_25524663.mp3 Ĝi estas videbla ankaŭ ĉe la marbordoj de Koreio, Japanio kaj la Filipinoj.
+cv_epo_000321 common_voice_eo_25524664.mp3 La ĉefurbo de la komunumo same nomiĝas "San Miguel el Grande".
+cv_epo_000322 common_voice_eo_25524665.mp3 La ĉefurbo estis Florenco.
+cv_epo_000323 common_voice_eo_26676038.mp3 Oni trovas grandan kolekton da lokomotivoj, aŭtoj, ŝipoj kaj aviadiloj.
+cv_epo_000324 common_voice_eo_26676039.mp3 Ankaŭ kiel produktoro li jam agadis.
+cv_epo_000325 common_voice_eo_26676041.mp3 Ĝi estis ankaŭ ĉirkaŭigita per remparoj.
+cv_epo_000326 common_voice_eo_26676042.mp3 sekve
+cv_epo_000327 common_voice_eo_26591151.mp3 Kentukio iam estis parto de Virginio.
+cv_epo_000328 common_voice_eo_26591152.mp3 Li frekventis belartan liceon en sia naskiĝurbo, poste diplomiĝis en Arta Altlernejo Ion Andreescu.
+cv_epo_000329 common_voice_eo_26591154.mp3 La delfeno serĉas la meduzon, kaj ne trovas rin.
+cv_epo_000330 common_voice_eo_26591155.mp3 Liaj verkoj ofte aperis en la revuo „Verda Standardo”.
+cv_epo_000331 common_voice_eo_26203860.mp3 Oriente de tiu sovaĝa parto staras natura fermo, kie estas restoracioj kaj havenoj.
+cv_epo_000332 common_voice_eo_26203876.mp3 Ekscitiĝo ankoraŭ pli altigus ŝian febron.
+cv_epo_000333 common_voice_eo_26203940.mp3 Ĉiuj eblaj ideoj estis klasifikitaj sub dek ĉefaj kategorioj, markataj per unu vokalo.
+cv_epo_000334 common_voice_eo_26204002.mp3 La masklaj floroj ĉirkaŭas la inan floron.
+cv_epo_000335 common_voice_eo_24478019.mp3 Krom la poemoj ŝi verkadis ankaŭ poemojn por infanoj.
+cv_epo_000336 common_voice_eo_24478027.mp3 La malgranda vilaĝo havas romkatolikan kaj luteranan preĝejojn.
+cv_epo_000337 common_voice_eo_24478028.mp3 Tiel la ekstermejo estis sendependa de eksteraj faktoroj.
+cv_epo_000338 common_voice_eo_24478033.mp3 Ne temas pri ĉio- aŭ nenio-efekto.
+cv_epo_000339 common_voice_eo_17902930.mp3 Tion mi ĵuras sur la kapo de mia filo.
+cv_epo_000340 common_voice_eo_17902932.mp3 Mi havas neniun malamikon.
+cv_epo_000341 common_voice_eo_17902933.mp3 Nun ĝi tute pasis.
+cv_epo_000342 common_voice_eo_17902934.mp3 Li havas cerbon ne tro potencan.
+cv_epo_000343 common_voice_eo_20690916.mp3 Li estas unu el la plej gravaj verkistoj de Latvio.
+cv_epo_000344 common_voice_eo_20690917.mp3 Tiutempe li vizitis multajn urbojn en Norda Italujo, ĉefe pro sciencaj kialoj.
+cv_epo_000345 common_voice_eo_20690918.mp3 Lia reĝlando etendiĝis de Galegio ĝis Mediteraneo.
+cv_epo_000346 common_voice_eo_20690919.mp3 Ĉar ĝi proksimiĝas al la orbito de Marso, ĝi estas rigardita kiel marsrenkonta asteroido.
+cv_epo_000347 common_voice_eo_19504778.mp3 Estas li!
+cv_epo_000348 common_voice_eo_19504779.mp3 Ne taŭgas la vero por komerca afero.
+cv_epo_000349 common_voice_eo_19504786.mp3 Malbona virino diablon superas.
+cv_epo_000350 common_voice_eo_19504812.mp3 Venis fino al mia latino.
+cv_epo_000351 common_voice_eo_26954582.mp3 Tiel per nova Esperanto-kurso ĉiujare, ni iom post iom kreskas.
+cv_epo_000352 common_voice_eo_26954586.mp3 Ĝi troviĝas en la distrikto Bitterfeld de la federacia lando Saksio-Anhalto.
+cv_epo_000353 common_voice_eo_26954588.mp3 La vilaĝo ricevis la loknomon de patrono de la preĝejo.
+cv_epo_000354 common_voice_eo_26954589.mp3 Ĉi nomo estis akceptita por la poŝtoficejo kaj “Plano” naskiĝis.
+cv_epo_000355 common_voice_eo_28831602.mp3 En Majenco li malsaniĝis kaj mortis la sekvan jaron.
+cv_epo_000356 common_voice_eo_28831603.mp3 La video kondukis al la "koloro havas neniun ĝenro" movadon.
+cv_epo_000357 common_voice_eo_28831605.mp3 Nova reĝo iĝis lia pli juna filo Aleksandro.
+cv_epo_000358 common_voice_eo_28831606.mp3 Samtempe la princo sin levis en piedingoj kaj ekkaptis la trabojn de l' palisaro.
+cv_epo_000359 common_voice_eo_20463056.mp3 Mi ĵus aldonis vian nomon al la listo de junaj aktivuloj de la lando.
+cv_epo_000360 common_voice_eo_20463057.mp3 Lazaroni havis bonan patron, mi diris.
+cv_epo_000361 common_voice_eo_20463058.mp3 Li iras al la pordo, frapas kaj atendas.
+cv_epo_000362 common_voice_eo_20463059.mp3 Jes, li havis, diris la maristo; kaj mi demandis:
+cv_epo_000363 common_voice_eo_26677019.mp3 Danjelo iomete ŝanĝis sian sidpozicion sur la fenestrotabulo por pli bone studi lin.
+cv_epo_000364 common_voice_eo_26677020.mp3 Dum la lasta glaciepoko, je malpli alta marnivelo, estis nur unu insulo.
+cv_epo_000365 common_voice_eo_26677022.mp3 En la sekva jaro la konstruaĵo estis renovigita.
+cv_epo_000366 common_voice_eo_26677023.mp3 La eŭropaj bienuloj ne nur kultivis tabakon, ili ankaŭ grave kontribuis al nutraĵproduktado.
+cv_epo_000367 common_voice_eo_19758990.mp3 Jes, sinjorino, respondis la administranto per tono jesanta kaj samtempe demanda.
+cv_epo_000368 common_voice_eo_19758991.mp3 Jes, veni tie-ĉi.
+cv_epo_000369 common_voice_eo_19758992.mp3 Mi diris al li, kie mi naskiĝis, kaj kie mi pasigis mian infanecon.
+cv_epo_000370 common_voice_eo_19758993.mp3 Karolino per larĝe malfermitaj, atentaj, penetremaj okuloj rigardis sian kamaradinon.
+cv_epo_000371 common_voice_eo_27365501.mp3 Bedaŭrinda afero!
+cv_epo_000372 common_voice_eo_27365503.mp3 Kaj tiel plu.
+cv_epo_000373 common_voice_eo_27365504.mp3 Kutime, ne.
+cv_epo_000374 common_voice_eo_27365505.mp3 Al la proksima Dakaro estas aŭtovojo.
+cv_epo_000375 common_voice_eo_27499624.mp3 Li estas la gvidanto de la Federacia Departemento por Medio, Trafiko, Energio kaj Komunikado.
+cv_epo_000376 common_voice_eo_27499625.mp3 Precipe nobeloj loĝis en la vilaĝo.
+cv_epo_000377 common_voice_eo_27499626.mp3 La tiutempa kremo de la vilaĝo havis apartajn sidlokojn en la preĝejo.
+cv_epo_000378 common_voice_eo_27499627.mp3 Tio surprizis min.
+cv_epo_000379 common_voice_eo_17898967.mp3 Oni sentis en aero fulmotondron: tio estis certa.
+cv_epo_000380 common_voice_eo_17898968.mp3 Ĉu vi scias, ke vi fariĝis treege bela?
+cv_epo_000381 common_voice_eo_17898969.mp3 Sed li lasis sin kondamni, ne ŝin perfidante.
+cv_epo_000382 common_voice_eo_17899015.mp3 Reĝino Kolardo, ŝi respondis, mordante siajn lipojn por ne ridi.
+cv_epo_000383 common_voice_eo_21059054.mp3 La parko estis origine mirinda, kiel la kastelo mem.
+cv_epo_000384 common_voice_eo_21059055.mp3 Zsuzsa Katona naskiĝis la en Budapeŝto.
+cv_epo_000385 common_voice_eo_21059056.mp3 Krom tio enestas ankaŭ trinkejo.
+cv_epo_000386 common_voice_eo_21059057.mp3 Ekde junaĝo, lin allogis la scienca metodo, kiu kontraŭstaris lian religi-bazan edukadon.
+cv_epo_000387 common_voice_eo_24900486.mp3 La maljunuloj ankaŭ parolas la japanan.
+cv_epo_000388 common_voice_eo_24900487.mp3 Ĝi estas bazita en angla lingvo.
+cv_epo_000389 common_voice_eo_24900488.mp3 La kampoj apartenis plej ofte al fortikaĵoj.
+cv_epo_000390 common_voice_eo_24900489.mp3 Ĝi hejmiĝas vaste en Eŭrazio.
+cv_epo_000391 common_voice_eo_25045390.mp3 La aliancanoj atakis en tri diversaj punktoj.
+cv_epo_000392 common_voice_eo_25045391.mp3 Li iĝis helpa zorganto de la naturhistoria departamento kaj fakulo pri krustuloj kaj moluskoj.
+cv_epo_000393 common_voice_eo_25045392.mp3 Tiu loko estis la plej orienta fervoja relo de Hungara reĝlando.
+cv_epo_000394 common_voice_eo_25045394.mp3 Ankaŭ la Giganta ibiso estas foje lokata en tiun genron.
+cv_epo_000395 common_voice_eo_27453878.mp3 Mi jam kutimadis al tio kaj kredis, ke ĉiu patro estas kiel la mia.
+cv_epo_000396 common_voice_eo_27453879.mp3 Ĝi aspektas kiel kato kaj ŝajnas dika pro sia densa hararo.
+cv_epo_000397 common_voice_eo_27453881.mp3 La Purva-oj aŭ la antikvaj tekstoj estis jam forgesitaj kaj perditaj post la malsatego.
+cv_epo_000398 common_voice_eo_27453882.mp3 Post malvenko de Hitler, li denove aliĝis al la aliancanoj.
+cv_epo_000399 common_voice_eo_27189878.mp3 Ĉu nur lingvaj ecoj, aŭ ankaŭ ecoj de la lingva komunumo?
+cv_epo_000400 common_voice_eo_27189879.mp3 Ili manĝas ankaŭ lacertojn kaj foje malgrandajn birdojn, mamulojn kaj serpentojn.
+cv_epo_000401 common_voice_eo_27189880.mp3 Estas centoj da varioj en multaj landoj ĉirkaŭ la mondo.
+cv_epo_000402 common_voice_eo_27189881.mp3 Post komenco de lernado en Ukraina Akademia Gimnazio en Lvovo ekloĝis ĉe sia avino.
+cv_epo_000403 common_voice_eo_20555291.mp3 Ŝi ofte partoprenas en Esperanto-aranĝoj.
+cv_epo_000404 common_voice_eo_20555292.mp3 Estis konvinkita pri ebla sintezo de okcidenta komunismo kun la rusa imperia ideo.
+cv_epo_000405 common_voice_eo_20555293.mp3 La tempo varias de minutoj al jaroj, depende de la malsano.
+cv_epo_000406 common_voice_eo_20555295.mp3 La tri leĝoj sekve ŝanĝiĝas.
+cv_epo_000407 common_voice_eo_28877035.mp3 Kia mondo vere estas
+cv_epo_000408 common_voice_eo_28877036.mp3 Kio estas farebla?
+cv_epo_000409 common_voice_eo_28877037.mp3 Vi kredis, ke mi vere ploris?
+cv_epo_000410 common_voice_eo_28877038.mp3 Kien ni alvenis?
+cv_epo_000411 common_voice_eo_27374684.mp3 Verkis romanojn, rakontojn kaj fabelojn.
+cv_epo_000412 common_voice_eo_27374688.mp3 La absido estas kvarangula kaj sakristio aliĝas al la absido.
+cv_epo_000413 common_voice_eo_27374689.mp3 La latina scienca nomo rememoras la gravecon de John Gould, angla ornitologo.
+cv_epo_000414 common_voice_eo_27374690.mp3 Granda parto konsistas el praarbaroj konservataj.
+cv_epo_000415 common_voice_eo_23853641.mp3 La malsupra surfaco estas pli hela ol la supra surfaco.
+cv_epo_000416 common_voice_eo_23853647.mp3 Kunlaboranto de "Enciklopedio de Esperanto".
+cv_epo_000417 common_voice_eo_23853648.mp3 En la rivera delto ekestis la plej grava kaj plej granda haveno de Kameruno.
+cv_epo_000418 common_voice_eo_23853649.mp3 Tio estas hontinda!
+cv_epo_000419 common_voice_eo_27810721.mp3 Post tio li instruis unu jaron ĉe gimnazio.
+cv_epo_000420 common_voice_eo_27810722.mp3 La konflikto estas solvita dum la teatraĵo.
+cv_epo_000421 common_voice_eo_27810723.mp3 La albumo konsistas de himnoj, kaj popularaj kristnaskaj kantoj.
+cv_epo_000422 common_voice_eo_27810724.mp3 Ne, tuŝu!
+cv_epo_000423 common_voice_eo_26624978.mp3 Ekzemple: ĉeloj, kiuj perceptas la flavajn frekvencojn, ne ekzistas.
+cv_epo_000424 common_voice_eo_26624983.mp3 Li kontribuis al la establo de Fondumo Zamenhof kaj estis ĝia unua prezidanto.
+cv_epo_000425 common_voice_eo_26624985.mp3 Alie inter la flankoj ne estis gravaj diferencoj.
+cv_epo_000426 common_voice_eo_26624986.mp3 Ĝi havas longan nigran kreston kun blanka pinto.
+cv_epo_000427 common_voice_eo_26626594.mp3 La restaĵoj de la okuloj estas kovritaj de eta tavolo de haŭto.
+cv_epo_000428 common_voice_eo_26626596.mp3 Tio povus grave malaltigi la temperaturon.
+cv_epo_000429 common_voice_eo_26626597.mp3 Dum la aresto li eklernis Esperanton.
+cv_epo_000430 common_voice_eo_26626598.mp3 En la sekva jaro li doktoriĝis.
+cv_epo_000431 common_voice_eo_23069883.mp3 La tago estis bonega.
+cv_epo_000432 common_voice_eo_23069884.mp3 La nomo, "Hispania", estis uzita ankaŭ en la periodo de visigota regado.
+cv_epo_000433 common_voice_eo_23069886.mp3 Koperniko neniam geedziĝis aŭ havis filojn.
+cv_epo_000434 common_voice_eo_23069887.mp3 Ĝiaj restoj estis trovitaj en kuŝejoj de Mioceno.
+cv_epo_000435 common_voice_eo_23565582.mp3 Konvenas en trapaso al paco, transformi la konflikton kaj ne forigi ĝin.
+cv_epo_000436 common_voice_eo_23565586.mp3 Ĝi dependas el la Ministerio de Kulturo kaj estas vizitebla senpage.
+cv_epo_000437 common_voice_eo_23565587.mp3 La totala buĝeto por la du partoj de la linio estis milionoj da eŭroj.
+cv_epo_000438 common_voice_eo_23565589.mp3 Tiuj birdoj estas konstantaj loĝantaj birdoj kaj ofte aliĝas al etaj miksitaj aroj vintre.
+cv_epo_000439 common_voice_eo_27295929.mp3 En Usono ĉi tiu dimensio de papero kutime estas uzata por ĝeneralaj celoj.
+cv_epo_000440 common_voice_eo_27295930.mp3 Feliĉe nun ofte sufiĉas instrui per bildoprezento anstataŭ kunporti verajn objektojn.
+cv_epo_000441 common_voice_eo_27295933.mp3 Danio devis cedi siajn teritoriajn posedaĵojn en la hodiaŭa suda Svedio.
+cv_epo_000442 common_voice_eo_27295934.mp3 Ties natura habitato estas subtropikaj aŭ tropikaj humidaj arbaroj de malaltaj teroj kaj montarbaroj.
+cv_epo_000443 common_voice_eo_27189767.mp3 Por logi novajn necesus tamen proponi ion plian, indikas reta enketo.
+cv_epo_000444 common_voice_eo_27189770.mp3 Hejmenveninta li laboris en la familia bieno.
+cv_epo_000445 common_voice_eo_27189771.mp3 Aperas ankaŭ la angla vorto.
+cv_epo_000446 common_voice_eo_27189773.mp3 Tio determinis la tutan historion de la komunumo.
+cv_epo_000447 common_voice_eo_25082891.mp3 Tiu sistemo estas malofta en la lando.
+cv_epo_000448 common_voice_eo_25082892.mp3 La termino piedpilko estas ankaŭ ofte uzata kun la pli malvasta signifo de "futbalo".
+cv_epo_000449 common_voice_eo_25082893.mp3 Ĝi longtempe furoris en Moskvo kaj en la tuta Rusio.
+cv_epo_000450 common_voice_eo_25082895.mp3 Ili alterne regis la Templon en Jerusalemo.
+cv_epo_000451 common_voice_eo_22982645.mp3 La alveno estos kiel kutime en Parizo.
+cv_epo_000452 common_voice_eo_22982647.mp3 Ĝi faras produktojn el ledo.
+cv_epo_000453 common_voice_eo_22982648.mp3 Li tiam estis dujara.
+cv_epo_000454 common_voice_eo_22982649.mp3 Tio estis vere unu el la plej malproksimaj anguloj en Ĉeĥoslovakio, respektive en Ĉeĥio.
+cv_epo_000455 common_voice_eo_17906546.mp3 Estas ŝi la amantino, kiu skribis tiun leteron per ĵurnalaj literoj.
+cv_epo_000456 common_voice_eo_17906547.mp3 Tro da metioj — profitoj neniaj.
+cv_epo_000457 common_voice_eo_17906548.mp3 Naivuloj jam ne ekzistas.
+cv_epo_000458 common_voice_eo_17906550.mp3 Kiam komencis la resaniĝo, la amnezio unue estis tuta.
+cv_epo_000459 common_voice_eo_27449891.mp3 La plej ofte pluvas inter marto-junio.
+cv_epo_000460 common_voice_eo_27449893.mp3 Frederiko kondukis sian gaston en la ĉambron.
+cv_epo_000461 common_voice_eo_27449894.mp3 Li mortis la en Kanado en Regina.
+cv_epo_000462 common_voice_eo_27449895.mp3 Ŝi tre ŝatis la bestojn.
+cv_epo_000463 common_voice_eo_17902646.mp3 Virino bonorda estas muta kaj surda.
+cv_epo_000464 common_voice_eo_17902647.mp3 Atesto de matureco.
+cv_epo_000465 common_voice_eo_17902648.mp3 Por ĉiu ago venos tempo de pago.
+cv_epo_000466 common_voice_eo_17902650.mp3 Vi eraras, Juliino, respondis Herbeno per malpacienca tono.
+cv_epo_000467 common_voice_eo_20661058.mp3 Li lernis en Universitato de Budapeŝto, sed ankaŭ en Germanio.
+cv_epo_000468 common_voice_eo_20661059.mp3 Li ludis kiel mezkampulo.
+cv_epo_000469 common_voice_eo_20661060.mp3 Ŝi luktis pri homaj rajtoj en Sudafriko, pri virinaj rajtoj aparte.
+cv_epo_000470 common_voice_eo_20661061.mp3 Rapide la gepatroj siavice ekposedis la spacon kaj komencis kultivi plantojn.
+cv_epo_000471 common_voice_eo_20560568.mp3 Li vivis en hotelo kaj vigle korespondis kun siaj disĉiploj.
+cv_epo_000472 common_voice_eo_20560570.mp3 Agresema Germana naciismo estas vidita kiel ŝlosila faktoro en la okazigo de ambaŭ mondmilitoj.
+cv_epo_000473 common_voice_eo_20560571.mp3 Ŝi estis fama kaj potenca sorĉistino.
+cv_epo_000474 common_voice_eo_20560572.mp3 Iu specio en akvejoj ĉasas helikojn de nesala akvo.
+cv_epo_000475 common_voice_eo_28527237.mp3 La striko estas maniero por la laboristoj montri sian malkontenton.
+cv_epo_000476 common_voice_eo_28527241.mp3 Estas loĝanta specio, kiu reproduktiĝas prefere en insuletoj aŭ ŝtonaj klifoj.
+cv_epo_000477 common_voice_eo_28527243.mp3 La resto de la teritorio estas precipe agrikultura tereno.
+cv_epo_000478 common_voice_eo_28527244.mp3 Ni publikigas niajn dogmojn por ke ili povu servi al ni kiel malkaŝa standardo.
+cv_epo_000479 common_voice_eo_20474154.mp3 Ĉu iu povas rigardi tian vidaĵon, ne sentante sanktajn emociojn kaj inklinon adori?
+cv_epo_000480 common_voice_eo_20474160.mp3 La lipoj de la junulo ektremetadis, kaj larmoj transkuris liajn vangojn.
+cv_epo_000481 common_voice_eo_20474171.mp3 Ĉu la kurso ankoraŭ estas okazanta?
+cv_epo_000482 common_voice_eo_20474172.mp3 Tio ne estas konvena, kvankam aliflanke.
+cv_epo_000483 common_voice_eo_21935836.mp3 Ĝi limas norde kun Ekstremaduro.
+cv_epo_000484 common_voice_eo_21935837.mp3 Sed tio ne estis tiel ĉiam.
+cv_epo_000485 common_voice_eo_21935838.mp3 Tamen Peloponezo ne estas insulo, ĉar la kanalo estas artefarita konstruaĵo.
+cv_epo_000486 common_voice_eo_21935839.mp3 La kruroj estas rozkoloraj kaj la okuloj flavaj.
+cv_epo_000487 common_voice_eo_26294499.mp3 Ili estis tiel protektitaj kiel homaj estaĵoj.
+cv_epo_000488 common_voice_eo_26294500.mp3 Dum la Dua Mondmilito, la gazeto ne ĉesis aperi dum la germana okupacio.
+cv_epo_000489 common_voice_eo_26294516.mp3 La komencaj jaroj ne estis sukcesaj.
+cv_epo_000490 common_voice_eo_26294538.mp3 Ĝis nun ne estis liverita pruvo por ekstertera inteligento.
+cv_epo_000491 common_voice_eo_24831704.mp3 Ofte oni venas unue kun kritikoj kaj ne kun laŭdoj.
+cv_epo_000492 common_voice_eo_24831705.mp3 Esperanto estas kutime skribata per Esperanta alfabeto.
+cv_epo_000493 common_voice_eo_24831706.mp3 Li strebis multe pri la edukado.
+cv_epo_000494 common_voice_eo_24831708.mp3 En Gladbeck ekzistas interalie urba muziklernejo kaj popola altlernejo.
+cv_epo_000495 common_voice_eo_28860927.mp3 Sed nun la kompatinda besteto laboreme rekomencis la fingroskribon.
+cv_epo_000496 common_voice_eo_28860928.mp3 Krom la katolikaj kirkoj ekzistas ekzemple baptista preĝejo.
+cv_epo_000497 common_voice_eo_28860929.mp3 La listo estas kompilado el Vikipedio.
+cv_epo_000498 common_voice_eo_28860950.mp3 La supreniro estis neebla sen ŝtupetaroj.
+cv_epo_000499 common_voice_eo_20473271.mp3 Li estis tre inteligenta oficiro.
+cv_epo_000500 common_voice_eo_20473273.mp3 Lia vireca vizaĝo montris emocion kaj malserenecon.
+cv_epo_000501 common_voice_eo_20473277.mp3 Ivan aspektis subite tre gravmiena kaj diris:
+cv_epo_000502 common_voice_eo_20473278.mp3 Jes, mi fariĝis redaktoro-eldonanto-presanto-administranto de "Lingvo Internacia".
+cv_epo_000503 common_voice_eo_17899553.mp3 Ĉe vulpoj ĉiam naskiĝas nur vulpoj.
+cv_epo_000504 common_voice_eo_17899555.mp3 Jen estas, laŭ mia opinio, tio, kio kredeble okazis.
+cv_epo_000505 common_voice_eo_17899556.mp3 Pri laboroj maldiligenta, pri festoj plej kompetenta.
+cv_epo_000506 common_voice_eo_17899557.mp3 Kaprica fianĉino restos eterne fraŭlino.
+cv_epo_000507 common_voice_eo_27939206.mp3 Iom da tempo ili vivis en Sofio.
+cv_epo_000508 common_voice_eo_27939323.mp3 Ni eĉ kunverkis artikolon lastatempe
+cv_epo_000509 common_voice_eo_27939324.mp3 Kion alian mi povas postuli de virino?
+cv_epo_000510 common_voice_eo_28746569.mp3 Mi devis nur kelkfoje aktualigi la sistemon.
+cv_epo_000511 common_voice_eo_17899104.mp3 Via vizaĝo ne ŝanĝiĝis.
+cv_epo_000512 common_voice_eo_17899105.mp3 Tiun promeson elparolis ne nur la buŝo, sed ankaŭ la koro.
+cv_epo_000513 common_voice_eo_17899107.mp3 Tio ŝajnas al mi terure malsimpla, diris fraŭlino Rozino.
+cv_epo_000514 common_voice_eo_17899108.mp3 Grandaj malbonoj — grandaj rimedoj.
+cv_epo_000515 common_voice_eo_22716053.mp3 Ĝi estas rekonstruata sed ne en la sama loko.
+cv_epo_000516 common_voice_eo_22716054.mp3 La artikolo estas kreita surbaze de la angla Vikipedio.
+cv_epo_000517 common_voice_eo_22716056.mp3 Ĝi anstataŭigis alian ponton multe pli antikva, el islama origino.
+cv_epo_000518 common_voice_eo_22716057.mp3 Ĉu la supozo estas malprava, ke la informoj pri la proceso instigis ilin krimi?
+cv_epo_000519 common_voice_eo_23943429.mp3 Sed tio ne sufiĉis por li.
+cv_epo_000520 common_voice_eo_23943430.mp3 Tio estas la plej malnova fosilio sendube ligita al la biologia moderna homo.
+cv_epo_000521 common_voice_eo_23943433.mp3 La nomo de la loĝloko venas el la greka lingvo kaj signifas „blanka“.
+cv_epo_000522 common_voice_eo_23943436.mp3 Samtempe ĝi estas ankaŭ laŭ kontinueco la plej antikva ĵazfestivalo tutmonde.
+cv_epo_000523 common_voice_eo_21341247.mp3 Hejmenveninta li instruis en kolegio de Debrecen.
+cv_epo_000524 common_voice_eo_21341249.mp3 Por la grupo de Ferdinand ĉi tie estis preparitaj entute ses aŭtomobiloj.
+cv_epo_000525 common_voice_eo_21341250.mp3 Li estas sperta observanto de kaj eksteraj satelitoj de la gigantaj planedoj.
+cv_epo_000526 common_voice_eo_21341251.mp3 Ĉu vi povus diri al mi, ĉu estas eraroj en tiu dosiero?
+cv_epo_000527 common_voice_eo_25433392.mp3 Post la doktoriĝo li restis en Germanio kiel ĵurnalisto, poste redaktoro.
+cv_epo_000528 common_voice_eo_25433393.mp3 En artistaj rondoj li estas ege ŝatata.
+cv_epo_000529 common_voice_eo_25433394.mp3 La katastro iĝis plej efika kaj justa kongrue al la imposta sistemo.
+cv_epo_000530 common_voice_eo_25433396.mp3 Nuntempe li estas konata de sia misia kaj eduka laboro.
+cv_epo_000531 common_voice_eo_18801842.mp3 Helpu lin.
+cv_epo_000532 common_voice_eo_18801843.mp3 Ŝi estas sufiĉe bela por inspiri pasion.
+cv_epo_000533 common_voice_eo_18801844.mp3 Kien ajn mi pafas, ĉio maltrafas.
+cv_epo_000534 common_voice_eo_18801846.mp3 Pri nenio oni povas ĵuri.
+cv_epo_000535 common_voice_eo_20246628.mp3 Kion ŝi dirus?
+cv_epo_000536 common_voice_eo_20246630.mp3 Aktoro!? Ĉu teatra aktoro?
+cv_epo_000537 common_voice_eo_20246631.mp3 Ĉu vi antaŭsentas tion?
+cv_epo_000538 common_voice_eo_20246632.mp3 La mondo ja tute ne komprenas nin.
+cv_epo_000539 common_voice_eo_19840326.mp3 Nu, ekrigardu min!
+cv_epo_000540 common_voice_eo_19840327.mp3 "Kion vi scias pri ĉi tiu afero?" la Reĝo demandis al Alicio.
+cv_epo_000541 common_voice_eo_19840328.mp3 Kiam la eminentuloj alvenis apud Alicion, ĉiuj haltis kaj rigardis ŝin.
+cv_epo_000542 common_voice_eo_19840329.mp3 La libristo levis la ŝultrojn.
+cv_epo_000543 common_voice_eo_25163576.mp3 La komunumo estis loĝata de la romianoj.
+cv_epo_000544 common_voice_eo_25163578.mp3 Ĉefvojo kaj aŭtoŝoseo estas proksime.
+cv_epo_000545 common_voice_eo_25163579.mp3 Tiu ludilo kostas du guldenojn.
+cv_epo_000546 common_voice_eo_25163580.mp3 Oni aranĝis la mesojn en aparta ĉambro de la lernejo.
+cv_epo_000547 common_voice_eo_20680997.mp3 En tiu jaro li ankaŭ membriĝis en la socialdemokrata partio.
+cv_epo_000548 common_voice_eo_20680998.mp3 Sekve plej gravis matematiko, fiziko, kemio, biologio, civitana edukado.
+cv_epo_000549 common_voice_eo_20680999.mp3 La tonka-fabojhavas dolĉan, vanil-similan guston.
+cv_epo_000550 common_voice_eo_20681000.mp3 Kaj instruistoj kaj gepatroj kontraŭas tiun provon.
+cv_epo_000551 common_voice_eo_24569836.mp3 Kaj li aldonas la terminon "stacidomo".
+cv_epo_000552 common_voice_eo_24569837.mp3 Akompanas la difektoj de la spino.
+cv_epo_000553 common_voice_eo_24569838.mp3 Philippe Robert estis rivalo de Ferdinand Hodler.
+cv_epo_000554 common_voice_eo_24569839.mp3 Li famiĝis ĉefe kiel trombonisto en la bandego de Lionel Hampton.
+cv_epo_000555 common_voice_eo_18572719.mp3 Propra supo brogas, fremda allogas.
+cv_epo_000556 common_voice_eo_18572720.mp3 Oni lin konas, kiel makulharan hundon.
+cv_epo_000557 common_voice_eo_18572721.mp3 Tio estas malvera!
+cv_epo_000558 common_voice_eo_18572722.mp3 Ju pli frue, des pli certe — ju pli volonte, des pli lerte.
+cv_epo_000559 common_voice_eo_28841350.mp3 La sanktejo estas oklatera.
+cv_epo_000560 common_voice_eo_28841351.mp3 Ankaŭ la ĝardeno ricevis ĉirkaŭmuraron.
+cv_epo_000561 common_voice_eo_28841353.mp3 La ĉefa ekonomia aktivado de la loko estas rilata al la agrikulturo.
+cv_epo_000562 common_voice_eo_28841354.mp3 Estas kvar stamenoj duope.
+cv_epo_000563 common_voice_eo_23380735.mp3 Pro regionaj kaj personaj preferoj la recepto povas tre varii.
+cv_epo_000564 common_voice_eo_23380736.mp3 La verko estas kolekto de brazilaj poemoj tradukitaj de Lorenz dum pluraj jaroj.
+cv_epo_000565 common_voice_eo_23380738.mp3 Laŭ la kutimo kirko ne konstruiĝis.
+cv_epo_000566 common_voice_eo_23380739.mp3 Problemoj estis ankaŭ kun eksporto de la produktoj.
+cv_epo_000567 common_voice_eo_27121712.mp3 Do esence mi movis la fekejon al la alia flanko de la sunĉambro
+cv_epo_000568 common_voice_eo_27121713.mp3 Li estas konata pro sia estreco en la evoluo de la kosma astrometrio.

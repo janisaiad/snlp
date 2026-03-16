@@ -1,0 +1,105 @@
+cv_epo_000000 common_voice_eo_17920711.mp3 Ĝi jam staras al mi en la gorĝo.
+cv_epo_000001 common_voice_eo_18297821.mp3 Vi ne devos lin delasi dum la tuta nokto.
+cv_epo_000002 common_voice_eo_33721567.mp3 Ĝi lokiĝas en terenoj de Varmia-Mazuria Provinco.
+cv_epo_000003 common_voice_eo_30233214.mp3 Sed li tion ne rimarkis.
+cv_epo_000004 common_voice_eo_30453921.mp3 ŝanĝis
+cv_epo_000005 common_voice_eo_31638139.mp3 Kelkaj historiistoj dubas ke Karolo iam ekzistis.
+cv_epo_000006 common_voice_eo_27330898.mp3 Ni ne havas pafilojn
+cv_epo_000007 common_voice_eo_25012097.mp3 La pugo estas flava.
+cv_epo_000008 common_voice_eo_27331004.mp3 Tiam, la infano kreskas kaj edukiĝas kaj nur parolas Esperanton.
+cv_epo_000009 common_voice_eo_19395988.mp3 Fremda korpo ne doloras.
+cv_epo_000010 common_voice_eo_27330957.mp3 Kaj li rigardis min iom komfuzite kaj diris:
+cv_epo_000011 common_voice_eo_22438290.mp3 unu
+cv_epo_000012 common_voice_eo_22942419.mp3 Je la fino ŝajnas, ke la vivo eniras en la arto.
+cv_epo_000013 common_voice_eo_28529226.mp3 Ĝi estas evidenta kazo de seksa duformismo.
+cv_epo_000014 common_voice_eo_27383725.mp3 Krom ili hungaroj kaj bulgaroj vivas tie.
+cv_epo_000015 common_voice_eo_30317791.mp3 Lia partio estas Nacia Koalicio.
+cv_epo_000016 common_voice_eo_27754280.mp3 Unu el la aloj aliĝas plia J-forma alo.
+cv_epo_000017 common_voice_eo_20647319.mp3 Plej rimarkinda karaktero estas la tre flava pugo, kiel ĉe multaj kanarioj.
+cv_epo_000018 common_voice_eo_29224314.mp3 Kaj sekve li estas al ŝi iom konata.
+cv_epo_000019 common_voice_eo_22717509.mp3 La cetero perdiĝis.
+cv_epo_000020 common_voice_eo_25214319.mp3 Ĝi estas malbona ideo disvastigita per la klasikaj libroj de la grekoj.
+cv_epo_000021 common_voice_eo_27966466.mp3 Ĉiu metrika spaco estas ankaŭ topologia spaco.
+cv_epo_000022 common_voice_eo_28064444.mp3 La komisiono ne klarigis lian rolon.
+cv_epo_000023 common_voice_eo_33366391.mp3 Ni estas kuntirataj.
+cv_epo_000024 common_voice_eo_25006596.mp3 La Esperanta Civito, kun siaj enaj "partioj" havas proksiman sistemon.
+cv_epo_000025 common_voice_eo_22392105.mp3 Ŝi kapablas flugi kaj fariĝi nevidebla.
+cv_epo_000026 common_voice_eo_30506525.mp3 La insulo funkciis kiel farmo por ŝafoj.
+cv_epo_000027 common_voice_eo_31419583.mp3 Sufiĉe pri tio.
+cv_epo_000028 common_voice_eo_27309148.mp3 Plenkreska Perseo foriris eksterlanden kaj plenumis malfacilan taskon.
+cv_epo_000029 common_voice_eo_30460768.mp3 Pluraj militistaj konstruaĵoj tiam stariĝis.
+cv_epo_000030 common_voice_eo_29759306.mp3 La rifuĝejoj havas nomojn de urboj de Okcidenta Saharo.
+cv_epo_000031 common_voice_eo_17921078.mp3 Inter ili troviĝis kuracisto.
+cv_epo_000032 common_voice_eo_31392960.mp3 Ĝi troviĝas en Belizo, Kolombio, Kostariko, Salvadoro, Gvatemalo, Honduro, Meksiko, Nikaragvo, kaj Panamo.
+cv_epo_000033 common_voice_eo_24976835.mp3 Ĉi tiuj difinas la aron de eblaj solvoj.
+cv_epo_000034 common_voice_eo_26540292.mp3 La urbo situas ĉe la supra parto de la rivero Doubs.
+cv_epo_000035 common_voice_eo_30642121.mp3 Kaj kiu amas fruktobrandon, nu, tiu ankaŭ interesoplene legos la tiurilatajn epizodojn.
+cv_epo_000036 common_voice_eo_26746215.mp3 Kiaj homoj ili estas?
+cv_epo_000037 common_voice_eo_22402140.mp3 La komandoro estis nejuna.
+cv_epo_000038 common_voice_eo_21861462.mp3 De kie oni ekiru?
+cv_epo_000039 common_voice_eo_30485115.mp3 Estis mateno post pluvo.
+cv_epo_000040 common_voice_eo_20921393.mp3 Ĝi estis fortikigita fine de Mezepoko.
+cv_epo_000041 common_voice_eo_28899310.mp3 Ĉe ni!
+cv_epo_000042 common_voice_eo_20917469.mp3 Iom post iom tiu tamen akiris la respekton de la kapitano.
+cv_epo_000043 common_voice_eo_20560866.mp3 Dumtempe li edziĝis kaj iĝis patro.
+cv_epo_000044 common_voice_eo_30159395.mp3 Tro multekosta afero!
+cv_epo_000045 common_voice_eo_28315822.mp3 Akiri ĝin estas komplika, kosta, kaj en multaj landoj tute ne ebla.
+cv_epo_000046 common_voice_eo_27472721.mp3 Kaj tiuokaze la demando simple ĉesos havi sencon.
+cv_epo_000047 common_voice_eo_27330868.mp3 Se estas homo kaj diris "Donu al mi manĝaĵon"
+cv_epo_000048 common_voice_eo_32309668.mp3 Li verkis ankaŭ poemojn en la hungara, latina kaj germana lingvoj.
+cv_epo_000049 common_voice_eo_20260609.mp3 Numero unua: Pipo, tabakujo kaj alumetujo; por la gastiginto.
+cv_epo_000050 common_voice_eo_27376511.mp3 En laboratorio ĝi uzatas kiel kemia reakcianto.
+cv_epo_000051 common_voice_eo_27308961.mp3 La klara aero estas invito por la amatoraj astronomoj.
+cv_epo_000052 common_voice_eo_28943592.mp3 Ne parolu jam pri la kredo je « millenium »!
+cv_epo_000053 common_voice_eo_22427473.mp3 Norde estas la Arkta Oceano, kun Gronlando nordoriente.
+cv_epo_000054 common_voice_eo_28757560.mp3 Intertempe unu folio "perdiĝis".
+cv_epo_000055 common_voice_eo_22452483.mp3 ok
+cv_epo_000056 common_voice_eo_30350109.mp3 Post la socialismo la konstruaĵo estis renovigita.
+cv_epo_000057 common_voice_eo_27600581.mp3 La naturan limon al Svisio sude kaj Francio okcidente konsistigas la rivero Rejno.
+cv_epo_000058 common_voice_eo_24474333.mp3 Li laboris kaj teorie kaj eksperimente.
+cv_epo_000059 common_voice_eo_17911827.mp3 Perdi la kandelon el la kapo.
+cv_epo_000060 common_voice_eo_17911829.mp3 Ridas blindulo pri lamulo.
+cv_epo_000061 common_voice_eo_18304043.mp3 Ni parolis nur Esperante.
+cv_epo_000062 common_voice_eo_18304044.mp3 Kia estas via laboro, tia estas via valoro.
+cv_epo_000063 common_voice_eo_30457905.mp3 Dum la nokto antaŭ ĉi tiu tago okazas, laŭ la kredo de popolamaso, sorĉaĵoj.
+cv_epo_000064 common_voice_eo_30475051.mp3 En sia lasta ekspedicio Hudson serĉis la nordokcidentan pasejon.
+cv_epo_000065 common_voice_eo_30341065.mp3 La ununura alia granda pufino en ties teritorio estas la tute malhela Griza pufino.
+cv_epo_000066 common_voice_eo_30341218.mp3 Ili konkludis, ke, ĉar mankis natura klarigo al la okazaĵo, estis do miraklo.
+cv_epo_000067 common_voice_eo_27363057.mp3 Do mi nun studas.. Aŭ ne, mi ne nun, sed en Februaro
+cv_epo_000068 common_voice_eo_27363058.mp3 Pli komplikaj ekzemploj uzas plurajn liniojn de teksto.
+cv_epo_000069 common_voice_eo_17899644.mp3 Ameno diablon ne forpelas.
+cv_epo_000070 common_voice_eo_17899645.mp3 Li ne toleras eĉ muŝon sur la muro.
+cv_epo_000071 common_voice_eo_20105658.mp3 Li aŭskultas plue, ĝis kiam la muzikistoj ĉesas ludadi.
+cv_epo_000072 common_voice_eo_20105659.mp3 Ĝi estis vaporboato.
+cv_epo_000073 common_voice_eo_28335312.mp3 Sur tiu kabo estas lumturo.
+cv_epo_000074 common_voice_eo_28335315.mp3 Ĝi povas esti sufiĉe dika.
+cv_epo_000075 common_voice_eo_28763976.mp3 Kelkfoje ŝi havis filmajn kaj teatrajn rolojn.
+cv_epo_000076 common_voice_eo_28763977.mp3 Ĝi estas endemio de Jamajko.
+cv_epo_000077 common_voice_eo_27072860.mp3 Hejmenveninta li eklaboris en filio de Scienca Akademio nomata Centra Fizika Esplora Instituto.
+cv_epo_000078 common_voice_eo_27072861.mp3 La kernoj estas helbrunaj.
+cv_epo_000079 common_voice_eo_27301456.mp3 Ties dieto konsistas ĉefe el plantoj, fruktoj kaj malgrandaj animaloj.
+cv_epo_000080 common_voice_eo_27301459.mp3 Belaj ombroj!
+cv_epo_000081 common_voice_eo_33015598.mp3 Kaj mi iom miras.
+cv_epo_000082 common_voice_eo_33049740.mp3 Unuaj esploroj de Alasko kaj renkontiĝoj inter rusoj kaj indiĝenoj.
+cv_epo_000083 common_voice_eo_27330910.mp3 Ĉar mi ne scias, por mi tio estas stranga ideo.
+cv_epo_000084 common_voice_eo_27330913.mp3 Alia pafilo tie.
+cv_epo_000085 common_voice_eo_27743697.mp3 mondo
+cv_epo_000086 common_voice_eo_27743716.mp3 La klubo havas sian sidejon en la samnoma urbo Fukuŝima en la gubernio Fukuŝima.
+cv_epo_000087 common_voice_eo_28976133.mp3 Ĝis la muelejo ni vin akompanos kaj tie ni vin adiaŭos.
+cv_epo_000088 common_voice_eo_28976940.mp3 Jam ses monatojn.
+cv_epo_000089 common_voice_eo_28514097.mp3 Li estas profesoro ĉe la Universitato de Novjorko.
+cv_epo_000090 common_voice_eo_28514099.mp3 Tie estis ŝatata disĉiplo de Hegelo.
+cv_epo_000091 common_voice_eo_27489948.mp3 La temo estis "Al nova internacia lingva ordo".
+cv_epo_000092 common_voice_eo_27489950.mp3 Ties dieto estas komponata el insektoj, fiŝoj, kaj kraboj.
+cv_epo_000093 common_voice_eo_26626467.mp3 Se la ludanto respondas ĝuste, li gajnas pliajn poentojn.
+cv_epo_000094 common_voice_eo_26626468.mp3 Finfine la fortoj integriĝis en la estontaj Militaj Fortoj de Jordanio.
+cv_epo_000095 common_voice_eo_27715088.mp3 Teksaĵoj estis faritaj hejme el la lano de ŝafoj.
+cv_epo_000096 common_voice_eo_27715091.mp3 Senpacience atendis nia migranto la nokton.
+cv_epo_000097 common_voice_eo_23883822.mp3 kvin
+cv_epo_000098 common_voice_eo_23883823.mp3 nul
+cv_epo_000099 common_voice_eo_20856323.mp3 Li ricevis aŭstran premion.
+cv_epo_000100 common_voice_eo_20856327.mp3 Ĝi abundas en fiŝo.
+cv_epo_000101 common_voice_eo_27378760.mp3 La specio estas tre endanĝerita kaj tutmonde minacata.
+cv_epo_000102 common_voice_eo_27378799.mp3 Ĝi estas multe malpli komuna oriente, kie ties teritorio estas malpliiĝanta.
+cv_epo_000103 common_voice_eo_27352009.mp3 Kaj eble naĝi
+cv_epo_000104 common_voice_eo_27352011.mp3 Do, nun ni provas iomete.

@@ -1,0 +1,146 @@
+googlei18n-tts_yor_000877 yom_02121_01692346848.wav [snap] Àdùké kò ní pẹ́ gboyè ìmọ̀ nínú òfin.
+googlei18n-tts_yor_000878 yof_09334_01991202909.wav Ṣé o ti ṣe iṣẹ́ àmúrelé rẹ?
+googlei18n-tts_yor_000879 yom_07505_00165421972.wav Kò sí ẹni tí kò lè dáa fún.
+googlei18n-tts_yor_000880 yof_05223_00570210136.wav Ọmọ náà gbé orí mi sí àyà rẹ.
+googlei18n-tts_yor_000881 yof_09334_00069505935.wav Ǹjẹ́ o ti dé olú ìlú orílẹ̀-èdè rẹ rí?
+googlei18n-tts_yor_000882 yom_06136_00915399749.wav [snap] [external] Ààrẹ orílè-èdè Nàìjíríà ni Mohammadu Buhari.
+googlei18n-tts_yor_000883 yof_03034_00547294103.wav Ẹ̀rọ ìlọṣọ lọ̀ mí lẹ́sẹ̀.
+googlei18n-tts_yor_000884 yom_00295_00034835661.wav Ẹ wá ra bèbí fún mi.
+googlei18n-tts_yor_000885 yof_05223_01872549474.wav [snap] Ìjàkùmọ̀ kìí rìnde ọ̀sán.
+googlei18n-tts_yor_000886 yom_06136_02047234338.wav [snap] Géètì ilé-ìwé ni mo ti pàdé Sìlàmíyà ní àná.
+googlei18n-tts_yor_000887 yof_02121_01254424533.wav A rí kínǹiún ní ibi tí a ti lọ wo àwọn ẹranko.
+googlei18n-tts_yor_000888 yom_03397_01771472448.wav [breath] Aya rere l’ódèdè ọkọ ni Ṣọlá.
+googlei18n-tts_yor_000889 yom_08421_01105719994.wav Ọgbà àjárá ni ó yí ilé náà ká.
+googlei18n-tts_yor_000890 yof_03034_01828481800.wav Irun kọjúsọ́kọ ló gbé s’órí.
+googlei18n-tts_yor_000891 yof_03397_02017342165.wav Ọkùnrin ni adarí ìjọ náà.
+googlei18n-tts_yor_000892 yom_07508_01795437934.wav Nínú yàrá náà, ènìyàn márùn-ún ló ń sùn síbẹ̀. Ọ̀rẹ́ làwọn máràrùn.
+googlei18n-tts_yor_000893 yom_09334_01492453488.wav Ṣadé ṣiṣẹ́ ìwádi lọ sí ilẹ̀ Àríwá.
+googlei18n-tts_yor_000894 yom_04310_00457696226.wav Òṣogbo ni wọ́n ti gbé àgbò náà bọ̀.
+googlei18n-tts_yor_000895 yom_02121_01814534607.wav Ọ̀jọ̀gbọ́n ni ọmọ náà.
+googlei18n-tts_yor_000896 yom_01523_00387763688.wav Ó ti wá hàn gbangba pé gbogbo ohun tí à ń ṣe ní àwùjọ ẹ̀dá pátápátá, eré-oníṣẹ́ ni gbogbo wọn.
+googlei18n-tts_yor_000897 yof_03397_00728103925.wav Oní wẹ́rẹ́wẹ́rẹ́ ni Jíbọ́lá.
+googlei18n-tts_yor_000898 yom_03034_00024854036.wav [breath] Ilé tí èmi àti àwọn akẹgbẹ́ mi dé sí rẹwà púpọ̀, [snap] ọ̀rọ̀ gan kò lè ṣàpèjúwe rẹ̀.
+googlei18n-tts_yor_000899 yom_00295_00318803215.wav Onímọ̀ ìṣègùn ni ọmọ mí sọ pé òun fẹ́ fẹ́.
+googlei18n-tts_yor_000900 yom_01208_01130805551.wav Kí ló dé tí wọ́n ṣẹ́ oyún fún-un?
+googlei18n-tts_yor_000901 yom_06136_01510824765.wav Ibí lo sùn mòjú.
+googlei18n-tts_yor_000902 yom_03397_00334420973.wav Mo máa dáàbò bò ẹ lọ́wọ́ gbogbo ìjọ̀gbọ̀n ayé.
+googlei18n-tts_yor_000903 yof_06136_01971716735.wav Ọmọ ẹlẹ́pà ti ń sá lọ.
+googlei18n-tts_yor_000904 yof_02436_01947241225.wav Yèyé mi a máa bínú ní ọ̀pọ̀ ìgbà lórí ohun tí kò tó nǹkan.
+googlei18n-tts_yor_000905 yof_02121_01101113850.wav Oò tiẹ̀ bẹ̀rù bí mo ṣe ga tó.
+googlei18n-tts_yor_000906 yom_08784_00687048590.wav Ṣé ki n gbé oúnjẹ rẹ lọ fún-un?
+googlei18n-tts_yor_000907 yof_04310_00631642349.wav Ọ̀rẹ́ mi gbá bọ́ọ̀lù lẹ́ẹ̀mẹta kó tó wọlé. [external]
+googlei18n-tts_yor_000908 yom_01523_00383617355.wav Orí ló ń sin ni tá fi ń kọ́lémọ́lé.
+googlei18n-tts_yor_000909 yof_00295_01551962061.wav Kọ́lá ti fi ẹsẹ̀ gún ìṣó.
+googlei18n-tts_yor_000910 yof_03349_01538712004.wav Ayé là á jẹ, ka tó jọ̀run. [external]
+googlei18n-tts_yor_000911 yom_08421_00329169601.wav Ìlúbìnrin ni wọ́n sọ pé àwọn ń lọ.
+googlei18n-tts_yor_000912 yof_09334_00429130596.wav Olúwa yóò ṣọ́ ẹ di ọjọ́ ìkúnlẹ̀ o.
+googlei18n-tts_yor_000913 yof_00610_01082110566.wav [snap] Ọmọ jayéjayé ni àwọn ọ̀rẹ́ mi.
+googlei18n-tts_yor_000914 yom_01523_00762007073.wav Nínú èrò tí Elédùmarè fi jíǹkí ẹ̀yà Yòrùbá ni ọ̀nà tí a fi ń ṣe òǹkà tó múná dóko.
+googlei18n-tts_yor_000915 yom_08784_00540604285.wav [breath] Wọ́n n bá ara wọn sọ̀rọ̀ lówelówe.
+googlei18n-tts_yor_000916 yof_03397_01216171839.wav Àmì ayò mẹ́rin sí oódo ni Manchester United fi na Chelsea ní àná.
+googlei18n-tts_yor_000917 yom_06136_00573447371.wav Ìjọba yóò fi kún owó àwọn òṣìṣẹ́.
+googlei18n-tts_yor_000918 yom_07505_01482096004.wav Àgbélébú mi ni mo gbé rù lọ́wọ́lọ́wọ́.
+googlei18n-tts_yor_000919 yof_09697_01029057779.wav [snap] Sé o mọ Allen Avenue?
+googlei18n-tts_yor_000920 yom_00610_01801059315.wav [snap] Láfún loúnjẹ wọn nílé Àl̀àkẹ́.
+googlei18n-tts_yor_000921 yom_01208_00808346730.wav Ọ̀pọ̀lọpọ̀ ọmọdé fẹ́ràn patí.
+googlei18n-tts_yor_000922 yof_05223_01345280705.wav Ilé ìkọ́jàsí náà kún fọnfọn.
+googlei18n-tts_yor_000923 yom_07508_00241238816.wav Ẹ̀san ń bẹ fún ẹni tó bá ṣẹ̀’ka.
+googlei18n-tts_yor_000924 yof_02121_01344246827.wav Ó ṣeéṣe kí ọmọ ẹ̀gbọ́n wá pá lórí bíi bàbá ẹ̀.
+googlei18n-tts_yor_000925 yom_08421_00934950855.wav Olè náà sáré gba kọ̀rọ̀.
+googlei18n-tts_yor_000926 yof_02121_01902393029.wav Ọlórun má jẹ ka wáyé òfìfo.
+googlei18n-tts_yor_000927 yof_08784_01884325288.wav Edé mẹ́fà ni Músá fi mu Gààrí.
+googlei18n-tts_yor_000928 yof_02436_01123459149.wav [snap] Kí ló dé tí o wà nínú àhámọ́.
+googlei18n-tts_yor_000929 yom_03034_02088660657.wav Mo fẹ́ lọ sí etí òkun láti lọ gbafẹ́.
+googlei18n-tts_yor_000930 yof_09697_00095408131.wav Ìyá Fátúrótì ni ó ń se ìnáwó lọ́jọ́ yẹn.
+googlei18n-tts_yor_000931 yof_03397_01872041694.wav Kí ló dé tò ń pè mí lánàá?
+googlei18n-tts_yor_000932 yom_02436_01020115343.wav Ojú mi rí kí n tó ni gbogbo dúkìá yìí.
+googlei18n-tts_yor_000933 yof_08784_00479110965.wav Báǹkì wo lò ń lò ná?
+googlei18n-tts_yor_000934 yof_06136_00606933345.wav Àpáta náà rí ràbàtà.
+googlei18n-tts_yor_000935 yom_00295_01797274674.wav Abẹ́ igi ọdán ni wọ́n ti máa ń sábà pa ààló.
+googlei18n-tts_yor_000936 yof_04310_00774388707.wav Ọ̀mọ̀wé fún ọmọ náà ní ẹ̀bun rẹpẹtẹ.
+googlei18n-tts_yor_000937 yof_05223_01151524736.wav Mo ò ní já ẹ ku’lẹ̀.
+googlei18n-tts_yor_000938 yom_06136_01575860011.wav [snap] Àwọn ohun amáyédẹrùn ti pọ̀ lóde.
+googlei18n-tts_yor_000939 yof_09334_00742087281.wav Ọ̀gá ọlọ́pàá náà ló gba owó àbẹ̀tẹ́lẹ̀.
+googlei18n-tts_yor_000940 yof_03349_01488219667.wav Ó yí omi dà sínú ike mìíràn.
+googlei18n-tts_yor_000941 yof_00295_01192786224.wav Ẹ jẹ́ ká ṣeré nínú òjò.
+googlei18n-tts_yor_000942 yom_07505_01699823013.wav Ọpọlọ yín ni mo fẹ́ yá lò.
+googlei18n-tts_yor_000943 yof_05223_00707107553.wav Wọ́n ni ilé àwọn Jẹ̀lílì l’àwọn ń lò.
+googlei18n-tts_yor_000944 yof_02436_01252305057.wav Fákáyọ̀dé ni Ọba Ìbògùn.
+googlei18n-tts_yor_000945 yof_00610_01581194420.wav Arómáṣọdún bímọ ọkùnrin làǹtilanti.
+googlei18n-tts_yor_000946 yom_00610_01237322476.wav Èékánná tí o lé sọ́wọ́ rẹwà púpò.
+googlei18n-tts_yor_000947 yof_07508_01952773975.wav Ṣé o mọ ìdí tí mo fi sọ bẹ́ ẹ̀?
+googlei18n-tts_yor_000948 yom_07049_00667014222.wav Ọmọ jayéjayé ni àwọn ọ̀rẹ́ mi.
+googlei18n-tts_yor_000949 yof_06136_00252320632.wav Tutù ní èjí ní eyín rẹ̀.
+googlei18n-tts_yor_000950 yom_00295_00211433715.wav Bí Ọládùnúní àti Ọláfibọ̀ tilẹ̀ d’ẹ́se náà, wọn ti tọrọ àforíjì.
+googlei18n-tts_yor_000951 yof_03397_00938589490.wav Ìjẹta ni òjó rọ̀ kẹ́yìn.
+googlei18n-tts_yor_000952 yof_06136_01920577611.wav Ẹ̀san ń bẹ fún ẹni tó bá ṣẹ̀ ìka.
+googlei18n-tts_yor_000953 yom_03034_00406378535.wav Mo fẹ́ mu àgbo jẹ̀díjẹ̀dí.
+googlei18n-tts_yor_000954 yof_03034_00108964020.wav Tóbi ní òun ò fẹ́ rí ẹnikẹ́ni lénìí.
+googlei18n-tts_yor_000955 yom_00295_02069760396.wav Máa tọ́jú mi, Jèhóvà ńlá.
+googlei18n-tts_yor_000956 yof_02436_00449019537.wav [snap] Bí ènìyàn ṣe ń lo èdè bẹ́ẹ̀ náà ni àwọn ẹrankọ ní bí wọ́n ṣe máa ń bára wọn sọ̀rọ̀. [external]
+googlei18n-tts_yor_000957 yom_07505_00450757097.wav A rí kínǹiún ní ibi tí a ti lọ wo àwọn ẹranko.
+googlei18n-tts_yor_000958 yof_06136_00478058506.wav Ààfin ni wọ́n ń pe iga ní Ọ̀yọ́. [external]
+googlei18n-tts_yor_000959 yom_00610_01941449940.wav Èdè mẹ́ta ni mo gbọ́ láti kékeré.
+googlei18n-tts_yor_000960 yom_02436_02039529359.wav Báwo ni ò bá ṣe dùn tó kí àwọn alágbára má fi agbára da èèyàn láàmú.
+googlei18n-tts_yor_000961 yof_00295_01036172444.wav Ìrẹsì àti ẹja ni èmi àti Elújọbí jẹ ní òwúrọ òní.
+googlei18n-tts_yor_000962 yof_04310_00133613790.wav [breath] Bákan náà ẹwẹ̀, àkíyesí tùn wà pé, àwọn okùnrin ni ó pò jù nídìí iṣẹ́ orin. [external]
+googlei18n-tts_yor_000963 yom_07049_00178547600.wav Àwọn ọmọ ogun orí omi wà níbẹ̀.
+googlei18n-tts_yor_000964 yom_04310_00043047586.wav Bí ènìyàn ṣe ń lo èdè bẹ́ẹ̀ náà ni àwọn ẹrankọ ní bí wọ́n ṣe máa ń bára wọn sọ̀rọ̀.
+googlei18n-tts_yor_000965 yof_02121_01383561725.wav Adúrú ǹkan yìí ṣẹlẹ̀, oò dẹ̀ jẹ́ kí mo gbó?
+googlei18n-tts_yor_000966 yom_00610_00339543300.wav [snap] Àgùntàn l’ẹranko tó gọ̀ jù.
+googlei18n-tts_yor_000967 yom_02121_01463000436.wav Ṣé alayé-lọ̀run ni ẹ́ ni tóo fi ń fọ́nu?
+googlei18n-tts_yor_000968 yom_00610_00594754355.wav [breath] Gbogbo àwọn ohun tí ó ṣẹlẹ̀ nínú àwùjọ ní wọ́n lò láti fi ṣe àgbékalè eré àgbéléwò.
+googlei18n-tts_yor_000969 yof_03349_00520899394.wav Ìyàwó àti ẹbí sì ni wọ́n jogún gbogbo rẹ̀ fún.
+googlei18n-tts_yor_000970 yom_07508_01933655369.wav Àwọn wo ló ń pariwo láàárọ̀ kùtùkùtù báyìí.
+googlei18n-tts_yor_000971 yom_08421_00705794618.wav Ọ̀rẹ́ pàtàkì ni èmi àti ẹ̀gbọ́n bàbá ẹ nígbà tó wà láyé.
+googlei18n-tts_yor_000972 yof_08421_00288312893.wav [breath] Ohun tí ó dára ni láti wà pẹ̀lú enìkan tì èèyàn fẹ́ràn.
+googlei18n-tts_yor_000973 yom_01523_01990719203.wav Ọ̀tá yín ò ní sinmi lórúkọ Jésù. [external]
+googlei18n-tts_yor_000974 yof_02121_01204042551.wav Ẹ̀yìn ilẹ̀kùn ni a máa ń kó ìgbálẹ̀ àti ìkólẹ̀ sí.
+googlei18n-tts_yor_000975 yof_03034_00500474867.wav [snap] Akokoro ló múu l’ẹ́yin.
+googlei18n-tts_yor_000976 yof_04310_01620390540.wav Ẹ̀ṣọ́ dára fún ara. [external]
+googlei18n-tts_yor_000977 yof_03397_00205083435.wav [snap] Mo fẹ́ kọ́ bí wọ́n ti ń tẹ dùùrù.
+googlei18n-tts_yor_000978 yof_07508_00982432175.wav Ó ṣì jẹ́ ẹgbẹ ni àpo kan.
+googlei18n-tts_yor_000979 yof_08784_01510588097.wav Ìwé ìròyìn márùn-ún n wọ́n kọ̀ọ́ sí.
+googlei18n-tts_yor_000980 yom_07508_02047227550.wav Ọ́rẹ́ mi má ṣe kánjú ju kádàrá.
+googlei18n-tts_yor_000981 yof_08784_01902466684.wav [breath] Ẹ̀rín máa ń pa mí nígbà tí mo bá ń gbọ́ àwọn ìpolówó kọ̀ọ̀kan.
+googlei18n-tts_yor_000982 yom_02121_00206639101.wav Ó yà mí lẹ́nu, ètè mí ya pẹ̀lú.
+googlei18n-tts_yor_000983 yom_00610_00278336235.wav Ìjọba ìpínlẹ̀ ti tún ọ̀nà náà ṣe, ọ̀kan fún àlọ, ìkejì fún àbọ̀.
+googlei18n-tts_yor_000984 yof_07508_01015589913.wav Mi ò mọ ẹyẹ tó ṣu Adébóyè.
+googlei18n-tts_yor_000985 yof_05223_00567029601.wav [snap] Wàhálà tí àwọn ènìyàn ṣe láti lè jẹ́ ènìyàn láyé kìí ṣe kèrémí o.
+googlei18n-tts_yor_000986 yom_08784_00670686500.wav Ìjọba ìbílẹ̀ ti ń tún àwọn ọ̀nà àdúgbò wa ṣe.
+googlei18n-tts_yor_000987 yof_03034_01900273328.wav Ẹran méjì-méjì ló fi ṣe wá lálejò.
+googlei18n-tts_yor_000988 yom_08784_01153848160.wav [breath] Ó fẹ́ dì mọ́ọ lát’ẹ̀yìn.
+googlei18n-tts_yor_000989 yof_03397_00348474787.wav Ọọ̀ purọ́, bẹ́ẹ̀ gan lọ̀rọ̀ rí.
+googlei18n-tts_yor_000990 yom_00295_00873388232.wav Ata ni Bọ́láfadé ń tà láti rán ara rẹ̀ lọ sí ilé-ìwé.
+googlei18n-tts_yor_000991 yom_09334_00720552665.wav Àkàrà òyìnbó náà dúdú.
+googlei18n-tts_yor_000992 yom_03397_00988160910.wav B’ólóde ò kú, òde ò le wu gbẹ́gi.
+googlei18n-tts_yor_000993 yom_08784_00946854537.wav Ilé ta fi ìtọ́ mọ, ìrì ni yóò wọ̀ọ́.
+googlei18n-tts_yor_000994 yof_06136_00530300363.wav Ẹ bá mi fi díẹ̀ sí oúnjẹ yíì.
+googlei18n-tts_yor_000995 yof_03034_01222630776.wav [snap] Ìdí ọkọ̀ ni mo gbé ẹrù lọ ní àná nígbà tí ọkọ̀ gbá ajá àwọn màmá.
+googlei18n-tts_yor_000996 yom_06136_00822519227.wav [snap] Àdúrà gbogbo òbí ni kí ọmọ wọ́n ṣ’oríire.
+googlei18n-tts_yor_000997 yof_03034_01484294019.wav Ìbọn jẹ́ irinṣẹ́ pàtàkì fún àwọn ọde.
+googlei18n-tts_yor_000998 yom_08784_01571599993.wav Kí ni ìdí pàtàkì tó fi yẹ kí a kọ́ ilé yìí?
+googlei18n-tts_yor_000999 yof_04310_01940084104.wav [snap] Kí ni ìdí pàtàkì tó fi yẹ kí a kọ́ ilé yìí?
+googlei18n-tts_yor_001000 yom_01523_02104291580.wav Òkè kẹta ni àwọn Bánkẹ́ ń gbé. [snap]
+googlei18n-tts_yor_001001 yof_06136_00680095634.wav Àpẹẹrẹ rere ni ó fi lé‘lẹ̀.
+googlei18n-tts_yor_001002 yof_02484_01995229507.wav [breath] Òkè gíga pọ̀ ní àdúgbò yín.
+googlei18n-tts_yor_001003 yom_06136_00804435337.wav [snap] Yóò dára fún ẹ, mo dúpé púpọ̀ lọ́wọ́ rẹ.
+googlei18n-tts_yor_001004 yof_03034_00299576843.wav Èmi ni mo bá àbúrò mi ṣe iṣẹ́ àmúrelé rẹ̀.
+googlei18n-tts_yor_001005 yof_03397_00945734245.wav [breath] [snap] O ṣé tọ́ọ wá sí ’lé mi lónìí.
+googlei18n-tts_yor_001006 yom_02436_01072540162.wav Tí óúnjẹ yẹ́n bá tutù, kò ní ṣe é jẹ mọ́.
+googlei18n-tts_yor_001007 yof_02484_00072556300.wav [breath] Ìró wà ní orí ilẹ̀kùn.
+googlei18n-tts_yor_001008 yom_03397_00745720052.wav [snap] Ogun ni ìlú yìí wà ní òní bó tilẹ̀ jẹ́ pé wọ́n máa ń fẹ́ kí gbogbo ayé rò pé àlááfíà ni.
+googlei18n-tts_yor_001009 yof_08421_02115996752.wav Olú sùn fọnfọn lọ́run.
+googlei18n-tts_yor_001010 yof_02436_00087263006.wav Orí ibùsùn Àdìó ni Ṣẹfíù jókòó sí.
+googlei18n-tts_yor_001011 yom_02484_00342983781.wav Kí á mà dan ìgbàgbọ́ wa wò.
+googlei18n-tts_yor_001012 yof_03034_02130000328.wav Túndé jẹ mí ní ẹgbẹ̀rún mẹ́wàá náírà.
+googlei18n-tts_yor_001013 yof_03397_01041264034.wav Àwọn ọmọ ẹgbẹ́ kò káàárẹ̀ láti máa wá sí ìpàdé.
+googlei18n-tts_yor_001014 yof_08421_00109898102.wav Kòkòrò ààrùn tí ò gbóògun ti pọ̀ ní ìlú yìí.
+googlei18n-tts_yor_001015 yom_03397_01921307701.wav [breath] Títà ni akekèé máa ń tani.
+googlei18n-tts_yor_001016 yof_08784_00742493444.wav [breath] Ọmọ ọ̀lẹ ò ṣeé yá ní tọ́rọ́.
+googlei18n-tts_yor_001017 yof_06136_00782406218.wav A ń sọ̀rọ̀ sí Ọrẹolúwa bí ẹni tí ó níran.
+googlei18n-tts_yor_001018 yof_03349_00922269821.wav Àt’àná ni mo ti ń sùn.
+googlei18n-tts_yor_001019 yom_00295_01009533577.wav Gángan ni ọ̀rọ̀ ilé ayé, bí ó ti kọjú sẹ́nìkan, ẹ̀yìn ló kọ sí ẹlòmíràn.
+googlei18n-tts_yor_001020 yof_07508_02147105578.wav Àlákála ni Adéníkẹ lá pẹ̀lú Ayaba ẹ̀sítérì.
+googlei18n-tts_yor_001021 yof_03349_01120154549.wav Ìlù Àyándélé ń ró kokoko.
+googlei18n-tts_yor_001022 yom_06136_00003960212.wav Ó ní èyí tóun mú lọ́wọ́ yìí ńkọ́, ṣé k’óun fi sílẹ̀ ni?
