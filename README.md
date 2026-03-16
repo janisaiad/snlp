@@ -1,6 +1,20 @@
+## Quick start: one file, full pipeline
+
+From the **repo root** (single command):
+
+```bash
+chmod +x launch.sh && ./launch.sh
+```
+
+`launch.sh` does everything: installs uv if needed, creates the venv, runs `uv sync` and adds espnet as editable, then **downloads ML-SUPERB data**, runs data prep, and **trains ASR (30 epochs)** with HuBERT/JEPA/WavJEPA frontends and evaluates. Results: `models/espnet/egs2/ml_superb/asr1/exp/*/RESULTS.md` and `logs/research_results_*.txt`.
+
+Options: `./launch.sh --debug` (quick 1-ep check), `./launch.sh --skip-download` (data already at `data/ml_superb`). Prereqs: bash, unzip; for gated data run `huggingface-cli login` once.
+
+---
+
 ## Installation
 
-**One-liner (Unix):** `chmod +x launch.sh && ./launch.sh` — we make the script executable, then run it to create the venv, install deps, and run tests.
+**One-liner (Unix):** `chmod +x launch.sh && ./launch.sh` — setup plus full pipeline (see Quick start above). For setup-only (no training), run the steps in the next section manually.
 
 To install dependencies using uv manually, follow these steps:
 

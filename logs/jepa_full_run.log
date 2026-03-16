@@ -1,0 +1,104 @@
+[run_ml_superb_jepa] REPO_ROOT=/Data/janis.aiad/snlp LANGS=eng1 DURATIONS=10min
+[INFO] /Data/janis.aiad/snlp/models/espnet/egs2/ml_superb/asr1/../../../tools/activate_python.sh is not present
+[run_ml_superb_jepa] Training + decode eng1 10min -> exp/asr_train_asr_jepa_10min_eng1_10min
+Running ML-SUPERB mono: lang=eng1 duration=10min asr_config=conf/tuning/train_asr_jepa_10min.yaml (stage 5..13)
+2026-03-16T17:35:57 (asr.sh:285:main) ./asr.sh --ngpu 1 --stage 5 --stop_stage 13 --nj 4 --inference_nj 2 --gpu_inference false --lang eng1 --inference_asr_model valid.loss.ave.pth --local_data_opts --duration 10min --lid false --multilingual false --single_lang eng1 --use_lm false --token_type char --feats_type raw --feats_normalize utterance_mvn --asr_config conf/tuning/train_asr_jepa_10min.yaml --inference_config conf/decode_asr.yaml --train_set train_10min_eng1 --valid_set dev_10min_eng1 --test_sets dev_10min_eng1 test_10min_eng1 --asr_tag train_asr_jepa_10min_eng1_10min --expdir exp --asr_stats_dir exp/asr_stats_eng1_10min --local_score_opts false false monolingual
+[INFO] /Data/janis.aiad/snlp/models/espnet/egs2/ml_superb/asr1/../../../tools/activate_python.sh is not present
+2026-03-16T17:35:57 (asr.sh:323:main) Info: The valid_set 'dev_10min_eng1' is included in the test_sets. '--eval_valid_set true' is set and 'dev_10min_eng1' is removed from the test_sets
+2026-03-16T17:35:57 (asr.sh:566:main) Skipped stages:  6 7 8 9 14 15 
+2026-03-16T17:35:57 (asr.sh:922:main) Stage 5: Generate character level token_list from dump/raw/org/train_10min_eng1/text
+/Data/janis.aiad/snlp/.venv/bin/python3 /Data/janis.aiad/snlp/models/espnet/espnet2/bin/tokenize_text.py --token_type char --input dump/raw/lm_train.txt --output data/eng1_token_list/char/tokens.txt --non_linguistic_symbols none --field 2- --cleaner none --g2p none --write_vocabulary true --add_symbol '<blank>:0' --add_symbol '<unk>:1' --add_symbol '<sos/eos>:-1'
+2026-03-16 17:35:59,298 (tokenize_text:173) INFO: OOV rate = 0.0 %
+2026-03-16T17:35:59 (asr.sh:1191:main) Stage 10: ASR collect stats: train_set=dump/raw/train_10min_eng1, valid_set=dump/raw/dev_10min_eng1
+2026-03-16T17:35:59 (asr.sh:1242:main) Generate 'exp/asr_stats_eng1_10min/run.sh'. You can resume the process from stage 10 using this script
+2026-03-16T17:35:59 (asr.sh:1246:main) ASR collect-stats started... log: 'exp/asr_stats_eng1_10min/logdir/stats.*.log'
+/Data/janis.aiad/snlp/.venv/bin/python3 /Data/janis.aiad/snlp/models/espnet/espnet2/bin/aggregate_stats_dirs.py --input_dir exp/asr_stats_eng1_10min/logdir/stats.1 --skip_sum_stats --output_dir exp/asr_stats_eng1_10min
+2026-03-16T17:36:03 (asr.sh:1310:main) Stage 11: ASR Training: train_set=dump/raw/train_10min_eng1, valid_set=dump/raw/dev_10min_eng1
+2026-03-16T17:36:03 (asr.sh:1409:main) Generate 'exp/asr_train_asr_jepa_10min_eng1_10min/run.sh'. You can resume the process from stage 11 using this script
+2026-03-16T17:36:03 (asr.sh:1413:main) ASR training started... log: 'exp/asr_train_asr_jepa_10min_eng1_10min/train.log'
+2026-03-16T17:36:03 (asr.sh:1451:main) Use ESPnet trainer
+2026-03-16 17:36:04,001 (launch:94) INFO: /Data/janis.aiad/snlp/.venv/bin/python3 /Data/janis.aiad/snlp/models/espnet/espnet2/bin/launch.py --cmd 'run.pl --name exp/asr_train_asr_jepa_10min_eng1_10min/train.log' --log exp/asr_train_asr_jepa_10min_eng1_10min/train.log --ngpu 1 --num_nodes 1 --init_file_prefix exp/asr_train_asr_jepa_10min_eng1_10min/.dist_init_ --multiprocessing_distributed true -- python3 -m espnet2.bin.asr_train --use_preprocessor true --bpemodel none --token_type char --token_list data/eng1_token_list/char/tokens.txt --non_linguistic_symbols none --cleaner none --g2p none --valid_data_path_and_name_and_type dump/raw/dev_10min_eng1/wav.scp,speech,sound --valid_shape_file exp/asr_stats_eng1_10min/valid/speech_shape --resume true --ignore_init_mismatch false --fold_length 80000 --output_dir exp/asr_train_asr_jepa_10min_eng1_10min --config conf/tuning/train_asr_jepa_10min.yaml --frontend_conf fs=16k --train_data_path_and_name_and_type dump/raw/train_10min_eng1/wav.scp,speech,sound --train_shape_file exp/asr_stats_eng1_10min/train/speech_shape --fold_length 150 --train_data_path_and_name_and_type dump/raw/train_10min_eng1/text,text,text --train_shape_file exp/asr_stats_eng1_10min/train/text_shape.char --valid_data_path_and_name_and_type dump/raw/dev_10min_eng1/text,text,text --valid_shape_file exp/asr_stats_eng1_10min/valid/text_shape.char
+2026-03-16 17:36:04,013 (launch:348) INFO: log file: exp/asr_train_asr_jepa_10min_eng1_10min/train.log
+2026-03-16T17:57:25 (asr.sh:1513:main) Stage 12: Decoding: training_dir=exp/asr_train_asr_jepa_10min_eng1_10min
+2026-03-16T17:57:25 (asr.sh:1541:main) Generate 'exp/asr_train_asr_jepa_10min_eng1_10min/decode_asr_asr_model_valid.loss.ave/run.sh'. You can resume the process from stage 12 using this script
+2026-03-16T17:57:25 (asr.sh:1606:main) Decoding started... log: 'exp/asr_train_asr_jepa_10min_eng1_10min/decode_asr_asr_model_valid.loss.ave/org/dev_10min_eng1/logdir/asr_inference.*.log'
+2026-03-16T17:57:28 (asr.sh:1622:main) Calculating RTF & latency... log: 'exp/asr_train_asr_jepa_10min_eng1_10min/decode_asr_asr_model_valid.loss.ave/org/dev_10min_eng1/logdir/calculate_rtf.log'
+2026-03-16T17:57:28 (asr.sh:1606:main) Decoding started... log: 'exp/asr_train_asr_jepa_10min_eng1_10min/decode_asr_asr_model_valid.loss.ave/test_10min_eng1/logdir/asr_inference.*.log'
+2026-03-16T17:57:31 (asr.sh:1622:main) Calculating RTF & latency... log: 'exp/asr_train_asr_jepa_10min_eng1_10min/decode_asr_asr_model_valid.loss.ave/test_10min_eng1/logdir/calculate_rtf.log'
+2026-03-16T17:57:32 (asr.sh:1654:main) Stage 13: Scoring
+/Data/janis.aiad/snlp/.venv/bin/python3 /Data/janis.aiad/snlp/models/espnet/espnet2/bin/tokenize_text.py -f 2- --input - --output - --cleaner none --token_type char --non_linguistic_symbols none --remove_non_linguistic_symbols true
+/Data/janis.aiad/snlp/.venv/bin/python3 /Data/janis.aiad/snlp/models/espnet/espnet2/bin/tokenize_text.py -f 2- --input - --output - --token_type char --non_linguistic_symbols none --remove_non_linguistic_symbols true --cleaner none
+2026-03-16T17:57:37 (asr.sh:1744:main) Write cer result in exp/asr_train_asr_jepa_10min_eng1_10min/decode_asr_asr_model_valid.loss.ave/org/dev_10min_eng1/score_cer/result.txt
+| Sum/Avg | 1 | 45 | 37.8 | 0.0 | 0.0 | 0.0 | 62.22 | 0.0 |
+| SPKR | # Snt | # Wrd | Corr | Sub | Del | Ins | Err | S.Err |
+/Data/janis.aiad/snlp/.venv/bin/python3 /Data/janis.aiad/snlp/models/espnet/espnet2/bin/tokenize_text.py -f 2- --input - --output - --cleaner none --token_type word --non_linguistic_symbols none --remove_non_linguistic_symbols true
+/Data/janis.aiad/snlp/.venv/bin/python3 /Data/janis.aiad/snlp/models/espnet/espnet2/bin/tokenize_text.py -f 2- --input - --output - --token_type word --non_linguistic_symbols none --remove_non_linguistic_symbols true --cleaner none
+2026-03-16T17:57:42 (asr.sh:1744:main) Write wer result in exp/asr_train_asr_jepa_10min_eng1_10min/decode_asr_asr_model_valid.loss.ave/org/dev_10min_eng1/score_wer/result.txt
+| Sum/Avg | 1 | 29 | 55.2 | 0.0 | 0.0 | 0.0 | 44.83 | 0.0 |
+| SPKR | # Snt | # Wrd | Corr | Sub | Del | Ins | Err | S.Err |
+/Data/janis.aiad/snlp/.venv/bin/python3 /Data/janis.aiad/snlp/models/espnet/espnet2/bin/tokenize_text.py -f 2- --input - --output - --cleaner none --token_type char --non_linguistic_symbols none --remove_non_linguistic_symbols true
+/Data/janis.aiad/snlp/.venv/bin/python3 /Data/janis.aiad/snlp/models/espnet/espnet2/bin/tokenize_text.py -f 2- --input - --output - --token_type char --non_linguistic_symbols none --remove_non_linguistic_symbols true --cleaner none
+2026-03-16T17:57:47 (asr.sh:1744:main) Write cer result in exp/asr_train_asr_jepa_10min_eng1_10min/decode_asr_asr_model_valid.loss.ave/test_10min_eng1/score_cer/result.txt
+| Sum/Avg | 1 | 45 | 37.8 | 0.0 | 0.0 | 0.0 | 62.22 | 0.0 |
+| SPKR | # Snt | # Wrd | Corr | Sub | Del | Ins | Err | S.Err |
+/Data/janis.aiad/snlp/.venv/bin/python3 /Data/janis.aiad/snlp/models/espnet/espnet2/bin/tokenize_text.py -f 2- --input - --output - --cleaner none --token_type word --non_linguistic_symbols none --remove_non_linguistic_symbols true
+/Data/janis.aiad/snlp/.venv/bin/python3 /Data/janis.aiad/snlp/models/espnet/espnet2/bin/tokenize_text.py -f 2- --input - --output - --token_type word --non_linguistic_symbols none --remove_non_linguistic_symbols true --cleaner none
+2026-03-16T17:57:52 (asr.sh:1744:main) Write wer result in exp/asr_train_asr_jepa_10min_eng1_10min/decode_asr_asr_model_valid.loss.ave/test_10min_eng1/score_wer/result.txt
+| Sum/Avg | 1 | 29 | 55.2 | 0.0 | 0.0 | 0.0 | 44.83 | 0.0 |
+| SPKR | # Snt | # Wrd | Corr | Sub | Del | Ins | Err | S.Err |
+[INFO] /Data/janis.aiad/snlp/models/espnet/egs2/ml_superb/asr1/../../../tools/activate_python.sh is not present
+2026-03-16T17:57:52 (score.sh:31:main) Linguistic scoring started
+2026-03-16T17:57:52 (score.sh:32:main) local/score.sh false false monolingual exp/asr_train_asr_jepa_10min_eng1_10min
+2026-03-16T17:57:52 (score.sh:35:main) Skip local/score.sh for monolingual cases
+[INFO] /Data/janis.aiad/snlp/models/espnet/egs2/ml_superb/asr1/../../../tools/activate_python.sh is not present
+<!-- Generated by scripts/utils/show_asr_result.sh -->
+# RESULTS
+## Environments
+- date: `Mon Mar 16 17:57:52 CET 2026`
+- python version: `3.13.0 (main, Oct 16 2024, 03:23:02) [Clang 18.1.8 ]`
+- espnet2 version: `espnet2 202511`
+- pytorch version: `pytorch 2.10.0+cu128`
+- Git hash: `e63ab0e1a7a25dc60ed7fc9699a347f688b97286`
+  - Commit date: `Thu Mar 12 17:14:00 2026 +0100`
+
+## exp/asr_train_asr_jepa_10min_eng1_10min
+### WER
+
+|dataset|Snt|Wrd|Corr|Sub|Del|Ins|Err|S.Err|
+|---|---|---|---|---|---|---|---|---|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|29|55.2|0.0|0.0|0.0|44.83|0.0|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|29|55.2|0.0|0.0|0.0|44.83|0.0|
+
+### CER
+
+|dataset|Snt|Wrd|Corr|Sub|Del|Ins|Err|S.Err|
+|---|---|---|---|---|---|---|---|---|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|45|37.8|0.0|0.0|0.0|62.22|0.0|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|45|37.8|0.0|0.0|0.0|62.22|0.0|
+
+### TER
+
+|dataset|Snt|Wrd|Corr|Sub|Del|Ins|Err|S.Err|
+|---|---|---|---|---|---|---|---|---|
+## exp/asr_train_asr_jepa_10min_eng1_10min/decode_asr_asr_model_valid.loss.ave
+### WER
+
+|dataset|Snt|Wrd|Corr|Sub|Del|Ins|Err|S.Err|
+|---|---|---|---|---|---|---|---|---|
+|org/dev_10min_eng1|1|29|55.2|0.0|0.0|0.0|44.83|0.0|
+|org/dev_10min_eng1|1|29|55.2|0.0|0.0|0.0|44.83|0.0|
+
+### CER
+
+|dataset|Snt|Wrd|Corr|Sub|Del|Ins|Err|S.Err|
+|---|---|---|---|---|---|---|---|---|
+|org/dev_10min_eng1|1|45|37.8|0.0|0.0|0.0|62.22|0.0|
+|org/dev_10min_eng1|1|45|37.8|0.0|0.0|0.0|62.22|0.0|
+
+### TER
+
+|dataset|Snt|Wrd|Corr|Sub|Del|Ins|Err|S.Err|
+|---|---|---|---|---|---|---|---|---|
+2026-03-16T17:57:53 (asr.sh:1842:main) Successfully finished. [elapsed=1316s]
+Done. Check exp/train_asr_jepa_10min_eng1_10min/ and decode logs for CER.
+[run_ml_superb_jepa] Done. Check /Data/janis.aiad/snlp/models/espnet/egs2/ml_superb/asr1/exp/ for RESULTS.md

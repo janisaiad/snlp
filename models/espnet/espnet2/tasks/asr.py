@@ -58,7 +58,9 @@ from espnet2.asr.frontend.default import DefaultFrontend
 from espnet2.asr.frontend.espnet_ssl import ESPnetSSLFrontend
 from espnet2.asr.frontend.fused import FusedFrontends
 from espnet2.asr.frontend.huggingface import HuggingFaceFrontend
+from espnet2.asr.frontend.jepa import JEPAFrontend
 from espnet2.asr.frontend.s3prl import S3prlFrontend
+from espnet2.asr.frontend.wavjepa import WavJEPAFrontend
 from espnet2.asr.frontend.whisper import WhisperFrontend
 from espnet2.asr.frontend.windowing import SlidingWindow
 from espnet2.asr.maskctc_model import MaskCTCModel
@@ -99,6 +101,8 @@ frontend_choices = ClassChoices(
         default=DefaultFrontend,
         sliding_window=SlidingWindow,
         s3prl=S3prlFrontend,
+        jepa=JEPAFrontend,
+        wavjepa=WavJEPAFrontend,
         espnet_ssl=ESPnetSSLFrontend,
         fused=FusedFrontends,
         whisper=WhisperFrontend,
