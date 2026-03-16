@@ -38,7 +38,11 @@ mkdir -p "${SAVE_DIR}"
 (
   cd "${WAVJEPA_DIR}"
   export HYDRA_FULL_ERROR=1
-  # use current venv so that wavjepa (editable) and deps are available
+  if [ -f "${WAVJEPA_DIR}/.venv/bin/activate" ]; then
+    set +u
+    . "${WAVJEPA_DIR}/.venv/bin/activate"
+    set -u
+  fi
   python train.py \
     data="${DATA}" \
     trainer.num_gpus="${NUM_GPUS}" \
