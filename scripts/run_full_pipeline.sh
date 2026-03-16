@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
-# One-liner pipeline: sync deps → download ML-SUPERB data → data prep → train all frontends → eval → summary.
-# For big GPU instances: run from repo root; data goes to data/ml_superb, results to exp/ and logs/.
+# Full pipeline: optional JEPA pretraining → download ML-SUPERB → data prep → train (eng1+fra1+deu1, 30ep) → eval → update report table.
+# Default: multi-lang (eng1, fra1, deu1) 10min, 30ep, then refs/rendu1.md table updated from RESULTS.md.
 #
 # Usage (from snlp repo root):
-#   ./scripts/run_full_pipeline.sh                    # full: download + 30ep train + eval
-#   ./scripts/run_full_pipeline.sh --debug             # quick: download + 1ep 2iters (sanity check)
-#   ./scripts/run_full_pipeline.sh --skip-download     # use existing data (e.g. data/ml_superb already there)
-#   ./scripts/run_full_pipeline.sh --skip-data         # skip data prep (data already prepared)
-#   ./scripts/run_full_pipeline.sh --no-sync           # skip uv sync (faster reruns)
+#   ./scripts/run_full_pipeline.sh                         # full: download + eng1/fra1/deu1 30ep + report update
+#   ./scripts/run_full_pipeline.sh --pretrain-gpus 10       # + WavJEPA pretraining (e.g. overnight) then ASR
+#   ./scripts/run_full_pipeline.sh --debug                  # quick: eng1 only, 1ep 2iters
+#   ./scripts/run_full_pipeline.sh --skip-download           # use existing data
+#   ./scripts/run_full_pipeline.sh --skip-data --no-sync    # skip data prep and uv sync
 #
-# Prerequisites: uv, bash, unzip; Hugging Face token if dataset is gated (login: huggingface-cli login).
+# Prerequisites: uv, bash, unzip; for pretraining: AudioSet (or --pretrain-data librispeech) in third_party/wavjepa configs.
 set -e
 set -u
 set -o pipefail
@@ -23,19 +23,25 @@ SKIP_DOWNLOAD=false
 SKIP_DATA=false
 DO_SYNC=true
 MODE=full
+PRETRAIN_GPUS=0
+PRETRAIN_DATA=audioset
+PRETRAIN_SAVE_DIR="${REPO_ROOT}/logs/wavjepa_pretrain"
 
 while [ $# -gt 0 ]; do
   case "$1" in
-    --skip-download) SKIP_DOWNLOAD=true; shift ;;
-    --skip-data)     SKIP_DATA=true; shift ;;
-    --debug)         MODE=debug; shift ;;
-    --no-sync)       DO_SYNC=false; shift ;;
+    --skip-download)   SKIP_DOWNLOAD=true; shift ;;
+    --skip-data)       SKIP_DATA=true; shift ;;
+    --debug)           MODE=debug; shift ;;
+    --no-sync)         DO_SYNC=false; shift ;;
+    --pretrain-gpus)   PRETRAIN_GPUS="$2"; shift 2 ;;
+    --pretrain-data)   PRETRAIN_DATA="$2"; shift 2 ;;
+    --pretrain-save-dir) PRETRAIN_SAVE_DIR="$2"; shift 2 ;;
     *) echo "Unknown option: $1" >&2; exit 1 ;;
   esac
 done
 
 echo "[run_full_pipeline] REPO_ROOT=${REPO_ROOT}"
-echo "[run_full_pipeline] MODE=${MODE} SKIP_DOWNLOAD=${SKIP_DOWNLOAD} SKIP_DATA=${SKIP_DATA} DO_SYNC=${DO_SYNC}"
+echo "[run_full_pipeline] MODE=${MODE} SKIP_DOWNLOAD=${SKIP_DOWNLOAD} SKIP_DATA=${SKIP_DATA} DO_SYNC=${DO_SYNC} PRETRAIN_GPUS=${PRETRAIN_GPUS}"
 
 # 1) Sync dependencies (unless --no-sync)
 if "${DO_SYNC}"; then
@@ -73,12 +79,48 @@ fi
 # 3) Export so recipe and run_research_full see it
 export MLSUPERB="${DATA_ROOT}"
 
-# 4) Run full research pipeline (data prep + train + eval)
+# 3b) Optional: WavJEPA SSL pretraining (run first so it can run overnight)
+if [ "${PRETRAIN_GPUS}" -gt 0 ]; then
+  echo "[run_full_pipeline] Step: WavJEPA pretraining (${PRETRAIN_GPUS} GPUs, data=${PRETRAIN_DATA})..."
+  if [ ! -d "${REPO_ROOT}/third_party/wavjepa" ] || [ ! -f "${REPO_ROOT}/third_party/wavjepa/train.py" ]; then
+    "${REPO_ROOT}/scripts/setup_wavjepa.sh" || { echo "[run_full_pipeline] WavJEPA setup failed." >&2; exit 1; }
+  fi
+  [ -f "${REPO_ROOT}/third_party/wavjepa/requirements.txt" ] && (cd "${REPO_ROOT}" && uv pip install -r third_party/wavjepa/requirements.txt 2>/dev/null || true)
+  "${REPO_ROOT}/scripts/run_wavjepa_pretrain.sh" --num-gpus "${PRETRAIN_GPUS}" --data "${PRETRAIN_DATA}" --save-dir "${PRETRAIN_SAVE_DIR}" || { echo "[run_full_pipeline] Pretraining failed." >&2; exit 1; }
+  echo "[run_full_pipeline] Pretraining done. Checkpoints: ${PRETRAIN_SAVE_DIR}"
+fi
+
+# 4) Default: multi-lang (eng1, fra1, deu1) 10min for full run; eng1 only for debug. Auto-detect available langs from data.
+if [ "${MODE}" = "debug" ]; then
+  export MLSUPERB_LANGS="${MLSUPERB_LANGS:-eng1}"
+else
+  if [ -z "${MLSUPERB_LANGS:-}" ]; then
+    _have=""
+    [ -d "${DATA_ROOT}/mls/eng" ] && _have="${_have} eng1"
+    [ -d "${DATA_ROOT}/voxforge/fra" ] && _have="${_have} fra1"
+    [ -d "${DATA_ROOT}/swc/deu" ] && _have="${_have} deu1"
+    _have="${_have# }"
+    export MLSUPERB_LANGS="${_have:-eng1}"
+    echo "[run_full_pipeline] Auto-detected languages from data: ${MLSUPERB_LANGS}"
+  else
+    export MLSUPERB_LANGS="${MLSUPERB_LANGS}"
+  fi
+fi
+export MLSUPERB_DURATIONS="${MLSUPERB_DURATIONS:-10min}"
+echo "[run_full_pipeline] LANGS=${MLSUPERB_LANGS} DURATIONS=${MLSUPERB_DURATIONS}"
+
+# 5) Run full research pipeline (data prep + train + eval)
 _args=("--no-sync")
 "${SKIP_DATA}" && _args+=(--skip-data)
 [ "${MODE}" = "debug" ] && _args+=(--debug)
 
 echo "[run_full_pipeline] Running research pipeline: ${REPO_ROOT}/scripts/run_research_full.sh ${_args[*]}"
 "${REPO_ROOT}/scripts/run_research_full.sh" "${_args[@]}"
+
+# 6) Update report table in refs/rendu1.md from RESULTS.md
+if [ -f "${REPO_ROOT}/scripts/update_report_from_results.py" ]; then
+  echo "[run_full_pipeline] Updating report table (refs/rendu1.md)..."
+  (cd "${REPO_ROOT}" && uv run python scripts/update_report_from_results.py) || true
+fi
 
 echo "[run_full_pipeline] Done. Results: ${RECIPE_DIR}/exp/*/RESULTS.md, summary: ${LOG_DIR}/research_results_*.txt"

@@ -1,0 +1,45 @@
+Research run: 2026-03-16T23:26:13+01:00
+MODE=debug SKIP_DATA=false
+
+--- CER/WER (test_10min_eng1) from RESULTS.md ---
+## asr_train_asr_jepa_10min_eng1_10min
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|29|55.2|0.0|0.0|0.0|44.83|0.0|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|29|55.2|0.0|0.0|0.0|44.83|0.0|
+
+--
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|45|37.8|0.0|0.0|0.0|62.22|0.0|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|45|37.8|0.0|0.0|0.0|62.22|0.0|
+
+## asr_train_asr_s3prl_10min_eng1_10min
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|29|75.9|0.0|0.0|0.0|24.14|0.0|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|29|75.9|0.0|0.0|0.0|24.14|0.0|
+
+--
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|45|66.7|0.0|0.0|0.0|33.33|0.0|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|45|66.7|0.0|0.0|0.0|33.33|0.0|
+
+## asr_train_asr_s3prl_1h_eng1_1h
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|29|75.9|0.0|0.0|0.0|24.14|0.0|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|29|75.9|0.0|0.0|0.0|24.14|0.0|
+
+--
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|45|66.7|0.0|0.0|0.0|33.33|0.0|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|45|66.7|0.0|0.0|0.0|33.33|0.0|
+
+## asr_train_asr_wavjepa_10min_eng1_10min
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|29|75.9|0.0|0.0|0.0|24.14|0.0|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|29|75.9|0.0|0.0|0.0|24.14|0.0|
+
+--
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|45|62.2|0.0|0.0|0.0|37.78|0.0|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|45|62.2|0.0|0.0|0.0|37.78|0.0|
+
+## asr_train_asr_wavjepa_5ep_eng1_10min
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|29|75.9|0.0|0.0|0.0|24.14|0.0|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|29|75.9|0.0|0.0|0.0|24.14|0.0|
+
+--
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|45|66.7|0.0|0.0|0.0|33.33|0.0|
+|decode_asr_asr_model_valid.loss.ave/test_10min_eng1|1|45|66.7|0.0|0.0|0.0|33.33|0.0|
+
+--- End ---

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# One script in root: setup env (uv, venv, deps) then download ML-SUPERB data and run full training + eval (30 ep).
+# One script in root: setup env then full pipeline (download → eng1+fra1+deu1 10min → 30ep train → eval → update refs/rendu1.md).
 # Run from repo root: ./launch.sh
-# Optional: ./launch.sh --debug   for quick 1-ep sanity check; ./launch.sh --skip-download   if data already at data/ml_superb.
+# Optional: ./launch.sh --pretrain-gpus 10   to run WavJEPA pretraining first (e.g. overnight); ./launch.sh --debug   for 1-ep check; ./launch.sh --skip-download   if data exists.
 set -e
 set -u
 set -o pipefail
@@ -37,8 +37,8 @@ if [ -f "${REPO_ROOT}/tests/test_env.py" ]; then
   uv run pytest tests/test_env.py -q || true
 fi
 
-# 4) Run full pipeline: download data (if needed) + data prep + 30ep train + eval
-echo "[launch] Running full pipeline (download + data prep + 30ep train + eval)..."
+# 4) Run full pipeline: (optional pretrain) + download + data prep + eng1/fra1/deu1 30ep train + eval + update report table
+echo "[launch] Running full pipeline (multi-lang 30ep + report update; pass --pretrain-gpus N for JEPA pretraining)..."
 "${REPO_ROOT}/scripts/run_full_pipeline.sh" --no-sync "$@"
 
 echo "[launch] Done. Results: ${REPO_ROOT}/models/espnet/egs2/ml_superb/asr1/exp/*/RESULTS.md and ${REPO_ROOT}/logs/research_results_*.txt"
