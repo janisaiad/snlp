@@ -1,5 +1,7 @@
 # ML-SUPERB minimal run report
 
+> For the **full project** narrative, briefs (`idea.md`, `rendu1.md`), and LaTeX, see [`PROJECT_EXHAUSTIVE_RECAP.md`](PROJECT_EXHAUSTIVE_RECAP.md) and [`report.tex`](report.tex). This file is a **minimal** resource-usage smoke test.
+
 ## Run setup
 
 - **Recipe:** `models/espnet/egs2/ml_superb/asr1`

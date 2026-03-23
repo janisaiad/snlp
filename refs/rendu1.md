@@ -1,5 +1,7 @@
 Project Context
 
+> **Consolidated traceability:** See [`PROJECT_EXHAUSTIVE_RECAP.md`](PROJECT_EXHAUSTIVE_RECAP.md) for how this brief maps to the repository, [`idea.md`](idea.md), and canonical result tables.
+
 This project is based on ML-SUPERB (Shi et al., 2023), which benchmarks frozen SSL represen-
 tations for multilingual ASR and LID under low-resource conditions (10 min / 1 h). Our group
 

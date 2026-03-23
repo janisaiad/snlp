@@ -11,6 +11,7 @@ stop_stage=13
 nj=32
 inference_nj=4
 gpu_inference=true
+ngpu=1
 
 # Config
 duration=10min # duration set ("10min" or "1h")
@@ -41,13 +42,15 @@ train_dev=dev_${duration}${suffix}
 test_set="${train_dev} test_${duration}${suffix}"
 
 nlsyms_txt=data/local/nlsyms.txt
-asr_tag="$(basename "${asr_config}" .yaml)_multilingual_${duration}"
+# we keep separate exp dirs and stats per track so plain ASR / LID / ASR+LID do not clobber each other
+asr_tag="$(basename "${asr_config}" .yaml)_multilingual_${duration}${suffix}"
+asr_stats_dir="exp/asr_stats_multilingual_${duration}${suffix}"
 
 local_data_opts="--duration ${duration} --lid ${lid} --only_lid ${only_lid}"
 local_data_opts+=" --multilingual true --nlsyms_txt ${nlsyms_txt}"
 
 ./asr.sh \
-    --ngpu 1 \
+    --ngpu "${ngpu}" \
     --stage ${stage} \
     --stop_stage ${stop_stage} \
     --nj ${nj} \
@@ -67,5 +70,5 @@ local_data_opts+=" --multilingual true --nlsyms_txt ${nlsyms_txt}"
     --valid_set "${train_dev}" \
     --test_sets "${test_set}" \
     --asr_tag "${asr_tag}" \
-    --asr_stats_dir exp/asr_stats_multilingual_${duration} \
+    --asr_stats_dir "${asr_stats_dir}" \
     --local_score_opts "${lid} ${only_lid} normal"

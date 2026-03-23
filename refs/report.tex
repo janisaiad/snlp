@@ -1,0 +1,149 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{enumitem}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue!60!black,
+    urlcolor=blue!60!black,
+    citecolor=blue!60!black
+}
+
+\title{ML-SUPERB Reproduction and Extensions\\
+\large Consolidated Project Report (ASR, Multilingual, JEPA/WavJEPA)}
+\author{Janis track --- Speech SSL / ASR}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+This report recapitulates work completed on the ML-SUPERB benchmark in ESPnet: monolingual low-resource ASR with frozen SSL encoders (HuBERT, JEPA minimal, WavJEPA), engineering extensions (local WavJEPA checkpoints, automation, ABX tooling), and a sequential multilingual pipeline (ASR-only, LID-only, ASR+LID, LoRA) under partial corpus availability. Numbers are reported with explicit scope (language split and data completeness).
+\end{abstract}
+
+\section{Project objective}
+The baseline follows ML-SUPERB: freeze a pretrained SSL speech encoder and train a lightweight CTC ASR head for low-resource budgets (10 minutes and 1 hour of supervised data per language). The extension compares JEPA-style frontends to HuBERT on the same recipe and adds multilingual tracks aligned with ML-SUPERB's multilingual setup where data are available.
+
+\section{Monolingual benchmark (eng1, frozen SSL)}
+Primary slice: \texttt{test\_10min\_eng1}. All values below are test CER/WER from ESPnet \texttt{RESULTS.md}.
+
+\begin{center}
+\begin{tabular}{>{\raggedright\arraybackslash}p{0.42\linewidth}cc}
+\toprule
+\textbf{Frontend} & \textbf{CER (\%)} & \textbf{WER (\%)} \\
+\midrule
+HuBERT (frozen, S3PRL) & 33.33 & 24.14 \\
+JEPA minimal & 62.22 & 44.83 \\
+WavJEPA (Hugging Face pretrained) & 33.33 & 24.14 \\
+WavJEPA (local pretrain checkpoint) & 33.33 & 24.14 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\paragraph{Interpretation.}
+HuBERT and WavJEPA (HF/local) tie on this slice; JEPA minimal is much weaker, showing that strong pretraining dominates in this protocol. The local WavJEPA checkpoint matched HF WavJEPA but did not improve over it here.
+
+\section{Multilingual pipeline (partial data, HuBERT)}
+\subsection{Data scope}
+Multilingual experiments use \texttt{run\_multi.sh} with S3PRL HuBERT. On the development machine, only a \emph{partial} MLSUPERB tree was available (e.g.\ mls, swc, voxforge), yielding about \textbf{three languages} (eng, deu, fra) rather than the full 143-language paper configuration. \textbf{Results are conditional on this data layout.}
+
+\subsection{Recipe and engineering fixes}
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Non-overlapping experiment directories:} \texttt{run\_multi.sh} sets \texttt{asr\_tag} and \texttt{asr\_stats\_dir} with suffixes \texttt{\_only\_lid} / \texttt{\_lid} / plain so tracks do not overwrite each other.
+    \item \textbf{Robust data prep:} \texttt{local/data\_prep.py} skips missing top-level corpus folders with warnings.
+    \item \textbf{LoRA configs:} \texttt{train\_asr\_s3prl\_lora\_10min.yaml}, \texttt{train\_asr\_s3prl\_lora\_1h.yaml} (HuBERT large + LoRA on selected projections).
+    \item \textbf{Orchestration:} \texttt{scripts/run\_ml\_superb\_multilingual\_peft\_queue.sh} (full sequential queue) and \texttt{scripts/run\_ml\_superb\_multilingual\_peft\_resume.sh} (resume; skips steps with existing \texttt{exp/asr\_\$\{asr\_tag\}/RESULTS.md}).
+\end{itemize}
+
+\subsection{Multilingual ASR metrics (completed runs)}
+Test sets \texttt{test\_10min} and \texttt{test\_1h} under the multilingual HuBERT ASR-only models:
+
+\begin{center}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Setting} & \textbf{CER (\%)} & \textbf{WER (\%)} \\
+\midrule
+Multilingual ASR, 10 min & 24.96 & 23.48 \\
+Multilingual ASR, 1 h & 20.76 & 18.30 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection{LID-only and joint ASR+LID}
+\textbf{LID-only} training completed with \texttt{RESULTS.md} generated; standard ASR WER/CER tables are not meaningful for word-level scoring when the task is LID-only (reference word counts are zero in those rows). Use task-specific LID scores or decode logs for interpretation.
+
+\textbf{ASR+LID} (10 min, then 1 h) and \textbf{LoRA multilingual ASR} were scheduled after LID-only in the same queue; see \texttt{logs/ml\_superb\_multilingual\_peft/master.log} for \texttt{DONE} lines and the corresponding \texttt{exp/asr\_train\_*/RESULTS.md} files for final CER/WER when available.
+
+\subsection{Checkpoints}
+Each training run writes \texttt{epoch.pth}, \texttt{latest.pth}, \texttt{checkpoint.pth}, and \texttt{valid.loss.best.pth} under \texttt{exp/asr\_train\_*/}; ESPnet training uses \texttt{--resume true} when continuing after interruption.
+
+\section{Other engineering contributions}
+\begin{itemize}[leftmargin=*]
+    \item Local WavJEPA checkpoint loading in the ESPnet frontend (Lightning checkpoint path).
+    \item \texttt{scripts/collect\_asr\_results.py} to aggregate \texttt{RESULTS.md} into Markdown tables.
+    \item ABX extraction scripts for HuBERT, WavJEPA, and JEPA minimal (numeric ABX pipeline may still depend on environment tooling).
+    \item Long-run helpers: WavJEPA pretrain script, periodic checkpoints, background runners.
+\end{itemize}
+
+\section{Runtime and GPU usage (measured on this machine)}
+Host logs show \texttt{janis-gpuL4-48} with single-GPU ESPnet jobs (\texttt{--ngpu 1}), i.e.\ one NVIDIA L4-class device for these runs (confirm with \texttt{nvidia-smi}). \textbf{Wall time} of the training subprocess is recorded at the end of each \texttt{exp/\dots/train.log} as \texttt{elapsed time NNNN seconds}. The multilingual queue also logs full end-to-end step duration (stages 1--13) in \texttt{logs/ml\_superb\_multilingual\_peft/master.log} between \texttt{START} and \texttt{DONE}.
+
+\paragraph{Example (multilingual queue, wall clock from \texttt{master.log}).}
+ASR-only 10~min $\approx$ 6~h~07~min; ASR-only 1~h $\approx$ 11~h~38~min; LID-only 10~min $\approx$ 5~h~04~min; LID-only 1~h $\approx$ 11~h~30~min (UTC timestamps 2026-03-21--23 as in the log).
+
+\paragraph{Example (training-only, from \texttt{train.log}).}
+Multilingual ASR 10~min model: 21350~s ($\approx$ 5.9~h); 1~h model: 40408~s ($\approx$ 11.2~h); LID-only 10~min: 17744~s ($\approx$ 4.9~h); LID-only 1~h: 40206~s ($\approx$ 11.2~h).
+
+\noindent A full table with monolingual and matrix timings is in \texttt{refs/GPU\_RUNTIME\_TABLE.md}.
+
+\section{Alignment with project briefs (\texttt{rendu1.md}, \texttt{idea.md}, and related notes)}
+The repository keeps \textbf{narrative} and \textbf{specification} documents alongside code. This section states how the \textbf{implemented} work maps to those texts. An \textbf{exhaustive} cross-reference (tables, gaps, handoff to Vadim/Bruny) is in \texttt{refs/PROJECT\_EXHAUSTIVE\_RECAP.md}.
+
+\paragraph{\texttt{refs/rendu1.md} (group context and Janis checklist).}
+The brief describes a three-way collaboration: linguistic interpretability and cross-lingual analysis (Vadim), JEPA/ABX vs ASR (Janis), and paralinguistic/neural validation (Bruny). \textbf{Implemented here:} ESPnet ML-SUPERB pipeline, JEPA minimal and WavJEPA frontends, ABX helper scripts, multilingual tracks including LID-only and LoRA queue scripts. \textbf{Not in this repo:} automated layer-wise ``hard language'' classification (Vadim); SER and Brain Score (Bruny) --- those require separate analysis code and datasets.
+
+\paragraph{\texttt{refs/idea.md} (research directions and 2026 expectations).}
+The note argues for \textbf{frozen vs PEFT}, \textbf{multiple SSLs}, and optional \textbf{JEPA} on ML-SUPERB; it distinguishes \textbf{phonetic} (ABX, PER) from \textbf{lexical} (CER/WER) evaluation and discusses \textbf{fusion} of JEPA and waveform SSL features. \textbf{Implemented:} frozen SSL + CTC baselines; multilingual \textbf{LoRA} configs and queue (PEFT axis); JEPA/WavJEPA ASR numbers on \texttt{eng1}. \textbf{Open / partial:} two-stream \textbf{fusion} of JEP and HuBERT is not implemented; full \textbf{ABX vs ASR layer-wise} comparison is left to tooling and Poli-style fastabx workflows; \textbf{MMS} and \textbf{SpidR-Adapt} are cited as related work only, not as extra rows in the current tables.
+
+\paragraph{\texttt{refs/paper.md} and ML-SUPERB (2023).}
+The pasted paper defines 143 languages and four multilingual scenarios. Our multilingual runs use a \textbf{subset} of corpora; numbers are \textbf{not} a full replication of the paper's aggregate leaderboard without the complete \texttt{MLSUPERB} tree.
+
+\paragraph{\texttt{refs/RESEARCH\_PLAN.md} and \texttt{refs/EXTENSIONS\_ROADMAP.md}.}
+These files map optional stages (WavJEPA pretraining on AudioSet, extension phases). Pretraining remains \textbf{optional}; the roadmap's ``everything'' grid is documented as a multi-week program, not a single run.
+
+\paragraph{Canonical numbers vs draft tables.}
+If a figure in \texttt{rendu1.md} disagrees with \texttt{refs/ASR\_RESULTS\_TABLE.md}, prefer the latter plus fresh \texttt{exp/\dots/RESULTS.md} exports.
+
+\section{Artifacts and paths}
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Exhaustive recap (briefs $\leftrightarrow$ code):} \texttt{refs/PROJECT\_EXHAUSTIVE\_RECAP.md}
+    \item Monolingual table: \texttt{refs/ASR\_RESULTS\_TABLE.md}
+    \item Multilingual recap: \texttt{refs/MULTILINGUAL\_RECAP.md}
+    \item GPU/wall-clock timings: \texttt{refs/GPU\_RUNTIME\_TABLE.md}
+    \item Queue usage: \texttt{refs/MULTILINGUAL\_PEFT\_QUEUE.md}
+    \item Short talk summary: \texttt{refs/PRESENTATION\_SUMMARY.md}
+    \item Research plan / extensions: \texttt{refs/RESEARCH\_PLAN.md}, \texttt{refs/EXTENSIONS\_ROADMAP.md}
+    \item Narrative briefs: \texttt{refs/idea.md}, \texttt{refs/rendu1.md}
+    \item ESPnet recipe: \texttt{models/espnet/egs2/ml\_superb/asr1/}
+\end{itemize}
+
+\section{Remaining work (scientific closure)}
+\begin{enumerate}[leftmargin=*]
+    \item Finalize \textbf{ASR+LID} and \textbf{LoRA} multilingual rows in tables once \texttt{RESULTS.md} exists; rerun \texttt{collect\_asr\_results.py} after the queue finishes.
+    \item Optionally expand \texttt{MLSUPERB} to the full corpus for paper-comparable multilingual numbers.
+    \item Close ABX numeric evaluation if required for the study, subject to toolchain constraints.
+    \item Optional long-horizon WavJEPA pretraining and downstream re-evaluation.
+\end{enumerate}
+
+\section{Takeaway}
+The monolingual benchmark is stable and documented. Multilingual HuBERT ASR (partial data) shows improved CER/WER versus the single-language \texttt{eng1} 10 min slice in the reported multilingual test setup, with the caveat of different language composition and data completeness. The full multilingual+LID+LoRA study is implemented in software; final joint and LoRA metrics should be read from completed \texttt{RESULTS.md} files when the queue finishes.
+
+\end{document}

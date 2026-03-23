@@ -8,6 +8,7 @@ tach.lock
 .pytest_cache/
 # Story files
 .specstory/
+.vscode/
 # Python bytecode
 pycache/
 # Python package directories
@@ -58,3 +59,9 @@ models/espnet/egs2/ml_superb/asr1/conf/tuning/train_asr_wavjepa_local_ckpt_10min
 *.wav
 data/data/ml_superb/eighth_version.zip
 data/ml_superb/eighth_version.zip
+
+# local run logs and tensorboard (large; never commit)
+logs/
+
+# vendor clone (run ./scripts/setup_wavjepa.sh); do not submodule-commit 5GB+ tree
+third_party/wavjepa/

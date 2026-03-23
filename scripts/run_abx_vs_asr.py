@@ -31,10 +31,10 @@ def get_asr_cer_from_results(results_path: str) -> float | None:
             in_cer = True
             continue
         if in_cer and line.startswith("|") and "decode" in line:
-            parts = [p.strip() for p in line.split("|") if p.strip()]
-            if len(parts) >= 8:
+            parts = [p.strip() for p in line.split("|")]
+            if len(parts) >= 10:
                 try:
-                    return float(parts[7])
+                    return float(parts[8])
                 except ValueError:
                     pass
             break
