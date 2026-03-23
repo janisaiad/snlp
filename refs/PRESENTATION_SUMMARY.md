@@ -78,6 +78,7 @@ At last consolidated update: **multilingual ASR-only** (10 min, 1 h) and **LID-o
 - PDF-ready report: `refs/report.tex` (includes alignment comments with briefs)
 - Progress/history: `refs/PROJECT_STATUS.md`, `refs/REPRODUCTION_REPORT.md`
 - Queue how-to: `refs/MULTILINGUAL_PEFT_QUEUE.md`
+- **Push to GitHub / auth 403 fix:** `refs/GIT_PUSH_AND_HANDOFF.md`
 - Scripts: `scripts/collect_asr_results.py`, `scripts/run_ml_superb_multilingual_peft_queue.sh`, `scripts/run_ml_superb_multilingual_peft_resume.sh`, `scripts/run_wavjepa_pretrain.sh`
 
 ## 10) One-Slide Conclusion
