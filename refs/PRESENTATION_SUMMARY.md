@@ -71,6 +71,7 @@ At last consolidated update: **multilingual ASR-only** (10 min, 1 h) and **LID-o
 
 ## 9) Reproducibility Artifacts
 
+- **All numbers + paths + remaining work (read this first):** `refs/ALL_RESULTS_AND_PATHS.md`
 - **Exhaustive recap** (maps `idea.md`, `rendu1.md`, roles Vadim/Janis/Bruny → code): `refs/PROJECT_EXHAUSTIVE_RECAP.md`
 - Main tables: `refs/ASR_RESULTS_TABLE.md`
 - Multilingual recap: `refs/MULTILINGUAL_RECAP.md`

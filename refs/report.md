@@ -1,6 +1,6 @@
 # ML-SUPERB minimal run report
 
-> For the **full project** narrative, briefs (`idea.md`, `rendu1.md`), and LaTeX, see [`PROJECT_EXHAUSTIVE_RECAP.md`](PROJECT_EXHAUSTIVE_RECAP.md) and [`report.tex`](report.tex). This file is a **minimal** resource-usage smoke test.
+> **Main results + paths + what is left:** [`ALL_RESULTS_AND_PATHS.md`](ALL_RESULTS_AND_PATHS.md). For briefs ↔ code, see [`PROJECT_EXHAUSTIVE_RECAP.md`](PROJECT_EXHAUSTIVE_RECAP.md); for PDF, [`report.tex`](report.tex). **This file** is only a **minimal** fbank smoke test (RAM), not the project scoreboard.
 
 ## Run setup
 
