@@ -12,6 +12,7 @@ import sys
 from pathlib import Path
 
 import numpy as np
+import torch
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
@@ -99,7 +100,17 @@ def main() -> int:
         "--recipe_dir",
         default=str(REPO_ROOT / "models/espnet/egs2/ml_superb/asr1"),
     )
-    parser.add_argument("--data_name", default="dev_10min_eng1")
+    parser.add_argument(
+        "--data_name",
+        default="dev_10min",
+        help="Split under recipe/data/ (dev_10min has enough utts for ABX; *_eng1 may be tiny).",
+    )
+    parser.add_argument(
+        "--device",
+        default="cuda" if torch.cuda.is_available() else "cpu",
+        choices=("cuda", "cpu"),
+        help="Feature extractor device (cpu avoids OOM when GPU is already full).",
+    )
     args = parser.parse_args()
     recipe = Path(args.recipe_dir).resolve()
     data_name = args.data_name
@@ -120,9 +131,6 @@ def main() -> int:
         ("scripts/abx/extract_wavjepa_hf_for_abx.py", wavjepa_dir),
         ("scripts/abx/extract_jepa_minimal_for_abx.py", jepa_dir),
     ):
-        extra = []
-        if "hubert" in script:
-            extra = ["--device", "cpu"]
         r = subprocess.run(
             [
                 py,
@@ -133,8 +141,9 @@ def main() -> int:
                 str(text_path),
                 "--out_dir",
                 str(odir),
-            ]
-            + extra,
+                "--device",
+                args.device,
+            ],
             cwd=str(REPO_ROOT),
         )
         if r.returncode != 0:

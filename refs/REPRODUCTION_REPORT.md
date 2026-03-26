@@ -19,7 +19,8 @@
 - Recipe tweaks: `run_multi.sh` (per-track `asr_tag` / stats); `local/data_prep.py` (skip missing corpora).
 - LoRA configs: `conf/tuning/train_asr_s3prl_lora_{10min,1h}.yaml`.
 - **Completed** with standard `RESULTS.md` for multilingual **ASR-only** (10 min, 1 h) and **LID-only** (10 min, 1 h). Metrics for ASR-only: see `refs/ASR_RESULTS_TABLE.md` section 2 and `refs/MULTILINGUAL_RECAP.md`.
-- **ASR+LID** and **LoRA**: check `logs/ml_superb_multilingual_peft/master.log` and `exp/asr_train_*/RESULTS.md` for completion.
+- **ASR+LID**: 10 min run completed (`exp/asr_train_asr_s3prl_10min_multilingual_10min_lid/RESULTS.md`), 1 h currently running in resume queue.
+- **LoRA**: pending; will run after ASR+LID 1 h in the same queue, then `collect_asr_results.py`.
 
 ## ABX
 

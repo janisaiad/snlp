@@ -65,3 +65,4 @@ logs/
 
 # vendor clone (run ./scripts/setup_wavjepa.sh); do not submodule-commit 5GB+ tree
 third_party/wavjepa/
+exports/layer_importance_package.tar

@@ -80,7 +80,13 @@ Multilingual ASR, 1 h & 20.76 & 18.30 \\
 \subsection{LID-only and joint ASR+LID}
 \textbf{LID-only} training completed with \texttt{RESULTS.md} generated; standard ASR WER/CER tables are not meaningful for word-level scoring when the task is LID-only (reference word counts are zero in those rows). Use task-specific LID scores or decode logs for interpretation.
 
-\textbf{ASR+LID} (10 min, then 1 h) and \textbf{LoRA multilingual ASR} were scheduled after LID-only in the same queue; see \texttt{logs/ml\_superb\_multilingual\_peft/master.log} for \texttt{DONE} lines and the corresponding \texttt{exp/asr\_train\_*/RESULTS.md} files for final CER/WER when available.
+\textbf{ASR+LID 10 min} completed in the resume queue, with final test metrics from
+\texttt{exp/asr\_train\_asr\_s3prl\_10min\_multilingual\_10min\_lid/RESULTS.md}:
+CER $=26.33\%$, WER $=25.49\%$ (test set \texttt{test\_10min\_lid}).
+
+\textbf{ASR+LID 1 h} is running in the same queue
+(\texttt{exp/asr\_train\_asr\_s3prl\_1h\_multilingual\_1h\_lid/}).
+\textbf{LoRA multilingual ASR} (10 min then 1 h) is queued after ASR+LID 1 h.
 
 \subsection{Checkpoints}
 Each training run writes \texttt{epoch.pth}, \texttt{latest.pth}, \texttt{checkpoint.pth}, and \texttt{valid.loss.best.pth} under \texttt{exp/asr\_train\_*/}; ESPnet training uses \texttt{--resume true} when continuing after interruption.
@@ -138,13 +144,13 @@ If a figure in \texttt{rendu1.md} disagrees with \texttt{refs/ASR\_RESULTS\_TABL
 
 \section{Remaining work (scientific closure)}
 \begin{enumerate}[leftmargin=*]
-    \item Finalize \textbf{ASR+LID} and \textbf{LoRA} multilingual rows in tables once \texttt{RESULTS.md} exists; rerun \texttt{collect\_asr\_results.py} after the queue finishes.
+    \item Finalize \textbf{ASR+LID 1 h} and \textbf{LoRA} multilingual rows in tables once their \texttt{RESULTS.md} files are generated; rerun \texttt{collect\_asr\_results.py} after the queue finishes.
     \item Optionally expand \texttt{MLSUPERB} to the full corpus for paper-comparable multilingual numbers.
     \item Close ABX numeric evaluation if required for the study, subject to toolchain constraints.
     \item Optional long-horizon WavJEPA pretraining and downstream re-evaluation.
 \end{enumerate}
 
 \section{Takeaway}
-The monolingual benchmark is stable and documented. Multilingual HuBERT ASR (partial data) shows improved CER/WER versus the single-language \texttt{eng1} 10 min slice in the reported multilingual test setup, with the caveat of different language composition and data completeness. The full multilingual+LID+LoRA study is implemented in software; final joint and LoRA metrics should be read from completed \texttt{RESULTS.md} files when the queue finishes.
+The monolingual benchmark is stable and documented. Multilingual HuBERT ASR (partial data) shows improved CER/WER versus the single-language \texttt{eng1} 10 min slice in the reported multilingual test setup, with the caveat of different language composition and data completeness. In the joint track, \textbf{ASR+LID 10 min is now completed} (CER $26.33\%$, WER $25.49\%$ on \texttt{test\_10min\_lid}); ASR+LID 1 h and LoRA runs remain the final pending steps in the active queue.
 
 \end{document}

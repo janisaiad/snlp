@@ -28,9 +28,9 @@ Completed and logged with **DONE**:
 
 Started (check `master.log` for **DONE**):
 
-3. **ASR + LID** — 10 min (then 1 h)  
-4. **LoRA multilingual** — 10 min, 1 h  
-5. **`uv run python scripts/collect_asr_results.py`** — runs once at the **end** of the queue script.
+3. **ASR + LID** — 10 min (**DONE**), 1 h (**RUNNING**)  
+4. **LoRA multilingual** — 10 min, 1 h (**pending**)  
+5. **`uv run python scripts/collect_asr_results.py`** — runs once at the **end** of the queue script (**pending**).
 
 ## Published metrics (multilingual ASR, test sets)
 
@@ -43,7 +43,13 @@ From `exp/asr_train_asr_s3prl_*_multilingual_*/RESULTS.md` (ESPnet `show_asr_res
 
 **LID-only** runs produce `RESULTS.md` with **no word-level ASR reference** in the standard table (word count 0); interpret LID using task-specific scores / decode logs, not WER/CER from that file.
 
-**ASR+LID** and **LoRA** rows should be added here once `RESULTS.md` exists under:
+**ASR+LID 10 min** result is now available:
+
+| Setting | Duration | Test CER (%) | Test WER (%) |
+|---------|----------|--------------|--------------|
+| Multilingual ASR+LID (HuBERT frozen, S3PRL) | 10 min | 26.33 | 25.49 |
+
+**Pending rows** should be added once `RESULTS.md` exists under:
 
 - `exp/asr_train_asr_s3prl_10min_multilingual_10min_lid/`
 - `exp/asr_train_asr_s3prl_1h_multilingual_1h_lid/`

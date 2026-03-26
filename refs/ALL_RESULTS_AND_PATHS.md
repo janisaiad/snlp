@@ -64,12 +64,12 @@ Runs finished with **`RESULTS.md`**, but ESPnet’s ASR **WER/CER rows show 0 wo
 
 Use **LID accuracy / decode logs** for LID metrics if needed.
 
-### 2c) ASR + LID (joint) — **not finished**
+### 2c) ASR + LID (joint)
 
-| Duration | `RESULTS.md` | Exp directory | Notes |
-|----------|--------------|---------------|--------|
-| 10 min | **pending** | `asr_train_asr_s3prl_10min_multilingual_10min_lid` | Training was **stopped by user**; **checkpoints kept** under this folder |
-| 1 h | **pending** | `asr_train_asr_s3prl_1h_multilingual_1h_lid` | Not started |
+| Duration | Test CER | Test WER | `RESULTS.md` | Exp directory | Notes |
+|----------|----------|----------|--------------|---------------|--------|
+| 10 min | 26.33% | 25.49% | DONE | `asr_train_asr_s3prl_10min_multilingual_10min_lid` | Completed on resume queue |
+| 1 h | pending | pending | pending | `asr_train_asr_s3prl_1h_multilingual_1h_lid` | Running in resume queue |
 
 ### 2d) Multilingual LoRA (HuBERT large + LoRA) — **not finished**
 
@@ -106,15 +106,14 @@ Numbers are in each run’s **`RESULTS.md`** (not duplicated here line-by-line).
 
 - Master timeline: `logs/ml_superb_multilingual_peft/master.log`
 - Per-job logs: `logs/ml_superb_multilingual_peft/multi_*.log`
-- Last known line: **ASR+LID 10 min** was **START**’d; then **`STOPPED_BY_USER`** (checkpoints preserved).
+- Latest known timeline: **ASR+LID 10 min DONE**, then **ASR+LID 1 h START**.
 
 **Remaining order (after you rerun resume):**
 
-1. Finish **ASR+LID 10 min** (resume from `exp/.../asr_train_asr_s3prl_10min_multilingual_10min_lid/` checkpoints).
-2. **ASR+LID 1 h**
-3. **LoRA 10 min**
-4. **LoRA 1 h**
-5. `uv run python scripts/collect_asr_results.py` (end of script; output in `logs/ml_superb_multilingual_peft/collect.log` if run)
+1. Finish **ASR+LID 1 h**.
+2. **LoRA 10 min**
+3. **LoRA 1 h**
+4. `uv run python scripts/collect_asr_results.py` (end of script; output in `logs/ml_superb_multilingual_peft/collect.log` if run)
 
 ---
 
