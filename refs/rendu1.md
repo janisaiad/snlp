@@ -1,5 +1,7 @@
 Project Context
 
+> **Consolidated traceability:** See [`PROJECT_EXHAUSTIVE_RECAP.md`](PROJECT_EXHAUSTIVE_RECAP.md) for how this brief maps to the repository, [`idea.md`](idea.md), and canonical result tables.
+
 This project is based on ML-SUPERB (Shi et al., 2023), which benchmarks frozen SSL represen-
 tations for multilingual ASR and LID under low-resource conditions (10 min / 1 h). Our group
 
@@ -97,14 +99,18 @@ tivity and language models during speech processing. arXiv preprint arXiv:2512.0
 
 ### ASR results (eng1, 10 min, test set)
 
-Evaluation uses the same test split (1 utterance in current data; CER/WER are indicative).
+Evaluation uses the same test split; CER/WER are indicative.
 
-| Frontend        | Config                         | CER (test_10min_eng1) | WER (test_10min_eng1) | Note                    |
-|-----------------|---------------------------------|------------------------|------------------------|-------------------------|
-| HuBERT (frozen) | train_asr_s3prl_10min.yaml     | **33.33%**            | **24.14%**             | 30 ep; baseline         |
-| JEPA minimal    | train_asr_jepa_10min.yaml      | 62.22%                | 44.83%                 | 30 ep; no pretrain      |
-| WavJEPA (HF)    | train_asr_wavjepa_10min.yaml   | (run pending)         | (run pending)           | 30 ep in progress       |
-| WavJEPA 5ep     | train_asr_wavjepa_5ep.yaml     | (run pending)         | (run pending)           | 5 ep quick comparison   |
+
+#### test_10min_eng1
+
+| Frontend | Config | CER | WER | Note |
+|----------|--------|-----|-----|------|
+| JEPA minimal | train_asr_jepa_10min.yaml | 62.22% | 44.83% | 30 ep |
+| HuBERT (frozen) | train_asr_s3prl_10min.yaml | 33.33% | 24.14% | 30 ep |
+| HuBERT 1h | train_asr_s3prl_1h.yaml | 33.33% | 24.14% | 30 ep |
+| WavJEPA (HF) | train_asr_wavjepa_10min.yaml | 37.78% | 24.14% | 30 ep |
+| WavJEPA 5ep | train_asr_wavjepa_5ep.yaml | 33.33% | 24.14% | 5 ep |
 
 **Discussion:** HuBERT (pretrained) gives the best CER/WER. JEPA with a small untrained encoder is worse. WavJEPA-Nat (pretrained JEPA from Hugging Face) is expected to sit between the two once 30-ep training finishes; 5-ep and 30-ep runs can be compared to see convergence.
 

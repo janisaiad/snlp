@@ -98,6 +98,23 @@ We **clone the [WavJEPA](https://github.com/labhamlet/wavjepa) repo** and add it
 
 With **10× H100** you can increase batch size (e.g. `trainer.batch_size=64`) and/or run 375k steps; wall-clock will be shorter than the paper’s 2× H100 setup.
 
+### Full pipeline at scale (pretrain + ASR in one go)
+
+One script runs **optional WavJEPA pretraining** then the **ASR pipeline** (download ML-SUPERB, data prep, 30ep train, eval):
+
+```bash
+# ASR only (same as run_full_pipeline.sh)
+./scripts/run_full_pipeline_at_scale.sh
+
+# WavJEPA pretraining on 10 GPUs (AudioSet) then ASR
+./scripts/run_full_pipeline_at_scale.sh --pretrain-gpus 10 --pretrain-data audioset
+
+# Quick pretrain test (2 GPUs, LibriSpeech) then ASR with existing data
+./scripts/run_full_pipeline_at_scale.sh --pretrain-gpus 2 --pretrain-data librispeech --skip-download
+```
+
+Pretraining checkpoints go to `logs/wavjepa_pretrain/` (or `--pretrain-save-dir`). To **use your pretrained encoder in ASR**: the current WavJEPA frontend loads from HuggingFace only; loading from a local checkpoint would require adding a `checkpoint_path` (or similar) in `frontend_conf` and mapping the saved state dict to the encoder (WavJEPA’s training saves the full JEPA; you need the encoder subset). That is optional follow-up work.
+
 ---
 
 ## What the scripts do (full research run)

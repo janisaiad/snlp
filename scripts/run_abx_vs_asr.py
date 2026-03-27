@@ -31,10 +31,10 @@ def get_asr_cer_from_results(results_path: str) -> float | None:
             in_cer = True
             continue
         if in_cer and line.startswith("|") and "decode" in line:
-            parts = [p.strip() for p in line.split("|") if p.strip()]
-            if len(parts) >= 8:
+            parts = [p.strip() for p in line.split("|")]
+            if len(parts) >= 10:
                 try:
-                    return float(parts[7])
+                    return float(parts[8])
                 except ValueError:
                     pass
             break
@@ -44,11 +44,21 @@ def get_asr_cer_from_results(results_path: str) -> float | None:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--recipe_dir", default=None, help="Path to asr1 recipe")
-    parser.add_argument("--data_name", default="dev_10min_eng1", help="Data split name under recipe/data/")
+    parser.add_argument(
+        "--data_name",
+        default="dev_10min",
+        help="Data split under recipe/data/ (need many utts; dev_10min ~300).",
+    )
     parser.add_argument("--wav_scp", default=None)
     parser.add_argument("--text", default=None)
     parser.add_argument("--asr_results", default=None)
     parser.add_argument("--out_dir", default=None)
+    parser.add_argument(
+        "--device",
+        default="auto",
+        choices=("auto", "cuda", "cpu"),
+        help="HuBERT extract device (auto = cuda if available else cpu).",
+    )
     args = parser.parse_args()
 
     recipe = Path(args.recipe_dir or (REPO_ROOT / "models/espnet/egs2/ml_superb/asr1")).resolve()
@@ -75,10 +85,26 @@ def main() -> int:
             parts = line.strip().split(maxsplit=1)
             texts[parts[0]] = (parts[1].strip().upper() if len(parts) > 1 else "X")
 
-    # 2) Extract HuBERT features (subprocess)
+    import torch as _torch
+
     extract_script = REPO_ROOT / "scripts" / "abx" / "extract_hubert_for_abx.py"
+    if args.device == "auto":
+        hub_dev = "cuda" if _torch.cuda.is_available() else "cpu"
+    else:
+        hub_dev = args.device
     r = subprocess.run(
-        [sys.executable, str(extract_script), "--wav_scp", str(wav_scp), "--text", str(text_path), "--out_dir", str(feat_dir), "--device", "cpu"],
+        [
+            sys.executable,
+            str(extract_script),
+            "--wav_scp",
+            str(wav_scp),
+            "--text",
+            str(text_path),
+            "--out_dir",
+            str(feat_dir),
+            "--device",
+            hub_dev,
+        ],
         cwd=str(REPO_ROOT),
     )
     if r.returncode != 0:

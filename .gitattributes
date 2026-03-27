@@ -1,3 +1,4 @@
 # Git LFS: large model tarballs
 data/ml_superb/mls/eng/asr_eng1_10min_model.tar.gz filter=lfs diff=lfs merge=lfs -text
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
+transfer/layer_importance/*.part-* filter=lfs diff=lfs merge=lfs -text

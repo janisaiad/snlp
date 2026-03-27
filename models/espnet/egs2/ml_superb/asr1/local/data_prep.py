@@ -242,7 +242,13 @@ if __name__ == "__main__":
 
     # iterate through dataset
     for dataset in DATA:
-        langs = os.listdir(os.path.join(args.source, dataset))
+        dataset_root = os.path.join(args.source, dataset)
+        if not os.path.isdir(dataset_root):
+            logging.warning(
+                "Skipping missing dataset (partial MLSUPERB tree): %s", dataset_root
+            )
+            continue
+        langs = os.listdir(dataset_root)
         for lang in langs:
             reserve_flag = False
             if lang in RESERVE_LANG:

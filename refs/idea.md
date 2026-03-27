@@ -1,5 +1,7 @@
 # ML-SUPERB project: publishable directions and JEPA
 
+> **Implementation map:** [`PROJECT_EXHAUSTIVE_RECAP.md`](PROJECT_EXHAUSTIVE_RECAP.md) links this document to [`rendu1.md`](rendu1.md), scripts, and measured results. The PDF report [`report.tex`](report.tex) summarizes alignment in LaTeX.
+
 **Context:** Frozen SSL (HuBERT, wav2vec 2.0, etc.) + CTC for ASR with 10 min / 1 h in low-resource languages, following ML-SUPERB (Shi et al., 2023). Code: [espnet/egs2/ml_superb](https://github.com/espnet/espnet/tree/master/egs2/ml_superb).  
 **Supervisor:** Maxime Poli (maxime.poli@ens.psl.eu) — co-author of SpidR-Adapt (universal speech representation, few-shot adaptation; with Yann LeCun).
 

@@ -1,5 +1,7 @@
 # ML-SUPERB minimal run report
 
+> **Main results + paths + what is left:** [`ALL_RESULTS_AND_PATHS.md`](ALL_RESULTS_AND_PATHS.md). For briefs ↔ code, see [`PROJECT_EXHAUSTIVE_RECAP.md`](PROJECT_EXHAUSTIVE_RECAP.md); for PDF, [`report.tex`](report.tex). **This file** is only a **minimal** fbank smoke test (RAM), not the project scoreboard.
+
 ## Run setup
 
 - **Recipe:** `models/espnet/egs2/ml_superb/asr1`

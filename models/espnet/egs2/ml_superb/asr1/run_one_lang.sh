@@ -13,6 +13,7 @@ stop_stage=13
 nj=4
 inference_nj=2
 gpu_inference=false
+ngpu=1
 expdir=exp
 
 single_lang=eng1
@@ -42,7 +43,7 @@ _extra=()
 [ -n "${asr_args}" ] && _extra+=(--asr_args "${asr_args}")
 
 ./asr.sh \
-  --ngpu 1 \
+  --ngpu "${ngpu}" \
   --stage ${stage} \
   --stop_stage ${stop_stage} \
   --nj ${nj} \

@@ -8,6 +8,7 @@ tach.lock
 .pytest_cache/
 # Story files
 .specstory/
+.vscode/
 # Python bytecode
 pycache/
 # Python package directories
@@ -38,7 +39,13 @@ pip-wheel-metadata/
 
 
 data/*
+# generated ASR config with absolute checkpoint path
+models/espnet/egs2/ml_superb/asr1/conf/tuning/train_asr_wavjepa_local_ckpt_10min.yaml
 *.pt
+# PyTorch / Lightning / HF weight checkpoints (too large for git)
+*.pth
+*.ckpt
+*.safetensors
 *.gz
 *.npy
 *.npz
@@ -51,3 +58,11 @@ data/*
 !data/ml_superb/mls/eng/asr_eng1_10min_model.tar.gz
 *.wav
 data/data/ml_superb/eighth_version.zip
+data/ml_superb/eighth_version.zip
+
+# local run logs and tensorboard (large; never commit)
+logs/
+
+# vendor clone (run ./scripts/setup_wavjepa.sh); do not submodule-commit 5GB+ tree
+third_party/wavjepa/
+exports/layer_importance_package.tar

@@ -32,18 +32,15 @@ if command -v huggingface-cli &>/dev/null; then
       _elapsed=$((_end - _start))
       echo "Elapsed time: ${_elapsed} s ($((${_elapsed} / 60))m $((${_elapsed} % 60))s)"
     fi
-    # HF repo is just eighth_version.zip (30GB); recipe needs $MLSUPERB/mls/eng/ etc.
+    # HF repo is eighth_version.zip (~30GB); full 8th release contains mls/, voxforge/, swc/ (eng1, fra1, deu1).
     if [ -f "eighth_version.zip" ] && [ ! -d "mls" ]; then
-      echo "Extracting eighth_version.zip (this may take a few minutes)..."
+      echo "Extracting eighth_version.zip (this may take several minutes)..."
       unzip -o -q eighth_version.zip
-      # zip may extract to a top-level dir that contains mls/ (e.g. eighth_version/mls or just mls)
-      if [ -d "mls" ]; then
-        echo "Extract done. Data layout: mls/ present."
-      else
-        _sub=$(find . -maxdepth 1 -type d -name "eighth_version" 2>/dev/null | head -1)
-        [ -z "${_sub}" ] && _sub=$(find . -maxdepth 1 -type d ! -name "." 2>/dev/null | head -1)
-        if [ -n "${_sub}" ] && [ -d "${_sub}/mls" ]; then
-          echo "Moving ${_sub}/* into ${DATA_DIR} so mls/ is under MLSUPERB..."
+      _sub=$(find . -maxdepth 1 -type d -name "eighth_version" 2>/dev/null | head -1)
+      [ -z "${_sub}" ] && _sub=$(find . -maxdepth 1 -type d ! -name "." 2>/dev/null | head -1)
+      if [ -n "${_sub}" ]; then
+        if [ -d "${_sub}/mls" ] || [ -d "${_sub}/voxforge" ] || [ -d "${_sub}/swc" ]; then
+          echo "Moving ${_sub}/* into ${DATA_DIR} (mls, voxforge, swc for eng1/fra1/deu1)..."
           mv "${_sub}"/* . 2>/dev/null || true
           rmdir "${_sub}" 2>/dev/null || true
         fi
@@ -56,10 +53,14 @@ if command -v huggingface-cli &>/dev/null; then
       fi
     fi
     if [ -d "mls" ]; then
-      echo "Data ready. Run: ./scripts/run_ml_superb_baseline.sh"
+      _langs="eng1 (mls)"
+      [ -d "voxforge/fra" ] && _langs="${_langs}, fra1 (voxforge)"
+      [ -d "swc/deu" ] && _langs="${_langs}, deu1 (swc)"
+      echo "Data ready. Languages available: ${_langs}"
+      echo "Run: ./launch.sh or ./scripts/run_full_pipeline.sh"
       exit 0
     fi
-    echo "If mls/ is present above, run: ./scripts/run_ml_superb_baseline.sh"
+    echo "If mls/ is present above, run: ./launch.sh"
     exit 0
   fi
 fi

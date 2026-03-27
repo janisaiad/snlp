@@ -33,8 +33,13 @@ fi
 
 if "${DO_UV}"; then
   echo "[setup_wavjepa] Adding wavjepa as editable dependency (uv add -e)..."
-  (cd "${REPO_ROOT}" && uv add --editable "${WAVJEPA_DIR}")
-  echo "[setup_wavjepa] Install WavJEPA training deps: cd third_party/wavjepa && uv pip install -r requirements.txt (or use run_wavjepa_pretrain.sh which uses the snlp venv)"
+  if (cd "${REPO_ROOT}" && uv add --editable "${WAVJEPA_DIR}") 2>/dev/null; then
+    echo "[setup_wavjepa] wavjepa added to snlp venv."
+  else
+    echo "[setup_wavjepa] uv add failed (e.g. scipy/torch conflict). Using dedicated venv in third_party/wavjepa..."
+    (cd "${WAVJEPA_DIR}" && uv venv .venv && . .venv/bin/activate && uv pip install -r requirements.txt && uv pip install -e .)
+    echo "[setup_wavjepa] WavJEPA deps installed in ${WAVJEPA_DIR}/.venv. run_wavjepa_pretrain.sh will use it."
+  fi
 fi
 
 echo "[setup_wavjepa] Done. Pretrain with: ./scripts/run_wavjepa_pretrain.sh --num-gpus 10 --data audioset"

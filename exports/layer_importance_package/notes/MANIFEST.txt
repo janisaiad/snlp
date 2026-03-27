@@ -1,0 +1,14 @@
+Layer importance package (JEPA + HuBERT checkpoints)
+
+Included files:
+- models/hubert_deu1_10min_valid.loss.ave.pth | 1285395506 bytes
+- models/hubert_deu1_1h_valid.loss.ave.pth | 1285405746 bytes
+- models/hubert_eng1_10min_valid.loss.ave.pth | 1285375986 bytes
+- models/hubert_eng1_1h_valid.loss.ave.pth | 1285375986 bytes
+- models/hubert_fra1_10min_valid.loss.ave.pth | 1285406834 bytes
+- models/hubert_fra1_1h_valid.loss.ave.pth | 1285408882 bytes
+- models/jepa_eng1_10min_valid.loss.ave.pth | 19527441 bytes
+
+ABX files:
+- No ABX result files (*.abx, *.item, minimal_pairs outputs) were found in the workspace at packaging time.
+- Only ABX scripts are present under scripts/abx/.

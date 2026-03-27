@@ -11,6 +11,7 @@ stop_stage=13
 nj=32
 inference_nj=32
 gpu_inference=false
+ngpu=1
 expdir=exp
 
 # Model/Inference Configs
@@ -37,7 +38,7 @@ for duration in 10min 1h ; do
 	local_data_opts+="--single_lang ${single_lang}"
 
         ./asr.sh \
-            --ngpu 1 \
+            --ngpu "${ngpu}" \
 	    --stage ${stage} \
             --stop_stage ${stop_stage} \
 	    --nj ${nj} \
