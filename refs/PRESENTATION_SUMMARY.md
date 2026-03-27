@@ -19,7 +19,7 @@ The extension adds JEPA-based frontends and compares them to HuBERT.
 ## 3) Infrastructure and Pipeline Status
 
 - Data, recipe, and scoring pipeline run end-to-end.
-- Automated result collection: `scripts/collect_asr_results.py` (tables in `refs/ASR_RESULTS_TABLE.md`).
+- Automated **monolingual eng1** table: `scripts/collect_asr_results.py` → `refs/ASR_RESULTS_TABLE_eng1.md`. Full multilingual tables: `refs/ASR_RESULTS_TABLE.md`.
 - Multilingual recipe fixes: distinct `asr_tag` / stats dirs per track in `run_multi.sh`; partial `MLSUPERB` tree handled in `local/data_prep.py`.
 - Long-run workflow: background queue, checkpoints under each `exp/asr_train_*/`, resume after reboot.
 
@@ -51,6 +51,15 @@ From `refs/ASR_RESULTS_TABLE.md` (section 2):
 - 10 min: CER 24.96, WER 23.48  
 - 1 h: CER 20.76, WER 18.30  
 
+### Multilingual ASR+LID and LoRA (partial data)
+
+From `refs/ASR_RESULTS_TABLE.md` (sections 3–4):
+
+- ASR+LID 10 min (`test_10min_lid`): CER 26.33, WER 25.49  
+- ASR+LID 1 h: not completed (no `RESULTS.md`)  
+- LoRA 10 min (`test_10min`): CER 24.95, WER 23.66 — vs frozen multilingual ASR 10 min, CER ~tie; WER slightly higher with LoRA  
+- LoRA 1 h: pending  
+
 ## 6) Interpretation
 
 - Pretraining matters: JEPA minimal is clearly weaker than pretrained frontends on `eng1`.
@@ -59,15 +68,18 @@ From `refs/ASR_RESULTS_TABLE.md` (section 2):
 
 ## 7) Queue Status (multilingual + PEFT)
 
-At last consolidated update: **multilingual ASR-only** (10 min, 1 h) and **LID-only** (10 min, 1 h) had **DONE** in `logs/ml_superb_multilingual_peft/master.log` and `RESULTS.md`.  
-**ASR+LID** (10 min then 1 h) and **LoRA** multilingual runs were **next** in the queue; **`collect_asr_results.py`** runs **once** after all steps. Check `master.log` for the latest **DONE** lines.
+**Done:** multilingual ASR-only (10 min, 1 h), LID-only (10 min, 1 h), ASR+LID 10 min, LoRA 10 min (all have `RESULTS.md` where applicable).  
+**Stopped:** ASR+LID 1 h (no final table).  
+**Pending:** LoRA 1 h when training/decoding finishes.  
+**Collector:** `collect_asr_results.py` refreshes **`refs/ASR_RESULTS_TABLE_eng1.md`** only.
 
 ## 8) Remaining Work
 
-1. Add **ASR+LID** and **LoRA** metrics to `ASR_RESULTS_TABLE.md` when `RESULTS.md` exists.
-2. Optionally expand `MLSUPERB` to full corpora for paper-comparable multilingual ranges.
-3. Finalize ABX numeric scoring if required (toolchain constraints may apply).
-4. Optional long-horizon WavJEPA pretraining and downstream re-check.
+1. Finish **LoRA 1 h** and add its row to `refs/ASR_RESULTS_TABLE.md` when `RESULTS.md` exists.
+2. Optionally rerun **ASR+LID 1 h** if a joint 1 h score is required.
+3. Optionally expand `MLSUPERB` to full corpora for paper-comparable multilingual ranges.
+4. Finalize ABX numeric scoring if required (toolchain constraints may apply).
+5. Optional long-horizon WavJEPA pretraining and downstream re-check.
 
 ## 9) Reproducibility Artifacts
 
@@ -84,4 +96,4 @@ At last consolidated update: **multilingual ASR-only** (10 min, 1 h) and **LID-o
 
 ## 10) One-Slide Conclusion
 
-Monolingual `eng1` benchmarks are fixed across HuBERT / JEPA / WavJEPA. Multilingual HuBERT ASR (partial MLSUPERB) is trained and scored with documented CER/WER; LID-only completed; joint ASR+LID and LoRA rows fill in as the sequential queue finishes. Full write-up: `refs/report.tex`.
+Monolingual `eng1` benchmarks are fixed across HuBERT / JEPA / WavJEPA. Multilingual tracks include frozen ASR, ASR+LID (10 min scored), and LoRA 10 min (near-tie CER vs frozen; WER slightly worse). ASR+LID 1 h was stopped; LoRA 1 h pending. Full write-up: `refs/report.tex`.

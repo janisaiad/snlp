@@ -2,6 +2,10 @@
 
 **Recap (results, data caveats, status):** [`MULTILINGUAL_RECAP.md`](MULTILINGUAL_RECAP.md) · **Briefs ↔ code (exhaustive):** [`PROJECT_EXHAUSTIVE_RECAP.md`](PROJECT_EXHAUSTIVE_RECAP.md) · **PDF report:** [`report.tex`](report.tex) · **GPU / wall times:** [`GPU_RUNTIME_TABLE.md`](GPU_RUNTIME_TABLE.md)
 
+## Dependency (LoRA / PEFT)
+
+**LoRA** steps require **`loralib`** (ESPnet adapter). It is listed in the repo root **`pyproject.toml`**; after `uv sync`, `import loralib` must succeed before `train_asr_s3prl_lora_*.yaml` runs.
+
 ## What runs (sequential, one GPU)
 
 Script: `scripts/run_ml_superb_multilingual_peft_queue.sh`
@@ -11,7 +15,8 @@ Script: `scripts/run_ml_superb_multilingual_peft_queue.sh`
 3. **ASR + LID** — `lid=true`, `only_lid=false` — same durations / configs
 4. **Multilingual ASR + LoRA** — same `run_multi.sh` flags, configs `train_asr_s3prl_lora_{10min,1h}.yaml` (HuBERT **large** + LoRA on `q_proj` / `k_proj`)
 
-Logs: `logs/ml_superb_multilingual_peft/` (`master.log`, `multi_*.log`).
+Logs: `logs/ml_superb_multilingual_peft/` (`master.log`, `multi_*.log`).  
+End of queue runs `collect_asr_results.py` → updates **`refs/ASR_RESULTS_TABLE_eng1.md`** only; full multilingual tables are **`refs/ASR_RESULTS_TABLE.md`**.
 
 ## Recipe fixes applied
 

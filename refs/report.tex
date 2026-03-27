@@ -84,9 +84,13 @@ Multilingual ASR, 1 h & 20.76 & 18.30 \\
 \texttt{exp/asr\_train\_asr\_s3prl\_10min\_multilingual\_10min\_lid/RESULTS.md}:
 CER $=26.33\%$, WER $=25.49\%$ (test set \texttt{test\_10min\_lid}).
 
-\textbf{ASR+LID 1 h} is running in the same queue
-(\texttt{exp/asr\_train\_asr\_s3prl\_1h\_multilingual\_1h\_lid/}).
-\textbf{LoRA multilingual ASR} (10 min then 1 h) is queued after ASR+LID 1 h.
+\textbf{ASR+LID 1 h} did not produce a final \texttt{RESULTS.md} (the run was stopped before completion).
+
+\subsection{Multilingual LoRA (PEFT)}
+LoRA adapters on HuBERT (ESPnet LoRA path) with \texttt{loralib} installed. On \texttt{test\_10min}, the multilingual LoRA 10~min model yields CER $=24.95\%$, WER $=23.66\%$
+(\texttt{exp/asr\_train\_asr\_s3prl\_lora\_10min\_multilingual\_10min/RESULTS.md}).
+Compared to frozen multilingual ASR 10~min (CER $24.96\%$, WER $23.48\%$), CER is \emph{essentially tied} and WER is slightly higher with LoRA.
+LoRA 1~h results are pending until the corresponding \texttt{RESULTS.md} exists.
 
 \subsection{Checkpoints}
 Each training run writes \texttt{epoch.pth}, \texttt{latest.pth}, \texttt{checkpoint.pth}, and \texttt{valid.loss.best.pth} under \texttt{exp/asr\_train\_*/}; ESPnet training uses \texttt{--resume true} when continuing after interruption.
@@ -132,7 +136,7 @@ If a figure in \texttt{rendu1.md} disagrees with \texttt{refs/ASR\_RESULTS\_TABL
 \begin{itemize}[leftmargin=*]
     \item \textbf{Master list (all results, paths, remaining work):} \texttt{refs/ALL\_RESULTS\_AND\_PATHS.md}
     \item \textbf{Exhaustive recap (briefs $\leftrightarrow$ code):} \texttt{refs/PROJECT\_EXHAUSTIVE\_RECAP.md}
-    \item Monolingual table: \texttt{refs/ASR\_RESULTS\_TABLE.md}
+    \item Full metric tables: \texttt{refs/ASR\_RESULTS\_TABLE.md}; monolingual autogen: \texttt{refs/ASR\_RESULTS\_TABLE\_eng1.md}
     \item Multilingual recap: \texttt{refs/MULTILINGUAL\_RECAP.md}
     \item GPU/wall-clock timings: \texttt{refs/GPU\_RUNTIME\_TABLE.md}
     \item Queue usage: \texttt{refs/MULTILINGUAL\_PEFT\_QUEUE.md}
@@ -144,13 +148,14 @@ If a figure in \texttt{rendu1.md} disagrees with \texttt{refs/ASR\_RESULTS\_TABL
 
 \section{Remaining work (scientific closure)}
 \begin{enumerate}[leftmargin=*]
-    \item Finalize \textbf{ASR+LID 1 h} and \textbf{LoRA} multilingual rows in tables once their \texttt{RESULTS.md} files are generated; rerun \texttt{collect\_asr\_results.py} after the queue finishes.
+    \item Obtain \textbf{LoRA 1 h} \texttt{RESULTS.md}; optionally rerun \textbf{ASR+LID 1 h} if a full joint 1~h score is required.
+    \item Refresh \texttt{refs/ASR\_RESULTS\_TABLE.md} and \texttt{refs/ASR\_RESULTS\_TABLE\_eng1.md} (the latter via \texttt{collect\_asr\_results.py} for monolingual rows only).
     \item Optionally expand \texttt{MLSUPERB} to the full corpus for paper-comparable multilingual numbers.
     \item Close ABX numeric evaluation if required for the study, subject to toolchain constraints.
     \item Optional long-horizon WavJEPA pretraining and downstream re-evaluation.
 \end{enumerate}
 
 \section{Takeaway}
-The monolingual benchmark is stable and documented. Multilingual HuBERT ASR (partial data) shows improved CER/WER versus the single-language \texttt{eng1} 10 min slice in the reported multilingual test setup, with the caveat of different language composition and data completeness. In the joint track, \textbf{ASR+LID 10 min is now completed} (CER $26.33\%$, WER $25.49\%$ on \texttt{test\_10min\_lid}); ASR+LID 1 h and LoRA runs remain the final pending steps in the active queue.
+The monolingual benchmark is stable and documented. Multilingual HuBERT ASR (partial data) shows improved CER/WER versus the single-language \texttt{eng1} 10 min slice in the reported multilingual test setup, with the caveat of different language composition and data completeness. \textbf{ASR+LID 10 min} is completed (CER $26.33\%$, WER $25.49\%$ on \texttt{test\_10min\_lid}). \textbf{LoRA 10 min} is completed and matches frozen multilingual ASR on CER while WER is slightly worse. \textbf{ASR+LID 1 h} has no final table (run stopped). \textbf{LoRA 1 h} remains pending.
 
 \end{document}

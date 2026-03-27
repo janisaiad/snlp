@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """
 Collect CER/WER from ML-SUPERB exp RESULTS.md into a single table.
-Run from repo root. Writes refs/ASR_RESULTS_TABLE.md and prints to stdout.
+Run from repo root. Writes refs/ASR_RESULTS_TABLE_eng1.md (monolingual eng1 only)
+and prints to stdout. The consolidated multilingual tables live in
+refs/ASR_RESULTS_TABLE.md (maintained by hand; do not overwrite).
 """
 from pathlib import Path
 import re
@@ -52,9 +54,13 @@ def main():
         wer = parsed.get("WER", "—")
         rows.append((display_name, cer, wer, ""))
     # Write table
-    out_path = REPO_ROOT / "refs/ASR_RESULTS_TABLE.md"
+    out_path = REPO_ROOT / "refs/ASR_RESULTS_TABLE_eng1.md"
     out_path.parent.mkdir(parents=True, exist_ok=True)
     lines = [
+        "# ASR results — monolingual eng1 only (auto-generated)",
+        "",
+        "See `refs/ASR_RESULTS_TABLE.md` for multilingual, ASR+LID, and LoRA rows.",
+        "",
         "# ASR results (eng1, 10 min, test_10min_eng1)",
         "",
         "| Frontend | CER | WER | Note |",

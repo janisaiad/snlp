@@ -61,7 +61,7 @@ The **“What Janis should do right now”** block in `rendu1.md` asks for: ML-S
 | Does **WavJEPA (pretrained)** match HuBERT on this slice? | **Yes** (tied CER/WER in reported table). |
 | **Multilingual** HuBERT ASR vs monolingual `eng1` | **Different** test sets and data coverage — **do not** compare numerically without qualification (`MULTILINGUAL_RECAP.md`). |
 | **LID-only** / **ASR+LID** | Queue runs `run_multi.sh` with `--only_lid` / `--lid`; LID-only `RESULTS.md` ASR WER/CER rows are **not** interpretable as word error; use LID accuracy from scoring logs. |
-| **LoRA** multilingual HuBERT | Configs + queue; fill **GPU_RUNTIME_TABLE.md** and `ASR_RESULTS_TABLE.md` when `RESULTS.md` exists. |
+| **LoRA** multilingual HuBERT | Configs + queue + `loralib`; **LoRA 10 min** scored in `ASR_RESULTS_TABLE.md`; **LoRA 1 h** pending. |
 | **Audio-JEPA** (Tuncay et al.) as citation | **WavJEPA** integration uses the public **WavJEPA** / **Audio-JEPA** line of work; see `rendu1.md` ref [1], `paper.md` / `README` for exact checkpoint names. |
 | **SpidR-Adapt** / **MMS** as extra SSL | **Not** run as baselines in the current tables (`idea.md` suggests them as extensions). |
 
@@ -106,7 +106,7 @@ The **“What Janis should do right now”** block in `rendu1.md` asks for: ML-S
 
 ## 8. Suggested next steps (aligned with `idea.md` + `rendu1.md`)
 
-1. **Finish** multilingual queue (ASR+LID, LoRA) → update `ASR_RESULTS_TABLE.md`, `GPU_RUNTIME_TABLE.md`, `collect_asr_results.py` output.
+1. **Finish** pending runs (LoRA 1 h; optional ASR+LID 1 h) → update `ASR_RESULTS_TABLE.md`, `GPU_RUNTIME_TABLE.md`, and `refs/ASR_RESULTS_TABLE_eng1.md` via `collect_asr_results.py` (monolingual only).
 2. **Vadim:** export per-layer features or per-language CER from `exp/` for layer-wise analysis (same protocol as `rendu1.md`).
 3. **Janis:** optional **fusion** experiment (JEPA + HuBERT) as in `idea.md` — requires new frontend or two-pass feature concat.
 4. **Bruny:** plug SER / Brain Score **outside** this repo or add a new `scripts/` eval harness.

@@ -1,6 +1,6 @@
 # Recap: multilingual ML-SUPERB, LID, and LoRA (HuBERT)
 
-This document summarizes what was **implemented**, what **finished**, and what was **still running** at the time of the consolidated report (March 2026). It complements the monolingual `eng1` benchmark in `ASR_RESULTS_TABLE.md`.
+This document summarizes what was **implemented**, what **finished**, and what is **pending or stopped**. It complements the monolingual `eng1` benchmark in `ASR_RESULTS_TABLE.md`.
 
 ## Data scope (important)
 
@@ -13,61 +13,64 @@ The multilingual recipe expects the full ML-SUPERB corpus tree under `MLSUPERB` 
 | Distinct experiment dirs per track | `models/espnet/egs2/ml_superb/asr1/run_multi.sh` | `asr_tag` and `asr_stats_dir` use suffixes `""`, `_only_lid`, `_lid` so ASR-only / LID-only / ASR+LID runs do not overwrite each other. |
 | Partial corpus tree | `models/espnet/egs2/ml_superb/asr1/local/data_prep.py` | Skip missing top-level corpus folders with a warning. |
 | LoRA configs (HuBERT large) | `conf/tuning/train_asr_s3prl_lora_10min.yaml`, `train_asr_s3prl_lora_1h.yaml` | Multilingual ASR with LoRA on selected attention projections. |
-| Full queue (sequential, 1 GPU) | `scripts/run_ml_superb_multilingual_peft_queue.sh` | Order: ASR-only 10m/1h → LID-only 10m/1h → ASR+LID 10m/1h → LoRA 10m/1h; then `collect_asr_results.py`. |
+| **LoRA dependency** | `pyproject.toml` → `loralib` | ESPnet `create_lora_adapter` requires `loralib` at import time. |
+| Full queue (sequential, 1 GPU) | `scripts/run_ml_superb_multilingual_peft_queue.sh` | Order: ASR-only 10m/1h → LID-only 10m/1h → ASR+LID 10m/1h → LoRA 10m/1h; then `collect_asr_results.py` (eng1-only autogen). |
 | Resume after reboot | `scripts/run_ml_superb_multilingual_peft_resume.sh` | Same order; **skips** steps that already have `exp/asr_${asr_tag}/RESULTS.md`. |
 | Documentation | `refs/MULTILINGUAL_PEFT_QUEUE.md` | Launch and monitor commands. |
 
 Logs: `logs/ml_superb_multilingual_peft/` (`master.log`, `multi_*.log`, `collect.log`, `resume.nohup.log`).
 
-## Queue status (from `master.log`)
+## Queue status (summary, March 2026)
 
-Completed and logged with **DONE**:
+**Completed** (each has `RESULTS.md` where ASR WER/CER apply):
 
 1. Multilingual **ASR only** — 10 min, 1 h  
-2. **LID only** — 10 min, 1 h  
+2. **LID only** — 10 min, 1 h (use LID metrics, not ASR word tables)  
+3. **ASR + LID** — **10 min only** (`test_10min_lid`)  
+4. **LoRA multilingual ASR** — **10 min only** (`test_10min`)
 
-Started (check `master.log` for **DONE**):
+**Stopped / incomplete:**
 
-3. **ASR + LID** — 10 min (**DONE**), 1 h (**RUNNING**)  
-4. **LoRA multilingual** — 10 min, 1 h (**pending**)  
-5. **`uv run python scripts/collect_asr_results.py`** — runs once at the **end** of the queue script (**pending**).
+- **ASR+LID 1 h** — training was **stopped** before a final `RESULTS.md` for `asr_train_asr_s3prl_1h_multilingual_1h_lid`.
 
-## Published metrics (multilingual ASR, test sets)
+**Pending:**
 
-From `exp/asr_train_asr_s3prl_*_multilingual_*/RESULTS.md` (ESPnet `show_asr_result` tables):
+- **LoRA 1 h** — run when `exp/asr_train_asr_s3prl_lora_1h_multilingual_1h/RESULTS.md` exists (check `master.log` for `MANUAL2 DONE lora_asr_only 1h`).
 
-| Setting | Duration | Test CER (%) | Test WER (%) |
-|---------|----------|--------------|----------------|
-| Multilingual ASR (HuBERT frozen, S3PRL) | 10 min | 24.96 | 23.48 |
-| Multilingual ASR (HuBERT frozen, S3PRL) | 1 h | 20.76 | 18.30 |
+**Collector:** `uv run python scripts/collect_asr_results.py` writes **`refs/ASR_RESULTS_TABLE_eng1.md`** (monolingual). Full multilingual tables are **`refs/ASR_RESULTS_TABLE.md`** (hand-maintained).
 
-**LID-only** runs produce `RESULTS.md` with **no word-level ASR reference** in the standard table (word count 0); interpret LID using task-specific scores / decode logs, not WER/CER from that file.
+## Published metrics (test sets)
 
-**ASR+LID 10 min** result is now available:
+### Multilingual ASR-only (HuBERT frozen)
 
-| Setting | Duration | Test CER (%) | Test WER (%) |
-|---------|----------|--------------|--------------|
-| Multilingual ASR+LID (HuBERT frozen, S3PRL) | 10 min | 26.33 | 25.49 |
+| Duration | Test CER (%) | Test WER (%) |
+|----------|--------------|--------------|
+| 10 min | 24.96 | 23.48 |
+| 1 h | 20.76 | 18.30 |
 
-**Pending rows** should be added once `RESULTS.md` exists under:
+### ASR+LID (joint)
 
-- `exp/asr_train_asr_s3prl_10min_multilingual_10min_lid/`
-- `exp/asr_train_asr_s3prl_1h_multilingual_1h_lid/`
-- `exp/asr_train_asr_s3prl_lora_10min_multilingual_10min/`
-- `exp/asr_train_asr_s3prl_lora_1h_multilingual_1h/`
+| Duration | Test CER (%) | Test WER (%) | Test set |
+|----------|--------------|--------------|----------|
+| 10 min | 26.33 | 25.49 | `test_10min_lid` |
+
+### LoRA / PEFT (multilingual ASR-only)
+
+| Duration | Test CER (%) | Test WER (%) | Test set |
+|----------|--------------|--------------|----------|
+| 10 min | 24.95 | 23.66 | `test_10min` |
+
+Compared to **frozen** multilingual ASR 10 min: **CER** is effectively tied (24.95 vs 24.96); **WER** is slightly higher with LoRA (23.66 vs 23.48).
+
+**LID-only** runs: use task-specific LID scores, not the default ASR WER/CER rows when word counts are zero.
 
 ## Checkpoints
 
-Training directories store `epoch.pth`, `latest.pth`, `checkpoint.pth`, and `valid.loss.best.pth` under each `exp/asr_train_*/` folder; ESPnet is run with `--resume true` when continuing.
+Training directories store checkpoints under each `exp/asr_train_*/` folder; ESPnet uses `--resume true` when continuing.
 
 ## GPU and wall-clock time
 
-Runs used **one GPU per job** (`--ngpu 1`, queue `ML_SUPERB_NGPU=1`) on host **`janis-gpuL4-48`** (NVIDIA **L4** class — confirm with `nvidia-smi`).
-
-- **Full queue step duration** (prep + train + decode): see **`logs/ml_superb_multilingual_peft/master.log`** between each `START` and `DONE`.
-- **Training subprocess only**: footer of each **`exp/.../train.log`** (`elapsed time … seconds`).
-
-Consolidated tables (multilingual queue, monolingual, fra1/deu1 matrix): **`refs/GPU_RUNTIME_TABLE.md`**.
+Runs used **one GPU** (`--ngpu 1`) on host **`janis-gpuL4-48`** (NVIDIA **L4** class). See **`refs/GPU_RUNTIME_TABLE.md`** and **`logs/ml_superb_multilingual_peft/master.log`** (`START` / `DONE`).
 
 ## How to reproduce (after clone)
 
@@ -75,10 +78,11 @@ Consolidated tables (multilingual queue, monolingual, fra1/deu1 matrix): **`refs
 cd /path/to/snlp
 export PATH="$(pwd)/.venv/bin:$PATH"
 export MLSUPERB="${MLSUPERB:-$(pwd)/data/ml_superb}"
+uv sync
 nohup ./scripts/run_ml_superb_multilingual_peft_resume.sh >> logs/ml_superb_multilingual_peft/resume.nohup.log 2>&1 &
 ```
 
-Full queue from scratch (re-runs finished jobs too):
+Full queue from scratch:
 
 ```bash
 nohup ./scripts/run_ml_superb_multilingual_peft_queue.sh >> logs/ml_superb_multilingual_peft.nohup.log 2>&1 &

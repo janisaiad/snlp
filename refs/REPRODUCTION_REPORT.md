@@ -3,7 +3,7 @@
 ## Monolingual benchmark (completed)
 
 - ML-SUPERB ASR for **eng1**, **10 min** (and 1 h where run): HuBERT (s3prl), JEPA minimal, WavJEPA (HF), WavJEPA (local ckpt).
-- Result collection: `uv run python scripts/collect_asr_results.py` → `refs/ASR_RESULTS_TABLE.md` (section 1).
+- Auto-generated monolingual table: `uv run python scripts/collect_asr_results.py` → **`refs/ASR_RESULTS_TABLE_eng1.md`**. The **full** table (multilingual, ASR+LID, LoRA) is **`refs/ASR_RESULTS_TABLE.md`**.
 - WavJEPA local checkpoint: `lightning_checkpoint_path` / `checkpoint_path` in ESPnet frontend; example config `conf/tuning/train_asr_wavjepa_local_10min.yaml`; runner `scripts/run_asr_wavjepa_local_benchmark.sh`.
 
 ### Numbers (test_10min_eng1)
@@ -17,10 +17,12 @@
 
 - Orchestration: `scripts/run_ml_superb_multilingual_peft_queue.sh`; resume: `scripts/run_ml_superb_multilingual_peft_resume.sh`.
 - Recipe tweaks: `run_multi.sh` (per-track `asr_tag` / stats); `local/data_prep.py` (skip missing corpora).
-- LoRA configs: `conf/tuning/train_asr_s3prl_lora_{10min,1h}.yaml`.
-- **Completed** with standard `RESULTS.md` for multilingual **ASR-only** (10 min, 1 h) and **LID-only** (10 min, 1 h). Metrics for ASR-only: see `refs/ASR_RESULTS_TABLE.md` section 2 and `refs/MULTILINGUAL_RECAP.md`.
-- **ASR+LID**: 10 min run completed (`exp/asr_train_asr_s3prl_10min_multilingual_10min_lid/RESULTS.md`), 1 h currently running in resume queue.
-- **LoRA**: pending; will run after ASR+LID 1 h in the same queue, then `collect_asr_results.py`.
+- LoRA configs: `conf/tuning/train_asr_s3prl_lora_{10min,1h}.yaml`; dependency **`loralib`** in `pyproject.toml`.
+- **Completed** with `RESULTS.md`: multilingual **ASR-only** (10 min, 1 h), **LID-only** (10 min, 1 h), **ASR+LID 10 min**, **LoRA multilingual 10 min**.
+- **ASR+LID 1 h** — no final `RESULTS.md` (run stopped).
+- **LoRA 1 h** — pending until `exp/asr_train_asr_s3prl_lora_1h_multilingual_1h/RESULTS.md` exists.
+
+**Metrics:** see **`refs/ASR_RESULTS_TABLE.md`** and **`refs/MULTILINGUAL_RECAP.md`**.
 
 ## ABX
 

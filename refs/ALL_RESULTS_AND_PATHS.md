@@ -13,7 +13,8 @@
 | File | What it is | Use it for |
 |------|------------|------------|
 | **`ALL_RESULTS_AND_PATHS.md`** (this file) | **Master list**: numbers + paths + remaining work | Day-to-day truth; share with collaborators |
-| **`ASR_RESULTS_TABLE.md`** | Compact **tables only** (CER/WER) | Quick copy-paste into slides |
+| **`ASR_RESULTS_TABLE.md`** | **Full** tables (monolingual + multilingual + ASR+LID + LoRA) | Quick copy-paste into slides |
+| **`ASR_RESULTS_TABLE_eng1.md`** | Auto-generated **monolingual eng1 only** (`collect_asr_results.py`) | Do not confuse with the full table file |
 | **`report.tex`** | **PDF/LaTeX** narrative for a formal report | Compile with `pdflatex`; not the live status dashboard |
 | **`report.md`** | **Tiny** smoke test (fbank tiny config, RAM usage) | **Not** the main results; historical minimal run |
 | **`PRESENTATION_SUMMARY.md`** | Short talk / slide bullets | Overview, not full paths |
@@ -68,15 +69,17 @@ Use **LID accuracy / decode logs** for LID metrics if needed.
 
 | Duration | Test CER | Test WER | `RESULTS.md` | Exp directory | Notes |
 |----------|----------|----------|--------------|---------------|--------|
-| 10 min | 26.33% | 25.49% | DONE | `asr_train_asr_s3prl_10min_multilingual_10min_lid` | Completed on resume queue |
-| 1 h | pending | pending | pending | `asr_train_asr_s3prl_1h_multilingual_1h_lid` | Running in resume queue |
+| 10 min | 26.33% | 25.49% | DONE | `asr_train_asr_s3prl_10min_multilingual_10min_lid` | `test_10min_lid` |
+| 1 h | — | — | **none** | `asr_train_asr_s3prl_1h_multilingual_1h_lid` | Run **stopped** before completion (no final decode table) |
 
-### 2d) Multilingual LoRA (HuBERT large + LoRA) — **not finished**
+### 2d) Multilingual LoRA / PEFT (HuBERT + LoRA, ASR-only)
 
-| Duration | `RESULTS.md` | Exp directory |
-|----------|--------------|---------------|
-| 10 min | **pending** | `asr_train_asr_s3prl_lora_10min_multilingual_10min` |
-| 1 h | **pending** | `asr_train_asr_s3prl_lora_1h_multilingual_1h` |
+**Dependency:** `loralib` (listed in repo `pyproject.toml`; ESPnet LoRA adapter requires it).
+
+| Duration | Test CER | Test WER | `RESULTS.md` | Exp directory | Notes |
+|----------|----------|----------|--------------|---------------|--------|
+| 10 min | 24.95% | 23.66% | DONE | `asr_train_asr_s3prl_lora_10min_multilingual_10min` | `test_10min`; vs frozen ASR 10 min: CER ~tie, WER slightly worse |
+| 1 h | pending | pending | pending | `asr_train_asr_s3prl_lora_1h_multilingual_1h` | Finish when `RESULTS.md` appears |
 
 **Configs:**  
 `models/espnet/egs2/ml_superb/asr1/conf/tuning/train_asr_s3prl_lora_10min.yaml`  
@@ -106,14 +109,13 @@ Numbers are in each run’s **`RESULTS.md`** (not duplicated here line-by-line).
 
 - Master timeline: `logs/ml_superb_multilingual_peft/master.log`
 - Per-job logs: `logs/ml_superb_multilingual_peft/multi_*.log`
-- Latest known timeline: **ASR+LID 10 min DONE**, then **ASR+LID 1 h START**.
+- Latest known timeline: **LoRA 10 min DONE** (`MANUAL2 DONE` in `master.log`); **LoRA 1 h** started after that; **ASR+LID 1 h** was **stopped** (no `RESULTS.md`).
 
-**Remaining order (after you rerun resume):**
+**Remaining (optional):**
 
-1. Finish **ASR+LID 1 h**.
-2. **LoRA 10 min**
-3. **LoRA 1 h**
-4. `uv run python scripts/collect_asr_results.py` (end of script; output in `logs/ml_superb_multilingual_peft/collect.log` if run)
+1. Complete **LoRA 1 h** if not finished — watch `exp/asr_train_asr_s3prl_lora_1h_multilingual_1h/RESULTS.md`.
+2. Optionally rerun **ASR+LID 1 h** if a full joint 1 h table is needed.
+3. `uv run python scripts/collect_asr_results.py` writes **`refs/ASR_RESULTS_TABLE_eng1.md`** only (monolingual); full tables stay in **`refs/ASR_RESULTS_TABLE.md`**.
 
 ---
 
@@ -125,7 +127,7 @@ Numbers are in each run’s **`RESULTS.md`** (not duplicated here line-by-line).
 | All experiment dirs | `models/espnet/egs2/ml_superb/asr1/exp/` |
 | Checkpoints (gitignored) | `exp/<asr_train_*>/*.pth` etc. |
 | Multilingual queue logs | `logs/ml_superb_multilingual_peft/` |
-| Aggregate results script | `scripts/collect_asr_results.py` |
+| Aggregate eng1-only table | `scripts/collect_asr_results.py` → `refs/ASR_RESULTS_TABLE_eng1.md` |
 | WavJEPA pretrain (optional) | `scripts/run_wavjepa_pretrain.sh`; local clone ignored: `third_party/wavjepa/` |
 
 **Environment:**
@@ -155,8 +157,8 @@ See **`refs/GPU_RUNTIME_TABLE.md`** for full tables. Short version for multiling
 1. Check each **`exp/asr_train_*/RESULTS.md`** for new CER/WER.
 2. Update **`refs/ASR_RESULTS_TABLE.md`** (tables).
 3. Update **this file** (sections 1–2 and “remaining”).
-4. Optionally run **`uv run python scripts/collect_asr_results.py`** and paste into `refs/` if your collector writes a summary.
+4. Optionally run **`uv run python scripts/collect_asr_results.py`** to refresh **`refs/ASR_RESULTS_TABLE_eng1.md`** (monolingual only).
 
 ---
 
-*Last consolidated for clarity across `report.tex`, `report.md`, and scattered `refs/*.md`.*
+*Last consolidated (March 2026): multilingual LoRA 10 min scored; ASR+LID 1 h stopped without `RESULTS.md`; LoRA 1 h pending until `RESULTS.md` exists. Full tables: `refs/ASR_RESULTS_TABLE.md`; monolingual autogen: `refs/ASR_RESULTS_TABLE_eng1.md`.*
