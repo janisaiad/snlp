@@ -19,6 +19,21 @@ from espnet2.asr.frontend.abs_frontend import AbsFrontend
 WAVJEPA_STRIDE = 160
 
 
+def _infer_jepa_size_from_lightning_state(state: dict) -> str:
+    """Match third_party/wavjepa/wavjepa/jepa.py width for encoder self-attention."""
+    for k, v in state.items():
+        if not k.endswith("encoder.layers.0.self_attn.in_proj_weight"):
+            continue
+        if hasattr(v, "shape") and len(v.shape) >= 2:
+            d_model = int(v.shape[1])
+            if d_model == 384:
+                return "small"
+            if d_model == 1024:
+                return "large"
+            return "base"
+    return "base"
+
+
 def _strip_lightning_state_dict(raw: dict) -> dict[str, torch.Tensor]:
     out: dict[str, torch.Tensor] = {}
     for key, value in raw.items():
@@ -66,10 +81,20 @@ def _build_native_jepa_for_inference(
     samples_per_audio: int,
     average_top_k_layers: int,
     compile_modules: bool,
+    model_size: Optional[str] = None,
 ) -> torch.nn.Module:
     from wavjepa.extractors import ConvFeatureExtractor
     from wavjepa.jepa import JEPA
     from wavjepa.types import TransformerEncoderCFG, TransformerLayerCFG
+
+    ckpt = torch.load(lightning_ckpt, map_location="cpu", weights_only=False)
+    state = ckpt["state_dict"] if isinstance(ckpt, dict) and "state_dict" in ckpt else ckpt
+    if not isinstance(state, dict):
+        raise ValueError(f"Unexpected checkpoint format: {lightning_ckpt}")
+    stripped = _strip_lightning_state_dict(state)
+    size = (model_size or "").strip().lower() or None
+    if size not in ("base", "small", "large"):
+        size = _infer_jepa_size_from_lightning_state(stripped)
 
     conv_spec = [(512, 10, 5)] + [(512, 3, 2)] * 4 + [(512, 2, 2)]
     extractor = ConvFeatureExtractor(
@@ -88,12 +113,9 @@ def _build_native_jepa_for_inference(
         nr_samples_per_audio=samples_per_audio,
         compile_modules=compile_modules,
         average_top_k_layers=average_top_k_layers,
+        size=size,
     )
-    ckpt = torch.load(lightning_ckpt, map_location="cpu", weights_only=False)
-    state = ckpt["state_dict"] if isinstance(ckpt, dict) and "state_dict" in ckpt else ckpt
-    if not isinstance(state, dict):
-        raise ValueError(f"Unexpected checkpoint format: {lightning_ckpt}")
-    model.load_state_dict(_strip_lightning_state_dict(state), strict=False)
+    model.load_state_dict(stripped, strict=False)
     model.eval()
     return model
 
@@ -115,6 +137,7 @@ class WavJEPAFrontend(AbsFrontend):
         pretrain_samples_per_audio: int = 8,
         pretrain_average_top_k_layers: int = 12,
         pretrain_compile_modules: bool = False,
+        pretrain_model_size: Optional[str] = None,
     ):
         try:
             from transformers import AutoFeatureExtractor, AutoModel
@@ -149,6 +172,7 @@ class WavJEPAFrontend(AbsFrontend):
             use_compile = bool(
                 frontend_conf.get("pretrain_compile_modules", pretrain_compile_modules)
             )
+            p_size = frontend_conf.get("pretrain_model_size", pretrain_model_size)
             self.native_jepa = _build_native_jepa_for_inference(
                 str(ckpt_path),
                 in_channels=inch,
@@ -157,6 +181,7 @@ class WavJEPAFrontend(AbsFrontend):
                 samples_per_audio=spa,
                 average_top_k_layers=atk,
                 compile_modules=use_compile,
+                model_size=str(p_size) if p_size else None,
             )
             self.pretrained_params = None
             self.frontend_type = "wavjepa_native_ckpt"

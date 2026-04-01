@@ -66,3 +66,16 @@ logs/
 # vendor clone (run ./scripts/setup_wavjepa.sh); do not submodule-commit 5GB+ tree
 third_party/wavjepa/
 exports/layer_importance_package.tar
+refs/report_beamer.tex
+refs/finalreport.tex
+refs/report.tex
+refs/finalreport.tex
+refs/finalreport.tex
+refs/report_beamer.aux
+refs/report_beamer.log
+refs/report_beamer.nav
+refs/report_beamer.out
+refs/report_beamer.pdf
+refs/report_beamer.snm
+refs/report_beamer.toc
+refs/report.tex

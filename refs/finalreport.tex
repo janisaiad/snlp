@@ -65,7 +65,7 @@ Due to partial corpus availability (focusing on \texttt{eng}, \texttt{deu}, \tex
 
 \begin{table}[h]
     \centering
-    \caption{Multilingual ASR metrics (HuBERT frozen, ASR-only)}
+    \caption{Multilingual ASR metrics (HuBERT ASR-only)}
     \begin{tabular}{@{}lcc@{}}
         \toprule
         \textbf{Setting} & \textbf{CER (\%)} & \textbf{WER (\%)} \\ \midrule
@@ -74,29 +74,15 @@ Due to partial corpus availability (focusing on \texttt{eng}, \texttt{deu}, \tex
     \end{tabular}
 \end{table}
 
-We observe a clear \textbf{scaling effect}: moving from 10 minutes to 1 hour of data results in a \textbf{16.8\% relative reduction in CER}. This highlights that even with a frozen frontend, the lightweight CTC head benefits significantly from the increased phonetic diversity and regularization provided by the multilingual pool.
+We observe a clear \textbf{scaling effect}: moving from 10 minutes to 1 hour of data results in a \textbf{16.8\% relative reduction in CER}. This highlights that even with a frozen frontend, the lightweight CTC head benefits significantly from the increased phonetic diversity and regularization provided by the multilingual pool. 
 
-\begin{table}[h]
-    \centering
-    \caption{Multilingual joint ASR+LID and PEFT (LoRA) vs.\ frozen ASR-only at 10 min. Test sets: \texttt{test\_10min\_lid} (joint), \texttt{test\_10min} (LoRA vs.\ frozen).}
-    \begin{tabular}{@{}lccc@{}}
-        \toprule
-        \textbf{Track} & \textbf{CER (\%)} & \textbf{WER (\%)} & \textbf{Note} \\ \midrule
-        ASR-only (frozen HuBERT) & 24.96 & 23.48 & baseline row \\
-        ASR+LID joint & 26.33 & 25.49 & +LID token; slightly harder objective \\
-        LoRA (HuBERT + adapters) & 24.95 & 23.66 & PEFT; \texttt{loralib} \\ \bottomrule
-    \end{tabular}
-\end{table}
-
-Regarding \textbf{Language Identification (LID)}, the LID-only tracks (10 min and 1 h) completed; for those runs, standard word-level WER/CER tables are not interpretable (reference word count is zero), so LID quality is read from task-specific scores in the logs. The \textbf{ASR+LID (10 min)} joint model achieves \textbf{26.33\% CER} and \textbf{25.49\% WER} on \texttt{test\_10min\_lid}, confirming simultaneous transcription and language conditioning at the cost of a modest degradation versus ASR-only.
-
-For \textbf{LoRA} (parameter-efficient fine-tuning on selected HuBERT attention projections), the 10-minute multilingual run yields \textbf{24.95\% CER} and \textbf{23.66\% WER} on \texttt{test\_10min}. Compared to frozen ASR-only at the same budget, CER is effectively \textbf{tied} (24.95 vs.\ 24.96), while WER is slightly higher (23.66 vs.\ 23.48). This suggests that, on this partial three-language setup, lightweight adapter training does not clearly outperform a frozen encoder plus CTC head; the \textbf{1 h LoRA} run remains to be reported. The \textbf{ASR+LID 1 h} joint run was not carried to a final scored checkpoint in time for this report.
+Regarding \textbf{Language Identification (LID)}, the 10-minute track is completed. Note that for "LID-only" runs, traditional WER/CER metrics are not reported as the reference word count is zero; performance is instead validated via specific classification scores in the logs. The \textbf{ASR+LID (10 min)} joint track yielded a CER of 26.33\%, confirming the feasibility of simultaneous transcription and language classification.
 
 \subsection*{Progress and Next Steps}
-The pipeline advancement is estimated at \textbf{$\sim$80\%} for the ASR/multilingual track: monolingual benchmarks, multilingual frozen ASR, LID-only, ASR+LID (10 min), and LoRA (10 min) are scored; remaining items include:
+The current advancement is estimated at \textbf{70\%}. While the monolingual benchmarks and 10-minute joint tracks are stable, the following steps are prioritized:
 \begin{itemize}
-    \item Obtain final \textbf{LoRA 1 h} metrics and optionally rerun \textbf{ASR+LID 1 h} if a full one-hour joint table is required.
-    \item Complete the numerical \textbf{ABX evaluation} using the developed tooling to quantify the phonetic discriminability of JEPA vs.\ HuBERT representations independently of the ASR head.
+    \item Finalize the \textbf{ASR+LID 1 h} and \textbf{LoRA} (PEFT) rows. The LoRA experiments are particularly critical to test if targeted adaptation of the encoder's projection layers allows JEPA to resolve language-specific phonetic nuances more effectively than the purely frozen setup.
+    \item Complete the numerical \textbf{ABX evaluation} using the developed tooling to quantify the phonetic discriminability of JEPA vs. HuBERT representations independently of the ASR head.
     \item Explore long-horizon WavJEPA pre-training to determine the performance ceiling of the local checkpoint.
 \end{itemize}
 % ==============================================================================
@@ -108,10 +94,10 @@ The pipeline advancement is estimated at \textbf{$\sim$80\%} for the ASR/multili
 \textit{Contributor: Vadim}
 
 \subsection{Objective and Scope}
-As highlighted in the ML-SUPERB benchmark regarding the complexity of Asian languages and the instability of certain SSL models in very low-resource regimes, our initial objective was to include Mandarin (CMN) in this interpretability study to contrast with Western European language families. However, due to significant environment-related technical challenges and persistent bugs in the Mandarin data preparation pipeline, we shifted our focus to a comparative analysis between the findings of Shi et al. [cite: 2] on XLSR and our own results using HuBERT and JEPA.
+As highlighted in the ML-SUPERB benchmark regarding the complexity of Asian languages and the instability of certain SSL models in very low-resource regimes, our initial objective was to include Mandarin (CMN) in this interpretability study to contrast with Western European language families. However, due to significant environment-related technical challenges and persistent bugs in the Mandarin data preparation pipeline, we shifted our focus to a comparative analysis between the findings of Shi et al.  on XLSR and our own results using HuBERT and JEPA.
 
 \subsection{Methodology: Testing the XLSR Hypothesis}
-The original ML-SUPERB paper performs a layer-wise weight analysis on the XLSR-128 model[cite: 170]. Their study concludes that the most relevant layers for ASR are located in the middle of the encoder stack and explicitly states that the terminal layers are not the primary drivers of transcription performance. We conducted a similar analysis on our HuBERT and JEPA models to determine if this "middle-layer dominance" is a universal property of speech SSL or an architecture-specific trait.
+The original ML-SUPERB paper performs a layer-wise weight analysis on the XLSR-128 model. Their study concludes that the most relevant layers for ASR are located in the middle of the encoder stack and explicitly states that the terminal layers are not the primary drivers of transcription performance. We conducted a similar analysis on our HuBERT and JEPA models to determine if this "middle-layer dominance" is a universal property of speech SSL or an architecture-specific trait.
 
 \subsection{Results and Interpretation: The HuBERT-XLSR Divergence}
 Our results reveal a stark contradiction to the behavior observed in XLSR models, suggesting that the underlying pre-training objective fundamentally reshapes the internal hierarchy of the latent space.
@@ -173,7 +159,7 @@ The technical implementation is built on the \textbf{ESPnet} framework (\texttt{
 \begin{itemize}
     \item \textbf{S3PRL Patching:} Manual modification of the S3PRL library to bypass deprecated \texttt{torchaudio} dependencies.
     \item \textbf{WavJEPA Integration:} Development of a custom loader for local WavJEPA checkpoints (Lightning) within the ESPnet frontend.
-    \item \textbf{Automation:} Orchestration scripts for sequential queuing (\texttt{run\_multi.sh}, multilingual PEFT queue/resume) and monolingual table export (\texttt{collect\_asr\_results.py} $\rightarrow$ \texttt{refs/ASR\_RESULTS\_TABLE\_eng1.md}); full multilingual tables are maintained in \texttt{refs/ASR\_RESULTS\_TABLE.md}.
+    \item \textbf{Automation:} Implementation of orchestration scripts for sequential queuing (\texttt{run\_multi.sh}) and automated result collection (\texttt{collect\_asr\_results.py}).
 \end{itemize}
 
 \subsection*{Hardware and Runtime Performance}

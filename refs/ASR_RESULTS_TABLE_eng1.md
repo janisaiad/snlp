@@ -6,9 +6,9 @@ See `refs/ASR_RESULTS_TABLE.md` for multilingual, ASR+LID, and LoRA rows.
 
 | Frontend | CER | WER | Note |
 |----------|-----|-----|------|
-| HuBERT (frozen) | 33.33% | 24.14% |  |
-| JEPA minimal | 62.22% | 44.83% |  |
-| WavJEPA (HF) | 33.33% | 24.14% |  |
-| WavJEPA (local pretrain ckpt) | 33.33% | 24.14% |  |
+| HuBERT (frozen) | 60.00% | 13.79% |  |
+| JEPA minimal | 28.89% | 13.79% |  |
+| WavJEPA (HF) | 100.00% | 13.79% |  |
+| WavJEPA (local pretrain ckpt) | 100.00% | 13.79% |  |
 
 Generated from `exp/*/RESULTS.md` under /root/snlp/models/espnet/egs2/ml_superb/asr1/exp.
