@@ -1,5 +1,7 @@
 # ML-SUPERB minimal run report
 
+> **Note (présentation / piste Janis, avril 2026) :** ce fichier est un **jalon historique** (pipeline minimal, grille de progression type « ~70 % »). Le **récit à jour** sur expériences JEPA/WavJEPA, multilingue, ABX 311 énoncés, limites « papier » et prochain bloc est dans **`refs/report_beamer.pdf`** (+ script oral `refs/script.md`). En cas d’écart de chiffres ou de statut, **faire foi au deck** et aux logs d’expérience.
+
 > **Main results + paths + what is left:** [`ALL_RESULTS_AND_PATHS.md`](ALL_RESULTS_AND_PATHS.md). For briefs ↔ code, see [`PROJECT_EXHAUSTIVE_RECAP.md`](PROJECT_EXHAUSTIVE_RECAP.md); for PDF, [`report.tex`](report.tex). **This file** is only a **minimal** fbank smoke test (RAM), not the project scoreboard.
 
 ## Run setup

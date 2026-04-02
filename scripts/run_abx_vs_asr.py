@@ -58,6 +58,7 @@ def run_abx_on_feats(
 
     def npy_feature_maker(path: str | Path) -> torch.Tensor:
         arr = np.load(str(path)).astype(np.float32)
+        arr = np.nan_to_num(arr, nan=0.0, posinf=0.0, neginf=0.0)
         if pool_mean:
             arr = arr.mean(axis=0, keepdims=True)
         return torch.from_numpy(arr)
