@@ -1,0 +1,114 @@
+\documentclass[aspectratio=169]{beamer}
+\usetheme{Madrid}
+\setbeamerfont{subtitle}{shape=\upshape}
+\setbeamerfont{institute}{shape=\upshape}
+\setbeamerfont{author}{shape=\upshape}
+\setbeamerfont{date}{shape=\upshape}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{booktabs}
+\usepackage{amsmath}
+
+\title{ML-SUPERB \& JEPA}
+\subtitle{Trois slides pour le rapport principal (\texttt{report.tex})}
+\author{Janis Vadim Bruny}
+\date{3 avril 2026}
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}{Problème et positionnement}
+\begin{itemize}
+\item Protocole \textbf{ML-SUPERB} : encodeur SSL \textbf{gelé}, petite tête \textbf{CTC}, budgets \textbf{10 min / 1 h} par langue.
+\item Question centrale : comparer des représentations \textbf{JEPA / WavJEPA} à \textbf{HuBERT} sous la \textbf{même} recette downstream.
+\item Résultats ASR : on rapporte \textbf{CER} et \textbf{WER} après décodage et scoring MLSUPERB — \textbf{tableau agrégé} sur la slide suivante, détail par langue dans \texttt{report.tex}.
+\item Multilingue : mélange \texttt{eng} / \texttt{deu} / \texttt{fra} ; conditions comparées : \textbf{ASR seul} (10 min et 1 h), \textbf{ASR+LID} (10 min), \textbf{LoRA} sur ASR seul (10 min).
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Représentations et benchmarks (mono, multilingue, ABX)}
+\small ABX mesure la séparabilité phonétique dans le latent ; CER/WER mesurent l’alignement texte.
+
+\vspace{0.3em}
+\begin{columns}[T]
+\begin{column}{0.52\textwidth}
+\textbf{Multilingue \& adaptation} \\
+\small
+\begin{tabular}{@{}lcc@{}}
+\toprule
+Réglage & CER & WER \\
+\midrule
+ASR-only 10 min & 24.96 & 23.48 \\
+ASR-only 1 h & 20.76 & 18.30 \\
+ASR+LID 10 min & 26.33 & 25.49 \\
+LoRA ASR-only 10 min & 24.95 & 23.66 \\
+\bottomrule
+\end{tabular}
+
+\vspace{0.2em}
+\small
+\begin{itemize}\setlength\itemsep{0.1em}
+\item LoRA : pas de gain
+\item 10 min $\rightarrow$ 1 h : grand écart
+\end{itemize}
+\end{column}
+\begin{column}{0.46\textwidth}
+\textbf{ABX} \\
+\vspace{0.2em}
+\begin{tabular}{@{}lc@{}}
+\toprule
+Modèle & err. ABX \\
+\midrule
+HuBERT & 0.5216 \\
+WavJEPA HF & 0.5895 \\
+$\Delta$ (W $-$ H) & +0.0679 \\
+\bottomrule
+\end{tabular}
+
+\vspace{0.2em}
+\small
+\begin{itemize}\setlength\itemsep{0.1em}
+\item HuBERT mieux sur ABX.
+\item $\Delta$ ABX positif : HuBERT devant.
+\end{itemize}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Dérive des poids}
+\begin{columns}[T]
+\begin{column}{0.55\textwidth}
+\textbf{Temps de training} \\
+\vspace{0.2em}
+\begin{tabular}{@{}lc@{}}
+\toprule
+Piste & L4 (h) \\
+\midrule
+Multi.\ ASR 10 min & 5.93 \\
+Multi.\ ASR 1 h & 11.22 \\
+LID-only 10 min & 4.93 \\
+LID-only 1 h & 11.17 \\
+WavJEPA ASR \texttt{eng1} HF & 1.99 \\
+WavJEPA ASR \texttt{eng1} local & 1.62 \\
+\bottomrule
+\end{tabular}
+\end{column}
+\begin{column}{0.43\textwidth}
+\textbf{Dérive des poids} \\
+\small
+\begin{itemize}\setlength\itemsep{0.15em}
+\item Cosinus moyen (HF / local) $\approx -0{,}008$ ; ratio normes local/HF $\approx 1{,}59$.
+\item Lignes \texttt{ctc\_lo} : cosinus moyen $\approx 0{,}032$ entre runs HF et local.
+\end{itemize}
+\end{column}
+\end{columns}
+
+\vspace{0.35em}
+\small \textbf{Conclusion :} la perte SSL peut baisser sans aligner le CER/WER ; espace latent et géométrie CTC peuvent \textbf{tourner} tout en gardant des scores ASR proches en bas budget.
+\end{frame}
+
+\end{document}
